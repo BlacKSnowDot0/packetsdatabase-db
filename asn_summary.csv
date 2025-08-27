@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87512
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21528
-"AS398324","Censys, Inc.",10078
+"AS398324","Censys, Inc.",10080
 "AS396982","Google LLC",9433
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6735
@@ -11,14 +11,14 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4399
 "AS16509","Amazon.com, Inc.",3832
-"AS63949","Akamai Technologies, Inc.",3433
-"AS45102","Alibaba (US) Technology Co., Ltd.",3312
+"AS63949","Akamai Technologies, Inc.",3434
+"AS45102","Alibaba (US) Technology Co., Ltd.",3313
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3160
 "AS51396","Pfcloud UG",2967
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2522
-"AS8075","Microsoft Corporation",2417
+"AS8075","Microsoft Corporation",2418
 "AS6939","Hurricane Electric LLC",2050
 "AS9808","China Mobile",2044
 "AS214295","SKYNET NETWORK LTD",1631
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1127
 "AS49870","Alsycon B.V.",1092
 "AS201401","NewVM B.V.",1076
-"AS43260","DGN TEKNOLOJI A.S.",978
+"AS43260","DGN TEKNOLOJI A.S.",979
 "AS0","",966
 "AS208684","BHA CONSEIL SARL",929
 "AS51852","Private Layer INC",907
@@ -57,7 +57,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",469
 "AS201814","MEVSPACE sp. z o.o.",462
 "AS212238","Datacamp Limited",454
-"AS32475","Internap Holding LLC",407
+"AS32475","Internap Holding LLC",408
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",403
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -78,7 +78,7 @@ ASN,Organization,IP_Count
 "AS209272","Alviva Holding Limited",230
 "AS47890","UNMANAGED LTD",228
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
-"AS12876","ONLINE S.A.S.",215
+"AS12876","ONLINE S.A.S.",216
 "AS14987","Rethem Hosting LLC",215
 "AS7713","Telekomunikasi Indonesia (PT)",210
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",204
@@ -142,8 +142,8 @@ ASN,Organization,IP_Count
 "AS57588","Hayat for Internet & communication LLC",49
 "AS266181","GOLDEN LINK",47
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
+"AS271795","SERVITELCONET CIA. LTDA.",46
 "AS11320","LightEdge Solutions",45
-"AS271795","SERVITELCONET CIA. LTDA.",45
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
 "AS152194","CTG Server Limited",43
@@ -161,10 +161,10 @@ ASN,Organization,IP_Count
 "AS150263","PT Alnet Telekomunikasi Indonesia",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS4538","China Education and Research Network Center",34
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",33
 "AS23969","TOT Public Company Limited",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",32
 "AS210558","1337 Services GmbH",32
 "AS262378","Compuservice Empreendimentos Ltda",32
 "AS42624","Global-Data System IT Corporation",32
