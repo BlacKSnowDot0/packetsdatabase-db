@@ -45,22 +45,17 @@ jobs:
           echo "Generated ip_list.txt"
 
           # --- DATA ANALYSIS FORMATS ---
-          # Create header for CSV and then append data
           echo "IP,Port,Protocol,Country,ASN,Organization,ISP" > full_data.csv
-          # FIXED: Changed .["1"] to .[1], etc.
           jq -r '.data[] | [.[1], .[2], .[7], .[9], .[10], .[11], .[12]] | @csv' data.json >> full_data.csv
           echo "Generated full_data.csv"
 
-          # Create JSON Lines format (This one was already correct)
           jq -c '.data[] | {ip: .[1], port: .[2], protocol: .[7], country: .[9], asn: .[10], organization: .[11], isp: .[12]}' data.json > full_data.jsonl
           echo "Generated full_data.jsonl"
 
           # --- FIREWALL FORMATS ---
-          # NGINX Blocklist
           jq -r '.data[][1]' data.json > nginx_blocklist.conf
           echo "Generated nginx_blocklist.conf"
 
-          # iptables Blocklist Script
           echo '#!/bin/bash' > iptables_blocklist.sh
           echo '# This script will add all IPs from the list to your iptables DROP chain.' >> iptables_blocklist.sh
           jq -r '.data[][1] | "iptables -A INPUT -s \(.) -j DROP"' data.json >> iptables_blocklist.sh
@@ -68,34 +63,35 @@ jobs:
           echo "Generated iptables_blocklist.sh"
 
           # --- TARGETED BLOCKING ---
-          # IPs attacking SSH (Port 22)
           jq -r '.data[] | select(.[2] == 22) | .[1]' data.json > port_22_ssh.txt
           echo "Generated port_22_ssh.txt"
 
-          # IPs attacking RDP (Port 3389)
           jq -r '.data[] | select(.[2] == 3389) | .[1]' data.json > port_3389_rdp.txt
           echo "Generated port_3389_rdp.txt"
           
-          # ASN Summary
           echo "ASN,Organization,IP_Count" > asn_summary.csv
-          # FIXED: Changed .["10"] to .[10] and .["11"] to .[11]
           jq -r '.data[] | [.[10], .[11]] | @csv' data.json | sort | uniq -c | sort -nr | awk 'BEGIN{FS=OFS=","} {gsub(/^[ \t]+/, "", $1); gsub(/"/, "", $3); print $2, $3, $1}' >> asn_summary.csv
           echo "Generated asn_summary.csv"
 
       - name: Update README count
+        id: update_readme # Give step an id to reference its outputs
         run: |
-          # ... (This step remains the same)
           IP_COUNT=$(wc -l < ip_list.txt | awk '{print $1}')
           COUNT_FORMATTED=$(printf "%'d" $IP_COUNT)
           BADGE_URL="https://img.shields.io/badge/IPs%20Tracked-${COUNT_FORMATTED}-blue?style=for-the-badge"
-          sed -i "s|<!-- IP_COUNT_PLACEHOLDER -->|![IPs Tracked](${BADGE_URL})|g" README.md
-
+          BADGE_MARKDOWN="![IPs Tracked](${BADGE_URL})"
+          
+          # This robust command replaces content between the markers without deleting them.
+          # It will work on every subsequent run.
+          sed -i "s|<!--START_IP_COUNT_BADGE-->.*<!--END_IP_COUNT_BADGE-->|<!--START_IP_COUNT_BADGE-->${BADGE_MARKDOWN}<!--END_IP_COUNT_BADGE-->|g" README.md
+          
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Use 'git add .' to automatically add all new and modified files
+          # IMPORTANT: Make sure you have a .gitignore file in your repo that contains "data.json"
+          # This will prevent the large raw data file from being committed.
           git add .
           
           if ! git diff --staged --quiet; then
