@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87513
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21532
-"AS398324","Censys, Inc.",10098
+"AS398324","Censys, Inc.",10100
 "AS396982","Google LLC",9435
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6748
+"AS14061","DigitalOcean, LLC",6749
 "AS16276","OVH SAS",5529
 "AS4134","Chinanet",4767
 "AS6568","Entel S.A. - EntelNet",4536
@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",2969
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2523
-"AS8075","Microsoft Corporation",2422
+"AS8075","Microsoft Corporation",2423
 "AS6939","Hurricane Electric LLC",2052
 "AS9808","China Mobile",2044
 "AS214295","SKYNET NETWORK LTD",1631
@@ -57,7 +57,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",469
 "AS201814","MEVSPACE sp. z o.o.",462
 "AS212238","Datacamp Limited",454
-"AS32475","Internap Holding LLC",419
+"AS32475","Internap Holding LLC",420
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",403
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -71,7 +71,7 @@ ASN,Organization,IP_Count
 "AS210848","Telkom Internet LTD",296
 "AS53667","FranTech Solutions",278
 "AS9341","PT Indonesia Comnets Plus",278
-"AS9829","Bharat Sanchar Nigam Ltd",271
+"AS9829","Bharat Sanchar Nigam Ltd",272
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",264
 "AS60223","Netiface Limited",247
 "AS48090","TECHOFF SRV LIMITED",245
@@ -81,7 +81,7 @@ ASN,Organization,IP_Count
 "AS12876","ONLINE S.A.S.",217
 "AS14987","Rethem Hosting LLC",215
 "AS7713","Telekomunikasi Indonesia (PT)",210
-"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",207
+"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",208
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",204
 "AS13335","Cloudflare, Inc.",197
 "AS401116","Nybula LLC",169
@@ -414,6 +414,7 @@ ASN,Organization,IP_Count
 "AS17858","LG POWERCOMM",5
 "AS18229","CtrlS",5
 "AS199414","Noah Kolossa",5
+"AS200514","KnownSRV Ltd.",5
 "AS202468","Noyan Abr Arvan Co. ( Private Joint Stock)",5
 "AS207656","Epinatura LLC",5
 "AS21056","Vianova S.p.A",5
@@ -464,7 +465,6 @@ ASN,Organization,IP_Count
 "AS17552","TRUE INTERNET CORPORATION CO. LTD.",4
 "AS17676","SoftBank Corp.",4
 "AS198983","Joseph Hofmann trading as 'Tornado Datacenter GmbH & Co. KG'",4
-"AS200514","KnownSRV Ltd.",4
 "AS20115","Charter Communications",4
 "AS202520","SkyPass Solutions Sp. z.o.o.",4
 "AS203380","DA International Group Ltd.",4
