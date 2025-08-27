@@ -47,10 +47,11 @@ jobs:
           # --- DATA ANALYSIS FORMATS ---
           # Create header for CSV and then append data
           echo "IP,Port,Protocol,Country,ASN,Organization,ISP" > full_data.csv
-          jq -r '.data[] | [.["1"], .["2"], .["7"], .["9"], .["10"], .["11"], .["12"]] | @csv' data.json >> full_data.csv
+          # CORRECTED: Removed quotes from array indices [1], [2], etc.
+          jq -r '.data[] | [.[1], .[2], .[7], .[9], .[10], .[11], .[12]] | @csv' data.json >> full_data.csv
           echo "Generated full_data.csv"
 
-          # Create JSON Lines format
+          # Create JSON Lines format (This command was already correct)
           jq -c '.data[] | {ip: .[1], port: .[2], protocol: .[7], country: .[9], asn: .[10], organization: .[11], isp: .[12]}' data.json > full_data.jsonl
           echo "Generated full_data.jsonl"
 
@@ -77,15 +78,51 @@ jobs:
           
           # ASN Summary
           echo "ASN,Organization,IP_Count" > asn_summary.csv
-          jq -r '.data[] | [.["10"], .["11"]] | @csv' data.json | sort | uniq -c | sort -nr | awk 'BEGIN{FS=OFS=","} {gsub(/^[ \t]+/, "", $1); gsub(/"/, "", $3); print $2, $3, $1}' >> asn_summary.csv
+          # CORRECTED: Removed quotes from array indices [10] and [11]
+          jq -r '.data[] | [.[10], .[11]] | @csv' data.json | sort | uniq -c | sort -nr | awk 'BEGIN{FS=OFS=","} {gsub(/^[ \t]+/, "", $1); gsub(/"/, "", $3); print $2, $3, $1}' >> asn_summary.csv
           echo "Generated asn_summary.csv"
 
-      # This step for charts can remain as is, if you are keeping it.
-      # (I will omit it from this code block for brevity, but you should keep it in your file if you want charts)
+      # (Your steps for charts and README update go here, they don't need changes)
+      - name: Generate Statistics and Charts
+        # ... (This step remains the same)
+        run: |
+          echo "Generating charts from data..."
+          ISP_DATA=$(jq -r '.data[][10]' data.json | sort | uniq -c | sort -nr | head -n 10)
+          ISP_LABELS=$(echo "$ISP_DATA" | awk '{$1=""; print $0}' | sed 's/^ *//' | jq -R . | jq -s .)
+          ISP_VALUES=$(echo "$ISP_DATA" | awk '{print $1}' | jq -s .)
+          ISP_CHART_CONFIG=$(cat <<EOF
+          {type:'bar',data:{labels:$ISP_LABELS,datasets:[{label:'Top 10 ISPs',backgroundColor:'rgba(54, 162, 235, 0.5)',borderColor:'rgb(54, 162, 235)',borderWidth:1,data:$ISP_VALUES}]},options:{indexAxis:'y',plugins:{legend:{display:false}},title:{display:true,text:'Top 10 ISPs by Entry Count'}}}
+          EOF
+          )
+          ENCODED_ISP_CHART=$(echo "$ISP_CHART_CONFIG" | jq -c . | curl -s -X POST -H "Content-Type: application/json" -d @- "https://quickchart.io/chart/create" | jq -r .url)
+          curl -s -o isp_chart.png "$ENCODED_ISP_CHART"
+          PROTOCOL_DATA=$(jq -r '.data[][7]' data.json | sort | uniq -c | sort -nr)
+          PROTOCOL_LABELS=$(echo "$PROTOCOL_DATA" | awk '{$1=""; print $0}' | sed 's/^ *//' | jq -R . | jq -s .)
+          PROTOCOL_VALUES=$(echo "$PROTOCOL_DATA" | awk '{print $1}' | jq -s .)
+          PROTOCOL_CHART_CONFIG=$(cat <<EOF
+          {type:'pie',data:{labels:$PROTOCOL_LABELS,datasets:[{data:$PROTOCOL_VALUES}]},options:{plugins:{datalabels:{color:'#fff',formatter:(value,context)=>{let sum=context.chart.getDatasetMeta(0).total;let percentage=(value*100/sum).toFixed(2)+'%';return percentage;}},piechartOutlabels:{text:'%l %p',color:'white',stretch:35,font:{resizable:true,minSize:12,maxSize:18}}},title:{display:true,text:'Protocol Distribution'}}}
+          EOF
+          )
+          ENCODED_PROTOCOL_CHART=$(echo "$PROTOCOL_CHART_CONFIG" | jq -c . | curl -s -X POST -H "Content-Type: application/json" -d @- "https://quickchart.io/chart/create" | jq -r .url)
+          curl -s -o protocol_chart.png "$ENCODED_PROTOCOL_CHART"
+          TYPE_DATA=$(jq -r '.data[][7]' data.json | grep -E '^(TCP|UDP)$' | sort | uniq -c | sort -nr)
+          TYPE_LABELS=$(echo "$TYPE_DATA" | awk '{$1=""; print $0}' | sed 's/^ *//' | jq -R . | jq -s .)
+          TYPE_VALUES=$(echo "$TYPE_DATA" | awk '{print $1}' | jq -s .)
+          TYPE_CHART_CONFIG=$(cat <<EOF
+          {type:'doughnut',data:{labels:$TYPE_LABELS,datasets:[{data:$TYPE_VALUES,backgroundColor:['rgb(255, 99, 132)','rgb(54, 162, 235)']}]},options:{title:{display:true,text:'TCP vs. UDP'}}}
+          EOF
+          )
+          ENCODED_TYPE_CHART=$(echo "$TYPE_CHART_CONFIG" | jq -c . | curl -s -X POST -H "Content-Type: application/json" -d @- "https://quickchart.io/chart/create" | jq -r .url)
+          curl -s -o type_chart.png "$ENCODED_TYPE_CHART"
+          if [ -s isp_chart.png ] && [ -s protocol_chart.png ] && [ -s type_chart.png ]; then
+            echo "Charts generated successfully."
+          else
+            echo "Error: One or more charts failed to generate."
+            exit 1
+          fi
 
       - name: Update README count
         run: |
-          # ... (This step remains the same)
           IP_COUNT=$(wc -l < ip_list.txt | awk '{print $1}')
           COUNT_FORMATTED=$(printf "%'d" $IP_COUNT)
           BADGE_URL="https://img.shields.io/badge/IPs%20Tracked-${COUNT_FORMATTED}-blue?style=for-the-badge"
@@ -96,7 +133,6 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Use 'git add .' to automatically add all new and modified files
           git add .
           
           if ! git diff --staged --quiet; then
