@@ -8,7 +8,9 @@ on:
   # Runs on a schedule (every 30 minutes)
   schedule:
     - cron: '*/30 * * * *'
-
+permissions:
+  contents: write
+  
 jobs:
   build:
     runs-on: ubuntu-latest
