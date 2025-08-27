@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87513
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21532
-"AS398324","Censys, Inc.",10112
-"AS396982","Google LLC",9438
+"AS398324","Censys, Inc.",10116
+"AS396982","Google LLC",9439
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6749
 "AS16276","OVH SAS",5530
@@ -12,13 +12,13 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4399
 "AS16509","Amazon.com, Inc.",3832
 "AS63949","Akamai Technologies, Inc.",3435
-"AS45102","Alibaba (US) Technology Co., Ltd.",3321
+"AS45102","Alibaba (US) Technology Co., Ltd.",3323
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3160
 "AS51396","Pfcloud UG",2969
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2523
-"AS8075","Microsoft Corporation",2431
+"AS8075","Microsoft Corporation",2433
 "AS6939","Hurricane Electric LLC",2052
 "AS9808","China Mobile",2044
 "AS214295","SKYNET NETWORK LTD",1631
@@ -31,11 +31,11 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1127
 "AS49870","Alsycon B.V.",1093
 "AS201401","NewVM B.V.",1076
-"AS43260","DGN TEKNOLOJI A.S.",1014
+"AS43260","DGN TEKNOLOJI A.S.",1017
 "AS0","",969
 "AS208684","BHA CONSEIL SARL",930
 "AS51852","Private Layer INC",907
-"AS22552","eSited Solutions",900
+"AS22552","eSited Solutions",901
 "AS174","Cogent Communications",866
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -49,8 +49,8 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",509
 "AS140292","China Telecom",508
+"AS36352","HostPapa",500
 "AS14618","Amazon.com, Inc.",499
-"AS36352","HostPapa",499
 "AS9009","M247 Europe SRL",493
 "AS50360","Tamatiya EOOD",492
 "AS10439","CariNet, Inc.",482
@@ -69,7 +69,7 @@ ASN,Organization,IP_Count
 "AS24863","LINKdotNET AS number",307
 "AS51115","HLL LLC",302
 "AS210848","Telkom Internet LTD",296
-"AS53667","FranTech Solutions",279
+"AS53667","FranTech Solutions",280
 "AS9341","PT Indonesia Comnets Plus",278
 "AS9829","Bharat Sanchar Nigam Ltd",272
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",264
@@ -82,9 +82,9 @@ ASN,Organization,IP_Count
 "AS14987","Rethem Hosting LLC",215
 "AS7713","Telekomunikasi Indonesia (PT)",210
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",208
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",204
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",205
 "AS13335","Cloudflare, Inc.",197
-"AS401116","Nybula LLC",169
+"AS401116","Nybula LLC",170
 "AS12389","PJSC Rostelecom",168
 "AS12555","Data-center IMAQLIQ Ltd.",165
 "AS208843","Alpha Strike Labs GmbH",164
@@ -125,9 +125,9 @@ ASN,Organization,IP_Count
 "AS14956","RouterHosting LLC",63
 "AS140717","China Unicom",61
 "AS16735","ALGAR TELECOM S/A",58
+"AS205352","KABELNET LTD",58
 "AS4812","China Telecom (Group)",58
 "AS20278","Nexeon Technologies, Inc.",57
-"AS205352","KABELNET LTD",57
 "AS3920","ESTOXY OU",57
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
@@ -187,10 +187,10 @@ ASN,Organization,IP_Count
 "AS3209","Vodafone GmbH",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",25
+"AS12816","Leibniz-Rechenzentrum",24
 "AS19318","Interserver, Inc",24
 "AS210644","AEZA INTERNATIONAL LTD",24
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",24
-"AS12816","Leibniz-Rechenzentrum",23
 "AS149705","PT Wijaya Trimitra Indonesia",23
 "AS198037","SPACECORE SOLUTION LTD",23
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",23
@@ -734,6 +734,7 @@ ASN,Organization,IP_Count
 "AS28419","Señal Interactiva, S.A De C.V",2
 "AS28423","Truxgo S. de R.L de C.V",2
 "AS28458","IENTC S DE RL DE CV",2
+"AS29222","Infomaniak Network SA",2
 "AS29447","SCALEWAY S.A.S.",2
 "AS29456","PJSC Rostelecom",2
 "AS30753","FHU ""COMPOWER"" Dariusz Krocz",2
@@ -1206,7 +1207,6 @@ ASN,Organization,IP_Count
 "AS29075","IELO-LIAZO SERVICES SAS",1
 "AS29091","ipNX Nigeria Limited",1
 "AS29177","Acantho S.p.a",1
-"AS29222","Infomaniak Network SA",1
 "AS29256","Syrian Telecom",1
 "AS29303","Perm Internet Company LLC",1
 "AS29319","Informational-measuring systems Ltd.",1
