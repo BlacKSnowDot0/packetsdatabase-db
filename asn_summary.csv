@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87513
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
-"AS211298","Driftnet Ltd",21531
-"AS398324","Censys, Inc.",10097
+"AS211298","Driftnet Ltd",21532
+"AS398324","Censys, Inc.",10098
 "AS396982","Google LLC",9435
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6748
@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4399
 "AS16509","Amazon.com, Inc.",3832
-"AS63949","Akamai Technologies, Inc.",3434
+"AS63949","Akamai Technologies, Inc.",3435
 "AS45102","Alibaba (US) Technology Co., Ltd.",3314
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3160
@@ -31,12 +31,12 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1127
 "AS49870","Alsycon B.V.",1093
 "AS201401","NewVM B.V.",1076
-"AS43260","DGN TEKNOLOJI A.S.",996
+"AS43260","DGN TEKNOLOJI A.S.",997
 "AS0","",968
 "AS208684","BHA CONSEIL SARL",929
 "AS51852","Private Layer INC",907
 "AS22552","eSited Solutions",895
-"AS174","Cogent Communications",865
+"AS174","Cogent Communications",866
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",803
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS24186","RailTel Corporation of India Ltd.",403
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS20052","Arbor Networks, Inc.",389
-"AS51167","Contabo GmbH",353
+"AS51167","Contabo GmbH",354
 "AS3462","Chunghwa Telecom Co., Ltd.",330
 "AS21859","Zenlayer Inc",315
 "AS214943","Railnet LLC",311
@@ -103,7 +103,7 @@ ASN,Organization,IP_Count
 "AS208287","DC Host INC",110
 "AS29484","Ruhr-Universitaet Bochum",103
 "AS63018","Dedicated.com",92
-"AS262551","Farol Telecom",89
+"AS262551","Farol Telecom",90
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",88
 "AS42237","w1n ltd",87
 "AS58461","Chinanet",85
