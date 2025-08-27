@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87513
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21529
-"AS398324","Censys, Inc.",10092
+"AS398324","Censys, Inc.",10094
 "AS396982","Google LLC",9435
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6746
+"AS14061","DigitalOcean, LLC",6748
 "AS16276","OVH SAS",5529
 "AS4134","Chinanet",4767
 "AS6568","Entel S.A. - EntelNet",4536
@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",3314
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3160
-"AS51396","Pfcloud UG",2968
+"AS51396","Pfcloud UG",2969
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2523
 "AS8075","Microsoft Corporation",2422
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1127
 "AS49870","Alsycon B.V.",1092
 "AS201401","NewVM B.V.",1076
-"AS43260","DGN TEKNOLOJI A.S.",992
+"AS43260","DGN TEKNOLOJI A.S.",993
 "AS0","",967
 "AS208684","BHA CONSEIL SARL",929
 "AS51852","Private Layer INC",907
@@ -81,7 +81,7 @@ ASN,Organization,IP_Count
 "AS12876","ONLINE S.A.S.",217
 "AS14987","Rethem Hosting LLC",215
 "AS7713","Telekomunikasi Indonesia (PT)",210
-"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",205
+"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",206
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",204
 "AS13335","Cloudflare, Inc.",197
 "AS401116","Nybula LLC",169
@@ -231,12 +231,12 @@ ASN,Organization,IP_Count
 "AS23724","IDC, China Telecommunications Corporation",18
 "AS24560","Bharti Airtel Limited",18
 "AS262287","Maxihost LTDA",18
+"AS329009","Spectrum Internet Service Ltd",18
 "AS136958","China Unicom Guangdong IP network",17
 "AS140061","China Telecom",17
 "AS148981","China Telecom",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",17
-"AS329009","Spectrum Internet Service Ltd",17
 "AS45117","Ishan's Network",17
 "AS56630","Melbikomas UAB",17
 "AS9299","Philippine Long Distance Telephone Co.",17
