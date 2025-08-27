@@ -17,46 +17,78 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Install dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y jq
+        run: sudo apt-get update && sudo apt-get install -y jq
 
       - name: Fetch and process data
         run: |
           echo "Starting data fetch from packetsdatabase.com..."
-          
           API_URL="https://packetsdatabase.com/api/data"
           TOTAL_COUNT=$(curl -s -L "${API_URL}?page=1&size=1&filter=" | jq -r '.total')
-          
           if ! [[ "$TOTAL_COUNT" =~ ^[0-9]+$ ]] || [ "$TOTAL_COUNT" -le 0 ]; then
-            echo "Error: Failed to retrieve a valid total count. Received: $TOTAL_COUNT"
+            echo "Error: Failed to retrieve a valid total count."
             exit 1
           fi
-          
           echo "Total records to fetch: $TOTAL_COUNT"
-          
-          curl -s -L "${API_URL}?page=1&size=${TOTAL_COUNT}&filter=" -o data.json
-          
+          curl -s --connect-timeout 60 --max-time 300 -L "${API_URL}?page=1&size=${TOTAL_COUNT}&filter=" -o data.json
           if [ ! -s data.json ]; then
-             echo "Error: Failed to download the full dataset. The data.json file is empty."
+             echo "Error: Failed to download the full dataset."
              exit 1
           fi
+          echo "Full dataset downloaded."
+
+      - name: Generate Lists and Formats
+        run: |
+          echo "Generating all file formats..."
           
-          echo "Full dataset downloaded successfully."
-          
-          # Process the JSON to create the IP list
+          # --- BASIC IP LIST ---
           jq -r '.data[][1]' data.json > ip_list.txt
+          echo "Generated ip_list.txt"
+
+          # --- DATA ANALYSIS FORMATS ---
+          # Create header for CSV and then append data
+          echo "IP,Port,Protocol,Country,ASN,Organization,ISP" > full_data.csv
+          jq -r '.data[] | [.["1"], .["2"], .["7"], .["9"], .["10"], .["11"], .["12"]] | @csv' data.json >> full_data.csv
+          echo "Generated full_data.csv"
+
+          # Create JSON Lines format
+          jq -c '.data[] | {ip: .[1], port: .[2], protocol: .[7], country: .[9], asn: .[10], organization: .[11], isp: .[12]}' data.json > full_data.jsonl
+          echo "Generated full_data.jsonl"
+
+          # --- FIREWALL FORMATS ---
+          # NGINX Blocklist
+          jq -r '.data[][1] | "deny \(.);"' data.json > nginx_blocklist.conf
+          echo "Generated nginx_blocklist.conf"
+
+          # iptables Blocklist Script
+          echo '#!/bin/bash' > iptables_blocklist.sh
+          echo '# This script will add all IPs from the list to your iptables DROP chain.' >> iptables_blocklist.sh
+          jq -r '.data[][1] | "iptables -A INPUT -s \(.) -j DROP"' data.json >> iptables_blocklist.sh
+          chmod +x iptables_blocklist.sh
+          echo "Generated iptables_blocklist.sh"
+
+          # --- TARGETED BLOCKING ---
+          # IPs attacking SSH (Port 22)
+          jq -r '.data[] | select(.[2] == 22) | .[1]' data.json > port_22_ssh.txt
+          echo "Generated port_22_ssh.txt"
+
+          # IPs attacking RDP (Port 3389)
+          jq -r '.data[] | select(.[2] == 3389) | .[1]' data.json > port_3389_rdp.txt
+          echo "Generated port_3389_rdp.txt"
           
-          echo "Processed $(wc -l < ip_list.txt) IPs into ip_list.txt"
+          # ASN Summary
+          echo "ASN,Organization,IP_Count" > asn_summary.csv
+          jq -r '.data[] | [.["10"], .["11"]] | @csv' data.json | sort | uniq -c | sort -nr | awk 'BEGIN{FS=OFS=","} {gsub(/^[ \t]+/, "", $1); gsub(/"/, "", $3); print $2, $3, $1}' >> asn_summary.csv
+          echo "Generated asn_summary.csv"
+
+      # This step for charts can remain as is, if you are keeping it.
+      # (I will omit it from this code block for brevity, but you should keep it in your file if you want charts)
 
       - name: Update README count
         run: |
+          # ... (This step remains the same)
           IP_COUNT=$(wc -l < ip_list.txt | awk '{print $1}')
-          # Format with commas
           COUNT_FORMATTED=$(printf "%'d" $IP_COUNT)
-          # Create the badge URL, ensuring no spaces
           BADGE_URL="https://img.shields.io/badge/IPs%20Tracked-${COUNT_FORMATTED}-blue?style=for-the-badge"
-          # Replace the placeholder in README.md
           sed -i "s|<!-- IP_COUNT_PLACEHOLDER -->|![IPs Tracked](${BADGE_URL})|g" README.md
 
       - name: Commit and push changes
@@ -64,16 +96,11 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Add the updated files
-          git add ip_list.txt README.md
-          
-          # If the zmap file still exists from a previous run, remove it
-          if [ -f zmap_blacklist.conf ]; then
-            git rm zmap_blacklist.conf
-          fi
+          # Use 'git add .' to automatically add all new and modified files
+          git add .
           
           if ! git diff --staged --quiet; then
-            git commit -m "Update: Fetched latest data from packetsdatabase.com"
+            git commit -m "Update: Fetched latest data and regenerated all formats"
             git push
           else
             echo "No changes to commit. Data is up-to-date."
