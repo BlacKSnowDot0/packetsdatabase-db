@@ -2,7 +2,7 @@
 
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/BlacKSnowDot0/packetsdatabase-db/update_data.yml?branch=main&style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/BlacKSnowDot0/packetsdatabase-db?style=for-the-badge&color=brightgreen)
-<!-- IP_COUNT_PLACEHOLDER -->
+![IPs Tracked](https://img.shields.io/badge/IPs%20Tracked-313770-blue?style=for-the-badge)
 
 A continuously updated, automated mirror of malicious IP addresses sourced from [packetsdatabase.com](https://packetsdatabase.com/). This repository provides ready-to-use blocklists for security research, threat intelligence, and network monitoring.
 
