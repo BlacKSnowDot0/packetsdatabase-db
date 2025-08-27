@@ -37,8 +37,6 @@ All files are updated every 30 minutes. Use the "Raw Link" for automation.
 | `port_3389_rdp.txt`                | IPs observed attacking the RDP service (port 3389).                       | `https://raw.githubusercontent.com/BlacKSnowDot0/packetsdatabase-db/main/port_3389_rdp.txt`                  |
 | `asn_summary.csv`                  | A summary of ASNs, ranked by the number of malicious IPs they host.       | `https://raw.githubusercontent.com/BlacKSnowDot0/packetsdatabase-db/main/asn_summary.csv`                  |
 
-*Replace `...` in the Raw Links with `https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main`*
-
 ---
 
 ## 💡 How To Use
