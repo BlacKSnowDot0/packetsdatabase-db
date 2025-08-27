@@ -7,7 +7,7 @@ ASN,Organization,IP_Count
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6749
 "AS16276","OVH SAS",5529
-"AS4134","Chinanet",4767
+"AS4134","Chinanet",4768
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4399
 "AS16509","Amazon.com, Inc.",3832
@@ -25,17 +25,17 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1619
 "AS209605","UAB Host Baltic",1455
 "AS215269","LAZYCLOUD LTD",1312
-"AS398722","Censys, Inc.",1292
+"AS398722","Censys, Inc.",1293
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1127
 "AS49870","Alsycon B.V.",1093
 "AS201401","NewVM B.V.",1076
-"AS43260","DGN TEKNOLOJI A.S.",1002
-"AS0","",968
+"AS43260","DGN TEKNOLOJI A.S.",1003
+"AS0","",969
 "AS208684","BHA CONSEIL SARL",930
 "AS51852","Private Layer INC",907
-"AS22552","eSited Solutions",895
+"AS22552","eSited Solutions",897
 "AS174","Cogent Communications",866
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS24186","RailTel Corporation of India Ltd.",403
 "AS20052","Arbor Networks, Inc.",390
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS51167","Contabo GmbH",354
+"AS51167","Contabo GmbH",355
 "AS3462","Chunghwa Telecom Co., Ltd.",330
 "AS21859","Zenlayer Inc",315
 "AS214943","Railnet LLC",311
