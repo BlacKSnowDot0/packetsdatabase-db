@@ -2,18 +2,9 @@
 
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/BlacKSnowDot0/packetsdatabase-db/update_data.yml?branch=main&style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/BlacKSnowDot0/packetsdatabase-db?style=for-the-badge&color=brightgreen)
-![IPs Tracked](https://img.shields.io/badge/IPs%20Tracked-313776-blue?style=for-the-badge)
+<!--START_IP_COUNT_BADGE--><!--END_IP_COUNT_BADGE-->
 
 A continuously updated, automated mirror of malicious IP addresses sourced from [packetsdatabase.com](https://packetsdatabase.com/). This repository provides multiple ready-to-use blocklists and data feeds for security research, threat intelligence, and network defense.
-
----
-
-## 📊 Live Statistics
-*(Your charts will appear here if you are keeping that feature)*
-
-| Top 10 ISPs                               | Protocol Distribution                             | TCP vs. UDP                                   |
-| :---------------------------------------: | :-----------------------------------------------: | :-------------------------------------------: |
-| ![Top 10 ISPs](isp_chart.png)             | ![Protocol Distribution](protocol_chart.png)      | ![TCP vs UDP](type_chart.png)                 |
 
 ---
 
