@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87513
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21533
-"AS398324","Censys, Inc.",10120
+"AS398324","Censys, Inc.",10121
 "AS396982","Google LLC",9439
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6749
+"AS14061","DigitalOcean, LLC",6750
 "AS16276","OVH SAS",5531
 "AS4134","Chinanet",4768
 "AS6568","Entel S.A. - EntelNet",4536
@@ -29,13 +29,13 @@ ASN,Organization,IP_Count
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1127
-"AS49870","Alsycon B.V.",1093
+"AS49870","Alsycon B.V.",1094
 "AS201401","NewVM B.V.",1076
-"AS43260","DGN TEKNOLOJI A.S.",1019
+"AS43260","DGN TEKNOLOJI A.S.",1020
 "AS0","",969
 "AS208684","BHA CONSEIL SARL",930
 "AS51852","Private Layer INC",907
-"AS22552","eSited Solutions",901
+"AS22552","eSited Solutions",902
 "AS174","Cogent Communications",866
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -135,7 +135,7 @@ ASN,Organization,IP_Count
 "AS210125","PRIAM NET Sh.p.k.",54
 "AS44382","Fiba Cloud Operation Company, LLC",53
 "AS47331","TTNet A.S.",53
-"AS151185","China Telecom",51
+"AS151185","China Telecom",52
 "AS8402","PJSC ""Vimpelcom""",51
 "AS8560","IONOS SE",51
 "AS136435","ELITE COMMUNICATION",50
