@@ -41,9 +41,10 @@ jobs:
           echo "Full dataset downloaded."
       - name: Generate Lists and Formats
         run: >
-          # ... (This step is correct and remains unchanged)
-
           echo "Generating all file formats..."
+
+
+          # --- (All previous commands are correct and unchanged) ---
 
           jq -r '.data[][1]' data.json > ip_list.txt
 
@@ -81,9 +82,24 @@ jobs:
 
           echo "Generated port_3389_rdp.txt"
 
+
+          # --- ASN Summary ---
+
           echo "ASN,Organization,IP_Count" > asn_summary.csv
 
-          jq -r '.data[] | [.[10], .[11]] | @csv' data.json | sort | uniq -c | sort -nr | awk 'BEGIN{FS=OFS=","} {gsub(/^[ \t]+/, "", $1); gsub(/"/, "", $3); print $2, $3, $1}' >> asn_summary.csv
+          # DEFINITIVE FIX: Perform grouping, counting, sorting, and CSV conversion
+
+          # entirely within jq to ensure robust handling of all edge cases.
+
+          jq -r '
+            .data |
+            group_by([.[10], .[11]]) |
+            map({asn: .[0][10], org: .[0][11], count: length}) |
+            sort_by(-.count) |
+            .[] |
+            [.asn, .org, .count] |
+            @csv
+          ' data.json >> asn_summary.csv
 
           echo "Generated asn_summary.csv"
       - name: Update README count
