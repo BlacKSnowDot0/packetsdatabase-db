@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87513
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21529
-"AS398324","Censys, Inc.",10088
+"AS398324","Censys, Inc.",10089
 "AS396982","Google LLC",9435
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6746
@@ -61,7 +61,7 @@ ASN,Organization,IP_Count
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",403
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS20052","Arbor Networks, Inc.",388
+"AS20052","Arbor Networks, Inc.",389
 "AS51167","Contabo GmbH",352
 "AS3462","Chunghwa Telecom Co., Ltd.",330
 "AS21859","Zenlayer Inc",315
@@ -141,9 +141,9 @@ ASN,Organization,IP_Count
 "AS136435","ELITE COMMUNICATION",50
 "AS57588","Hayat for Internet & communication LLC",49
 "AS266181","GOLDEN LINK",47
+"AS11320","LightEdge Solutions",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
 "AS271795","SERVITELCONET CIA. LTDA.",46
-"AS11320","LightEdge Solutions",45
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
 "AS152194","CTG Server Limited",43
@@ -933,6 +933,7 @@ ASN,Organization,IP_Count
 "AS138625","Dreams Network & Technology Pvt Ltd",1
 "AS138824","PT. Gemilang Jaya Elektrindo",1
 "AS138886","PT Data Buana Nusantara",1
+"AS138997","Eons Data Communications Limited",1
 "AS139043","WellNetworks (Private) Limited",1
 "AS139220","China Telecom",1
 "AS139490","Aspt Networks Pvt Ltd",1
