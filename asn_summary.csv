@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87513
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
-"AS211298","Driftnet Ltd",21529
-"AS398324","Censys, Inc.",10094
+"AS211298","Driftnet Ltd",21531
+"AS398324","Censys, Inc.",10096
 "AS396982","Google LLC",9435
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6748
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2523
 "AS8075","Microsoft Corporation",2422
-"AS6939","Hurricane Electric LLC",2051
+"AS6939","Hurricane Electric LLC",2052
 "AS9808","China Mobile",2044
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1619
@@ -29,13 +29,13 @@ ASN,Organization,IP_Count
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1127
-"AS49870","Alsycon B.V.",1092
+"AS49870","Alsycon B.V.",1093
 "AS201401","NewVM B.V.",1076
-"AS43260","DGN TEKNOLOJI A.S.",993
-"AS0","",967
+"AS43260","DGN TEKNOLOJI A.S.",995
+"AS0","",968
 "AS208684","BHA CONSEIL SARL",929
 "AS51852","Private Layer INC",907
-"AS22552","eSited Solutions",894
+"AS22552","eSited Solutions",895
 "AS174","Cogent Communications",865
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",792
 "AS215925","VPSVAULT.HOST LTD",750
 "AS211680","NSEC - Sistemas Informaticos, S.A.",695
-"AS23470","ReliableSite.Net LLC",644
+"AS23470","ReliableSite.Net LLC",645
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
@@ -57,7 +57,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",469
 "AS201814","MEVSPACE sp. z o.o.",462
 "AS212238","Datacamp Limited",454
-"AS32475","Internap Holding LLC",417
+"AS32475","Internap Holding LLC",418
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",403
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -81,7 +81,7 @@ ASN,Organization,IP_Count
 "AS12876","ONLINE S.A.S.",217
 "AS14987","Rethem Hosting LLC",215
 "AS7713","Telekomunikasi Indonesia (PT)",210
-"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",206
+"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",207
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",204
 "AS13335","Cloudflare, Inc.",197
 "AS401116","Nybula LLC",169
