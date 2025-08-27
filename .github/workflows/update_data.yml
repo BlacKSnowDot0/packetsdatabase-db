@@ -47,16 +47,17 @@ jobs:
           # --- DATA ANALYSIS FORMATS ---
           # Create header for CSV and then append data
           echo "IP,Port,Protocol,Country,ASN,Organization,ISP" > full_data.csv
-          jq -r '.data[] | [.["1"], .["2"], .["7"], .["9"], .["10"], .["11"], .["12"]] | @csv' data.json >> full_data.csv
+          # FIXED: Changed .["1"] to .[1], etc.
+          jq -r '.data[] | [.[1], .[2], .[7], .[9], .[10], .[11], .[12]] | @csv' data.json >> full_data.csv
           echo "Generated full_data.csv"
 
-          # Create JSON Lines format
+          # Create JSON Lines format (This one was already correct)
           jq -c '.data[] | {ip: .[1], port: .[2], protocol: .[7], country: .[9], asn: .[10], organization: .[11], isp: .[12]}' data.json > full_data.jsonl
           echo "Generated full_data.jsonl"
 
           # --- FIREWALL FORMATS ---
           # NGINX Blocklist
-          jq -r '.data[][1] | "deny \(.);"' data.json > nginx_blocklist.conf
+          jq -r '.data[][1]' data.json > nginx_blocklist.conf
           echo "Generated nginx_blocklist.conf"
 
           # iptables Blocklist Script
@@ -77,11 +78,9 @@ jobs:
           
           # ASN Summary
           echo "ASN,Organization,IP_Count" > asn_summary.csv
-          jq -r '.data[] | [.["10"], .["11"]] | @csv' data.json | sort | uniq -c | sort -nr | awk 'BEGIN{FS=OFS=","} {gsub(/^[ \t]+/, "", $1); gsub(/"/, "", $3); print $2, $3, $1}' >> asn_summary.csv
+          # FIXED: Changed .["10"] to .[10] and .["11"] to .[11]
+          jq -r '.data[] | [.[10], .[11]] | @csv' data.json | sort | uniq -c | sort -nr | awk 'BEGIN{FS=OFS=","} {gsub(/^[ \t]+/, "", $1); gsub(/"/, "", $3); print $2, $3, $1}' >> asn_summary.csv
           echo "Generated asn_summary.csv"
-
-      # This step for charts can remain as is, if you are keeping it.
-      # (I will omit it from this code block for brevity, but you should keep it in your file if you want charts)
 
       - name: Update README count
         run: |
