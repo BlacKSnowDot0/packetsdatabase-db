@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87512
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21528
-"AS398324","Censys, Inc.",10077
+"AS398324","Censys, Inc.",10078
 "AS396982","Google LLC",9433
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6735
@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",2967
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2522
-"AS8075","Microsoft Corporation",2416
+"AS8075","Microsoft Corporation",2417
 "AS6939","Hurricane Electric LLC",2050
 "AS9808","China Mobile",2044
 "AS214295","SKYNET NETWORK LTD",1631
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1127
 "AS49870","Alsycon B.V.",1092
 "AS201401","NewVM B.V.",1076
-"AS43260","DGN TEKNOLOJI A.S.",976
+"AS43260","DGN TEKNOLOJI A.S.",978
 "AS0","",966
 "AS208684","BHA CONSEIL SARL",929
 "AS51852","Private Layer INC",907
@@ -47,8 +47,8 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
+"AS401120","cheapy.host LLC",509
 "AS140292","China Telecom",508
-"AS401120","cheapy.host LLC",508
 "AS14618","Amazon.com, Inc.",498
 "AS36352","HostPapa",496
 "AS50360","Tamatiya EOOD",492
@@ -81,7 +81,7 @@ ASN,Organization,IP_Count
 "AS12876","ONLINE S.A.S.",215
 "AS14987","Rethem Hosting LLC",215
 "AS7713","Telekomunikasi Indonesia (PT)",210
-"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",203
+"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",204
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",202
 "AS13335","Cloudflare, Inc.",197
 "AS401116","Nybula LLC",169
@@ -103,11 +103,11 @@ ASN,Organization,IP_Count
 "AS208287","DC Host INC",110
 "AS29484","Ruhr-Universitaet Bochum",102
 "AS63018","Dedicated.com",92
+"AS262551","Farol Telecom",88
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",88
-"AS262551","Farol Telecom",87
 "AS42237","w1n ltd",87
 "AS58461","Chinanet",85
-"AS50219","LNK SYSTEMS MUNTENIA SRL",78
+"AS50219","LNK SYSTEMS MUNTENIA SRL",79
 "AS200019","ALEXHOST SRL",77
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS32475","SingleHop LLC",75
