@@ -1,41 +1,33 @@
 name: Fetch and Update PacketsDatabase Data
 
-# Controls when the action will run.
 on:
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-
-  # Runs on a schedule (every 30 minutes)
   schedule:
     - cron: '*/30 * * * *'
+
 permissions:
   contents: write
-  
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checks out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 2. Install jq, a command-line JSON processor
       - name: Install dependencies
         run: |
           sudo apt-get update
           sudo apt-get install -y jq
 
-      # 3. Fetch data, process it, and create the files
       - name: Fetch and process data
         run: |
           echo "Starting data fetch from packetsdatabase.com..."
           
-          # First, get the total number of records
           API_URL="https://packetsdatabase.com/api/data"
           TOTAL_COUNT=$(curl -s -L "${API_URL}?page=1&size=1&filter=" | jq -r '.total')
           
-          # Check if we got a valid number
           if ! [[ "$TOTAL_COUNT" =~ ^[0-9]+$ ]] || [ "$TOTAL_COUNT" -le 0 ]; then
             echo "Error: Failed to retrieve a valid total count. Received: $TOTAL_COUNT"
             exit 1
@@ -43,8 +35,6 @@ jobs:
           
           echo "Total records to fetch: $TOTAL_COUNT"
           
-          # Now, fetch all records in a single request
-          # This might take a moment due to the size
           curl -s -L "${API_URL}?page=1&size=${TOTAL_COUNT}&filter=" -o data.json
           
           if [ ! -s data.json ]; then
@@ -55,27 +45,33 @@ jobs:
           echo "Full dataset downloaded successfully."
           
           # Process the JSON to create the IP list
-          # .data[][] gets all elements from all sub-arrays. [1] selects the second element (the IP).
           jq -r '.data[][1]' data.json > ip_list.txt
           
-          # Process the JSON to create the Zmap blacklist file
-          # Appends '/32' to each IP to make it a valid CIDR block for Zmap
-          jq -r '.data[][1]' data.json | sed 's/$/\/32/' > zmap_blacklist.conf
-          
-          echo "Processed $(wc -l < ip_list.txt) IPs into ip_list.txt and zmap_blacklist.conf"
+          echo "Processed $(wc -l < ip_list.txt) IPs into ip_list.txt"
 
-      # 4. Commit the new files back to the repository
+      - name: Update README count
+        run: |
+          IP_COUNT=$(wc -l < ip_list.txt | awk '{print $1}')
+          # Format with commas
+          COUNT_FORMATTED=$(printf "%'d" $IP_COUNT)
+          # Create the badge URL, ensuring no spaces
+          BADGE_URL="https://img.shields.io/badge/IPs%20Tracked-${COUNT_FORMATTED}-blue?style=for-the-badge"
+          # Replace the placeholder in README.md
+          sed -i "s|<!-- IP_COUNT_PLACEHOLDER -->|![IPs Tracked](${BADGE_URL})|g" README.md
+
       - name: Commit and push changes
         run: |
-          # Configure git
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Add the generated files
-          git add ip_list.txt zmap_blacklist.conf
+          # Add the updated files
+          git add ip_list.txt README.md
           
-          # Commit the changes if there are any
-          # The 'git diff' part prevents empty commits if the data hasn't changed
+          # If the zmap file still exists from a previous run, remove it
+          if [ -f zmap_blacklist.conf ]; then
+            git rm zmap_blacklist.conf
+          fi
+          
           if ! git diff --staged --quiet; then
             git commit -m "Update: Fetched latest data from packetsdatabase.com"
             git push
