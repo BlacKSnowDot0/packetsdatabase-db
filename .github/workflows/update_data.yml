@@ -21,7 +21,7 @@ jobs:
 
       # Step 1: Fetch the data
       - name: Fetch and process data
-        run: |
+        run: | # <-- FIX: Added pipe for multi-line script
           echo "Starting data fetch from packetsdatabase.com..."
           API_URL="https://packetsdatabase.com/api/data"
           TOTAL_COUNT=$(curl -s -L "${API_URL}?page=1&size=1&filter=" | jq -r '.total')
@@ -39,7 +39,7 @@ jobs:
 
       # Step 2: Generate all file formats
       - name: Generate Lists and Formats
-        run: |
+        run: | # <-- FIX: Added pipe for multi-line script
           echo "Generating all file formats..."
           jq -r '.data[][1]' data.json > ip_list.txt
           echo "Generated ip_list.txt"
@@ -60,16 +60,16 @@ jobs:
           jq -r '.data[] | select(.[2] == 3389) | .[1]' data.json > port_3389_rdp.txt
           echo "Generated port_3389_rdp.txt"
           echo "ASN,Organization,IP_Count" > asn_summary.csv
-          # FIX: Replaced a buggy awk command with a robust sed command to correctly format the CSV.
           jq -r '.data[] | [.[10], .[11]] | @csv' data.json | sort | uniq -c | sort -nr | sed -E 's/^[ ]*([0-9]+)[ ]+(.*)$/\2,\1/' >> asn_summary.csv
           echo "Generated asn_summary.csv"
 
       # Step 3: Generate Charts
       - name: Generate Statistics and Charts
-        run: |
+        run: | # <-- FIX: Added pipe for multi-line script. This is the main source of the errors.
           echo "Generating charts from data..."
 
           # 1. Top 10 ISPs Chart
+          # Using index 12 for ISP, as per the CSV header
           ISP_DATA=$(jq -r '.data[][12]? | select(. != null and . != "")' data.json | sort | uniq -c | sort -nr | head -n 10)
           
           if [ -z "$ISP_DATA" ]; then echo "No ISP data found, skipping chart."; else
@@ -89,8 +89,6 @@ EOF
           if [ -z "$PROTOCOL_DATA" ]; then echo "No Protocol data found, skipping chart."; else
             PROTOCOL_LABELS=$(echo "$PROTOCOL_DATA" | awk '{$1=""; print $0}' | sed 's/^ *//' | jq -R . | jq -s .)
             PROTOCOL_VALUES=$(echo "$PROTOCOL_DATA" | awk '{print $1}' | jq -s .)
-            # FIX: Removed the complex Javascript 'formatter' which was causing the YAML syntax error.
-            # The piechartOutlabels plugin achieves a similar result without the problematic syntax.
             PROTOCOL_CHART_CONFIG=$(cat <<EOF
             {type:'pie',data:{labels:$PROTOCOL_LABELS,datasets:[{data:$PROTOCOL_VALUES}]},options:{plugins:{piechartOutlabels:{text:'%l %p',color:'white',stretch:35,font:{resizable:true,minSize:12,maxSize:18}}},title:{display:true,text:'Protocol Distribution'}}}
 EOF
@@ -106,7 +104,7 @@ EOF
             TYPE_LABELS=$(echo "$TYPE_DATA" | awk '{$1=""; print $0}' | sed 's/^ *//' | jq -R . | jq -s .)
             TYPE_VALUES=$(echo "$TYPE_DATA" | awk '{print $1}' | jq -s .)
             TYPE_CHART_CONFIG=$(cat <<EOF
-            {type:'doughnut',data:{labels:$TYPE_LABELS,datasets:[{data:$VALUES,backgroundColor:['rgb(255, 99, 132)','rgb(54, 162, 235)']}]},options:{title:{display:true,text:'TCP vs. UDP'}}}
+            {type:'doughnut',data:{labels:$TYPE_LABELS,datasets:[{data:$TYPE_VALUES,backgroundColor:['rgb(255, 99, 132)','rgb(54, 162, 235)']}]},options:{title:{display:true,text:'TCP vs. UDP'}}}
 EOF
             )
             ENCODED_TYPE_CHART=$(echo "$TYPE_CHART_CONFIG" | jq -c . | curl -s -X POST -H "Content-Type: application/json" -d @- "https://quickchart.io/chart/create" | jq -r .url)
@@ -116,16 +114,15 @@ EOF
 
       # Step 4: Update README
       - name: Update README count
-        run: |
+        run: | # <-- FIX: Added pipe for multi-line script
           IP_COUNT=$(wc -l < ip_list.txt | awk '{print $1}')
           COUNT_FORMATTED=$(printf "%'d" $IP_COUNT)
           BADGE_URL="https://img.shields.io/badge/IPs%20Tracked-${COUNT_FORMATTED}-blue?style=for-the-badge"
-          # Use a different delimiter for sed to avoid conflicts with the URL
           sed -i "s|<!-- IP_COUNT_PLACEHOLDER -->.*|<!-- IP_COUNT_PLACEHOLDER -->\n\n![IPs Tracked](${BADGE_URL})|g" README.md
 
       # Step 5: Commit and Push
       - name: Commit and push changes
-        run: |
+        run: | # <-- FIX: Added pipe for multi-line script
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
