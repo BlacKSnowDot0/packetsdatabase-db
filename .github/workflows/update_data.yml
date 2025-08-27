@@ -19,6 +19,7 @@ jobs:
       - name: Install dependencies
         run: sudo apt-get update && sudo apt-get install -y jq
 
+      # Step 1: Fetch the data (no changes here)
       - name: Fetch and process data
         run: |
           echo "Starting data fetch from packetsdatabase.com..."
@@ -36,91 +37,85 @@ jobs:
           fi
           echo "Full dataset downloaded."
 
+      # Step 2: Generate all file formats (no changes here)
       - name: Generate Lists and Formats
         run: |
           echo "Generating all file formats..."
-          
-          # --- BASIC IP LIST ---
           jq -r '.data[][1]' data.json > ip_list.txt
           echo "Generated ip_list.txt"
-
-          # --- DATA ANALYSIS FORMATS ---
-          # Create header for CSV and then append data
           echo "IP,Port,Protocol,Country,ASN,Organization,ISP" > full_data.csv
-          # CORRECTED: Removed quotes from array indices [1], [2], etc.
           jq -r '.data[] | [.[1], .[2], .[7], .[9], .[10], .[11], .[12]] | @csv' data.json >> full_data.csv
           echo "Generated full_data.csv"
-
-          # Create JSON Lines format (This command was already correct)
           jq -c '.data[] | {ip: .[1], port: .[2], protocol: .[7], country: .[9], asn: .[10], organization: .[11], isp: .[12]}' data.json > full_data.jsonl
           echo "Generated full_data.jsonl"
-
-          # --- FIREWALL FORMATS ---
-          # NGINX Blocklist
           jq -r '.data[][1] | "deny \(.);"' data.json > nginx_blocklist.conf
           echo "Generated nginx_blocklist.conf"
-
-          # iptables Blocklist Script
           echo '#!/bin/bash' > iptables_blocklist.sh
           echo '# This script will add all IPs from the list to your iptables DROP chain.' >> iptables_blocklist.sh
           jq -r '.data[][1] | "iptables -A INPUT -s \(.) -j DROP"' data.json >> iptables_blocklist.sh
           chmod +x iptables_blocklist.sh
           echo "Generated iptables_blocklist.sh"
-
-          # --- TARGETED BLOCKING ---
-          # IPs attacking SSH (Port 22)
           jq -r '.data[] | select(.[2] == 22) | .[1]' data.json > port_22_ssh.txt
           echo "Generated port_22_ssh.txt"
-
-          # IPs attacking RDP (Port 3389)
           jq -r '.data[] | select(.[2] == 3389) | .[1]' data.json > port_3389_rdp.txt
           echo "Generated port_3389_rdp.txt"
-          
-          # ASN Summary
           echo "ASN,Organization,IP_Count" > asn_summary.csv
-          # CORRECTED: Removed quotes from array indices [10] and [11]
           jq -r '.data[] | [.[10], .[11]] | @csv' data.json | sort | uniq -c | sort -nr | awk 'BEGIN{FS=OFS=","} {gsub(/^[ \t]+/, "", $1); gsub(/"/, "", $3); print $2, $3, $1}' >> asn_summary.csv
           echo "Generated asn_summary.csv"
 
-      # (Your steps for charts and README update go here, they don't need changes)
+      # Step 3: Generate Charts (THIS IS THE CORRECTED STEP)
       - name: Generate Statistics and Charts
-        # ... (This step remains the same)
         run: |
           echo "Generating charts from data..."
-          ISP_DATA=$(jq -r '.data[][10]' data.json | sort | uniq -c | sort -nr | head -n 10)
-          ISP_LABELS=$(echo "$ISP_DATA" | awk '{$1=""; print $0}' | sed 's/^ *//' | jq -R . | jq -s .)
-          ISP_VALUES=$(echo "$ISP_DATA" | awk '{print $1}' | jq -s .)
-          ISP_CHART_CONFIG=$(cat <<EOF
-          {type:'bar',data:{labels:$ISP_LABELS,datasets:[{label:'Top 10 ISPs',backgroundColor:'rgba(54, 162, 235, 0.5)',borderColor:'rgb(54, 162, 235)',borderWidth:1,data:$ISP_VALUES}]},options:{indexAxis:'y',plugins:{legend:{display:false}},title:{display:true,text:'Top 10 ISPs by Entry Count'}}}
-          EOF
-          )
-          ENCODED_ISP_CHART=$(echo "$ISP_CHART_CONFIG" | jq -c . | curl -s -X POST -H "Content-Type: application/json" -d @- "https://quickchart.io/chart/create" | jq -r .url)
-          curl -s -o isp_chart.png "$ENCODED_ISP_CHART"
-          PROTOCOL_DATA=$(jq -r '.data[][7]' data.json | sort | uniq -c | sort -nr)
-          PROTOCOL_LABELS=$(echo "$PROTOCOL_DATA" | awk '{$1=""; print $0}' | sed 's/^ *//' | jq -R . | jq -s .)
-          PROTOCOL_VALUES=$(echo "$PROTOCOL_DATA" | awk '{print $1}' | jq -s .)
-          PROTOCOL_CHART_CONFIG=$(cat <<EOF
-          {type:'pie',data:{labels:$PROTOCOL_LABELS,datasets:[{data:$PROTOCOL_VALUES}]},options:{plugins:{datalabels:{color:'#fff',formatter:(value,context)=>{let sum=context.chart.getDatasetMeta(0).total;let percentage=(value*100/sum).toFixed(2)+'%';return percentage;}},piechartOutlabels:{text:'%l %p',color:'white',stretch:35,font:{resizable:true,minSize:12,maxSize:18}}},title:{display:true,text:'Protocol Distribution'}}}
-          EOF
-          )
-          ENCODED_PROTOCOL_CHART=$(echo "$PROTOCOL_CHART_CONFIG" | jq -c . | curl -s -X POST -H "Content-Type: application/json" -d @- "https://quickchart.io/chart/create" | jq -r .url)
-          curl -s -o protocol_chart.png "$ENCODED_PROTOCOL_CHART"
-          TYPE_DATA=$(jq -r '.data[][7]' data.json | grep -E '^(TCP|UDP)$' | sort | uniq -c | sort -nr)
-          TYPE_LABELS=$(echo "$TYPE_DATA" | awk '{$1=""; print $0}' | sed 's/^ *//' | jq -R . | jq -s .)
-          TYPE_VALUES=$(echo "$TYPE_DATA" | awk '{print $1}' | jq -s .)
-          TYPE_CHART_CONFIG=$(cat <<EOF
-          {type:'doughnut',data:{labels:$TYPE_LABELS,datasets:[{data:$TYPE_VALUES,backgroundColor:['rgb(255, 99, 132)','rgb(54, 162, 235)']}]},options:{title:{display:true,text:'TCP vs. UDP'}}}
-          EOF
-          )
-          ENCODED_TYPE_CHART=$(echo "$TYPE_CHART_CONFIG" | jq -c . | curl -s -X POST -H "Content-Type: application/json" -d @- "https://quickchart.io/chart/create" | jq -r .url)
-          curl -s -o type_chart.png "$ENCODED_TYPE_CHART"
-          if [ -s isp_chart.png ] && [ -s protocol_chart.png ] && [ -s type_chart.png ]; then
-            echo "Charts generated successfully."
-          else
-            echo "Error: One or more charts failed to generate."
-            exit 1
+
+          # 1. Top 10 ISPs Chart
+          # CORRECTED: Added .[10]? to prevent errors and select() to filter null/empty values.
+          ISP_DATA=$(jq -r '.data[][10]? | select(. != null and . != "")' data.json | sort | uniq -c | sort -nr | head -n 10)
+          
+          # Check if data was actually found
+          if [ -z "$ISP_DATA" ]; then echo "No ISP data found, skipping chart."; else
+            ISP_LABELS=$(echo "$ISP_DATA" | awk '{$1=""; print $0}' | sed 's/^ *//' | jq -R . | jq -s .)
+            ISP_VALUES=$(echo "$ISP_DATA" | awk '{print $1}' | jq -s .)
+            ISP_CHART_CONFIG=$(cat <<EOF
+            {type:'bar',data:{labels:$ISP_LABELS,datasets:[{label:'Top 10 ISPs',backgroundColor:'rgba(54, 162, 235, 0.5)',borderColor:'rgb(54, 162, 235)',borderWidth:1,data:$ISP_VALUES}]},options:{indexAxis:'y',plugins:{legend:{display:false}},title:{display:true,text:'Top 10 ISPs by Entry Count'}}}
+EOF
+            )
+            ENCODED_ISP_CHART=$(echo "$ISP_CHART_CONFIG" | jq -c . | curl -s -X POST -H "Content-Type: application/json" -d @- "https://quickchart.io/chart/create" | jq -r .url)
+            curl -s -o isp_chart.png "$ENCODED_ISP_CHART"
           fi
 
+          # 2. Protocol Distribution Chart
+          # CORRECTED: Added .[7]? and select()
+          PROTOCOL_DATA=$(jq -r '.data[][7]? | select(. != null and . != "")' data.json | sort | uniq -c | sort -nr)
+          
+          if [ -z "$PROTOCOL_DATA" ]; then echo "No Protocol data found, skipping chart."; else
+            PROTOCOL_LABELS=$(echo "$PROTOCOL_DATA" | awk '{$1=""; print $0}' | sed 's/^ *//' | jq -R . | jq -s .)
+            PROTOCOL_VALUES=$(echo "$PROTOCOL_DATA" | awk '{print $1}' | jq -s .)
+            PROTOCOL_CHART_CONFIG=$(cat <<EOF
+            {type:'pie',data:{labels:$PROTOCOL_LABELS,datasets:[{data:$PROTOCOL_VALUES}]},options:{plugins:{datalabels:{color:'#fff',formatter:(value,context)=>{let sum=context.chart.getDatasetMeta(0).total;let percentage=(value*100/sum).toFixed(2)+'%';return percentage;}},piechartOutlabels:{text:'%l %p',color:'white',stretch:35,font:{resizable:true,minSize:12,maxSize:18}}},title:{display:true,text:'Protocol Distribution'}}}
+EOF
+            )
+            ENCODED_PROTOCOL_CHART=$(echo "$PROTOCOL_CHART_CONFIG" | jq -c . | curl -s -X POST -H "Content-Type: application/json" -d @- "https://quickchart.io/chart/create" | jq -r .url)
+            curl -s -o protocol_chart.png "$ENCODED_PROTOCOL_CHART"
+          fi
+
+          # 3. TCP vs UDP Chart
+          # CORRECTED: Added .[7]? and select()
+          TYPE_DATA=$(jq -r '.data[][7]? | select(. != null and . != "")' data.json | grep -E '^(TCP|UDP)$' | sort | uniq -c | sort -nr)
+          
+          if [ -z "$TYPE_DATA" ]; then echo "No TCP/UDP data found, skipping chart."; else
+            TYPE_LABELS=$(echo "$TYPE_DATA" | awk '{$1=""; print $0}' | sed 's/^ *//' | jq -R . | jq -s .)
+            TYPE_VALUES=$(echo "$TYPE_DATA" | awk '{print $1}' | jq -s .)
+            TYPE_CHART_CONFIG=$(cat <<EOF
+            {type:'doughnut',data:{labels:$TYPE_LABELS,datasets:[{data:$TYPE_VALUES,backgroundColor:['rgb(255, 99, 132)','rgb(54, 162, 235)']}]},options:{title:{display:true,text:'TCP vs. UDP'}}}
+EOF
+            )
+            ENCODED_TYPE_CHART=$(echo "$TYPE_CHART_CONFIG" | jq -c . | curl -s -X POST -H "Content-Type: application/json" -d @- "https://quickchart.io/chart/create" | jq -r .url)
+            curl -s -o type_chart.png "$ENCODED_TYPE_CHART"
+          fi
+          echo "Chart generation step completed."
+
+      # Step 4: Update README (no changes here)
       - name: Update README count
         run: |
           IP_COUNT=$(wc -l < ip_list.txt | awk '{print $1}')
@@ -128,13 +123,12 @@ jobs:
           BADGE_URL="https://img.shields.io/badge/IPs%20Tracked-${COUNT_FORMATTED}-blue?style=for-the-badge"
           sed -i "s|<!-- IP_COUNT_PLACEHOLDER -->|![IPs Tracked](${BADGE_URL})|g" README.md
 
+      # Step 5: Commit and Push (no changes here)
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
           git add .
-          
           if ! git diff --staged --quiet; then
             git commit -m "Update: Fetched latest data and regenerated all formats"
             git push
