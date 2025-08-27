@@ -1,92 +1,127 @@
+---
 name: Fetch and Update PacketsDatabase Data
-
 on:
-  workflow_dispatch:
+  workflow_dispatch: null
   schedule:
-    - cron: '*/30 * * * *'
-
+    - cron: "*/30 * * * *"
 permissions:
   contents: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
       - name: Install dependencies
         run: sudo apt-get update && sudo apt-get install -y jq
-
       - name: Fetch and process data
-        run: |
+        run: >
           # ... (This step is correct and remains unchanged)
+
           echo "Starting data fetch from packetsdatabase.com..."
+
           API_URL="https://packetsdatabase.com/api/data"
+
           TOTAL_COUNT=$(curl -s -L "${API_URL}?page=1&size=1&filter=" | jq -r '.total')
+
           if ! [[ "$TOTAL_COUNT" =~ ^[0-9]+$ ]] || [ "$TOTAL_COUNT" -le 0 ]; then
             echo "Error: Failed to retrieve a valid total count."
             exit 1
           fi
+
           echo "Total records to fetch: $TOTAL_COUNT"
+
           curl -s --connect-timeout 60 --max-time 300 -L "${API_URL}?page=1&size=${TOTAL_COUNT}&filter=" -o data.json
+
           if [ ! -s data.json ]; then
              echo "Error: Failed to download the full dataset."
              exit 1
           fi
+
           echo "Full dataset downloaded."
-
       - name: Generate Lists and Formats
-        run: |
+        run: >
           # ... (This step is correct and remains unchanged)
+
           echo "Generating all file formats..."
+
           jq -r '.data[][1]' data.json > ip_list.txt
+
           echo "Generated ip_list.txt"
+
           echo "IP,Port,Protocol,Country,ASN,Organization,ISP" > full_data.csv
+
           jq -r '.data[] | [.[1], .[2], .[7], .[9], .[10], .[11], .[12]] | @csv' data.json >> full_data.csv
+
           echo "Generated full_data.csv"
+
           jq -c '.data[] | {ip: .[1], port: .[2], protocol: .[7], country: .[9], asn: .[10], organization: .[11], isp: .[12]}' data.json > full_data.jsonl
+
           echo "Generated full_data.jsonl"
+
           jq -r '.data[][1]' data.json > nginx_blocklist.conf
+
           echo "Generated nginx_blocklist.conf"
+
           echo '#!/bin/bash' > iptables_blocklist.sh
+
           echo '# This script will add all IPs from the list to your iptables DROP chain.' >> iptables_blocklist.sh
+
           jq -r '.data[][1] | "iptables -A INPUT -s \(.) -j DROP"' data.json >> iptables_blocklist.sh
+
           chmod +x iptables_blocklist.sh
+
           echo "Generated iptables_blocklist.sh"
+
           jq -r '.data[] | select(.[2] == 22) | .[1]' data.json > port_22_ssh.txt
+
           echo "Generated port_22_ssh.txt"
+
           jq -r '.data[] | select(.[2] == 3389) | .[1]' data.json > port_3389_rdp.txt
+
           echo "Generated port_3389_rdp.txt"
+
           echo "ASN,Organization,IP_Count" > asn_summary.csv
+
           jq -r '.data[] | [.[10], .[11]] | @csv' data.json | sort | uniq -c | sort -nr | awk 'BEGIN{FS=OFS=","} {gsub(/^[ \t]+/, "", $1); gsub(/"/, "", $3); print $2, $3, $1}' >> asn_summary.csv
+
           echo "Generated asn_summary.csv"
-
       - name: Update README count
-        run: |
+        run: >
           IP_COUNT=$(wc -l < ip_list.txt | awk '{print $1}')
-          COUNT_FORMATTED=$(printf "%'d" $IP_COUNT)
-          BADGE_URL="https://img.shields.io/badge/IPs%20Tracked-${COUNT_FORMATTED}-blue?style=for-the-badge"
-          BADGE_MARKDOWN="![IPs Tracked](${BADGE_URL})"
-          sed -i '/<!--START_IP_COUNT_BADGE-->/!b;n;c\'"$BADGE_MARKDOWN" README.md
-      
-      # --- NEW STEP ADDED HERE ---
-      - name: Update Raw Links in README
-        run: |
-          # The github.repository context variable provides the "owner/repo" string.
-          # The github.ref_name context variable provides the branch name (e.g., "main").
-          echo "Updating raw links in README.md to be fully qualified URLs..."
-          sed -i 's|.../|https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}/|g' README.md
 
+          COUNT_FORMATTED=$(printf "%'d" $IP_COUNT)
+
+          BADGE_URL="https://img.shields.io/badge/IPs%20Tracked-${COUNT_FORMATTED}-blue?style=for-the-badge"
+
+          BADGE_MARKDOWN="![IPs Tracked](${BADGE_URL})"
+
+          sed -i '/<!--START_IP_COUNT_BADGE-->/!b;n;c\'"$BADGE_MARKDOWN" README.md
+      - name: Update Raw Links in README
+        run: >
+          # The search pattern is now '\.\.\.' to match literal dots, preventing the
+          corruption bug.
+
+          # We also check if the placeholder exists before running, making the step idempotent.
+
+          if grep -q '.../' README.md; then
+            echo "Placeholder '.../' found. Updating raw links in README.md..."
+            sed -i 's|\.\.\./|https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}/|g' README.md
+          else
+            echo "Raw links are already updated. Skipping."
+          fi
       - name: Commit and push changes
-        run: |
+        run: >
           git config --global user.name "github-actions[bot]"
+
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
+
+
           # IMPORTANT: Make sure you have a .gitignore file in your repo that contains "data.json"
+
           git add .
-          
+
+
           if ! git diff --staged --quiet; then
             git commit -m "Update: Fetched latest data and regenerated all formats"
             git push
