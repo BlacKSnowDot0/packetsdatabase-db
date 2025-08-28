@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87514
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
-"AS211298","Driftnet Ltd",21533
-"AS398324","Censys, Inc.",10130
+"AS211298","Driftnet Ltd",21534
+"AS398324","Censys, Inc.",10132
 "AS396982","Google LLC",9441
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6750
@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",2969
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2523
-"AS8075","Microsoft Corporation",2435
+"AS8075","Microsoft Corporation",2436
 "AS6939","Hurricane Electric LLC",2054
 "AS9808","China Mobile",2045
 "AS214295","SKYNET NETWORK LTD",1631
@@ -31,11 +31,11 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1127
 "AS49870","Alsycon B.V.",1094
 "AS201401","NewVM B.V.",1076
-"AS43260","DGN TEKNOLOJI A.S.",1045
+"AS43260","DGN TEKNOLOJI A.S.",1046
 "AS0","",969
 "AS208684","BHA CONSEIL SARL",930
 "AS51852","Private Layer INC",907
-"AS22552","eSited Solutions",903
+"AS22552","eSited Solutions",904
 "AS174","Cogent Communications",866
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -259,13 +259,13 @@ ASN,Organization,IP_Count
 "AS6134","XNNET LLC",15
 "AS146817","Hubei Feixun Network Co., Ltd",14
 "AS207713","GLOBAL INTERNET SOLUTIONS LLC",14
+"AS24348","CERNET2 IX at Tsinghua University",14
 "AS39603","P4 Sp. z o.o.",14
 "AS45758","Triple T Broadband Public Company Limited",14
 "AS48721","Flyservers S.A.",14
 "AS49531","""NetCom-R"" LLC",14
 "AS136142","Enigma Fiber Pvt Ltd",13
 "AS213194","Nechaev Dmitry Sergeevich",13
-"AS24348","CERNET2 IX at Tsinghua University",13
 "AS25369","Hydra Communications Ltd",13
 "AS28840","PJSC ""TATTELECOM""",13
 "AS29465","MTN NIGERIA Communication limited",13
