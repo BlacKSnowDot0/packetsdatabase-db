@@ -3,7 +3,7 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21533
 "AS398324","Censys, Inc.",10127
-"AS396982","Google LLC",9439
+"AS396982","Google LLC",9441
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6750
 "AS16276","OVH SAS",5533
@@ -14,12 +14,12 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3437
 "AS45102","Alibaba (US) Technology Co., Ltd.",3324
 "AS398705","Censys, Inc.",3238
-"AS15169","Google LLC",3160
+"AS15169","Google LLC",3161
 "AS51396","Pfcloud UG",2969
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2523
 "AS8075","Microsoft Corporation",2434
-"AS6939","Hurricane Electric LLC",2052
+"AS6939","Hurricane Electric LLC",2054
 "AS9808","China Mobile",2045
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1619
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1127
 "AS49870","Alsycon B.V.",1094
 "AS201401","NewVM B.V.",1076
-"AS43260","DGN TEKNOLOJI A.S.",1037
+"AS43260","DGN TEKNOLOJI A.S.",1044
 "AS0","",969
 "AS208684","BHA CONSEIL SARL",930
 "AS51852","Private Layer INC",907
@@ -43,17 +43,17 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",792
 "AS215925","VPSVAULT.HOST LTD",750
 "AS211680","NSEC - Sistemas Informaticos, S.A.",695
-"AS23470","ReliableSite.Net LLC",645
+"AS23470","ReliableSite.Net LLC",651
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",509
 "AS140292","China Telecom",508
-"AS14618","Amazon.com, Inc.",500
+"AS14618","Amazon.com, Inc.",501
 "AS36352","HostPapa",500
 "AS9009","M247 Europe SRL",493
 "AS50360","Tamatiya EOOD",492
-"AS10439","CariNet, Inc.",482
+"AS10439","CariNet, Inc.",484
 "AS4837","CHINA UNICOM China169 Backbone",469
 "AS201814","MEVSPACE sp. z o.o.",462
 "AS212238","Datacamp Limited",454
@@ -80,7 +80,7 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS12876","ONLINE S.A.S.",217
 "AS14987","Rethem Hosting LLC",215
-"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",210
+"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",211
 "AS7713","Telekomunikasi Indonesia (PT)",210
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",205
 "AS13335","Cloudflare, Inc.",197
@@ -158,10 +158,10 @@ ASN,Organization,IP_Count
 "AS20473","The Constant Company, LLC",35
 "AS213790","Limited Network LTD",35
 "AS55720","Gigabit Hosting Sdn Bhd",35
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",34
 "AS150263","PT Alnet Telekomunikasi Indonesia",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS4538","China Education and Research Network Center",34
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",33
 "AS23969","TOT Public Company Limited",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
