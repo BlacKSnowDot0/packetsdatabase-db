@@ -30,11 +30,11 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1127
 "AS49870","Alsycon B.V.",1095
-"AS43260","DGN TEKNOLOJI A.S.",1077
+"AS43260","DGN TEKNOLOJI A.S.",1078
 "AS201401","NewVM B.V.",1076
 "AS0","",969
 "AS208684","BHA CONSEIL SARL",930
-"AS22552","eSited Solutions",908
+"AS22552","eSited Solutions",909
 "AS51852","Private Layer INC",907
 "AS174","Cogent Communications",866
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -414,6 +414,7 @@ ASN,Organization,IP_Count
 "AS17451","BIZNET NETWORKS",5
 "AS17858","LG POWERCOMM",5
 "AS18229","CtrlS",5
+"AS198983","Joseph Hofmann trading as 'Tornado Datacenter GmbH & Co. KG'",5
 "AS199414","Noah Kolossa",5
 "AS200514","KnownSRV Ltd.",5
 "AS202468","Noyan Abr Arvan Co. ( Private Joint Stock)",5
@@ -466,7 +467,6 @@ ASN,Organization,IP_Count
 "AS15895","""Kyivstar"" PJSC",4
 "AS17552","TRUE INTERNET CORPORATION CO. LTD.",4
 "AS17676","SoftBank Corp.",4
-"AS198983","Joseph Hofmann trading as 'Tornado Datacenter GmbH & Co. KG'",4
 "AS20115","Charter Communications",4
 "AS202520","SkyPass Solutions Sp. z.o.o.",4
 "AS203380","DA International Group Ltd.",4
