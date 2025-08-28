@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87514
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21543
-"AS398324","Censys, Inc.",10162
+"AS398324","Censys, Inc.",10166
 "AS396982","Google LLC",9445
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6759
+"AS14061","DigitalOcean, LLC",6761
 "AS16276","OVH SAS",5536
 "AS4134","Chinanet",4768
 "AS6568","Entel S.A. - EntelNet",4536
@@ -29,7 +29,7 @@ ASN,Organization,IP_Count
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1127
-"AS43260","DGN TEKNOLOJI A.S.",1101
+"AS43260","DGN TEKNOLOJI A.S.",1103
 "AS49870","Alsycon B.V.",1098
 "AS201401","NewVM B.V.",1076
 "AS0","",970
@@ -195,6 +195,7 @@ ASN,Organization,IP_Count
 "AS198037","SPACECORE SOLUTION LTD",23
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",23
 "AS55933","Cloudie Limited",23
+"AS55990","Huawei Cloud Service data center",23
 "AS60068","Datacamp Limited",23
 "AS62240","Clouvider Limited",23
 "AS17557","Pakistan Telecommuication company limited",22
@@ -205,7 +206,6 @@ ASN,Organization,IP_Count
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",22
 "AS43289","Trabia SRL",22
 "AS51430","AltusHost B.V.",22
-"AS55990","Huawei Cloud Service data center",22
 "AS58224","Iran Telecommunication Company PJS",22
 "AS17561","Larus Limited",21
 "AS17995","PT iForte Global Internet",21
