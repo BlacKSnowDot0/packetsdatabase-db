@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87514
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
-"AS211298","Driftnet Ltd",21534
-"AS398324","Censys, Inc.",10132
+"AS211298","Driftnet Ltd",21536
+"AS398324","Censys, Inc.",10134
 "AS396982","Google LLC",9441
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6750
@@ -11,13 +11,13 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4399
 "AS16509","Amazon.com, Inc.",3832
-"AS63949","Akamai Technologies, Inc.",3437
+"AS63949","Akamai Technologies, Inc.",3438
 "AS45102","Alibaba (US) Technology Co., Ltd.",3324
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3161
 "AS51396","Pfcloud UG",2969
 "AS213412","ONYPHE SAS",2795
-"AS142002","Scloud Pte Ltd",2523
+"AS142002","Scloud Pte Ltd",2524
 "AS8075","Microsoft Corporation",2436
 "AS6939","Hurricane Electric LLC",2054
 "AS9808","China Mobile",2045
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1127
 "AS49870","Alsycon B.V.",1094
 "AS201401","NewVM B.V.",1076
-"AS43260","DGN TEKNOLOJI A.S.",1046
+"AS43260","DGN TEKNOLOJI A.S.",1049
 "AS0","",969
 "AS208684","BHA CONSEIL SARL",930
 "AS51852","Private Layer INC",907
@@ -49,8 +49,8 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",509
 "AS140292","China Telecom",508
+"AS36352","HostPapa",502
 "AS14618","Amazon.com, Inc.",501
-"AS36352","HostPapa",501
 "AS9009","M247 Europe SRL",493
 "AS50360","Tamatiya EOOD",492
 "AS10439","CariNet, Inc.",484
@@ -155,10 +155,10 @@ ASN,Organization,IP_Count
 "AS396356","Latitude.sh",40
 "AS7552","Viettel Group",40
 "AS34984","Superonline Iletisim Hizmetleri A.S.",39
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",35
 "AS20473","The Constant Company, LLC",35
 "AS213790","Limited Network LTD",35
 "AS55720","Gigabit Hosting Sdn Bhd",35
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",34
 "AS150263","PT Alnet Telekomunikasi Indonesia",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS4538","China Education and Research Network Center",34
