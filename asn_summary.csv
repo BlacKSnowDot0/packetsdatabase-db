@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4399
 "AS16509","Amazon.com, Inc.",3832
-"AS63949","Akamai Technologies, Inc.",3439
+"AS63949","Akamai Technologies, Inc.",3440
 "AS45102","Alibaba (US) Technology Co., Ltd.",3332
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3161
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1127
 "AS49870","Alsycon B.V.",1095
-"AS43260","DGN TEKNOLOJI A.S.",1085
+"AS43260","DGN TEKNOLOJI A.S.",1086
 "AS201401","NewVM B.V.",1076
 "AS0","",970
 "AS208684","BHA CONSEIL SARL",930
@@ -689,6 +689,7 @@ ASN,Organization,IP_Count
 "AS211860","Nerushenko Vyacheslav Nikolaevich",2
 "AS211895","Serverius Holding B.V.",2
 "AS213725","UK-03AI",2
+"AS214762","Sebastian Stefanek trading as MatHost.eu",2
 "AS21479","PJSC Rostelecom",2
 "AS214967","Optibounce, LLC",2
 "AS21497","PrJSC ""VF UKRAINE""",2
@@ -1075,7 +1076,6 @@ ASN,Organization,IP_Count
 "AS21409","Ikoula Net SAS",1
 "AS214305","YUNUS EMRE OZEREN",1
 "AS214364","StreamTech Solutions EOOD",1
-"AS214762","Sebastian Stefanek trading as MatHost.eu",1
 "AS214822","MT FINANCE LLC",1
 "AS214834","Rekade LTD",1
 "AS214882","Hadi Santosa",1
