@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87514
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
-"AS211298","Driftnet Ltd",21537
-"AS398324","Censys, Inc.",10148
+"AS211298","Driftnet Ltd",21538
+"AS398324","Censys, Inc.",10151
 "AS396982","Google LLC",9442
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6753
+"AS14061","DigitalOcean, LLC",6755
 "AS16276","OVH SAS",5535
 "AS4134","Chinanet",4768
 "AS6568","Entel S.A. - EntelNet",4536
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2524
 "AS8075","Microsoft Corporation",2444
-"AS6939","Hurricane Electric LLC",2058
+"AS6939","Hurricane Electric LLC",2059
 "AS9808","China Mobile",2046
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1619
@@ -31,17 +31,17 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1127
 "AS49870","Alsycon B.V.",1095
 "AS201401","NewVM B.V.",1076
-"AS43260","DGN TEKNOLOJI A.S.",1067
+"AS43260","DGN TEKNOLOJI A.S.",1069
 "AS0","",969
 "AS208684","BHA CONSEIL SARL",930
-"AS22552","eSited Solutions",907
+"AS22552","eSited Solutions",908
 "AS51852","Private Layer INC",907
 "AS174","Cogent Communications",866
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",803
 "AS208046","ColocationX Ltd.",792
-"AS215925","VPSVAULT.HOST LTD",750
+"AS215925","VPSVAULT.HOST LTD",751
 "AS211680","NSEC - Sistemas Informaticos, S.A.",695
 "AS23470","ReliableSite.Net LLC",652
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -53,14 +53,14 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",501
 "AS9009","M247 Europe SRL",493
 "AS50360","Tamatiya EOOD",492
-"AS10439","CariNet, Inc.",485
+"AS10439","CariNet, Inc.",486
 "AS4837","CHINA UNICOM China169 Backbone",470
 "AS201814","MEVSPACE sp. z o.o.",462
 "AS212238","Datacamp Limited",454
 "AS32475","Internap Holding LLC",435
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",403
-"AS20052","Arbor Networks, Inc.",392
+"AS20052","Arbor Networks, Inc.",393
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS51167","Contabo GmbH",357
 "AS3462","Chunghwa Telecom Co., Ltd.",330
@@ -71,7 +71,7 @@ ASN,Organization,IP_Count
 "AS210848","Telkom Internet LTD",296
 "AS53667","FranTech Solutions",282
 "AS9341","PT Indonesia Comnets Plus",278
-"AS9829","Bharat Sanchar Nigam Ltd",275
+"AS9829","Bharat Sanchar Nigam Ltd",276
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",264
 "AS60223","Netiface Limited",247
 "AS48090","TECHOFF SRV LIMITED",245
