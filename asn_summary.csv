@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",2969
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2524
-"AS8075","Microsoft Corporation",2447
+"AS8075","Microsoft Corporation",2449
 "AS6939","Hurricane Electric LLC",2061
 "AS9808","China Mobile",2046
 "AS214295","SKYNET NETWORK LTD",1631
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS24186","RailTel Corporation of India Ltd.",403
 "AS20052","Arbor Networks, Inc.",393
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS51167","Contabo GmbH",358
+"AS51167","Contabo GmbH",359
 "AS3462","Chunghwa Telecom Co., Ltd.",330
 "AS21859","Zenlayer Inc",315
 "AS214943","Railnet LLC",311
@@ -325,6 +325,7 @@ ASN,Organization,IP_Count
 "AS4760","PCCW IMS Limited",9
 "AS48874","HOSTMAZE INC SRL-D",9
 "AS9318","SK Broadband Co Ltd",9
+"AS135059","Lao Asia Pacific Satellite Co., Ltd.",8
 "AS135918","VIET DIGITAL TECHNOLOGY LIABILITY COMPANY",8
 "AS141295","Madhya Pradesh Agency For Promotion   Of Information Technology",8
 "AS17882","MCS Com Co Ltd",8
@@ -345,7 +346,6 @@ ASN,Organization,IP_Count
 "AS6698","Virtual Systems LLC",8
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",8
 "AS133661","Netplus Broadband Services Private Limited",7
-"AS135059","Lao Asia Pacific Satellite Co., Ltd.",7
 "AS138754","Kerala Vision Broad Band Private Limited",7
 "AS17762","Tata Teleservices (Maharashtra) Ltd",7
 "AS197309","RS-Media LLC",7
@@ -556,6 +556,7 @@ ASN,Organization,IP_Count
 "AS212219","HOSTING DUNYAM BILISIM TEKNOLOJILERI TICARET LIMITED SIRKETI",3
 "AS213354","INTERNATIONAL HOSTING SOLUTIONS LLP",3
 "AS213520","Senko Digital Ltd",3
+"AS214762","Sebastian Stefanek trading as MatHost.eu",3
 "AS21499","Host Europe GmbH",3
 "AS22418","Cologuard",3
 "AS22612","Namecheap, Inc.",3
@@ -689,7 +690,6 @@ ASN,Organization,IP_Count
 "AS211860","Nerushenko Vyacheslav Nikolaevich",2
 "AS211895","Serverius Holding B.V.",2
 "AS213725","UK-03AI",2
-"AS214762","Sebastian Stefanek trading as MatHost.eu",2
 "AS21479","PJSC Rostelecom",2
 "AS214967","Optibounce, LLC",2
 "AS21497","PrJSC ""VF UKRAINE""",2
