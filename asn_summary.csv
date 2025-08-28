@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",2969
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2524
-"AS8075","Microsoft Corporation",2444
+"AS8075","Microsoft Corporation",2445
 "AS6939","Hurricane Electric LLC",2060
 "AS9808","China Mobile",2046
 "AS214295","SKYNET NETWORK LTD",1631
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1127
 "AS49870","Alsycon B.V.",1095
-"AS43260","DGN TEKNOLOJI A.S.",1081
+"AS43260","DGN TEKNOLOJI A.S.",1082
 "AS201401","NewVM B.V.",1076
 "AS0","",970
 "AS208684","BHA CONSEIL SARL",930
@@ -41,7 +41,7 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",803
 "AS208046","ColocationX Ltd.",792
-"AS215925","VPSVAULT.HOST LTD",751
+"AS215925","VPSVAULT.HOST LTD",752
 "AS211680","NSEC - Sistemas Informaticos, S.A.",695
 "AS23470","ReliableSite.Net LLC",652
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -256,6 +256,7 @@ ASN,Organization,IP_Count
 "AS272547","Servicos de Infraestrutura e Datacenter",15
 "AS31113","Artkomm LLC",15
 "AS397283","RocketNode Inc",15
+"AS49531","""NetCom-R"" LLC",15
 "AS6134","XNNET LLC",15
 "AS146817","Hubei Feixun Network Co., Ltd",14
 "AS207713","GLOBAL INTERNET SOLUTIONS LLC",14
@@ -263,7 +264,6 @@ ASN,Organization,IP_Count
 "AS39603","P4 Sp. z o.o.",14
 "AS45758","Triple T Broadband Public Company Limited",14
 "AS48721","Flyservers S.A.",14
-"AS49531","""NetCom-R"" LLC",14
 "AS136142","Enigma Fiber Pvt Ltd",13
 "AS213194","Nechaev Dmitry Sergeevich",13
 "AS25369","Hydra Communications Ltd",13
