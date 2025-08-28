@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87514
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21539
-"AS398324","Censys, Inc.",10158
+"AS398324","Censys, Inc.",10161
 "AS396982","Google LLC",9442
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6759
@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",2969
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2524
-"AS8075","Microsoft Corporation",2445
+"AS8075","Microsoft Corporation",2446
 "AS6939","Hurricane Electric LLC",2061
 "AS9808","China Mobile",2046
 "AS214295","SKYNET NETWORK LTD",1631
@@ -30,13 +30,13 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1127
 "AS49870","Alsycon B.V.",1095
-"AS43260","DGN TEKNOLOJI A.S.",1086
+"AS43260","DGN TEKNOLOJI A.S.",1092
 "AS201401","NewVM B.V.",1076
 "AS0","",970
 "AS208684","BHA CONSEIL SARL",930
 "AS22552","eSited Solutions",910
 "AS51852","Private Layer INC",907
-"AS174","Cogent Communications",866
+"AS174","Cogent Communications",867
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",803
@@ -124,16 +124,16 @@ ASN,Organization,IP_Count
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS14956","RouterHosting LLC",63
 "AS140717","China Unicom",61
+"AS205352","KABELNET LTD",59
 "AS16735","ALGAR TELECOM S/A",58
-"AS205352","KABELNET LTD",58
 "AS4812","China Telecom (Group)",58
 "AS20278","Nexeon Technologies, Inc.",57
 "AS3920","ESTOXY OU",57
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS49544","i3D.net B.V",55
+"AS151185","China Telecom",54
 "AS210125","PRIAM NET Sh.p.k.",54
-"AS151185","China Telecom",53
 "AS44382","Fiba Cloud Operation Company, LLC",53
 "AS47331","TTNet A.S.",53
 "AS8402","PJSC ""Vimpelcom""",51
