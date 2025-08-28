@@ -1,7 +1,7 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87514
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
-"AS211298","Driftnet Ltd",21539
+"AS211298","Driftnet Ltd",21540
 "AS398324","Censys, Inc.",10161
 "AS396982","Google LLC",9443
 "AS26210","AXS Bolivia S. A.",7971
@@ -12,13 +12,13 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4399
 "AS16509","Amazon.com, Inc.",3832
 "AS63949","Akamai Technologies, Inc.",3440
-"AS45102","Alibaba (US) Technology Co., Ltd.",3332
+"AS45102","Alibaba (US) Technology Co., Ltd.",3334
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3161
 "AS51396","Pfcloud UG",2969
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2524
-"AS8075","Microsoft Corporation",2446
+"AS8075","Microsoft Corporation",2447
 "AS6939","Hurricane Electric LLC",2061
 "AS9808","China Mobile",2046
 "AS214295","SKYNET NETWORK LTD",1631
@@ -124,7 +124,7 @@ ASN,Organization,IP_Count
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS14956","RouterHosting LLC",63
 "AS140717","China Unicom",61
-"AS205352","KABELNET LTD",59
+"AS205352","KABELNET LTD",60
 "AS16735","ALGAR TELECOM S/A",58
 "AS4812","China Telecom (Group)",58
 "AS20278","Nexeon Technologies, Inc.",57
@@ -171,11 +171,11 @@ ASN,Organization,IP_Count
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",30
 "AS9198","JSC Kazakhtelecom",30
 "AS138156","CSNE Co., Ltd.",29
+"AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",29
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS141679","China Telecom",28
-"AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS1241","RIPE Network Coordination Centre",27
 "AS149746","PT Blip Integrator Provider",27
