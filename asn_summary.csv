@@ -3,7 +3,7 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21540
 "AS398324","Censys, Inc.",10161
-"AS396982","Google LLC",9443
+"AS396982","Google LLC",9444
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6759
 "AS16276","OVH SAS",5536
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4399
 "AS16509","Amazon.com, Inc.",3832
 "AS63949","Akamai Technologies, Inc.",3440
-"AS45102","Alibaba (US) Technology Co., Ltd.",3334
+"AS45102","Alibaba (US) Technology Co., Ltd.",3337
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3161
 "AS51396","Pfcloud UG",2969
@@ -29,8 +29,8 @@ ASN,Organization,IP_Count
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1127
-"AS49870","Alsycon B.V.",1095
-"AS43260","DGN TEKNOLOJI A.S.",1094
+"AS43260","DGN TEKNOLOJI A.S.",1097
+"AS49870","Alsycon B.V.",1097
 "AS201401","NewVM B.V.",1076
 "AS0","",970
 "AS208684","BHA CONSEIL SARL",930
@@ -290,6 +290,7 @@ ASN,Organization,IP_Count
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
 "AS24940","Hetzner Online GmbH",11
 "AS3257","GTT Communications Inc.",11
+"AS329490","Promethean Consulting Limited",11
 "AS37457","Telkom SA Ltd.",11
 "AS39351","31173 Services AB",11
 "AS41436","Kamatera Inc",11
@@ -303,7 +304,6 @@ ASN,Organization,IP_Count
 "AS2116","GLOBALCONNECT AS",10
 "AS24547","China Mobile",10
 "AS30823","aurologic GmbH",10
-"AS329490","Promethean Consulting Limited",10
 "AS41420","Xentech B.V.",10
 "AS44901","Belcloud LTD",10
 "AS48925","VibeGAMES B.V.",10
