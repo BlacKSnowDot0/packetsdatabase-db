@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87514
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21538
-"AS398324","Censys, Inc.",10153
+"AS398324","Censys, Inc.",10155
 "AS396982","Google LLC",9442
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6758
-"AS16276","OVH SAS",5535
+"AS14061","DigitalOcean, LLC",6759
+"AS16276","OVH SAS",5536
 "AS4134","Chinanet",4768
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4399
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2524
 "AS8075","Microsoft Corporation",2444
-"AS6939","Hurricane Electric LLC",2059
+"AS6939","Hurricane Electric LLC",2060
 "AS9808","China Mobile",2046
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1619
@@ -30,8 +30,8 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1127
 "AS49870","Alsycon B.V.",1095
+"AS43260","DGN TEKNOLOJI A.S.",1077
 "AS201401","NewVM B.V.",1076
-"AS43260","DGN TEKNOLOJI A.S.",1076
 "AS0","",969
 "AS208684","BHA CONSEIL SARL",930
 "AS22552","eSited Solutions",908
@@ -47,7 +47,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
-"AS36352","HostPapa",509
+"AS36352","HostPapa",510
 "AS401120","cheapy.host LLC",509
 "AS140292","China Telecom",508
 "AS14618","Amazon.com, Inc.",501
@@ -107,7 +107,7 @@ ASN,Organization,IP_Count
 "AS42237","w1n ltd",88
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",88
 "AS58461","Chinanet",85
-"AS50219","LNK SYSTEMS MUNTENIA SRL",79
+"AS50219","LNK SYSTEMS MUNTENIA SRL",80
 "AS200019","ALEXHOST SRL",77
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS32475","SingleHop LLC",75
@@ -427,6 +427,7 @@ ASN,Organization,IP_Count
 "AS26383","Baxet Group Inc.",5
 "AS265702","AZUL NETWORKS S.R.L",5
 "AS266702","MEGALINK S.R.L.",5
+"AS267507","SRX TECNOLOGIA DA INFORMACAO LTDA",5
 "AS267784","Flyservers S.A.",5
 "AS27983","Red Intercable Digital S.A.",5
 "AS2856","British Telecommunications PLC",5
@@ -484,7 +485,6 @@ ASN,Organization,IP_Count
 "AS262916","Mega Cable, S.A. de C.V.",4
 "AS265379","JULIO CESAR DAS NEVES - ME",4
 "AS265586","INBTEL, S.A. DE C.V.",4
-"AS267507","SRX TECNOLOGIA DA INFORMACAO LTDA",4
 "AS267684","VISIONMAGICA SOCIEDAD ANONIMA",4
 "AS269003","KIMNET SOLUCOES",4
 "AS269820","FULL DATA COMUNICACIONES C.A.",4
