@@ -1,7 +1,7 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87514
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
-"AS211298","Driftnet Ltd",21538
+"AS211298","Driftnet Ltd",21539
 "AS398324","Censys, Inc.",10158
 "AS396982","Google LLC",9442
 "AS26210","AXS Bolivia S. A.",7971
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2524
 "AS8075","Microsoft Corporation",2445
-"AS6939","Hurricane Electric LLC",2060
+"AS6939","Hurricane Electric LLC",2061
 "AS9808","China Mobile",2046
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1619
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1127
 "AS49870","Alsycon B.V.",1095
-"AS43260","DGN TEKNOLOJI A.S.",1082
+"AS43260","DGN TEKNOLOJI A.S.",1083
 "AS201401","NewVM B.V.",1076
 "AS0","",970
 "AS208684","BHA CONSEIL SARL",930
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS24186","RailTel Corporation of India Ltd.",403
 "AS20052","Arbor Networks, Inc.",393
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS51167","Contabo GmbH",357
+"AS51167","Contabo GmbH",358
 "AS3462","Chunghwa Telecom Co., Ltd.",330
 "AS21859","Zenlayer Inc",315
 "AS214943","Railnet LLC",311
@@ -1326,6 +1326,7 @@ ASN,Organization,IP_Count
 "AS45305","Lintas Data Prima, PT",1
 "AS45356","Mobitel Pvt Ltd",1
 "AS45499","Cablelink Internet Sservices Inc.",1
+"AS45544","SUPERDATA-VN",1
 "AS45582","VAINAVI INDUSTIES LTD, INTERNET SERVICE PROVIDER, INDIA",1
 "AS45753","Netsec Limited",1
 "AS45775","WISH NET PRIVATE LIMITED",1
