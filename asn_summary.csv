@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1127
 "AS49870","Alsycon B.V.",1095
-"AS43260","DGN TEKNOLOJI A.S.",1083
+"AS43260","DGN TEKNOLOJI A.S.",1085
 "AS201401","NewVM B.V.",1076
 "AS0","",970
 "AS208684","BHA CONSEIL SARL",930
@@ -674,6 +674,7 @@ ASN,Organization,IP_Count
 "AS201409","HOSTSHIELD LTD",2
 "AS202561","High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.",2
 "AS203087","PE Fedinyak Sergey Vyacheslavovich",2
+"AS203459","AL-MARAJ AL-ALAMIYA Co",2
 "AS203811","AL-MARAJ AL-ALAMIYA Co",2
 "AS204102","LLC SmartGrupp",2
 "AS204914","LABIXE LTD",2
@@ -1029,7 +1030,6 @@ ASN,Organization,IP_Count
 "AS202993","Institute of Information Technologies of National Academy of Science Azerbaijan",1
 "AS203003","Magna Capax Finland Oy",1
 "AS203214","Hulum Almustakbal Company for Communication Engineering and Services Ltd",1
-"AS203459","AL-MARAJ AL-ALAMIYA Co",1
 "AS203622","GSP LLC",1
 "AS203972","LLC TatAISneft",1
 "AS204834","Shabakieh Isfahan Co PJSC",1
