@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",10144
 "AS396982","Google LLC",9442
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6752
+"AS14061","DigitalOcean, LLC",6753
 "AS16276","OVH SAS",5535
 "AS4134","Chinanet",4768
 "AS6568","Entel S.A. - EntelNet",4536
@@ -18,8 +18,8 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",2969
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2524
-"AS8075","Microsoft Corporation",2441
-"AS6939","Hurricane Electric LLC",2056
+"AS8075","Microsoft Corporation",2442
+"AS6939","Hurricane Electric LLC",2057
 "AS9808","China Mobile",2045
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1619
@@ -31,11 +31,11 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1127
 "AS49870","Alsycon B.V.",1095
 "AS201401","NewVM B.V.",1076
-"AS43260","DGN TEKNOLOJI A.S.",1059
+"AS43260","DGN TEKNOLOJI A.S.",1060
 "AS0","",969
 "AS208684","BHA CONSEIL SARL",930
+"AS22552","eSited Solutions",907
 "AS51852","Private Layer INC",907
-"AS22552","eSited Solutions",906
 "AS174","Cogent Communications",866
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",509
 "AS140292","China Telecom",508
-"AS36352","HostPapa",502
+"AS36352","HostPapa",504
 "AS14618","Amazon.com, Inc.",501
 "AS9009","M247 Europe SRL",493
 "AS50360","Tamatiya EOOD",492
@@ -71,7 +71,7 @@ ASN,Organization,IP_Count
 "AS210848","Telkom Internet LTD",296
 "AS53667","FranTech Solutions",281
 "AS9341","PT Indonesia Comnets Plus",278
-"AS9829","Bharat Sanchar Nigam Ltd",273
+"AS9829","Bharat Sanchar Nigam Ltd",274
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",264
 "AS60223","Netiface Limited",247
 "AS48090","TECHOFF SRV LIMITED",245
@@ -115,8 +115,8 @@ ASN,Organization,IP_Count
 "AS27882","Telefónica Celular de Bolivia S.A.",73
 "AS4766","Korea Telecom",73
 "AS18403","FPT Telecom Company",69
+"AS28209","Under Servicos de Internet Ltda",69
 "AS52053","REDHEBERG Association declaree",69
-"AS28209","Under Servicos de Internet Ltda",68
 "AS328867","Corebach Backbone SARL",67
 "AS31898","Oracle Corporation",66
 "AS40021","Nubes, LLC",66
