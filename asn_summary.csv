@@ -2,17 +2,17 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87514
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21544
-"AS398324","Censys, Inc.",10171
-"AS396982","Google LLC",9449
+"AS398324","Censys, Inc.",10172
+"AS396982","Google LLC",9450
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6766
+"AS14061","DigitalOcean, LLC",6767
 "AS16276","OVH SAS",5538
 "AS4134","Chinanet",4769
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4399
 "AS16509","Amazon.com, Inc.",3832
 "AS63949","Akamai Technologies, Inc.",3440
-"AS45102","Alibaba (US) Technology Co., Ltd.",3338
+"AS45102","Alibaba (US) Technology Co., Ltd.",3339
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3161
 "AS51396","Pfcloud UG",2969
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1295
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS399045","DediOutlet, LLC",1127
+"AS399045","DediOutlet, LLC",1128
 "AS43260","DGN TEKNOLOJI A.S.",1119
 "AS49870","Alsycon B.V.",1098
 "AS201401","NewVM B.V.",1076
@@ -47,7 +47,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
-"AS36352","HostPapa",514
+"AS36352","HostPapa",522
 "AS401120","cheapy.host LLC",509
 "AS140292","China Telecom",508
 "AS14618","Amazon.com, Inc.",502
@@ -55,12 +55,12 @@ ASN,Organization,IP_Count
 "AS50360","Tamatiya EOOD",492
 "AS10439","CariNet, Inc.",486
 "AS4837","CHINA UNICOM China169 Backbone",470
-"AS201814","MEVSPACE sp. z o.o.",462
+"AS201814","MEVSPACE sp. z o.o.",463
 "AS212238","Datacamp Limited",454
-"AS32475","Internap Holding LLC",443
+"AS32475","Internap Holding LLC",453
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",403
-"AS20052","Arbor Networks, Inc.",393
+"AS20052","Arbor Networks, Inc.",394
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS51167","Contabo GmbH",360
 "AS3462","Chunghwa Telecom Co., Ltd.",330
@@ -104,7 +104,7 @@ ASN,Organization,IP_Count
 "AS29484","Ruhr-Universitaet Bochum",104
 "AS262551","Farol Telecom",92
 "AS63018","Dedicated.com",92
-"AS42237","w1n ltd",88
+"AS42237","w1n ltd",89
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",88
 "AS58461","Chinanet",85
 "AS50219","LNK SYSTEMS MUNTENIA SRL",81
