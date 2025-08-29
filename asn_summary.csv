@@ -1,12 +1,12 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87514
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
-"AS211298","Driftnet Ltd",21543
-"AS398324","Censys, Inc.",10169
-"AS396982","Google LLC",9448
+"AS211298","Driftnet Ltd",21544
+"AS398324","Censys, Inc.",10170
+"AS396982","Google LLC",9449
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6764
-"AS16276","OVH SAS",5537
+"AS14061","DigitalOcean, LLC",6765
+"AS16276","OVH SAS",5538
 "AS4134","Chinanet",4769
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4399
@@ -29,7 +29,7 @@ ASN,Organization,IP_Count
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1127
-"AS43260","DGN TEKNOLOJI A.S.",1110
+"AS43260","DGN TEKNOLOJI A.S.",1113
 "AS49870","Alsycon B.V.",1098
 "AS201401","NewVM B.V.",1076
 "AS0","",970
@@ -82,7 +82,7 @@ ASN,Organization,IP_Count
 "AS14987","Rethem Hosting LLC",215
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",212
 "AS7713","Telekomunikasi Indonesia (PT)",210
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",207
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",208
 "AS13335","Cloudflare, Inc.",197
 "AS401116","Nybula LLC",170
 "AS12389","PJSC Rostelecom",168
@@ -102,8 +102,8 @@ ASN,Organization,IP_Count
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
 "AS29484","Ruhr-Universitaet Bochum",104
+"AS262551","Farol Telecom",92
 "AS63018","Dedicated.com",92
-"AS262551","Farol Telecom",91
 "AS42237","w1n ltd",88
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",88
 "AS58461","Chinanet",85
@@ -131,9 +131,9 @@ ASN,Organization,IP_Count
 "AS3920","ESTOXY OU",57
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
+"AS210125","PRIAM NET Sh.p.k.",55
 "AS49544","i3D.net B.V",55
 "AS151185","China Telecom",54
-"AS210125","PRIAM NET Sh.p.k.",54
 "AS44382","Fiba Cloud Operation Company, LLC",53
 "AS47331","TTNet A.S.",53
 "AS8402","PJSC ""Vimpelcom""",51
@@ -144,12 +144,12 @@ ASN,Organization,IP_Count
 "AS11320","LightEdge Solutions",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
 "AS271795","SERVITELCONET CIA. LTDA.",46
+"AS199785","Cloud Hosting Solutions, Limited.",44
 "AS213877","u1host ltd",44
 "AS42708","GleSYS AB",44
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",44
 "AS46844","Sharktech",44
 "AS152194","CTG Server Limited",43
-"AS199785","Cloud Hosting Solutions, Limited.",43
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS215590","DpkgSoft International Limited",41
 "AS396356","Latitude.sh",40
