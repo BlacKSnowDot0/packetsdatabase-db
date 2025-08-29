@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87514
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21545
-"AS398324","Censys, Inc.",10184
+"AS398324","Censys, Inc.",10185
 "AS396982","Google LLC",9452
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6774
@@ -27,8 +27,8 @@ ASN,Organization,IP_Count
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1295
 "AS204428","SS-Net",1182
+"AS43260","DGN TEKNOLOJI A.S.",1139
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS43260","DGN TEKNOLOJI A.S.",1137
 "AS399045","DediOutlet, LLC",1133
 "AS49870","Alsycon B.V.",1098
 "AS201401","NewVM B.V.",1076
@@ -57,7 +57,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",471
 "AS201814","MEVSPACE sp. z o.o.",464
 "AS212238","Datacamp Limited",454
-"AS32475","Internap Holding LLC",453
+"AS32475","Internap Holding LLC",454
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",403
 "AS20052","Arbor Networks, Inc.",394
@@ -157,9 +157,9 @@ ASN,Organization,IP_Count
 "AS34984","Superonline Iletisim Hizmetleri A.S.",39
 "AS55720","Gigabit Hosting Sdn Bhd",36
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",35
+"AS150263","PT Alnet Telekomunikasi Indonesia",35
 "AS20473","The Constant Company, LLC",35
 "AS213790","Limited Network LTD",35
-"AS150263","PT Alnet Telekomunikasi Indonesia",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS4538","China Education and Research Network Center",34
 "AS23969","TOT Public Company Limited",33
