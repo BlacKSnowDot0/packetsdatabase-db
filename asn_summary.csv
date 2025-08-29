@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87518
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21547
-"AS398324","Censys, Inc.",10200
+"AS398324","Censys, Inc.",10202
 "AS396982","Google LLC",9452
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6783
@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",2970
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2524
-"AS8075","Microsoft Corporation",2457
+"AS8075","Microsoft Corporation",2458
 "AS6939","Hurricane Electric LLC",2065
 "AS9808","China Mobile",2048
 "AS214295","SKYNET NETWORK LTD",1631
@@ -26,8 +26,8 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1456
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1295
+"AS43260","DGN TEKNOLOJI A.S.",1186
 "AS204428","SS-Net",1182
-"AS43260","DGN TEKNOLOJI A.S.",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1134
 "AS49870","Alsycon B.V.",1098
@@ -55,14 +55,14 @@ ASN,Organization,IP_Count
 "AS50360","Tamatiya EOOD",492
 "AS10439","CariNet, Inc.",486
 "AS4837","CHINA UNICOM China169 Backbone",471
+"AS32475","Internap Holding LLC",470
 "AS201814","MEVSPACE sp. z o.o.",464
 "AS212238","Datacamp Limited",454
-"AS32475","Internap Holding LLC",454
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",403
 "AS20052","Arbor Networks, Inc.",398
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS51167","Contabo GmbH",364
+"AS51167","Contabo GmbH",365
 "AS3462","Chunghwa Telecom Co., Ltd.",330
 "AS21859","Zenlayer Inc",315
 "AS214943","Railnet LLC",311
