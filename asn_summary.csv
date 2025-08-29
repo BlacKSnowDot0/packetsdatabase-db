@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87514
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21545
-"AS398324","Censys, Inc.",10178
+"AS398324","Censys, Inc.",10179
 "AS396982","Google LLC",9450
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6770
@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",2969
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2524
-"AS8075","Microsoft Corporation",2452
+"AS8075","Microsoft Corporation",2453
 "AS6939","Hurricane Electric LLC",2063
 "AS9808","China Mobile",2047
 "AS214295","SKYNET NETWORK LTD",1631
@@ -29,12 +29,12 @@ ASN,Organization,IP_Count
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1133
-"AS43260","DGN TEKNOLOJI A.S.",1128
+"AS43260","DGN TEKNOLOJI A.S.",1130
 "AS49870","Alsycon B.V.",1098
 "AS201401","NewVM B.V.",1076
 "AS0","",970
 "AS208684","BHA CONSEIL SARL",930
-"AS22552","eSited Solutions",914
+"AS22552","eSited Solutions",915
 "AS51852","Private Layer INC",907
 "AS174","Cogent Communications",867
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -101,7 +101,7 @@ ASN,Organization,IP_Count
 "AS13238","YANDEX LLC",114
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
-"AS29484","Ruhr-Universitaet Bochum",104
+"AS29484","Ruhr-Universitaet Bochum",105
 "AS262551","Farol Telecom",92
 "AS63018","Dedicated.com",92
 "AS42237","w1n ltd",89
@@ -741,6 +741,7 @@ ASN,Organization,IP_Count
 "AS29456","PJSC Rostelecom",2
 "AS30753","FHU ""COMPOWER"" Dariusz Krocz",2
 "AS30844","Liquid Telecommunications Ltd",2
+"AS30936","RENET COM Ltd.",2
 "AS31245","ATI - ISP",2
 "AS31566","SkyNetwork Ltd.",2
 "AS31725","ISP Shtorm LTD",2
