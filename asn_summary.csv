@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87514
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21543
-"AS398324","Censys, Inc.",10168
-"AS396982","Google LLC",9447
+"AS398324","Censys, Inc.",10169
+"AS396982","Google LLC",9448
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6762
+"AS14061","DigitalOcean, LLC",6764
 "AS16276","OVH SAS",5537
 "AS4134","Chinanet",4769
 "AS6568","Entel S.A. - EntelNet",4536
@@ -18,8 +18,8 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",2969
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2524
-"AS8075","Microsoft Corporation",2451
-"AS6939","Hurricane Electric LLC",2061
+"AS8075","Microsoft Corporation",2452
+"AS6939","Hurricane Electric LLC",2062
 "AS9808","China Mobile",2046
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1619
@@ -29,12 +29,12 @@ ASN,Organization,IP_Count
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1127
-"AS43260","DGN TEKNOLOJI A.S.",1108
+"AS43260","DGN TEKNOLOJI A.S.",1110
 "AS49870","Alsycon B.V.",1098
 "AS201401","NewVM B.V.",1076
 "AS0","",970
 "AS208684","BHA CONSEIL SARL",930
-"AS22552","eSited Solutions",912
+"AS22552","eSited Solutions",913
 "AS51852","Private Layer INC",907
 "AS174","Cogent Communications",867
 "AS9465","AGOTOZ PTE. LTD.",845
