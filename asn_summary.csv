@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",2969
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2524
-"AS8075","Microsoft Corporation",2455
+"AS8075","Microsoft Corporation",2456
 "AS6939","Hurricane Electric LLC",2065
 "AS9808","China Mobile",2048
 "AS214295","SKYNET NETWORK LTD",1631
@@ -27,14 +27,14 @@ ASN,Organization,IP_Count
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1295
 "AS204428","SS-Net",1182
-"AS43260","DGN TEKNOLOJI A.S.",1151
+"AS43260","DGN TEKNOLOJI A.S.",1155
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1133
 "AS49870","Alsycon B.V.",1098
 "AS201401","NewVM B.V.",1076
 "AS0","",970
 "AS208684","BHA CONSEIL SARL",930
-"AS22552","eSited Solutions",918
+"AS22552","eSited Solutions",919
 "AS51852","Private Layer INC",907
 "AS174","Cogent Communications",867
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",792
 "AS215925","VPSVAULT.HOST LTD",753
 "AS211680","NSEC - Sistemas Informaticos, S.A.",695
-"AS23470","ReliableSite.Net LLC",652
+"AS23470","ReliableSite.Net LLC",653
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
@@ -279,6 +279,7 @@ ASN,Organization,IP_Count
 "AS36947","Telecom Algeria",12
 "AS36992","ETISALAT MISR",12
 "AS4713","NTT Communications Corporation",12
+"AS4808","China Unicom Beijing Province Network",12
 "AS62442","Dade Samane Fanava Company (PJS)",12
 "AS984","OCTOPUS WEB SOLUTION INC",12
 "AS12874","Fastweb SpA",11
@@ -295,7 +296,6 @@ ASN,Organization,IP_Count
 "AS39351","31173 Services AB",11
 "AS41436","Kamatera Inc",11
 "AS45820","TTSL-ISP DIVISION",11
-"AS4808","China Unicom Beijing Province Network",11
 "AS48753","AVA HOST SRL",11
 "AS58563","CHINANET Hubei province network",11
 "AS9123","TimeWeb Ltd.",11
