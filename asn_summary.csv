@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",10219
 "AS396982","Google LLC",9456
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6788
+"AS14061","DigitalOcean, LLC",6789
 "AS16276","OVH SAS",5541
 "AS4134","Chinanet",4770
 "AS6568","Entel S.A. - EntelNet",4536
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1456
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1295
-"AS43260","DGN TEKNOLOJI A.S.",1218
+"AS43260","DGN TEKNOLOJI A.S.",1219
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1134
@@ -101,7 +101,7 @@ ASN,Organization,IP_Count
 "AS13238","YANDEX LLC",114
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
-"AS29484","Ruhr-Universitaet Bochum",105
+"AS29484","Ruhr-Universitaet Bochum",106
 "AS262551","Farol Telecom",92
 "AS63018","Dedicated.com",92
 "AS42237","w1n ltd",89
@@ -1455,6 +1455,7 @@ ASN,Organization,IP_Count
 "AS8100","QuadraNet Enterprises LLC",1
 "AS8167","V tal",1
 "AS8220","COLT Technology Services Group Limited",1
+"AS834","IPXO LLC",1
 "AS8346","SONATEL-AS Autonomous System",1
 "AS8369","Intersvyaz-2 JSC",1
 "AS8376","Jordan Data Communications Company LLC",1
