@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87518
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21547
-"AS398324","Censys, Inc.",10214
+"AS398324","Censys, Inc.",10216
 "AS396982","Google LLC",9456
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6786
@@ -12,21 +12,21 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4399
 "AS16509","Amazon.com, Inc.",3832
 "AS63949","Akamai Technologies, Inc.",3440
-"AS45102","Alibaba (US) Technology Co., Ltd.",3346
+"AS45102","Alibaba (US) Technology Co., Ltd.",3348
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3161
 "AS51396","Pfcloud UG",2970
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2524
-"AS8075","Microsoft Corporation",2459
-"AS6939","Hurricane Electric LLC",2066
+"AS8075","Microsoft Corporation",2460
+"AS6939","Hurricane Electric LLC",2067
 "AS9808","China Mobile",2048
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1622
 "AS209605","UAB Host Baltic",1456
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1295
-"AS43260","DGN TEKNOLOJI A.S.",1206
+"AS43260","DGN TEKNOLOJI A.S.",1210
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1134
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1076
 "AS0","",971
 "AS208684","BHA CONSEIL SARL",930
-"AS22552","eSited Solutions",922
+"AS22552","eSited Solutions",923
 "AS51852","Private Layer INC",907
 "AS174","Cogent Communications",869
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -46,8 +46,8 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",657
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
+"AS36352","HostPapa",528
 "AS198953","Proton66 OOO",527
-"AS36352","HostPapa",527
 "AS401120","cheapy.host LLC",509
 "AS140292","China Telecom",508
 "AS14618","Amazon.com, Inc.",503
