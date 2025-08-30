@@ -2,17 +2,17 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87518
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21547
-"AS398324","Censys, Inc.",10208
+"AS398324","Censys, Inc.",10210
 "AS396982","Google LLC",9454
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6784
+"AS14061","DigitalOcean, LLC",6785
 "AS16276","OVH SAS",5540
 "AS4134","Chinanet",4770
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4399
 "AS16509","Amazon.com, Inc.",3832
 "AS63949","Akamai Technologies, Inc.",3440
-"AS45102","Alibaba (US) Technology Co., Ltd.",3345
+"AS45102","Alibaba (US) Technology Co., Ltd.",3346
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3161
 "AS51396","Pfcloud UG",2970
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1456
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1295
-"AS43260","DGN TEKNOLOJI A.S.",1200
+"AS43260","DGN TEKNOLOJI A.S.",1204
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1134
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1076
 "AS0","",970
 "AS208684","BHA CONSEIL SARL",930
-"AS22552","eSited Solutions",921
+"AS22552","eSited Solutions",922
 "AS51852","Private Layer INC",907
 "AS174","Cogent Communications",869
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -54,8 +54,8 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",493
 "AS50360","Tamatiya EOOD",492
 "AS10439","CariNet, Inc.",486
+"AS32475","Internap Holding LLC",473
 "AS4837","CHINA UNICOM China169 Backbone",471
-"AS32475","Internap Holding LLC",470
 "AS201814","MEVSPACE sp. z o.o.",464
 "AS212238","Datacamp Limited",454
 "AS21299","Kar-Tel LLC",405
@@ -921,6 +921,7 @@ ASN,Organization,IP_Count
 "AS134922","R G TECHNOSOLUTIONS PVT LTD",1
 "AS135061","China Unicom Guangdong IP network",1
 "AS135234","SHERIE PLEXUS ISP PRIVATE LIMITED",1
+"AS135392","MillenialHost Limited",1
 "AS135607","Infinivan Incorporated",1
 "AS135746","Cityline Networks Pvt Ltd",1
 "AS135780","AirFiber Networks Pvt Ltd",1
