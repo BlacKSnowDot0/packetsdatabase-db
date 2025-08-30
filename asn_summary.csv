@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87518
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21547
-"AS398324","Censys, Inc.",10207
-"AS396982","Google LLC",9453
+"AS398324","Censys, Inc.",10208
+"AS396982","Google LLC",9454
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6783
-"AS16276","OVH SAS",5539
+"AS14061","DigitalOcean, LLC",6784
+"AS16276","OVH SAS",5540
 "AS4134","Chinanet",4770
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4399
@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",2970
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2524
-"AS8075","Microsoft Corporation",2458
+"AS8075","Microsoft Corporation",2459
 "AS6939","Hurricane Electric LLC",2065
 "AS9808","China Mobile",2048
 "AS214295","SKYNET NETWORK LTD",1631
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1456
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1295
-"AS43260","DGN TEKNOLOJI A.S.",1198
+"AS43260","DGN TEKNOLOJI A.S.",1200
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1134
@@ -62,12 +62,12 @@ ASN,Organization,IP_Count
 "AS24186","RailTel Corporation of India Ltd.",403
 "AS20052","Arbor Networks, Inc.",398
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS51167","Contabo GmbH",365
+"AS51167","Contabo GmbH",367
 "AS3462","Chunghwa Telecom Co., Ltd.",330
 "AS21859","Zenlayer Inc",315
 "AS214943","Railnet LLC",311
 "AS24863","LINKdotNET AS number",307
-"AS51115","HLL LLC",306
+"AS51115","HLL LLC",307
 "AS210848","Telkom Internet LTD",296
 "AS53667","FranTech Solutions",285
 "AS9829","Bharat Sanchar Nigam Ltd",279
@@ -136,8 +136,8 @@ ASN,Organization,IP_Count
 "AS210125","PRIAM NET Sh.p.k.",55
 "AS44382","Fiba Cloud Operation Company, LLC",53
 "AS47331","TTNet A.S.",53
+"AS8560","IONOS SE",52
 "AS8402","PJSC ""Vimpelcom""",51
-"AS8560","IONOS SE",51
 "AS136435","ELITE COMMUNICATION",50
 "AS57588","Hayat for Internet & communication LLC",49
 "AS266181","GOLDEN LINK",47
