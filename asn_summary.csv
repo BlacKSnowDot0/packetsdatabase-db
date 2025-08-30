@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87520
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21548
-"AS398324","Censys, Inc.",10221
+"AS398324","Censys, Inc.",10222
 "AS396982","Google LLC",9458
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6791
@@ -12,10 +12,10 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4399
 "AS16509","Amazon.com, Inc.",3832
 "AS63949","Akamai Technologies, Inc.",3440
-"AS45102","Alibaba (US) Technology Co., Ltd.",3352
+"AS45102","Alibaba (US) Technology Co., Ltd.",3353
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3161
-"AS51396","Pfcloud UG",2970
+"AS51396","Pfcloud UG",2971
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2524
 "AS8075","Microsoft Corporation",2462
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1076
 "AS0","",972
 "AS208684","BHA CONSEIL SARL",930
-"AS22552","eSited Solutions",926
+"AS22552","eSited Solutions",927
 "AS51852","Private Layer INC",907
 "AS174","Cogent Communications",869
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS401120","cheapy.host LLC",509
 "AS140292","China Telecom",508
 "AS14618","Amazon.com, Inc.",503
-"AS9009","M247 Europe SRL",494
+"AS9009","M247 Europe SRL",495
 "AS50360","Tamatiya EOOD",492
 "AS10439","CariNet, Inc.",486
 "AS32475","Internap Holding LLC",483
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS24186","RailTel Corporation of India Ltd.",403
 "AS20052","Arbor Networks, Inc.",400
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS51167","Contabo GmbH",369
+"AS51167","Contabo GmbH",371
 "AS3462","Chunghwa Telecom Co., Ltd.",330
 "AS21859","Zenlayer Inc",315
 "AS214943","Railnet LLC",311
@@ -123,7 +123,7 @@ ASN,Organization,IP_Count
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS14956","RouterHosting LLC",64
-"AS205352","KABELNET LTD",62
+"AS205352","KABELNET LTD",63
 "AS140717","China Unicom",61
 "AS16735","ALGAR TELECOM S/A",58
 "AS4812","China Telecom (Group)",58
