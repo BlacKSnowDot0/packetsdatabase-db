@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87521
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21551
-"AS398324","Censys, Inc.",10233
+"AS398324","Censys, Inc.",10234
 "AS396982","Google LLC",9458
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6793
+"AS14061","DigitalOcean, LLC",6794
 "AS16276","OVH SAS",5543
 "AS4134","Chinanet",4770
 "AS6568","Entel S.A. - EntelNet",4536
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1456
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1295
-"AS43260","DGN TEKNOLOJI A.S.",1244
+"AS43260","DGN TEKNOLOJI A.S.",1246
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1134
@@ -52,8 +52,8 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",508
 "AS14618","Amazon.com, Inc.",503
 "AS9009","M247 Europe SRL",495
+"AS32475","Internap Holding LLC",493
 "AS50360","Tamatiya EOOD",492
-"AS32475","Internap Holding LLC",491
 "AS10439","CariNet, Inc.",486
 "AS4837","CHINA UNICOM China169 Backbone",471
 "AS201814","MEVSPACE sp. z o.o.",464
@@ -90,7 +90,7 @@ ASN,Organization,IP_Count
 "AS208843","Alpha Strike Labs GmbH",164
 "AS63199","CDS Global Cloud Co., Ltd",161
 "AS45899","VNPT Corp",155
-"AS213613","BOTSHIELD LTD",142
+"AS213613","BOTSHIELD LTD",143
 "AS141718","haoxiangyun",141
 "AS47105","Vault Dweller OU",141
 "AS137409","GSL Networks Pty LTD",128
