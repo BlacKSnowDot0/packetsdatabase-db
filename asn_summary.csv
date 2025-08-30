@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87519
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87520
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21548
-"AS398324","Censys, Inc.",10219
-"AS396982","Google LLC",9456
+"AS398324","Censys, Inc.",10220
+"AS396982","Google LLC",9458
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6789
+"AS14061","DigitalOcean, LLC",6790
 "AS16276","OVH SAS",5541
 "AS4134","Chinanet",4770
 "AS6568","Entel S.A. - EntelNet",4536
@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",2970
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2524
-"AS8075","Microsoft Corporation",2461
+"AS8075","Microsoft Corporation",2462
 "AS6939","Hurricane Electric LLC",2068
 "AS9808","China Mobile",2048
 "AS214295","SKYNET NETWORK LTD",1631
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1456
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1295
-"AS43260","DGN TEKNOLOJI A.S.",1219
+"AS43260","DGN TEKNOLOJI A.S.",1220
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1134
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1076
 "AS0","",972
 "AS208684","BHA CONSEIL SARL",930
-"AS22552","eSited Solutions",924
+"AS22552","eSited Solutions",925
 "AS51852","Private Layer INC",907
 "AS174","Cogent Communications",869
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -54,7 +54,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",494
 "AS50360","Tamatiya EOOD",492
 "AS10439","CariNet, Inc.",486
-"AS32475","Internap Holding LLC",474
+"AS32475","Internap Holding LLC",483
 "AS4837","CHINA UNICOM China169 Backbone",471
 "AS201814","MEVSPACE sp. z o.o.",464
 "AS212238","Datacamp Limited",454
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS24186","RailTel Corporation of India Ltd.",403
 "AS20052","Arbor Networks, Inc.",399
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS51167","Contabo GmbH",368
+"AS51167","Contabo GmbH",369
 "AS3462","Chunghwa Telecom Co., Ltd.",330
 "AS21859","Zenlayer Inc",315
 "AS214943","Railnet LLC",311
@@ -191,10 +191,10 @@ ASN,Organization,IP_Count
 "AS19318","Interserver, Inc",25
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",25
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",24
+"AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",24
 "AS55990","Huawei Cloud Service data center",24
 "AS149705","PT Wijaya Trimitra Indonesia",23
 "AS198037","SPACECORE SOLUTION LTD",23
-"AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",23
 "AS55933","Cloudie Limited",23
 "AS60068","Datacamp Limited",23
 "AS62240","Clouvider Limited",23
