@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87520
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21548
-"AS398324","Censys, Inc.",10223
+"AS398324","Censys, Inc.",10224
 "AS396982","Google LLC",9458
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6791
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2524
 "AS8075","Microsoft Corporation",2464
-"AS6939","Hurricane Electric LLC",2068
+"AS6939","Hurricane Electric LLC",2069
 "AS9808","China Mobile",2048
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1623
@@ -64,7 +64,7 @@ ASN,Organization,IP_Count
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS51167","Contabo GmbH",371
 "AS3462","Chunghwa Telecom Co., Ltd.",330
-"AS21859","Zenlayer Inc",315
+"AS21859","Zenlayer Inc",316
 "AS214943","Railnet LLC",311
 "AS24863","LINKdotNET AS number",307
 "AS51115","HLL LLC",307
@@ -168,9 +168,9 @@ ASN,Organization,IP_Count
 "AS210558","1337 Services GmbH",32
 "AS262378","Compuservice Empreendimentos Ltda",32
 "AS42624","Global-Data System IT Corporation",32
+"AS138156","CSNE Co., Ltd.",30
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",30
 "AS9198","JSC Kazakhtelecom",30
-"AS138156","CSNE Co., Ltd.",29
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",29
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
@@ -1326,6 +1326,7 @@ ASN,Organization,IP_Count
 "AS43727","JSC KVANT-TELEKOM",1
 "AS44056","Trytek LLC",1
 "AS44143","A1 Srbija d.o.o",1
+"AS44486","Oliver Horscht is trading as ""SYNLINQ""",1
 "AS44558","Netonline Bilisim Sirketi LTD",1
 "AS45184","DEN Networks Limited",1
 "AS45287","Varnion Technology Semesta, PT",1
