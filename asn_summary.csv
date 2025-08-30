@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87521
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21551
-"AS398324","Censys, Inc.",10232
+"AS398324","Censys, Inc.",10233
 "AS396982","Google LLC",9458
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6791
+"AS14061","DigitalOcean, LLC",6792
 "AS16276","OVH SAS",5543
 "AS4134","Chinanet",4770
 "AS6568","Entel S.A. - EntelNet",4536
@@ -17,7 +17,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3161
 "AS51396","Pfcloud UG",2972
 "AS213412","ONYPHE SAS",2795
-"AS142002","Scloud Pte Ltd",2524
+"AS142002","Scloud Pte Ltd",2525
 "AS8075","Microsoft Corporation",2465
 "AS6939","Hurricane Electric LLC",2070
 "AS9808","China Mobile",2048
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1456
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1295
-"AS43260","DGN TEKNOLOJI A.S.",1240
+"AS43260","DGN TEKNOLOJI A.S.",1242
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1134
@@ -41,7 +41,7 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",803
 "AS208046","ColocationX Ltd.",792
-"AS215925","VPSVAULT.HOST LTD",755
+"AS215925","VPSVAULT.HOST LTD",756
 "AS211680","NSEC - Sistemas Informaticos, S.A.",695
 "AS23470","ReliableSite.Net LLC",659
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -104,7 +104,7 @@ ASN,Organization,IP_Count
 "AS29484","Ruhr-Universitaet Bochum",106
 "AS262551","Farol Telecom",92
 "AS63018","Dedicated.com",92
-"AS42237","w1n ltd",89
+"AS42237","w1n ltd",90
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",88
 "AS58461","Chinanet",85
 "AS50219","LNK SYSTEMS MUNTENIA SRL",81
@@ -190,6 +190,7 @@ ASN,Organization,IP_Count
 "AS12816","Leibniz-Rechenzentrum",25
 "AS19318","Interserver, Inc",25
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",25
+"AS34534","FBW NETWORKS SAS",25
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",24
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",24
 "AS55990","Huawei Cloud Service data center",24
@@ -204,7 +205,6 @@ ASN,Organization,IP_Count
 "AS30083","velia.net",22
 "AS30633","Leaseweb USA, Inc.",22
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",22
-"AS34534","FBW NETWORKS SAS",22
 "AS43289","Trabia SRL",22
 "AS51430","AltusHost B.V.",22
 "AS58224","Iran Telecommunication Company PJS",22
