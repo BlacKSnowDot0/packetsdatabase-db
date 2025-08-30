@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87520
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21548
-"AS398324","Censys, Inc.",10222
+"AS398324","Censys, Inc.",10223
 "AS396982","Google LLC",9458
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6791
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1456
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1295
-"AS43260","DGN TEKNOLOJI A.S.",1220
+"AS43260","DGN TEKNOLOJI A.S.",1222
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1134
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1076
 "AS0","",972
 "AS208684","BHA CONSEIL SARL",930
-"AS22552","eSited Solutions",927
+"AS22552","eSited Solutions",928
 "AS51852","Private Layer INC",907
 "AS174","Cogent Communications",869
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -422,6 +422,7 @@ ASN,Organization,IP_Count
 "AS207656","Epinatura LLC",5
 "AS21056","Vianova S.p.A",5
 "AS21246","IPKO Telecommunications LLC",5
+"AS213520","Senko Digital Ltd",5
 "AS213851","Marcel Hanisch",5
 "AS214417","Andrii Hrosh",5
 "AS215311","Regxa Company for Information Technology Ltd",5
@@ -474,7 +475,6 @@ ASN,Organization,IP_Count
 "AS207957","SERV.HOST GROUP LTD",4
 "AS208040","RSS (RAPID SOFTWARE SYSTEMS) CYPRUS LTD",4
 "AS208208","Marco Lingl trading as Cyberse GmbH & Co. KG",4
-"AS213520","Senko Digital Ltd",4
 "AS213893","IPTransit Business LTD",4
 "AS214209","Internet Magnate (Pty) Ltd",4
 "AS215439","PLAY2GO INTERNATIONAL LIMITED",4
