@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87519
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21548
-"AS398324","Censys, Inc.",10217
+"AS398324","Censys, Inc.",10219
 "AS396982","Google LLC",9456
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6787
+"AS14061","DigitalOcean, LLC",6788
 "AS16276","OVH SAS",5541
 "AS4134","Chinanet",4770
 "AS6568","Entel S.A. - EntelNet",4536
@@ -26,13 +26,13 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1456
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1295
-"AS43260","DGN TEKNOLOJI A.S.",1217
+"AS43260","DGN TEKNOLOJI A.S.",1218
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1134
 "AS49870","Alsycon B.V.",1098
 "AS201401","NewVM B.V.",1076
-"AS0","",971
+"AS0","",972
 "AS208684","BHA CONSEIL SARL",930
 "AS22552","eSited Solutions",924
 "AS51852","Private Layer INC",907
@@ -69,7 +69,7 @@ ASN,Organization,IP_Count
 "AS24863","LINKdotNET AS number",307
 "AS51115","HLL LLC",307
 "AS210848","Telkom Internet LTD",296
-"AS53667","FranTech Solutions",285
+"AS53667","FranTech Solutions",286
 "AS9829","Bharat Sanchar Nigam Ltd",280
 "AS9341","PT Indonesia Comnets Plus",278
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",264
@@ -78,7 +78,7 @@ ASN,Organization,IP_Count
 "AS209272","Alviva Holding Limited",230
 "AS47890","UNMANAGED LTD",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
-"AS12876","ONLINE S.A.S.",219
+"AS12876","ONLINE S.A.S.",220
 "AS14987","Rethem Hosting LLC",215
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",212
 "AS7713","Telekomunikasi Indonesia (PT)",210
@@ -123,8 +123,8 @@ ASN,Organization,IP_Count
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS14956","RouterHosting LLC",64
+"AS205352","KABELNET LTD",62
 "AS140717","China Unicom",61
-"AS205352","KABELNET LTD",61
 "AS16735","ALGAR TELECOM S/A",58
 "AS4812","China Telecom (Group)",58
 "AS20278","Nexeon Technologies, Inc.",57
@@ -182,13 +182,13 @@ ASN,Organization,IP_Count
 "AS149746","PT Blip Integrator Provider",27
 "AS3786","LG DACOM Corporation",27
 "AS44592","SkyLink Data Center BV",27
+"AS210644","AEZA INTERNATIONAL LTD",26
 "AS2200","Renater",26
 "AS29066","velia.net Internetdienste GmbH",26
 "AS3209","Vodafone GmbH",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS12816","Leibniz-Rechenzentrum",25
 "AS19318","Interserver, Inc",25
-"AS210644","AEZA INTERNATIONAL LTD",25
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",25
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",24
 "AS55990","Huawei Cloud Service data center",24
@@ -311,6 +311,7 @@ ASN,Organization,IP_Count
 "AS60781","LeaseWeb Netherlands B.V.",10
 "AS701","Verizon Business",10
 "AS134420","Chongqing Telecom",9
+"AS135059","Lao Asia Pacific Satellite Co., Ltd.",9
 "AS149359","PT Persada Data Multimedia",9
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",9
 "AS212504","AdKyNet SAS",9
@@ -325,7 +326,6 @@ ASN,Organization,IP_Count
 "AS4760","PCCW IMS Limited",9
 "AS48874","HOSTMAZE INC SRL-D",9
 "AS9318","SK Broadband Co Ltd",9
-"AS135059","Lao Asia Pacific Satellite Co., Ltd.",8
 "AS135918","VIET DIGITAL TECHNOLOGY LIABILITY COMPANY",8
 "AS141295","Madhya Pradesh Agency For Promotion   Of Information Technology",8
 "AS17882","MCS Com Co Ltd",8
