@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87518
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21547
-"AS398324","Censys, Inc.",10202
-"AS396982","Google LLC",9452
+"AS398324","Censys, Inc.",10207
+"AS396982","Google LLC",9453
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6783
 "AS16276","OVH SAS",5539
@@ -22,11 +22,11 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2065
 "AS9808","China Mobile",2048
 "AS214295","SKYNET NETWORK LTD",1631
-"AS202425","IP Volume inc",1621
+"AS202425","IP Volume inc",1622
 "AS209605","UAB Host Baltic",1456
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1295
-"AS43260","DGN TEKNOLOJI A.S.",1189
+"AS43260","DGN TEKNOLOJI A.S.",1198
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1134
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1076
 "AS0","",970
 "AS208684","BHA CONSEIL SARL",930
-"AS22552","eSited Solutions",920
+"AS22552","eSited Solutions",921
 "AS51852","Private Layer INC",907
 "AS174","Cogent Communications",869
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -394,6 +394,7 @@ ASN,Organization,IP_Count
 "AS48642","Joint stock company ""For""",6
 "AS50304","Blix Solutions AS",6
 "AS50923","Metroset Ltd.",6
+"AS53118","NETLINE TELECOM",6
 "AS5384","EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",6
 "AS5617","Orange Polska Spolka Akcyjna",6
 "AS56971","CGI GLOBAL LIMITED",6
@@ -444,7 +445,6 @@ ASN,Organization,IP_Count
 "AS397270","NetInformatik Inc.",5
 "AS45458","ADVANCED WIRELESS NETWORK COMPANY LIMITED",5
 "AS4721","JCOM Co., Ltd.",5
-"AS53118","NETLINE TELECOM",5
 "AS56044","China Mobile Communications Corporation",5
 "AS58898","Rainbow communications India Pvt Ltd",5
 "AS59441","NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)",5
@@ -796,6 +796,7 @@ ASN,Organization,IP_Count
 "AS47441","Comfortel Ltd.",2
 "AS47524","Turksat Uydu Haberlesme ve Kablo TV Isletme A.S.",2
 "AS4755","Tata Communications Limited",2
+"AS4811","China Telecom (Group)",2
 "AS4818","DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",2
 "AS48314","Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG",2
 "AS48678","PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi",2
@@ -1078,6 +1079,7 @@ ASN,Organization,IP_Count
 "AS21409","Ikoula Net SAS",1
 "AS214305","YUNUS EMRE OZEREN",1
 "AS214364","StreamTech Solutions EOOD",1
+"AS214657","Bls Services Tecnologia em Software Ltda",1
 "AS214822","MT FINANCE LLC",1
 "AS214834","Rekade LTD",1
 "AS214882","Hadi Santosa",1
@@ -1347,7 +1349,6 @@ ASN,Organization,IP_Count
 "AS48004","PE Tsibrankov Konstantin Igorevich",1
 "AS4804","SingTel Optus Pty Ltd",1
 "AS48043","Ozyorsk Telecom CJSC.",1
-"AS4811","China Telecom (Group)",1
 "AS48166","FORTEX CJSC",1
 "AS48441","Society with limited liability MagLAN",1
 "AS48524","INTERRA telecommunications group, Ltd.",1
