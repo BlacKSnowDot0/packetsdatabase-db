@@ -6,10 +6,10 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",9458
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6791
-"AS16276","OVH SAS",5542
+"AS16276","OVH SAS",5543
 "AS4134","Chinanet",4770
 "AS6568","Entel S.A. - EntelNet",4536
-"AS58466","CHINANET Guangdong province network",4399
+"AS58466","CHINANET Guangdong province network",4400
 "AS16509","Amazon.com, Inc.",3832
 "AS63949","Akamai Technologies, Inc.",3441
 "AS45102","Alibaba (US) Technology Co., Ltd.",3353
@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",2972
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2524
-"AS8075","Microsoft Corporation",2464
+"AS8075","Microsoft Corporation",2465
 "AS6939","Hurricane Electric LLC",2070
 "AS9808","China Mobile",2048
 "AS214295","SKYNET NETWORK LTD",1631
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1456
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1295
-"AS43260","DGN TEKNOLOJI A.S.",1233
+"AS43260","DGN TEKNOLOJI A.S.",1235
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1134
@@ -53,8 +53,8 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",503
 "AS9009","M247 Europe SRL",495
 "AS50360","Tamatiya EOOD",492
+"AS32475","Internap Holding LLC",487
 "AS10439","CariNet, Inc.",486
-"AS32475","Internap Holding LLC",486
 "AS4837","CHINA UNICOM China169 Backbone",471
 "AS201814","MEVSPACE sp. z o.o.",464
 "AS212238","Datacamp Limited",454
@@ -204,13 +204,13 @@ ASN,Organization,IP_Count
 "AS30083","velia.net",22
 "AS30633","Leaseweb USA, Inc.",22
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",22
+"AS34534","FBW NETWORKS SAS",22
 "AS43289","Trabia SRL",22
 "AS51430","AltusHost B.V.",22
 "AS58224","Iran Telecommunication Company PJS",22
 "AS17561","Larus Limited",21
 "AS17995","PT iForte Global Internet",21
 "AS214668","AxusHost B.V.",21
-"AS34534","FBW NETWORKS SAS",21
 "AS400536","Nodestop LLC",21
 "AS4800","PT Aplikanusa Lintasarta",21
 "AS8048","CANTV Servicios, Venezuela",21
