@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87521
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
-"AS211298","Driftnet Ltd",21550
-"AS398324","Censys, Inc.",10229
+"AS211298","Driftnet Ltd",21551
+"AS398324","Censys, Inc.",10230
 "AS396982","Google LLC",9458
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6791
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1456
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1295
-"AS43260","DGN TEKNOLOJI A.S.",1235
+"AS43260","DGN TEKNOLOJI A.S.",1238
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1134
@@ -1324,6 +1324,7 @@ ASN,Organization,IP_Count
 "AS43357","Owl Limited",1
 "AS43361","LUMINA LLC",1
 "AS43727","JSC KVANT-TELEKOM",1
+"AS43940","Drustvo za telekomunikacije ""MTEL"" DOO",1
 "AS44056","Trytek LLC",1
 "AS44143","A1 Srbija d.o.o",1
 "AS44486","Oliver Horscht is trading as ""SYNLINQ""",1
