@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87518
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21547
-"AS398324","Censys, Inc.",10210
-"AS396982","Google LLC",9455
+"AS398324","Censys, Inc.",10211
+"AS396982","Google LLC",9456
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6785
 "AS16276","OVH SAS",5541
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1456
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1295
-"AS43260","DGN TEKNOLOJI A.S.",1205
+"AS43260","DGN TEKNOLOJI A.S.",1206
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1134
@@ -47,7 +47,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
-"AS36352","HostPapa",526
+"AS36352","HostPapa",527
 "AS401120","cheapy.host LLC",509
 "AS140292","China Telecom",508
 "AS14618","Amazon.com, Inc.",503
@@ -60,7 +60,7 @@ ASN,Organization,IP_Count
 "AS212238","Datacamp Limited",454
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",403
-"AS20052","Arbor Networks, Inc.",398
+"AS20052","Arbor Networks, Inc.",399
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS51167","Contabo GmbH",367
 "AS3462","Chunghwa Telecom Co., Ltd.",330
@@ -474,6 +474,7 @@ ASN,Organization,IP_Count
 "AS207957","SERV.HOST GROUP LTD",4
 "AS208040","RSS (RAPID SOFTWARE SYSTEMS) CYPRUS LTD",4
 "AS208208","Marco Lingl trading as Cyberse GmbH & Co. KG",4
+"AS213520","Senko Digital Ltd",4
 "AS213893","IPTransit Business LTD",4
 "AS214209","Internet Magnate (Pty) Ltd",4
 "AS215439","PLAY2GO INTERNATIONAL LIMITED",4
@@ -555,7 +556,6 @@ ASN,Organization,IP_Count
 "AS211826","Istqrar for Servers Services Ltd",3
 "AS212219","HOSTING DUNYAM BILISIM TEKNOLOJILERI TICARET LIMITED SIRKETI",3
 "AS213354","INTERNATIONAL HOSTING SOLUTIONS LLP",3
-"AS213520","Senko Digital Ltd",3
 "AS214762","Sebastian Stefanek trading as MatHost.eu",3
 "AS21499","Host Europe GmbH",3
 "AS22418","Cologuard",3
