@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87518
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21547
-"AS398324","Censys, Inc.",10211
+"AS398324","Censys, Inc.",10214
 "AS396982","Google LLC",9456
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6785
+"AS14061","DigitalOcean, LLC",6786
 "AS16276","OVH SAS",5541
 "AS4134","Chinanet",4770
 "AS6568","Entel S.A. - EntelNet",4536
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2524
 "AS8075","Microsoft Corporation",2459
-"AS6939","Hurricane Electric LLC",2065
+"AS6939","Hurricane Electric LLC",2066
 "AS9808","China Mobile",2048
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1622
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1134
 "AS49870","Alsycon B.V.",1098
 "AS201401","NewVM B.V.",1076
-"AS0","",970
+"AS0","",971
 "AS208684","BHA CONSEIL SARL",930
 "AS22552","eSited Solutions",922
 "AS51852","Private Layer INC",907
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS401120","cheapy.host LLC",509
 "AS140292","China Telecom",508
 "AS14618","Amazon.com, Inc.",503
-"AS9009","M247 Europe SRL",493
+"AS9009","M247 Europe SRL",494
 "AS50360","Tamatiya EOOD",492
 "AS10439","CariNet, Inc.",486
 "AS32475","Internap Holding LLC",474
