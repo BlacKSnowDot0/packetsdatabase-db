@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87520
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21548
-"AS398324","Censys, Inc.",10220
+"AS398324","Censys, Inc.",10221
 "AS396982","Google LLC",9458
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6790
+"AS14061","DigitalOcean, LLC",6791
 "AS16276","OVH SAS",5541
 "AS4134","Chinanet",4770
 "AS6568","Entel S.A. - EntelNet",4536
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1076
 "AS0","",972
 "AS208684","BHA CONSEIL SARL",930
-"AS22552","eSited Solutions",925
+"AS22552","eSited Solutions",926
 "AS51852","Private Layer INC",907
 "AS174","Cogent Communications",869
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -60,7 +60,7 @@ ASN,Organization,IP_Count
 "AS212238","Datacamp Limited",454
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",403
-"AS20052","Arbor Networks, Inc.",399
+"AS20052","Arbor Networks, Inc.",400
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS51167","Contabo GmbH",369
 "AS3462","Chunghwa Telecom Co., Ltd.",330
@@ -377,6 +377,7 @@ ASN,Organization,IP_Count
 "AS17639","ComClark Network & Technology Corp",6
 "AS17754","Excellmedia",6
 "AS18881","TELEFÔNICA BRASIL S.A",6
+"AS200514","KnownSRV Ltd.",6
 "AS202448","MVPS LTD",6
 "AS203020","HostRoyale Technologies Pvt Ltd",6
 "AS204631","VIVANET GmbH",6
@@ -417,7 +418,6 @@ ASN,Organization,IP_Count
 "AS18229","CtrlS",5
 "AS198983","Joseph Hofmann trading as 'Tornado Datacenter GmbH & Co. KG'",5
 "AS199414","Noah Kolossa",5
-"AS200514","KnownSRV Ltd.",5
 "AS202468","Noyan Abr Arvan Co. ( Private Joint Stock)",5
 "AS207656","Epinatura LLC",5
 "AS21056","Vianova S.p.A",5
