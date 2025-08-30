@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87522
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21551
-"AS398324","Censys, Inc.",10235
+"AS398324","Censys, Inc.",10236
 "AS396982","Google LLC",9459
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6796
@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4400
 "AS16509","Amazon.com, Inc.",3832
-"AS63949","Akamai Technologies, Inc.",3441
+"AS63949","Akamai Technologies, Inc.",3442
 "AS45102","Alibaba (US) Technology Co., Ltd.",3354
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3161
@@ -1180,6 +1180,7 @@ ASN,Organization,IP_Count
 "AS268062","REDE SMART SOLUCAO EM INTERNET EIRELI",1
 "AS268069","SPACE TELECOMUNICACAO EIRELI",1
 "AS268321","SM Passos Kayser Sistemas de Comunicações ME",1
+"AS268470","CONECTAR TELECOM BANDA LARGA LTDA",1
 "AS268581","QNAX LTDA",1
 "AS268755","Stok Info Telecom Ltda-me",1
 "AS268999","Fronteira Internet",1
