@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",2971
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2524
-"AS8075","Microsoft Corporation",2462
+"AS8075","Microsoft Corporation",2463
 "AS6939","Hurricane Electric LLC",2068
 "AS9808","China Mobile",2048
 "AS214295","SKYNET NETWORK LTD",1631
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1456
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1295
-"AS43260","DGN TEKNOLOJI A.S.",1222
+"AS43260","DGN TEKNOLOJI A.S.",1224
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1134
@@ -54,7 +54,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",495
 "AS50360","Tamatiya EOOD",492
 "AS10439","CariNet, Inc.",486
-"AS32475","Internap Holding LLC",483
+"AS32475","Internap Holding LLC",486
 "AS4837","CHINA UNICOM China169 Backbone",471
 "AS201814","MEVSPACE sp. z o.o.",464
 "AS212238","Datacamp Limited",454
@@ -582,6 +582,7 @@ ASN,Organization,IP_Count
 "AS3301","Telia Company AB",3
 "AS33771","Safaricom Limited",3
 "AS35104","Jusan Mobile JSC",3
+"AS399244","AME Hosting LLC",3
 "AS40065","CNSERVERS LLC",3
 "AS41704","JSC ""Ufanet""",3
 "AS41743","OPTIMASET Ltd.",3
@@ -770,7 +771,6 @@ ASN,Organization,IP_Count
 "AS39421","Sapinet SAS",2
 "AS395201","Allnodes Inc",2
 "AS39608","Lanet Network Ltd",2
-"AS399244","AME Hosting LLC",2
 "AS39927","E-Light-Telecom Ltd.",2
 "AS399804","Hostodo",2
 "AS400304","Redoubt Networks",2
