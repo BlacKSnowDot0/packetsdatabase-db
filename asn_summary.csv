@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4400
 "AS16509","Amazon.com, Inc.",3832
 "AS63949","Akamai Technologies, Inc.",3442
-"AS45102","Alibaba (US) Technology Co., Ltd.",3359
+"AS45102","Alibaba (US) Technology Co., Ltd.",3361
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3161
 "AS51396","Pfcloud UG",2978
@@ -95,7 +95,7 @@ ASN,Organization,IP_Count
 "AS47105","Vault Dweller OU",141
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
-"AS206264","Amarutu Technology Ltd",122
+"AS206264","Amarutu Technology Ltd",123
 "AS36007","Kamatera, Inc.",122
 "AS8151","Uninet S.A. de C.V.",117
 "AS13238","YANDEX LLC",114
@@ -118,9 +118,9 @@ ASN,Organization,IP_Count
 "AS28209","Under Servicos de Internet Ltda",69
 "AS52053","REDHEBERG Association declaree",69
 "AS328867","Corebach Backbone SARL",67
+"AS205352","KABELNET LTD",66
 "AS31898","Oracle Corporation",66
 "AS40021","Nubes, LLC",66
-"AS205352","KABELNET LTD",65
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS14956","RouterHosting LLC",64
