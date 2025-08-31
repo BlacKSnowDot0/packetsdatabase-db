@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87522
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21556
-"AS398324","Censys, Inc.",10257
-"AS396982","Google LLC",9465
+"AS398324","Censys, Inc.",10259
+"AS396982","Google LLC",9466
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6803
+"AS14061","DigitalOcean, LLC",6804
 "AS16276","OVH SAS",5547
 "AS4134","Chinanet",4770
 "AS6568","Entel S.A. - EntelNet",4536
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1118
 "AS201401","NewVM B.V.",1076
 "AS0","",973
-"AS22552","eSited Solutions",933
+"AS22552","eSited Solutions",934
 "AS208684","BHA CONSEIL SARL",930
 "AS51852","Private Layer INC",907
 "AS174","Cogent Communications",872
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS401120","cheapy.host LLC",510
 "AS140292","China Telecom",508
 "AS14618","Amazon.com, Inc.",503
-"AS32475","Internap Holding LLC",501
+"AS32475","Internap Holding LLC",502
 "AS9009","M247 Europe SRL",495
 "AS50360","Tamatiya EOOD",492
 "AS10439","CariNet, Inc.",487
@@ -136,8 +136,8 @@ ASN,Organization,IP_Count
 "AS210125","PRIAM NET Sh.p.k.",55
 "AS44382","Fiba Cloud Operation Company, LLC",53
 "AS47331","TTNet A.S.",53
+"AS136435","ELITE COMMUNICATION",52
 "AS8560","IONOS SE",52
-"AS136435","ELITE COMMUNICATION",51
 "AS8402","PJSC ""Vimpelcom""",51
 "AS57588","Hayat for Internet & communication LLC",49
 "AS11320","LightEdge Solutions",47
@@ -221,6 +221,7 @@ ASN,Organization,IP_Count
 "AS50887","DC FIBER HOME SRL",20
 "AS55836","Reliance Jio Infocomm Limited",20
 "AS17816","China Unicom IP network China169 Guangdong province",19
+"AS23724","IDC, China Telecommunications Corporation",19
 "AS43641","SOLLUTIUM EU Sp z.o.o.",19
 "AS46475","Limestone Networks, Inc.",19
 "AS58212","dataforest GmbH",19
@@ -228,7 +229,6 @@ ASN,Organization,IP_Count
 "AS11878","tzulo, inc.",18
 "AS17638","ASN for TIANJIN Provincial Net of CT",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
-"AS23724","IDC, China Telecommunications Corporation",18
 "AS24560","Bharti Airtel Limited",18
 "AS262287","Maxihost LTDA",18
 "AS329009","Spectrum Internet Service Ltd",18
