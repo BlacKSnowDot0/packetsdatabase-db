@@ -15,12 +15,12 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",3355
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3161
-"AS51396","Pfcloud UG",2976
+"AS51396","Pfcloud UG",2977
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2526
 "AS8075","Microsoft Corporation",2466
 "AS6939","Hurricane Electric LLC",2072
-"AS9808","China Mobile",2048
+"AS9808","China Mobile",2049
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1624
 "AS209605","UAB Host Baltic",1456
@@ -69,7 +69,7 @@ ASN,Organization,IP_Count
 "AS24863","LINKdotNET AS number",307
 "AS51115","HLL LLC",307
 "AS210848","Telkom Internet LTD",296
-"AS53667","FranTech Solutions",286
+"AS53667","FranTech Solutions",287
 "AS9829","Bharat Sanchar Nigam Ltd",280
 "AS9341","PT Indonesia Comnets Plus",278
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",264
@@ -137,11 +137,11 @@ ASN,Organization,IP_Count
 "AS44382","Fiba Cloud Operation Company, LLC",53
 "AS47331","TTNet A.S.",53
 "AS8560","IONOS SE",52
+"AS136435","ELITE COMMUNICATION",51
 "AS8402","PJSC ""Vimpelcom""",51
-"AS136435","ELITE COMMUNICATION",50
 "AS57588","Hayat for Internet & communication LLC",49
+"AS11320","LightEdge Solutions",47
 "AS266181","GOLDEN LINK",47
-"AS11320","LightEdge Solutions",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
 "AS271795","SERVITELCONET CIA. LTDA.",46
 "AS199785","Cloud Hosting Solutions, Limited.",44
