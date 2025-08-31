@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87522
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21555
-"AS398324","Censys, Inc.",10252
+"AS398324","Censys, Inc.",10253
 "AS396982","Google LLC",9464
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6799
+"AS14061","DigitalOcean, LLC",6800
 "AS16276","OVH SAS",5545
 "AS4134","Chinanet",4770
 "AS6568","Entel S.A. - EntelNet",4536
@@ -360,6 +360,7 @@ ASN,Organization,IP_Count
 "AS3216","PJSC ""Vimpelcom""",7
 "AS400655","NixLabs Networks",7
 "AS4816","China Telecom (Group)",7
+"AS53118","NETLINE TELECOM",7
 "AS55423","JasTel Network",7
 "AS56041","China Mobile Communications Corporation",7
 "AS62068","SpectraIP B.V.",7
@@ -395,7 +396,6 @@ ASN,Organization,IP_Count
 "AS48642","Joint stock company ""For""",6
 "AS50304","Blix Solutions AS",6
 "AS50923","Metroset Ltd.",6
-"AS53118","NETLINE TELECOM",6
 "AS5384","EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",6
 "AS5617","Orange Polska Spolka Akcyjna",6
 "AS56971","CGI GLOBAL LIMITED",6
@@ -411,6 +411,7 @@ ASN,Organization,IP_Count
 "AS135357","HONG KONG KOWLOON TELECOMMUNICATIONS CO.,LIMITED",5
 "AS136188","NINGBO, ZHEJIANG Province, P.R.China.",5
 "AS137718","Beijing Volcano Engine Technology Co., Ltd.",5
+"AS141995","Contabo Asia Private Limited",5
 "AS151858","INTERDIGI JOINT STOCK COMPANY",5
 "AS15704","XTRA TELECOM S.A.",5
 "AS17451","BIZNET NETWORKS",5
@@ -463,7 +464,6 @@ ASN,Organization,IP_Count
 "AS14080","Telmex Colombia S.A.",4
 "AS14117","Telefonica del Sur S.A.",4
 "AS141862","AL HUTAIB NETSOL PRIVATE LIMITED",4
-"AS141995","Contabo Asia Private Limited",4
 "AS150008","Pioneer Elabs Ltd.",4
 "AS150034","FOFO NETWORKS PVT LTD",4
 "AS15895","""Kyivstar"" PJSC",4
