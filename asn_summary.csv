@@ -6,7 +6,7 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",9464
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6799
-"AS16276","OVH SAS",5544
+"AS16276","OVH SAS",5545
 "AS4134","Chinanet",4770
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4400
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1117
 "AS201401","NewVM B.V.",1076
 "AS0","",972
-"AS22552","eSited Solutions",932
+"AS22552","eSited Solutions",933
 "AS208684","BHA CONSEIL SARL",930
 "AS51852","Private Layer INC",907
 "AS174","Cogent Communications",872
@@ -314,6 +314,7 @@ ASN,Organization,IP_Count
 "AS135059","Lao Asia Pacific Satellite Co., Ltd.",9
 "AS149359","PT Persada Data Multimedia",9
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",9
+"AS204104","Giti Secure Cloud LLC",9
 "AS212504","AdKyNet SAS",9
 "AS24151","China Internet Network Infomation Center",9
 "AS24835","Vodafone Data - Egypt",9
@@ -332,7 +333,6 @@ ASN,Organization,IP_Count
 "AS18209","Atria Convergence Technologies Pvt. Ltd.,",8
 "AS18986","Calligo (Canada) Inc.",8
 "AS198361","Yaglom Labs Ltd",8
-"AS204104","Giti Secure Cloud LLC",8
 "AS209956","Telkoturk Iletisim Hizmetleri A.S.",8
 "AS210509","Optimum Line for Internet Services Ltd.",8
 "AS214481","Wojciech Czapkowicz",8
