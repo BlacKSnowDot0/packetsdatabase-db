@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",2977
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2526
-"AS8075","Microsoft Corporation",2466
+"AS8075","Microsoft Corporation",2467
 "AS6939","Hurricane Electric LLC",2072
 "AS9808","China Mobile",2049
 "AS214295","SKYNET NETWORK LTD",1631
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS401120","cheapy.host LLC",510
 "AS140292","China Telecom",508
 "AS14618","Amazon.com, Inc.",503
-"AS32475","Internap Holding LLC",500
+"AS32475","Internap Holding LLC",501
 "AS9009","M247 Europe SRL",495
 "AS50360","Tamatiya EOOD",492
 "AS10439","CariNet, Inc.",487
@@ -101,7 +101,7 @@ ASN,Organization,IP_Count
 "AS13238","YANDEX LLC",114
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
-"AS29484","Ruhr-Universitaet Bochum",106
+"AS29484","Ruhr-Universitaet Bochum",107
 "AS262551","Farol Telecom",93
 "AS63018","Dedicated.com",92
 "AS42237","w1n ltd",90
@@ -447,6 +447,7 @@ ASN,Organization,IP_Count
 "AS397270","NetInformatik Inc.",5
 "AS45458","ADVANCED WIRELESS NETWORK COMPANY LIMITED",5
 "AS4721","JCOM Co., Ltd.",5
+"AS56005","Zhengzhou Fastidc Technology Co.,Ltd.",5
 "AS56044","China Mobile Communications Corporation",5
 "AS58898","Rainbow communications India Pvt Ltd",5
 "AS59441","NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)",5
@@ -505,7 +506,6 @@ ASN,Organization,IP_Count
 "AS47165","Omskie kabelnye seti Ltd.",4
 "AS52401","CABLESAT TV SRL",4
 "AS5432","Proximus NV",4
-"AS56005","Zhengzhou Fastidc Technology Co.,Ltd.",4
 "AS58369","PT. Fiber Networks Indonesia",4
 "AS58495","PT Parsaoran Global Datatrans",4
 "AS59142","Pemerintah Kota Batam",4
