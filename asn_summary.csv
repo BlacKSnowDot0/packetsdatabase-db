@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87522
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21552
-"AS398324","Censys, Inc.",10245
-"AS396982","Google LLC",9461
+"AS398324","Censys, Inc.",10248
+"AS396982","Google LLC",9462
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6799
 "AS16276","OVH SAS",5544
@@ -15,11 +15,11 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",3355
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3161
-"AS51396","Pfcloud UG",2975
+"AS51396","Pfcloud UG",2976
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2526
 "AS8075","Microsoft Corporation",2466
-"AS6939","Hurricane Electric LLC",2070
+"AS6939","Hurricane Electric LLC",2071
 "AS9808","China Mobile",2048
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1623
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1134
-"AS49870","Alsycon B.V.",1116
+"AS49870","Alsycon B.V.",1117
 "AS201401","NewVM B.V.",1076
 "AS0","",972
 "AS22552","eSited Solutions",931
@@ -42,7 +42,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",803
 "AS208046","ColocationX Ltd.",792
 "AS215925","VPSVAULT.HOST LTD",756
-"AS211680","NSEC - Sistemas Informaticos, S.A.",695
+"AS211680","NSEC - Sistemas Informaticos, S.A.",696
 "AS23470","ReliableSite.Net LLC",661
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
@@ -51,8 +51,8 @@ ASN,Organization,IP_Count
 "AS401120","cheapy.host LLC",510
 "AS140292","China Telecom",508
 "AS14618","Amazon.com, Inc.",503
+"AS32475","Internap Holding LLC",496
 "AS9009","M247 Europe SRL",495
-"AS32475","Internap Holding LLC",494
 "AS50360","Tamatiya EOOD",492
 "AS10439","CariNet, Inc.",486
 "AS4837","CHINA UNICOM China169 Backbone",471
@@ -155,9 +155,9 @@ ASN,Organization,IP_Count
 "AS396356","Latitude.sh",40
 "AS7552","Viettel Group",40
 "AS34984","Superonline Iletisim Hizmetleri A.S.",39
+"AS150263","PT Alnet Telekomunikasi Indonesia",36
 "AS55720","Gigabit Hosting Sdn Bhd",36
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",35
-"AS150263","PT Alnet Telekomunikasi Indonesia",35
 "AS20473","The Constant Company, LLC",35
 "AS213790","Limited Network LTD",35
 "AS34665","Petersburg Internet Network ltd.",34
@@ -691,6 +691,7 @@ ASN,Organization,IP_Count
 "AS211381","Podaon SIA",2
 "AS211860","Nerushenko Vyacheslav Nikolaevich",2
 "AS211895","Serverius Holding B.V.",2
+"AS212552","BitCommand LLC",2
 "AS213725","UK-03AI",2
 "AS21479","PJSC Rostelecom",2
 "AS214967","Optibounce, LLC",2
@@ -1072,7 +1073,6 @@ ASN,Organization,IP_Count
 "AS211621","West-TV LLC",1
 "AS212317","Hetzner Online GmbH",1
 "AS212531","UAB ""Interneto vizija""",1
-"AS212552","BitCommand LLC",1
 "AS21283","A1 Slovenija telekomunikacijske storitve,d.d.",1
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",1
 "AS213186","Yanoor Islam Khan",1
