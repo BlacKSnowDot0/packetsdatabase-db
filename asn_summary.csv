@@ -6,7 +6,7 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",9474
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6829
-"AS16276","OVH SAS",5548
+"AS16276","OVH SAS",5549
 "AS4134","Chinanet",4772
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4400
@@ -48,7 +48,7 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS36352","HostPapa",536
 "AS198953","Proton66 OOO",527
-"AS32475","Internap Holding LLC",524
+"AS32475","Internap Holding LLC",525
 "AS401120","cheapy.host LLC",511
 "AS140292","China Telecom",508
 "AS14618","Amazon.com, Inc.",504
@@ -60,7 +60,7 @@ ASN,Organization,IP_Count
 "AS212238","Datacamp Limited",454
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",403
-"AS20052","Arbor Networks, Inc.",401
+"AS20052","Arbor Networks, Inc.",402
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS51167","Contabo GmbH",379
 "AS3462","Chunghwa Telecom Co., Ltd.",330
@@ -95,7 +95,7 @@ ASN,Organization,IP_Count
 "AS47105","Vault Dweller OU",141
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
-"AS206264","Amarutu Technology Ltd",123
+"AS206264","Amarutu Technology Ltd",124
 "AS36007","Kamatera, Inc.",122
 "AS8151","Uninet S.A. de C.V.",117
 "AS13238","YANDEX LLC",114
@@ -350,6 +350,7 @@ ASN,Organization,IP_Count
 "AS138754","Kerala Vision Broad Band Private Limited",7
 "AS17762","Tata Teleservices (Maharashtra) Ltd",7
 "AS197309","RS-Media LLC",7
+"AS199414","Noah Kolossa",7
 "AS203684","Imen Sanat Novin Alighapoo Private Joint Stock Company",7
 "AS204044","PACKET STAR NETWORKS LIMITED",7
 "AS215672","MoeChuang Network Limited",7
@@ -419,7 +420,6 @@ ASN,Organization,IP_Count
 "AS17858","LG POWERCOMM",5
 "AS18229","CtrlS",5
 "AS198983","Joseph Hofmann trading as 'Tornado Datacenter GmbH & Co. KG'",5
-"AS199414","Noah Kolossa",5
 "AS202468","Noyan Abr Arvan Co. ( Private Joint Stock)",5
 "AS207656","Epinatura LLC",5
 "AS21056","Vianova S.p.A",5
