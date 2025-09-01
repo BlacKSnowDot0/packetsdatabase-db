@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87523
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21565
-"AS398324","Censys, Inc.",10303
+"AS398324","Censys, Inc.",10304
 "AS396982","Google LLC",9474
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6820
+"AS14061","DigitalOcean, LLC",6821
 "AS16276","OVH SAS",5548
 "AS4134","Chinanet",4772
 "AS6568","Entel S.A. - EntelNet",4536
@@ -53,8 +53,8 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",508
 "AS14618","Amazon.com, Inc.",504
 "AS9009","M247 Europe SRL",496
+"AS10439","CariNet, Inc.",492
 "AS50360","Tamatiya EOOD",492
-"AS10439","CariNet, Inc.",491
 "AS4837","CHINA UNICOM China169 Backbone",471
 "AS201814","MEVSPACE sp. z o.o.",465
 "AS212238","Datacamp Limited",454
@@ -169,9 +169,9 @@ ASN,Organization,IP_Count
 "AS262378","Compuservice Empreendimentos Ltda",32
 "AS42624","Global-Data System IT Corporation",32
 "AS138156","CSNE Co., Ltd.",30
+"AS210644","AEZA INTERNATIONAL LTD",30
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",30
 "AS9198","JSC Kazakhtelecom",30
-"AS210644","AEZA INTERNATIONAL LTD",29
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",29
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
