@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",10309
 "AS396982","Google LLC",9474
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6821
+"AS14061","DigitalOcean, LLC",6824
 "AS16276","OVH SAS",5548
 "AS4134","Chinanet",4772
 "AS6568","Entel S.A. - EntelNet",4536
@@ -22,7 +22,7 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2079
 "AS9808","China Mobile",2049
 "AS214295","SKYNET NETWORK LTD",1631
-"AS202425","IP Volume inc",1624
+"AS202425","IP Volume inc",1625
 "AS209605","UAB Host Baltic",1458
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1296
@@ -170,9 +170,9 @@ ASN,Organization,IP_Count
 "AS42624","Global-Data System IT Corporation",32
 "AS138156","CSNE Co., Ltd.",30
 "AS210644","AEZA INTERNATIONAL LTD",30
+"AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",30
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",30
 "AS9198","JSC Kazakhtelecom",30
-"AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",29
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
