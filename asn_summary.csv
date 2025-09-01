@@ -2,23 +2,23 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87523
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21564
-"AS398324","Censys, Inc.",10294
-"AS396982","Google LLC",9472
+"AS398324","Censys, Inc.",10298
+"AS396982","Google LLC",9473
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6817
+"AS14061","DigitalOcean, LLC",6819
 "AS16276","OVH SAS",5548
 "AS4134","Chinanet",4771
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4400
 "AS16509","Amazon.com, Inc.",3832
 "AS63949","Akamai Technologies, Inc.",3442
-"AS45102","Alibaba (US) Technology Co., Ltd.",3362
+"AS45102","Alibaba (US) Technology Co., Ltd.",3363
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3161
 "AS51396","Pfcloud UG",2980
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2526
-"AS8075","Microsoft Corporation",2471
+"AS8075","Microsoft Corporation",2472
 "AS6939","Hurricane Electric LLC",2076
 "AS9808","China Mobile",2049
 "AS214295","SKYNET NETWORK LTD",1631
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1119
 "AS201401","NewVM B.V.",1076
 "AS0","",974
-"AS22552","eSited Solutions",941
+"AS22552","eSited Solutions",942
 "AS208684","BHA CONSEIL SARL",930
 "AS51852","Private Layer INC",907
 "AS174","Cogent Communications",872
@@ -43,18 +43,18 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",792
 "AS215925","VPSVAULT.HOST LTD",758
 "AS211680","NSEC - Sistemas Informaticos, S.A.",698
-"AS23470","ReliableSite.Net LLC",662
+"AS23470","ReliableSite.Net LLC",663
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS36352","HostPapa",534
 "AS198953","Proton66 OOO",527
-"AS32475","Internap Holding LLC",513
+"AS32475","Internap Holding LLC",515
 "AS401120","cheapy.host LLC",511
 "AS140292","China Telecom",508
 "AS14618","Amazon.com, Inc.",504
 "AS9009","M247 Europe SRL",496
 "AS50360","Tamatiya EOOD",492
-"AS10439","CariNet, Inc.",490
+"AS10439","CariNet, Inc.",491
 "AS4837","CHINA UNICOM China169 Backbone",471
 "AS201814","MEVSPACE sp. z o.o.",465
 "AS212238","Datacamp Limited",454
@@ -62,14 +62,14 @@ ASN,Organization,IP_Count
 "AS24186","RailTel Corporation of India Ltd.",403
 "AS20052","Arbor Networks, Inc.",401
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS51167","Contabo GmbH",376
+"AS51167","Contabo GmbH",377
 "AS3462","Chunghwa Telecom Co., Ltd.",330
 "AS21859","Zenlayer Inc",326
 "AS214943","Railnet LLC",311
 "AS51115","HLL LLC",309
 "AS24863","LINKdotNET AS number",307
 "AS210848","Telkom Internet LTD",296
-"AS53667","FranTech Solutions",289
+"AS53667","FranTech Solutions",290
 "AS9829","Bharat Sanchar Nigam Ltd",283
 "AS9341","PT Indonesia Comnets Plus",278
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",264
@@ -125,9 +125,9 @@ ASN,Organization,IP_Count
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS14956","RouterHosting LLC",64
 "AS140717","China Unicom",61
+"AS151185","China Telecom",58
 "AS16735","ALGAR TELECOM S/A",58
 "AS4812","China Telecom (Group)",58
-"AS151185","China Telecom",57
 "AS20278","Nexeon Technologies, Inc.",57
 "AS3920","ESTOXY OU",57
 "AS210125","PRIAM NET Sh.p.k.",56
@@ -156,7 +156,7 @@ ASN,Organization,IP_Count
 "AS7552","Viettel Group",40
 "AS34984","Superonline Iletisim Hizmetleri A.S.",39
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",37
-"AS150263","PT Alnet Telekomunikasi Indonesia",36
+"AS150263","PT Alnet Telekomunikasi Indonesia",37
 "AS55720","Gigabit Hosting Sdn Bhd",36
 "AS20473","The Constant Company, LLC",35
 "AS213790","Limited Network LTD",35
@@ -343,6 +343,7 @@ ASN,Organization,IP_Count
 "AS38283","CHINANET SiChuan Telecom Internet Data Center",8
 "AS41608","NextGenWebs, S.L.",8
 "AS4847","China Networks Inter-Exchange",8
+"AS53118","NETLINE TELECOM",8
 "AS6698","Virtual Systems LLC",8
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",8
 "AS133661","Netplus Broadband Services Private Limited",7
@@ -360,7 +361,6 @@ ASN,Organization,IP_Count
 "AS3216","PJSC ""Vimpelcom""",7
 "AS400655","NixLabs Networks",7
 "AS4816","China Telecom (Group)",7
-"AS53118","NETLINE TELECOM",7
 "AS55423","JasTel Network",7
 "AS56041","China Mobile Communications Corporation",7
 "AS62068","SpectraIP B.V.",7
@@ -444,6 +444,7 @@ ASN,Organization,IP_Count
 "AS37337","MUNI S.A",5
 "AS37705","TOPNET",5
 "AS38365","Beijing Baidu Netcom Science and Technology Co., Ltd.",5
+"AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",5
 "AS397270","NetInformatik Inc.",5
 "AS45458","ADVANCED WIRELESS NETWORK COMPANY LIMITED",5
 "AS4721","JCOM Co., Ltd.",5
@@ -495,7 +496,6 @@ ASN,Organization,IP_Count
 "AS28753","Leaseweb Deutschland GmbH",4
 "AS29302","Hosting Services Inc",4
 "AS3356","Level 3 Communications, Inc.",4
-"AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",4
 "AS39521","TNGNET B.V.",4
 "AS39816","Volta Communications Sp.z.o.o.",4
 "AS399296","Rackdog, LLC",4
