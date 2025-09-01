@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87524
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21566
-"AS398324","Censys, Inc.",10328
-"AS396982","Google LLC",9476
+"AS398324","Censys, Inc.",10329
+"AS396982","Google LLC",9477
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6831
 "AS16276","OVH SAS",5549
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1458
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1296
-"AS43260","DGN TEKNOLOJI A.S.",1251
+"AS43260","DGN TEKNOLOJI A.S.",1253
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1134
@@ -94,8 +94,8 @@ ASN,Organization,IP_Count
 "AS141718","haoxiangyun",144
 "AS47105","Vault Dweller OU",141
 "AS137409","GSL Networks Pty LTD",128
+"AS206264","Amarutu Technology Ltd",128
 "AS19905","Neustar Security Services",127
-"AS206264","Amarutu Technology Ltd",127
 "AS36007","Kamatera, Inc.",122
 "AS8151","Uninet S.A. de C.V.",117
 "AS13238","YANDEX LLC",114
@@ -117,16 +117,16 @@ ASN,Organization,IP_Count
 "AS18403","FPT Telecom Company",69
 "AS28209","Under Servicos de Internet Ltda",69
 "AS52053","REDHEBERG Association declaree",69
+"AS14956","RouterHosting LLC",67
 "AS205352","KABELNET LTD",67
 "AS328867","Corebach Backbone SARL",67
 "AS31898","Oracle Corporation",66
 "AS40021","Nubes, LLC",66
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
-"AS14956","RouterHosting LLC",64
 "AS140717","China Unicom",61
 "AS151185","China Telecom",59
-"AS16735","ALGAR TELECOM S/A",58
+"AS16735","ALGAR TELECOM S/A",59
 "AS4812","China Telecom (Group)",58
 "AS20278","Nexeon Technologies, Inc.",57
 "AS3920","ESTOXY OU",57
@@ -343,6 +343,7 @@ ASN,Organization,IP_Count
 "AS328723","Telasera Technologies PTY LTD",8
 "AS38283","CHINANET SiChuan Telecom Internet Data Center",8
 "AS41608","NextGenWebs, S.L.",8
+"AS4816","China Telecom (Group)",8
 "AS4847","China Networks Inter-Exchange",8
 "AS6698","Virtual Systems LLC",8
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",8
@@ -361,7 +362,6 @@ ASN,Organization,IP_Count
 "AS3215","Orange S.A.",7
 "AS3216","PJSC ""Vimpelcom""",7
 "AS400655","NixLabs Networks",7
-"AS4816","China Telecom (Group)",7
 "AS55423","JasTel Network",7
 "AS56041","China Mobile Communications Corporation",7
 "AS62068","SpectraIP B.V.",7
