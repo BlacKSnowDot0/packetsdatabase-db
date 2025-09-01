@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87523
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21566
-"AS398324","Censys, Inc.",10313
+"AS398324","Censys, Inc.",10314
 "AS396982","Google LLC",9474
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6827
@@ -22,7 +22,7 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2083
 "AS9808","China Mobile",2049
 "AS214295","SKYNET NETWORK LTD",1631
-"AS202425","IP Volume inc",1625
+"AS202425","IP Volume inc",1626
 "AS209605","UAB Host Baltic",1458
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1296
@@ -41,7 +41,7 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",803
 "AS208046","ColocationX Ltd.",792
-"AS215925","VPSVAULT.HOST LTD",758
+"AS215925","VPSVAULT.HOST LTD",759
 "AS211680","NSEC - Sistemas Informaticos, S.A.",698
 "AS23470","ReliableSite.Net LLC",663
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -168,8 +168,8 @@ ASN,Organization,IP_Count
 "AS210558","1337 Services GmbH",32
 "AS262378","Compuservice Empreendimentos Ltda",32
 "AS42624","Global-Data System IT Corporation",32
+"AS210644","AEZA INTERNATIONAL LTD",31
 "AS138156","CSNE Co., Ltd.",30
-"AS210644","AEZA INTERNATIONAL LTD",30
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",30
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",30
 "AS9198","JSC Kazakhtelecom",30
@@ -779,6 +779,7 @@ ASN,Organization,IP_Count
 "AS399804","Hostodo",2
 "AS400304","Redoubt Networks",2
 "AS40676","Psychz Networks",2
+"AS41075","ATW Internet Kft.",2
 "AS41350","JSC ""BANK FORWARD""",2
 "AS42109","MTS Armenia CJSC",2
 "AS4213","Krypt Technologies",2
@@ -1313,7 +1314,6 @@ ASN,Organization,IP_Count
 "AS400992","ZhouyiSat Communications",1
 "AS40995","Sibirskie Seti Ltd.",1
 "AS41039","Timer, LLC",1
-"AS41075","ATW Internet Kft.",1
 "AS41134","PJSC Rostelecom",1
 "AS41631","Comfo LTD",1
 "AS41789","LLC Teledyne Systems Limited",1
