@@ -2,17 +2,17 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87523
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21566
-"AS398324","Censys, Inc.",10317
+"AS398324","Censys, Inc.",10318
 "AS396982","Google LLC",9474
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6827
+"AS14061","DigitalOcean, LLC",6828
 "AS16276","OVH SAS",5548
 "AS4134","Chinanet",4772
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4400
 "AS16509","Amazon.com, Inc.",3832
 "AS63949","Akamai Technologies, Inc.",3443
-"AS45102","Alibaba (US) Technology Co., Ltd.",3367
+"AS45102","Alibaba (US) Technology Co., Ltd.",3368
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3161
 "AS51396","Pfcloud UG",2981
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1134
 "AS49870","Alsycon B.V.",1120
 "AS201401","NewVM B.V.",1076
-"AS0","",976
+"AS0","",977
 "AS22552","eSited Solutions",944
 "AS208684","BHA CONSEIL SARL",931
 "AS51852","Private Layer INC",907
@@ -43,12 +43,12 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",792
 "AS215925","VPSVAULT.HOST LTD",759
 "AS211680","NSEC - Sistemas Informaticos, S.A.",698
-"AS23470","ReliableSite.Net LLC",663
+"AS23470","ReliableSite.Net LLC",664
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS36352","HostPapa",536
 "AS198953","Proton66 OOO",527
-"AS32475","Internap Holding LLC",521
+"AS32475","Internap Holding LLC",523
 "AS401120","cheapy.host LLC",511
 "AS140292","China Telecom",508
 "AS14618","Amazon.com, Inc.",504
@@ -117,8 +117,8 @@ ASN,Organization,IP_Count
 "AS18403","FPT Telecom Company",69
 "AS28209","Under Servicos de Internet Ltda",69
 "AS52053","REDHEBERG Association declaree",69
+"AS205352","KABELNET LTD",67
 "AS328867","Corebach Backbone SARL",67
-"AS205352","KABELNET LTD",66
 "AS31898","Oracle Corporation",66
 "AS40021","Nubes, LLC",66
 "AS398101","GoDaddy.com, LLC",65
@@ -326,6 +326,7 @@ ASN,Organization,IP_Count
 "AS41745","Baykov Ilya Sergeevich",9
 "AS4760","PCCW IMS Limited",9
 "AS48874","HOSTMAZE INC SRL-D",9
+"AS53118","NETLINE TELECOM",9
 "AS9318","SK Broadband Co Ltd",9
 "AS135918","VIET DIGITAL TECHNOLOGY LIABILITY COMPANY",8
 "AS141295","Madhya Pradesh Agency For Promotion   Of Information Technology",8
@@ -343,7 +344,6 @@ ASN,Organization,IP_Count
 "AS38283","CHINANET SiChuan Telecom Internet Data Center",8
 "AS41608","NextGenWebs, S.L.",8
 "AS4847","China Networks Inter-Exchange",8
-"AS53118","NETLINE TELECOM",8
 "AS6698","Virtual Systems LLC",8
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",8
 "AS133661","Netplus Broadband Services Private Limited",7
