@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",10332
 "AS396982","Google LLC",9478
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6832
+"AS14061","DigitalOcean, LLC",6833
 "AS16276","OVH SAS",5552
 "AS4134","Chinanet",4772
 "AS6568","Entel S.A. - EntelNet",4536
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1134
 "AS49870","Alsycon B.V.",1120
 "AS201401","NewVM B.V.",1076
-"AS0","",978
+"AS0","",979
 "AS22552","eSited Solutions",948
 "AS208684","BHA CONSEIL SARL",932
 "AS51852","Private Layer INC",907
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",508
 "AS14618","Amazon.com, Inc.",504
 "AS9009","M247 Europe SRL",497
-"AS10439","CariNet, Inc.",492
+"AS10439","CariNet, Inc.",493
 "AS50360","Tamatiya EOOD",492
 "AS4837","CHINA UNICOM China169 Backbone",471
 "AS201814","MEVSPACE sp. z o.o.",465
@@ -252,6 +252,7 @@ ASN,Organization,IP_Count
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",15
 "AS146817","Hubei Feixun Network Co., Ltd",15
 "AS211619","MAXKO d.o.o.",15
+"AS24348","CERNET2 IX at Tsinghua University",15
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",15
 "AS263767","CORPORACIÓN GALA IT, C.A.",15
 "AS272547","Servicos de Infraestrutura e Datacenter",15
@@ -261,7 +262,6 @@ ASN,Organization,IP_Count
 "AS6134","XNNET LLC",15
 "AS136142","Enigma Fiber Pvt Ltd",14
 "AS207713","GLOBAL INTERNET SOLUTIONS LLC",14
-"AS24348","CERNET2 IX at Tsinghua University",14
 "AS39603","P4 Sp. z o.o.",14
 "AS45758","Triple T Broadband Public Company Limited",14
 "AS48721","Flyservers S.A.",14
