@@ -1,7 +1,7 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87523
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
-"AS211298","Driftnet Ltd",21564
+"AS211298","Driftnet Ltd",21565
 "AS398324","Censys, Inc.",10301
 "AS396982","Google LLC",9474
 "AS26210","AXS Bolivia S. A.",7971
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4400
 "AS16509","Amazon.com, Inc.",3832
 "AS63949","Akamai Technologies, Inc.",3442
-"AS45102","Alibaba (US) Technology Co., Ltd.",3363
+"AS45102","Alibaba (US) Technology Co., Ltd.",3364
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3161
 "AS51396","Pfcloud UG",2980
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",663
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
-"AS36352","HostPapa",534
+"AS36352","HostPapa",535
 "AS198953","Proton66 OOO",527
 "AS32475","Internap Holding LLC",515
 "AS401120","cheapy.host LLC",511
@@ -152,9 +152,9 @@ ASN,Organization,IP_Count
 "AS152194","CTG Server Limited",43
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS215590","DpkgSoft International Limited",41
+"AS34984","Superonline Iletisim Hizmetleri A.S.",40
 "AS396356","Latitude.sh",40
 "AS7552","Viettel Group",40
-"AS34984","Superonline Iletisim Hizmetleri A.S.",39
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",37
 "AS150263","PT Alnet Telekomunikasi Indonesia",37
 "AS55720","Gigabit Hosting Sdn Bhd",36
@@ -1409,6 +1409,7 @@ ASN,Organization,IP_Count
 "AS56047","China Mobile Communications Corporation",1
 "AS56048","China Mobile Communications Corporation",1
 "AS56067","Metrabyte Co.,Ltd",1
+"AS56150","Viet Solutions Services Trading Company Limited",1
 "AS56231","MEASAT Broadcast Network Systems Sdn. Bhd.",1
 "AS56309","Siamdata Communication Co.,ltd.",1
 "AS56478","Hyperoptic Ltd",1
