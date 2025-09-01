@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87524
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21567
-"AS398324","Censys, Inc.",10332
+"AS398324","Censys, Inc.",10333
 "AS396982","Google LLC",9478
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6833
+"AS14061","DigitalOcean, LLC",6834
 "AS16276","OVH SAS",5552
 "AS4134","Chinanet",4772
 "AS6568","Entel S.A. - EntelNet",4536
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1458
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1296
-"AS43260","DGN TEKNOLOJI A.S.",1261
+"AS43260","DGN TEKNOLOJI A.S.",1265
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1134
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",664
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
-"AS36352","HostPapa",538
+"AS36352","HostPapa",539
 "AS198953","Proton66 OOO",527
 "AS32475","Internap Holding LLC",526
 "AS401120","cheapy.host LLC",511
@@ -77,7 +77,7 @@ ASN,Organization,IP_Count
 "AS48090","TECHOFF SRV LIMITED",245
 "AS209272","Alviva Holding Limited",230
 "AS47890","UNMANAGED LTD",230
-"AS12876","ONLINE S.A.S.",227
+"AS12876","ONLINE S.A.S.",228
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",212
@@ -102,7 +102,7 @@ ASN,Organization,IP_Count
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
 "AS29484","Ruhr-Universitaet Bochum",108
-"AS262551","Farol Telecom",93
+"AS262551","Farol Telecom",94
 "AS63018","Dedicated.com",92
 "AS42237","w1n ltd",91
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",88
@@ -114,10 +114,10 @@ ASN,Organization,IP_Count
 "AS56046","China Mobile Communications Corporation",74
 "AS27882","Telefónica Celular de Bolivia S.A.",73
 "AS4766","Korea Telecom",73
+"AS14956","RouterHosting LLC",69
 "AS18403","FPT Telecom Company",69
 "AS28209","Under Servicos de Internet Ltda",69
 "AS52053","REDHEBERG Association declaree",69
-"AS14956","RouterHosting LLC",68
 "AS205352","KABELNET LTD",67
 "AS328867","Corebach Backbone SARL",67
 "AS31898","Oracle Corporation",66
