@@ -5,21 +5,21 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",10313
 "AS396982","Google LLC",9474
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6825
+"AS14061","DigitalOcean, LLC",6827
 "AS16276","OVH SAS",5548
 "AS4134","Chinanet",4772
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4400
 "AS16509","Amazon.com, Inc.",3832
 "AS63949","Akamai Technologies, Inc.",3443
-"AS45102","Alibaba (US) Technology Co., Ltd.",3365
+"AS45102","Alibaba (US) Technology Co., Ltd.",3367
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3161
 "AS51396","Pfcloud UG",2981
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2526
 "AS8075","Microsoft Corporation",2472
-"AS6939","Hurricane Electric LLC",2082
+"AS6939","Hurricane Electric LLC",2083
 "AS9808","China Mobile",2049
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1625
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",663
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
-"AS36352","HostPapa",535
+"AS36352","HostPapa",536
 "AS198953","Proton66 OOO",527
 "AS32475","Internap Holding LLC",520
 "AS401120","cheapy.host LLC",511
@@ -221,11 +221,11 @@ ASN,Organization,IP_Count
 "AS46573","LayerHost",20
 "AS50887","DC FIBER HOME SRL",20
 "AS55836","Reliance Jio Infocomm Limited",20
+"AS1103","SURF B.V.",19
 "AS17816","China Unicom IP network China169 Guangdong province",19
 "AS43641","SOLLUTIUM EU Sp z.o.o.",19
 "AS46475","Limestone Networks, Inc.",19
 "AS58212","dataforest GmbH",19
-"AS1103","SURF B.V.",18
 "AS11878","tzulo, inc.",18
 "AS17638","ASN for TIANJIN Provincial Net of CT",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
