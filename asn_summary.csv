@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",10366
 "AS396982","Google LLC",9480
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6843
+"AS14061","DigitalOcean, LLC",6845
 "AS16276","OVH SAS",5553
 "AS4134","Chinanet",4776
 "AS6568","Entel S.A. - EntelNet",4536
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1628
 "AS209605","UAB Host Baltic",1458
 "AS215269","LAZYCLOUD LTD",1312
-"AS43260","DGN TEKNOLOJI A.S.",1304
+"AS43260","DGN TEKNOLOJI A.S.",1307
 "AS398722","Censys, Inc.",1296
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
@@ -46,8 +46,8 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",665
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
-"AS36352","HostPapa",543
-"AS32475","Internap Holding LLC",535
+"AS36352","HostPapa",544
+"AS32475","Internap Holding LLC",537
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",511
 "AS140292","China Telecom",508
@@ -983,6 +983,7 @@ ASN,Organization,IP_Count
 "AS149575","SITI VISION DATA SOLUTIONS PRIVATE LIMITED",1
 "AS149616","Saileelas Internet Service Private Limited",1
 "AS149617","Digiana Speed Net Private Limited",1
+"AS149722","Dinas Komunikasi dan Informatika Kabupaten Kepulauan Metawai",1
 "AS150142","Wolast Technologies",1
 "AS150204","PT Fastlink Koneksi Indonesia",1
 "AS150774","Exabyte ltd",1
