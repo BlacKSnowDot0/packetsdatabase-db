@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87524
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21572
-"AS398324","Censys, Inc.",10378
+"AS398324","Censys, Inc.",10380
 "AS396982","Google LLC",9480
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6848
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1628
 "AS209605","UAB Host Baltic",1458
-"AS43260","DGN TEKNOLOJI A.S.",1330
+"AS43260","DGN TEKNOLOJI A.S.",1333
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1296
 "AS204428","SS-Net",1182
@@ -112,10 +112,10 @@ ASN,Organization,IP_Count
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS32475","SingleHop LLC",75
 "AS56046","China Mobile Communications Corporation",74
+"AS14956","RouterHosting LLC",73
 "AS27882","Telefónica Celular de Bolivia S.A.",73
 "AS4766","Korea Telecom",73
 "AS18403","FPT Telecom Company",71
-"AS14956","RouterHosting LLC",70
 "AS205352","KABELNET LTD",69
 "AS28209","Under Servicos de Internet Ltda",69
 "AS52053","REDHEBERG Association declaree",69
@@ -353,6 +353,7 @@ ASN,Organization,IP_Count
 "AS17762","Tata Teleservices (Maharashtra) Ltd",7
 "AS197309","RS-Media LLC",7
 "AS199414","Noah Kolossa",7
+"AS200514","KnownSRV Ltd.",7
 "AS203684","Imen Sanat Novin Alighapoo Private Joint Stock Company",7
 "AS204044","PACKET STAR NETWORKS LIMITED",7
 "AS215672","MoeChuang Network Limited",7
@@ -380,7 +381,6 @@ ASN,Organization,IP_Count
 "AS17639","ComClark Network & Technology Corp",6
 "AS17754","Excellmedia",6
 "AS18881","TELEFÔNICA BRASIL S.A",6
-"AS200514","KnownSRV Ltd.",6
 "AS202448","MVPS LTD",6
 "AS203020","HostRoyale Technologies Pvt Ltd",6
 "AS204631","VIVANET GmbH",6
