@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87524
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21568
-"AS398324","Censys, Inc.",10352
+"AS398324","Censys, Inc.",10353
 "AS396982","Google LLC",9480
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6836
+"AS14061","DigitalOcean, LLC",6837
 "AS16276","OVH SAS",5553
 "AS4134","Chinanet",4774
 "AS6568","Entel S.A. - EntelNet",4536
@@ -26,14 +26,14 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1458
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1296
-"AS43260","DGN TEKNOLOJI A.S.",1290
+"AS43260","DGN TEKNOLOJI A.S.",1291
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1134
 "AS49870","Alsycon B.V.",1120
 "AS201401","NewVM B.V.",1076
 "AS0","",981
-"AS22552","eSited Solutions",957
+"AS22552","eSited Solutions",958
 "AS208684","BHA CONSEIL SARL",933
 "AS51852","Private Layer INC",907
 "AS174","Cogent Communications",876
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",403
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS51167","Contabo GmbH",381
+"AS51167","Contabo GmbH",382
 "AS3462","Chunghwa Telecom Co., Ltd.",330
 "AS21859","Zenlayer Inc",326
 "AS214943","Railnet LLC",311
@@ -243,6 +243,7 @@ ASN,Organization,IP_Count
 "AS56630","Melbikomas UAB",17
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",16
 "AS206092","Internet Utilities Europe and Asia Limited",16
+"AS24348","CERNET2 IX at Tsinghua University",16
 "AS3320","Deutsche Telekom AG",16
 "AS46261","QuickPacket, LLC",16
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",16
@@ -252,7 +253,6 @@ ASN,Organization,IP_Count
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",15
 "AS146817","Hubei Feixun Network Co., Ltd",15
 "AS211619","MAXKO d.o.o.",15
-"AS24348","CERNET2 IX at Tsinghua University",15
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",15
 "AS263767","CORPORACIÓN GALA IT, C.A.",15
 "AS272547","Servicos de Infraestrutura e Datacenter",15
