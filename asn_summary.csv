@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87524
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21568
-"AS398324","Censys, Inc.",10353
+"AS398324","Censys, Inc.",10355
 "AS396982","Google LLC",9480
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6837
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1458
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1296
-"AS43260","DGN TEKNOLOJI A.S.",1293
+"AS43260","DGN TEKNOLOJI A.S.",1294
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1134
@@ -58,7 +58,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",471
 "AS201814","MEVSPACE sp. z o.o.",465
 "AS212238","Datacamp Limited",454
-"AS20052","Arbor Networks, Inc.",407
+"AS20052","Arbor Networks, Inc.",408
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",403
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -69,7 +69,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",309
 "AS24863","LINKdotNET AS number",307
 "AS210848","Telkom Internet LTD",296
-"AS53667","FranTech Solutions",292
+"AS53667","FranTech Solutions",293
 "AS9829","Bharat Sanchar Nigam Ltd",285
 "AS9341","PT Indonesia Comnets Plus",278
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",265
@@ -824,6 +824,7 @@ ASN,Organization,IP_Count
 "AS52639","MEGANET RJ INFORMÁTICA E TELECOMUNICAÇÕES LTDA",2
 "AS53062","GGNET TELECOM BACKBONE",2
 "AS53158","Net Turbo Telecom",2
+"AS5410","Bouygues Telecom SA",2
 "AS5483","Magyar Telekom plc.",2
 "AS55341","51/A RACHNA MIDAS GOKULPETH",2
 "AS5610","O2 Czech Republic, a.s.",2
@@ -1398,7 +1399,6 @@ ASN,Organization,IP_Count
 "AS53004","Downup Telecomunicacoes e servico LTDA",1
 "AS53066","VETORIALNET INF. E SERVIÇOS DE INTERNET LTDA",1
 "AS5391","Hrvatski Telekom d.d.",1
-"AS5410","Bouygues Telecom SA",1
 "AS54600","PEG TECH INC",1
 "AS55286","B2 Net Solutions Inc.",1
 "AS55410","Vodafone Idea Ltd. (VIL)",1
