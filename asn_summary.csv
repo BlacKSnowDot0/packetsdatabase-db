@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87524
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21572
-"AS398324","Censys, Inc.",10381
+"AS398324","Censys, Inc.",10383
 "AS396982","Google LLC",9481
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6849
+"AS14061","DigitalOcean, LLC",6850
 "AS16276","OVH SAS",5555
 "AS4134","Chinanet",4776
 "AS6568","Entel S.A. - EntelNet",4536
@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",3380
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3161
-"AS51396","Pfcloud UG",2984
+"AS51396","Pfcloud UG",2985
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2526
 "AS8075","Microsoft Corporation",2481
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1628
 "AS209605","UAB Host Baltic",1458
-"AS43260","DGN TEKNOLOJI A.S.",1334
+"AS43260","DGN TEKNOLOJI A.S.",1336
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1296
 "AS204428","SS-Net",1182
@@ -46,8 +46,8 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",666
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
+"AS36352","HostPapa",546
 "AS32475","Internap Holding LLC",545
-"AS36352","HostPapa",545
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",511
 "AS140292","China Telecom",508
