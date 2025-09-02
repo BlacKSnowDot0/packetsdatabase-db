@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87524
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21568
-"AS398324","Censys, Inc.",10350
-"AS396982","Google LLC",9479
+"AS398324","Censys, Inc.",10352
+"AS396982","Google LLC",9480
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6836
 "AS16276","OVH SAS",5553
@@ -26,14 +26,14 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1458
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1296
-"AS43260","DGN TEKNOLOJI A.S.",1289
+"AS43260","DGN TEKNOLOJI A.S.",1290
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1134
 "AS49870","Alsycon B.V.",1120
 "AS201401","NewVM B.V.",1076
-"AS0","",980
-"AS22552","eSited Solutions",956
+"AS0","",981
+"AS22552","eSited Solutions",957
 "AS208684","BHA CONSEIL SARL",933
 "AS51852","Private Layer INC",907
 "AS174","Cogent Communications",876
@@ -53,13 +53,13 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",508
 "AS14618","Amazon.com, Inc.",504
 "AS9009","M247 Europe SRL",497
-"AS10439","CariNet, Inc.",493
+"AS10439","CariNet, Inc.",494
 "AS50360","Tamatiya EOOD",492
 "AS4837","CHINA UNICOM China169 Backbone",471
 "AS201814","MEVSPACE sp. z o.o.",465
 "AS212238","Datacamp Limited",454
+"AS20052","Arbor Networks, Inc.",405
 "AS21299","Kar-Tel LLC",405
-"AS20052","Arbor Networks, Inc.",404
 "AS24186","RailTel Corporation of India Ltd.",403
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS51167","Contabo GmbH",381
@@ -101,7 +101,7 @@ ASN,Organization,IP_Count
 "AS13238","YANDEX LLC",114
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
-"AS29484","Ruhr-Universitaet Bochum",108
+"AS29484","Ruhr-Universitaet Bochum",109
 "AS262551","Farol Telecom",94
 "AS63018","Dedicated.com",92
 "AS42237","w1n ltd",91
@@ -192,11 +192,11 @@ ASN,Organization,IP_Count
 "AS19318","Interserver, Inc",25
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",25
 "AS34534","FBW NETWORKS SAS",25
+"AS30083","velia.net",24
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",24
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",24
 "AS149705","PT Wijaya Trimitra Indonesia",23
 "AS198037","SPACECORE SOLUTION LTD",23
-"AS30083","velia.net",23
 "AS30633","Leaseweb USA, Inc.",23
 "AS55933","Cloudie Limited",23
 "AS60068","Datacamp Limited",23
@@ -778,6 +778,7 @@ ASN,Organization,IP_Count
 "AS39927","E-Light-Telecom Ltd.",2
 "AS399804","Hostodo",2
 "AS400304","Redoubt Networks",2
+"AS400992","ZhouyiSat Communications",2
 "AS40676","Psychz Networks",2
 "AS41075","ATW Internet Kft.",2
 "AS41350","JSC ""BANK FORWARD""",2
@@ -1312,7 +1313,6 @@ ASN,Organization,IP_Count
 "AS400529","Infraly, LLC",1
 "AS400619","AROSSCLOUD INC.",1
 "AS400804","Aqueous Cloud LLC",1
-"AS400992","ZhouyiSat Communications",1
 "AS40995","Sibirskie Seti Ltd.",1
 "AS41039","Timer, LLC",1
 "AS41134","PJSC Rostelecom",1
