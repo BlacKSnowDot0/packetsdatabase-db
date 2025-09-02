@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87524
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21568
-"AS398324","Censys, Inc.",10355
+"AS398324","Censys, Inc.",10356
 "AS396982","Google LLC",9480
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6838
@@ -25,12 +25,12 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1627
 "AS209605","UAB Host Baltic",1458
 "AS215269","LAZYCLOUD LTD",1312
+"AS43260","DGN TEKNOLOJI A.S.",1300
 "AS398722","Censys, Inc.",1296
-"AS43260","DGN TEKNOLOJI A.S.",1295
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1134
-"AS49870","Alsycon B.V.",1120
+"AS49870","Alsycon B.V.",1121
 "AS201401","NewVM B.V.",1076
 "AS0","",981
 "AS22552","eSited Solutions",959
@@ -47,7 +47,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS36352","HostPapa",540
-"AS32475","Internap Holding LLC",529
+"AS32475","Internap Holding LLC",531
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",511
 "AS140292","China Telecom",508
@@ -90,7 +90,7 @@ ASN,Organization,IP_Count
 "AS12555","Data-center IMAQLIQ Ltd.",165
 "AS63199","CDS Global Cloud Co., Ltd",161
 "AS45899","VNPT Corp",155
-"AS213613","BOTSHIELD LTD",147
+"AS213613","BOTSHIELD LTD",148
 "AS141718","haoxiangyun",144
 "AS47105","Vault Dweller OU",141
 "AS137409","GSL Networks Pty LTD",128
@@ -102,7 +102,7 @@ ASN,Organization,IP_Count
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
 "AS29484","Ruhr-Universitaet Bochum",109
-"AS262551","Farol Telecom",94
+"AS262551","Farol Telecom",95
 "AS63018","Dedicated.com",92
 "AS42237","w1n ltd",91
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",88
