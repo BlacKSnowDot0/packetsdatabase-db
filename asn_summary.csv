@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87524
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21571
-"AS398324","Censys, Inc.",10366
+"AS398324","Censys, Inc.",10367
 "AS396982","Google LLC",9480
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6845
@@ -342,6 +342,7 @@ ASN,Organization,IP_Count
 "AS28573","Claro NXT Telecomunicacoes Ltda",8
 "AS328723","Telasera Technologies PTY LTD",8
 "AS38283","CHINANET SiChuan Telecom Internet Data Center",8
+"AS400655","NixLabs Networks",8
 "AS41608","NextGenWebs, S.L.",8
 "AS4816","China Telecom (Group)",8
 "AS4847","China Networks Inter-Exchange",8
@@ -361,7 +362,6 @@ ASN,Organization,IP_Count
 "AS31122","Digiweb ltd",7
 "AS3215","Orange S.A.",7
 "AS3216","PJSC ""Vimpelcom""",7
-"AS400655","NixLabs Networks",7
 "AS55423","JasTel Network",7
 "AS56041","China Mobile Communications Corporation",7
 "AS62068","SpectraIP B.V.",7
