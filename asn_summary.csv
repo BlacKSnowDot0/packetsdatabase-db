@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87524
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21571
-"AS398324","Censys, Inc.",10374
+"AS398324","Censys, Inc.",10375
 "AS396982","Google LLC",9480
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6845
-"AS16276","OVH SAS",5554
+"AS14061","DigitalOcean, LLC",6846
+"AS16276","OVH SAS",5555
 "AS4134","Chinanet",4776
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4400
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1628
 "AS209605","UAB Host Baltic",1458
-"AS43260","DGN TEKNOLOJI A.S.",1316
+"AS43260","DGN TEKNOLOJI A.S.",1317
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1296
 "AS204428","SS-Net",1182
@@ -47,7 +47,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS36352","HostPapa",544
-"AS32475","Internap Holding LLC",541
+"AS32475","Internap Holding LLC",542
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",511
 "AS140292","China Telecom",508
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS51167","Contabo GmbH",383
+"AS51167","Contabo GmbH",384
 "AS3462","Chunghwa Telecom Co., Ltd.",330
 "AS21859","Zenlayer Inc",326
 "AS214943","Railnet LLC",311
@@ -70,7 +70,7 @@ ASN,Organization,IP_Count
 "AS24863","LINKdotNET AS number",307
 "AS210848","Telkom Internet LTD",296
 "AS53667","FranTech Solutions",294
-"AS9829","Bharat Sanchar Nigam Ltd",285
+"AS9829","Bharat Sanchar Nigam Ltd",286
 "AS9341","PT Indonesia Comnets Plus",278
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",265
 "AS60223","Netiface Limited",247
@@ -191,8 +191,8 @@ ASN,Organization,IP_Count
 "AS12816","Leibniz-Rechenzentrum",25
 "AS19318","Interserver, Inc",25
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",25
+"AS30083","velia.net",25
 "AS34534","FBW NETWORKS SAS",25
-"AS30083","velia.net",24
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",24
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",24
 "AS149705","PT Wijaya Trimitra Indonesia",23
@@ -515,6 +515,7 @@ ASN,Organization,IP_Count
 "AS8193","""Uzbektelekom"" Joint Stock Company",4
 "AS8359","MTS PJSC",4
 "AS9260","Multinet Broadband",4
+"AS9335","CAT Telecom Public Company Limited",4
 "AS9541","Cyber Internet Services (Private) Limited",4
 "AS9770","LG HelloVision Corp.",4
 "AS10029","SHYAM SPECTRA PVT LTD",3
@@ -610,7 +611,6 @@ ASN,Organization,IP_Count
 "AS8764","Telia Lietuva, AB",3
 "AS9269","Hong Kong Broadband Network Ltd",3
 "AS9329","Sri Lanka Telecom Ltd",3
-"AS9335","CAT Telecom Public Company Limited",3
 "AS9674","Far EastTone Telecommunication Co., Ltd.",3
 "AS9930","TT DOTCOM SDN BHD",3
 "AS10139","Smart Broadband, Inc.",2
