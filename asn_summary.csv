@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87524
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21571
-"AS398324","Censys, Inc.",10372
+"AS398324","Censys, Inc.",10374
 "AS396982","Google LLC",9480
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6845
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1628
 "AS209605","UAB Host Baltic",1458
-"AS43260","DGN TEKNOLOJI A.S.",1315
+"AS43260","DGN TEKNOLOJI A.S.",1316
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1296
 "AS204428","SS-Net",1182
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",962
 "AS208684","BHA CONSEIL SARL",933
 "AS51852","Private Layer INC",907
-"AS174","Cogent Communications",876
+"AS174","Cogent Communications",877
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",803
@@ -47,7 +47,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS36352","HostPapa",544
-"AS32475","Internap Holding LLC",539
+"AS32475","Internap Holding LLC",541
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",511
 "AS140292","China Telecom",508
@@ -79,8 +79,8 @@ ASN,Organization,IP_Count
 "AS209272","Alviva Holding Limited",230
 "AS47890","UNMANAGED LTD",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
+"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",215
 "AS14987","Rethem Hosting LLC",215
-"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",214
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",214
 "AS7713","Telekomunikasi Indonesia (PT)",210
 "AS13335","Cloudflare, Inc.",197
@@ -114,8 +114,8 @@ ASN,Organization,IP_Count
 "AS56046","China Mobile Communications Corporation",74
 "AS27882","Telefónica Celular de Bolivia S.A.",73
 "AS4766","Korea Telecom",73
+"AS18403","FPT Telecom Company",70
 "AS14956","RouterHosting LLC",69
-"AS18403","FPT Telecom Company",69
 "AS205352","KABELNET LTD",69
 "AS28209","Under Servicos de Internet Ltda",69
 "AS52053","REDHEBERG Association declaree",69
@@ -301,6 +301,7 @@ ASN,Organization,IP_Count
 "AS9123","TimeWeb Ltd.",11
 "AS12912","T-Mobile Polska S.A.",10
 "AS153443","VPSRE.NET LLC",10
+"AS204104","Giti Secure Cloud LLC",10
 "AS2116","GLOBALCONNECT AS",10
 "AS24547","China Mobile",10
 "AS25198","INTERKVM HOST SRL",10
@@ -315,7 +316,6 @@ ASN,Organization,IP_Count
 "AS135059","Lao Asia Pacific Satellite Co., Ltd.",9
 "AS149359","PT Persada Data Multimedia",9
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",9
-"AS204104","Giti Secure Cloud LLC",9
 "AS212504","AdKyNet SAS",9
 "AS24151","China Internet Network Infomation Center",9
 "AS24835","Vodafone Data - Egypt",9
