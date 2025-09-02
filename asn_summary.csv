@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87524
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21567
-"AS398324","Censys, Inc.",10342
+"AS398324","Censys, Inc.",10344
 "AS396982","Google LLC",9479
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6836
@@ -18,15 +18,15 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",2984
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2526
-"AS8075","Microsoft Corporation",2476
-"AS6939","Hurricane Electric LLC",2085
+"AS8075","Microsoft Corporation",2477
+"AS6939","Hurricane Electric LLC",2086
 "AS9808","China Mobile",2049
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1627
 "AS209605","UAB Host Baltic",1458
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1296
-"AS43260","DGN TEKNOLOJI A.S.",1276
+"AS43260","DGN TEKNOLOJI A.S.",1277
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1134
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",664
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
-"AS36352","HostPapa",539
+"AS36352","HostPapa",540
 "AS198953","Proton66 OOO",527
 "AS32475","Internap Holding LLC",527
 "AS401120","cheapy.host LLC",511
@@ -169,7 +169,7 @@ ASN,Organization,IP_Count
 "AS210644","AEZA INTERNATIONAL LTD",32
 "AS262378","Compuservice Empreendimentos Ltda",32
 "AS42624","Global-Data System IT Corporation",32
-"AS138156","CSNE Co., Ltd.",30
+"AS138156","CSNE Co., Ltd.",31
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",30
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",30
 "AS9198","JSC Kazakhtelecom",30
@@ -1084,6 +1084,7 @@ ASN,Organization,IP_Count
 "AS213250","Dominic Scholz trading as ITP-Solutions GmbH & Co. KG",1
 "AS213373","IP Connect Inc",1
 "AS21367","Wiland Ltd",1
+"AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",1
 "AS21409","Ikoula Net SAS",1
 "AS214305","YUNUS EMRE OZEREN",1
 "AS214364","StreamTech Solutions EOOD",1
