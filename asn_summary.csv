@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87524
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21571
-"AS398324","Censys, Inc.",10376
+"AS398324","Censys, Inc.",10377
 "AS396982","Google LLC",9480
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6846
+"AS14061","DigitalOcean, LLC",6847
 "AS16276","OVH SAS",5555
 "AS4134","Chinanet",4776
 "AS6568","Entel S.A. - EntelNet",4536
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1628
 "AS209605","UAB Host Baltic",1458
-"AS43260","DGN TEKNOLOJI A.S.",1321
+"AS43260","DGN TEKNOLOJI A.S.",1323
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1296
 "AS204428","SS-Net",1182
@@ -46,8 +46,8 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",666
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
+"AS32475","Internap Holding LLC",545
 "AS36352","HostPapa",545
-"AS32475","Internap Holding LLC",544
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",511
 "AS140292","China Telecom",508
@@ -55,7 +55,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",497
 "AS10439","CariNet, Inc.",495
 "AS50360","Tamatiya EOOD",492
-"AS4837","CHINA UNICOM China169 Backbone",471
+"AS4837","CHINA UNICOM China169 Backbone",472
 "AS201814","MEVSPACE sp. z o.o.",465
 "AS212238","Datacamp Limited",454
 "AS20052","Arbor Networks, Inc.",408
@@ -115,7 +115,7 @@ ASN,Organization,IP_Count
 "AS27882","Telefónica Celular de Bolivia S.A.",73
 "AS4766","Korea Telecom",73
 "AS18403","FPT Telecom Company",71
-"AS14956","RouterHosting LLC",69
+"AS14956","RouterHosting LLC",70
 "AS205352","KABELNET LTD",69
 "AS28209","Under Servicos de Internet Ltda",69
 "AS52053","REDHEBERG Association declaree",69
