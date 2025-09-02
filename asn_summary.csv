@@ -2,17 +2,17 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87524
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21568
-"AS398324","Censys, Inc.",10364
+"AS398324","Censys, Inc.",10365
 "AS396982","Google LLC",9480
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6840
+"AS14061","DigitalOcean, LLC",6842
 "AS16276","OVH SAS",5553
 "AS4134","Chinanet",4776
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4400
 "AS16509","Amazon.com, Inc.",3832
 "AS63949","Akamai Technologies, Inc.",3443
-"AS45102","Alibaba (US) Technology Co., Ltd.",3376
+"AS45102","Alibaba (US) Technology Co., Ltd.",3379
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3161
 "AS51396","Pfcloud UG",2984
@@ -22,10 +22,10 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2088
 "AS9808","China Mobile",2049
 "AS214295","SKYNET NETWORK LTD",1631
-"AS202425","IP Volume inc",1627
+"AS202425","IP Volume inc",1628
 "AS209605","UAB Host Baltic",1458
 "AS215269","LAZYCLOUD LTD",1312
-"AS43260","DGN TEKNOLOJI A.S.",1302
+"AS43260","DGN TEKNOLOJI A.S.",1303
 "AS398722","Censys, Inc.",1296
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
@@ -46,8 +46,8 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",665
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
-"AS36352","HostPapa",540
-"AS32475","Internap Holding LLC",534
+"AS36352","HostPapa",541
+"AS32475","Internap Holding LLC",535
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",511
 "AS140292","China Telecom",508
@@ -75,9 +75,9 @@ ASN,Organization,IP_Count
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",265
 "AS60223","Netiface Limited",247
 "AS48090","TECHOFF SRV LIMITED",245
+"AS12876","ONLINE S.A.S.",230
 "AS209272","Alviva Holding Limited",230
 "AS47890","UNMANAGED LTD",230
-"AS12876","ONLINE S.A.S.",229
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",214
@@ -90,7 +90,7 @@ ASN,Organization,IP_Count
 "AS12555","Data-center IMAQLIQ Ltd.",165
 "AS63199","CDS Global Cloud Co., Ltd",161
 "AS45899","VNPT Corp",155
-"AS213613","BOTSHIELD LTD",148
+"AS213613","BOTSHIELD LTD",149
 "AS141718","haoxiangyun",144
 "AS47105","Vault Dweller OU",141
 "AS137409","GSL Networks Pty LTD",128
@@ -102,7 +102,7 @@ ASN,Organization,IP_Count
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
 "AS29484","Ruhr-Universitaet Bochum",109
-"AS262551","Farol Telecom",97
+"AS262551","Farol Telecom",98
 "AS42237","w1n ltd",92
 "AS63018","Dedicated.com",92
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",88
