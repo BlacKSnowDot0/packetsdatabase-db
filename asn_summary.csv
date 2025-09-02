@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87524
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21571
-"AS398324","Censys, Inc.",10369
+"AS398324","Censys, Inc.",10372
 "AS396982","Google LLC",9480
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6845
-"AS16276","OVH SAS",5553
+"AS16276","OVH SAS",5554
 "AS4134","Chinanet",4776
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4400
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1628
 "AS209605","UAB Host Baltic",1458
 "AS215269","LAZYCLOUD LTD",1312
-"AS43260","DGN TEKNOLOJI A.S.",1308
+"AS43260","DGN TEKNOLOJI A.S.",1310
 "AS398722","Censys, Inc.",1296
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
@@ -47,7 +47,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS36352","HostPapa",544
-"AS32475","Internap Holding LLC",538
+"AS32475","Internap Holding LLC",539
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",511
 "AS140292","China Telecom",508
@@ -170,7 +170,7 @@ ASN,Organization,IP_Count
 "AS262378","Compuservice Empreendimentos Ltda",32
 "AS42624","Global-Data System IT Corporation",32
 "AS138156","CSNE Co., Ltd.",31
-"AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",30
+"AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",31
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",30
 "AS9198","JSC Kazakhtelecom",30
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",29
@@ -183,10 +183,10 @@ ASN,Organization,IP_Count
 "AS149746","PT Blip Integrator Provider",27
 "AS3786","LG DACOM Corporation",27
 "AS44592","SkyLink Data Center BV",27
+"AS55990","Huawei Cloud Service data center",27
 "AS2200","Renater",26
 "AS29066","velia.net Internetdienste GmbH",26
 "AS3209","Vodafone GmbH",26
-"AS55990","Huawei Cloud Service data center",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS12816","Leibniz-Rechenzentrum",25
 "AS19318","Interserver, Inc",25
@@ -303,6 +303,7 @@ ASN,Organization,IP_Count
 "AS153443","VPSRE.NET LLC",10
 "AS2116","GLOBALCONNECT AS",10
 "AS24547","China Mobile",10
+"AS25198","INTERKVM HOST SRL",10
 "AS30823","aurologic GmbH",10
 "AS41420","Xentech B.V.",10
 "AS44901","Belcloud LTD",10
@@ -318,7 +319,6 @@ ASN,Organization,IP_Count
 "AS212504","AdKyNet SAS",9
 "AS24151","China Internet Network Infomation Center",9
 "AS24835","Vodafone Data - Egypt",9
-"AS25198","INTERKVM HOST SRL",9
 "AS2914","NTT America, Inc.",9
 "AS32934","Facebook, Inc.",9
 "AS38264","Wateen Telecom Limited",9
