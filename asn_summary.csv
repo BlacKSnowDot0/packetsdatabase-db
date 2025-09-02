@@ -11,8 +11,8 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4400
 "AS16509","Amazon.com, Inc.",3832
-"AS63949","Akamai Technologies, Inc.",3443
-"AS45102","Alibaba (US) Technology Co., Ltd.",3379
+"AS63949","Akamai Technologies, Inc.",3445
+"AS45102","Alibaba (US) Technology Co., Ltd.",3380
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3161
 "AS51396","Pfcloud UG",2984
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1628
 "AS209605","UAB Host Baltic",1458
 "AS215269","LAZYCLOUD LTD",1312
-"AS43260","DGN TEKNOLOJI A.S.",1310
+"AS43260","DGN TEKNOLOJI A.S.",1311
 "AS398722","Censys, Inc.",1296
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
@@ -69,7 +69,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",309
 "AS24863","LINKdotNET AS number",307
 "AS210848","Telkom Internet LTD",296
-"AS53667","FranTech Solutions",293
+"AS53667","FranTech Solutions",294
 "AS9829","Bharat Sanchar Nigam Ltd",285
 "AS9341","PT Indonesia Comnets Plus",278
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",265
@@ -80,13 +80,13 @@ ASN,Organization,IP_Count
 "AS47890","UNMANAGED LTD",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
+"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",214
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",214
-"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",213
 "AS7713","Telekomunikasi Indonesia (PT)",210
 "AS13335","Cloudflare, Inc.",197
 "AS401116","Nybula LLC",170
+"AS208843","Alpha Strike Labs GmbH",169
 "AS12389","PJSC Rostelecom",168
-"AS208843","Alpha Strike Labs GmbH",168
 "AS12555","Data-center IMAQLIQ Ltd.",165
 "AS63199","CDS Global Cloud Co., Ltd",161
 "AS45899","VNPT Corp",155
@@ -610,6 +610,7 @@ ASN,Organization,IP_Count
 "AS8764","Telia Lietuva, AB",3
 "AS9269","Hong Kong Broadband Network Ltd",3
 "AS9329","Sri Lanka Telecom Ltd",3
+"AS9335","CAT Telecom Public Company Limited",3
 "AS9674","Far EastTone Telecommunication Co., Ltd.",3
 "AS9930","TT DOTCOM SDN BHD",3
 "AS10139","Smart Broadband, Inc.",2
@@ -853,7 +854,6 @@ ASN,Organization,IP_Count
 "AS8595","OOO WestCall Ltd.",2
 "AS8732","JSC Comcor",2
 "AS9319","HCN CHUNGBUK CABLE TV SYSTEMS",2
-"AS9335","CAT Telecom Public Company Limited",2
 "AS9381","HKBN Enterprise Solutions HK Limited",2
 "AS9821","Advanced Science and Technology Institute",2
 "AS9905","Linknet ASN",2
