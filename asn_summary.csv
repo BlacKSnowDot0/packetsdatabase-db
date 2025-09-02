@@ -1,7 +1,7 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87524
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
-"AS211298","Driftnet Ltd",21570
+"AS211298","Driftnet Ltd",21571
 "AS398324","Censys, Inc.",10366
 "AS396982","Google LLC",9480
 "AS26210","AXS Bolivia S. A.",7971
@@ -19,13 +19,13 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2526
 "AS8075","Microsoft Corporation",2481
-"AS6939","Hurricane Electric LLC",2088
+"AS6939","Hurricane Electric LLC",2089
 "AS9808","China Mobile",2049
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1628
 "AS209605","UAB Host Baltic",1458
 "AS215269","LAZYCLOUD LTD",1312
-"AS43260","DGN TEKNOLOJI A.S.",1307
+"AS43260","DGN TEKNOLOJI A.S.",1308
 "AS398722","Censys, Inc.",1296
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",792
 "AS215925","VPSVAULT.HOST LTD",760
 "AS211680","NSEC - Sistemas Informaticos, S.A.",698
-"AS23470","ReliableSite.Net LLC",665
+"AS23470","ReliableSite.Net LLC",666
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS36352","HostPapa",544
@@ -86,7 +86,7 @@ ASN,Organization,IP_Count
 "AS13335","Cloudflare, Inc.",197
 "AS401116","Nybula LLC",170
 "AS12389","PJSC Rostelecom",168
-"AS208843","Alpha Strike Labs GmbH",167
+"AS208843","Alpha Strike Labs GmbH",168
 "AS12555","Data-center IMAQLIQ Ltd.",165
 "AS63199","CDS Global Cloud Co., Ltd",161
 "AS45899","VNPT Corp",155
@@ -116,9 +116,9 @@ ASN,Organization,IP_Count
 "AS4766","Korea Telecom",73
 "AS14956","RouterHosting LLC",69
 "AS18403","FPT Telecom Company",69
+"AS205352","KABELNET LTD",69
 "AS28209","Under Servicos de Internet Ltda",69
 "AS52053","REDHEBERG Association declaree",69
-"AS205352","KABELNET LTD",68
 "AS328867","Corebach Backbone SARL",67
 "AS31898","Oracle Corporation",66
 "AS40021","Nubes, LLC",66
