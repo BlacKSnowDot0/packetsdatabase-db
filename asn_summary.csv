@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1628
 "AS209605","UAB Host Baltic",1458
-"AS43260","DGN TEKNOLOJI A.S.",1377
+"AS43260","DGN TEKNOLOJI A.S.",1380
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1296
 "AS204428","SS-Net",1182
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",792
 "AS215925","VPSVAULT.HOST LTD",760
 "AS211680","NSEC - Sistemas Informaticos, S.A.",698
-"AS23470","ReliableSite.Net LLC",667
+"AS23470","ReliableSite.Net LLC",668
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS32475","Internap Holding LLC",553
@@ -614,6 +614,7 @@ ASN,Organization,IP_Count
 "AS9329","Sri Lanka Telecom Ltd",3
 "AS9674","Far EastTone Telecommunication Co., Ltd.",3
 "AS9930","TT DOTCOM SDN BHD",3
+"AS10001","Mics Network Corporation",2
 "AS10139","Smart Broadband, Inc.",2
 "AS10834","Telefonica de Argentina",2
 "AS11556","Cable & Wireless Panama",2
@@ -859,7 +860,6 @@ ASN,Organization,IP_Count
 "AS9821","Advanced Science and Technology Institute",2
 "AS9905","Linknet ASN",2
 "AS9908","Hong Kong Cable Television Limited",2
-"AS10001","Mics Network Corporation",1
 "AS10030","Celcom Axiata Berhad",1
 "AS10036","DLIVE",1
 "AS10066","LG HelloVision Corp.",1
