@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87528
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21581
-"AS398324","Censys, Inc.",10428
-"AS396982","Google LLC",9490
+"AS398324","Censys, Inc.",10432
+"AS396982","Google LLC",9491
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6862
-"AS16276","OVH SAS",5558
+"AS16276","OVH SAS",5559
 "AS4134","Chinanet",4777
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4401
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1628
 "AS209605","UAB Host Baltic",1458
-"AS43260","DGN TEKNOLOJI A.S.",1389
+"AS43260","DGN TEKNOLOJI A.S.",1390
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1296
 "AS204428","SS-Net",1182
@@ -75,7 +75,7 @@ ASN,Organization,IP_Count
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",266
 "AS60223","Netiface Limited",247
 "AS48090","TECHOFF SRV LIMITED",245
-"AS12876","ONLINE S.A.S.",233
+"AS12876","ONLINE S.A.S.",234
 "AS47890","UNMANAGED LTD",233
 "AS209272","Alviva Holding Limited",230
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",222
@@ -93,7 +93,7 @@ ASN,Organization,IP_Count
 "AS213613","BOTSHIELD LTD",151
 "AS141718","haoxiangyun",145
 "AS47105","Vault Dweller OU",141
-"AS206264","Amarutu Technology Ltd",133
+"AS206264","Amarutu Technology Ltd",134
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
 "AS36007","Kamatera, Inc.",122
@@ -115,8 +115,8 @@ ASN,Organization,IP_Count
 "AS14956","RouterHosting LLC",73
 "AS27882","Telefónica Celular de Bolivia S.A.",73
 "AS4766","Korea Telecom",73
+"AS205352","KABELNET LTD",72
 "AS18403","FPT Telecom Company",71
-"AS205352","KABELNET LTD",71
 "AS28209","Under Servicos de Internet Ltda",69
 "AS52053","REDHEBERG Association declaree",69
 "AS31898","Oracle Corporation",68
