@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87528
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21575
-"AS398324","Censys, Inc.",10393
+"AS398324","Censys, Inc.",10394
 "AS396982","Google LLC",9486
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6858
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1628
 "AS209605","UAB Host Baltic",1458
-"AS43260","DGN TEKNOLOJI A.S.",1347
+"AS43260","DGN TEKNOLOJI A.S.",1348
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1296
 "AS204428","SS-Net",1182
@@ -291,6 +291,7 @@ ASN,Organization,IP_Count
 "AS205119","TELEKS DOOEL Skopje",11
 "AS206804","EstNOC OY",11
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
+"AS25198","INTERKVM HOST SRL",11
 "AS3257","GTT Communications Inc.",11
 "AS37457","Telkom SA Ltd.",11
 "AS39351","31173 Services AB",11
@@ -304,7 +305,6 @@ ASN,Organization,IP_Count
 "AS204104","Giti Secure Cloud LLC",10
 "AS2116","GLOBALCONNECT AS",10
 "AS24547","China Mobile",10
-"AS25198","INTERKVM HOST SRL",10
 "AS30823","aurologic GmbH",10
 "AS41420","Xentech B.V.",10
 "AS44901","Belcloud LTD",10
