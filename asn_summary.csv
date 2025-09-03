@@ -3,13 +3,13 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21575
 "AS398324","Censys, Inc.",10401
-"AS396982","Google LLC",9487
+"AS396982","Google LLC",9488
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6858
 "AS16276","OVH SAS",5557
 "AS4134","Chinanet",4777
 "AS6568","Entel S.A. - EntelNet",4536
-"AS58466","CHINANET Guangdong province network",4400
+"AS58466","CHINANET Guangdong province network",4401
 "AS16509","Amazon.com, Inc.",3832
 "AS63949","Akamai Technologies, Inc.",3446
 "AS45102","Alibaba (US) Technology Co., Ltd.",3382
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1628
 "AS209605","UAB Host Baltic",1458
-"AS43260","DGN TEKNOLOJI A.S.",1356
+"AS43260","DGN TEKNOLOJI A.S.",1358
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1296
 "AS204428","SS-Net",1182
@@ -46,8 +46,8 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",667
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
+"AS36352","HostPapa",551
 "AS32475","Internap Holding LLC",549
-"AS36352","HostPapa",549
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",512
 "AS140292","China Telecom",508
@@ -90,7 +90,7 @@ ASN,Organization,IP_Count
 "AS12555","Data-center IMAQLIQ Ltd.",165
 "AS63199","CDS Global Cloud Co., Ltd",161
 "AS45899","VNPT Corp",155
-"AS213613","BOTSHIELD LTD",149
+"AS213613","BOTSHIELD LTD",150
 "AS141718","haoxiangyun",145
 "AS47105","Vault Dweller OU",141
 "AS206264","Amarutu Technology Ltd",133
@@ -152,7 +152,7 @@ ASN,Organization,IP_Count
 "AS152194","CTG Server Limited",43
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS215590","DpkgSoft International Limited",41
-"AS34984","Superonline Iletisim Hizmetleri A.S.",40
+"AS34984","Superonline Iletisim Hizmetleri A.S.",41
 "AS396356","Latitude.sh",40
 "AS7552","Viettel Group",40
 "AS55720","Gigabit Hosting Sdn Bhd",38
