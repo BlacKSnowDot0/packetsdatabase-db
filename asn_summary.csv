@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87528
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21581
-"AS398324","Censys, Inc.",10427
+"AS398324","Censys, Inc.",10428
 "AS396982","Google LLC",9490
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6862
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1628
 "AS209605","UAB Host Baltic",1458
-"AS43260","DGN TEKNOLOJI A.S.",1388
+"AS43260","DGN TEKNOLOJI A.S.",1389
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1296
 "AS204428","SS-Net",1182
@@ -68,11 +68,11 @@ ASN,Organization,IP_Count
 "AS214943","Railnet LLC",311
 "AS51115","HLL LLC",309
 "AS24863","LINKdotNET AS number",307
+"AS53667","FranTech Solutions",297
 "AS210848","Telkom Internet LTD",296
-"AS53667","FranTech Solutions",296
 "AS9829","Bharat Sanchar Nigam Ltd",288
 "AS9341","PT Indonesia Comnets Plus",278
-"AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",265
+"AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",266
 "AS60223","Netiface Limited",247
 "AS48090","TECHOFF SRV LIMITED",245
 "AS12876","ONLINE S.A.S.",233
@@ -1301,6 +1301,7 @@ ASN,Organization,IP_Count
 "AS38700","SMILESERV",1
 "AS38713","Satcomm (Pvt.) Ltd.",1
 "AS38794","United Information Highway Co.,Ltd.",1
+"AS38880","Micron21 Datacentre Pty Ltd",1
 "AS393458","Nuclearfallout Enterprises, Inc.",1
 "AS394151","Whatbox Inc.",1
 "AS39422","Oleksandr Yaremenko",1
