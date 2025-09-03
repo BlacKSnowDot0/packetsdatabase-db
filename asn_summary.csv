@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87528
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21581
-"AS398324","Censys, Inc.",10426
+"AS398324","Censys, Inc.",10427
 "AS396982","Google LLC",9490
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6862
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1628
 "AS209605","UAB Host Baltic",1458
-"AS43260","DGN TEKNOLOJI A.S.",1385
+"AS43260","DGN TEKNOLOJI A.S.",1388
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1296
 "AS204428","SS-Net",1182
@@ -182,11 +182,11 @@ ASN,Organization,IP_Count
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS1241","RIPE Network Coordination Centre",27
 "AS12816","Leibniz-Rechenzentrum",27
+"AS29066","velia.net Internetdienste GmbH",27
 "AS3786","LG DACOM Corporation",27
 "AS44592","SkyLink Data Center BV",27
 "AS55990","Huawei Cloud Service data center",27
 "AS2200","Renater",26
-"AS29066","velia.net Internetdienste GmbH",26
 "AS30083","velia.net",26
 "AS3209","Vodafone GmbH",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
@@ -334,6 +334,7 @@ ASN,Organization,IP_Count
 "AS18209","Atria Convergence Technologies Pvt. Ltd.,",8
 "AS18986","Calligo (Canada) Inc.",8
 "AS198361","Yaglom Labs Ltd",8
+"AS200514","KnownSRV Ltd.",8
 "AS209956","Telkoturk Iletisim Hizmetleri A.S.",8
 "AS210509","Optimum Line for Internet Services Ltd.",8
 "AS214481","Wojciech Czapkowicz",8
@@ -353,7 +354,6 @@ ASN,Organization,IP_Count
 "AS17762","Tata Teleservices (Maharashtra) Ltd",7
 "AS197309","RS-Media LLC",7
 "AS199414","Noah Kolossa",7
-"AS200514","KnownSRV Ltd.",7
 "AS203684","Imen Sanat Novin Alighapoo Private Joint Stock Company",7
 "AS204044","PACKET STAR NETWORKS LIMITED",7
 "AS204631","VIVANET GmbH",7
