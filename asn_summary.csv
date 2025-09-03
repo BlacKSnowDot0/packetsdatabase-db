@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4401
 "AS16509","Amazon.com, Inc.",3832
-"AS63949","Akamai Technologies, Inc.",3447
+"AS63949","Akamai Technologies, Inc.",3448
 "AS45102","Alibaba (US) Technology Co., Ltd.",3388
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3161
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1628
 "AS209605","UAB Host Baltic",1458
-"AS43260","DGN TEKNOLOJI A.S.",1372
+"AS43260","DGN TEKNOLOJI A.S.",1373
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1296
 "AS204428","SS-Net",1182
@@ -69,7 +69,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",309
 "AS24863","LINKdotNET AS number",307
 "AS210848","Telkom Internet LTD",296
-"AS53667","FranTech Solutions",295
+"AS53667","FranTech Solutions",296
 "AS9829","Bharat Sanchar Nigam Ltd",288
 "AS9341","PT Indonesia Comnets Plus",278
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",265
@@ -119,7 +119,7 @@ ASN,Organization,IP_Count
 "AS205352","KABELNET LTD",70
 "AS28209","Under Servicos de Internet Ltda",69
 "AS52053","REDHEBERG Association declaree",69
-"AS31898","Oracle Corporation",67
+"AS31898","Oracle Corporation",68
 "AS328867","Corebach Backbone SARL",67
 "AS40021","Nubes, LLC",66
 "AS398101","GoDaddy.com, LLC",65
@@ -177,11 +177,11 @@ ASN,Organization,IP_Count
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS141679","China Telecom",28
+"AS149746","PT Blip Integrator Provider",28
 "AS263355","GTR NET COMUNICACOES EIRELI",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS1241","RIPE Network Coordination Centre",27
 "AS12816","Leibniz-Rechenzentrum",27
-"AS149746","PT Blip Integrator Provider",27
 "AS3786","LG DACOM Corporation",27
 "AS44592","SkyLink Data Center BV",27
 "AS55990","Huawei Cloud Service data center",27
@@ -684,6 +684,7 @@ ASN,Organization,IP_Count
 "AS203811","AL-MARAJ AL-ALAMIYA Co",2
 "AS204102","LLC SmartGrupp",2
 "AS204914","LABIXE LTD",2
+"AS205090","FIRST SERVER LIMITED",2
 "AS20632","PJSC MegaFon",2
 "AS206476","Neten S.p.A.",2
 "AS206728","Media Land LLC",2
@@ -1048,7 +1049,6 @@ ASN,Organization,IP_Count
 "AS203972","LLC TatAISneft",1
 "AS204834","Shabakieh Isfahan Co PJSC",1
 "AS204997","FIRST SERVER LIMITED",1
-"AS205090","FIRST SERVER LIMITED",1
 "AS205157","Daniel Cid",1
 "AS20598","Autonomous System number for Cyber Space,",1
 "AS206026","Kar-Tel LLC",1
