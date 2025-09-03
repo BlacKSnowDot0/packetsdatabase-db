@@ -1,9 +1,9 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87528
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
-"AS211298","Driftnet Ltd",21578
-"AS398324","Censys, Inc.",10423
-"AS396982","Google LLC",9489
+"AS211298","Driftnet Ltd",21581
+"AS398324","Censys, Inc.",10424
+"AS396982","Google LLC",9490
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6862
 "AS16276","OVH SAS",5558
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4401
 "AS16509","Amazon.com, Inc.",3832
 "AS63949","Akamai Technologies, Inc.",3448
-"AS45102","Alibaba (US) Technology Co., Ltd.",3390
+"AS45102","Alibaba (US) Technology Co., Ltd.",3391
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3161
 "AS51396","Pfcloud UG",2985
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1628
 "AS209605","UAB Host Baltic",1458
-"AS43260","DGN TEKNOLOJI A.S.",1383
+"AS43260","DGN TEKNOLOJI A.S.",1384
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1296
 "AS204428","SS-Net",1182
@@ -283,6 +283,7 @@ ASN,Organization,IP_Count
 "AS4713","NTT Communications Corporation",12
 "AS4808","China Unicom Beijing Province Network",12
 "AS62442","Dade Samane Fanava Company (PJS)",12
+"AS9123","TimeWeb Ltd.",12
 "AS984","OCTOPUS WEB SOLUTION INC",12
 "AS12874","Fastweb SpA",11
 "AS140726","China Unicom",11
@@ -299,7 +300,6 @@ ASN,Organization,IP_Count
 "AS45820","TTSL-ISP DIVISION",11
 "AS48753","AVA HOST SRL",11
 "AS58563","CHINANET Hubei province network",11
-"AS9123","TimeWeb Ltd.",11
 "AS12912","T-Mobile Polska S.A.",10
 "AS153443","VPSRE.NET LLC",10
 "AS204104","Giti Secure Cloud LLC",10
