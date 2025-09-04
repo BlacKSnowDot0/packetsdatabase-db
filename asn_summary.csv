@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87528
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21582
-"AS398324","Censys, Inc.",10446
-"AS396982","Google LLC",9496
+"AS398324","Censys, Inc.",10448
+"AS396982","Google LLC",9497
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6865
 "AS16276","OVH SAS",5560
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1628
 "AS209605","UAB Host Baltic",1458
-"AS43260","DGN TEKNOLOJI A.S.",1408
+"AS43260","DGN TEKNOLOJI A.S.",1410
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1296
 "AS204428","SS-Net",1182
@@ -100,8 +100,8 @@ ASN,Organization,IP_Count
 "AS8151","Uninet S.A. de C.V.",117
 "AS13238","YANDEX LLC",115
 "AS211298","Constantine Cybersecurity Ltd.",113
+"AS29484","Ruhr-Universitaet Bochum",111
 "AS208287","DC Host INC",110
-"AS29484","Ruhr-Universitaet Bochum",110
 "AS262551","Farol Telecom",101
 "AS42237","w1n ltd",93
 "AS63018","Dedicated.com",92
@@ -233,6 +233,7 @@ ASN,Organization,IP_Count
 "AS262287","Maxihost LTDA",18
 "AS329009","Spectrum Internet Service Ltd",18
 "AS9299","Philippine Long Distance Telephone Co.",18
+"AS13213","UK-2 Limited",17
 "AS136958","China Unicom Guangdong IP network",17
 "AS140061","China Telecom",17
 "AS148981","China Telecom",17
@@ -242,7 +243,6 @@ ASN,Organization,IP_Count
 "AS24348","CERNET2 IX at Tsinghua University",17
 "AS45117","Ishan's Network",17
 "AS56630","Melbikomas UAB",17
-"AS13213","UK-2 Limited",16
 "AS146817","Hubei Feixun Network Co., Ltd",16
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",16
 "AS206092","Internet Utilities Europe and Asia Limited",16
