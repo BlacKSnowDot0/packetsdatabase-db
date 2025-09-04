@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87530
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70541
 "AS211298","Driftnet Ltd",21584
-"AS398324","Censys, Inc.",10474
+"AS398324","Censys, Inc.",10478
 "AS396982","Google LLC",9500
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6870
@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",2985
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2526
-"AS8075","Microsoft Corporation",2488
+"AS8075","Microsoft Corporation",2489
 "AS6939","Hurricane Electric LLC",2098
 "AS9808","China Mobile",2049
 "AS214295","SKYNET NETWORK LTD",1631
@@ -68,7 +68,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",313
 "AS214943","Railnet LLC",311
 "AS24863","LINKdotNET AS number",307
-"AS53667","FranTech Solutions",299
+"AS53667","FranTech Solutions",300
 "AS210848","Telkom Internet LTD",296
 "AS9829","Bharat Sanchar Nigam Ltd",291
 "AS9341","PT Indonesia Comnets Plus",278
@@ -202,6 +202,7 @@ ASN,Organization,IP_Count
 "AS60068","Datacamp Limited",23
 "AS62240","Clouvider Limited",23
 "AS17557","Pakistan Telecommuication company limited",22
+"AS17995","PT iForte Global Internet",22
 "AS213010","Gening Nikita Dmitrievich",22
 "AS269193","Iktelecom Ltda",22
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",22
@@ -209,7 +210,6 @@ ASN,Organization,IP_Count
 "AS51430","AltusHost B.V.",22
 "AS58224","Iran Telecommunication Company PJS",22
 "AS17561","Larus Limited",21
-"AS17995","PT iForte Global Internet",21
 "AS214668","AxusHost B.V.",21
 "AS23724","IDC, China Telecommunications Corporation",21
 "AS400536","Nodestop LLC",21
