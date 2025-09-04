@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87530
-"AS49581","Ferdinand Zink trading as Tube-Hosting",70540
+"AS49581","Ferdinand Zink trading as Tube-Hosting",70541
 "AS211298","Driftnet Ltd",21584
-"AS398324","Censys, Inc.",10471
+"AS398324","Censys, Inc.",10474
 "AS396982","Google LLC",9500
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6870
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1628
 "AS209605","UAB Host Baltic",1458
-"AS43260","DGN TEKNOLOJI A.S.",1446
+"AS43260","DGN TEKNOLOJI A.S.",1447
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1296
 "AS204428","SS-Net",1182
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1128
 "AS201401","NewVM B.V.",1076
 "AS0","",985
-"AS22552","eSited Solutions",976
+"AS22552","eSited Solutions",977
 "AS208684","BHA CONSEIL SARL",934
 "AS51852","Private Layer INC",907
 "AS174","Cogent Communications",882
@@ -52,8 +52,8 @@ ASN,Organization,IP_Count
 "AS401120","cheapy.host LLC",513
 "AS140292","China Telecom",508
 "AS14618","Amazon.com, Inc.",508
+"AS10439","CariNet, Inc.",499
 "AS9009","M247 Europe SRL",499
-"AS10439","CariNet, Inc.",498
 "AS50360","Tamatiya EOOD",492
 "AS4837","CHINA UNICOM China169 Backbone",474
 "AS201814","MEVSPACE sp. z o.o.",465
