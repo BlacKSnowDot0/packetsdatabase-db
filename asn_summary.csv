@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4401
 "AS16509","Amazon.com, Inc.",3832
 "AS63949","Akamai Technologies, Inc.",3448
-"AS45102","Alibaba (US) Technology Co., Ltd.",3391
+"AS45102","Alibaba (US) Technology Co., Ltd.",3392
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3161
 "AS51396","Pfcloud UG",2985
@@ -45,8 +45,8 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",698
 "AS23470","ReliableSite.Net LLC",669
 "AS211849","Kakharov Orinbassar Maratuly",596
+"AS32475","Internap Holding LLC",559
 "AS31148","Freenet LTD",558
-"AS32475","Internap Holding LLC",557
 "AS36352","HostPapa",554
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",513
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS51167","Contabo GmbH",387
+"AS51167","Contabo GmbH",388
 "AS3462","Chunghwa Telecom Co., Ltd.",331
 "AS21859","Zenlayer Inc",326
 "AS214943","Railnet LLC",311
@@ -76,7 +76,7 @@ ASN,Organization,IP_Count
 "AS60223","Netiface Limited",247
 "AS48090","TECHOFF SRV LIMITED",245
 "AS47890","UNMANAGED LTD",236
-"AS12876","ONLINE S.A.S.",234
+"AS12876","ONLINE S.A.S.",235
 "AS209272","Alviva Holding Limited",230
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",223
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
@@ -90,7 +90,7 @@ ASN,Organization,IP_Count
 "AS12555","Data-center IMAQLIQ Ltd.",165
 "AS63199","CDS Global Cloud Co., Ltd",161
 "AS45899","VNPT Corp",155
-"AS213613","BOTSHIELD LTD",151
+"AS213613","BOTSHIELD LTD",152
 "AS141718","haoxiangyun",145
 "AS47105","Vault Dweller OU",141
 "AS206264","Amarutu Technology Ltd",134
