@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87530
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21584
-"AS398324","Censys, Inc.",10460
+"AS398324","Censys, Inc.",10461
 "AS396982","Google LLC",9498
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6868
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1628
 "AS209605","UAB Host Baltic",1458
-"AS43260","DGN TEKNOLOJI A.S.",1427
+"AS43260","DGN TEKNOLOJI A.S.",1429
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1296
 "AS204428","SS-Net",1182
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1128
 "AS201401","NewVM B.V.",1076
 "AS0","",985
-"AS22552","eSited Solutions",973
+"AS22552","eSited Solutions",974
 "AS208684","BHA CONSEIL SARL",934
 "AS51852","Private Layer INC",907
 "AS174","Cogent Communications",881
@@ -127,7 +127,7 @@ ASN,Organization,IP_Count
 "AS140717","China Unicom",61
 "AS16735","ALGAR TELECOM S/A",61
 "AS151185","China Telecom",60
-"AS3920","ESTOXY OU",59
+"AS3920","ESTOXY OU",60
 "AS4812","China Telecom (Group)",58
 "AS20278","Nexeon Technologies, Inc.",57
 "AS210125","PRIAM NET Sh.p.k.",56
@@ -275,6 +275,7 @@ ASN,Organization,IP_Count
 "AS213438","ColocaTel Inc.",12
 "AS24757","EthioNet",12
 "AS24940","Hetzner Online GmbH",12
+"AS25198","INTERKVM HOST SRL",12
 "AS2637","Georgia Institute of Technology",12
 "AS329490","Promethean Consulting Limited",12
 "AS35042","Layer7 Networks GmbH",12
@@ -292,7 +293,6 @@ ASN,Organization,IP_Count
 "AS205119","TELEKS DOOEL Skopje",11
 "AS206804","EstNOC OY",11
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
-"AS25198","INTERKVM HOST SRL",11
 "AS3257","GTT Communications Inc.",11
 "AS37457","Telkom SA Ltd.",11
 "AS39351","31173 Services AB",11
@@ -586,6 +586,7 @@ ASN,Organization,IP_Count
 "AS35104","Jusan Mobile JSC",3
 "AS399244","AME Hosting LLC",3
 "AS40065","CNSERVERS LLC",3
+"AS41075","ATW Internet Kft.",3
 "AS41704","JSC ""Ufanet""",3
 "AS41743","OPTIMASET Ltd.",3
 "AS41750","Mega-Line Ltd.",3
@@ -784,7 +785,6 @@ ASN,Organization,IP_Count
 "AS400304","Redoubt Networks",2
 "AS400992","ZhouyiSat Communications",2
 "AS40676","Psychz Networks",2
-"AS41075","ATW Internet Kft.",2
 "AS41350","JSC ""BANK FORWARD""",2
 "AS42109","MTS Armenia CJSC",2
 "AS4213","Krypt Technologies",2
