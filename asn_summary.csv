@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87528
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21581
-"AS398324","Censys, Inc.",10435
-"AS396982","Google LLC",9493
+"AS398324","Censys, Inc.",10438
+"AS396982","Google LLC",9494
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6862
 "AS16276","OVH SAS",5559
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1628
 "AS209605","UAB Host Baltic",1458
-"AS43260","DGN TEKNOLOJI A.S.",1394
+"AS43260","DGN TEKNOLOJI A.S.",1398
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1296
 "AS204428","SS-Net",1182
@@ -36,17 +36,17 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",970
 "AS208684","BHA CONSEIL SARL",934
 "AS51852","Private Layer INC",907
-"AS174","Cogent Communications",878
+"AS174","Cogent Communications",880
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",803
 "AS208046","ColocationX Ltd.",792
 "AS215925","VPSVAULT.HOST LTD",760
 "AS211680","NSEC - Sistemas Informaticos, S.A.",698
-"AS23470","ReliableSite.Net LLC",668
+"AS23470","ReliableSite.Net LLC",669
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
-"AS32475","Internap Holding LLC",556
+"AS32475","Internap Holding LLC",557
 "AS36352","HostPapa",554
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",513
@@ -75,8 +75,8 @@ ASN,Organization,IP_Count
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",266
 "AS60223","Netiface Limited",247
 "AS48090","TECHOFF SRV LIMITED",245
+"AS47890","UNMANAGED LTD",235
 "AS12876","ONLINE S.A.S.",234
-"AS47890","UNMANAGED LTD",234
 "AS209272","Alviva Holding Limited",230
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",222
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
@@ -111,8 +111,8 @@ ASN,Organization,IP_Count
 "AS200019","ALEXHOST SRL",78
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS32475","SingleHop LLC",75
+"AS14956","RouterHosting LLC",74
 "AS56046","China Mobile Communications Corporation",74
-"AS14956","RouterHosting LLC",73
 "AS27882","Telefónica Celular de Bolivia S.A.",73
 "AS4766","Korea Telecom",73
 "AS205352","KABELNET LTD",72
@@ -183,14 +183,14 @@ ASN,Organization,IP_Count
 "AS1241","RIPE Network Coordination Centre",27
 "AS12816","Leibniz-Rechenzentrum",27
 "AS29066","velia.net Internetdienste GmbH",27
+"AS30083","velia.net",27
 "AS3786","LG DACOM Corporation",27
 "AS44592","SkyLink Data Center BV",27
 "AS55990","Huawei Cloud Service data center",27
+"AS19318","Interserver, Inc",26
 "AS2200","Renater",26
-"AS30083","velia.net",26
 "AS3209","Vodafone GmbH",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
-"AS19318","Interserver, Inc",25
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",25
 "AS34534","FBW NETWORKS SAS",25
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",24
@@ -369,6 +369,7 @@ ASN,Organization,IP_Count
 "AS62068","SpectraIP B.V.",7
 "AS63838","Hengyang",7
 "AS7303","Telecom Argentina S.A.",7
+"AS7922","Comcast Cable Communications, LLC",7
 "AS9038","Batelco Jordan",7
 "AS9658","Eastern Telecommunications Philippines, Inc.",7
 "AS132116","Ani Network Pvt Ltd",6
@@ -405,7 +406,6 @@ ASN,Organization,IP_Count
 "AS58519","Cloud Computing Corporation",6
 "AS63023","GTHost",6
 "AS6849","JSC ""Ukrtelecom""",6
-"AS7922","Comcast Cable Communications, LLC",6
 "AS8796","FD-298-8796",6
 "AS9873","Lao Telecommunication Public Company",6
 "AS9981","Saero Network Service LTD",6
