@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87528
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21581
-"AS398324","Censys, Inc.",10438
+"AS398324","Censys, Inc.",10440
 "AS396982","Google LLC",9495
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6864
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1628
 "AS209605","UAB Host Baltic",1458
-"AS43260","DGN TEKNOLOJI A.S.",1400
+"AS43260","DGN TEKNOLOJI A.S.",1402
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1296
 "AS204428","SS-Net",1182
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1128
 "AS201401","NewVM B.V.",1076
 "AS0","",984
-"AS22552","eSited Solutions",971
+"AS22552","eSited Solutions",972
 "AS208684","BHA CONSEIL SARL",934
 "AS51852","Private Layer INC",907
 "AS174","Cogent Communications",880
@@ -45,7 +45,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",698
 "AS23470","ReliableSite.Net LLC",669
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS32475","Internap Holding LLC",559
+"AS32475","Internap Holding LLC",561
 "AS31148","Freenet LTD",558
 "AS36352","HostPapa",554
 "AS198953","Proton66 OOO",527
@@ -179,10 +179,10 @@ ASN,Organization,IP_Count
 "AS141679","China Telecom",28
 "AS149746","PT Blip Integrator Provider",28
 "AS263355","GTR NET COMUNICACOES EIRELI",28
+"AS29066","velia.net Internetdienste GmbH",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS1241","RIPE Network Coordination Centre",27
 "AS12816","Leibniz-Rechenzentrum",27
-"AS29066","velia.net Internetdienste GmbH",27
 "AS30083","velia.net",27
 "AS3786","LG DACOM Corporation",27
 "AS44592","SkyLink Data Center BV",27
@@ -242,6 +242,7 @@ ASN,Organization,IP_Count
 "AS24348","CERNET2 IX at Tsinghua University",17
 "AS45117","Ishan's Network",17
 "AS56630","Melbikomas UAB",17
+"AS13213","UK-2 Limited",16
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",16
 "AS206092","Internet Utilities Europe and Asia Limited",16
 "AS3320","Deutsche Telekom AG",16
@@ -250,7 +251,6 @@ ASN,Organization,IP_Count
 "AS50340","JSC Selectel",16
 "AS6134","XNNET LLC",16
 "AS6597","Coloblox Data Centers Inc",16
-"AS13213","UK-2 Limited",15
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",15
 "AS146817","Hubei Feixun Network Co., Ltd",15
 "AS211619","MAXKO d.o.o.",15
