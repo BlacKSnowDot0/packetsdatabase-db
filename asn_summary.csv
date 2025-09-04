@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87530
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70541
 "AS211298","Driftnet Ltd",21585
-"AS398324","Censys, Inc.",10485
-"AS396982","Google LLC",9501
+"AS398324","Censys, Inc.",10488
+"AS396982","Google LLC",9502
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6871
 "AS16276","OVH SAS",5562
@@ -45,7 +45,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",698
 "AS23470","ReliableSite.Net LLC",672
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS32475","Internap Holding LLC",569
+"AS32475","Internap Holding LLC",570
 "AS36352","HostPapa",563
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
@@ -61,7 +61,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",411
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",404
-"AS51167","Contabo GmbH",390
+"AS51167","Contabo GmbH",391
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS3462","Chunghwa Telecom Co., Ltd.",331
 "AS21859","Zenlayer Inc",326
@@ -174,12 +174,12 @@ ASN,Organization,IP_Count
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",30
 "AS9198","JSC Kazakhtelecom",30
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",29
+"AS29066","velia.net Internetdienste GmbH",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS141679","China Telecom",28
 "AS149746","PT Blip Integrator Provider",28
 "AS263355","GTR NET COMUNICACOES EIRELI",28
-"AS29066","velia.net Internetdienste GmbH",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS1241","RIPE Network Coordination Centre",27
 "AS12816","Leibniz-Rechenzentrum",27
