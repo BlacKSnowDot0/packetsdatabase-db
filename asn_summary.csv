@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87530
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21584
-"AS398324","Censys, Inc.",10465
+"AS398324","Censys, Inc.",10466
 "AS396982","Google LLC",9499
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6868
@@ -18,13 +18,13 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",2985
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2526
-"AS8075","Microsoft Corporation",2487
+"AS8075","Microsoft Corporation",2488
 "AS6939","Hurricane Electric LLC",2098
 "AS9808","China Mobile",2049
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1628
 "AS209605","UAB Host Baltic",1458
-"AS43260","DGN TEKNOLOJI A.S.",1437
+"AS43260","DGN TEKNOLOJI A.S.",1438
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1296
 "AS204428","SS-Net",1182
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",792
 "AS215925","VPSVAULT.HOST LTD",760
 "AS211680","NSEC - Sistemas Informaticos, S.A.",698
-"AS23470","ReliableSite.Net LLC",670
+"AS23470","ReliableSite.Net LLC",671
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS32475","Internap Holding LLC",567
 "AS36352","HostPapa",563
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",513
 "AS140292","China Telecom",508
-"AS14618","Amazon.com, Inc.",507
+"AS14618","Amazon.com, Inc.",508
 "AS9009","M247 Europe SRL",499
 "AS10439","CariNet, Inc.",498
 "AS50360","Tamatiya EOOD",492
@@ -78,7 +78,7 @@ ASN,Organization,IP_Count
 "AS47890","UNMANAGED LTD",237
 "AS12876","ONLINE S.A.S.",236
 "AS209272","Alviva Holding Limited",230
-"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",225
+"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",226
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",218
 "AS14987","Rethem Hosting LLC",215
@@ -597,6 +597,7 @@ ASN,Organization,IP_Count
 "AS47154","HUSAM A. H. HIJAZI",3
 "AS48411","FOP Samoylenko Oleksandr Volodymirovich",3
 "AS49242","Internet Union Spolka Akcyjna",3
+"AS49505","JSC Selectel",3
 "AS50274","Alfanet LLC",3
 "AS5065","Bunny Communications",3
 "AS55699","PT. Cemerlang Multimedia",3
@@ -812,7 +813,6 @@ ASN,Organization,IP_Count
 "AS48678","PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi",2
 "AS48847","WAVES S.A.L",2
 "AS49218","Nizhnetagilskie Kompyuternye Seti LLC",2
-"AS49505","JSC Selectel",2
 "AS49724","CJSC Vainah Telecom",2
 "AS49800","GNC-Alfa CJSC",2
 "AS49981","WorldStream B.V.",2
