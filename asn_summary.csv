@@ -1,5 +1,5 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87528
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87529
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21582
 "AS398324","Censys, Inc.",10454
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4401
 "AS16509","Amazon.com, Inc.",3832
 "AS63949","Akamai Technologies, Inc.",3450
-"AS45102","Alibaba (US) Technology Co., Ltd.",3393
+"AS45102","Alibaba (US) Technology Co., Ltd.",3394
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3161
 "AS51396","Pfcloud UG",2985
@@ -46,8 +46,8 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",669
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS32475","Internap Holding LLC",562
+"AS36352","HostPapa",560
 "AS31148","Freenet LTD",558
-"AS36352","HostPapa",558
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",513
 "AS140292","China Telecom",508
@@ -90,7 +90,7 @@ ASN,Organization,IP_Count
 "AS12555","Data-center IMAQLIQ Ltd.",165
 "AS63199","CDS Global Cloud Co., Ltd",161
 "AS45899","VNPT Corp",155
-"AS213613","BOTSHIELD LTD",152
+"AS213613","BOTSHIELD LTD",153
 "AS141718","haoxiangyun",145
 "AS47105","Vault Dweller OU",141
 "AS206264","Amarutu Technology Ltd",134
@@ -151,8 +151,8 @@ ASN,Organization,IP_Count
 "AS46844","Sharktech",44
 "AS152194","CTG Server Limited",43
 "AS214497","Whitelabel Solutions, Ltd.",42
+"AS34984","Superonline Iletisim Hizmetleri A.S.",42
 "AS215590","DpkgSoft International Limited",41
-"AS34984","Superonline Iletisim Hizmetleri A.S.",41
 "AS396356","Latitude.sh",40
 "AS7552","Viettel Group",40
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",39
@@ -458,6 +458,7 @@ ASN,Organization,IP_Count
 "AS6697","Republican Unitary Telecommunication Enterprise Beltelecom",5
 "AS8345","JSC ""ER-Telecom Holding""",5
 "AS8648","dogado GmbH",5
+"AS9770","LG HelloVision Corp.",5
 "AS12714","PJSC MegaFon",4
 "AS131090","CAT Telecom Public Company Limited",4
 "AS131607","Digidom CableTV Co., LTD.",4
@@ -517,7 +518,6 @@ ASN,Organization,IP_Count
 "AS9260","Multinet Broadband",4
 "AS9335","CAT Telecom Public Company Limited",4
 "AS9541","Cyber Internet Services (Private) Limited",4
-"AS9770","LG HelloVision Corp.",4
 "AS10029","SHYAM SPECTRA PVT LTD",3
 "AS1101","SURF B.V.",3
 "AS11426","Charter Communications Inc",3
