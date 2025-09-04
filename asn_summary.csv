@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87530
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70541
 "AS211298","Driftnet Ltd",21585
-"AS398324","Censys, Inc.",10482
+"AS398324","Censys, Inc.",10483
 "AS396982","Google LLC",9501
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6871
@@ -45,7 +45,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",698
 "AS23470","ReliableSite.Net LLC",671
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS32475","Internap Holding LLC",568
+"AS32475","Internap Holding LLC",569
 "AS36352","HostPapa",563
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
@@ -505,6 +505,7 @@ ASN,Organization,IP_Count
 "AS45284","Wireline Solution India Pvt Ltd.",4
 "AS45609","Bharti Airtel Limited",4
 "AS47165","Omskie kabelnye seti Ltd.",4
+"AS49505","JSC Selectel",4
 "AS52401","CABLESAT TV SRL",4
 "AS5432","Proximus NV",4
 "AS58369","PT. Fiber Networks Indonesia",4
@@ -597,7 +598,6 @@ ASN,Organization,IP_Count
 "AS47154","HUSAM A. H. HIJAZI",3
 "AS48411","FOP Samoylenko Oleksandr Volodymirovich",3
 "AS49242","Internet Union Spolka Akcyjna",3
-"AS49505","JSC Selectel",3
 "AS50274","Alfanet LLC",3
 "AS5065","Bunny Communications",3
 "AS55699","PT. Cemerlang Multimedia",3
