@@ -3,9 +3,9 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70540
 "AS211298","Driftnet Ltd",21581
 "AS398324","Censys, Inc.",10438
-"AS396982","Google LLC",9494
+"AS396982","Google LLC",9495
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6862
+"AS14061","DigitalOcean, LLC",6864
 "AS16276","OVH SAS",5559
 "AS4134","Chinanet",4777
 "AS6568","Entel S.A. - EntelNet",4536
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1628
 "AS209605","UAB Host Baltic",1458
-"AS43260","DGN TEKNOLOJI A.S.",1398
+"AS43260","DGN TEKNOLOJI A.S.",1400
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1296
 "AS204428","SS-Net",1182
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1128
 "AS201401","NewVM B.V.",1076
 "AS0","",984
-"AS22552","eSited Solutions",970
+"AS22552","eSited Solutions",971
 "AS208684","BHA CONSEIL SARL",934
 "AS51852","Private Layer INC",907
 "AS174","Cogent Communications",880
@@ -58,7 +58,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",473
 "AS201814","MEVSPACE sp. z o.o.",465
 "AS212238","Datacamp Limited",454
-"AS20052","Arbor Networks, Inc.",409
+"AS20052","Arbor Networks, Inc.",410
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -75,10 +75,10 @@ ASN,Organization,IP_Count
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",266
 "AS60223","Netiface Limited",247
 "AS48090","TECHOFF SRV LIMITED",245
-"AS47890","UNMANAGED LTD",235
+"AS47890","UNMANAGED LTD",236
 "AS12876","ONLINE S.A.S.",234
 "AS209272","Alviva Holding Limited",230
-"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",222
+"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",223
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",216
 "AS14987","Rethem Hosting LLC",215
@@ -127,9 +127,9 @@ ASN,Organization,IP_Count
 "AS140717","China Unicom",61
 "AS16735","ALGAR TELECOM S/A",61
 "AS151185","China Telecom",59
+"AS3920","ESTOXY OU",58
 "AS4812","China Telecom (Group)",58
 "AS20278","Nexeon Technologies, Inc.",57
-"AS3920","ESTOXY OU",57
 "AS210125","PRIAM NET Sh.p.k.",56
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS49544","i3D.net B.V",56
@@ -141,9 +141,9 @@ ASN,Organization,IP_Count
 "AS8402","PJSC ""Vimpelcom""",51
 "AS11320","LightEdge Solutions",49
 "AS57588","Hayat for Internet & communication LLC",49
+"AS199785","Cloud Hosting Solutions, Limited.",47
 "AS266181","GOLDEN LINK",47
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
-"AS199785","Cloud Hosting Solutions, Limited.",46
 "AS271795","SERVITELCONET CIA. LTDA.",46
 "AS213877","u1host ltd",45
 "AS42708","GleSYS AB",44
@@ -387,6 +387,7 @@ ASN,Organization,IP_Count
 "AS203020","HostRoyale Technologies Pvt Ltd",6
 "AS211507","Julian Achter",6
 "AS212374","Virtuozzo International GmbH",6
+"AS214417","Andrii Hrosh",6
 "AS216158","Teleport Rus LLC",6
 "AS216300","Closed Joint Stock Company ""AbkhazMedia""",6
 "AS22927","Telefonica de Argentina",6
@@ -426,7 +427,6 @@ ASN,Organization,IP_Count
 "AS21246","IPKO Telecommunications LLC",5
 "AS213520","Senko Digital Ltd",5
 "AS213851","Marcel Hanisch",5
-"AS214417","Andrii Hrosh",5
 "AS215311","Regxa Company for Information Technology Ltd",5
 "AS215730","H2NEXUS LTD",5
 "AS26383","Baxet Group Inc.",5
