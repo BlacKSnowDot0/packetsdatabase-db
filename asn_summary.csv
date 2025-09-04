@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87530
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70541
 "AS211298","Driftnet Ltd",21585
-"AS398324","Censys, Inc.",10483
+"AS398324","Censys, Inc.",10485
 "AS396982","Google LLC",9501
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6871
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",792
 "AS215925","VPSVAULT.HOST LTD",760
 "AS211680","NSEC - Sistemas Informaticos, S.A.",698
-"AS23470","ReliableSite.Net LLC",671
+"AS23470","ReliableSite.Net LLC",672
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS32475","Internap Holding LLC",569
 "AS36352","HostPapa",563
@@ -585,6 +585,7 @@ ASN,Organization,IP_Count
 "AS3301","Telia Company AB",3
 "AS33771","Safaricom Limited",3
 "AS35104","Jusan Mobile JSC",3
+"AS38880","Micron21 Datacentre Pty Ltd",3
 "AS399244","AME Hosting LLC",3
 "AS40065","CNSERVERS LLC",3
 "AS41075","ATW Internet Kft.",3
@@ -776,7 +777,6 @@ ASN,Organization,IP_Count
 "AS37693","OOREDOO TUNISIE SA",2
 "AS38200","BTS Communications (BD) Ltd",2
 "AS38511","PT Remala Abadi",2
-"AS38880","Micron21 Datacentre Pty Ltd",2
 "AS39065","Southern Telecommunication Company Ltd.",2
 "AS39308","ANDISHE SABZ KHAZAR CO. P.J.S.",2
 "AS39421","Sapinet SAS",2
