@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",10452
 "AS396982","Google LLC",9498
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6865
+"AS14061","DigitalOcean, LLC",6866
 "AS16276","OVH SAS",5560
 "AS4134","Chinanet",4778
 "AS6568","Entel S.A. - EntelNet",4536
@@ -24,19 +24,19 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1628
 "AS209605","UAB Host Baltic",1458
-"AS43260","DGN TEKNOLOJI A.S.",1414
+"AS43260","DGN TEKNOLOJI A.S.",1417
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1296
 "AS204428","SS-Net",1182
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS399045","DediOutlet, LLC",1134
+"AS399045","DediOutlet, LLC",1135
 "AS49870","Alsycon B.V.",1128
 "AS201401","NewVM B.V.",1076
 "AS0","",984
 "AS22552","eSited Solutions",972
 "AS208684","BHA CONSEIL SARL",934
 "AS51852","Private Layer INC",907
-"AS174","Cogent Communications",880
+"AS174","Cogent Communications",881
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",803
@@ -80,7 +80,7 @@ ASN,Organization,IP_Count
 "AS209272","Alviva Holding Limited",230
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",225
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",216
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",217
 "AS14987","Rethem Hosting LLC",215
 "AS7713","Telekomunikasi Indonesia (PT)",210
 "AS13335","Cloudflare, Inc.",197
@@ -227,13 +227,13 @@ ASN,Organization,IP_Count
 "AS46475","Limestone Networks, Inc.",19
 "AS58212","dataforest GmbH",19
 "AS11878","tzulo, inc.",18
+"AS13213","UK-2 Limited",18
 "AS17638","ASN for TIANJIN Provincial Net of CT",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
 "AS24560","Bharti Airtel Limited",18
 "AS262287","Maxihost LTDA",18
 "AS329009","Spectrum Internet Service Ltd",18
 "AS9299","Philippine Long Distance Telephone Co.",18
-"AS13213","UK-2 Limited",17
 "AS136958","China Unicom Guangdong IP network",17
 "AS140061","China Telecom",17
 "AS148981","China Telecom",17
