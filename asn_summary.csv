@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87532
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21589
-"AS398324","Censys, Inc.",10513
+"AS398324","Censys, Inc.",10514
 "AS396982","Google LLC",9505
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6879
+"AS14061","DigitalOcean, LLC",6885
 "AS16276","OVH SAS",5570
 "AS4134","Chinanet",4778
 "AS6568","Entel S.A. - EntelNet",4536
@@ -45,7 +45,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",698
 "AS23470","ReliableSite.Net LLC",672
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS32475","Internap Holding LLC",578
+"AS32475","Internap Holding LLC",580
 "AS36352","HostPapa",571
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
@@ -107,7 +107,7 @@ ASN,Organization,IP_Count
 "AS63018","Dedicated.com",92
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",88
 "AS58461","Chinanet",85
-"AS50219","LNK SYSTEMS MUNTENIA SRL",83
+"AS50219","LNK SYSTEMS MUNTENIA SRL",84
 "AS200019","ALEXHOST SRL",78
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS32475","SingleHop LLC",75
@@ -117,7 +117,7 @@ ASN,Organization,IP_Count
 "AS27882","Telefónica Celular de Bolivia S.A.",73
 "AS4766","Korea Telecom",73
 "AS18403","FPT Telecom Company",71
-"AS28209","Under Servicos de Internet Ltda",69
+"AS28209","Under Servicos de Internet Ltda",70
 "AS52053","REDHEBERG Association declaree",69
 "AS31898","Oracle Corporation",68
 "AS328867","Corebach Backbone SARL",67
