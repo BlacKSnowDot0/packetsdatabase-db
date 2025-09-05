@@ -2,24 +2,24 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87531
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21585
-"AS398324","Censys, Inc.",10491
-"AS396982","Google LLC",9503
+"AS398324","Censys, Inc.",10493
+"AS396982","Google LLC",9504
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6872
-"AS16276","OVH SAS",5564
+"AS16276","OVH SAS",5565
 "AS4134","Chinanet",4778
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4401
 "AS16509","Amazon.com, Inc.",3832
-"AS63949","Akamai Technologies, Inc.",3451
+"AS63949","Akamai Technologies, Inc.",3452
 "AS45102","Alibaba (US) Technology Co., Ltd.",3397
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3161
 "AS51396","Pfcloud UG",2985
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2526
-"AS8075","Microsoft Corporation",2490
-"AS6939","Hurricane Electric LLC",2098
+"AS8075","Microsoft Corporation",2491
+"AS6939","Hurricane Electric LLC",2100
 "AS9808","China Mobile",2049
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1628
@@ -45,7 +45,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",698
 "AS23470","ReliableSite.Net LLC",672
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS32475","Internap Holding LLC",570
+"AS32475","Internap Holding LLC",574
 "AS36352","HostPapa",563
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
@@ -421,6 +421,7 @@ ASN,Organization,IP_Count
 "AS17858","LG POWERCOMM",5
 "AS18229","CtrlS",5
 "AS198983","Joseph Hofmann trading as 'Tornado Datacenter GmbH & Co. KG'",5
+"AS20115","Charter Communications",5
 "AS202468","Noyan Abr Arvan Co. ( Private Joint Stock)",5
 "AS207656","Epinatura LLC",5
 "AS21056","Vianova S.p.A",5
@@ -474,7 +475,6 @@ ASN,Organization,IP_Count
 "AS15895","""Kyivstar"" PJSC",4
 "AS17552","TRUE INTERNET CORPORATION CO. LTD.",4
 "AS17676","SoftBank Corp.",4
-"AS20115","Charter Communications",4
 "AS202520","SkyPass Solutions Sp. z.o.o.",4
 "AS203380","DA International Group Ltd.",4
 "AS206216","Advin Services LLC",4
@@ -1090,6 +1090,7 @@ ASN,Organization,IP_Count
 "AS213250","Dominic Scholz trading as ITP-Solutions GmbH & Co. KG",1
 "AS213373","IP Connect Inc",1
 "AS21367","Wiland Ltd",1
+"AS213732","Peyman Ertebatat Pouya Company (Ltd)",1
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",1
 "AS21409","Ikoula Net SAS",1
 "AS214305","YUNUS EMRE OZEREN",1
