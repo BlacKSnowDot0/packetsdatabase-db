@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87532
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
-"AS211298","Driftnet Ltd",21586
-"AS398324","Censys, Inc.",10510
+"AS211298","Driftnet Ltd",21588
+"AS398324","Censys, Inc.",10511
 "AS396982","Google LLC",9505
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6877
+"AS14061","DigitalOcean, LLC",6878
 "AS16276","OVH SAS",5569
 "AS4134","Chinanet",4778
 "AS6568","Entel S.A. - EntelNet",4536
@@ -45,8 +45,8 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",698
 "AS23470","ReliableSite.Net LLC",672
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS32475","Internap Holding LLC",577
-"AS36352","HostPapa",570
+"AS32475","Internap Holding LLC",578
+"AS36352","HostPapa",571
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",513
@@ -55,7 +55,7 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",500
 "AS9009","M247 Europe SRL",499
 "AS50360","Tamatiya EOOD",492
-"AS4837","CHINA UNICOM China169 Backbone",474
+"AS4837","CHINA UNICOM China169 Backbone",475
 "AS201814","MEVSPACE sp. z o.o.",465
 "AS212238","Datacamp Limited",454
 "AS20052","Arbor Networks, Inc.",414
