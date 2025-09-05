@@ -6,7 +6,7 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",9505
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6875
-"AS16276","OVH SAS",5567
+"AS16276","OVH SAS",5568
 "AS4134","Chinanet",4778
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4401
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2526
 "AS8075","Microsoft Corporation",2492
 "AS6939","Hurricane Electric LLC",2101
-"AS9808","China Mobile",2049
+"AS9808","China Mobile",2050
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1628
 "AS209605","UAB Host Baltic",1459
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS401120","cheapy.host LLC",513
 "AS140292","China Telecom",508
 "AS14618","Amazon.com, Inc.",508
-"AS10439","CariNet, Inc.",499
+"AS10439","CariNet, Inc.",500
 "AS9009","M247 Europe SRL",499
 "AS50360","Tamatiya EOOD",492
 "AS4837","CHINA UNICOM China169 Backbone",474
@@ -154,8 +154,8 @@ ASN,Organization,IP_Count
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",41
 "AS215590","DpkgSoft International Limited",41
+"AS55720","Gigabit Hosting Sdn Bhd",41
 "AS396356","Latitude.sh",40
-"AS55720","Gigabit Hosting Sdn Bhd",40
 "AS7552","Viettel Group",40
 "AS150263","PT Alnet Telekomunikasi Indonesia",38
 "AS20473","The Constant Company, LLC",35
