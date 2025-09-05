@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87531
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21585
-"AS398324","Censys, Inc.",10493
+"AS398324","Censys, Inc.",10494
 "AS396982","Google LLC",9504
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6872
+"AS14061","DigitalOcean, LLC",6873
 "AS16276","OVH SAS",5565
 "AS4134","Chinanet",4778
 "AS6568","Entel S.A. - EntelNet",4536
@@ -40,7 +40,7 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",803
-"AS208046","ColocationX Ltd.",793
+"AS208046","ColocationX Ltd.",794
 "AS215925","VPSVAULT.HOST LTD",760
 "AS211680","NSEC - Sistemas Informaticos, S.A.",698
 "AS23470","ReliableSite.Net LLC",672
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS3462","Chunghwa Telecom Co., Ltd.",331
 "AS21859","Zenlayer Inc",326
-"AS51115","HLL LLC",313
+"AS51115","HLL LLC",314
 "AS214943","Railnet LLC",311
 "AS24863","LINKdotNET AS number",307
 "AS53667","FranTech Solutions",301
@@ -130,7 +130,7 @@ ASN,Organization,IP_Count
 "AS3920","ESTOXY OU",60
 "AS4812","China Telecom (Group)",58
 "AS20278","Nexeon Technologies, Inc.",57
-"AS210125","PRIAM NET Sh.p.k.",56
+"AS210125","PRIAM NET Sh.p.k.",57
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS49544","i3D.net B.V",56
 "AS18345","Servers Australia Pty. Ltd",55
@@ -246,6 +246,7 @@ ASN,Organization,IP_Count
 "AS146817","Hubei Feixun Network Co., Ltd",16
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",16
 "AS206092","Internet Utilities Europe and Asia Limited",16
+"AS263025","ISPTEC Sistemas de Comunicação Eireli",16
 "AS3320","Deutsche Telekom AG",16
 "AS46261","QuickPacket, LLC",16
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",16
@@ -254,7 +255,6 @@ ASN,Organization,IP_Count
 "AS6597","Coloblox Data Centers Inc",16
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",15
 "AS211619","MAXKO d.o.o.",15
-"AS263025","ISPTEC Sistemas de Comunicação Eireli",15
 "AS263767","CORPORACIÓN GALA IT, C.A.",15
 "AS272547","Servicos de Infraestrutura e Datacenter",15
 "AS31113","Artkomm LLC",15
@@ -501,6 +501,7 @@ ASN,Organization,IP_Count
 "AS39521","TNGNET B.V.",4
 "AS39816","Volta Communications Sp.z.o.o.",4
 "AS399296","Rackdog, LLC",4
+"AS41075","ATW Internet Kft.",4
 "AS43754","Asiatech Data Transmission company",4
 "AS44395","Ucom CJSC",4
 "AS45284","Wireline Solution India Pvt Ltd.",4
@@ -588,7 +589,6 @@ ASN,Organization,IP_Count
 "AS38880","Micron21 Datacentre Pty Ltd",3
 "AS399244","AME Hosting LLC",3
 "AS40065","CNSERVERS LLC",3
-"AS41075","ATW Internet Kft.",3
 "AS41704","JSC ""Ufanet""",3
 "AS41743","OPTIMASET Ltd.",3
 "AS41750","Mega-Line Ltd.",3
