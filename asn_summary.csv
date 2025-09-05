@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87535
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21590
-"AS398324","Censys, Inc.",10525
-"AS396982","Google LLC",9509
+"AS398324","Censys, Inc.",10526
+"AS396982","Google LLC",9510
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6891
 "AS16276","OVH SAS",5571
@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",3407
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3161
-"AS51396","Pfcloud UG",2988
+"AS51396","Pfcloud UG",2989
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2526
 "AS8075","Microsoft Corporation",2492
@@ -28,12 +28,12 @@ ASN,Organization,IP_Count
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1296
 "AS204428","SS-Net",1182
-"AS49870","Alsycon B.V.",1145
+"AS49870","Alsycon B.V.",1147
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1135
 "AS201401","NewVM B.V.",1076
 "AS0","",986
-"AS22552","eSited Solutions",983
+"AS22552","eSited Solutions",984
 "AS208684","BHA CONSEIL SARL",935
 "AS51852","Private Layer INC",907
 "AS174","Cogent Communications",885
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",673
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS32475","Internap Holding LLC",588
-"AS36352","HostPapa",572
+"AS36352","HostPapa",573
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",513
@@ -76,7 +76,7 @@ ASN,Organization,IP_Count
 "AS60223","Netiface Limited",247
 "AS48090","TECHOFF SRV LIMITED",245
 "AS12876","ONLINE S.A.S.",240
-"AS47890","UNMANAGED LTD",239
+"AS47890","UNMANAGED LTD",240
 "AS209272","Alviva Holding Limited",230
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",226
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
@@ -141,9 +141,9 @@ ASN,Organization,IP_Count
 "AS8402","PJSC ""Vimpelcom""",51
 "AS57588","Hayat for Internet & communication LLC",50
 "AS11320","LightEdge Solutions",49
+"AS271795","SERVITELCONET CIA. LTDA.",48
 "AS199785","Cloud Hosting Solutions, Limited.",47
 "AS266181","GOLDEN LINK",47
-"AS271795","SERVITELCONET CIA. LTDA.",47
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
 "AS213877","u1host ltd",45
 "AS34984","Superonline Iletisim Hizmetleri A.S.",44
