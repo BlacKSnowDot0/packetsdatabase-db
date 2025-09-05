@@ -3,9 +3,9 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21590
 "AS398324","Censys, Inc.",10524
-"AS396982","Google LLC",9508
+"AS396982","Google LLC",9509
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6890
+"AS14061","DigitalOcean, LLC",6891
 "AS16276","OVH SAS",5571
 "AS4134","Chinanet",4778
 "AS6568","Entel S.A. - EntelNet",4536
@@ -28,12 +28,12 @@ ASN,Organization,IP_Count
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1296
 "AS204428","SS-Net",1182
-"AS49870","Alsycon B.V.",1144
+"AS49870","Alsycon B.V.",1145
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1135
 "AS201401","NewVM B.V.",1076
 "AS0","",986
-"AS22552","eSited Solutions",982
+"AS22552","eSited Solutions",983
 "AS208684","BHA CONSEIL SARL",935
 "AS51852","Private Layer INC",907
 "AS174","Cogent Communications",885
@@ -189,9 +189,9 @@ ASN,Organization,IP_Count
 "AS3786","LG DACOM Corporation",27
 "AS55990","Huawei Cloud Service data center",27
 "AS2200","Renater",26
+"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",26
 "AS3209","Vodafone GmbH",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
-"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",25
 "AS34534","FBW NETWORKS SAS",25
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",24
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",24
@@ -312,6 +312,7 @@ ASN,Organization,IP_Count
 "AS4760","PCCW IMS Limited",10
 "AS48925","VibeGAMES B.V.",10
 "AS49434","FBW NETWORKS SAS",10
+"AS53118","NETLINE TELECOM",10
 "AS60781","LeaseWeb Netherlands B.V.",10
 "AS701","Verizon Business",10
 "AS134420","Chongqing Telecom",9
@@ -327,7 +328,6 @@ ASN,Organization,IP_Count
 "AS40244","Turnkey Internet Inc.",9
 "AS41745","Baykov Ilya Sergeevich",9
 "AS48874","HOSTMAZE INC SRL-D",9
-"AS53118","NETLINE TELECOM",9
 "AS9318","SK Broadband Co Ltd",9
 "AS135918","VIET DIGITAL TECHNOLOGY LIABILITY COMPANY",8
 "AS141295","Madhya Pradesh Agency For Promotion   Of Information Technology",8
