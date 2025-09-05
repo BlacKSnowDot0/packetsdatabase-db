@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87535
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21589
-"AS398324","Censys, Inc.",10520
+"AS398324","Censys, Inc.",10522
 "AS396982","Google LLC",9508
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6888
@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",3407
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3161
-"AS51396","Pfcloud UG",2986
+"AS51396","Pfcloud UG",2987
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2526
 "AS8075","Microsoft Corporation",2492
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1135
 "AS201401","NewVM B.V.",1076
 "AS0","",985
-"AS22552","eSited Solutions",981
+"AS22552","eSited Solutions",982
 "AS208684","BHA CONSEIL SARL",935
 "AS51852","Private Layer INC",907
 "AS174","Cogent Communications",884
@@ -45,7 +45,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",698
 "AS23470","ReliableSite.Net LLC",673
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS32475","Internap Holding LLC",584
+"AS32475","Internap Holding LLC",586
 "AS36352","HostPapa",572
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
@@ -70,13 +70,13 @@ ASN,Organization,IP_Count
 "AS24863","LINKdotNET AS number",307
 "AS53667","FranTech Solutions",303
 "AS210848","Telkom Internet LTD",296
-"AS9829","Bharat Sanchar Nigam Ltd",292
+"AS9829","Bharat Sanchar Nigam Ltd",293
 "AS9341","PT Indonesia Comnets Plus",278
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",267
 "AS60223","Netiface Limited",247
 "AS48090","TECHOFF SRV LIMITED",245
+"AS12876","ONLINE S.A.S.",239
 "AS47890","UNMANAGED LTD",239
-"AS12876","ONLINE S.A.S.",238
 "AS209272","Alviva Holding Limited",230
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",226
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
@@ -139,8 +139,8 @@ ASN,Organization,IP_Count
 "AS47331","TTNet A.S.",53
 "AS8560","IONOS SE",52
 "AS8402","PJSC ""Vimpelcom""",51
+"AS57588","Hayat for Internet & communication LLC",50
 "AS11320","LightEdge Solutions",49
-"AS57588","Hayat for Internet & communication LLC",49
 "AS199785","Cloud Hosting Solutions, Limited.",47
 "AS266181","GOLDEN LINK",47
 "AS271795","SERVITELCONET CIA. LTDA.",47
