@@ -6,7 +6,7 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",9504
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6873
-"AS16276","OVH SAS",5566
+"AS16276","OVH SAS",5567
 "AS4134","Chinanet",4778
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4401
@@ -80,7 +80,7 @@ ASN,Organization,IP_Count
 "AS209272","Alviva Holding Limited",230
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",226
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",218
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",219
 "AS14987","Rethem Hosting LLC",215
 "AS7713","Telekomunikasi Indonesia (PT)",210
 "AS13335","Cloudflare, Inc.",197
@@ -100,7 +100,7 @@ ASN,Organization,IP_Count
 "AS8151","Uninet S.A. de C.V.",117
 "AS13238","YANDEX LLC",115
 "AS211298","Constantine Cybersecurity Ltd.",113
-"AS29484","Ruhr-Universitaet Bochum",111
+"AS29484","Ruhr-Universitaet Bochum",112
 "AS208287","DC Host INC",110
 "AS262551","Farol Telecom",101
 "AS42237","w1n ltd",93
@@ -124,8 +124,8 @@ ASN,Organization,IP_Count
 "AS40021","Nubes, LLC",66
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
+"AS16735","ALGAR TELECOM S/A",62
 "AS140717","China Unicom",61
-"AS16735","ALGAR TELECOM S/A",61
 "AS151185","China Telecom",60
 "AS3920","ESTOXY OU",60
 "AS4812","China Telecom (Group)",58
@@ -317,6 +317,7 @@ ASN,Organization,IP_Count
 "AS135059","Lao Asia Pacific Satellite Co., Ltd.",9
 "AS149359","PT Persada Data Multimedia",9
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",9
+"AS200514","KnownSRV Ltd.",9
 "AS212504","AdKyNet SAS",9
 "AS24835","Vodafone Data - Egypt",9
 "AS2914","NTT America, Inc.",9
@@ -334,7 +335,6 @@ ASN,Organization,IP_Count
 "AS18209","Atria Convergence Technologies Pvt. Ltd.,",8
 "AS18986","Calligo (Canada) Inc.",8
 "AS198361","Yaglom Labs Ltd",8
-"AS200514","KnownSRV Ltd.",8
 "AS209956","Telkoturk Iletisim Hizmetleri A.S.",8
 "AS210509","Optimum Line for Internet Services Ltd.",8
 "AS214481","Wojciech Czapkowicz",8
