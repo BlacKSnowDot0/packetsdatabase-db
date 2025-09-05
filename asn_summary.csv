@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87535
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21589
-"AS398324","Censys, Inc.",10519
-"AS396982","Google LLC",9506
+"AS398324","Censys, Inc.",10520
+"AS396982","Google LLC",9507
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6887
 "AS16276","OVH SAS",5570
@@ -45,7 +45,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",698
 "AS23470","ReliableSite.Net LLC",673
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS32475","Internap Holding LLC",583
+"AS32475","Internap Holding LLC",584
 "AS36352","HostPapa",571
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
@@ -68,7 +68,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",314
 "AS214943","Railnet LLC",311
 "AS24863","LINKdotNET AS number",307
-"AS53667","FranTech Solutions",302
+"AS53667","FranTech Solutions",303
 "AS210848","Telkom Internet LTD",296
 "AS9829","Bharat Sanchar Nigam Ltd",292
 "AS9341","PT Indonesia Comnets Plus",278
@@ -351,6 +351,7 @@ ASN,Organization,IP_Count
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",8
 "AS133661","Netplus Broadband Services Private Limited",7
 "AS138754","Kerala Vision Broad Band Private Limited",7
+"AS141995","Contabo Asia Private Limited",7
 "AS17762","Tata Teleservices (Maharashtra) Ltd",7
 "AS197309","RS-Media LLC",7
 "AS199414","Noah Kolossa",7
@@ -376,7 +377,6 @@ ASN,Organization,IP_Count
 "AS135523","Multinet Broadband",6
 "AS138915","Kaopu Cloud HK Limited",6
 "AS141167","AgotoZ HK Limited",6
-"AS141995","Contabo Asia Private Limited",6
 "AS142032","High Family Technology Co., Limited",6
 "AS149078","VPSMMO TECHNOLOGY COMPANY LIMITED",6
 "AS16611","InfiniaHost.com",6
