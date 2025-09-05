@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87531
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
-"AS211298","Driftnet Ltd",21585
-"AS398324","Censys, Inc.",10499
+"AS211298","Driftnet Ltd",21586
+"AS398324","Censys, Inc.",10501
 "AS396982","Google LLC",9504
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6873
@@ -64,7 +64,7 @@ ASN,Organization,IP_Count
 "AS51167","Contabo GmbH",391
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS3462","Chunghwa Telecom Co., Ltd.",331
-"AS21859","Zenlayer Inc",326
+"AS21859","Zenlayer Inc",327
 "AS51115","HLL LLC",314
 "AS214943","Railnet LLC",311
 "AS24863","LINKdotNET AS number",307
@@ -271,6 +271,7 @@ ASN,Organization,IP_Count
 "AS29465","MTN NIGERIA Communication limited",13
 "AS3269","Telecom Italia S.p.A.",13
 "AS12400","Partner Communications Ltd.",12
+"AS17621","China Unicom Shanghai network",12
 "AS200593","PROSPERO OOO",12
 "AS213438","ColocaTel Inc.",12
 "AS24757","EthioNet",12
@@ -288,7 +289,6 @@ ASN,Organization,IP_Count
 "AS984","OCTOPUS WEB SOLUTION INC",12
 "AS12874","Fastweb SpA",11
 "AS140726","China Unicom",11
-"AS17621","China Unicom Shanghai network",11
 "AS200651","FlokiNET ehf",11
 "AS205119","TELEKS DOOEL Skopje",11
 "AS206804","EstNOC OY",11
