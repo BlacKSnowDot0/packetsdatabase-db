@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87535
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
-"AS211298","Driftnet Ltd",21595
-"AS398324","Censys, Inc.",10564
+"AS211298","Driftnet Ltd",21596
+"AS398324","Censys, Inc.",10566
 "AS396982","Google LLC",9516
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6897
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1136
 "AS201401","NewVM B.V.",1076
-"AS22552","eSited Solutions",993
+"AS22552","eSited Solutions",994
 "AS0","",987
 "AS208684","BHA CONSEIL SARL",936
 "AS51852","Private Layer INC",907
@@ -300,6 +300,7 @@ ASN,Organization,IP_Count
 "AS41436","Kamatera Inc",11
 "AS45820","TTSL-ISP DIVISION",11
 "AS48753","AVA HOST SRL",11
+"AS53118","NETLINE TELECOM",11
 "AS58563","CHINANET Hubei province network",11
 "AS12912","T-Mobile Polska S.A.",10
 "AS153443","VPSRE.NET LLC",10
@@ -313,7 +314,6 @@ ASN,Organization,IP_Count
 "AS4760","PCCW IMS Limited",10
 "AS48925","VibeGAMES B.V.",10
 "AS49434","FBW NETWORKS SAS",10
-"AS53118","NETLINE TELECOM",10
 "AS60781","LeaseWeb Netherlands B.V.",10
 "AS701","Verizon Business",10
 "AS134420","Chongqing Telecom",9
