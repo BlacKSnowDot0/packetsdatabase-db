@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",3408
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3162
-"AS51396","Pfcloud UG",2990
+"AS51396","Pfcloud UG",2991
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2526
 "AS8075","Microsoft Corporation",2493
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",794
 "AS215925","VPSVAULT.HOST LTD",760
 "AS211680","NSEC - Sistemas Informaticos, S.A.",698
-"AS23470","ReliableSite.Net LLC",675
+"AS23470","ReliableSite.Net LLC",676
 "AS32475","Internap Holding LLC",598
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS36352","HostPapa",577
@@ -223,6 +223,7 @@ ASN,Organization,IP_Count
 "AS55836","Reliance Jio Infocomm Limited",20
 "AS1103","SURF B.V.",19
 "AS17816","China Unicom IP network China169 Guangdong province",19
+"AS263025","ISPTEC Sistemas de Comunicação Eireli",19
 "AS43641","SOLLUTIUM EU Sp z.o.o.",19
 "AS46475","Limestone Networks, Inc.",19
 "AS58212","dataforest GmbH",19
@@ -232,7 +233,6 @@ ASN,Organization,IP_Count
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
 "AS24560","Bharti Airtel Limited",18
 "AS262287","Maxihost LTDA",18
-"AS263025","ISPTEC Sistemas de Comunicação Eireli",18
 "AS329009","Spectrum Internet Service Ltd",18
 "AS9299","Philippine Long Distance Telephone Co.",18
 "AS136958","China Unicom Guangdong IP network",17
