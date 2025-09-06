@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",10563
 "AS396982","Google LLC",9516
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6895
+"AS14061","DigitalOcean, LLC",6896
 "AS16276","OVH SAS",5572
 "AS4134","Chinanet",4778
 "AS6568","Entel S.A. - EntelNet",4536
@@ -44,7 +44,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",760
 "AS211680","NSEC - Sistemas Informaticos, S.A.",698
 "AS23470","ReliableSite.Net LLC",674
-"AS32475","Internap Holding LLC",597
+"AS32475","Internap Holding LLC",598
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS36352","HostPapa",577
 "AS31148","Freenet LTD",558
@@ -232,6 +232,7 @@ ASN,Organization,IP_Count
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
 "AS24560","Bharti Airtel Limited",18
 "AS262287","Maxihost LTDA",18
+"AS263025","ISPTEC Sistemas de Comunicação Eireli",18
 "AS329009","Spectrum Internet Service Ltd",18
 "AS9299","Philippine Long Distance Telephone Co.",18
 "AS136958","China Unicom Guangdong IP network",17
@@ -241,7 +242,6 @@ ASN,Organization,IP_Count
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",17
 "AS24348","CERNET2 IX at Tsinghua University",17
-"AS263025","ISPTEC Sistemas de Comunicação Eireli",17
 "AS45117","Ishan's Network",17
 "AS56630","Melbikomas UAB",17
 "AS146817","Hubei Feixun Network Co., Ltd",16
@@ -623,6 +623,7 @@ ASN,Organization,IP_Count
 "AS10834","Telefonica de Argentina",2
 "AS11556","Cable & Wireless Panama",2
 "AS12271","Charter Communications Inc",2
+"AS12322","Free SAS",2
 "AS12353","Vodafone Portugal - Communicacoes Pessoais S.A.",2
 "AS12488","Krystal Hosting Ltd",2
 "AS12586","GHOSTnet GmbH",2
@@ -877,7 +878,6 @@ ASN,Organization,IP_Count
 "AS12297","Telecom Armenia OJSC",1
 "AS12301","Invitech ICT Services Kft.",1
 "AS12312","ecotel communication ag",1
-"AS12322","Free SAS",1
 "AS12332","PJSC Rostelecom",1
 "AS12338","Euskaltel S.A.",1
 "AS12365","JC LLC Sarkor-Telecom",1
