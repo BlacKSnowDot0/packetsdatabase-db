@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87535
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21591
-"AS398324","Censys, Inc.",10533
-"AS396982","Google LLC",9511
+"AS398324","Censys, Inc.",10534
+"AS396982","Google LLC",9512
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6891
-"AS16276","OVH SAS",5571
+"AS14061","DigitalOcean, LLC",6892
+"AS16276","OVH SAS",5572
 "AS4134","Chinanet",4778
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4401
@@ -74,7 +74,7 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",278
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",267
 "AS60223","Netiface Limited",247
-"AS47890","UNMANAGED LTD",245
+"AS47890","UNMANAGED LTD",246
 "AS48090","TECHOFF SRV LIMITED",245
 "AS12876","ONLINE S.A.S.",240
 "AS209272","Alviva Holding Limited",230
@@ -89,11 +89,11 @@ ASN,Organization,IP_Count
 "AS12389","PJSC Rostelecom",168
 "AS12555","Data-center IMAQLIQ Ltd.",165
 "AS63199","CDS Global Cloud Co., Ltd",162
+"AS213613","BOTSHIELD LTD",156
 "AS45899","VNPT Corp",156
-"AS213613","BOTSHIELD LTD",155
 "AS141718","haoxiangyun",149
 "AS47105","Vault Dweller OU",141
-"AS206264","Amarutu Technology Ltd",134
+"AS206264","Amarutu Technology Ltd",135
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
 "AS36007","Kamatera, Inc.",122
@@ -102,7 +102,7 @@ ASN,Organization,IP_Count
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS29484","Ruhr-Universitaet Bochum",112
 "AS208287","DC Host INC",110
-"AS262551","Farol Telecom",102
+"AS262551","Farol Telecom",103
 "AS42237","w1n ltd",94
 "AS63018","Dedicated.com",92
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",88
