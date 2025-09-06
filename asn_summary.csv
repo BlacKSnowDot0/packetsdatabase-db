@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87535
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21593
-"AS398324","Censys, Inc.",10546
+"AS398324","Censys, Inc.",10548
 "AS396982","Google LLC",9514
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6895
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1136
 "AS201401","NewVM B.V.",1076
-"AS22552","eSited Solutions",990
+"AS22552","eSited Solutions",991
 "AS0","",987
 "AS208684","BHA CONSEIL SARL",935
 "AS51852","Private Layer INC",907
@@ -193,11 +193,11 @@ ASN,Organization,IP_Count
 "AS3209","Vodafone GmbH",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS34534","FBW NETWORKS SAS",25
+"AS30633","Leaseweb USA, Inc.",24
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",24
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",24
 "AS149705","PT Wijaya Trimitra Indonesia",23
 "AS198037","SPACECORE SOLUTION LTD",23
-"AS30633","Leaseweb USA, Inc.",23
 "AS55933","Cloudie Limited",23
 "AS60068","Datacamp Limited",23
 "AS62240","Clouvider Limited",23
@@ -448,6 +448,7 @@ ASN,Organization,IP_Count
 "AS37705","TOPNET",5
 "AS38365","Beijing Baidu Netcom Science and Technology Co., Ltd.",5
 "AS397270","NetInformatik Inc.",5
+"AS41075","ATW Internet Kft.",5
 "AS45458","ADVANCED WIRELESS NETWORK COMPANY LIMITED",5
 "AS4721","JCOM Co., Ltd.",5
 "AS49505","JSC Selectel",5
@@ -502,7 +503,6 @@ ASN,Organization,IP_Count
 "AS39521","TNGNET B.V.",4
 "AS39816","Volta Communications Sp.z.o.o.",4
 "AS399296","Rackdog, LLC",4
-"AS41075","ATW Internet Kft.",4
 "AS43754","Asiatech Data Transmission company",4
 "AS44395","Ucom CJSC",4
 "AS45284","Wireline Solution India Pvt Ltd.",4
@@ -1076,6 +1076,7 @@ ASN,Organization,IP_Count
 "AS209728","Expert Telecom LLC",1
 "AS209789","Nikolay Olegovich Tokarev",1
 "AS210099","TIGOVA NETWORK LIMITED",1
+"AS210538","KEYUBU Internet ve Bilisim Tic. Ltd. Sti.",1
 "AS210574","YUNUS EMRE ATILGAN trading as POYRAZ HOSTING",1
 "AS210895","Podaon SIA",1
 "AS21100","GREEN FLOID LLC",1
