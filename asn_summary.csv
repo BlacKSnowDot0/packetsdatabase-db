@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87535
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21595
-"AS398324","Censys, Inc.",10559
+"AS398324","Censys, Inc.",10561
 "AS396982","Google LLC",9516
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6895
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3452
 "AS45102","Alibaba (US) Technology Co., Ltd.",3407
 "AS398705","Censys, Inc.",3238
-"AS15169","Google LLC",3161
+"AS15169","Google LLC",3162
 "AS51396","Pfcloud UG",2989
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2526
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS0","",987
 "AS208684","BHA CONSEIL SARL",936
 "AS51852","Private Layer INC",907
-"AS174","Cogent Communications",886
+"AS174","Cogent Communications",887
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",803
@@ -44,9 +44,9 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",760
 "AS211680","NSEC - Sistemas Informaticos, S.A.",698
 "AS23470","ReliableSite.Net LLC",674
+"AS32475","Internap Holding LLC",597
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS32475","Internap Holding LLC",595
-"AS36352","HostPapa",576
+"AS36352","HostPapa",577
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",513
@@ -68,7 +68,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",316
 "AS214943","Railnet LLC",311
 "AS24863","LINKdotNET AS number",307
-"AS53667","FranTech Solutions",306
+"AS53667","FranTech Solutions",307
 "AS210848","Telkom Internet LTD",296
 "AS9829","Bharat Sanchar Nigam Ltd",293
 "AS9341","PT Indonesia Comnets Plus",278
@@ -76,7 +76,7 @@ ASN,Organization,IP_Count
 "AS47890","UNMANAGED LTD",248
 "AS60223","Netiface Limited",247
 "AS48090","TECHOFF SRV LIMITED",245
-"AS12876","ONLINE S.A.S.",243
+"AS12876","ONLINE S.A.S.",244
 "AS209272","Alviva Holding Limited",230
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",226
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
