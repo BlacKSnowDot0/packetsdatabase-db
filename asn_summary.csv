@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87536
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21600
-"AS398324","Censys, Inc.",10592
+"AS398324","Censys, Inc.",10594
 "AS396982","Google LLC",9519
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6902
@@ -26,13 +26,13 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1459
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS215269","LAZYCLOUD LTD",1312
-"AS398722","Censys, Inc.",1297
+"AS398722","Censys, Inc.",1298
 "AS204428","SS-Net",1182
 "AS49870","Alsycon B.V.",1150
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1136
 "AS201401","NewVM B.V.",1076
-"AS22552","eSited Solutions",997
+"AS22552","eSited Solutions",998
 "AS0","",987
 "AS208684","BHA CONSEIL SARL",936
 "AS51852","Private Layer INC",907
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",677
 "AS32475","Internap Holding LLC",601
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS36352","HostPapa",580
+"AS36352","HostPapa",581
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",514
@@ -139,8 +139,8 @@ ASN,Organization,IP_Count
 "AS47331","TTNet A.S.",53
 "AS8560","IONOS SE",52
 "AS8402","PJSC ""Vimpelcom""",51
+"AS11320","LightEdge Solutions",50
 "AS57588","Hayat for Internet & communication LLC",50
-"AS11320","LightEdge Solutions",49
 "AS271795","SERVITELCONET CIA. LTDA.",48
 "AS199785","Cloud Hosting Solutions, Limited.",47
 "AS266181","GOLDEN LINK",47
@@ -743,6 +743,7 @@ ASN,Organization,IP_Count
 "AS271907","COLNETWORK C.A.",2
 "AS272786","X99 INTERNET LTDA.",2
 "AS27323","Wowrack.com",2
+"AS27693","NipBr - NipCable do Brasil Telecom LTDA",2
 "AS27768","CO.PA.CO.",2
 "AS27901","Pacifico Cable SPA.",2
 "AS28166","Telecom South America S/A",2
