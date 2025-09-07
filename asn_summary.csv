@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",10620
 "AS396982","Google LLC",9522
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6907
+"AS14061","DigitalOcean, LLC",6913
 "AS16276","OVH SAS",5576
 "AS4134","Chinanet",4779
 "AS6568","Entel S.A. - EntelNet",4536
@@ -44,7 +44,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",763
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS23470","ReliableSite.Net LLC",678
-"AS32475","Internap Holding LLC",615
+"AS32475","Internap Holding LLC",616
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS36352","HostPapa",585
 "AS31148","Freenet LTD",558
@@ -61,7 +61,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",415
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",404
-"AS51167","Contabo GmbH",401
+"AS51167","Contabo GmbH",402
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS3462","Chunghwa Telecom Co., Ltd.",333
 "AS21859","Zenlayer Inc",328
@@ -73,10 +73,10 @@ ASN,Organization,IP_Count
 "AS210848","Telkom Internet LTD",296
 "AS9341","PT Indonesia Comnets Plus",278
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",268
+"AS48090","TECHOFF SRV LIMITED",249
 "AS47890","UNMANAGED LTD",248
 "AS60223","Netiface Limited",247
 "AS12876","ONLINE S.A.S.",246
-"AS48090","TECHOFF SRV LIMITED",245
 "AS209272","Alviva Holding Limited",230
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",226
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",223
@@ -320,6 +320,7 @@ ASN,Organization,IP_Count
 "AS135059","Lao Asia Pacific Satellite Co., Ltd.",9
 "AS149359","PT Persada Data Multimedia",9
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",9
+"AS199414","Noah Kolossa",9
 "AS200514","KnownSRV Ltd.",9
 "AS212504","AdKyNet SAS",9
 "AS214481","Wojciech Czapkowicz",9
@@ -336,7 +337,6 @@ ASN,Organization,IP_Count
 "AS18209","Atria Convergence Technologies Pvt. Ltd.,",8
 "AS18986","Calligo (Canada) Inc.",8
 "AS198361","Yaglom Labs Ltd",8
-"AS199414","Noah Kolossa",8
 "AS209956","Telkoturk Iletisim Hizmetleri A.S.",8
 "AS210509","Optimum Line for Internet Services Ltd.",8
 "AS267280","YELLOW CONNECT MULTIMIDIA LTDA ME",8
