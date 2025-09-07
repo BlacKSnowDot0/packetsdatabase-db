@@ -2,14 +2,14 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87536
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21601
-"AS398324","Censys, Inc.",10596
+"AS398324","Censys, Inc.",10600
 "AS396982","Google LLC",9522
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6903
 "AS16276","OVH SAS",5574
 "AS4134","Chinanet",4778
 "AS6568","Entel S.A. - EntelNet",4536
-"AS58466","CHINANET Guangdong province network",4401
+"AS58466","CHINANET Guangdong province network",4402
 "AS16509","Amazon.com, Inc.",3832
 "AS63949","Akamai Technologies, Inc.",3452
 "AS45102","Alibaba (US) Technology Co., Ltd.",3410
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1136
 "AS201401","NewVM B.V.",1076
-"AS22552","eSited Solutions",998
+"AS22552","eSited Solutions",999
 "AS0","",988
 "AS208684","BHA CONSEIL SARL",936
 "AS51852","Private Layer INC",907
@@ -44,7 +44,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",763
 "AS211680","NSEC - Sistemas Informaticos, S.A.",698
 "AS23470","ReliableSite.Net LLC",677
-"AS32475","Internap Holding LLC",601
+"AS32475","Internap Holding LLC",602
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS36352","HostPapa",581
 "AS31148","Freenet LTD",558
@@ -116,7 +116,7 @@ ASN,Organization,IP_Count
 "AS205352","KABELNET LTD",73
 "AS27882","Telefónica Celular de Bolivia S.A.",73
 "AS4766","Korea Telecom",73
-"AS18403","FPT Telecom Company",71
+"AS18403","FPT Telecom Company",72
 "AS28209","Under Servicos de Internet Ltda",70
 "AS52053","REDHEBERG Association declaree",69
 "AS31898","Oracle Corporation",68
@@ -138,9 +138,9 @@ ASN,Organization,IP_Count
 "AS44382","Fiba Cloud Operation Company, LLC",53
 "AS47331","TTNet A.S.",53
 "AS8560","IONOS SE",52
+"AS57588","Hayat for Internet & communication LLC",51
 "AS8402","PJSC ""Vimpelcom""",51
 "AS11320","LightEdge Solutions",50
-"AS57588","Hayat for Internet & communication LLC",50
 "AS271795","SERVITELCONET CIA. LTDA.",48
 "AS199785","Cloud Hosting Solutions, Limited.",47
 "AS266181","GOLDEN LINK",47
