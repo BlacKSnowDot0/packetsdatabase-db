@@ -2,17 +2,17 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87536
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21600
-"AS398324","Censys, Inc.",10594
-"AS396982","Google LLC",9520
+"AS398324","Censys, Inc.",10596
+"AS396982","Google LLC",9521
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6902
+"AS14061","DigitalOcean, LLC",6903
 "AS16276","OVH SAS",5574
 "AS4134","Chinanet",4778
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4401
 "AS16509","Amazon.com, Inc.",3832
 "AS63949","Akamai Technologies, Inc.",3452
-"AS45102","Alibaba (US) Technology Co., Ltd.",3409
+"AS45102","Alibaba (US) Technology Co., Ltd.",3410
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3162
 "AS51396","Pfcloud UG",2991
@@ -75,8 +75,8 @@ ASN,Organization,IP_Count
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",267
 "AS47890","UNMANAGED LTD",248
 "AS60223","Netiface Limited",247
+"AS12876","ONLINE S.A.S.",245
 "AS48090","TECHOFF SRV LIMITED",245
-"AS12876","ONLINE S.A.S.",244
 "AS209272","Alviva Holding Limited",230
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",226
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",222
@@ -127,8 +127,8 @@ ASN,Organization,IP_Count
 "AS16735","ALGAR TELECOM S/A",62
 "AS140717","China Unicom",61
 "AS151185","China Telecom",60
+"AS210125","PRIAM NET Sh.p.k.",60
 "AS3920","ESTOXY OU",60
-"AS210125","PRIAM NET Sh.p.k.",59
 "AS4812","China Telecom (Group)",58
 "AS20278","Nexeon Technologies, Inc.",57
 "AS48090","PPTECHNOLOGY LIMITED",56
@@ -303,6 +303,7 @@ ASN,Organization,IP_Count
 "AS48753","AVA HOST SRL",11
 "AS53118","NETLINE TELECOM",11
 "AS58563","CHINANET Hubei province network",11
+"AS701","Verizon Business",11
 "AS12912","T-Mobile Polska S.A.",10
 "AS153443","VPSRE.NET LLC",10
 "AS204104","Giti Secure Cloud LLC",10
@@ -315,7 +316,6 @@ ASN,Organization,IP_Count
 "AS48925","VibeGAMES B.V.",10
 "AS49434","FBW NETWORKS SAS",10
 "AS60781","LeaseWeb Netherlands B.V.",10
-"AS701","Verizon Business",10
 "AS134420","Chongqing Telecom",9
 "AS135059","Lao Asia Pacific Satellite Co., Ltd.",9
 "AS149359","PT Persada Data Multimedia",9
