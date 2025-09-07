@@ -7,7 +7,7 @@ ASN,Organization,IP_Count
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6905
 "AS16276","OVH SAS",5575
-"AS4134","Chinanet",4778
+"AS4134","Chinanet",4779
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4402
 "AS16509","Amazon.com, Inc.",3832
@@ -23,7 +23,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2050
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1629
-"AS209605","UAB Host Baltic",1459
+"AS209605","UAB Host Baltic",1460
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1298
@@ -44,14 +44,14 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",763
 "AS211680","NSEC - Sistemas Informaticos, S.A.",698
 "AS23470","ReliableSite.Net LLC",677
-"AS32475","Internap Holding LLC",605
+"AS32475","Internap Holding LLC",607
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS36352","HostPapa",582
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",514
+"AS14618","Amazon.com, Inc.",510
 "AS140292","China Telecom",508
-"AS14618","Amazon.com, Inc.",508
 "AS10439","CariNet, Inc.",503
 "AS9009","M247 Europe SRL",500
 "AS50360","Tamatiya EOOD",492
@@ -173,13 +173,13 @@ ASN,Organization,IP_Count
 "AS42624","Global-Data System IT Corporation",32
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",30
 "AS9198","JSC Kazakhtelecom",30
+"AS149746","PT Blip Integrator Provider",29
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",29
 "AS29066","velia.net Internetdienste GmbH",29
 "AS30083","velia.net",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS141679","China Telecom",28
-"AS149746","PT Blip Integrator Provider",28
 "AS263355","GTR NET COMUNICACOES EIRELI",28
 "AS44592","SkyLink Data Center BV",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
@@ -424,6 +424,7 @@ ASN,Organization,IP_Count
 "AS198983","Joseph Hofmann trading as 'Tornado Datacenter GmbH & Co. KG'",5
 "AS20115","Charter Communications",5
 "AS202468","Noyan Abr Arvan Co. ( Private Joint Stock)",5
+"AS202520","SkyPass Solutions Sp. z.o.o.",5
 "AS207656","Epinatura LLC",5
 "AS21056","Vianova S.p.A",5
 "AS21246","IPKO Telecommunications LLC",5
@@ -477,7 +478,6 @@ ASN,Organization,IP_Count
 "AS15895","""Kyivstar"" PJSC",4
 "AS17552","TRUE INTERNET CORPORATION CO. LTD.",4
 "AS17676","SoftBank Corp.",4
-"AS202520","SkyPass Solutions Sp. z.o.o.",4
 "AS203380","DA International Group Ltd.",4
 "AS206216","Advin Services LLC",4
 "AS207957","SERV.HOST GROUP LTD",4
