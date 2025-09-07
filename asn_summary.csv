@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87536
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21601
-"AS398324","Censys, Inc.",10609
+"AS398324","Censys, Inc.",10610
 "AS396982","Google LLC",9522
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6905
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1298
 "AS204428","SS-Net",1182
-"AS49870","Alsycon B.V.",1151
+"AS49870","Alsycon B.V.",1153
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1136
 "AS201401","NewVM B.V.",1076
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS0","",988
 "AS208684","BHA CONSEIL SARL",936
 "AS51852","Private Layer INC",907
-"AS174","Cogent Communications",890
+"AS174","Cogent Communications",891
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",803
@@ -44,9 +44,9 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",763
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS23470","ReliableSite.Net LLC",678
-"AS32475","Internap Holding LLC",609
+"AS32475","Internap Holding LLC",610
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS36352","HostPapa",583
+"AS36352","HostPapa",584
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",514
@@ -322,6 +322,7 @@ ASN,Organization,IP_Count
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",9
 "AS200514","KnownSRV Ltd.",9
 "AS212504","AdKyNet SAS",9
+"AS214481","Wojciech Czapkowicz",9
 "AS24835","Vodafone Data - Egypt",9
 "AS2914","NTT America, Inc.",9
 "AS32934","Facebook, Inc.",9
@@ -337,7 +338,6 @@ ASN,Organization,IP_Count
 "AS198361","Yaglom Labs Ltd",8
 "AS209956","Telkoturk Iletisim Hizmetleri A.S.",8
 "AS210509","Optimum Line for Internet Services Ltd.",8
-"AS214481","Wojciech Czapkowicz",8
 "AS267280","YELLOW CONNECT MULTIMIDIA LTDA ME",8
 "AS27967","Gobernacion de la Provincia de Buenos Aires",8
 "AS28573","Claro NXT Telecomunicacoes Ltda",8
