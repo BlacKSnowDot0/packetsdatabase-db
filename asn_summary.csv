@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",10606
 "AS396982","Google LLC",9522
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6904
+"AS14061","DigitalOcean, LLC",6905
 "AS16276","OVH SAS",5575
 "AS4134","Chinanet",4778
 "AS6568","Entel S.A. - EntelNet",4536
@@ -61,7 +61,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",415
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",404
-"AS51167","Contabo GmbH",398
+"AS51167","Contabo GmbH",399
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS3462","Chunghwa Telecom Co., Ltd.",333
 "AS21859","Zenlayer Inc",328
@@ -112,8 +112,8 @@ ASN,Organization,IP_Count
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS32475","SingleHop LLC",75
 "AS14956","RouterHosting LLC",74
+"AS205352","KABELNET LTD",74
 "AS56046","China Mobile Communications Corporation",74
-"AS205352","KABELNET LTD",73
 "AS27882","Telefónica Celular de Bolivia S.A.",73
 "AS4766","Korea Telecom",73
 "AS18403","FPT Telecom Company",72
@@ -290,6 +290,7 @@ ASN,Organization,IP_Count
 "AS12874","Fastweb SpA",11
 "AS140726","China Unicom",11
 "AS200651","FlokiNET ehf",11
+"AS204104","Giti Secure Cloud LLC",11
 "AS205119","TELEKS DOOEL Skopje",11
 "AS206804","EstNOC OY",11
 "AS24151","China Internet Network Infomation Center",11
@@ -306,7 +307,6 @@ ASN,Organization,IP_Count
 "AS701","Verizon Business",11
 "AS12912","T-Mobile Polska S.A.",10
 "AS153443","VPSRE.NET LLC",10
-"AS204104","Giti Secure Cloud LLC",10
 "AS2116","GLOBALCONNECT AS",10
 "AS24547","China Mobile",10
 "AS30823","aurologic GmbH",10
@@ -1332,6 +1332,7 @@ ASN,Organization,IP_Count
 "AS42003","LIBANTELECOM",1
 "AS42014","Chumachenko Dmytro Stepanovych",1
 "AS42083","Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.",1
+"AS42268","SE Khan Aleksandr Ilich",1
 "AS42351","StreamNet EOOD",1
 "AS42548","PJSC Rostelecom",1
 "AS42574","Novaya Sibir Plus Ltd.",1
