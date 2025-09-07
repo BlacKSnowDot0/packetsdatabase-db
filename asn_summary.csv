@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87537
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
-"AS211298","Driftnet Ltd",21601
-"AS398324","Censys, Inc.",10620
+"AS211298","Driftnet Ltd",21602
+"AS398324","Censys, Inc.",10622
 "AS396982","Google LLC",9522
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6913
+"AS14061","DigitalOcean, LLC",6914
 "AS16276","OVH SAS",5576
 "AS4134","Chinanet",4779
 "AS6568","Entel S.A. - EntelNet",4536
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1460
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS215269","LAZYCLOUD LTD",1312
-"AS398722","Censys, Inc.",1298
+"AS398722","Censys, Inc.",1299
 "AS204428","SS-Net",1182
 "AS49870","Alsycon B.V.",1153
 "AS212512","Detai Prosperous Technologies Limited",1138
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",678
 "AS32475","Internap Holding LLC",616
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS36352","HostPapa",585
+"AS36352","HostPapa",586
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",514
