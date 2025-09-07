@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87535
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21599
-"AS398324","Censys, Inc.",10585
-"AS396982","Google LLC",9518
+"AS398324","Censys, Inc.",10589
+"AS396982","Google LLC",9519
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6900
-"AS16276","OVH SAS",5572
+"AS16276","OVH SAS",5573
 "AS4134","Chinanet",4778
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4401
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2526
 "AS8075","Microsoft Corporation",2494
-"AS6939","Hurricane Electric LLC",2111
+"AS6939","Hurricane Electric LLC",2114
 "AS9808","China Mobile",2050
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1629
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",677
 "AS32475","Internap Holding LLC",601
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS36352","HostPapa",579
+"AS36352","HostPapa",580
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",514
@@ -55,7 +55,7 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",503
 "AS9009","M247 Europe SRL",500
 "AS50360","Tamatiya EOOD",492
-"AS4837","CHINA UNICOM China169 Backbone",475
+"AS4837","CHINA UNICOM China169 Backbone",476
 "AS201814","MEVSPACE sp. z o.o.",465
 "AS212238","Datacamp Limited",454
 "AS20052","Arbor Networks, Inc.",415
@@ -70,7 +70,7 @@ ASN,Organization,IP_Count
 "AS53667","FranTech Solutions",310
 "AS24863","LINKdotNET AS number",307
 "AS210848","Telkom Internet LTD",296
-"AS9829","Bharat Sanchar Nigam Ltd",294
+"AS9829","Bharat Sanchar Nigam Ltd",295
 "AS9341","PT Indonesia Comnets Plus",278
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",267
 "AS47890","UNMANAGED LTD",248
@@ -296,6 +296,7 @@ ASN,Organization,IP_Count
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
 "AS3257","GTT Communications Inc.",11
 "AS37457","Telkom SA Ltd.",11
+"AS38264","Wateen Telecom Limited",11
 "AS39351","31173 Services AB",11
 "AS41436","Kamatera Inc",11
 "AS45820","TTSL-ISP DIVISION",11
@@ -308,7 +309,6 @@ ASN,Organization,IP_Count
 "AS2116","GLOBALCONNECT AS",10
 "AS24547","China Mobile",10
 "AS30823","aurologic GmbH",10
-"AS38264","Wateen Telecom Limited",10
 "AS41420","Xentech B.V.",10
 "AS44901","Belcloud LTD",10
 "AS4760","PCCW IMS Limited",10
