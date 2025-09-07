@@ -2,16 +2,16 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87536
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21601
-"AS398324","Censys, Inc.",10610
+"AS398324","Censys, Inc.",10612
 "AS396982","Google LLC",9522
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6905
+"AS14061","DigitalOcean, LLC",6906
 "AS16276","OVH SAS",5575
 "AS4134","Chinanet",4779
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4402
 "AS16509","Amazon.com, Inc.",3832
-"AS63949","Akamai Technologies, Inc.",3452
+"AS63949","Akamai Technologies, Inc.",3453
 "AS45102","Alibaba (US) Technology Co., Ltd.",3411
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3162
@@ -44,7 +44,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",763
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS23470","ReliableSite.Net LLC",678
-"AS32475","Internap Holding LLC",610
+"AS32475","Internap Holding LLC",611
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS36352","HostPapa",584
 "AS31148","Freenet LTD",558
@@ -214,6 +214,7 @@ ASN,Organization,IP_Count
 "AS23724","IDC, China Telecommunications Corporation",21
 "AS400536","Nodestop LLC",21
 "AS4800","PT Aplikanusa Lintasarta",21
+"AS55836","Reliance Jio Infocomm Limited",21
 "AS8048","CANTV Servicios, Venezuela",21
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
 "AS197540","netcup GmbH",20
@@ -221,7 +222,6 @@ ASN,Organization,IP_Count
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",20
 "AS46573","LayerHost",20
 "AS50887","DC FIBER HOME SRL",20
-"AS55836","Reliance Jio Infocomm Limited",20
 "AS1103","SURF B.V.",19
 "AS17816","China Unicom IP network China169 Guangdong province",19
 "AS43641","SOLLUTIUM EU Sp z.o.o.",19
@@ -527,6 +527,7 @@ ASN,Organization,IP_Count
 "AS1101","SURF B.V.",3
 "AS11426","Charter Communications Inc",3
 "AS11562","Net Uno, C.A.",3
+"AS12322","Free SAS",3
 "AS1267","RIPE Network Coordination Centre",3
 "AS13110","INEA sp. z o.o.",3
 "AS133278","Dehradun Enet Solutions Private Ltd",3
@@ -623,7 +624,6 @@ ASN,Organization,IP_Count
 "AS10834","Telefonica de Argentina",2
 "AS11556","Cable & Wireless Panama",2
 "AS12271","Charter Communications Inc",2
-"AS12322","Free SAS",2
 "AS12353","Vodafone Portugal - Communicacoes Pessoais S.A.",2
 "AS12488","Krystal Hosting Ltd",2
 "AS12586","GHOSTnet GmbH",2
