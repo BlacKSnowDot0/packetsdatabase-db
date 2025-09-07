@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87535
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21599
-"AS398324","Censys, Inc.",10582
+"AS398324","Censys, Inc.",10585
 "AS396982","Google LLC",9518
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6900
@@ -18,8 +18,8 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",2991
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2526
-"AS8075","Microsoft Corporation",2493
-"AS6939","Hurricane Electric LLC",2109
+"AS8075","Microsoft Corporation",2494
+"AS6939","Hurricane Electric LLC",2111
 "AS9808","China Mobile",2050
 "AS214295","SKYNET NETWORK LTD",1631
 "AS202425","IP Volume inc",1629
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS215269","LAZYCLOUD LTD",1312
 "AS398722","Censys, Inc.",1297
 "AS204428","SS-Net",1182
-"AS49870","Alsycon B.V.",1149
+"AS49870","Alsycon B.V.",1150
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1136
 "AS201401","NewVM B.V.",1076
@@ -41,10 +41,10 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",803
 "AS208046","ColocationX Ltd.",794
-"AS215925","VPSVAULT.HOST LTD",761
+"AS215925","VPSVAULT.HOST LTD",762
 "AS211680","NSEC - Sistemas Informaticos, S.A.",698
-"AS23470","ReliableSite.Net LLC",676
-"AS32475","Internap Holding LLC",600
+"AS23470","ReliableSite.Net LLC",677
+"AS32475","Internap Holding LLC",601
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS36352","HostPapa",579
 "AS31148","Freenet LTD",558
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS3462","Chunghwa Telecom Co., Ltd.",333
 "AS21859","Zenlayer Inc",327
-"AS51115","HLL LLC",318
+"AS51115","HLL LLC",319
 "AS214943","Railnet LLC",311
 "AS53667","FranTech Solutions",310
 "AS24863","LINKdotNET AS number",307
@@ -163,12 +163,12 @@ ASN,Organization,IP_Count
 "AS210644","AEZA INTERNATIONAL LTD",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS4538","China Education and Research Network Center",34
+"AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",33
 "AS23969","TOT Public Company Limited",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
 "AS138156","CSNE Co., Ltd.",32
 "AS210558","1337 Services GmbH",32
-"AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",32
 "AS262378","Compuservice Empreendimentos Ltda",32
 "AS42624","Global-Data System IT Corporation",32
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",30
@@ -183,12 +183,12 @@ ASN,Organization,IP_Count
 "AS30083","velia.net",28
 "AS44592","SkyLink Data Center BV",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
+"AS55990","Huawei Cloud Service data center",28
 "AS1241","RIPE Network Coordination Centre",27
 "AS12816","Leibniz-Rechenzentrum",27
 "AS19318","Interserver, Inc",27
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",27
 "AS3786","LG DACOM Corporation",27
-"AS55990","Huawei Cloud Service data center",27
 "AS2200","Renater",26
 "AS3209","Vodafone GmbH",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
