@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87541
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21608
-"AS398324","Censys, Inc.",10660
+"AS398324","Censys, Inc.",10661
 "AS396982","Google LLC",9528
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6923
@@ -55,7 +55,7 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",505
 "AS9009","M247 Europe SRL",500
 "AS50360","Tamatiya EOOD",492
-"AS4837","CHINA UNICOM China169 Backbone",477
+"AS4837","CHINA UNICOM China169 Backbone",478
 "AS201814","MEVSPACE sp. z o.o.",465
 "AS212238","Datacamp Limited",454
 "AS20052","Arbor Networks, Inc.",415
@@ -451,6 +451,7 @@ ASN,Organization,IP_Count
 "AS37337","MUNI S.A",5
 "AS37705","TOPNET",5
 "AS38365","Beijing Baidu Netcom Science and Technology Co., Ltd.",5
+"AS39521","TNGNET B.V.",5
 "AS45458","ADVANCED WIRELESS NETWORK COMPANY LIMITED",5
 "AS4721","JCOM Co., Ltd.",5
 "AS49505","JSC Selectel",5
@@ -502,7 +503,6 @@ ASN,Organization,IP_Count
 "AS28753","Leaseweb Deutschland GmbH",4
 "AS3356","Level 3 Communications, Inc.",4
 "AS38880","Micron21 Datacentre Pty Ltd",4
-"AS39521","TNGNET B.V.",4
 "AS39816","Volta Communications Sp.z.o.o.",4
 "AS399296","Rackdog, LLC",4
 "AS43754","Asiatech Data Transmission company",4
