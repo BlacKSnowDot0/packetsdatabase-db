@@ -44,7 +44,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",763
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS23470","ReliableSite.Net LLC",680
-"AS32475","Internap Holding LLC",618
+"AS32475","Internap Holding LLC",619
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS36352","HostPapa",590
 "AS31148","Freenet LTD",558
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS3462","Chunghwa Telecom Co., Ltd.",333
 "AS21859","Zenlayer Inc",328
 "AS51115","HLL LLC",321
-"AS53667","FranTech Solutions",313
+"AS53667","FranTech Solutions",314
 "AS214943","Railnet LLC",311
 "AS24863","LINKdotNET AS number",307
 "AS9829","Bharat Sanchar Nigam Ltd",298
@@ -329,6 +329,7 @@ ASN,Organization,IP_Count
 "AS32934","Facebook, Inc.",9
 "AS40244","Turnkey Internet Inc.",9
 "AS41745","Baykov Ilya Sergeevich",9
+"AS4816","China Telecom (Group)",9
 "AS48874","HOSTMAZE INC SRL-D",9
 "AS9318","SK Broadband Co Ltd",9
 "AS135918","VIET DIGITAL TECHNOLOGY LIABILITY COMPANY",8
@@ -347,7 +348,6 @@ ASN,Organization,IP_Count
 "AS38283","CHINANET SiChuan Telecom Internet Data Center",8
 "AS400655","NixLabs Networks",8
 "AS41608","NextGenWebs, S.L.",8
-"AS4816","China Telecom (Group)",8
 "AS4847","China Networks Inter-Exchange",8
 "AS6698","Virtual Systems LLC",8
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",8
