@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87541
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21605
-"AS398324","Censys, Inc.",10651
+"AS398324","Censys, Inc.",10652
 "AS396982","Google LLC",9526
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",6921
+"AS14061","DigitalOcean, LLC",6922
 "AS16276","OVH SAS",5579
 "AS4134","Chinanet",4779
 "AS6568","Entel S.A. - EntelNet",4536
@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",3414
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3162
-"AS51396","Pfcloud UG",2996
+"AS51396","Pfcloud UG",2997
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2526
 "AS8075","Microsoft Corporation",2498
@@ -44,7 +44,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",763
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS23470","ReliableSite.Net LLC",681
-"AS32475","Internap Holding LLC",624
+"AS32475","Internap Holding LLC",625
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS36352","HostPapa",591
 "AS31148","Freenet LTD",558
@@ -73,8 +73,8 @@ ASN,Organization,IP_Count
 "AS210848","Telkom Internet LTD",296
 "AS9341","PT Indonesia Comnets Plus",278
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",268
+"AS12876","ONLINE S.A.S.",249
 "AS48090","TECHOFF SRV LIMITED",249
-"AS12876","ONLINE S.A.S.",248
 "AS47890","UNMANAGED LTD",248
 "AS60223","Netiface Limited",247
 "AS209272","Alviva Holding Limited",230
@@ -117,7 +117,7 @@ ASN,Organization,IP_Count
 "AS27882","Telefónica Celular de Bolivia S.A.",73
 "AS4766","Korea Telecom",73
 "AS18403","FPT Telecom Company",72
-"AS28209","Under Servicos de Internet Ltda",71
+"AS28209","Under Servicos de Internet Ltda",72
 "AS52053","REDHEBERG Association declaree",69
 "AS31898","Oracle Corporation",68
 "AS328867","Corebach Backbone SARL",67
@@ -390,6 +390,7 @@ ASN,Organization,IP_Count
 "AS203020","HostRoyale Technologies Pvt Ltd",6
 "AS211507","Julian Achter",6
 "AS212374","Virtuozzo International GmbH",6
+"AS213520","Senko Digital Ltd",6
 "AS216158","Teleport Rus LLC",6
 "AS216300","Closed Joint Stock Company ""AbkhazMedia""",6
 "AS22927","Telefonica de Argentina",6
@@ -431,7 +432,6 @@ ASN,Organization,IP_Count
 "AS207656","Epinatura LLC",5
 "AS21056","Vianova S.p.A",5
 "AS21246","IPKO Telecommunications LLC",5
-"AS213520","Senko Digital Ltd",5
 "AS213851","Marcel Hanisch",5
 "AS215311","Regxa Company for Information Technology Ltd",5
 "AS215730","H2NEXUS LTD",5
