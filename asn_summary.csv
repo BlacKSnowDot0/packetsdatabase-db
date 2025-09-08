@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4402
 "AS16509","Amazon.com, Inc.",3832
 "AS63949","Akamai Technologies, Inc.",3455
-"AS45102","Alibaba (US) Technology Co., Ltd.",3413
+"AS45102","Alibaba (US) Technology Co., Ltd.",3414
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3162
 "AS51396","Pfcloud UG",2996
@@ -34,9 +34,9 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1076
 "AS22552","eSited Solutions",1002
 "AS0","",993
-"AS208684","BHA CONSEIL SARL",937
+"AS208684","BHA CONSEIL SARL",938
 "AS51852","Private Layer INC",907
-"AS174","Cogent Communications",893
+"AS174","Cogent Communications",894
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",803
@@ -44,9 +44,9 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",763
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS23470","ReliableSite.Net LLC",681
-"AS32475","Internap Holding LLC",623
+"AS32475","Internap Holding LLC",624
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS36352","HostPapa",590
+"AS36352","HostPapa",591
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",514
@@ -367,6 +367,7 @@ ASN,Organization,IP_Count
 "AS31122","Digiweb ltd",7
 "AS3215","Orange S.A.",7
 "AS3216","PJSC ""Vimpelcom""",7
+"AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",7
 "AS55423","JasTel Network",7
 "AS56041","China Mobile Communications Corporation",7
 "AS62068","SpectraIP B.V.",7
@@ -398,7 +399,6 @@ ASN,Organization,IP_Count
 "AS36873","Airtel Networks Limited",6
 "AS37492","Orange Tunisie",6
 "AS37611","Afrihost (Pty) Ltd",6
-"AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",6
 "AS397270","NetInformatik Inc.",6
 "AS399765","FasNET Services LLC",6
 "AS48642","Joint stock company ""For""",6
