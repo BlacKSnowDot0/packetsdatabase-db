@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87538
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21605
-"AS398324","Censys, Inc.",10644
+"AS398324","Censys, Inc.",10645
 "AS396982","Google LLC",9526
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6920
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",680
 "AS32475","Internap Holding LLC",618
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS36352","HostPapa",589
+"AS36352","HostPapa",590
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",514
@@ -399,6 +399,7 @@ ASN,Organization,IP_Count
 "AS37492","Orange Tunisie",6
 "AS37611","Afrihost (Pty) Ltd",6
 "AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",6
+"AS397270","NetInformatik Inc.",6
 "AS399765","FasNET Services LLC",6
 "AS48642","Joint stock company ""For""",6
 "AS50304","Blix Solutions AS",6
@@ -449,7 +450,6 @@ ASN,Organization,IP_Count
 "AS37337","MUNI S.A",5
 "AS37705","TOPNET",5
 "AS38365","Beijing Baidu Netcom Science and Technology Co., Ltd.",5
-"AS397270","NetInformatik Inc.",5
 "AS41075","ATW Internet Kft.",5
 "AS45458","ADVANCED WIRELESS NETWORK COMPANY LIMITED",5
 "AS4721","JCOM Co., Ltd.",5
