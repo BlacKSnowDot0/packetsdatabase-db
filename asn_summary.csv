@@ -1,5 +1,5 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87539
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87541
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21605
 "AS398324","Censys, Inc.",10648
@@ -141,7 +141,7 @@ ASN,Organization,IP_Count
 "AS57588","Hayat for Internet & communication LLC",51
 "AS8402","PJSC ""Vimpelcom""",51
 "AS11320","LightEdge Solutions",50
-"AS271795","SERVITELCONET CIA. LTDA.",48
+"AS271795","SERVITELCONET CIA. LTDA.",50
 "AS199785","Cloud Hosting Solutions, Limited.",47
 "AS266181","GOLDEN LINK",47
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
@@ -180,6 +180,7 @@ ASN,Organization,IP_Count
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS141679","China Telecom",28
+"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",28
 "AS263355","GTR NET COMUNICACOES EIRELI",28
 "AS44592","SkyLink Data Center BV",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
@@ -187,7 +188,6 @@ ASN,Organization,IP_Count
 "AS1241","RIPE Network Coordination Centre",27
 "AS12816","Leibniz-Rechenzentrum",27
 "AS19318","Interserver, Inc",27
-"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",27
 "AS3786","LG DACOM Corporation",27
 "AS2200","Renater",26
 "AS3209","Vodafone GmbH",26
