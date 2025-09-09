@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87541
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21609
-"AS398324","Censys, Inc.",10674
+"AS398324","Censys, Inc.",10676
 "AS396982","Google LLC",9530
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6924
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4402
 "AS16509","Amazon.com, Inc.",3832
 "AS63949","Akamai Technologies, Inc.",3455
-"AS45102","Alibaba (US) Technology Co., Ltd.",3422
+"AS45102","Alibaba (US) Technology Co., Ltd.",3423
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
 "AS51396","Pfcloud UG",3001
@@ -78,7 +78,7 @@ ASN,Organization,IP_Count
 "AS47890","UNMANAGED LTD",248
 "AS60223","Netiface Limited",247
 "AS209272","Alviva Holding Limited",230
-"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",226
+"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",227
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",225
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
@@ -262,6 +262,7 @@ ASN,Organization,IP_Count
 "AS49531","""NetCom-R"" LLC",15
 "AS136142","Enigma Fiber Pvt Ltd",14
 "AS207713","GLOBAL INTERNET SOLUTIONS LLC",14
+"AS329490","Promethean Consulting Limited",14
 "AS39603","P4 Sp. z o.o.",14
 "AS45758","Triple T Broadband Public Company Limited",14
 "AS48721","Flyservers S.A.",14
@@ -270,7 +271,6 @@ ASN,Organization,IP_Count
 "AS28840","PJSC ""TATTELECOM""",13
 "AS29465","MTN NIGERIA Communication limited",13
 "AS3269","Telecom Italia S.p.A.",13
-"AS329490","Promethean Consulting Limited",13
 "AS9123","TimeWeb Ltd.",13
 "AS12400","Partner Communications Ltd.",12
 "AS17621","China Unicom Shanghai network",12
