@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87541
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21609
-"AS398324","Censys, Inc.",10667
+"AS398324","Censys, Inc.",10670
 "AS396982","Google LLC",9529
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",6923
@@ -12,10 +12,10 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4402
 "AS16509","Amazon.com, Inc.",3832
 "AS63949","Akamai Technologies, Inc.",3455
-"AS45102","Alibaba (US) Technology Co., Ltd.",3418
+"AS45102","Alibaba (US) Technology Co., Ltd.",3419
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
-"AS51396","Pfcloud UG",3000
+"AS51396","Pfcloud UG",3001
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2526
 "AS8075","Microsoft Corporation",2499
@@ -32,8 +32,8 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS399045","DediOutlet, LLC",1137
 "AS201401","NewVM B.V.",1076
-"AS22552","eSited Solutions",1005
-"AS0","",994
+"AS22552","eSited Solutions",1006
+"AS0","",995
 "AS208684","BHA CONSEIL SARL",938
 "AS51852","Private Layer INC",907
 "AS174","Cogent Communications",896
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS401120","cheapy.host LLC",514
 "AS14618","Amazon.com, Inc.",511
 "AS140292","China Telecom",508
-"AS10439","CariNet, Inc.",505
+"AS10439","CariNet, Inc.",506
 "AS9009","M247 Europe SRL",500
 "AS50360","Tamatiya EOOD",492
 "AS4837","CHINA UNICOM China169 Backbone",478
@@ -60,12 +60,12 @@ ASN,Organization,IP_Count
 "AS212238","Datacamp Limited",454
 "AS20052","Arbor Networks, Inc.",415
 "AS21299","Kar-Tel LLC",405
+"AS51167","Contabo GmbH",405
 "AS24186","RailTel Corporation of India Ltd.",404
-"AS51167","Contabo GmbH",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS3462","Chunghwa Telecom Co., Ltd.",333
 "AS21859","Zenlayer Inc",328
-"AS51115","HLL LLC",323
+"AS51115","HLL LLC",324
 "AS53667","FranTech Solutions",316
 "AS214943","Railnet LLC",311
 "AS24863","LINKdotNET AS number",307
@@ -79,7 +79,7 @@ ASN,Organization,IP_Count
 "AS60223","Netiface Limited",247
 "AS209272","Alviva Holding Limited",230
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",226
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",224
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",225
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS7713","Telekomunikasi Indonesia (PT)",210
@@ -93,7 +93,7 @@ ASN,Organization,IP_Count
 "AS45899","VNPT Corp",157
 "AS141718","haoxiangyun",151
 "AS47105","Vault Dweller OU",141
-"AS206264","Amarutu Technology Ltd",138
+"AS206264","Amarutu Technology Ltd",139
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
 "AS36007","Kamatera, Inc.",122
@@ -114,9 +114,9 @@ ASN,Organization,IP_Count
 "AS32475","SingleHop LLC",75
 "AS205352","KABELNET LTD",74
 "AS56046","China Mobile Communications Corporation",74
+"AS18403","FPT Telecom Company",73
 "AS27882","Telefónica Celular de Bolivia S.A.",73
 "AS4766","Korea Telecom",73
-"AS18403","FPT Telecom Company",72
 "AS28209","Under Servicos de Internet Ltda",72
 "AS52053","REDHEBERG Association declaree",69
 "AS31898","Oracle Corporation",68
