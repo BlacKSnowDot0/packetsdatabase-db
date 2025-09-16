@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87557
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21658
-"AS398324","Censys, Inc.",11022
+"AS398324","Censys, Inc.",11023
 "AS396982","Google LLC",9596
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7017
+"AS14061","DigitalOcean, LLC",7018
 "AS16276","OVH SAS",5615
 "AS4134","Chinanet",4789
 "AS6568","Entel S.A. - EntelNet",4536
@@ -279,6 +279,7 @@ ASN,Organization,IP_Count
 "AS3269","Telecom Italia S.p.A.",13
 "AS36947","Telecom Algeria",13
 "AS4808","China Unicom Beijing Province Network",13
+"AS4816","China Telecom (Group)",13
 "AS53118","NETLINE TELECOM",13
 "AS12400","Partner Communications Ltd.",12
 "AS17621","China Unicom Shanghai network",12
@@ -289,7 +290,6 @@ ASN,Organization,IP_Count
 "AS35042","Layer7 Networks GmbH",12
 "AS36992","ETISALAT MISR",12
 "AS4713","NTT Communications Corporation",12
-"AS4816","China Telecom (Group)",12
 "AS62442","Dade Samane Fanava Company (PJS)",12
 "AS701","Verizon Business",12
 "AS984","OCTOPUS WEB SOLUTION INC",12
