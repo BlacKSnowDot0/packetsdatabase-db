@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4409
 "AS16509","Amazon.com, Inc.",3835
-"AS45102","Alibaba (US) Technology Co., Ltd.",3474
+"AS45102","Alibaba (US) Technology Co., Ltd.",3475
 "AS63949","Akamai Technologies, Inc.",3468
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
@@ -88,7 +88,7 @@ ASN,Organization,IP_Count
 "AS213613","BOTSHIELD LTD",172
 "AS401116","Nybula LLC",170
 "AS12389","PJSC Rostelecom",169
-"AS141718","haoxiangyun",166
+"AS141718","haoxiangyun",167
 "AS12555","Data-center IMAQLIQ Ltd.",165
 "AS63199","CDS Global Cloud Co., Ltd",162
 "AS45899","VNPT Corp",159
@@ -159,7 +159,7 @@ ASN,Organization,IP_Count
 "AS396356","Latitude.sh",41
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",40
 "AS7552","Viettel Group",40
-"AS138156","CSNE Co., Ltd.",36
+"AS138156","CSNE Co., Ltd.",37
 "AS210644","AEZA INTERNATIONAL LTD",36
 "AS20473","The Constant Company, LLC",35
 "AS213790","Limited Network LTD",35
@@ -717,6 +717,7 @@ ASN,Organization,IP_Count
 "AS211895","Serverius Holding B.V.",2
 "AS212042","Istqrar for Servers Services Ltd",2
 "AS212552","BitCommand LLC",2
+"AS212913","FOP Hornostay Mykhaylo Ivanovych",2
 "AS213186","Yanoor Islam Khan",2
 "AS213725","UK-03AI",2
 "AS214657","Bls Services Tecnologia em Software Ltda",2
@@ -1103,7 +1104,6 @@ ASN,Organization,IP_Count
 "AS212317","Hetzner Online GmbH",1
 "AS212531","UAB ""Interneto vizija""",1
 "AS21283","A1 Slovenija telekomunikacijske storitve,d.d.",1
-"AS212913","FOP Hornostay Mykhaylo Ivanovych",1
 "AS213250","Dominic Scholz trading as ITP-Solutions GmbH & Co. KG",1
 "AS21334","One Hungary Ltd.",1
 "AS213373","IP Connect Inc",1
