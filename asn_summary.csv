@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87559
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21658
-"AS398324","Censys, Inc.",11029
+"AS398324","Censys, Inc.",11030
 "AS396982","Google LLC",9598
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7018
@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3015
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2526
-"AS8075","Microsoft Corporation",2520
+"AS8075","Microsoft Corporation",2521
 "AS6939","Hurricane Electric LLC",2167
 "AS9808","China Mobile",2053
 "AS202425","IP Volume inc",1641
@@ -59,7 +59,7 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",469
 "AS212238","Datacamp Limited",454
 "AS20052","Arbor Networks, Inc.",436
-"AS51167","Contabo GmbH",435
+"AS51167","Contabo GmbH",436
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS3462","Chunghwa Telecom Co., Ltd.",335
 "AS53667","FranTech Solutions",329
 "AS21859","Zenlayer Inc",328
-"AS9829","Bharat Sanchar Nigam Ltd",320
+"AS9829","Bharat Sanchar Nigam Ltd",321
 "AS214943","Railnet LLC",311
 "AS24863","LINKdotNET AS number",307
 "AS210848","Telkom Internet LTD",296
@@ -104,10 +104,10 @@ ASN,Organization,IP_Count
 "AS208287","DC Host INC",110
 "AS262551","Farol Telecom",108
 "AS42237","w1n ltd",101
+"AS50219","LNK SYSTEMS MUNTENIA SRL",92
 "AS63018","Dedicated.com",92
-"AS50219","LNK SYSTEMS MUNTENIA SRL",91
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",90
-"AS14956","RouterHosting LLC",85
+"AS14956","RouterHosting LLC",86
 "AS58461","Chinanet",85
 "AS205352","KABELNET LTD",79
 "AS200019","ALEXHOST SRL",78
