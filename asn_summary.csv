@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4409
 "AS16509","Amazon.com, Inc.",3835
-"AS45102","Alibaba (US) Technology Co., Ltd.",3475
+"AS45102","Alibaba (US) Technology Co., Ltd.",3476
 "AS63949","Akamai Technologies, Inc.",3468
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
@@ -441,6 +441,7 @@ ASN,Organization,IP_Count
 "AS213851","Marcel Hanisch",5
 "AS215311","Regxa Company for Information Technology Ltd",5
 "AS215730","H2NEXUS LTD",5
+"AS25490","PJSC Rostelecom",5
 "AS26383","Baxet Group Inc.",5
 "AS265702","AZUL NETWORKS S.R.L",5
 "AS267507","SRX TECNOLOGIA DA INFORMACAO LTDA",5
@@ -498,7 +499,6 @@ ASN,Organization,IP_Count
 "AS23674","Nayatel (Pvt) Ltd",4
 "AS23974","Ministry of Education - EMISC",4
 "AS2527","Sony Network Communications Inc.",4
-"AS25490","PJSC Rostelecom",4
 "AS25620","COTAS LTDA.",4
 "AS262916","Mega Cable, S.A. de C.V.",4
 "AS265379","JULIO CESAR DAS NEVES - ME",4
