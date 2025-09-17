@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87562
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21660
-"AS398324","Censys, Inc.",11044
-"AS396982","Google LLC",9602
+"AS398324","Censys, Inc.",11045
+"AS396982","Google LLC",9603
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7027
-"AS16276","OVH SAS",5618
+"AS14061","DigitalOcean, LLC",7029
+"AS16276","OVH SAS",5619
 "AS4134","Chinanet",4789
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4409
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1139
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
-"AS0","",1070
+"AS0","",1071
 "AS22552","eSited Solutions",1058
 "AS208684","BHA CONSEIL SARL",947
 "AS174","Cogent Communications",925
@@ -78,7 +78,7 @@ ASN,Organization,IP_Count
 "AS48090","TECHOFF SRV LIMITED",249
 "AS60223","Netiface Limited",247
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",245
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",241
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",242
 "AS209272","Alviva Holding Limited",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
@@ -349,6 +349,7 @@ ASN,Organization,IP_Count
 "AS210509","Optimum Line for Internet Services Ltd.",8
 "AS213520","Senko Digital Ltd",8
 "AS267280","YELLOW CONNECT MULTIMIDIA LTDA ME",8
+"AS27699","TELEFÔNICA BRASIL S.A",8
 "AS27967","Gobernacion de la Provincia de Buenos Aires",8
 "AS28573","Claro NXT Telecomunicacoes Ltda",8
 "AS328723","Telasera Technologies PTY LTD",8
@@ -367,7 +368,6 @@ ASN,Organization,IP_Count
 "AS215672","MoeChuang Network Limited",7
 "AS24955","JSC ""Ufanet""",7
 "AS266702","MEGALINK S.R.L.",7
-"AS27699","TELEFÔNICA BRASIL S.A",7
 "AS27831","Colombia Móvil",7
 "AS31122","Digiweb ltd",7
 "AS3215","Orange S.A.",7
