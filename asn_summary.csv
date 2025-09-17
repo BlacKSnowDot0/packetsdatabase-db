@@ -3,16 +3,16 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21660
 "AS398324","Censys, Inc.",11044
-"AS396982","Google LLC",9601
+"AS396982","Google LLC",9602
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7027
-"AS16276","OVH SAS",5617
+"AS16276","OVH SAS",5618
 "AS4134","Chinanet",4789
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4409
 "AS16509","Amazon.com, Inc.",3835
 "AS45102","Alibaba (US) Technology Co., Ltd.",3481
-"AS63949","Akamai Technologies, Inc.",3470
+"AS63949","Akamai Technologies, Inc.",3471
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
 "AS51396","Pfcloud UG",3022
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1139
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
-"AS0","",1066
+"AS0","",1068
 "AS22552","eSited Solutions",1058
 "AS208684","BHA CONSEIL SARL",947
 "AS174","Cogent Communications",925
@@ -56,7 +56,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",508
 "AS50360","Tamatiya EOOD",492
 "AS4837","CHINA UNICOM China169 Backbone",486
-"AS201814","MEVSPACE sp. z o.o.",471
+"AS201814","MEVSPACE sp. z o.o.",472
 "AS212238","Datacamp Limited",454
 "AS20052","Arbor Networks, Inc.",437
 "AS51167","Contabo GmbH",437
@@ -168,11 +168,11 @@ ASN,Organization,IP_Count
 "AS23969","TOT Public Company Limited",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
+"AS19318","Interserver, Inc",32
 "AS210558","1337 Services GmbH",32
 "AS262378","Compuservice Empreendimentos Ltda",32
 "AS42624","Global-Data System IT Corporation",32
 "AS55990","Huawei Cloud Service data center",32
-"AS19318","Interserver, Inc",31
 "AS30083","velia.net",31
 "AS12816","Leibniz-Rechenzentrum",30
 "AS149746","PT Blip Integrator Provider",30
