@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87562
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21661
-"AS398324","Censys, Inc.",11054
+"AS398324","Censys, Inc.",11055
 "AS396982","Google LLC",9604
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7030
@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4410
 "AS16509","Amazon.com, Inc.",3835
-"AS45102","Alibaba (US) Technology Co., Ltd.",3487
+"AS45102","Alibaba (US) Technology Co., Ltd.",3489
 "AS63949","Akamai Technologies, Inc.",3471
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1139
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
-"AS0","",1071
+"AS0","",1072
 "AS22552","eSited Solutions",1059
 "AS208684","BHA CONSEIL SARL",947
 "AS174","Cogent Communications",928
@@ -72,7 +72,7 @@ ASN,Organization,IP_Count
 "AS24863","LINKdotNET AS number",307
 "AS210848","Telkom Internet LTD",296
 "AS9341","PT Indonesia Comnets Plus",278
-"AS12876","ONLINE S.A.S.",276
+"AS12876","ONLINE S.A.S.",277
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",271
 "AS47890","UNMANAGED LTD",250
 "AS48090","TECHOFF SRV LIMITED",249
@@ -104,7 +104,7 @@ ASN,Organization,IP_Count
 "AS208287","DC Host INC",110
 "AS262551","Farol Telecom",108
 "AS42237","w1n ltd",102
-"AS50219","LNK SYSTEMS MUNTENIA SRL",93
+"AS50219","LNK SYSTEMS MUNTENIA SRL",94
 "AS63018","Dedicated.com",92
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",90
 "AS14956","RouterHosting LLC",86
