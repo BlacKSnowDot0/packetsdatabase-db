@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87562
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21661
-"AS398324","Censys, Inc.",11050
+"AS398324","Censys, Inc.",11051
 "AS396982","Google LLC",9604
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7030
@@ -18,9 +18,9 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3022
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2526
-"AS8075","Microsoft Corporation",2523
+"AS8075","Microsoft Corporation",2524
 "AS6939","Hurricane Electric LLC",2172
-"AS9808","China Mobile",2053
+"AS9808","China Mobile",2054
 "AS202425","IP Volume inc",1641
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1468
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
 "AS0","",1071
-"AS22552","eSited Solutions",1058
+"AS22552","eSited Solutions",1059
 "AS208684","BHA CONSEIL SARL",947
 "AS174","Cogent Communications",927
 "AS51852","Private Layer INC",907
@@ -45,7 +45,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",738
 "AS23470","ReliableSite.Net LLC",707
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
-"AS36352","HostPapa",673
+"AS36352","HostPapa",674
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
@@ -84,7 +84,7 @@ ASN,Organization,IP_Count
 "AS14987","Rethem Hosting LLC",215
 "AS7713","Telekomunikasi Indonesia (PT)",210
 "AS13335","Cloudflare, Inc.",201
-"AS208843","Alpha Strike Labs GmbH",184
+"AS208843","Alpha Strike Labs GmbH",185
 "AS213613","BOTSHIELD LTD",173
 "AS401116","Nybula LLC",170
 "AS12389","PJSC Rostelecom",169
@@ -191,10 +191,10 @@ ASN,Organization,IP_Count
 "AS30633","Leaseweb USA, Inc.",27
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
+"AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",27
 "AS2200","Renater",26
 "AS23724","IDC, China Telecommunications Corporation",26
 "AS3209","Vodafone GmbH",26
-"AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS269193","Iktelecom Ltda",25
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",24
