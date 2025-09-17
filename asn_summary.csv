@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87562
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21661
-"AS398324","Censys, Inc.",11046
+"AS398324","Censys, Inc.",11048
 "AS396982","Google LLC",9604
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7030
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",799
 "AS215925","VPSVAULT.HOST LTD",763
 "AS32475","Internap Holding LLC",738
-"AS23470","ReliableSite.Net LLC",706
+"AS23470","ReliableSite.Net LLC",707
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS36352","HostPapa",673
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -782,6 +782,7 @@ ASN,Organization,IP_Count
 "AS32489","Amanah Tech Inc.",2
 "AS3262","SAREnet, S.A.",2
 "AS327693","Echotel Pty Ltd",2
+"AS327724","National Information Technology Authority Uganda",2
 "AS327901","Level 7 Wireless (Pty) Ltd",2
 "AS328282","TEOLIS SAU",2
 "AS3303","Swisscom (Schweiz) AG",2
@@ -1267,7 +1268,6 @@ ASN,Organization,IP_Count
 "AS32365","City of Sandy",1
 "AS3249","Telia Eesti AS",1
 "AS3253","PJSC ""Vimpelcom""",1
-"AS327724","National Information Technology Authority Uganda",1
 "AS327934","SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)",1
 "AS328122","Business Connexion (PTY) LTD",1
 "AS328361","VOIZACOM (PTY) LTD",1
