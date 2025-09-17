@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1139
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
-"AS0","",1060
+"AS0","",1062
 "AS22552","eSited Solutions",1058
 "AS208684","BHA CONSEIL SARL",947
 "AS174","Cogent Communications",925
@@ -56,7 +56,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",508
 "AS50360","Tamatiya EOOD",492
 "AS4837","CHINA UNICOM China169 Backbone",486
-"AS201814","MEVSPACE sp. z o.o.",470
+"AS201814","MEVSPACE sp. z o.o.",471
 "AS212238","Datacamp Limited",454
 "AS51167","Contabo GmbH",437
 "AS20052","Arbor Networks, Inc.",436
@@ -328,6 +328,7 @@ ASN,Organization,IP_Count
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",9
 "AS199414","Noah Kolossa",9
 "AS212504","AdKyNet SAS",9
+"AS214417","Andrii Hrosh",9
 "AS214481","Wojciech Czapkowicz",9
 "AS24835","Vodafone Data - Egypt",9
 "AS32934","Facebook, Inc.",9
@@ -347,7 +348,6 @@ ASN,Organization,IP_Count
 "AS209956","Telkoturk Iletisim Hizmetleri A.S.",8
 "AS210509","Optimum Line for Internet Services Ltd.",8
 "AS213520","Senko Digital Ltd",8
-"AS214417","Andrii Hrosh",8
 "AS267280","YELLOW CONNECT MULTIMIDIA LTDA ME",8
 "AS27967","Gobernacion de la Provincia de Buenos Aires",8
 "AS28573","Claro NXT Telecomunicacoes Ltda",8
