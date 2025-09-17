@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87562
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21664
-"AS398324","Censys, Inc.",11062
+"AS398324","Censys, Inc.",11064
 "AS396982","Google LLC",9604
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7030
+"AS14061","DigitalOcean, LLC",7031
 "AS16276","OVH SAS",5619
 "AS4134","Chinanet",4789
 "AS6568","Entel S.A. - EntelNet",4536
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS0","",1073
 "AS22552","eSited Solutions",1062
 "AS208684","BHA CONSEIL SARL",947
-"AS174","Cogent Communications",929
+"AS174","Cogent Communications",930
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -570,6 +570,7 @@ ASN,Organization,IP_Count
 "AS207083","HostSlim B.V.",3
 "AS210538","KEYUBU Internet ve Bilisim Tic. Ltd. Sti.",3
 "AS211826","Istqrar for Servers Services Ltd",3
+"AS212042","Istqrar for Servers Services Ltd",3
 "AS213354","INTERNATIONAL HOSTING SOLUTIONS LLP",3
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",3
 "AS21499","Host Europe GmbH",3
@@ -716,7 +717,6 @@ ASN,Organization,IP_Count
 "AS211381","Podaon SIA",2
 "AS211860","Nerushenko Vyacheslav Nikolaevich",2
 "AS211895","Serverius Holding B.V.",2
-"AS212042","Istqrar for Servers Services Ltd",2
 "AS212552","BitCommand LLC",2
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",2
 "AS213186","Yanoor Islam Khan",2
