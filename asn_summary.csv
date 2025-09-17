@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87562
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21664
-"AS398324","Censys, Inc.",11061
+"AS398324","Censys, Inc.",11062
 "AS396982","Google LLC",9604
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7030
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
-"AS10439","CariNet, Inc.",521
+"AS10439","CariNet, Inc.",522
 "AS14618","Amazon.com, Inc.",520
 "AS401120","cheapy.host LLC",519
 "AS9009","M247 Europe SRL",511
@@ -312,6 +312,7 @@ ASN,Organization,IP_Count
 "AS12912","T-Mobile Polska S.A.",10
 "AS153443","VPSRE.NET LLC",10
 "AS202448","MVPS LTD",10
+"AS214417","Andrii Hrosh",10
 "AS24547","China Mobile",10
 "AS2914","NTT America, Inc.",10
 "AS30823","aurologic GmbH",10
@@ -329,7 +330,6 @@ ASN,Organization,IP_Count
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",9
 "AS199414","Noah Kolossa",9
 "AS212504","AdKyNet SAS",9
-"AS214417","Andrii Hrosh",9
 "AS214481","Wojciech Czapkowicz",9
 "AS24835","Vodafone Data - Egypt",9
 "AS32934","Facebook, Inc.",9
@@ -1081,6 +1081,7 @@ ASN,Organization,IP_Count
 "AS206854","Lesun communication furtherance engineers Co, (Ltd.)",1
 "AS206961","Riccardo Gori",1
 "AS207375","Fiber Operator B.V.",1
+"AS207541","Eco Net d.o.o.",1
 "AS207594","Connectivia S.r.l",1
 "AS20773","Host Europe GmbH",1
 "AS207957","Sevasteev Artem Nikolaevich",1
