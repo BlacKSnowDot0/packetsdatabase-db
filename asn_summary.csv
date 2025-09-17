@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87562
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
-"AS211298","Driftnet Ltd",21664
+"AS211298","Driftnet Ltd",21665
 "AS398324","Censys, Inc.",11066
 "AS396982","Google LLC",9605
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7032
+"AS14061","DigitalOcean, LLC",7033
 "AS16276","OVH SAS",5620
 "AS4134","Chinanet",4789
 "AS6568","Entel S.A. - EntelNet",4536
@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3471
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
-"AS51396","Pfcloud UG",3023
+"AS51396","Pfcloud UG",3024
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2526
 "AS8075","Microsoft Corporation",2524
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS0","",1073
 "AS22552","eSited Solutions",1062
 "AS208684","BHA CONSEIL SARL",947
-"AS174","Cogent Communications",930
+"AS174","Cogent Communications",931
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -50,7 +50,7 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
 "AS10439","CariNet, Inc.",522
-"AS14618","Amazon.com, Inc.",520
+"AS14618","Amazon.com, Inc.",521
 "AS401120","cheapy.host LLC",519
 "AS9009","M247 Europe SRL",511
 "AS140292","China Telecom",508
@@ -107,7 +107,7 @@ ASN,Organization,IP_Count
 "AS50219","LNK SYSTEMS MUNTENIA SRL",94
 "AS63018","Dedicated.com",92
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",90
-"AS14956","RouterHosting LLC",86
+"AS14956","RouterHosting LLC",87
 "AS58461","Chinanet",85
 "AS205352","KABELNET LTD",79
 "AS200019","ALEXHOST SRL",78
