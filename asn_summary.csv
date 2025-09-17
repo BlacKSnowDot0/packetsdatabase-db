@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1139
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
-"AS0","",1063
+"AS0","",1065
 "AS22552","eSited Solutions",1058
 "AS208684","BHA CONSEIL SARL",947
 "AS174","Cogent Communications",925
@@ -96,7 +96,7 @@ ASN,Organization,IP_Count
 "AS47105","Vault Dweller OU",141
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
-"AS29484","Ruhr-Universitaet Bochum",124
+"AS29484","Ruhr-Universitaet Bochum",125
 "AS36007","Kamatera, Inc.",122
 "AS13238","YANDEX LLC",117
 "AS8151","Uninet S.A. de C.V.",117
@@ -755,6 +755,7 @@ ASN,Organization,IP_Count
 "AS264628","CORPORACION FIBEX TELECOM, C.A.",2
 "AS265499","GS Telecomunicações Ltda",2
 "AS268437","BRAXTEL TELECOM E TI",2
+"AS271597","NEW LINK CONNECT",2
 "AS271907","COLNETWORK C.A.",2
 "AS272786","X99 INTERNET LTDA.",2
 "AS27323","Wowrack.com",2
@@ -1222,7 +1223,6 @@ ASN,Organization,IP_Count
 "AS270674","WebFiber Telecom",1
 "AS270890","INFOTEC NETWORKS DE COSTA RICA",1
 "AS270996","LINK PRIME TECNOLOGIA",1
-"AS271597","NEW LINK CONNECT",1
 "AS273143","SIGNAL PERU S.A.C.",1
 "AS273683","ALLREDE TELECOM LTDA",1
 "AS27696","Columbus Networks de Honduras S. de R.L.",1
