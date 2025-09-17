@@ -1,7 +1,7 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87562
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
-"AS211298","Driftnet Ltd",21661
+"AS211298","Driftnet Ltd",21663
 "AS398324","Censys, Inc.",11060
 "AS396982","Google LLC",9604
 "AS26210","AXS Bolivia S. A.",7971
@@ -42,7 +42,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",803
 "AS208046","ColocationX Ltd.",799
 "AS215925","VPSVAULT.HOST LTD",763
-"AS32475","Internap Holding LLC",741
+"AS32475","Internap Holding LLC",742
 "AS23470","ReliableSite.Net LLC",708
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS36352","HostPapa",674
@@ -55,7 +55,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",511
 "AS140292","China Telecom",508
 "AS50360","Tamatiya EOOD",492
-"AS4837","CHINA UNICOM China169 Backbone",487
+"AS4837","CHINA UNICOM China169 Backbone",488
 "AS201814","MEVSPACE sp. z o.o.",472
 "AS212238","Datacamp Limited",454
 "AS20052","Arbor Networks, Inc.",438
@@ -248,6 +248,7 @@ ASN,Organization,IP_Count
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",17
 "AS56630","Melbikomas UAB",17
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",16
+"AS200514","KnownSRV Ltd.",16
 "AS206092","Internet Utilities Europe and Asia Limited",16
 "AS25198","INTERKVM HOST SRL",16
 "AS3320","Deutsche Telekom AG",16
@@ -256,7 +257,6 @@ ASN,Organization,IP_Count
 "AS6597","Coloblox Data Centers Inc",16
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",15
 "AS136515","Dasca Cable Services, Inc.",15
-"AS200514","KnownSRV Ltd.",15
 "AS211619","MAXKO d.o.o.",15
 "AS263767","CORPORACIÓN GALA IT, C.A.",15
 "AS272547","Servicos de Infraestrutura e Datacenter",15
