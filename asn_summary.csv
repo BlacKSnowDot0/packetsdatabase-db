@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87560
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87561
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21659
-"AS398324","Censys, Inc.",11035
+"AS398324","Censys, Inc.",11037
 "AS396982","Google LLC",9599
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7019
@@ -11,15 +11,15 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4409
 "AS16509","Amazon.com, Inc.",3835
-"AS45102","Alibaba (US) Technology Co., Ltd.",3480
+"AS45102","Alibaba (US) Technology Co., Ltd.",3481
 "AS63949","Akamai Technologies, Inc.",3468
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
-"AS51396","Pfcloud UG",3015
+"AS51396","Pfcloud UG",3017
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2526
 "AS8075","Microsoft Corporation",2521
-"AS6939","Hurricane Electric LLC",2169
+"AS6939","Hurricane Electric LLC",2170
 "AS9808","China Mobile",2053
 "AS202425","IP Volume inc",1641
 "AS214295","SKYNET NETWORK LTD",1631
@@ -42,7 +42,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",803
 "AS208046","ColocationX Ltd.",799
 "AS215925","VPSVAULT.HOST LTD",763
-"AS32475","Internap Holding LLC",736
+"AS32475","Internap Holding LLC",737
 "AS23470","ReliableSite.Net LLC",705
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS36352","HostPapa",672
@@ -55,7 +55,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",510
 "AS140292","China Telecom",508
 "AS50360","Tamatiya EOOD",492
-"AS4837","CHINA UNICOM China169 Backbone",485
+"AS4837","CHINA UNICOM China169 Backbone",486
 "AS201814","MEVSPACE sp. z o.o.",469
 "AS212238","Datacamp Limited",454
 "AS20052","Arbor Networks, Inc.",436
