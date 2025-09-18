@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",11086
 "AS396982","Google LLC",9607
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7036
+"AS14061","DigitalOcean, LLC",7037
 "AS16276","OVH SAS",5621
 "AS4134","Chinanet",4789
 "AS6568","Entel S.A. - EntelNet",4536
@@ -31,8 +31,8 @@ ASN,Organization,IP_Count
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1139
 "AS212512","Detai Prosperous Technologies Limited",1138
+"AS0","",1077
 "AS201401","NewVM B.V.",1076
-"AS0","",1075
 "AS22552","eSited Solutions",1065
 "AS208684","BHA CONSEIL SARL",947
 "AS174","Cogent Communications",931
@@ -42,10 +42,10 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",803
 "AS208046","ColocationX Ltd.",799
 "AS215925","VPSVAULT.HOST LTD",763
-"AS32475","Internap Holding LLC",751
+"AS32475","Internap Holding LLC",752
 "AS23470","ReliableSite.Net LLC",710
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
-"AS36352","HostPapa",680
+"AS36352","HostPapa",681
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
@@ -63,7 +63,7 @@ ASN,Organization,IP_Count
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS51115","HLL LLC",348
+"AS51115","HLL LLC",349
 "AS3462","Chunghwa Telecom Co., Ltd.",335
 "AS21859","Zenlayer Inc",330
 "AS53667","FranTech Solutions",329
