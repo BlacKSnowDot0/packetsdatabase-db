@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87563
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21666
-"AS398324","Censys, Inc.",11074
+"AS398324","Censys, Inc.",11075
 "AS396982","Google LLC",9605
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7034
@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3028
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2526
-"AS8075","Microsoft Corporation",2524
+"AS8075","Microsoft Corporation",2525
 "AS6939","Hurricane Electric LLC",2175
 "AS9808","China Mobile",2054
 "AS202425","IP Volume inc",1641
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1139
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
-"AS0","",1074
+"AS0","",1075
 "AS22552","eSited Solutions",1063
 "AS208684","BHA CONSEIL SARL",947
 "AS174","Cogent Communications",931
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",799
 "AS215925","VPSVAULT.HOST LTD",763
 "AS32475","Internap Holding LLC",750
-"AS23470","ReliableSite.Net LLC",709
+"AS23470","ReliableSite.Net LLC",710
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS36352","HostPapa",677
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -355,6 +355,7 @@ ASN,Organization,IP_Count
 "AS328723","Telasera Technologies PTY LTD",8
 "AS38283","CHINANET SiChuan Telecom Internet Data Center",8
 "AS400655","NixLabs Networks",8
+"AS41075","ATW Internet Kft.",8
 "AS41608","NextGenWebs, S.L.",8
 "AS6698","Virtual Systems LLC",8
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",8
@@ -373,7 +374,6 @@ ASN,Organization,IP_Count
 "AS3215","Orange S.A.",7
 "AS3216","PJSC ""Vimpelcom""",7
 "AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",7
-"AS41075","ATW Internet Kft.",7
 "AS49505","JSC Selectel",7
 "AS55423","JasTel Network",7
 "AS56005","Zhengzhou Fastidc Technology Co.,Ltd.",7
