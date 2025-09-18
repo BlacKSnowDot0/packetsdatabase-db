@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87563
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21669
-"AS398324","Censys, Inc.",11087
-"AS396982","Google LLC",9607
+"AS398324","Censys, Inc.",11088
+"AS396982","Google LLC",9608
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7037
+"AS14061","DigitalOcean, LLC",7038
 "AS16276","OVH SAS",5621
 "AS4134","Chinanet",4789
 "AS6568","Entel S.A. - EntelNet",4536
@@ -45,7 +45,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",752
 "AS23470","ReliableSite.Net LLC",710
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
-"AS36352","HostPapa",681
+"AS36352","HostPapa",684
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
@@ -307,6 +307,7 @@ ASN,Organization,IP_Count
 "AS38264","Wateen Telecom Limited",11
 "AS39351","31173 Services AB",11
 "AS41436","Kamatera Inc",11
+"AS41745","Baykov Ilya Sergeevich",11
 "AS45820","TTSL-ISP DIVISION",11
 "AS48753","AVA HOST SRL",11
 "AS58563","CHINANET Hubei province network",11
@@ -318,7 +319,6 @@ ASN,Organization,IP_Count
 "AS2914","NTT America, Inc.",10
 "AS30823","aurologic GmbH",10
 "AS41420","Xentech B.V.",10
-"AS41745","Baykov Ilya Sergeevich",10
 "AS44901","Belcloud LTD",10
 "AS4760","PCCW IMS Limited",10
 "AS48925","VibeGAMES B.V.",10
@@ -443,6 +443,7 @@ ASN,Organization,IP_Count
 "AS21246","IPKO Telecommunications LLC",5
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",5
 "AS213851","Marcel Hanisch",5
+"AS213893","IPTransit Business LTD",5
 "AS215311","Regxa Company for Information Technology Ltd",5
 "AS215730","H2NEXUS LTD",5
 "AS26383","Baxet Group Inc.",5
@@ -492,7 +493,6 @@ ASN,Organization,IP_Count
 "AS208040","RSS (RAPID SOFTWARE SYSTEMS) CYPRUS LTD",4
 "AS208208","Marco Lingl trading as Cyberse GmbH & Co. KG",4
 "AS212219","HOSTING DUNYAM BILISIM TEKNOLOJILERI TICARET LIMITED SIRKETI",4
-"AS213893","IPTransit Business LTD",4
 "AS214209","Internet Magnate (Pty) Ltd",4
 "AS215439","PLAY2GO INTERNATIONAL LIMITED",4
 "AS23201","Telecel S.A.",4
