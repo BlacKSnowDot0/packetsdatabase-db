@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87562
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21666
-"AS398324","Censys, Inc.",11067
+"AS398324","Censys, Inc.",11069
 "AS396982","Google LLC",9605
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7034
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1139
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
-"AS0","",1073
+"AS0","",1074
 "AS22552","eSited Solutions",1062
 "AS208684","BHA CONSEIL SARL",947
 "AS174","Cogent Communications",931
@@ -42,10 +42,10 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",803
 "AS208046","ColocationX Ltd.",799
 "AS215925","VPSVAULT.HOST LTD",763
-"AS32475","Internap Holding LLC",748
+"AS32475","Internap Holding LLC",749
 "AS23470","ReliableSite.Net LLC",709
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
-"AS36352","HostPapa",674
+"AS36352","HostPapa",677
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
@@ -113,11 +113,11 @@ ASN,Organization,IP_Count
 "AS200019","ALEXHOST SRL",78
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS32475","SingleHop LLC",75
+"AS28209","Under Servicos de Internet Ltda",74
 "AS4766","Korea Telecom",74
 "AS56046","China Mobile Communications Corporation",74
 "AS18403","FPT Telecom Company",73
 "AS27882","Telefónica Celular de Bolivia S.A.",73
-"AS28209","Under Servicos de Internet Ltda",73
 "AS210125","PRIAM NET Sh.p.k.",72
 "AS31898","Oracle Corporation",69
 "AS52053","REDHEBERG Association declaree",69
@@ -155,8 +155,8 @@ ASN,Organization,IP_Count
 "AS152194","CTG Server Limited",43
 "AS215590","DpkgSoft International Limited",43
 "AS150263","PT Alnet Telekomunikasi Indonesia",42
+"AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",42
 "AS214497","Whitelabel Solutions, Ltd.",42
-"AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",41
 "AS396356","Latitude.sh",41
 "AS7552","Viettel Group",40
 "AS138156","CSNE Co., Ltd.",37
@@ -173,8 +173,8 @@ ASN,Organization,IP_Count
 "AS262378","Compuservice Empreendimentos Ltda",32
 "AS42624","Global-Data System IT Corporation",32
 "AS55990","Huawei Cloud Service data center",32
+"AS12816","Leibniz-Rechenzentrum",31
 "AS30083","velia.net",31
-"AS12816","Leibniz-Rechenzentrum",30
 "AS149746","PT Blip Integrator Provider",30
 "AS29066","velia.net Internetdienste GmbH",30
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",30
