@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87563
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21671
-"AS398324","Censys, Inc.",11102
+"AS398324","Censys, Inc.",11104
 "AS396982","Google LLC",9610
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7042
-"AS16276","OVH SAS",5621
+"AS16276","OVH SAS",5622
 "AS4134","Chinanet",4789
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4410
@@ -538,6 +538,7 @@ ASN,Organization,IP_Count
 "AS1101","SURF B.V.",3
 "AS11426","Charter Communications Inc",3
 "AS11562","Net Uno, C.A.",3
+"AS12353","Vodafone Portugal - Communicacoes Pessoais S.A.",3
 "AS1267","RIPE Network Coordination Centre",3
 "AS13110","INEA sp. z o.o.",3
 "AS133278","Dehradun Enet Solutions Private Ltd",3
@@ -637,7 +638,6 @@ ASN,Organization,IP_Count
 "AS11172","Alestra, S. de R.L. de C.V.",2
 "AS11556","Cable & Wireless Panama",2
 "AS12271","Charter Communications Inc",2
-"AS12353","Vodafone Portugal - Communicacoes Pessoais S.A.",2
 "AS12479","Orange Espagne SA",2
 "AS12488","Krystal Hosting Ltd",2
 "AS12586","GHOSTnet GmbH",2
