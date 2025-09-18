@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87563
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21669
-"AS398324","Censys, Inc.",11088
-"AS396982","Google LLC",9608
+"AS398324","Censys, Inc.",11089
+"AS396982","Google LLC",9609
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7038
 "AS16276","OVH SAS",5621
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS3462","Chunghwa Telecom Co., Ltd.",335
 "AS21859","Zenlayer Inc",330
 "AS53667","FranTech Solutions",329
-"AS9829","Bharat Sanchar Nigam Ltd",323
+"AS9829","Bharat Sanchar Nigam Ltd",324
 "AS214943","Railnet LLC",311
 "AS24863","LINKdotNET AS number",307
 "AS210848","Telkom Internet LTD",296
@@ -129,7 +129,7 @@ ASN,Organization,IP_Count
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS140717","China Unicom",61
 "AS3920","ESTOXY OU",60
-"AS136435","ELITE COMMUNICATION",58
+"AS136435","ELITE COMMUNICATION",59
 "AS4812","China Telecom (Group)",58
 "AS20278","Nexeon Technologies, Inc.",57
 "AS48090","PPTECHNOLOGY LIMITED",56
@@ -187,12 +187,12 @@ ASN,Organization,IP_Count
 "AS141679","China Telecom",28
 "AS23724","IDC, China Telecommunications Corporation",28
 "AS44592","SkyLink Data Center BV",28
+"AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS1241","RIPE Network Coordination Centre",27
 "AS30633","Leaseweb USA, Inc.",27
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
-"AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",27
 "AS2200","Renater",26
 "AS3209","Vodafone GmbH",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
@@ -257,6 +257,7 @@ ASN,Organization,IP_Count
 "AS6597","Coloblox Data Centers Inc",16
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",15
 "AS136515","Dasca Cable Services, Inc.",15
+"AS207713","GLOBAL INTERNET SOLUTIONS LLC",15
 "AS211619","MAXKO d.o.o.",15
 "AS263767","CORPORACIÓN GALA IT, C.A.",15
 "AS272547","Servicos de Infraestrutura e Datacenter",15
@@ -265,7 +266,6 @@ ASN,Organization,IP_Count
 "AS49531","""NetCom-R"" LLC",15
 "AS9123","TimeWeb Ltd.",15
 "AS136142","Enigma Fiber Pvt Ltd",14
-"AS207713","GLOBAL INTERNET SOLUTIONS LLC",14
 "AS329490","Promethean Consulting Limited",14
 "AS39603","P4 Sp. z o.o.",14
 "AS45758","Triple T Broadband Public Company Limited",14
