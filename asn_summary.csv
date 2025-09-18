@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87562
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21666
-"AS398324","Censys, Inc.",11066
+"AS398324","Censys, Inc.",11067
 "AS396982","Google LLC",9605
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7033
-"AS16276","OVH SAS",5620
+"AS14061","DigitalOcean, LLC",7034
+"AS16276","OVH SAS",5621
 "AS4134","Chinanet",4789
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4410
@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3472
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
-"AS51396","Pfcloud UG",3026
+"AS51396","Pfcloud UG",3027
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2526
 "AS8075","Microsoft Corporation",2524
@@ -71,7 +71,7 @@ ASN,Organization,IP_Count
 "AS214943","Railnet LLC",311
 "AS24863","LINKdotNET AS number",307
 "AS210848","Telkom Internet LTD",296
-"AS12876","ONLINE S.A.S.",278
+"AS12876","ONLINE S.A.S.",279
 "AS9341","PT Indonesia Comnets Plus",278
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",271
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",251
@@ -84,7 +84,7 @@ ASN,Organization,IP_Count
 "AS14987","Rethem Hosting LLC",215
 "AS7713","Telekomunikasi Indonesia (PT)",210
 "AS13335","Cloudflare, Inc.",201
-"AS208843","Alpha Strike Labs GmbH",186
+"AS208843","Alpha Strike Labs GmbH",187
 "AS213613","BOTSHIELD LTD",174
 "AS401116","Nybula LLC",170
 "AS12389","PJSC Rostelecom",169
@@ -109,7 +109,7 @@ ASN,Organization,IP_Count
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",90
 "AS14956","RouterHosting LLC",87
 "AS58461","Chinanet",85
-"AS205352","KABELNET LTD",79
+"AS205352","KABELNET LTD",80
 "AS200019","ALEXHOST SRL",78
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS32475","SingleHop LLC",75
@@ -876,6 +876,7 @@ ASN,Organization,IP_Count
 "AS7029","Windstream Communications LLC",2
 "AS719","RIPE Network Coordination Centre",2
 "AS7377","University of California, San Diego",2
+"AS7418","TELEFÓNICA CHILE S.A.",2
 "AS7545","TPG Internet Pty Ltd",2
 "AS8595","OOO WestCall Ltd.",2
 "AS8732","JSC Comcor",2
@@ -1489,7 +1490,6 @@ ASN,Organization,IP_Count
 "AS6846","Joint Ukrainan-German Enterprise ""INFOCOM"" LLC",1
 "AS6866","Cyprus Telecommunications Authority",1
 "AS7049","Silica Networks Argentina S.A.",1
-"AS7418","TELEFÓNICA CHILE S.A.",1
 "AS7602","Sai gon Postel Corporation",1
 "AS8053","IFX Networks Venezuela C.A.",1
 "AS8100","QuadraNet Enterprises LLC",1
