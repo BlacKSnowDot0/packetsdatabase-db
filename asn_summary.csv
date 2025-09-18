@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87563
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21670
-"AS398324","Censys, Inc.",11098
-"AS396982","Google LLC",9609
+"AS398324","Censys, Inc.",11101
+"AS396982","Google LLC",9610
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7041
+"AS14061","DigitalOcean, LLC",7042
 "AS16276","OVH SAS",5621
 "AS4134","Chinanet",4789
 "AS6568","Entel S.A. - EntelNet",4536
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1139
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS0","",1080
+"AS0","",1082
 "AS201401","NewVM B.V.",1076
 "AS22552","eSited Solutions",1065
 "AS208684","BHA CONSEIL SARL",947
@@ -42,7 +42,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",803
 "AS208046","ColocationX Ltd.",799
 "AS215925","VPSVAULT.HOST LTD",763
-"AS32475","Internap Holding LLC",753
+"AS32475","Internap Holding LLC",754
 "AS23470","ReliableSite.Net LLC",710
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS36352","HostPapa",689
@@ -55,7 +55,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",511
 "AS140292","China Telecom",508
 "AS50360","Tamatiya EOOD",492
-"AS4837","CHINA UNICOM China169 Backbone",489
+"AS4837","CHINA UNICOM China169 Backbone",490
 "AS201814","MEVSPACE sp. z o.o.",472
 "AS212238","Datacamp Limited",454
 "AS51167","Contabo GmbH",440
@@ -723,6 +723,7 @@ ASN,Organization,IP_Count
 "AS213725","UK-03AI",2
 "AS214657","Bls Services Tecnologia em Software Ltda",2
 "AS21479","PJSC Rostelecom",2
+"AS214882","Hadi Santosa",2
 "AS214967","Optibounce, LLC",2
 "AS21497","PrJSC ""VF UKRAINE""",2
 "AS215761","Muhammed Fatih ASAN",2
@@ -1119,7 +1120,6 @@ ASN,Organization,IP_Count
 "AS214364","StreamTech Solutions EOOD",1
 "AS214822","MT FINANCE LLC",1
 "AS214834","Rekade LTD",1
-"AS214882","Hadi Santosa",1
 "AS214902","Philip Fjaera trading as PFWeb Solutions",1
 "AS214918","ESAGAMES HOSTING SHIELD S.R.L.",1
 "AS215026","Alessandro Accorsi trading as Len Service SRL",1
