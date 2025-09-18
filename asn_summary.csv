@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87563
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21666
-"AS398324","Censys, Inc.",11073
+"AS398324","Censys, Inc.",11074
 "AS396982","Google LLC",9605
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7034
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
 "AS0","",1074
-"AS22552","eSited Solutions",1062
+"AS22552","eSited Solutions",1063
 "AS208684","BHA CONSEIL SARL",947
 "AS174","Cogent Communications",931
 "AS51852","Private Layer INC",907
@@ -63,7 +63,7 @@ ASN,Organization,IP_Count
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS51115","HLL LLC",347
+"AS51115","HLL LLC",348
 "AS3462","Chunghwa Telecom Co., Ltd.",335
 "AS21859","Zenlayer Inc",330
 "AS53667","FranTech Solutions",329
@@ -174,8 +174,8 @@ ASN,Organization,IP_Count
 "AS42624","Global-Data System IT Corporation",32
 "AS55990","Huawei Cloud Service data center",32
 "AS12816","Leibniz-Rechenzentrum",31
+"AS149746","PT Blip Integrator Provider",31
 "AS30083","velia.net",31
-"AS149746","PT Blip Integrator Provider",30
 "AS29066","velia.net Internetdienste GmbH",30
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",30
 "AS9198","JSC Kazakhtelecom",30
@@ -311,6 +311,7 @@ ASN,Organization,IP_Count
 "AS48753","AVA HOST SRL",11
 "AS58563","CHINANET Hubei province network",11
 "AS12912","T-Mobile Polska S.A.",10
+"AS141995","Contabo Asia Private Limited",10
 "AS153443","VPSRE.NET LLC",10
 "AS202448","MVPS LTD",10
 "AS24547","China Mobile",10
@@ -325,7 +326,6 @@ ASN,Organization,IP_Count
 "AS60781","LeaseWeb Netherlands B.V.",10
 "AS134420","Chongqing Telecom",9
 "AS135059","Lao Asia Pacific Satellite Co., Ltd.",9
-"AS141995","Contabo Asia Private Limited",9
 "AS149359","PT Persada Data Multimedia",9
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",9
 "AS199414","Noah Kolossa",9
