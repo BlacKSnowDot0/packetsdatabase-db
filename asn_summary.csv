@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",11078
 "AS396982","Google LLC",9605
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7035
+"AS14061","DigitalOcean, LLC",7036
 "AS16276","OVH SAS",5621
 "AS4134","Chinanet",4789
 "AS6568","Entel S.A. - EntelNet",4536
@@ -45,7 +45,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",751
 "AS23470","ReliableSite.Net LLC",710
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
-"AS36352","HostPapa",677
+"AS36352","HostPapa",678
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
@@ -404,6 +404,7 @@ ASN,Organization,IP_Count
 "AS22927","Telefonica de Argentina",6
 "AS23383","METRORED S.A. DE C.V.",6
 "AS25019","Saudi Telecom Company JSC",6
+"AS25490","PJSC Rostelecom",6
 "AS36873","Airtel Networks Limited",6
 "AS37492","Orange Tunisie",6
 "AS37611","Afrihost (Pty) Ltd",6
@@ -443,7 +444,6 @@ ASN,Organization,IP_Count
 "AS213851","Marcel Hanisch",5
 "AS215311","Regxa Company for Information Technology Ltd",5
 "AS215730","H2NEXUS LTD",5
-"AS25490","PJSC Rostelecom",5
 "AS26383","Baxet Group Inc.",5
 "AS265702","AZUL NETWORKS S.R.L",5
 "AS267507","SRX TECNOLOGIA DA INFORMACAO LTDA",5
