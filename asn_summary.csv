@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87565
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21677
-"AS398324","Censys, Inc.",11145
+"AS398324","Censys, Inc.",11147
 "AS396982","Google LLC",9619
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7061
@@ -278,6 +278,7 @@ ASN,Organization,IP_Count
 "AS29465","MTN NIGERIA Communication limited",13
 "AS3269","Telecom Italia S.p.A.",13
 "AS36947","Telecom Algeria",13
+"AS400655","NixLabs Networks",13
 "AS4808","China Unicom Beijing Province Network",13
 "AS4816","China Telecom (Group)",13
 "AS53118","NETLINE TELECOM",13
@@ -290,7 +291,6 @@ ASN,Organization,IP_Count
 "AS2637","Georgia Institute of Technology",12
 "AS35042","Layer7 Networks GmbH",12
 "AS36992","ETISALAT MISR",12
-"AS400655","NixLabs Networks",12
 "AS4713","NTT Communications Corporation",12
 "AS62442","Dade Samane Fanava Company (PJS)",12
 "AS701","Verizon Business",12
