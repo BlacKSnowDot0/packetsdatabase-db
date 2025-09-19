@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87565
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21677
-"AS398324","Censys, Inc.",11139
+"AS398324","Censys, Inc.",11140
 "AS396982","Google LLC",9619
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7054
@@ -17,7 +17,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3163
 "AS51396","Pfcloud UG",3030
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2528
+"AS8075","Microsoft Corporation",2529
 "AS142002","Scloud Pte Ltd",2526
 "AS6939","Hurricane Electric LLC",2183
 "AS9808","China Mobile",2054
@@ -41,7 +41,7 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",803
 "AS208046","ColocationX Ltd.",799
-"AS32475","Internap Holding LLC",769
+"AS32475","Internap Holding LLC",771
 "AS215925","VPSVAULT.HOST LTD",763
 "AS23470","ReliableSite.Net LLC",716
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
@@ -107,7 +107,7 @@ ASN,Organization,IP_Count
 "AS50219","LNK SYSTEMS MUNTENIA SRL",94
 "AS63018","Dedicated.com",92
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",90
-"AS14956","RouterHosting LLC",87
+"AS14956","RouterHosting LLC",88
 "AS58461","Chinanet",85
 "AS205352","KABELNET LTD",82
 "AS200019","ALEXHOST SRL",78
@@ -1018,6 +1018,7 @@ ASN,Organization,IP_Count
 "AS151373","JAPAN 3D PRINTER",1
 "AS151844","INetwork Pvt. Ltd.",1
 "AS153038","Business Zone Limited",1
+"AS15311","Telefonica Empresas",1
 "AS15377","TRADITIONAL LLC",1
 "AS15802","Emirates Integrated Telecommunications Company PJSC",1
 "AS16019","Vodafone Czech Republic a.s.",1
