@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS3462","Chunghwa Telecom Co., Ltd.",335
 "AS21859","Zenlayer Inc",330
 "AS53667","FranTech Solutions",329
-"AS9829","Bharat Sanchar Nigam Ltd",324
+"AS9829","Bharat Sanchar Nigam Ltd",325
 "AS214943","Railnet LLC",311
 "AS24863","LINKdotNET AS number",307
 "AS210848","Telkom Internet LTD",296
@@ -333,6 +333,7 @@ ASN,Organization,IP_Count
 "AS214481","Wojciech Czapkowicz",9
 "AS24835","Vodafone Data - Egypt",9
 "AS32934","Facebook, Inc.",9
+"AS400655","NixLabs Networks",9
 "AS40244","Turnkey Internet Inc.",9
 "AS4847","China Networks Inter-Exchange",9
 "AS48874","HOSTMAZE INC SRL-D",9
@@ -354,7 +355,6 @@ ASN,Organization,IP_Count
 "AS28573","Claro NXT Telecomunicacoes Ltda",8
 "AS328723","Telasera Technologies PTY LTD",8
 "AS38283","CHINANET SiChuan Telecom Internet Data Center",8
-"AS400655","NixLabs Networks",8
 "AS41075","ATW Internet Kft.",8
 "AS41608","NextGenWebs, S.L.",8
 "AS6698","Virtual Systems LLC",8
