@@ -41,11 +41,11 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",803
 "AS208046","ColocationX Ltd.",799
-"AS32475","Internap Holding LLC",772
+"AS32475","Internap Holding LLC",774
 "AS215925","VPSVAULT.HOST LTD",763
 "AS23470","ReliableSite.Net LLC",716
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
-"AS36352","HostPapa",697
+"AS36352","HostPapa",698
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
@@ -1344,6 +1344,7 @@ ASN,Organization,IP_Count
 "AS400619","AROSSCLOUD INC.",1
 "AS400804","Aqueous Cloud LLC",1
 "AS40995","Sibirskie Seti Ltd.",1
+"AS40999","dus.net GmbH",1
 "AS41039","Timer, LLC",1
 "AS41134","PJSC Rostelecom",1
 "AS41631","Comfo LTD",1
