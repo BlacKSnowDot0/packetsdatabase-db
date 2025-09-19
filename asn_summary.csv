@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87565
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21676
-"AS398324","Censys, Inc.",11122
-"AS396982","Google LLC",9614
+"AS398324","Censys, Inc.",11124
+"AS396982","Google LLC",9615
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7048
+"AS14061","DigitalOcean, LLC",7049
 "AS16276","OVH SAS",5625
 "AS4134","Chinanet",4789
 "AS6568","Entel S.A. - EntelNet",4536
@@ -41,7 +41,7 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",803
 "AS208046","ColocationX Ltd.",799
-"AS32475","Internap Holding LLC",766
+"AS32475","Internap Holding LLC",767
 "AS215925","VPSVAULT.HOST LTD",763
 "AS23470","ReliableSite.Net LLC",715
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
@@ -143,9 +143,9 @@ ASN,Organization,IP_Count
 "AS8560","IONOS SE",53
 "AS213877","u1host ltd",51
 "AS8402","PJSC ""Vimpelcom""",51
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",50
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",50
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",49
-"AS199785","Cloud Hosting Solutions, Limited.",48
+"AS199785","Cloud Hosting Solutions, Limited.",49
 "AS266181","GOLDEN LINK",47
 "AS34984","Superonline Iletisim Hizmetleri A.S.",47
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
