@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",11131
 "AS396982","Google LLC",9617
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7049
+"AS14061","DigitalOcean, LLC",7051
 "AS16276","OVH SAS",5626
 "AS4134","Chinanet",4789
 "AS6568","Entel S.A. - EntelNet",4536
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2526
 "AS8075","Microsoft Corporation",2526
-"AS6939","Hurricane Electric LLC",2181
+"AS6939","Hurricane Electric LLC",2182
 "AS9808","China Mobile",2054
 "AS202425","IP Volume inc",1643
 "AS214295","SKYNET NETWORK LTD",1631
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS0","",1108
 "AS201401","NewVM B.V.",1076
-"AS22552","eSited Solutions",1071
+"AS22552","eSited Solutions",1072
 "AS208684","BHA CONSEIL SARL",948
 "AS174","Cogent Communications",934
 "AS51852","Private Layer INC",907
@@ -45,7 +45,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",763
 "AS23470","ReliableSite.Net LLC",715
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
-"AS36352","HostPapa",690
+"AS36352","HostPapa",691
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
@@ -117,8 +117,8 @@ ASN,Organization,IP_Count
 "AS4766","Korea Telecom",74
 "AS56046","China Mobile Communications Corporation",74
 "AS18403","FPT Telecom Company",73
+"AS210125","PRIAM NET Sh.p.k.",73
 "AS27882","Telefónica Celular de Bolivia S.A.",73
-"AS210125","PRIAM NET Sh.p.k.",72
 "AS151185","China Telecom",70
 "AS31898","Oracle Corporation",69
 "AS52053","REDHEBERG Association declaree",69
