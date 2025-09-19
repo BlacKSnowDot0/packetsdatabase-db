@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87565
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21677
-"AS398324","Censys, Inc.",11137
+"AS398324","Censys, Inc.",11138
 "AS396982","Google LLC",9619
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7053
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1076
 "AS22552","eSited Solutions",1073
 "AS208684","BHA CONSEIL SARL",948
-"AS174","Cogent Communications",934
+"AS174","Cogent Communications",935
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -45,7 +45,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",763
 "AS23470","ReliableSite.Net LLC",716
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
-"AS36352","HostPapa",693
+"AS36352","HostPapa",696
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
@@ -137,11 +137,11 @@ ASN,Organization,IP_Count
 "AS18345","Servers Australia Pty. Ltd",55
 "AS11320","LightEdge Solutions",54
 "AS57588","Hayat for Internet & communication LLC",54
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",53
 "AS271795","SERVITELCONET CIA. LTDA.",53
 "AS44382","Fiba Cloud Operation Company, LLC",53
 "AS47331","TTNet A.S.",53
 "AS8560","IONOS SE",53
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",52
 "AS213877","u1host ltd",51
 "AS8402","PJSC ""Vimpelcom""",51
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",50
@@ -297,6 +297,7 @@ ASN,Organization,IP_Count
 "AS12874","Fastweb SpA",11
 "AS141995","Contabo Asia Private Limited",11
 "AS200651","FlokiNET ehf",11
+"AS202448","MVPS LTD",11
 "AS205119","TELEKS DOOEL Skopje",11
 "AS206804","EstNOC OY",11
 "AS2116","GLOBALCONNECT AS",11
@@ -307,6 +308,7 @@ ASN,Organization,IP_Count
 "AS37457","Telkom SA Ltd.",11
 "AS38264","Wateen Telecom Limited",11
 "AS39351","31173 Services AB",11
+"AS400655","NixLabs Networks",11
 "AS41436","Kamatera Inc",11
 "AS41745","Baykov Ilya Sergeevich",11
 "AS45820","TTSL-ISP DIVISION",11
@@ -314,11 +316,9 @@ ASN,Organization,IP_Count
 "AS58563","CHINANET Hubei province network",11
 "AS12912","T-Mobile Polska S.A.",10
 "AS153443","VPSRE.NET LLC",10
-"AS202448","MVPS LTD",10
 "AS24547","China Mobile",10
 "AS2914","NTT America, Inc.",10
 "AS30823","aurologic GmbH",10
-"AS400655","NixLabs Networks",10
 "AS41420","Xentech B.V.",10
 "AS44901","Belcloud LTD",10
 "AS4760","PCCW IMS Limited",10
