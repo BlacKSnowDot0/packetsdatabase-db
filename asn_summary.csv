@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",11140
 "AS396982","Google LLC",9619
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7054
+"AS14061","DigitalOcean, LLC",7060
 "AS16276","OVH SAS",5627
 "AS4134","Chinanet",4789
 "AS6568","Entel S.A. - EntelNet",4536
@@ -23,19 +23,19 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2054
 "AS202425","IP Volume inc",1643
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1470
+"AS209605","UAB Host Baltic",1471
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS398722","Censys, Inc.",1315
+"AS398722","Censys, Inc.",1316
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1215
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1139
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS0","",1109
+"AS0","",1110
 "AS201401","NewVM B.V.",1076
 "AS22552","eSited Solutions",1073
 "AS208684","BHA CONSEIL SARL",948
-"AS174","Cogent Communications",935
+"AS174","Cogent Communications",936
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -58,7 +58,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",491
 "AS201814","MEVSPACE sp. z o.o.",472
 "AS212238","Datacamp Limited",454
-"AS20052","Arbor Networks, Inc.",444
+"AS20052","Arbor Networks, Inc.",445
 "AS51167","Contabo GmbH",442
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",404
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS3462","Chunghwa Telecom Co., Ltd.",335
 "AS21859","Zenlayer Inc",330
 "AS53667","FranTech Solutions",329
-"AS9829","Bharat Sanchar Nigam Ltd",326
+"AS9829","Bharat Sanchar Nigam Ltd",327
 "AS214943","Railnet LLC",311
 "AS24863","LINKdotNET AS number",307
 "AS210848","Telkom Internet LTD",296
