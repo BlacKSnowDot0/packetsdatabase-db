@@ -1,9 +1,9 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87564
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
-"AS211298","Driftnet Ltd",21675
-"AS398324","Censys, Inc.",11117
-"AS396982","Google LLC",9613
+"AS211298","Driftnet Ltd",21676
+"AS398324","Censys, Inc.",11119
+"AS396982","Google LLC",9614
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7048
 "AS16276","OVH SAS",5625
@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3473
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
-"AS51396","Pfcloud UG",3029
+"AS51396","Pfcloud UG",3030
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2526
 "AS8075","Microsoft Corporation",2526
@@ -31,9 +31,9 @@ ASN,Organization,IP_Count
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1139
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS0","",1105
+"AS0","",1106
 "AS201401","NewVM B.V.",1076
-"AS22552","eSited Solutions",1067
+"AS22552","eSited Solutions",1068
 "AS208684","BHA CONSEIL SARL",948
 "AS174","Cogent Communications",934
 "AS51852","Private Layer INC",907
@@ -140,7 +140,7 @@ ASN,Organization,IP_Count
 "AS271795","SERVITELCONET CIA. LTDA.",53
 "AS44382","Fiba Cloud Operation Company, LLC",53
 "AS47331","TTNet A.S.",53
-"AS8560","IONOS SE",52
+"AS8560","IONOS SE",53
 "AS213877","u1host ltd",51
 "AS8402","PJSC ""Vimpelcom""",51
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",50
