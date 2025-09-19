@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87565
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21677
-"AS398324","Censys, Inc.",11151
-"AS396982","Google LLC",9619
+"AS398324","Censys, Inc.",11152
+"AS396982","Google LLC",9620
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7062
 "AS16276","OVH SAS",5627
@@ -40,7 +40,7 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",803
-"AS208046","ColocationX Ltd.",799
+"AS208046","ColocationX Ltd.",800
 "AS32475","Internap Holding LLC",774
 "AS215925","VPSVAULT.HOST LTD",763
 "AS23470","ReliableSite.Net LLC",716
@@ -247,6 +247,7 @@ ASN,Organization,IP_Count
 "AS45117","Ishan's Network",17
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",17
 "AS56630","Melbikomas UAB",17
+"AS9123","TimeWeb Ltd.",17
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",16
 "AS200514","KnownSRV Ltd.",16
 "AS206092","Internet Utilities Europe and Asia Limited",16
@@ -255,7 +256,6 @@ ASN,Organization,IP_Count
 "AS46261","QuickPacket, LLC",16
 "AS50340","JSC Selectel",16
 "AS6597","Coloblox Data Centers Inc",16
-"AS9123","TimeWeb Ltd.",16
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",15
 "AS136515","Dasca Cable Services, Inc.",15
 "AS207713","GLOBAL INTERNET SOLUTIONS LLC",15
@@ -269,6 +269,7 @@ ASN,Organization,IP_Count
 "AS204104","Giti Secure Cloud LLC",14
 "AS329490","Promethean Consulting Limited",14
 "AS39603","P4 Sp. z o.o.",14
+"AS400655","NixLabs Networks",14
 "AS45758","Triple T Broadband Public Company Limited",14
 "AS48721","Flyservers S.A.",14
 "AS213194","Nechaev Dmitry Sergeevich",13
@@ -278,7 +279,6 @@ ASN,Organization,IP_Count
 "AS29465","MTN NIGERIA Communication limited",13
 "AS3269","Telecom Italia S.p.A.",13
 "AS36947","Telecom Algeria",13
-"AS400655","NixLabs Networks",13
 "AS4808","China Unicom Beijing Province Network",13
 "AS4816","China Telecom (Group)",13
 "AS53118","NETLINE TELECOM",13
