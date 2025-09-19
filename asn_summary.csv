@@ -2,15 +2,15 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87564
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21675
-"AS398324","Censys, Inc.",11113
-"AS396982","Google LLC",9612
+"AS398324","Censys, Inc.",11117
+"AS396982","Google LLC",9613
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7047
-"AS16276","OVH SAS",5624
+"AS14061","DigitalOcean, LLC",7048
+"AS16276","OVH SAS",5625
 "AS4134","Chinanet",4789
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4410
-"AS16509","Amazon.com, Inc.",3835
+"AS16509","Amazon.com, Inc.",3836
 "AS45102","Alibaba (US) Technology Co., Ltd.",3494
 "AS63949","Akamai Technologies, Inc.",3473
 "AS398705","Censys, Inc.",3238
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1139
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS0","",1103
+"AS0","",1105
 "AS201401","NewVM B.V.",1076
 "AS22552","eSited Solutions",1067
 "AS208684","BHA CONSEIL SARL",948
@@ -41,7 +41,7 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",803
 "AS208046","ColocationX Ltd.",799
-"AS32475","Internap Holding LLC",764
+"AS32475","Internap Holding LLC",765
 "AS215925","VPSVAULT.HOST LTD",763
 "AS23470","ReliableSite.Net LLC",714
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
-"AS10439","CariNet, Inc.",523
+"AS10439","CariNet, Inc.",524
 "AS14618","Amazon.com, Inc.",523
 "AS401120","cheapy.host LLC",521
 "AS9009","M247 Europe SRL",511
@@ -255,6 +255,7 @@ ASN,Organization,IP_Count
 "AS46261","QuickPacket, LLC",16
 "AS50340","JSC Selectel",16
 "AS6597","Coloblox Data Centers Inc",16
+"AS9123","TimeWeb Ltd.",16
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",15
 "AS136515","Dasca Cable Services, Inc.",15
 "AS207713","GLOBAL INTERNET SOLUTIONS LLC",15
@@ -264,7 +265,6 @@ ASN,Organization,IP_Count
 "AS31113","Artkomm LLC",15
 "AS397283","RocketNode Inc",15
 "AS49531","""NetCom-R"" LLC",15
-"AS9123","TimeWeb Ltd.",15
 "AS136142","Enigma Fiber Pvt Ltd",14
 "AS329490","Promethean Consulting Limited",14
 "AS39603","P4 Sp. z o.o.",14
