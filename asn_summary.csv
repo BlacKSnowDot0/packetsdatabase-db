@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87569
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21680
-"AS398324","Censys, Inc.",11194
+"AS398324","Censys, Inc.",11196
 "AS396982","Google LLC",9627
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7073
-"AS16276","OVH SAS",5629
+"AS16276","OVH SAS",5630
 "AS4134","Chinanet",4790
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4410
@@ -23,7 +23,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2056
 "AS202425","IP Volume inc",1644
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1471
+"AS209605","UAB Host Baltic",1472
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1316
 "AS215269","LAZYCLOUD LTD",1312
@@ -44,7 +44,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",783
 "AS215925","VPSVAULT.HOST LTD",764
 "AS23470","ReliableSite.Net LLC",720
-"AS36352","HostPapa",718
+"AS36352","HostPapa",719
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
@@ -76,8 +76,8 @@ ASN,Organization,IP_Count
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",272
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",253
 "AS47890","UNMANAGED LTD",251
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",249
 "AS48090","TECHOFF SRV LIMITED",249
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",248
 "AS60223","Netiface Limited",247
 "AS209272","Alviva Holding Limited",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
@@ -244,6 +244,7 @@ ASN,Organization,IP_Count
 "AS148981","China Telecom",17
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
+"AS400655","NixLabs Networks",17
 "AS45117","Ishan's Network",17
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",17
 "AS56630","Melbikomas UAB",17
@@ -253,7 +254,6 @@ ASN,Organization,IP_Count
 "AS206092","Internet Utilities Europe and Asia Limited",16
 "AS25198","INTERKVM HOST SRL",16
 "AS3320","Deutsche Telekom AG",16
-"AS400655","NixLabs Networks",16
 "AS46261","QuickPacket, LLC",16
 "AS50340","JSC Selectel",16
 "AS6597","Coloblox Data Centers Inc",16
