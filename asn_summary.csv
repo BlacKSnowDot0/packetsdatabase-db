@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87565
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21678
-"AS398324","Censys, Inc.",11160
+"AS398324","Censys, Inc.",11163
 "AS396982","Google LLC",9621
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7066
@@ -119,7 +119,7 @@ ASN,Organization,IP_Count
 "AS18403","FPT Telecom Company",73
 "AS210125","PRIAM NET Sh.p.k.",73
 "AS27882","Telefónica Celular de Bolivia S.A.",73
-"AS151185","China Telecom",70
+"AS151185","China Telecom",71
 "AS31898","Oracle Corporation",69
 "AS52053","REDHEBERG Association declaree",69
 "AS16735","ALGAR TELECOM S/A",68
@@ -272,6 +272,7 @@ ASN,Organization,IP_Count
 "AS39603","P4 Sp. z o.o.",14
 "AS45758","Triple T Broadband Public Company Limited",14
 "AS48721","Flyservers S.A.",14
+"AS53118","NETLINE TELECOM",14
 "AS213194","Nechaev Dmitry Sergeevich",13
 "AS24940","Hetzner Online GmbH",13
 "AS25369","Hydra Communications Ltd",13
@@ -281,7 +282,6 @@ ASN,Organization,IP_Count
 "AS36947","Telecom Algeria",13
 "AS4808","China Unicom Beijing Province Network",13
 "AS4816","China Telecom (Group)",13
-"AS53118","NETLINE TELECOM",13
 "AS12400","Partner Communications Ltd.",12
 "AS140726","China Unicom",12
 "AS17621","China Unicom Shanghai network",12
