@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4410
 "AS16509","Amazon.com, Inc.",3836
-"AS45102","Alibaba (US) Technology Co., Ltd.",3506
+"AS45102","Alibaba (US) Technology Co., Ltd.",3509
 "AS63949","Akamai Technologies, Inc.",3473
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
@@ -617,6 +617,7 @@ ASN,Organization,IP_Count
 "AS50274","Alfanet LLC",3
 "AS5065","Bunny Communications",3
 "AS55699","PT. Cemerlang Multimedia",3
+"AS56067","Metrabyte Co.,Ltd",3
 "AS5607","Sky UK Limited",3
 "AS56694","LLC Smart Ape",3
 "AS57269","DIGI SPAIN TELECOM S.L.U.",3
@@ -857,7 +858,6 @@ ASN,Organization,IP_Count
 "AS5410","Bouygues Telecom SA",2
 "AS5483","Magyar Telekom plc.",2
 "AS55341","51/A RACHNA MIDAS GOKULPETH",2
-"AS56067","Metrabyte Co.,Ltd",2
 "AS5610","O2 Czech Republic, a.s.",2
 "AS56272","Pulse Telesystems Pvt Ltd",2
 "AS5650","Frontier Communications of America, Inc.",2
