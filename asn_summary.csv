@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87567
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21680
-"AS398324","Censys, Inc.",11180
+"AS398324","Censys, Inc.",11182
 "AS396982","Google LLC",9626
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7071
-"AS16276","OVH SAS",5628
+"AS16276","OVH SAS",5629
 "AS4134","Chinanet",4790
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4410
@@ -50,7 +50,7 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS14618","Amazon.com, Inc.",527
 "AS198953","Proton66 OOO",527
-"AS10439","CariNet, Inc.",525
+"AS10439","CariNet, Inc.",526
 "AS401120","cheapy.host LLC",521
 "AS9009","M247 Europe SRL",512
 "AS140292","China Telecom",508
@@ -127,8 +127,8 @@ ASN,Organization,IP_Count
 "AS40021","Nubes, LLC",66
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
+"AS136435","ELITE COMMUNICATION",61
 "AS140717","China Unicom",61
-"AS136435","ELITE COMMUNICATION",60
 "AS3920","ESTOXY OU",60
 "AS4812","China Telecom (Group)",58
 "AS20278","Nexeon Technologies, Inc.",57
@@ -382,6 +382,7 @@ ASN,Organization,IP_Count
 "AS63838","Hengyang",7
 "AS7303","Telecom Argentina S.A.",7
 "AS7922","Comcast Cable Communications, LLC",7
+"AS8796","FD-298-8796",7
 "AS9038","Batelco Jordan",7
 "AS9658","Eastern Telecommunications Philippines, Inc.",7
 "AS12322","Free SAS",6
@@ -423,7 +424,6 @@ ASN,Organization,IP_Count
 "AS63023","GTHost",6
 "AS6849","JSC ""Ukrtelecom""",6
 "AS812","Rogers Communications Canada Inc.",6
-"AS8796","FD-298-8796",6
 "AS9770","LG HelloVision Corp.",6
 "AS9873","Lao Telecommunication Public Company",6
 "AS9981","Saero Network Service LTD",6
