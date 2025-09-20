@@ -2,22 +2,22 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87569
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21682
-"AS398324","Censys, Inc.",11201
-"AS396982","Google LLC",9633
+"AS398324","Censys, Inc.",11202
+"AS396982","Google LLC",9635
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7076
+"AS14061","DigitalOcean, LLC",7077
 "AS16276","OVH SAS",5630
 "AS4134","Chinanet",4790
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4410
 "AS16509","Amazon.com, Inc.",3836
 "AS45102","Alibaba (US) Technology Co., Ltd.",3510
-"AS63949","Akamai Technologies, Inc.",3473
+"AS63949","Akamai Technologies, Inc.",3474
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
 "AS51396","Pfcloud UG",3032
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2530
+"AS8075","Microsoft Corporation",2531
 "AS142002","Scloud Pte Ltd",2526
 "AS6939","Hurricane Electric LLC",2190
 "AS9808","China Mobile",2056
@@ -25,14 +25,14 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1472
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS398722","Censys, Inc.",1316
+"AS398722","Censys, Inc.",1317
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1216
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS0","",1111
-"AS22552","eSited Solutions",1084
+"AS22552","eSited Solutions",1085
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",949
 "AS174","Cogent Communications",938
@@ -106,7 +106,7 @@ ASN,Organization,IP_Count
 "AS42237","w1n ltd",104
 "AS50219","LNK SYSTEMS MUNTENIA SRL",95
 "AS63018","Dedicated.com",92
-"AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",91
+"AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",92
 "AS14956","RouterHosting LLC",88
 "AS58461","Chinanet",85
 "AS205352","KABELNET LTD",83
@@ -177,12 +177,12 @@ ASN,Organization,IP_Count
 "AS149746","PT Blip Integrator Provider",31
 "AS30083","velia.net",31
 "AS29066","velia.net Internetdienste GmbH",30
+"AS44592","SkyLink Data Center BV",30
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",30
 "AS9198","JSC Kazakhtelecom",30
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",29
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",29
 "AS263355","GTR NET COMUNICACOES EIRELI",29
-"AS44592","SkyLink Data Center BV",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS141679","China Telecom",28
