@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",11182
 "AS396982","Google LLC",9626
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7071
+"AS14061","DigitalOcean, LLC",7072
 "AS16276","OVH SAS",5629
 "AS4134","Chinanet",4790
 "AS6568","Entel S.A. - EntelNet",4536
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS0","",1110
-"AS22552","eSited Solutions",1083
+"AS22552","eSited Solutions",1084
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",949
 "AS174","Cogent Communications",938
@@ -120,9 +120,9 @@ ASN,Organization,IP_Count
 "AS210125","PRIAM NET Sh.p.k.",73
 "AS27882","Telefónica Celular de Bolivia S.A.",73
 "AS151185","China Telecom",72
+"AS16735","ALGAR TELECOM S/A",69
 "AS31898","Oracle Corporation",69
 "AS52053","REDHEBERG Association declaree",69
-"AS16735","ALGAR TELECOM S/A",68
 "AS328867","Corebach Backbone SARL",67
 "AS40021","Nubes, LLC",66
 "AS398101","GoDaddy.com, LLC",65
