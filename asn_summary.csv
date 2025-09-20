@@ -3,9 +3,9 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21680
 "AS398324","Censys, Inc.",11199
-"AS396982","Google LLC",9627
+"AS396982","Google LLC",9628
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7074
+"AS14061","DigitalOcean, LLC",7075
 "AS16276","OVH SAS",5630
 "AS4134","Chinanet",4790
 "AS6568","Entel S.A. - EntelNet",4536
@@ -41,7 +41,7 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",803
 "AS208046","ColocationX Ltd.",801
-"AS32475","Internap Holding LLC",783
+"AS32475","Internap Holding LLC",787
 "AS215925","VPSVAULT.HOST LTD",764
 "AS23470","ReliableSite.Net LLC",721
 "AS36352","HostPapa",719
@@ -114,10 +114,10 @@ ASN,Organization,IP_Count
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS28209","Under Servicos de Internet Ltda",75
 "AS32475","SingleHop LLC",75
+"AS210125","PRIAM NET Sh.p.k.",74
 "AS4766","Korea Telecom",74
 "AS56046","China Mobile Communications Corporation",74
 "AS18403","FPT Telecom Company",73
-"AS210125","PRIAM NET Sh.p.k.",73
 "AS27882","Telefónica Celular de Bolivia S.A.",73
 "AS151185","China Telecom",72
 "AS16735","ALGAR TELECOM S/A",69
@@ -574,6 +574,7 @@ ASN,Organization,IP_Count
 "AS207083","HostSlim B.V.",3
 "AS211826","Istqrar for Servers Services Ltd",3
 "AS212042","Istqrar for Servers Services Ltd",3
+"AS212913","FOP Hornostay Mykhaylo Ivanovych",3
 "AS213354","INTERNATIONAL HOSTING SOLUTIONS LLP",3
 "AS21499","Host Europe GmbH",3
 "AS22418","Cologuard",3
@@ -720,7 +721,6 @@ ASN,Organization,IP_Count
 "AS211860","Nerushenko Vyacheslav Nikolaevich",2
 "AS211895","Serverius Holding B.V.",2
 "AS212552","BitCommand LLC",2
-"AS212913","FOP Hornostay Mykhaylo Ivanovych",2
 "AS213186","Yanoor Islam Khan",2
 "AS213725","UK-03AI",2
 "AS214657","Bls Services Tecnologia em Software Ltda",2
