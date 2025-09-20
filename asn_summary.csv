@@ -3,7 +3,7 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21682
 "AS398324","Censys, Inc.",11202
-"AS396982","Google LLC",9635
+"AS396982","Google LLC",9636
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7077
 "AS16276","OVH SAS",5630
@@ -17,7 +17,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3163
 "AS51396","Pfcloud UG",3032
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2531
+"AS8075","Microsoft Corporation",2532
 "AS142002","Scloud Pte Ltd",2526
 "AS6939","Hurricane Electric LLC",2190
 "AS9808","China Mobile",2056
@@ -27,12 +27,12 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1317
 "AS215269","LAZYCLOUD LTD",1312
-"AS49870","Alsycon B.V.",1216
+"AS49870","Alsycon B.V.",1218
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS0","",1111
-"AS22552","eSited Solutions",1085
+"AS22552","eSited Solutions",1086
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",949
 "AS174","Cogent Communications",938
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",527
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",521
-"AS9009","M247 Europe SRL",512
+"AS9009","M247 Europe SRL",513
 "AS140292","China Telecom",508
 "AS50360","Tamatiya EOOD",492
 "AS4837","CHINA UNICOM China169 Backbone",491
@@ -85,7 +85,7 @@ ASN,Organization,IP_Count
 "AS7713","Telekomunikasi Indonesia (PT)",210
 "AS13335","Cloudflare, Inc.",207
 "AS208843","Alpha Strike Labs GmbH",189
-"AS213613","BOTSHIELD LTD",178
+"AS213613","BOTSHIELD LTD",179
 "AS141718","haoxiangyun",171
 "AS401116","Nybula LLC",170
 "AS12389","PJSC Rostelecom",169
@@ -146,8 +146,8 @@ ASN,Organization,IP_Count
 "AS8402","PJSC ""Vimpelcom""",51
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",50
 "AS199785","Cloud Hosting Solutions, Limited.",49
+"AS34984","Superonline Iletisim Hizmetleri A.S.",48
 "AS266181","GOLDEN LINK",47
-"AS34984","Superonline Iletisim Hizmetleri A.S.",47
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
 "AS215590","DpkgSoft International Limited",46
 "AS55720","Gigabit Hosting Sdn Bhd",45
@@ -316,6 +316,7 @@ ASN,Organization,IP_Count
 "AS48753","AVA HOST SRL",11
 "AS58563","CHINANET Hubei province network",11
 "AS12912","T-Mobile Polska S.A.",10
+"AS134420","Chongqing Telecom",10
 "AS153443","VPSRE.NET LLC",10
 "AS24547","China Mobile",10
 "AS30823","aurologic GmbH",10
@@ -325,7 +326,6 @@ ASN,Organization,IP_Count
 "AS48925","VibeGAMES B.V.",10
 "AS49434","FBW NETWORKS SAS",10
 "AS60781","LeaseWeb Netherlands B.V.",10
-"AS134420","Chongqing Telecom",9
 "AS135059","Lao Asia Pacific Satellite Co., Ltd.",9
 "AS149359","PT Persada Data Multimedia",9
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",9
@@ -397,6 +397,7 @@ ASN,Organization,IP_Count
 "AS17754","Excellmedia",6
 "AS18881","TELEFÔNICA BRASIL S.A",6
 "AS20115","Charter Communications",6
+"AS202520","SkyPass Solutions Sp. z.o.o.",6
 "AS203020","HostRoyale Technologies Pvt Ltd",6
 "AS204834","Shabakieh Isfahan Co PJSC",6
 "AS211507","Julian Achter",6
@@ -438,7 +439,6 @@ ASN,Organization,IP_Count
 "AS18229","CtrlS",5
 "AS198983","Joseph Hofmann trading as 'Tornado Datacenter GmbH & Co. KG'",5
 "AS202468","Noyan Abr Arvan Co. ( Private Joint Stock)",5
-"AS202520","SkyPass Solutions Sp. z.o.o.",5
 "AS207656","Epinatura LLC",5
 "AS210538","KEYUBU Internet ve Bilisim Tic. Ltd. Sti.",5
 "AS21056","Vianova S.p.A",5
@@ -858,6 +858,7 @@ ASN,Organization,IP_Count
 "AS5410","Bouygues Telecom SA",2
 "AS5483","Magyar Telekom plc.",2
 "AS55341","51/A RACHNA MIDAS GOKULPETH",2
+"AS56047","China Mobile Communications Corporation",2
 "AS5610","O2 Czech Republic, a.s.",2
 "AS56272","Pulse Telesystems Pvt Ltd",2
 "AS5650","Frontier Communications of America, Inc.",2
@@ -1442,7 +1443,6 @@ ASN,Organization,IP_Count
 "AS55821","RADIUS TELECOMS, INC.",1
 "AS55824","National Knowledge Network",1
 "AS56040","China Mobile Communications Corporation",1
-"AS56047","China Mobile Communications Corporation",1
 "AS56048","China Mobile Communications Corporation",1
 "AS56150","Viet Solutions Services Trading Company Limited",1
 "AS56231","MEASAT Broadcast Network Systems Sdn. Bhd.",1
