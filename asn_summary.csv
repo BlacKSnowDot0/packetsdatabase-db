@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87565
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21678
-"AS398324","Censys, Inc.",11166
-"AS396982","Google LLC",9624
+"AS398324","Censys, Inc.",11168
+"AS396982","Google LLC",9625
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7066
 "AS16276","OVH SAS",5628
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2530
 "AS142002","Scloud Pte Ltd",2526
-"AS6939","Hurricane Electric LLC",2187
+"AS6939","Hurricane Electric LLC",2188
 "AS9808","China Mobile",2055
 "AS202425","IP Volume inc",1644
 "AS214295","SKYNET NETWORK LTD",1631
@@ -58,7 +58,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",491
 "AS201814","MEVSPACE sp. z o.o.",472
 "AS212238","Datacamp Limited",454
-"AS20052","Arbor Networks, Inc.",446
+"AS20052","Arbor Networks, Inc.",447
 "AS51167","Contabo GmbH",442
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",404
@@ -155,7 +155,7 @@ ASN,Organization,IP_Count
 "AS46844","Sharktech",44
 "AS150263","PT Alnet Telekomunikasi Indonesia",43
 "AS152194","CTG Server Limited",43
-"AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",42
+"AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",43
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS396356","Latitude.sh",41
 "AS7552","Viettel Group",40
@@ -825,6 +825,7 @@ ASN,Organization,IP_Count
 "AS45544","SUPERDATA-VN",2
 "AS45557","Vietnam Technology and Telecommunication JSC",2
 "AS45595","Pakistan Telecom Company Limited",2
+"AS45753","Netsec Limited",2
 "AS45773","HEC",2
 "AS4609","Companhia de Telecomunicacoes de Macau",2
 "AS4618","Internet Thailand Company Ltd.",2
@@ -1378,7 +1379,6 @@ ASN,Organization,IP_Count
 "AS45356","Mobitel Pvt Ltd",1
 "AS45499","Cablelink Internet Sservices Inc.",1
 "AS45582","VAINAVI INDUSTIES LTD, INTERNET SERVICE PROVIDER, INDIA",1
-"AS45753","Netsec Limited",1
 "AS45775","WISH NET PRIVATE LIMITED",1
 "AS45804","Meghbela Cable & Broadband Services (P) Ltd",1
 "AS45903","CMC Telecom Infrastructure Company",1
