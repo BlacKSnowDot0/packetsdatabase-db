@@ -6,7 +6,7 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",9620
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7062
-"AS16276","OVH SAS",5627
+"AS16276","OVH SAS",5628
 "AS4134","Chinanet",4789
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4410
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2530
 "AS142002","Scloud Pte Ltd",2526
-"AS6939","Hurricane Electric LLC",2183
+"AS6939","Hurricane Electric LLC",2185
 "AS9808","China Mobile",2054
 "AS202425","IP Volume inc",1644
 "AS214295","SKYNET NETWORK LTD",1631
@@ -50,7 +50,7 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS198953","Proton66 OOO",527
 "AS10439","CariNet, Inc.",525
-"AS14618","Amazon.com, Inc.",524
+"AS14618","Amazon.com, Inc.",525
 "AS401120","cheapy.host LLC",521
 "AS9009","M247 Europe SRL",512
 "AS140292","China Telecom",508
@@ -68,10 +68,10 @@ ASN,Organization,IP_Count
 "AS21859","Zenlayer Inc",330
 "AS53667","FranTech Solutions",329
 "AS9829","Bharat Sanchar Nigam Ltd",327
-"AS214943","Railnet LLC",311
+"AS214943","Railnet LLC",312
 "AS24863","LINKdotNET AS number",307
 "AS210848","Telkom Internet LTD",296
-"AS12876","ONLINE S.A.S.",282
+"AS12876","ONLINE S.A.S.",283
 "AS9341","PT Indonesia Comnets Plus",278
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",272
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",253
@@ -150,9 +150,9 @@ ASN,Organization,IP_Count
 "AS34984","Superonline Iletisim Hizmetleri A.S.",47
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
 "AS215590","DpkgSoft International Limited",45
+"AS55720","Gigabit Hosting Sdn Bhd",45
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
-"AS55720","Gigabit Hosting Sdn Bhd",44
 "AS150263","PT Alnet Telekomunikasi Indonesia",43
 "AS152194","CTG Server Limited",43
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",42
