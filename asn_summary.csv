@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87565
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21678
-"AS398324","Censys, Inc.",11163
-"AS396982","Google LLC",9621
+"AS398324","Censys, Inc.",11164
+"AS396982","Google LLC",9622
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7066
 "AS16276","OVH SAS",5628
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2530
 "AS142002","Scloud Pte Ltd",2526
-"AS6939","Hurricane Electric LLC",2186
+"AS6939","Hurricane Electric LLC",2187
 "AS9808","China Mobile",2055
 "AS202425","IP Volume inc",1644
 "AS214295","SKYNET NETWORK LTD",1631
@@ -41,7 +41,7 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",803
 "AS208046","ColocationX Ltd.",801
-"AS32475","Internap Holding LLC",780
+"AS32475","Internap Holding LLC",781
 "AS215925","VPSVAULT.HOST LTD",763
 "AS23470","ReliableSite.Net LLC",719
 "AS36352","HostPapa",710
@@ -253,6 +253,7 @@ ASN,Organization,IP_Count
 "AS206092","Internet Utilities Europe and Asia Limited",16
 "AS25198","INTERKVM HOST SRL",16
 "AS3320","Deutsche Telekom AG",16
+"AS400655","NixLabs Networks",16
 "AS46261","QuickPacket, LLC",16
 "AS50340","JSC Selectel",16
 "AS6597","Coloblox Data Centers Inc",16
@@ -264,7 +265,6 @@ ASN,Organization,IP_Count
 "AS272547","Servicos de Infraestrutura e Datacenter",15
 "AS31113","Artkomm LLC",15
 "AS397283","RocketNode Inc",15
-"AS400655","NixLabs Networks",15
 "AS49531","""NetCom-R"" LLC",15
 "AS136142","Enigma Fiber Pvt Ltd",14
 "AS204104","Giti Secure Cloud LLC",14
@@ -744,6 +744,7 @@ ASN,Organization,IP_Count
 "AS24739","JSC ""Severen-Telecom""",2
 "AS24945","Telecommunication Company Vinteleport Ltd.",2
 "AS24961","WIIT AG",2
+"AS25084","Politechnika Czestochowska",2
 "AS25159","PJSC MegaFon",2
 "AS2516","KDDI CORPORATION",2
 "AS2519","ARTERIA Networks Corporation",2
@@ -1156,7 +1157,6 @@ ASN,Organization,IP_Count
 "AS24631","Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS",1
 "AS24722","LLC Babilon-T",1
 "AS24758","Mikroel Ltd",1
-"AS25084","Politechnika Czestochowska",1
 "AS2518","BIGLOBE Inc.",1
 "AS25403","Firm Delta PE",1
 "AS25472","Nova Telecommunications & Media Single Member S.A",1
