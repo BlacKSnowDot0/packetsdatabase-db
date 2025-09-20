@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87569
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21682
-"AS398324","Censys, Inc.",11207
-"AS396982","Google LLC",9640
+"AS398324","Censys, Inc.",11209
+"AS396982","Google LLC",9642
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7077
 "AS16276","OVH SAS",5630
@@ -17,7 +17,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3163
 "AS51396","Pfcloud UG",3032
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2534
+"AS8075","Microsoft Corporation",2535
 "AS142002","Scloud Pte Ltd",2526
 "AS6939","Hurricane Electric LLC",2190
 "AS9808","China Mobile",2056
@@ -674,6 +674,7 @@ ASN,Organization,IP_Count
 "AS140425","DINAS KOMUNIKASI DAN INFORMATIKA KABUPATEN DEMAK",2
 "AS140791","BKHOST TECHNOLOGY VIETNAM JOINT STOCK COMPANY",2
 "AS141215","Dotcom International Pvt. Limited",2
+"AS141433","Netcom Internet Service",2
 "AS141965","Diskominfo Kota Pasuruan",2
 "AS142594","SpeedyPage Ltd",2
 "AS146966","China Telecom",2
@@ -994,7 +995,6 @@ ASN,Organization,IP_Count
 "AS140869","Turing Group Limited",1
 "AS141265","Nextgen Broadband Private Limited",1
 "AS141312","Aspirare Technologies Private Limited",1
-"AS141433","Netcom Internet Service",1
 "AS141549","Kerala State Information Technology Infrastructure Limited",1
 "AS141778","Dream Internet Services Pvt Ltd",1
 "AS141807","LALITHAONLINE SERVICES",1
