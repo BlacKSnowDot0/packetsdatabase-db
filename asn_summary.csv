@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87569
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21682
-"AS398324","Censys, Inc.",11200
-"AS396982","Google LLC",9628
+"AS398324","Censys, Inc.",11201
+"AS396982","Google LLC",9630
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7075
 "AS16276","OVH SAS",5630
@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4410
 "AS16509","Amazon.com, Inc.",3836
-"AS45102","Alibaba (US) Technology Co., Ltd.",3509
+"AS45102","Alibaba (US) Technology Co., Ltd.",3510
 "AS63949","Akamai Technologies, Inc.",3473
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
@@ -44,7 +44,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",787
 "AS215925","VPSVAULT.HOST LTD",764
 "AS23470","ReliableSite.Net LLC",721
-"AS36352","HostPapa",719
+"AS36352","HostPapa",720
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
@@ -269,6 +269,7 @@ ASN,Organization,IP_Count
 "AS136142","Enigma Fiber Pvt Ltd",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS329490","Promethean Consulting Limited",14
+"AS36947","Telecom Algeria",14
 "AS39603","P4 Sp. z o.o.",14
 "AS45758","Triple T Broadband Public Company Limited",14
 "AS4816","China Telecom (Group)",14
@@ -280,7 +281,6 @@ ASN,Organization,IP_Count
 "AS28840","PJSC ""TATTELECOM""",13
 "AS29465","MTN NIGERIA Communication limited",13
 "AS3269","Telecom Italia S.p.A.",13
-"AS36947","Telecom Algeria",13
 "AS4808","China Unicom Beijing Province Network",13
 "AS12400","Partner Communications Ltd.",12
 "AS140726","China Unicom",12
