@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87569
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21682
-"AS398324","Censys, Inc.",11203
-"AS396982","Google LLC",9638
+"AS398324","Censys, Inc.",11207
+"AS396982","Google LLC",9640
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7077
 "AS16276","OVH SAS",5630
@@ -11,13 +11,13 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4410
 "AS16509","Amazon.com, Inc.",3836
-"AS45102","Alibaba (US) Technology Co., Ltd.",3510
+"AS45102","Alibaba (US) Technology Co., Ltd.",3511
 "AS63949","Akamai Technologies, Inc.",3474
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
 "AS51396","Pfcloud UG",3032
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2532
+"AS8075","Microsoft Corporation",2534
 "AS142002","Scloud Pte Ltd",2526
 "AS6939","Hurricane Electric LLC",2190
 "AS9808","China Mobile",2056
@@ -35,13 +35,13 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1086
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",949
-"AS174","Cogent Communications",938
+"AS174","Cogent Communications",939
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",803
 "AS208046","ColocationX Ltd.",801
-"AS32475","Internap Holding LLC",792
+"AS32475","Internap Holding LLC",793
 "AS215925","VPSVAULT.HOST LTD",764
 "AS23470","ReliableSite.Net LLC",721
 "AS36352","HostPapa",720
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",527
 "AS14618","Amazon.com, Inc.",527
 "AS198953","Proton66 OOO",527
-"AS401120","cheapy.host LLC",521
+"AS401120","cheapy.host LLC",522
 "AS9009","M247 Europe SRL",513
 "AS140292","China Telecom",508
 "AS50360","Tamatiya EOOD",492
@@ -144,8 +144,8 @@ ASN,Organization,IP_Count
 "AS8560","IONOS SE",53
 "AS213877","u1host ltd",51
 "AS8402","PJSC ""Vimpelcom""",51
+"AS199785","Cloud Hosting Solutions, Limited.",50
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",50
-"AS199785","Cloud Hosting Solutions, Limited.",49
 "AS34984","Superonline Iletisim Hizmetleri A.S.",48
 "AS266181","GOLDEN LINK",47
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
