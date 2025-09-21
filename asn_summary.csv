@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87570
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21688
-"AS398324","Censys, Inc.",11245
-"AS396982","Google LLC",9662
+"AS398324","Censys, Inc.",11246
+"AS396982","Google LLC",9663
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7083
 "AS16276","OVH SAS",5631
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2538
 "AS142002","Scloud Pte Ltd",2526
-"AS6939","Hurricane Electric LLC",2211
+"AS6939","Hurricane Electric LLC",2213
 "AS9808","China Mobile",2056
 "AS202425","IP Volume inc",1648
 "AS214295","SKYNET NETWORK LTD",1631
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1095
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",950
-"AS174","Cogent Communications",947
+"AS174","Cogent Communications",948
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -137,11 +137,11 @@ ASN,Organization,IP_Count
 "AS18345","Servers Australia Pty. Ltd",55
 "AS11320","LightEdge Solutions",54
 "AS57588","Hayat for Internet & communication LLC",54
+"AS8560","IONOS SE",54
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",53
 "AS271795","SERVITELCONET CIA. LTDA.",53
 "AS44382","Fiba Cloud Operation Company, LLC",53
 "AS47331","TTNet A.S.",53
-"AS8560","IONOS SE",53
 "AS213877","u1host ltd",51
 "AS8402","PJSC ""Vimpelcom""",51
 "AS199785","Cloud Hosting Solutions, Limited.",50
@@ -229,6 +229,7 @@ ASN,Organization,IP_Count
 "AS43641","SOLLUTIUM EU Sp z.o.o.",19
 "AS46475","Limestone Networks, Inc.",19
 "AS58212","dataforest GmbH",19
+"AS6134","XNNET LLC",19
 "AS9299","Philippine Long Distance Telephone Co.",19
 "AS11878","tzulo, inc.",18
 "AS13213","UK-2 Limited",18
@@ -239,7 +240,6 @@ ASN,Organization,IP_Count
 "AS24560","Bharti Airtel Limited",18
 "AS329009","Spectrum Internet Service Ltd",18
 "AS400655","NixLabs Networks",18
-"AS6134","XNNET LLC",18
 "AS136958","China Unicom Guangdong IP network",17
 "AS140061","China Telecom",17
 "AS148981","China Telecom",17
@@ -493,6 +493,7 @@ ASN,Organization,IP_Count
 "AS207957","SERV.HOST GROUP LTD",4
 "AS208040","RSS (RAPID SOFTWARE SYSTEMS) CYPRUS LTD",4
 "AS208208","Marco Lingl trading as Cyberse GmbH & Co. KG",4
+"AS21127","Joint Stock Company TransTeleCom",4
 "AS212219","HOSTING DUNYAM BILISIM TEKNOLOJILERI TICARET LIMITED SIRKETI",4
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",4
 "AS214209","Internet Magnate (Pty) Ltd",4
@@ -572,7 +573,6 @@ ASN,Organization,IP_Count
 "AS20326","TeraSwitch Networks Inc.",3
 "AS203542","IT-PROF LLC",3
 "AS207083","HostSlim B.V.",3
-"AS21127","Joint Stock Company TransTeleCom",3
 "AS211826","Istqrar for Servers Services Ltd",3
 "AS212042","Istqrar for Servers Services Ltd",3
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",3
