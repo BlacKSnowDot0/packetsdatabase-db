@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87570
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21688
-"AS398324","Censys, Inc.",11256
+"AS398324","Censys, Inc.",11257
 "AS396982","Google LLC",9667
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7084
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2526
 "AS6939","Hurricane Electric LLC",2220
 "AS9808","China Mobile",2056
-"AS202425","IP Volume inc",1648
+"AS202425","IP Volume inc",1649
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1472
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -29,7 +29,7 @@ ASN,Organization,IP_Count
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1218
 "AS204428","SS-Net",1182
-"AS0","",1151
+"AS0","",1153
 "AS399045","DediOutlet, LLC",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS22552","eSited Solutions",1095
@@ -63,7 +63,7 @@ ASN,Organization,IP_Count
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS51115","HLL LLC",361
+"AS51115","HLL LLC",362
 "AS3462","Chunghwa Telecom Co., Ltd.",335
 "AS53667","FranTech Solutions",333
 "AS21859","Zenlayer Inc",330
@@ -245,12 +245,12 @@ ASN,Organization,IP_Count
 "AS148981","China Telecom",17
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
+"AS200514","KnownSRV Ltd.",17
 "AS45117","Ishan's Network",17
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",17
 "AS56630","Melbikomas UAB",17
 "AS9123","TimeWeb Ltd.",17
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",16
-"AS200514","KnownSRV Ltd.",16
 "AS206092","Internet Utilities Europe and Asia Limited",16
 "AS25198","INTERKVM HOST SRL",16
 "AS3320","Deutsche Telekom AG",16
