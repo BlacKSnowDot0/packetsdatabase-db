@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87569
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21682
-"AS398324","Censys, Inc.",11209
-"AS396982","Google LLC",9642
+"AS398324","Censys, Inc.",11214
+"AS396982","Google LLC",9645
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7077
+"AS14061","DigitalOcean, LLC",7078
 "AS16276","OVH SAS",5630
 "AS4134","Chinanet",4790
 "AS6568","Entel S.A. - EntelNet",4536
@@ -17,11 +17,11 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3163
 "AS51396","Pfcloud UG",3032
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2535
+"AS8075","Microsoft Corporation",2537
 "AS142002","Scloud Pte Ltd",2526
-"AS6939","Hurricane Electric LLC",2190
+"AS6939","Hurricane Electric LLC",2192
 "AS9808","China Mobile",2056
-"AS202425","IP Volume inc",1644
+"AS202425","IP Volume inc",1645
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1472
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -31,11 +31,11 @@ ASN,Organization,IP_Count
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS0","",1111
-"AS22552","eSited Solutions",1086
+"AS0","",1115
+"AS22552","eSited Solutions",1090
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",949
-"AS174","Cogent Communications",939
+"AS174","Cogent Communications",942
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",801
 "AS32475","Internap Holding LLC",793
 "AS215925","VPSVAULT.HOST LTD",764
-"AS23470","ReliableSite.Net LLC",721
+"AS23470","ReliableSite.Net LLC",722
 "AS36352","HostPapa",720
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -54,16 +54,16 @@ ASN,Organization,IP_Count
 "AS401120","cheapy.host LLC",522
 "AS9009","M247 Europe SRL",513
 "AS140292","China Telecom",508
+"AS4837","CHINA UNICOM China169 Backbone",492
 "AS50360","Tamatiya EOOD",492
-"AS4837","CHINA UNICOM China169 Backbone",491
 "AS201814","MEVSPACE sp. z o.o.",472
 "AS212238","Datacamp Limited",454
-"AS20052","Arbor Networks, Inc.",447
+"AS20052","Arbor Networks, Inc.",449
 "AS51167","Contabo GmbH",447
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS51115","HLL LLC",355
+"AS51115","HLL LLC",357
 "AS3462","Chunghwa Telecom Co., Ltd.",335
 "AS53667","FranTech Solutions",331
 "AS21859","Zenlayer Inc",330
@@ -75,8 +75,8 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",278
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",272
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",253
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",251
 "AS47890","UNMANAGED LTD",251
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",250
 "AS48090","TECHOFF SRV LIMITED",249
 "AS60223","Netiface Limited",247
 "AS209272","Alviva Holding Limited",230
@@ -238,13 +238,13 @@ ASN,Organization,IP_Count
 "AS24348","CERNET2 IX at Tsinghua University",18
 "AS24560","Bharti Airtel Limited",18
 "AS329009","Spectrum Internet Service Ltd",18
+"AS400655","NixLabs Networks",18
 "AS6134","XNNET LLC",18
 "AS136958","China Unicom Guangdong IP network",17
 "AS140061","China Telecom",17
 "AS148981","China Telecom",17
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
-"AS400655","NixLabs Networks",17
 "AS45117","Ishan's Network",17
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",17
 "AS56630","Melbikomas UAB",17
@@ -581,6 +581,7 @@ ASN,Organization,IP_Count
 "AS22612","Namecheap, Inc.",3
 "AS22773","Cox Communications Inc.",3
 "AS23028","Team Cymru Inc.",3
+"AS25084","Politechnika Czestochowska",3
 "AS262186","TV AZTECA SUCURSAL COLOMBIA",3
 "AS264323","OXMAN TECNOLOGIA LTDA",3
 "AS265523","Sierra Madre Internet SA de CV",3
@@ -747,7 +748,6 @@ ASN,Organization,IP_Count
 "AS24739","JSC ""Severen-Telecom""",2
 "AS24945","Telecommunication Company Vinteleport Ltd.",2
 "AS24961","WIIT AG",2
-"AS25084","Politechnika Czestochowska",2
 "AS25159","PJSC MegaFon",2
 "AS2516","KDDI CORPORATION",2
 "AS2519","ARTERIA Networks Corporation",2
