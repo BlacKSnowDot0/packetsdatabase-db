@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87569
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21683
-"AS398324","Censys, Inc.",11225
-"AS396982","Google LLC",9653
+"AS398324","Censys, Inc.",11226
+"AS396982","Google LLC",9654
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7081
+"AS14061","DigitalOcean, LLC",7082
 "AS16276","OVH SAS",5630
-"AS4134","Chinanet",4790
+"AS4134","Chinanet",4791
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4410
 "AS16509","Amazon.com, Inc.",3836
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2537
 "AS142002","Scloud Pte Ltd",2526
-"AS6939","Hurricane Electric LLC",2198
+"AS6939","Hurricane Electric LLC",2201
 "AS9808","China Mobile",2056
 "AS202425","IP Volume inc",1646
 "AS214295","SKYNET NETWORK LTD",1631
@@ -31,8 +31,8 @@ ASN,Organization,IP_Count
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS0","",1125
-"AS22552","eSited Solutions",1092
+"AS0","",1126
+"AS22552","eSited Solutions",1093
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",950
 "AS174","Cogent Communications",947
@@ -40,7 +40,7 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",803
-"AS208046","ColocationX Ltd.",801
+"AS208046","ColocationX Ltd.",802
 "AS32475","Internap Holding LLC",793
 "AS215925","VPSVAULT.HOST LTD",764
 "AS23470","ReliableSite.Net LLC",724
@@ -127,7 +127,7 @@ ASN,Organization,IP_Count
 "AS40021","Nubes, LLC",66
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
-"AS136435","ELITE COMMUNICATION",61
+"AS136435","ELITE COMMUNICATION",62
 "AS140717","China Unicom",61
 "AS3920","ESTOXY OU",60
 "AS4812","China Telecom (Group)",58
