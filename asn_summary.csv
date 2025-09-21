@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87570
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21688
-"AS398324","Censys, Inc.",11250
+"AS398324","Censys, Inc.",11251
 "AS396982","Google LLC",9664
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7084
@@ -11,15 +11,15 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4410
 "AS16509","Amazon.com, Inc.",3836
-"AS45102","Alibaba (US) Technology Co., Ltd.",3517
+"AS45102","Alibaba (US) Technology Co., Ltd.",3519
 "AS63949","Akamai Technologies, Inc.",3475
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
-"AS51396","Pfcloud UG",3035
+"AS51396","Pfcloud UG",3036
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2539
+"AS8075","Microsoft Corporation",2541
 "AS142002","Scloud Pte Ltd",2526
-"AS6939","Hurricane Electric LLC",2216
+"AS6939","Hurricane Electric LLC",2217
 "AS9808","China Mobile",2056
 "AS202425","IP Volume inc",1648
 "AS214295","SKYNET NETWORK LTD",1631
@@ -29,7 +29,7 @@ ASN,Organization,IP_Count
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1218
 "AS204428","SS-Net",1182
-"AS0","",1141
+"AS0","",1144
 "AS399045","DediOutlet, LLC",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS22552","eSited Solutions",1095
@@ -41,7 +41,7 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",803
 "AS208046","ColocationX Ltd.",802
-"AS32475","Internap Holding LLC",793
+"AS32475","Internap Holding LLC",794
 "AS215925","VPSVAULT.HOST LTD",764
 "AS23470","ReliableSite.Net LLC",727
 "AS36352","HostPapa",721
@@ -57,9 +57,9 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",493
 "AS50360","Tamatiya EOOD",492
 "AS201814","MEVSPACE sp. z o.o.",472
-"AS20052","Arbor Networks, Inc.",461
+"AS20052","Arbor Networks, Inc.",463
 "AS212238","Datacamp Limited",454
-"AS51167","Contabo GmbH",447
+"AS51167","Contabo GmbH",448
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -85,7 +85,7 @@ ASN,Organization,IP_Count
 "AS7713","Telekomunikasi Indonesia (PT)",210
 "AS13335","Cloudflare, Inc.",209
 "AS208843","Alpha Strike Labs GmbH",190
-"AS213613","BOTSHIELD LTD",180
+"AS213613","BOTSHIELD LTD",181
 "AS141718","haoxiangyun",173
 "AS401116","Nybula LLC",170
 "AS12389","PJSC Rostelecom",169
@@ -494,6 +494,7 @@ ASN,Organization,IP_Count
 "AS208040","RSS (RAPID SOFTWARE SYSTEMS) CYPRUS LTD",4
 "AS208208","Marco Lingl trading as Cyberse GmbH & Co. KG",4
 "AS21127","Joint Stock Company TransTeleCom",4
+"AS212042","Istqrar for Servers Services Ltd",4
 "AS212219","HOSTING DUNYAM BILISIM TEKNOLOJILERI TICARET LIMITED SIRKETI",4
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",4
 "AS214209","Internet Magnate (Pty) Ltd",4
@@ -556,6 +557,7 @@ ASN,Organization,IP_Count
 "AS139555","Abronics Communications Pvt Ltd",3
 "AS140210","ConnectX",3
 "AS140607","Sign In (PVT) LTD",3
+"AS140791","BKHOST TECHNOLOGY VIETNAM JOINT STOCK COMPANY",3
 "AS142036","Hosteons Pte. Ltd.",3
 "AS142468","VANSHIKA ITLAM INDIA PVT LTD",3
 "AS147065","Lao telecom construction Co.,Ltd",3
@@ -574,7 +576,6 @@ ASN,Organization,IP_Count
 "AS203542","IT-PROF LLC",3
 "AS207083","HostSlim B.V.",3
 "AS211826","Istqrar for Servers Services Ltd",3
-"AS212042","Istqrar for Servers Services Ltd",3
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",3
 "AS213354","INTERNATIONAL HOSTING SOLUTIONS LLP",3
 "AS21499","Host Europe GmbH",3
@@ -676,7 +677,6 @@ ASN,Organization,IP_Count
 "AS140171","Reis Network Solutions",2
 "AS140293","China Telecom",2
 "AS140425","DINAS KOMUNIKASI DAN INFORMATIKA KABUPATEN DEMAK",2
-"AS140791","BKHOST TECHNOLOGY VIETNAM JOINT STOCK COMPANY",2
 "AS141215","Dotcom International Pvt. Limited",2
 "AS141433","Netcom Internet Service",2
 "AS141965","Diskominfo Kota Pasuruan",2
@@ -1044,6 +1044,7 @@ ASN,Organization,IP_Count
 "AS18187","WifiCity, Inc",1
 "AS18734","Operbes, S.A. de C.V.",1
 "AS18978","Enzu Inc",1
+"AS19108","Suddenlink Communications",1
 "AS19527","Google LLC",1
 "AS196695","NetOne Rus JSC",1
 "AS196767","INMART.UA LLC",1
