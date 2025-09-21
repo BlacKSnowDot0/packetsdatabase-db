@@ -2,16 +2,16 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87572
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21690
-"AS398324","Censys, Inc.",11273
-"AS396982","Google LLC",9668
+"AS398324","Censys, Inc.",11277
+"AS396982","Google LLC",9669
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7089
+"AS14061","DigitalOcean, LLC",7090
 "AS16276","OVH SAS",5632
 "AS4134","Chinanet",4793
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4410
 "AS16509","Amazon.com, Inc.",3836
-"AS45102","Alibaba (US) Technology Co., Ltd.",3521
+"AS45102","Alibaba (US) Technology Co., Ltd.",3523
 "AS63949","Akamai Technologies, Inc.",3476
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
@@ -23,7 +23,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2057
 "AS202425","IP Volume inc",1650
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1473
+"AS209605","UAB Host Baltic",1474
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1319
 "AS215269","LAZYCLOUD LTD",1312
@@ -84,7 +84,7 @@ ASN,Organization,IP_Count
 "AS14987","Rethem Hosting LLC",215
 "AS13335","Cloudflare, Inc.",210
 "AS7713","Telekomunikasi Indonesia (PT)",210
-"AS208843","Alpha Strike Labs GmbH",192
+"AS208843","Alpha Strike Labs GmbH",193
 "AS213613","BOTSHIELD LTD",182
 "AS141718","haoxiangyun",173
 "AS401116","Nybula LLC",170
@@ -364,6 +364,7 @@ ASN,Organization,IP_Count
 "AS137718","Beijing Volcano Engine Technology Co., Ltd.",7
 "AS17762","Tata Teleservices (Maharashtra) Ltd",7
 "AS197309","RS-Media LLC",7
+"AS20115","Charter Communications",7
 "AS203684","Imen Sanat Novin Alighapoo Private Joint Stock Company",7
 "AS204044","PACKET STAR NETWORKS LIMITED",7
 "AS204631","VIVANET GmbH",7
@@ -397,7 +398,6 @@ ASN,Organization,IP_Count
 "AS17639","ComClark Network & Technology Corp",6
 "AS17754","Excellmedia",6
 "AS18881","TELEFÔNICA BRASIL S.A",6
-"AS20115","Charter Communications",6
 "AS203020","HostRoyale Technologies Pvt Ltd",6
 "AS204834","Shabakieh Isfahan Co PJSC",6
 "AS211507","Julian Achter",6
