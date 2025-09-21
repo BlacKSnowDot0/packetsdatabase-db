@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87570
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
-"AS211298","Driftnet Ltd",21688
-"AS398324","Censys, Inc.",11257
+"AS211298","Driftnet Ltd",21689
+"AS398324","Censys, Inc.",11258
 "AS396982","Google LLC",9667
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7084
+"AS14061","DigitalOcean, LLC",7086
 "AS16276","OVH SAS",5632
 "AS4134","Chinanet",4792
 "AS6568","Entel S.A. - EntelNet",4536
@@ -29,7 +29,7 @@ ASN,Organization,IP_Count
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1218
 "AS204428","SS-Net",1182
-"AS0","",1153
+"AS0","",1155
 "AS399045","DediOutlet, LLC",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS22552","eSited Solutions",1095
@@ -41,7 +41,7 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",803
 "AS8452","TE-AS",803
-"AS32475","Internap Holding LLC",798
+"AS32475","Internap Holding LLC",801
 "AS215925","VPSVAULT.HOST LTD",764
 "AS23470","ReliableSite.Net LLC",727
 "AS36352","HostPapa",721
@@ -59,7 +59,7 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",472
 "AS20052","Arbor Networks, Inc.",465
 "AS212238","Datacamp Limited",454
-"AS51167","Contabo GmbH",449
+"AS51167","Contabo GmbH",450
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -82,8 +82,8 @@ ASN,Organization,IP_Count
 "AS209272","Alviva Holding Limited",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
+"AS13335","Cloudflare, Inc.",210
 "AS7713","Telekomunikasi Indonesia (PT)",210
-"AS13335","Cloudflare, Inc.",209
 "AS208843","Alpha Strike Labs GmbH",191
 "AS213613","BOTSHIELD LTD",181
 "AS141718","haoxiangyun",173
@@ -115,9 +115,9 @@ ASN,Organization,IP_Count
 "AS210125","PRIAM NET Sh.p.k.",75
 "AS28209","Under Servicos de Internet Ltda",75
 "AS32475","SingleHop LLC",75
+"AS151185","China Telecom",74
 "AS4766","Korea Telecom",74
 "AS56046","China Mobile Communications Corporation",74
-"AS151185","China Telecom",73
 "AS18403","FPT Telecom Company",73
 "AS27882","Telefónica Celular de Bolivia S.A.",73
 "AS16735","ALGAR TELECOM S/A",69
@@ -135,9 +135,9 @@ ASN,Organization,IP_Count
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS49544","i3D.net B.V",56
 "AS18345","Servers Australia Pty. Ltd",55
+"AS8560","IONOS SE",55
 "AS11320","LightEdge Solutions",54
 "AS57588","Hayat for Internet & communication LLC",54
-"AS8560","IONOS SE",54
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",53
 "AS271795","SERVITELCONET CIA. LTDA.",53
 "AS44382","Fiba Cloud Operation Company, LLC",53
