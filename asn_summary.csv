@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87570
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87572
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21690
-"AS398324","Censys, Inc.",11266
+"AS398324","Censys, Inc.",11268
 "AS396982","Google LLC",9668
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7088
@@ -29,19 +29,19 @@ ASN,Organization,IP_Count
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1218
 "AS204428","SS-Net",1182
-"AS0","",1164
+"AS0","",1165
 "AS399045","DediOutlet, LLC",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS22552","eSited Solutions",1095
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",951
-"AS174","Cogent Communications",949
+"AS174","Cogent Communications",950
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",803
+"AS32475","Internap Holding LLC",803
 "AS8452","TE-AS",803
-"AS32475","Internap Holding LLC",802
 "AS215925","VPSVAULT.HOST LTD",764
 "AS23470","ReliableSite.Net LLC",727
 "AS36352","HostPapa",721
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS51115","HLL LLC",362
 "AS3462","Chunghwa Telecom Co., Ltd.",335
-"AS53667","FranTech Solutions",333
+"AS53667","FranTech Solutions",335
 "AS21859","Zenlayer Inc",330
 "AS9829","Bharat Sanchar Nigam Ltd",329
 "AS214943","Railnet LLC",313
@@ -111,8 +111,8 @@ ASN,Organization,IP_Count
 "AS58461","Chinanet",85
 "AS205352","KABELNET LTD",84
 "AS200019","ALEXHOST SRL",78
+"AS210125","PRIAM NET Sh.p.k.",76
 "AS211736","FOP Dmytro Nedilskyi",76
-"AS210125","PRIAM NET Sh.p.k.",75
 "AS28209","Under Servicos de Internet Ltda",75
 "AS32475","SingleHop LLC",75
 "AS151185","China Telecom",74
@@ -594,6 +594,7 @@ ASN,Organization,IP_Count
 "AS269750","Gandalf Comunicaciones C.A.",3
 "AS269795","MLV SA",3
 "AS270353","Tyna Host - Datacenter no Brasil",3
+"AS271597","NEW LINK CONNECT",3
 "AS272809","THUNDERNET, C.A.",3
 "AS27651","ENTEL CHILE S.A.",3
 "AS27843","OPTICAL TECHNOLOGIES S.A.C.",3
@@ -763,7 +764,6 @@ ASN,Organization,IP_Count
 "AS264628","CORPORACION FIBEX TELECOM, C.A.",2
 "AS265499","GS Telecomunicações Ltda",2
 "AS268437","BRAXTEL TELECOM E TI",2
-"AS271597","NEW LINK CONNECT",2
 "AS271907","COLNETWORK C.A.",2
 "AS272786","X99 INTERNET LTDA.",2
 "AS27323","Wowrack.com",2
