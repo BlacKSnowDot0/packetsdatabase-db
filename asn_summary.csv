@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87570
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21688
-"AS398324","Censys, Inc.",11248
+"AS398324","Censys, Inc.",11250
 "AS396982","Google LLC",9664
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7084
@@ -17,9 +17,9 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3163
 "AS51396","Pfcloud UG",3035
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2538
+"AS8075","Microsoft Corporation",2539
 "AS142002","Scloud Pte Ltd",2526
-"AS6939","Hurricane Electric LLC",2215
+"AS6939","Hurricane Electric LLC",2216
 "AS9808","China Mobile",2056
 "AS202425","IP Volume inc",1648
 "AS214295","SKYNET NETWORK LTD",1631
@@ -29,7 +29,7 @@ ASN,Organization,IP_Count
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1218
 "AS204428","SS-Net",1182
-"AS0","",1140
+"AS0","",1141
 "AS399045","DediOutlet, LLC",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS22552","eSited Solutions",1095
@@ -57,7 +57,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",493
 "AS50360","Tamatiya EOOD",492
 "AS201814","MEVSPACE sp. z o.o.",472
-"AS20052","Arbor Networks, Inc.",460
+"AS20052","Arbor Networks, Inc.",461
 "AS212238","Datacamp Limited",454
 "AS51167","Contabo GmbH",447
 "AS21299","Kar-Tel LLC",405
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS51115","HLL LLC",361
 "AS3462","Chunghwa Telecom Co., Ltd.",335
-"AS53667","FranTech Solutions",332
+"AS53667","FranTech Solutions",333
 "AS21859","Zenlayer Inc",330
 "AS9829","Bharat Sanchar Nigam Ltd",328
 "AS214943","Railnet LLC",312
@@ -86,7 +86,7 @@ ASN,Organization,IP_Count
 "AS13335","Cloudflare, Inc.",209
 "AS208843","Alpha Strike Labs GmbH",190
 "AS213613","BOTSHIELD LTD",180
-"AS141718","haoxiangyun",172
+"AS141718","haoxiangyun",173
 "AS401116","Nybula LLC",170
 "AS12389","PJSC Rostelecom",169
 "AS12555","Data-center IMAQLIQ Ltd.",165
@@ -612,6 +612,7 @@ ASN,Organization,IP_Count
 "AS4230","CLARO S.A.",3
 "AS42961","Mobile Telecommunications Company",3
 "AS44925","1984 ehf",3
+"AS45753","Netsec Limited",3
 "AS45916","Gujarat Telelink Pvt Ltd",3
 "AS47154","HUSAM A. H. HIJAZI",3
 "AS4811","China Telecom (Group)",3
@@ -828,7 +829,6 @@ ASN,Organization,IP_Count
 "AS45544","SUPERDATA-VN",2
 "AS45557","Vietnam Technology and Telecommunication JSC",2
 "AS45595","Pakistan Telecom Company Limited",2
-"AS45753","Netsec Limited",2
 "AS45773","HEC",2
 "AS4609","Companhia de Telecomunicacoes de Macau",2
 "AS4618","Internet Thailand Company Ltd.",2
