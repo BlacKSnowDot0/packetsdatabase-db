@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87570
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21689
-"AS398324","Censys, Inc.",11263
+"AS398324","Censys, Inc.",11264
 "AS396982","Google LLC",9668
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7087
@@ -29,7 +29,7 @@ ASN,Organization,IP_Count
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1218
 "AS204428","SS-Net",1182
-"AS0","",1160
+"AS0","",1162
 "AS399045","DediOutlet, LLC",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS22552","eSited Solutions",1095
@@ -59,7 +59,7 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",472
 "AS20052","Arbor Networks, Inc.",468
 "AS212238","Datacamp Limited",454
-"AS51167","Contabo GmbH",450
+"AS51167","Contabo GmbH",451
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -84,7 +84,7 @@ ASN,Organization,IP_Count
 "AS14987","Rethem Hosting LLC",215
 "AS13335","Cloudflare, Inc.",210
 "AS7713","Telekomunikasi Indonesia (PT)",210
-"AS208843","Alpha Strike Labs GmbH",191
+"AS208843","Alpha Strike Labs GmbH",192
 "AS213613","BOTSHIELD LTD",182
 "AS141718","haoxiangyun",173
 "AS401116","Nybula LLC",170
@@ -102,7 +102,7 @@ ASN,Organization,IP_Count
 "AS8151","Uninet S.A. de C.V.",118
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
-"AS262551","Farol Telecom",108
+"AS262551","Farol Telecom",109
 "AS42237","w1n ltd",105
 "AS50219","LNK SYSTEMS MUNTENIA SRL",95
 "AS63018","Dedicated.com",92
@@ -198,9 +198,9 @@ ASN,Organization,IP_Count
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS149705","PT Wijaya Trimitra Indonesia",25
 "AS269193","Iktelecom Ltda",25
-"AS38623","VIETTEL (CAMBODIA) PTE., LTD",24
+"AS38623","VIETTEL (CAMBODIA) PTE., LTD",25
+"AS263025","ISPTEC Sistemas de Comunicação Eireli",24
 "AS198037","SPACECORE SOLUTION LTD",23
-"AS263025","ISPTEC Sistemas de Comunicação Eireli",23
 "AS55933","Cloudie Limited",23
 "AS60068","Datacamp Limited",23
 "AS62240","Clouvider Limited",23
@@ -1418,6 +1418,7 @@ ASN,Organization,IP_Count
 "AS51010","National Agency of Public Registry",1
 "AS51028","Zummer LLC",1
 "AS51346","Opened Joint Stock Company ""Tojiktelecom""",1
+"AS51468","One.com A/S",1
 "AS51685","Mikron-Media LLC",1
 "AS51784","""X-City"" Ltd.",1
 "AS51791","Remzi Toker",1
