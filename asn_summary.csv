@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87570
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21686
-"AS398324","Censys, Inc.",11239
-"AS396982","Google LLC",9660
+"AS398324","Censys, Inc.",11240
+"AS396982","Google LLC",9661
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7083
 "AS16276","OVH SAS",5631
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2537
 "AS142002","Scloud Pte Ltd",2526
-"AS6939","Hurricane Electric LLC",2208
+"AS6939","Hurricane Electric LLC",2209
 "AS9808","China Mobile",2056
 "AS202425","IP Volume inc",1647
 "AS214295","SKYNET NETWORK LTD",1631
@@ -30,8 +30,8 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1218
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1140
+"AS0","",1138
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS0","",1136
 "AS22552","eSited Solutions",1095
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",950
@@ -44,7 +44,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",793
 "AS215925","VPSVAULT.HOST LTD",764
 "AS23470","ReliableSite.Net LLC",724
-"AS36352","HostPapa",720
+"AS36352","HostPapa",721
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
@@ -57,7 +57,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",493
 "AS50360","Tamatiya EOOD",492
 "AS201814","MEVSPACE sp. z o.o.",472
-"AS20052","Arbor Networks, Inc.",456
+"AS20052","Arbor Networks, Inc.",457
 "AS212238","Datacamp Limited",454
 "AS51167","Contabo GmbH",447
 "AS21299","Kar-Tel LLC",405
@@ -320,6 +320,7 @@ ASN,Organization,IP_Count
 "AS153443","VPSRE.NET LLC",10
 "AS24547","China Mobile",10
 "AS30823","aurologic GmbH",10
+"AS41075","ATW Internet Kft.",10
 "AS41420","Xentech B.V.",10
 "AS44901","Belcloud LTD",10
 "AS4760","PCCW IMS Limited",10
@@ -335,7 +336,6 @@ ASN,Organization,IP_Count
 "AS24835","Vodafone Data - Egypt",9
 "AS32934","Facebook, Inc.",9
 "AS40244","Turnkey Internet Inc.",9
-"AS41075","ATW Internet Kft.",9
 "AS4847","China Networks Inter-Exchange",9
 "AS48874","HOSTMAZE INC SRL-D",9
 "AS7018","AT&T Enterprises, LLC",9
