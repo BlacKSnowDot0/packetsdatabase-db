@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87570
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
-"AS211298","Driftnet Ltd",21689
-"AS398324","Censys, Inc.",11264
+"AS211298","Driftnet Ltd",21690
+"AS398324","Censys, Inc.",11265
 "AS396982","Google LLC",9668
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7087
+"AS14061","DigitalOcean, LLC",7088
 "AS16276","OVH SAS",5632
 "AS4134","Chinanet",4793
 "AS6568","Entel S.A. - EntelNet",4536
@@ -29,7 +29,7 @@ ASN,Organization,IP_Count
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1218
 "AS204428","SS-Net",1182
-"AS0","",1162
+"AS0","",1164
 "AS399045","DediOutlet, LLC",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS22552","eSited Solutions",1095
@@ -104,7 +104,7 @@ ASN,Organization,IP_Count
 "AS208287","DC Host INC",110
 "AS262551","Farol Telecom",109
 "AS42237","w1n ltd",105
-"AS50219","LNK SYSTEMS MUNTENIA SRL",95
+"AS50219","LNK SYSTEMS MUNTENIA SRL",96
 "AS63018","Dedicated.com",92
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",92
 "AS14956","RouterHosting LLC",88
