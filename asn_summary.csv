@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87572
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21690
-"AS398324","Censys, Inc.",11272
+"AS398324","Censys, Inc.",11273
 "AS396982","Google LLC",9668
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7089
@@ -17,7 +17,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3163
 "AS51396","Pfcloud UG",3036
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2545
+"AS8075","Microsoft Corporation",2546
 "AS142002","Scloud Pte Ltd",2526
 "AS6939","Hurricane Electric LLC",2220
 "AS9808","China Mobile",2057
@@ -27,12 +27,12 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1319
 "AS215269","LAZYCLOUD LTD",1312
-"AS49870","Alsycon B.V.",1218
+"AS49870","Alsycon B.V.",1219
 "AS204428","SS-Net",1182
-"AS0","",1168
+"AS0","",1169
 "AS399045","DediOutlet, LLC",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS22552","eSited Solutions",1096
+"AS22552","eSited Solutions",1097
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",951
 "AS208684","BHA CONSEIL SARL",951
@@ -44,7 +44,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",803
 "AS215925","VPSVAULT.HOST LTD",764
 "AS23470","ReliableSite.Net LLC",727
-"AS36352","HostPapa",721
+"AS36352","HostPapa",723
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
@@ -266,6 +266,7 @@ ASN,Organization,IP_Count
 "AS31113","Artkomm LLC",15
 "AS397283","RocketNode Inc",15
 "AS49531","""NetCom-R"" LLC",15
+"AS53118","NETLINE TELECOM",15
 "AS136142","Enigma Fiber Pvt Ltd",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS329490","Promethean Consulting Limited",14
@@ -274,7 +275,6 @@ ASN,Organization,IP_Count
 "AS45758","Triple T Broadband Public Company Limited",14
 "AS4816","China Telecom (Group)",14
 "AS48721","Flyservers S.A.",14
-"AS53118","NETLINE TELECOM",14
 "AS213194","Nechaev Dmitry Sergeevich",13
 "AS24940","Hetzner Online GmbH",13
 "AS25369","Hydra Communications Ltd",13
