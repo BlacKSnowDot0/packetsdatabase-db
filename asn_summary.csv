@@ -1,17 +1,17 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87569
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
-"AS211298","Driftnet Ltd",21682
-"AS398324","Censys, Inc.",11214
-"AS396982","Google LLC",9645
+"AS211298","Driftnet Ltd",21683
+"AS398324","Censys, Inc.",11221
+"AS396982","Google LLC",9646
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7078
+"AS14061","DigitalOcean, LLC",7080
 "AS16276","OVH SAS",5630
 "AS4134","Chinanet",4790
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4410
 "AS16509","Amazon.com, Inc.",3836
-"AS45102","Alibaba (US) Technology Co., Ltd.",3511
+"AS45102","Alibaba (US) Technology Co., Ltd.",3512
 "AS63949","Akamai Technologies, Inc.",3474
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
@@ -19,9 +19,9 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2537
 "AS142002","Scloud Pte Ltd",2526
-"AS6939","Hurricane Electric LLC",2192
+"AS6939","Hurricane Electric LLC",2194
 "AS9808","China Mobile",2056
-"AS202425","IP Volume inc",1645
+"AS202425","IP Volume inc",1646
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1472
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -31,11 +31,11 @@ ASN,Organization,IP_Count
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS0","",1115
-"AS22552","eSited Solutions",1090
+"AS0","",1121
+"AS22552","eSited Solutions",1091
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",949
-"AS174","Cogent Communications",942
+"AS174","Cogent Communications",944
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",801
 "AS32475","Internap Holding LLC",793
 "AS215925","VPSVAULT.HOST LTD",764
-"AS23470","ReliableSite.Net LLC",722
+"AS23470","ReliableSite.Net LLC",723
 "AS36352","HostPapa",720
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -52,22 +52,22 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",527
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",522
-"AS9009","M247 Europe SRL",513
+"AS9009","M247 Europe SRL",514
 "AS140292","China Telecom",508
-"AS4837","CHINA UNICOM China169 Backbone",492
+"AS4837","CHINA UNICOM China169 Backbone",493
 "AS50360","Tamatiya EOOD",492
 "AS201814","MEVSPACE sp. z o.o.",472
 "AS212238","Datacamp Limited",454
-"AS20052","Arbor Networks, Inc.",449
+"AS20052","Arbor Networks, Inc.",450
 "AS51167","Contabo GmbH",447
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS51115","HLL LLC",357
 "AS3462","Chunghwa Telecom Co., Ltd.",335
-"AS53667","FranTech Solutions",331
+"AS53667","FranTech Solutions",332
 "AS21859","Zenlayer Inc",330
-"AS9829","Bharat Sanchar Nigam Ltd",327
+"AS9829","Bharat Sanchar Nigam Ltd",328
 "AS214943","Railnet LLC",312
 "AS24863","LINKdotNET AS number",307
 "AS210848","Telkom Internet LTD",296
@@ -83,7 +83,7 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS7713","Telekomunikasi Indonesia (PT)",210
-"AS13335","Cloudflare, Inc.",208
+"AS13335","Cloudflare, Inc.",209
 "AS208843","Alpha Strike Labs GmbH",189
 "AS213613","BOTSHIELD LTD",179
 "AS141718","haoxiangyun",171
@@ -572,6 +572,7 @@ ASN,Organization,IP_Count
 "AS20326","TeraSwitch Networks Inc.",3
 "AS203542","IT-PROF LLC",3
 "AS207083","HostSlim B.V.",3
+"AS21127","Joint Stock Company TransTeleCom",3
 "AS211826","Istqrar for Servers Services Ltd",3
 "AS212042","Istqrar for Servers Services Ltd",3
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",3
@@ -717,7 +718,6 @@ ASN,Organization,IP_Count
 "AS208592","LLC ""NET SOLUTIONS""",2
 "AS210656","Yandex.Cloud LLC",2
 "AS210819","Netversor GmbH",2
-"AS21127","Joint Stock Company TransTeleCom",2
 "AS211301","Collin Schneeweiss trading as Unesty Company",2
 "AS211381","Podaon SIA",2
 "AS211860","Nerushenko Vyacheslav Nikolaevich",2
