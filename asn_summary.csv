@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87572
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21690
-"AS398324","Censys, Inc.",11268
+"AS398324","Censys, Inc.",11270
 "AS396982","Google LLC",9668
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7088
+"AS14061","DigitalOcean, LLC",7089
 "AS16276","OVH SAS",5632
 "AS4134","Chinanet",4793
 "AS6568","Entel S.A. - EntelNet",4536
@@ -29,13 +29,13 @@ ASN,Organization,IP_Count
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1218
 "AS204428","SS-Net",1182
-"AS0","",1165
+"AS0","",1167
 "AS399045","DediOutlet, LLC",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS22552","eSited Solutions",1095
 "AS201401","NewVM B.V.",1076
+"AS174","Cogent Communications",951
 "AS208684","BHA CONSEIL SARL",951
-"AS174","Cogent Communications",950
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -90,7 +90,7 @@ ASN,Organization,IP_Count
 "AS401116","Nybula LLC",170
 "AS12389","PJSC Rostelecom",169
 "AS12555","Data-center IMAQLIQ Ltd.",165
-"AS63199","CDS Global Cloud Co., Ltd",163
+"AS63199","CDS Global Cloud Co., Ltd",164
 "AS45899","VNPT Corp",159
 "AS206264","Amarutu Technology Ltd",153
 "AS47105","Vault Dweller OU",141
@@ -107,11 +107,11 @@ ASN,Organization,IP_Count
 "AS50219","LNK SYSTEMS MUNTENIA SRL",96
 "AS63018","Dedicated.com",92
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",92
-"AS14956","RouterHosting LLC",88
+"AS14956","RouterHosting LLC",89
 "AS58461","Chinanet",85
 "AS205352","KABELNET LTD",84
 "AS200019","ALEXHOST SRL",78
-"AS210125","PRIAM NET Sh.p.k.",76
+"AS210125","PRIAM NET Sh.p.k.",77
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS28209","Under Servicos de Internet Ltda",75
 "AS32475","SingleHop LLC",75
@@ -146,7 +146,7 @@ ASN,Organization,IP_Count
 "AS8402","PJSC ""Vimpelcom""",51
 "AS199785","Cloud Hosting Solutions, Limited.",50
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",50
-"AS34984","Superonline Iletisim Hizmetleri A.S.",48
+"AS34984","Superonline Iletisim Hizmetleri A.S.",49
 "AS266181","GOLDEN LINK",47
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
 "AS215590","DpkgSoft International Limited",46
@@ -220,11 +220,11 @@ ASN,Organization,IP_Count
 "AS8048","CANTV Servicios, Venezuela",21
 "AS146817","Hubei Feixun Network Co., Ltd",20
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
+"AS17816","China Unicom IP network China169 Guangdong province",20
 "AS197540","netcup GmbH",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
 "AS46573","LayerHost",20
 "AS1103","SURF B.V.",19
-"AS17816","China Unicom IP network China169 Guangdong province",19
 "AS262287","Maxihost LTDA",19
 "AS43641","SOLLUTIUM EU Sp z.o.o.",19
 "AS46475","Limestone Networks, Inc.",19
