@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87569
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21683
-"AS398324","Censys, Inc.",11226
+"AS398324","Censys, Inc.",11230
 "AS396982","Google LLC",9654
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7082
-"AS16276","OVH SAS",5630
+"AS16276","OVH SAS",5631
 "AS4134","Chinanet",4791
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4410
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS0","",1126
+"AS0","",1127
 "AS22552","eSited Solutions",1093
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",950
@@ -58,7 +58,7 @@ ASN,Organization,IP_Count
 "AS50360","Tamatiya EOOD",492
 "AS201814","MEVSPACE sp. z o.o.",472
 "AS212238","Datacamp Limited",454
-"AS20052","Arbor Networks, Inc.",451
+"AS20052","Arbor Networks, Inc.",452
 "AS51167","Contabo GmbH",447
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",404
@@ -117,9 +117,9 @@ ASN,Organization,IP_Count
 "AS210125","PRIAM NET Sh.p.k.",74
 "AS4766","Korea Telecom",74
 "AS56046","China Mobile Communications Corporation",74
+"AS151185","China Telecom",73
 "AS18403","FPT Telecom Company",73
 "AS27882","Telefónica Celular de Bolivia S.A.",73
-"AS151185","China Telecom",72
 "AS16735","ALGAR TELECOM S/A",69
 "AS31898","Oracle Corporation",69
 "AS52053","REDHEBERG Association declaree",69
@@ -335,6 +335,7 @@ ASN,Organization,IP_Count
 "AS24835","Vodafone Data - Egypt",9
 "AS32934","Facebook, Inc.",9
 "AS40244","Turnkey Internet Inc.",9
+"AS41075","ATW Internet Kft.",9
 "AS4847","China Networks Inter-Exchange",9
 "AS48874","HOSTMAZE INC SRL-D",9
 "AS7018","AT&T Enterprises, LLC",9
@@ -356,7 +357,6 @@ ASN,Organization,IP_Count
 "AS28573","Claro NXT Telecomunicacoes Ltda",8
 "AS328723","Telasera Technologies PTY LTD",8
 "AS38283","CHINANET SiChuan Telecom Internet Data Center",8
-"AS41075","ATW Internet Kft.",8
 "AS41608","NextGenWebs, S.L.",8
 "AS6698","Virtual Systems LLC",8
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",8
