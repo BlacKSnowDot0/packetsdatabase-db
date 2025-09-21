@@ -1,9 +1,9 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87570
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
-"AS211298","Driftnet Ltd",21683
-"AS398324","Censys, Inc.",11234
-"AS396982","Google LLC",9657
+"AS211298","Driftnet Ltd",21686
+"AS398324","Censys, Inc.",11235
+"AS396982","Google LLC",9658
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7083
 "AS16276","OVH SAS",5631
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2537
 "AS142002","Scloud Pte Ltd",2526
-"AS6939","Hurricane Electric LLC",2206
+"AS6939","Hurricane Electric LLC",2207
 "AS9808","China Mobile",2056
 "AS202425","IP Volume inc",1646
 "AS214295","SKYNET NETWORK LTD",1631
@@ -48,7 +48,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
-"AS10439","CariNet, Inc.",529
+"AS10439","CariNet, Inc.",531
 "AS14618","Amazon.com, Inc.",527
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",522
@@ -57,7 +57,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",493
 "AS50360","Tamatiya EOOD",492
 "AS201814","MEVSPACE sp. z o.o.",472
-"AS20052","Arbor Networks, Inc.",454
+"AS20052","Arbor Networks, Inc.",455
 "AS212238","Datacamp Limited",454
 "AS51167","Contabo GmbH",447
 "AS21299","Kar-Tel LLC",405
@@ -94,7 +94,7 @@ ASN,Organization,IP_Count
 "AS45899","VNPT Corp",159
 "AS206264","Amarutu Technology Ltd",153
 "AS47105","Vault Dweller OU",141
-"AS29484","Ruhr-Universitaet Bochum",129
+"AS29484","Ruhr-Universitaet Bochum",131
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
 "AS36007","Kamatera, Inc.",122
@@ -151,9 +151,9 @@ ASN,Organization,IP_Count
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
 "AS215590","DpkgSoft International Limited",46
 "AS55720","Gigabit Hosting Sdn Bhd",45
+"AS150263","PT Alnet Telekomunikasi Indonesia",44
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
-"AS150263","PT Alnet Telekomunikasi Indonesia",43
 "AS152194","CTG Server Limited",43
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",43
 "AS214497","Whitelabel Solutions, Ltd.",42
@@ -286,6 +286,7 @@ ASN,Organization,IP_Count
 "AS140726","China Unicom",12
 "AS17621","China Unicom Shanghai network",12
 "AS200593","PROSPERO OOO",12
+"AS202448","MVPS LTD",12
 "AS213438","ColocaTel Inc.",12
 "AS24757","EthioNet",12
 "AS2637","Georgia Institute of Technology",12
@@ -298,7 +299,6 @@ ASN,Organization,IP_Count
 "AS12874","Fastweb SpA",11
 "AS141995","Contabo Asia Private Limited",11
 "AS200651","FlokiNET ehf",11
-"AS202448","MVPS LTD",11
 "AS205119","TELEKS DOOEL Skopje",11
 "AS206804","EstNOC OY",11
 "AS2116","GLOBALCONNECT AS",11
