@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87572
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21690
-"AS398324","Censys, Inc.",11270
+"AS398324","Censys, Inc.",11272
 "AS396982","Google LLC",9668
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7089
@@ -29,10 +29,10 @@ ASN,Organization,IP_Count
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1218
 "AS204428","SS-Net",1182
-"AS0","",1167
+"AS0","",1168
 "AS399045","DediOutlet, LLC",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS22552","eSited Solutions",1095
+"AS22552","eSited Solutions",1096
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",951
 "AS208684","BHA CONSEIL SARL",951
@@ -527,6 +527,7 @@ ASN,Organization,IP_Count
 "AS51765","Oy Crea Nova Hosting Solution Ltd",4
 "AS52401","CABLESAT TV SRL",4
 "AS5432","Proximus NV",4
+"AS56067","Metrabyte Co.,Ltd",4
 "AS58369","PT. Fiber Networks Indonesia",4
 "AS58495","PT Parsaoran Global Datatrans",4
 "AS59142","Pemerintah Kota Batam",4
@@ -624,7 +625,6 @@ ASN,Organization,IP_Count
 "AS50274","Alfanet LLC",3
 "AS5065","Bunny Communications",3
 "AS55699","PT. Cemerlang Multimedia",3
-"AS56067","Metrabyte Co.,Ltd",3
 "AS5607","Sky UK Limited",3
 "AS56694","LLC Smart Ape",3
 "AS57269","DIGI SPAIN TELECOM S.L.U.",3
