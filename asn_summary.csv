@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87572
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21690
-"AS398324","Censys, Inc.",11277
+"AS398324","Censys, Inc.",11278
 "AS396982","Google LLC",9669
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7090
@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4410
 "AS16509","Amazon.com, Inc.",3836
-"AS45102","Alibaba (US) Technology Co., Ltd.",3523
+"AS45102","Alibaba (US) Technology Co., Ltd.",3525
 "AS63949","Akamai Technologies, Inc.",3476
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
@@ -32,15 +32,15 @@ ASN,Organization,IP_Count
 "AS0","",1169
 "AS399045","DediOutlet, LLC",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS22552","eSited Solutions",1097
+"AS22552","eSited Solutions",1098
 "AS201401","NewVM B.V.",1076
-"AS174","Cogent Communications",951
+"AS174","Cogent Communications",952
 "AS208684","BHA CONSEIL SARL",951
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
+"AS32475","Internap Holding LLC",804
 "AS208046","ColocationX Ltd.",803
-"AS32475","Internap Holding LLC",803
 "AS8452","TE-AS",803
 "AS215925","VPSVAULT.HOST LTD",764
 "AS23470","ReliableSite.Net LLC",727
@@ -194,10 +194,10 @@ ASN,Organization,IP_Count
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
 "AS2200","Renater",26
+"AS269193","Iktelecom Ltda",26
 "AS3209","Vodafone GmbH",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS149705","PT Wijaya Trimitra Indonesia",25
-"AS269193","Iktelecom Ltda",25
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",25
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",24
 "AS198037","SPACECORE SOLUTION LTD",23
