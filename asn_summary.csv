@@ -2,22 +2,22 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87575
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21694
-"AS398324","Censys, Inc.",11291
+"AS398324","Censys, Inc.",11293
 "AS396982","Google LLC",9673
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7097
+"AS14061","DigitalOcean, LLC",7098
 "AS16276","OVH SAS",5633
 "AS4134","Chinanet",4795
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4410
 "AS16509","Amazon.com, Inc.",3836
-"AS45102","Alibaba (US) Technology Co., Ltd.",3528
+"AS45102","Alibaba (US) Technology Co., Ltd.",3531
 "AS63949","Akamai Technologies, Inc.",3476
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
 "AS51396","Pfcloud UG",3036
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2550
+"AS8075","Microsoft Corporation",2551
 "AS142002","Scloud Pte Ltd",2526
 "AS6939","Hurricane Electric LLC",2220
 "AS9808","China Mobile",2057
@@ -28,14 +28,14 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1321
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1219
-"AS0","",1199
+"AS0","",1200
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS22552","eSited Solutions",1098
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",954
-"AS208684","BHA CONSEIL SARL",951
+"AS208684","BHA CONSEIL SARL",952
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -48,7 +48,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
-"AS10439","CariNet, Inc.",531
+"AS10439","CariNet, Inc.",532
 "AS14618","Amazon.com, Inc.",527
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",522
@@ -64,8 +64,8 @@ ASN,Organization,IP_Count
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS51115","HLL LLC",362
+"AS53667","FranTech Solutions",336
 "AS3462","Chunghwa Telecom Co., Ltd.",335
-"AS53667","FranTech Solutions",335
 "AS21859","Zenlayer Inc",330
 "AS9829","Bharat Sanchar Nigam Ltd",329
 "AS214943","Railnet LLC",313
@@ -82,7 +82,7 @@ ASN,Organization,IP_Count
 "AS209272","Alviva Holding Limited",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
-"AS13335","Cloudflare, Inc.",210
+"AS13335","Cloudflare, Inc.",211
 "AS7713","Telekomunikasi Indonesia (PT)",210
 "AS208843","Alpha Strike Labs GmbH",193
 "AS213613","BOTSHIELD LTD",183
@@ -359,6 +359,7 @@ ASN,Organization,IP_Count
 "AS38283","CHINANET SiChuan Telecom Internet Data Center",8
 "AS41608","NextGenWebs, S.L.",8
 "AS6698","Virtual Systems LLC",8
+"AS8796","FD-298-8796",8
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",8
 "AS133661","Netplus Broadband Services Private Limited",7
 "AS137718","Beijing Volcano Engine Technology Co., Ltd.",7
@@ -385,7 +386,6 @@ ASN,Organization,IP_Count
 "AS63838","Hengyang",7
 "AS7303","Telecom Argentina S.A.",7
 "AS7922","Comcast Cable Communications, LLC",7
-"AS8796","FD-298-8796",7
 "AS9038","Batelco Jordan",7
 "AS9658","Eastern Telecommunications Philippines, Inc.",7
 "AS12322","Free SAS",6
@@ -442,6 +442,7 @@ ASN,Organization,IP_Count
 "AS207656","Epinatura LLC",5
 "AS210538","KEYUBU Internet ve Bilisim Tic. Ltd. Sti.",5
 "AS21056","Vianova S.p.A",5
+"AS21127","Joint Stock Company TransTeleCom",5
 "AS21246","IPKO Telecommunications LLC",5
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",5
 "AS213851","Marcel Hanisch",5
@@ -493,7 +494,6 @@ ASN,Organization,IP_Count
 "AS207957","SERV.HOST GROUP LTD",4
 "AS208040","RSS (RAPID SOFTWARE SYSTEMS) CYPRUS LTD",4
 "AS208208","Marco Lingl trading as Cyberse GmbH & Co. KG",4
-"AS21127","Joint Stock Company TransTeleCom",4
 "AS212042","Istqrar for Servers Services Ltd",4
 "AS212219","HOSTING DUNYAM BILISIM TEKNOLOJILERI TICARET LIMITED SIRKETI",4
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",4
