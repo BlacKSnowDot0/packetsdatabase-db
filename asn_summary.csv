@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1100
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",957
-"AS208684","BHA CONSEIL SARL",952
+"AS208684","BHA CONSEIL SARL",953
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -43,21 +43,21 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",804
 "AS8452","TE-AS",803
 "AS215925","VPSVAULT.HOST LTD",766
-"AS23470","ReliableSite.Net LLC",732
+"AS23470","ReliableSite.Net LLC",733
 "AS36352","HostPapa",729
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS10439","CariNet, Inc.",536
-"AS14618","Amazon.com, Inc.",527
+"AS14618","Amazon.com, Inc.",528
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",522
 "AS9009","M247 Europe SRL",514
 "AS140292","China Telecom",509
-"AS4837","CHINA UNICOM China169 Backbone",494
+"AS4837","CHINA UNICOM China169 Backbone",495
 "AS50360","Tamatiya EOOD",492
-"AS20052","Arbor Networks, Inc.",486
-"AS201814","MEVSPACE sp. z o.o.",472
+"AS20052","Arbor Networks, Inc.",487
+"AS201814","MEVSPACE sp. z o.o.",473
 "AS212238","Datacamp Limited",454
 "AS51167","Contabo GmbH",452
 "AS21299","Kar-Tel LLC",405
@@ -850,6 +850,7 @@ ASN,Organization,IP_Count
 "AS50886","NETFIL SRL",2
 "AS5089","Virgin Media Limited",2
 "AS51248","Host-Telecom.com s.r.o.",2
+"AS51468","One.com A/S",2
 "AS51604","JSC ""ER-Telecom Holding""",2
 "AS51612","Alfatel plus Ltd",2
 "AS52041","Scaleblade, Ltd.",2
@@ -1419,7 +1420,6 @@ ASN,Organization,IP_Count
 "AS51010","National Agency of Public Registry",1
 "AS51028","Zummer LLC",1
 "AS51346","Opened Joint Stock Company ""Tojiktelecom""",1
-"AS51468","One.com A/S",1
 "AS51685","Mikron-Media LLC",1
 "AS51784","""X-City"" Ltd.",1
 "AS51791","Remzi Toker",1
