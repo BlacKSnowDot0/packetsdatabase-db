@@ -2,16 +2,16 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87577
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21696
-"AS398324","Censys, Inc.",11318
-"AS396982","Google LLC",9679
+"AS398324","Censys, Inc.",11320
+"AS396982","Google LLC",9680
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7108
+"AS14061","DigitalOcean, LLC",7111
 "AS16276","OVH SAS",5637
 "AS4134","Chinanet",4797
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4411
 "AS16509","Amazon.com, Inc.",3837
-"AS45102","Alibaba (US) Technology Co., Ltd.",3549
+"AS45102","Alibaba (US) Technology Co., Ltd.",3552
 "AS63949","Akamai Technologies, Inc.",3479
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
@@ -57,13 +57,13 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",495
 "AS50360","Tamatiya EOOD",492
 "AS20052","Arbor Networks, Inc.",488
-"AS201814","MEVSPACE sp. z o.o.",473
+"AS201814","MEVSPACE sp. z o.o.",474
 "AS212238","Datacamp Limited",454
-"AS51167","Contabo GmbH",452
+"AS51167","Contabo GmbH",453
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS51115","HLL LLC",364
+"AS51115","HLL LLC",365
 "AS53667","FranTech Solutions",339
 "AS3462","Chunghwa Telecom Co., Ltd.",335
 "AS21859","Zenlayer Inc",330
@@ -587,6 +587,7 @@ ASN,Organization,IP_Count
 "AS22612","Namecheap, Inc.",3
 "AS22773","Cox Communications Inc.",3
 "AS23028","Team Cymru Inc.",3
+"AS24961","WIIT AG",3
 "AS25084","Politechnika Czestochowska",3
 "AS262186","TV AZTECA SUCURSAL COLOMBIA",3
 "AS264323","OXMAN TECNOLOGIA LTDA",3
@@ -752,7 +753,6 @@ ASN,Organization,IP_Count
 "AS24550","Websurfer Nepal Communication System Pvt. Ltd",2
 "AS24739","JSC ""Severen-Telecom""",2
 "AS24945","Telecommunication Company Vinteleport Ltd.",2
-"AS24961","WIIT AG",2
 "AS25159","PJSC MegaFon",2
 "AS2516","KDDI CORPORATION",2
 "AS2519","ARTERIA Networks Corporation",2
