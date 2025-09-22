@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4411
 "AS16509","Amazon.com, Inc.",3837
-"AS45102","Alibaba (US) Technology Co., Ltd.",3546
+"AS45102","Alibaba (US) Technology Co., Ltd.",3547
 "AS63949","Akamai Technologies, Inc.",3479
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
@@ -27,19 +27,19 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1323
 "AS215269","LAZYCLOUD LTD",1312
-"AS49870","Alsycon B.V.",1220
+"AS49870","Alsycon B.V.",1221
 "AS0","",1204
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS22552","eSited Solutions",1100
+"AS22552","eSited Solutions",1101
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",957
 "AS208684","BHA CONSEIL SARL",953
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
-"AS32475","Internap Holding LLC",814
+"AS32475","Internap Holding LLC",815
 "AS208046","ColocationX Ltd.",804
 "AS8452","TE-AS",803
 "AS215925","VPSVAULT.HOST LTD",766
@@ -268,6 +268,7 @@ ASN,Organization,IP_Count
 "AS49531","""NetCom-R"" LLC",15
 "AS53118","NETLINE TELECOM",15
 "AS136142","Enigma Fiber Pvt Ltd",14
+"AS202448","MVPS LTD",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS329490","Promethean Consulting Limited",14
 "AS36947","Telecom Algeria",14
@@ -275,7 +276,6 @@ ASN,Organization,IP_Count
 "AS45758","Triple T Broadband Public Company Limited",14
 "AS4816","China Telecom (Group)",14
 "AS48721","Flyservers S.A.",14
-"AS202448","MVPS LTD",13
 "AS213194","Nechaev Dmitry Sergeevich",13
 "AS24940","Hetzner Online GmbH",13
 "AS25369","Hydra Communications Ltd",13
