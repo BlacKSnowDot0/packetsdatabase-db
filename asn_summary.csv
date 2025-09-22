@@ -1,13 +1,13 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87575
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
-"AS211298","Driftnet Ltd",21692
-"AS398324","Censys, Inc.",11288
+"AS211298","Driftnet Ltd",21694
+"AS398324","Censys, Inc.",11291
 "AS396982","Google LLC",9673
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7097
 "AS16276","OVH SAS",5633
-"AS4134","Chinanet",4794
+"AS4134","Chinanet",4795
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4410
 "AS16509","Amazon.com, Inc.",3836
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1321
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1219
-"AS0","",1198
+"AS0","",1199
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
@@ -39,7 +39,7 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
-"AS32475","Internap Holding LLC",808
+"AS32475","Internap Holding LLC",811
 "AS208046","ColocationX Ltd.",804
 "AS8452","TE-AS",803
 "AS215925","VPSVAULT.HOST LTD",764
@@ -56,7 +56,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",508
 "AS4837","CHINA UNICOM China169 Backbone",493
 "AS50360","Tamatiya EOOD",492
-"AS20052","Arbor Networks, Inc.",474
+"AS20052","Arbor Networks, Inc.",475
 "AS201814","MEVSPACE sp. z o.o.",472
 "AS212238","Datacamp Limited",454
 "AS51167","Contabo GmbH",452
@@ -362,6 +362,7 @@ ASN,Organization,IP_Count
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",8
 "AS133661","Netplus Broadband Services Private Limited",7
 "AS137718","Beijing Volcano Engine Technology Co., Ltd.",7
+"AS142032","High Family Technology Co., Limited",7
 "AS17762","Tata Teleservices (Maharashtra) Ltd",7
 "AS197309","RS-Media LLC",7
 "AS20115","Charter Communications",7
@@ -392,7 +393,6 @@ ASN,Organization,IP_Count
 "AS135523","Multinet Broadband",6
 "AS138915","Kaopu Cloud HK Limited",6
 "AS141167","AgotoZ HK Limited",6
-"AS142032","High Family Technology Co., Limited",6
 "AS149078","VPSMMO TECHNOLOGY COMPANY LIMITED",6
 "AS16611","InfiniaHost.com",6
 "AS17639","ComClark Network & Technology Corp",6
