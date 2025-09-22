@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87576
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21694
-"AS398324","Censys, Inc.",11298
-"AS396982","Google LLC",9676
+"AS398324","Censys, Inc.",11299
+"AS396982","Google LLC",9677
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7100
 "AS16276","OVH SAS",5633
@@ -11,13 +11,13 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4410
 "AS16509","Amazon.com, Inc.",3836
-"AS45102","Alibaba (US) Technology Co., Ltd.",3538
+"AS45102","Alibaba (US) Technology Co., Ltd.",3541
 "AS63949","Akamai Technologies, Inc.",3477
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
 "AS51396","Pfcloud UG",3036
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2551
+"AS8075","Microsoft Corporation",2552
 "AS142002","Scloud Pte Ltd",2526
 "AS6939","Hurricane Electric LLC",2222
 "AS9808","China Mobile",2057
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS22552","eSited Solutions",1098
+"AS22552","eSited Solutions",1099
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",956
 "AS208684","BHA CONSEIL SARL",952
@@ -64,7 +64,7 @@ ASN,Organization,IP_Count
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS51115","HLL LLC",362
-"AS53667","FranTech Solutions",336
+"AS53667","FranTech Solutions",337
 "AS3462","Chunghwa Telecom Co., Ltd.",335
 "AS21859","Zenlayer Inc",330
 "AS9829","Bharat Sanchar Nigam Ltd",330
@@ -193,10 +193,10 @@ ASN,Organization,IP_Count
 "AS30633","Leaseweb USA, Inc.",27
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
+"AS38623","VIETTEL (CAMBODIA) PTE., LTD",27
 "AS2200","Renater",26
 "AS269193","Iktelecom Ltda",26
 "AS3209","Vodafone GmbH",26
-"AS38623","VIETTEL (CAMBODIA) PTE., LTD",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS149705","PT Wijaya Trimitra Indonesia",25
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",24
