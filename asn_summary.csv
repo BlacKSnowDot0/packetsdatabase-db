@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87575
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87576
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21694
-"AS398324","Censys, Inc.",11293
+"AS398324","Censys, Inc.",11294
 "AS396982","Google LLC",9673
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7098
@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4410
 "AS16509","Amazon.com, Inc.",3836
-"AS45102","Alibaba (US) Technology Co., Ltd.",3531
+"AS45102","Alibaba (US) Technology Co., Ltd.",3533
 "AS63949","Akamai Technologies, Inc.",3476
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2551
 "AS142002","Scloud Pte Ltd",2526
-"AS6939","Hurricane Electric LLC",2220
+"AS6939","Hurricane Electric LLC",2221
 "AS9808","China Mobile",2057
 "AS202425","IP Volume inc",1650
 "AS214295","SKYNET NETWORK LTD",1631
@@ -28,13 +28,13 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1321
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1219
-"AS0","",1200
+"AS0","",1201
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS22552","eSited Solutions",1098
 "AS201401","NewVM B.V.",1076
-"AS174","Cogent Communications",955
+"AS174","Cogent Communications",956
 "AS208684","BHA CONSEIL SARL",952
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -44,7 +44,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",803
 "AS215925","VPSVAULT.HOST LTD",764
 "AS23470","ReliableSite.Net LLC",729
-"AS36352","HostPapa",725
+"AS36352","HostPapa",728
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
@@ -56,7 +56,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",508
 "AS4837","CHINA UNICOM China169 Backbone",493
 "AS50360","Tamatiya EOOD",492
-"AS20052","Arbor Networks, Inc.",475
+"AS20052","Arbor Networks, Inc.",476
 "AS201814","MEVSPACE sp. z o.o.",472
 "AS212238","Datacamp Limited",454
 "AS51167","Contabo GmbH",452
@@ -150,7 +150,7 @@ ASN,Organization,IP_Count
 "AS215590","DpkgSoft International Limited",47
 "AS266181","GOLDEN LINK",47
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
-"AS55720","Gigabit Hosting Sdn Bhd",45
+"AS55720","Gigabit Hosting Sdn Bhd",46
 "AS150263","PT Alnet Telekomunikasi Indonesia",44
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
