@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87576
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87577
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21696
 "AS398324","Censys, Inc.",11309
 "AS396982","Google LLC",9677
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7102
+"AS14061","DigitalOcean, LLC",7103
 "AS16276","OVH SAS",5636
 "AS4134","Chinanet",4797
 "AS6568","Entel S.A. - EntelNet",4536
@@ -25,10 +25,10 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1475
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS398722","Censys, Inc.",1321
+"AS398722","Censys, Inc.",1322
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1219
-"AS0","",1202
+"AS0","",1203
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
@@ -39,7 +39,7 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
-"AS32475","Internap Holding LLC",812
+"AS32475","Internap Holding LLC",813
 "AS208046","ColocationX Ltd.",804
 "AS8452","TE-AS",803
 "AS215925","VPSVAULT.HOST LTD",766
@@ -275,6 +275,7 @@ ASN,Organization,IP_Count
 "AS45758","Triple T Broadband Public Company Limited",14
 "AS4816","China Telecom (Group)",14
 "AS48721","Flyservers S.A.",14
+"AS202448","MVPS LTD",13
 "AS213194","Nechaev Dmitry Sergeevich",13
 "AS24940","Hetzner Online GmbH",13
 "AS25369","Hydra Communications Ltd",13
@@ -286,7 +287,6 @@ ASN,Organization,IP_Count
 "AS140726","China Unicom",12
 "AS17621","China Unicom Shanghai network",12
 "AS200593","PROSPERO OOO",12
-"AS202448","MVPS LTD",12
 "AS213438","ColocaTel Inc.",12
 "AS24757","EthioNet",12
 "AS2637","Georgia Institute of Technology",12
