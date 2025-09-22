@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87576
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21694
-"AS398324","Censys, Inc.",11300
+"AS398324","Censys, Inc.",11301
 "AS396982","Google LLC",9677
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7102
@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4410
 "AS16509","Amazon.com, Inc.",3836
-"AS45102","Alibaba (US) Technology Co., Ltd.",3542
+"AS45102","Alibaba (US) Technology Co., Ltd.",3544
 "AS63949","Akamai Technologies, Inc.",3477
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
@@ -56,7 +56,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS4837","CHINA UNICOM China169 Backbone",494
 "AS50360","Tamatiya EOOD",492
-"AS20052","Arbor Networks, Inc.",479
+"AS20052","Arbor Networks, Inc.",480
 "AS201814","MEVSPACE sp. z o.o.",472
 "AS212238","Datacamp Limited",454
 "AS51167","Contabo GmbH",452
@@ -149,8 +149,8 @@ ASN,Organization,IP_Count
 "AS34984","Superonline Iletisim Hizmetleri A.S.",49
 "AS215590","DpkgSoft International Limited",47
 "AS266181","GOLDEN LINK",47
+"AS55720","Gigabit Hosting Sdn Bhd",47
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
-"AS55720","Gigabit Hosting Sdn Bhd",46
 "AS150263","PT Alnet Telekomunikasi Indonesia",45
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
@@ -540,6 +540,7 @@ ASN,Organization,IP_Count
 "AS9541","Cyber Internet Services (Private) Limited",4
 "AS10029","SHYAM SPECTRA PVT LTD",3
 "AS1101","SURF B.V.",3
+"AS11172","Alestra, S. de R.L. de C.V.",3
 "AS11426","Charter Communications Inc",3
 "AS11562","Net Uno, C.A.",3
 "AS12353","Vodafone Portugal - Communicacoes Pessoais S.A.",3
@@ -643,7 +644,6 @@ ASN,Organization,IP_Count
 "AS10001","Mics Network Corporation",2
 "AS10139","Smart Broadband, Inc.",2
 "AS10834","Telefonica de Argentina",2
-"AS11172","Alestra, S. de R.L. de C.V.",2
 "AS11556","Cable & Wireless Panama",2
 "AS12271","Charter Communications Inc",2
 "AS12479","Orange Espagne SA",2
