@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87576
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
-"AS211298","Driftnet Ltd",21694
-"AS398324","Censys, Inc.",11302
+"AS211298","Driftnet Ltd",21696
+"AS398324","Censys, Inc.",11305
 "AS396982","Google LLC",9677
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7102
@@ -10,7 +10,7 @@ ASN,Organization,IP_Count
 "AS4134","Chinanet",4797
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4410
-"AS16509","Amazon.com, Inc.",3836
+"AS16509","Amazon.com, Inc.",3837
 "AS45102","Alibaba (US) Technology Co., Ltd.",3544
 "AS63949","Akamai Technologies, Inc.",3477
 "AS398705","Censys, Inc.",3238
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",804
 "AS8452","TE-AS",803
 "AS215925","VPSVAULT.HOST LTD",765
-"AS23470","ReliableSite.Net LLC",731
+"AS23470","ReliableSite.Net LLC",732
 "AS36352","HostPapa",728
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -56,7 +56,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS4837","CHINA UNICOM China169 Backbone",494
 "AS50360","Tamatiya EOOD",492
-"AS20052","Arbor Networks, Inc.",481
+"AS20052","Arbor Networks, Inc.",483
 "AS201814","MEVSPACE sp. z o.o.",472
 "AS212238","Datacamp Limited",454
 "AS51167","Contabo GmbH",452
@@ -90,7 +90,7 @@ ASN,Organization,IP_Count
 "AS401116","Nybula LLC",170
 "AS12389","PJSC Rostelecom",169
 "AS12555","Data-center IMAQLIQ Ltd.",165
-"AS63199","CDS Global Cloud Co., Ltd",164
+"AS63199","CDS Global Cloud Co., Ltd",165
 "AS45899","VNPT Corp",159
 "AS206264","Amarutu Technology Ltd",153
 "AS47105","Vault Dweller OU",141
@@ -187,11 +187,11 @@ ASN,Organization,IP_Count
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS141679","China Telecom",28
+"AS30633","Leaseweb USA, Inc.",28
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS1241","RIPE Network Coordination Centre",27
 "AS269193","Iktelecom Ltda",27
-"AS30633","Leaseweb USA, Inc.",27
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",27
@@ -310,6 +310,7 @@ ASN,Organization,IP_Count
 "AS37457","Telkom SA Ltd.",11
 "AS38264","Wateen Telecom Limited",11
 "AS39351","31173 Services AB",11
+"AS41075","ATW Internet Kft.",11
 "AS41436","Kamatera Inc",11
 "AS41745","Baykov Ilya Sergeevich",11
 "AS45820","TTSL-ISP DIVISION",11
@@ -321,7 +322,6 @@ ASN,Organization,IP_Count
 "AS153443","VPSRE.NET LLC",10
 "AS24547","China Mobile",10
 "AS30823","aurologic GmbH",10
-"AS41075","ATW Internet Kft.",10
 "AS41420","Xentech B.V.",10
 "AS44901","Belcloud LTD",10
 "AS4760","PCCW IMS Limited",10
