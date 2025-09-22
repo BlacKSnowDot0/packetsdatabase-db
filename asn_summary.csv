@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87576
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21694
-"AS398324","Censys, Inc.",11301
+"AS398324","Censys, Inc.",11302
 "AS396982","Google LLC",9677
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7102
@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3477
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
-"AS51396","Pfcloud UG",3036
+"AS51396","Pfcloud UG",3037
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2552
 "AS142002","Scloud Pte Ltd",2526
@@ -56,7 +56,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS4837","CHINA UNICOM China169 Backbone",494
 "AS50360","Tamatiya EOOD",492
-"AS20052","Arbor Networks, Inc.",480
+"AS20052","Arbor Networks, Inc.",481
 "AS201814","MEVSPACE sp. z o.o.",472
 "AS212238","Datacamp Limited",454
 "AS51167","Contabo GmbH",452
@@ -698,6 +698,7 @@ ASN,Organization,IP_Count
 "AS17511","OPTAGE Inc.",2
 "AS1759","Telia Finland Oyj",2
 "AS17622","China Unicom Guangzhou network",2
+"AS17813","Mahanagar Telephone Nigam Limited",2
 "AS18001","Dialog Axiata Plc",2
 "AS18103","Neuviz Net",2
 "AS18233","Philippine Telelgraph & Telephone",2
@@ -1039,7 +1040,6 @@ ASN,Organization,IP_Count
 "AS17577","LG HelloVision Corp.",1
 "AS17623","China Unicom Shenzen network",1
 "AS17670","PT. MNC Kabel Mediacom",1
-"AS17813","Mahanagar Telephone Nigam Limited",1
 "AS17917","Quadrant Televentures Limited",1
 "AS18182","Sony Network Taiwan Limited",1
 "AS18187","WifiCity, Inc",1
