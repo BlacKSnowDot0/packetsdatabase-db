@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87576
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21696
-"AS398324","Censys, Inc.",11305
+"AS398324","Censys, Inc.",11306
 "AS396982","Google LLC",9677
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7102
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS22552","eSited Solutions",1100
 "AS201401","NewVM B.V.",1076
-"AS174","Cogent Communications",956
+"AS174","Cogent Communications",957
 "AS208684","BHA CONSEIL SARL",952
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -56,7 +56,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS4837","CHINA UNICOM China169 Backbone",494
 "AS50360","Tamatiya EOOD",492
-"AS20052","Arbor Networks, Inc.",483
+"AS20052","Arbor Networks, Inc.",484
 "AS201814","MEVSPACE sp. z o.o.",472
 "AS212238","Datacamp Limited",454
 "AS51167","Contabo GmbH",452
@@ -71,7 +71,7 @@ ASN,Organization,IP_Count
 "AS214943","Railnet LLC",313
 "AS24863","LINKdotNET AS number",307
 "AS210848","Telkom Internet LTD",296
-"AS12876","ONLINE S.A.S.",287
+"AS12876","ONLINE S.A.S.",288
 "AS9341","PT Indonesia Comnets Plus",278
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",273
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",253
@@ -152,10 +152,10 @@ ASN,Organization,IP_Count
 "AS55720","Gigabit Hosting Sdn Bhd",47
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
 "AS150263","PT Alnet Telekomunikasi Indonesia",45
+"AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",44
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
 "AS152194","CTG Server Limited",43
-"AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",43
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS396356","Latitude.sh",41
 "AS7552","Viettel Group",40
@@ -225,6 +225,7 @@ ASN,Organization,IP_Count
 "AS202306","HOSTGLOBAL.PLUS LTD",20
 "AS46573","LayerHost",20
 "AS1103","SURF B.V.",19
+"AS24348","CERNET2 IX at Tsinghua University",19
 "AS262287","Maxihost LTDA",19
 "AS43641","SOLLUTIUM EU Sp z.o.o.",19
 "AS46475","Limestone Networks, Inc.",19
@@ -236,7 +237,6 @@ ASN,Organization,IP_Count
 "AS17638","ASN for TIANJIN Provincial Net of CT",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",18
-"AS24348","CERNET2 IX at Tsinghua University",18
 "AS24560","Bharti Airtel Limited",18
 "AS329009","Spectrum Internet Service Ltd",18
 "AS400655","NixLabs Networks",18
