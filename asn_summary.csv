@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87578
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21698
-"AS398324","Censys, Inc.",11337
+"AS398324","Censys, Inc.",11338
 "AS396982","Google LLC",9690
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7116
@@ -64,7 +64,7 @@ ASN,Organization,IP_Count
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS51115","HLL LLC",368
-"AS53667","FranTech Solutions",340
+"AS53667","FranTech Solutions",341
 "AS3462","Chunghwa Telecom Co., Ltd.",335
 "AS21859","Zenlayer Inc",330
 "AS9829","Bharat Sanchar Nigam Ltd",330
@@ -400,6 +400,7 @@ ASN,Organization,IP_Count
 "AS18881","TELEFÔNICA BRASIL S.A",6
 "AS203020","HostRoyale Technologies Pvt Ltd",6
 "AS204834","Shabakieh Isfahan Co PJSC",6
+"AS210538","KEYUBU Internet ve Bilisim Tic. Ltd. Sti.",6
 "AS211507","Julian Achter",6
 "AS212374","Virtuozzo International GmbH",6
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",6
@@ -441,7 +442,6 @@ ASN,Organization,IP_Count
 "AS198983","Joseph Hofmann trading as 'Tornado Datacenter GmbH & Co. KG'",5
 "AS202468","Noyan Abr Arvan Co. ( Private Joint Stock)",5
 "AS207656","Epinatura LLC",5
-"AS210538","KEYUBU Internet ve Bilisim Tic. Ltd. Sti.",5
 "AS21056","Vianova S.p.A",5
 "AS21127","Joint Stock Company TransTeleCom",5
 "AS21246","IPKO Telecommunications LLC",5
