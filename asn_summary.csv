@@ -7,7 +7,7 @@ ASN,Organization,IP_Count
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7123
 "AS16276","OVH SAS",5639
-"AS4134","Chinanet",4820
+"AS4134","Chinanet",4852
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4411
 "AS16509","Amazon.com, Inc.",3837
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS10439","CariNet, Inc.",540
-"AS14618","Amazon.com, Inc.",533
+"AS14618","Amazon.com, Inc.",534
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",522
 "AS9009","M247 Europe SRL",517
@@ -985,6 +985,7 @@ ASN,Organization,IP_Count
 "AS47702","Teleradiocompany Discovery Ltd.",2
 "AS48004","PE Tsibrankov Konstantin Igorevich",2
 "AS4818","DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",2
+"AS48282","Hosting technology LTD",2
 "AS48314","Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG",2
 "AS48678","PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi",2
 "AS48832","Linkdotnet-Jordan",2
@@ -1843,7 +1844,6 @@ ASN,Organization,IP_Count
 "AS48124","MTS PJSC",1
 "AS48166","FORTEX CJSC",1
 "AS48206","Net Pro sarl",1
-"AS48282","Hosting technology LTD",1
 "AS48416","Information Network, LLC",1
 "AS48437","PP ""Merezha""",1
 "AS48441","Society with limited liability MagLAN",1
