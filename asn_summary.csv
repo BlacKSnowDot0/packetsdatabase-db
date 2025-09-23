@@ -1,9 +1,9 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87578
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87580
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21698
-"AS398324","Censys, Inc.",11357
-"AS396982","Google LLC",9692
+"AS398324","Censys, Inc.",11360
+"AS396982","Google LLC",9693
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7119
 "AS16276","OVH SAS",5638
@@ -12,15 +12,15 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4411
 "AS16509","Amazon.com, Inc.",3837
 "AS45102","Alibaba (US) Technology Co., Ltd.",3556
-"AS63949","Akamai Technologies, Inc.",3479
+"AS63949","Akamai Technologies, Inc.",3480
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
 "AS51396","Pfcloud UG",3040
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2556
-"AS142002","Scloud Pte Ltd",2526
-"AS6939","Hurricane Electric LLC",2229
-"AS9808","China Mobile",2057
+"AS142002","Scloud Pte Ltd",2529
+"AS6939","Hurricane Electric LLC",2230
+"AS9808","China Mobile",2058
 "AS202425","IP Volume inc",1652
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1476
@@ -43,8 +43,8 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",804
 "AS8452","TE-AS",803
 "AS215925","VPSVAULT.HOST LTD",767
-"AS36352","HostPapa",754
-"AS23470","ReliableSite.Net LLC",736
+"AS36352","HostPapa",755
+"AS23470","ReliableSite.Net LLC",738
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",531
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",522
-"AS9009","M247 Europe SRL",515
+"AS9009","M247 Europe SRL",516
 "AS140292","China Telecom",509
 "AS20052","Arbor Networks, Inc.",496
 "AS4837","CHINA UNICOM China169 Backbone",495
@@ -765,6 +765,7 @@ ASN,Organization,IP_Count
 "AS264191","Eagnet Telecomunicações Eireli-Me",2
 "AS264628","CORPORACION FIBEX TELECOM, C.A.",2
 "AS265499","GS Telecomunicações Ltda",2
+"AS268069","SPACE TELECOMUNICACAO EIRELI",2
 "AS268437","BRAXTEL TELECOM E TI",2
 "AS271907","COLNETWORK C.A.",2
 "AS272786","X99 INTERNET LTDA.",2
@@ -1222,7 +1223,6 @@ ASN,Organization,IP_Count
 "AS267809","360NET C.A.",1
 "AS267823","ATENEA TELECOMUNICACIONES S.A.S",1
 "AS268062","REDE SMART SOLUCAO EM INTERNET EIRELI",1
-"AS268069","SPACE TELECOMUNICACAO EIRELI",1
 "AS268321","SM Passos Kayser Sistemas de Comunicações ME",1
 "AS268470","CONECTAR TELECOM BANDA LARGA LTDA",1
 "AS268581","QNAX LTDA",1
