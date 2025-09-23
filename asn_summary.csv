@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87578
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21698
-"AS398324","Censys, Inc.",11354
-"AS396982","Google LLC",9691
+"AS398324","Censys, Inc.",11357
+"AS396982","Google LLC",9692
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7119
 "AS16276","OVH SAS",5638
@@ -17,7 +17,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3163
 "AS51396","Pfcloud UG",3040
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2555
+"AS8075","Microsoft Corporation",2556
 "AS142002","Scloud Pte Ltd",2526
 "AS6939","Hurricane Electric LLC",2229
 "AS9808","China Mobile",2057
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS22552","eSited Solutions",1102
+"AS22552","eSited Solutions",1103
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",960
 "AS208684","BHA CONSEIL SARL",954
@@ -58,8 +58,8 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",495
 "AS50360","Tamatiya EOOD",492
 "AS201814","MEVSPACE sp. z o.o.",475
+"AS51167","Contabo GmbH",455
 "AS212238","Datacamp Limited",454
-"AS51167","Contabo GmbH",454
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
