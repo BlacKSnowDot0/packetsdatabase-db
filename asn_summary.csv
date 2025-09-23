@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87578
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21698
-"AS398324","Censys, Inc.",11336
-"AS396982","Google LLC",9689
+"AS398324","Censys, Inc.",11337
+"AS396982","Google LLC",9690
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7116
 "AS16276","OVH SAS",5638
@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3479
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
-"AS51396","Pfcloud UG",3039
+"AS51396","Pfcloud UG",3040
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2555
 "AS142002","Scloud Pte Ltd",2526
@@ -42,7 +42,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",824
 "AS208046","ColocationX Ltd.",804
 "AS8452","TE-AS",803
-"AS215925","VPSVAULT.HOST LTD",766
+"AS215925","VPSVAULT.HOST LTD",767
 "AS36352","HostPapa",754
 "AS23470","ReliableSite.Net LLC",736
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
@@ -63,7 +63,7 @@ ASN,Organization,IP_Count
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS51115","HLL LLC",367
+"AS51115","HLL LLC",368
 "AS53667","FranTech Solutions",340
 "AS3462","Chunghwa Telecom Co., Ltd.",335
 "AS21859","Zenlayer Inc",330
@@ -105,8 +105,8 @@ ASN,Organization,IP_Count
 "AS262551","Farol Telecom",109
 "AS42237","w1n ltd",106
 "AS50219","LNK SYSTEMS MUNTENIA SRL",97
+"AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",93
 "AS63018","Dedicated.com",92
-"AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",92
 "AS14956","RouterHosting LLC",89
 "AS58461","Chinanet",85
 "AS205352","KABELNET LTD",84
@@ -224,13 +224,13 @@ ASN,Organization,IP_Count
 "AS197540","netcup GmbH",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
 "AS46573","LayerHost",20
+"AS6134","XNNET LLC",20
 "AS1103","SURF B.V.",19
 "AS24348","CERNET2 IX at Tsinghua University",19
 "AS262287","Maxihost LTDA",19
 "AS43641","SOLLUTIUM EU Sp z.o.o.",19
 "AS46475","Limestone Networks, Inc.",19
 "AS58212","dataforest GmbH",19
-"AS6134","XNNET LLC",19
 "AS9299","Philippine Long Distance Telephone Co.",19
 "AS11878","tzulo, inc.",18
 "AS13213","UK-2 Limited",18
