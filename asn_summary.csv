@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87578
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21698
-"AS398324","Censys, Inc.",11340
-"AS396982","Google LLC",9690
+"AS398324","Censys, Inc.",11345
+"AS396982","Google LLC",9691
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7117
-"AS16276","OVH SAS",5638
+"AS16276","OVH SAS",5637
 "AS4134","Chinanet",4797
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4411
@@ -64,7 +64,7 @@ ASN,Organization,IP_Count
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS51115","HLL LLC",368
-"AS53667","FranTech Solutions",343
+"AS53667","FranTech Solutions",344
 "AS3462","Chunghwa Telecom Co., Ltd.",335
 "AS21859","Zenlayer Inc",330
 "AS9829","Bharat Sanchar Nigam Ltd",330
@@ -165,11 +165,11 @@ ASN,Organization,IP_Count
 "AS213790","Limited Network LTD",35
 "AS4538","China Education and Research Network Center",35
 "AS34665","Petersburg Internet Network ltd.",34
+"AS149746","PT Blip Integrator Provider",33
 "AS19318","Interserver, Inc",33
 "AS23969","TOT Public Company Limited",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
-"AS149746","PT Blip Integrator Provider",32
 "AS210558","1337 Services GmbH",32
 "AS262378","Compuservice Empreendimentos Ltda",32
 "AS42624","Global-Data System IT Corporation",32
@@ -290,6 +290,7 @@ ASN,Organization,IP_Count
 "AS213438","ColocaTel Inc.",12
 "AS24757","EthioNet",12
 "AS2637","Georgia Institute of Technology",12
+"AS2914","NTT America, Inc.",12
 "AS35042","Layer7 Networks GmbH",12
 "AS36992","ETISALAT MISR",12
 "AS4713","NTT Communications Corporation",12
@@ -305,7 +306,6 @@ ASN,Organization,IP_Count
 "AS214417","Andrii Hrosh",11
 "AS24151","China Internet Network Infomation Center",11
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
-"AS2914","NTT America, Inc.",11
 "AS3257","GTT Communications Inc.",11
 "AS37457","Telkom SA Ltd.",11
 "AS38264","Wateen Telecom Limited",11
@@ -811,7 +811,6 @@ ASN,Organization,IP_Count
 "AS39065","Southern Telecommunication Company Ltd.",2
 "AS39308","ANDISHE SABZ KHAZAR CO. P.J.S.",2
 "AS39421","Sapinet SAS",2
-"AS395201","Allnodes Inc",2
 "AS395570","Beanfield Technologies Inc.",2
 "AS39608","Lanet Network Ltd",2
 "AS39927","E-Light-Telecom Ltd.",2
@@ -1337,6 +1336,7 @@ ASN,Organization,IP_Count
 "AS394151","Whatbox Inc.",1
 "AS39422","Oleksandr Yaremenko",1
 "AS39501","Parvaresh Dadeha Co. Private Joint Stock",1
+"AS395201","Allnodes Inc",1
 "AS396073","Majestic Hosting Solutions, LLC",1
 "AS39798","MivoCloud SRL",1
 "AS39811","MTS PJSC",1
