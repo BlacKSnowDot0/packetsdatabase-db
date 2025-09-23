@@ -5,14 +5,14 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",11362
 "AS396982","Google LLC",9696
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7120
+"AS14061","DigitalOcean, LLC",7122
 "AS16276","OVH SAS",5639
 "AS4134","Chinanet",4797
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4411
 "AS16509","Amazon.com, Inc.",3837
 "AS45102","Alibaba (US) Technology Co., Ltd.",3557
-"AS63949","Akamai Technologies, Inc.",3480
+"AS63949","Akamai Technologies, Inc.",3481
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
 "AS51396","Pfcloud UG",3040
@@ -49,16 +49,16 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS10439","CariNet, Inc.",539
-"AS14618","Amazon.com, Inc.",531
+"AS14618","Amazon.com, Inc.",532
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",522
 "AS9009","M247 Europe SRL",517
 "AS140292","China Telecom",509
+"AS4837","CHINA UNICOM China169 Backbone",497
 "AS20052","Arbor Networks, Inc.",496
-"AS4837","CHINA UNICOM China169 Backbone",496
 "AS50360","Tamatiya EOOD",492
 "AS201814","MEVSPACE sp. z o.o.",475
-"AS51167","Contabo GmbH",455
+"AS51167","Contabo GmbH",456
 "AS212238","Datacamp Limited",454
 "AS21299","Kar-Tel LLC",405
 "AS24186","RailTel Corporation of India Ltd.",404
@@ -248,6 +248,7 @@ ASN,Organization,IP_Count
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
 "AS200514","KnownSRV Ltd.",17
+"AS32934","Facebook, Inc.",17
 "AS45117","Ishan's Network",17
 "AS56630","Melbikomas UAB",17
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",16
@@ -336,7 +337,6 @@ ASN,Organization,IP_Count
 "AS212504","AdKyNet SAS",9
 "AS214481","Wojciech Czapkowicz",9
 "AS24835","Vodafone Data - Egypt",9
-"AS32934","Facebook, Inc.",9
 "AS40244","Turnkey Internet Inc.",9
 "AS4847","China Networks Inter-Exchange",9
 "AS48874","HOSTMAZE INC SRL-D",9
