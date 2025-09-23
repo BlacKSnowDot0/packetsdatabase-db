@@ -3,7 +3,7 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21699
 "AS398324","Censys, Inc.",11365
-"AS396982","Google LLC",9696
+"AS396982","Google LLC",9697
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7124
 "AS16276","OVH SAS",5639
@@ -17,7 +17,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3163
 "AS51396","Pfcloud UG",3040
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2557
+"AS8075","Microsoft Corporation",2558
 "AS142002","Scloud Pte Ltd",2529
 "AS6939","Hurricane Electric LLC",2232
 "AS9808","China Mobile",2058
@@ -27,8 +27,8 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1324
 "AS215269","LAZYCLOUD LTD",1312
+"AS0","",1221
 "AS49870","Alsycon B.V.",1221
-"AS0","",1220
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
