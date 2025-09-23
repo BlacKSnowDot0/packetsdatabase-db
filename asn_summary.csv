@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87580
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21702
-"AS398324","Censys, Inc.",11368
-"AS396982","Google LLC",9701
+"AS398324","Censys, Inc.",11370
+"AS396982","Google LLC",9704
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7128
 "AS16276","OVH SAS",5639
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4411
 "AS16509","Amazon.com, Inc.",3837
 "AS45102","Alibaba (US) Technology Co., Ltd.",3558
-"AS63949","Akamai Technologies, Inc.",3483
+"AS63949","Akamai Technologies, Inc.",3484
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
 "AS51396","Pfcloud UG",3040
@@ -107,7 +107,7 @@ ASN,Organization,IP_Count
 "AS7922","Comcast Cable Communications, LLC",100
 "AS18403","FPT Telecom Company",98
 "AS50219","LNK SYSTEMS MUNTENIA SRL",97
-"AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",93
+"AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",94
 "AS63018","Dedicated.com",92
 "AS14956","RouterHosting LLC",89
 "AS58461","Chinanet",85
