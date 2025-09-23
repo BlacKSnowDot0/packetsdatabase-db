@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87580
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
-"AS211298","Driftnet Ltd",21701
-"AS398324","Censys, Inc.",11366
-"AS396982","Google LLC",9698
+"AS211298","Driftnet Ltd",21702
+"AS398324","Censys, Inc.",11368
+"AS396982","Google LLC",9701
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7127
+"AS14061","DigitalOcean, LLC",7128
 "AS16276","OVH SAS",5639
 "AS4134","Chinanet",4855
 "AS6568","Entel S.A. - EntelNet",4536
@@ -17,7 +17,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3163
 "AS51396","Pfcloud UG",3040
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2558
+"AS8075","Microsoft Corporation",2559
 "AS142002","Scloud Pte Ltd",2529
 "AS6939","Hurricane Electric LLC",2232
 "AS9808","China Mobile",2058
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1477
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS398722","Censys, Inc.",1324
+"AS398722","Censys, Inc.",1325
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1222
 "AS0","",1221
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS3462","Chunghwa Telecom Co., Ltd.",375
 "AS51115","HLL LLC",369
-"AS53667","FranTech Solutions",345
+"AS53667","FranTech Solutions",346
 "AS9829","Bharat Sanchar Nigam Ltd",335
 "AS21859","Zenlayer Inc",330
 "AS214943","Railnet LLC",313
@@ -86,7 +86,7 @@ ASN,Organization,IP_Count
 "AS13335","Cloudflare, Inc.",214
 "AS45899","VNPT Corp",198
 "AS208843","Alpha Strike Labs GmbH",195
-"AS213613","BOTSHIELD LTD",187
+"AS213613","BOTSHIELD LTD",188
 "AS12389","PJSC Rostelecom",181
 "AS141718","haoxiangyun",175
 "AS401116","Nybula LLC",170
@@ -273,6 +273,7 @@ ASN,Organization,IP_Count
 "AS6597","Coloblox Data Centers Inc",16
 "AS11426","Charter Communications Inc",15
 "AS136515","Dasca Cable Services, Inc.",15
+"AS202448","MVPS LTD",15
 "AS207713","GLOBAL INTERNET SOLUTIONS LLC",15
 "AS211619","MAXKO d.o.o.",15
 "AS263767","CORPORACIÓN GALA IT, C.A.",15
@@ -286,7 +287,6 @@ ASN,Organization,IP_Count
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",15
 "AS136142","Enigma Fiber Pvt Ltd",14
 "AS14593","Space Exploration Technologies Corporation",14
-"AS202448","MVPS LTD",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS26599","TELEFÔNICA BRASIL S.A",14
 "AS329490","Promethean Consulting Limited",14
