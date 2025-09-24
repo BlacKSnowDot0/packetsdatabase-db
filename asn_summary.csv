@@ -3,7 +3,7 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21703
 "AS398324","Censys, Inc.",11388
-"AS396982","Google LLC",9717
+"AS396982","Google LLC",9718
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7131
 "AS16276","OVH SAS",5642
@@ -17,7 +17,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3163
 "AS51396","Pfcloud UG",3041
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2562
+"AS8075","Microsoft Corporation",2563
 "AS142002","Scloud Pte Ltd",2529
 "AS6939","Hurricane Electric LLC",2249
 "AS9808","China Mobile",2058
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS22552","eSited Solutions",1107
+"AS22552","eSited Solutions",1108
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",965
 "AS208684","BHA CONSEIL SARL",955
@@ -75,7 +75,7 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",285
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",273
 "AS7713","Telekomunikasi Indonesia (PT)",272
-"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",257
+"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",258
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",254
 "AS47890","UNMANAGED LTD",252
 "AS48090","TECHOFF SRV LIMITED",249
@@ -105,8 +105,8 @@ ASN,Organization,IP_Count
 "AS262551","Farol Telecom",110
 "AS42237","w1n ltd",106
 "AS7922","Comcast Cable Communications, LLC",100
+"AS50219","LNK SYSTEMS MUNTENIA SRL",99
 "AS18403","FPT Telecom Company",98
-"AS50219","LNK SYSTEMS MUNTENIA SRL",98
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",94
 "AS63018","Dedicated.com",92
 "AS14956","RouterHosting LLC",89
@@ -711,6 +711,7 @@ ASN,Organization,IP_Count
 "AS46375","Sonic Telecom LLC",3
 "AS47154","HUSAM A. H. HIJAZI",3
 "AS4761","PT. INDOSAT Tbk",3
+"AS48282","Hosting technology LTD",3
 "AS48411","FOP Samoylenko Oleksandr Volodymirovich",3
 "AS49242","Internet Union Spolka Akcyjna",3
 "AS49981","WorldStream B.V.",3
@@ -985,7 +986,6 @@ ASN,Organization,IP_Count
 "AS47702","Teleradiocompany Discovery Ltd.",2
 "AS48004","PE Tsibrankov Konstantin Igorevich",2
 "AS4818","DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",2
-"AS48282","Hosting technology LTD",2
 "AS48314","Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG",2
 "AS48678","PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi",2
 "AS48832","Linkdotnet-Jordan",2
@@ -1152,6 +1152,7 @@ ASN,Organization,IP_Count
 "AS138824","PT. Gemilang Jaya Elektrindo",1
 "AS138997","Eons Data Communications Limited",1
 "AS139043","WellNetworks (Private) Limited",1
+"AS139080","China Mobile Communications Corporation",1
 "AS139220","China Telecom",1
 "AS139282","Novus Network",1
 "AS139409","PT JERNIH MULTI KOMUNIKASI",1
