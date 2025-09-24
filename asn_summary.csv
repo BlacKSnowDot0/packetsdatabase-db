@@ -3,7 +3,7 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21703
 "AS398324","Censys, Inc.",11390
-"AS396982","Google LLC",9721
+"AS396982","Google LLC",9722
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7140
 "AS16276","OVH SAS",5642
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4412
 "AS16509","Amazon.com, Inc.",3837
 "AS45102","Alibaba (US) Technology Co., Ltd.",3567
-"AS63949","Akamai Technologies, Inc.",3484
+"AS63949","Akamai Technologies, Inc.",3485
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
 "AS51396","Pfcloud UG",3041
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2529
 "AS6939","Hurricane Electric LLC",2253
 "AS9808","China Mobile",2058
-"AS202425","IP Volume inc",1654
+"AS202425","IP Volume inc",1655
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1478
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS22552","eSited Solutions",1108
 "AS201401","NewVM B.V.",1076
-"AS174","Cogent Communications",966
+"AS174","Cogent Communications",967
 "AS208684","BHA CONSEIL SARL",955
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",804
 "AS8452","TE-AS",804
 "AS36352","HostPapa",796
-"AS215925","VPSVAULT.HOST LTD",768
+"AS215925","VPSVAULT.HOST LTD",769
 "AS23470","ReliableSite.Net LLC",742
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -54,7 +54,7 @@ ASN,Organization,IP_Count
 "AS401120","cheapy.host LLC",522
 "AS9009","M247 Europe SRL",519
 "AS140292","China Telecom",509
-"AS20052","Arbor Networks, Inc.",506
+"AS20052","Arbor Networks, Inc.",507
 "AS4837","CHINA UNICOM China169 Backbone",499
 "AS50360","Tamatiya EOOD",492
 "AS201814","MEVSPACE sp. z o.o.",475
@@ -239,6 +239,7 @@ ASN,Organization,IP_Count
 "AS1103","SURF B.V.",19
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",19
 "AS24348","CERNET2 IX at Tsinghua University",19
+"AS24560","Bharti Airtel Limited",19
 "AS262287","Maxihost LTDA",19
 "AS43641","SOLLUTIUM EU Sp z.o.o.",19
 "AS46475","Limestone Networks, Inc.",19
@@ -249,7 +250,6 @@ ASN,Organization,IP_Count
 "AS17638","ASN for TIANJIN Provincial Net of CT",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",18
-"AS24560","Bharti Airtel Limited",18
 "AS329009","Spectrum Internet Service Ltd",18
 "AS400655","NixLabs Networks",18
 "AS136958","China Unicom Guangdong IP network",17
