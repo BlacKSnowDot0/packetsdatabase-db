@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87582
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
-"AS211298","Driftnet Ltd",21703
+"AS211298","Driftnet Ltd",21705
 "AS398324","Censys, Inc.",11392
 "AS396982","Google LLC",9722
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7141
+"AS14061","DigitalOcean, LLC",7142
 "AS16276","OVH SAS",5642
 "AS4134","Chinanet",4855
 "AS6568","Entel S.A. - EntelNet",4536
@@ -17,7 +17,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3163
 "AS51396","Pfcloud UG",3041
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2567
+"AS8075","Microsoft Corporation",2568
 "AS142002","Scloud Pte Ltd",2529
 "AS6939","Hurricane Electric LLC",2254
 "AS9808","China Mobile",2058
@@ -27,7 +27,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1330
 "AS215269","LAZYCLOUD LTD",1312
-"AS49870","Alsycon B.V.",1222
+"AS49870","Alsycon B.V.",1223
 "AS0","",1221
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1140
@@ -76,7 +76,7 @@ ASN,Organization,IP_Count
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",273
 "AS7713","Telekomunikasi Indonesia (PT)",272
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",258
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",255
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",256
 "AS47890","UNMANAGED LTD",253
 "AS48090","TECHOFF SRV LIMITED",249
 "AS60223","Netiface Limited",247
@@ -248,6 +248,7 @@ ASN,Organization,IP_Count
 "AS11878","tzulo, inc.",18
 "AS13213","UK-2 Limited",18
 "AS17638","ASN for TIANJIN Provincial Net of CT",18
+"AS200514","KnownSRV Ltd.",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",18
 "AS329009","Spectrum Internet Service Ltd",18
@@ -257,7 +258,6 @@ ASN,Organization,IP_Count
 "AS148981","China Telecom",17
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
-"AS200514","KnownSRV Ltd.",17
 "AS27699","TELEFÔNICA BRASIL S.A",17
 "AS3269","Telecom Italia S.p.A.",17
 "AS32934","Facebook, Inc.",17
