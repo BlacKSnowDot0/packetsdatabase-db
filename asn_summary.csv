@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87584
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21705
-"AS398324","Censys, Inc.",11394
+"AS398324","Censys, Inc.",11397
 "AS396982","Google LLC",9722
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7142
@@ -15,11 +15,11 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3488
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
-"AS51396","Pfcloud UG",3041
+"AS51396","Pfcloud UG",3042
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2569
 "AS142002","Scloud Pte Ltd",2529
-"AS6939","Hurricane Electric LLC",2256
+"AS6939","Hurricane Electric LLC",2258
 "AS9808","China Mobile",2058
 "AS202425","IP Volume inc",1655
 "AS214295","SKYNET NETWORK LTD",1631
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS22552","eSited Solutions",1109
 "AS201401","NewVM B.V.",1076
-"AS174","Cogent Communications",968
+"AS174","Cogent Communications",969
 "AS208684","BHA CONSEIL SARL",955
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",522
 "AS9009","M247 Europe SRL",519
-"AS20052","Arbor Networks, Inc.",512
+"AS20052","Arbor Networks, Inc.",513
 "AS140292","China Telecom",509
 "AS4837","CHINA UNICOM China169 Backbone",500
 "AS50360","Tamatiya EOOD",492
@@ -151,7 +151,7 @@ ASN,Organization,IP_Count
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",52
 "AS199785","Cloud Hosting Solutions, Limited.",51
 "AS213877","u1host ltd",51
-"AS215590","DpkgSoft International Limited",49
+"AS215590","DpkgSoft International Limited",50
 "AS266181","GOLDEN LINK",48
 "AS55720","Gigabit Hosting Sdn Bhd",47
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
@@ -285,6 +285,7 @@ ASN,Organization,IP_Count
 "AS49531","""NetCom-R"" LLC",15
 "AS6167","Verizon Business",15
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",15
+"AS12322","Free SAS",14
 "AS136142","Enigma Fiber Pvt Ltd",14
 "AS14593","Space Exploration Technologies Corporation",14
 "AS204104","Giti Secure Cloud LLC",14
@@ -293,7 +294,6 @@ ASN,Organization,IP_Count
 "AS39603","P4 Sp. z o.o.",14
 "AS4816","China Telecom (Group)",14
 "AS48721","Flyservers S.A.",14
-"AS12322","Free SAS",13
 "AS213194","Nechaev Dmitry Sergeevich",13
 "AS24757","EthioNet",13
 "AS24940","Hetzner Online GmbH",13
