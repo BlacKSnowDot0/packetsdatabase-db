@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87585
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21705
-"AS398324","Censys, Inc.",11399
+"AS398324","Censys, Inc.",11401
 "AS396982","Google LLC",9722
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7143
@@ -17,7 +17,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3163
 "AS51396","Pfcloud UG",3042
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2569
+"AS8075","Microsoft Corporation",2571
 "AS142002","Scloud Pte Ltd",2529
 "AS6939","Hurricane Electric LLC",2258
 "AS9808","China Mobile",2058
@@ -70,13 +70,13 @@ ASN,Organization,IP_Count
 "AS21859","Zenlayer Inc",330
 "AS214943","Railnet LLC",313
 "AS24863","LINKdotNET AS number",307
-"AS12876","ONLINE S.A.S.",296
+"AS12876","ONLINE S.A.S.",297
 "AS210848","Telkom Internet LTD",296
 "AS9341","PT Indonesia Comnets Plus",285
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",273
 "AS7713","Telekomunikasi Indonesia (PT)",272
-"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",258
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",256
+"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",259
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",257
 "AS47890","UNMANAGED LTD",254
 "AS48090","TECHOFF SRV LIMITED",249
 "AS60223","Netiface Limited",247
@@ -86,7 +86,7 @@ ASN,Organization,IP_Count
 "AS13335","Cloudflare, Inc.",214
 "AS45899","VNPT Corp",198
 "AS208843","Alpha Strike Labs GmbH",195
-"AS213613","BOTSHIELD LTD",191
+"AS213613","BOTSHIELD LTD",192
 "AS12389","PJSC Rostelecom",181
 "AS141718","haoxiangyun",175
 "AS401116","Nybula LLC",170
@@ -112,8 +112,8 @@ ASN,Organization,IP_Count
 "AS14956","RouterHosting LLC",90
 "AS58461","Chinanet",85
 "AS205352","KABELNET LTD",84
+"AS210125","PRIAM NET Sh.p.k.",79
 "AS200019","ALEXHOST SRL",78
-"AS210125","PRIAM NET Sh.p.k.",78
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS28209","Under Servicos de Internet Ltda",76
 "AS151185","China Telecom",75
