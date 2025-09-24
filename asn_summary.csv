@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",11389
 "AS396982","Google LLC",9720
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7131
+"AS14061","DigitalOcean, LLC",7132
 "AS16276","OVH SAS",5642
 "AS4134","Chinanet",4855
 "AS6568","Entel S.A. - EntelNet",4536
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS3462","Chunghwa Telecom Co., Ltd.",375
 "AS51115","HLL LLC",371
-"AS53667","FranTech Solutions",349
+"AS53667","FranTech Solutions",351
 "AS9829","Bharat Sanchar Nigam Ltd",335
 "AS21859","Zenlayer Inc",330
 "AS214943","Railnet LLC",313
@@ -151,7 +151,7 @@ ASN,Organization,IP_Count
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",52
 "AS199785","Cloud Hosting Solutions, Limited.",51
 "AS213877","u1host ltd",51
-"AS215590","DpkgSoft International Limited",48
+"AS215590","DpkgSoft International Limited",49
 "AS266181","GOLDEN LINK",48
 "AS55720","Gigabit Hosting Sdn Bhd",47
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
@@ -561,6 +561,7 @@ ASN,Organization,IP_Count
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",4
 "AS214209","Internet Magnate (Pty) Ltd",4
 "AS215439","PLAY2GO INTERNATIONAL LIMITED",4
+"AS22418","Cologuard",4
 "AS23674","Nayatel (Pvt) Ltd",4
 "AS23974","Ministry of Education - EMISC",4
 "AS24086","Viettel Corporation",4
@@ -660,7 +661,6 @@ ASN,Organization,IP_Count
 "AS213354","INTERNATIONAL HOSTING SOLUTIONS LLP",3
 "AS21499","Host Europe GmbH",3
 "AS22047","VTR BANDA ANCHA S.A.",3
-"AS22418","Cologuard",3
 "AS22612","Namecheap, Inc.",3
 "AS23028","Team Cymru Inc.",3
 "AS24961","WIIT AG",3
