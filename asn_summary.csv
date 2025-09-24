@@ -6,7 +6,7 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",9722
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7142
-"AS16276","OVH SAS",5642
+"AS16276","OVH SAS",5645
 "AS4134","Chinanet",4855
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4412
@@ -17,9 +17,9 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3163
 "AS51396","Pfcloud UG",3041
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2568
+"AS8075","Microsoft Corporation",2569
 "AS142002","Scloud Pte Ltd",2529
-"AS6939","Hurricane Electric LLC",2255
+"AS6939","Hurricane Electric LLC",2256
 "AS9808","China Mobile",2058
 "AS202425","IP Volume inc",1655
 "AS214295","SKYNET NETWORK LTD",1631
@@ -53,9 +53,9 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",522
 "AS9009","M247 Europe SRL",519
+"AS20052","Arbor Networks, Inc.",510
 "AS140292","China Telecom",509
-"AS20052","Arbor Networks, Inc.",509
-"AS4837","CHINA UNICOM China169 Backbone",499
+"AS4837","CHINA UNICOM China169 Backbone",500
 "AS50360","Tamatiya EOOD",492
 "AS201814","MEVSPACE sp. z o.o.",475
 "AS51167","Contabo GmbH",457
@@ -71,13 +71,13 @@ ASN,Organization,IP_Count
 "AS214943","Railnet LLC",313
 "AS24863","LINKdotNET AS number",307
 "AS210848","Telkom Internet LTD",296
-"AS12876","ONLINE S.A.S.",294
+"AS12876","ONLINE S.A.S.",295
 "AS9341","PT Indonesia Comnets Plus",285
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",273
 "AS7713","Telekomunikasi Indonesia (PT)",272
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",258
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",256
-"AS47890","UNMANAGED LTD",253
+"AS47890","UNMANAGED LTD",254
 "AS48090","TECHOFF SRV LIMITED",249
 "AS60223","Netiface Limited",247
 "AS209272","Alviva Holding Limited",230
@@ -122,7 +122,7 @@ ASN,Organization,IP_Count
 "AS47331","TTNet A.S.",75
 "AS4766","Korea Telecom",74
 "AS56046","China Mobile Communications Corporation",74
-"AS16735","ALGAR TELECOM S/A",71
+"AS16735","ALGAR TELECOM S/A",72
 "AS31898","Oracle Corporation",70
 "AS28573","Claro NXT Telecomunicacoes Ltda",69
 "AS52053","REDHEBERG Association declaree",69
