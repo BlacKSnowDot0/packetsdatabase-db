@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",11390
 "AS396982","Google LLC",9721
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7134
+"AS14061","DigitalOcean, LLC",7140
 "AS16276","OVH SAS",5642
 "AS4134","Chinanet",4855
 "AS6568","Entel S.A. - EntelNet",4536
@@ -54,7 +54,7 @@ ASN,Organization,IP_Count
 "AS401120","cheapy.host LLC",522
 "AS9009","M247 Europe SRL",519
 "AS140292","China Telecom",509
-"AS20052","Arbor Networks, Inc.",504
+"AS20052","Arbor Networks, Inc.",506
 "AS4837","CHINA UNICOM China169 Backbone",499
 "AS50360","Tamatiya EOOD",492
 "AS201814","MEVSPACE sp. z o.o.",475
@@ -86,7 +86,7 @@ ASN,Organization,IP_Count
 "AS13335","Cloudflare, Inc.",214
 "AS45899","VNPT Corp",198
 "AS208843","Alpha Strike Labs GmbH",195
-"AS213613","BOTSHIELD LTD",190
+"AS213613","BOTSHIELD LTD",191
 "AS12389","PJSC Rostelecom",181
 "AS141718","haoxiangyun",175
 "AS401116","Nybula LLC",170
@@ -243,6 +243,7 @@ ASN,Organization,IP_Count
 "AS43641","SOLLUTIUM EU Sp z.o.o.",19
 "AS46475","Limestone Networks, Inc.",19
 "AS58212","dataforest GmbH",19
+"AS9123","TimeWeb Ltd.",19
 "AS11878","tzulo, inc.",18
 "AS13213","UK-2 Limited",18
 "AS17638","ASN for TIANJIN Provincial Net of CT",18
@@ -251,7 +252,6 @@ ASN,Organization,IP_Count
 "AS24560","Bharti Airtel Limited",18
 "AS329009","Spectrum Internet Service Ltd",18
 "AS400655","NixLabs Networks",18
-"AS9123","TimeWeb Ltd.",18
 "AS136958","China Unicom Guangdong IP network",17
 "AS140061","China Telecom",17
 "AS148981","China Telecom",17
