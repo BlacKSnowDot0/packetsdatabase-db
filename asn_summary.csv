@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87580
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21702
-"AS398324","Censys, Inc.",11373
-"AS396982","Google LLC",9709
+"AS398324","Censys, Inc.",11379
+"AS396982","Google LLC",9712
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7128
+"AS14061","DigitalOcean, LLC",7129
 "AS16276","OVH SAS",5640
 "AS4134","Chinanet",4855
 "AS6568","Entel S.A. - EntelNet",4536
@@ -19,9 +19,9 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2559
 "AS142002","Scloud Pte Ltd",2529
-"AS6939","Hurricane Electric LLC",2232
+"AS6939","Hurricane Electric LLC",2233
 "AS9808","China Mobile",2058
-"AS202425","IP Volume inc",1652
+"AS202425","IP Volume inc",1653
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1477
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS22552","eSited Solutions",1105
 "AS201401","NewVM B.V.",1076
-"AS174","Cogent Communications",962
+"AS174","Cogent Communications",964
 "AS208684","BHA CONSEIL SARL",954
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -42,20 +42,20 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",825
 "AS208046","ColocationX Ltd.",804
 "AS8452","TE-AS",804
-"AS215925","VPSVAULT.HOST LTD",767
-"AS36352","HostPapa",757
-"AS23470","ReliableSite.Net LLC",741
+"AS215925","VPSVAULT.HOST LTD",768
+"AS36352","HostPapa",760
+"AS23470","ReliableSite.Net LLC",742
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
-"AS10439","CariNet, Inc.",540
+"AS10439","CariNet, Inc.",541
 "AS14618","Amazon.com, Inc.",534
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",522
-"AS9009","M247 Europe SRL",518
+"AS9009","M247 Europe SRL",519
 "AS140292","China Telecom",509
+"AS20052","Arbor Networks, Inc.",500
 "AS4837","CHINA UNICOM China169 Backbone",498
-"AS20052","Arbor Networks, Inc.",496
 "AS50360","Tamatiya EOOD",492
 "AS201814","MEVSPACE sp. z o.o.",475
 "AS51167","Contabo GmbH",456
@@ -148,9 +148,9 @@ ASN,Organization,IP_Count
 "AS271795","SERVITELCONET CIA. LTDA.",54
 "AS44382","Fiba Cloud Operation Company, LLC",53
 "AS8402","PJSC ""Vimpelcom""",53
+"AS44477","STARK INDUSTRIES SOLUTIONS LTD",52
+"AS199785","Cloud Hosting Solutions, Limited.",51
 "AS213877","u1host ltd",51
-"AS44477","STARK INDUSTRIES SOLUTIONS LTD",51
-"AS199785","Cloud Hosting Solutions, Limited.",50
 "AS215590","DpkgSoft International Limited",48
 "AS266181","GOLDEN LINK",48
 "AS55720","Gigabit Hosting Sdn Bhd",47
