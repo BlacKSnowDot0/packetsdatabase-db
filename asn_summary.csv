@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87585
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87587
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21706
-"AS398324","Censys, Inc.",11402
+"AS398324","Censys, Inc.",11405
 "AS396982","Google LLC",9722
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7143
@@ -32,14 +32,14 @@ ASN,Organization,IP_Count
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS22552","eSited Solutions",1110
+"AS22552","eSited Solutions",1112
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",970
 "AS208684","BHA CONSEIL SARL",955
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
-"AS32475","Internap Holding LLC",825
+"AS32475","Internap Holding LLC",826
 "AS208046","ColocationX Ltd.",804
 "AS8452","TE-AS",804
 "AS36352","HostPapa",796
@@ -93,8 +93,8 @@ ASN,Organization,IP_Count
 "AS63199","CDS Global Cloud Co., Ltd",166
 "AS12555","Data-center IMAQLIQ Ltd.",165
 "AS206264","Amarutu Technology Ltd",153
+"AS8151","Uninet S.A. de C.V.",142
 "AS47105","Vault Dweller OU",141
-"AS8151","Uninet S.A. de C.V.",141
 "AS29484","Ruhr-Universitaet Bochum",136
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
@@ -178,9 +178,9 @@ ASN,Organization,IP_Count
 "AS210558","1337 Services GmbH",32
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",32
 "AS262378","Compuservice Empreendimentos Ltda",32
+"AS29066","velia.net Internetdienste GmbH",32
 "AS42624","Global-Data System IT Corporation",32
 "AS55990","Huawei Cloud Service data center",32
-"AS29066","velia.net Internetdienste GmbH",31
 "AS30083","velia.net",31
 "AS9198","JSC Kazakhtelecom",31
 "AS23724","IDC, China Telecommunications Corporation",30
