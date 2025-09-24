@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87587
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21706
-"AS398324","Censys, Inc.",11405
+"AS398324","Censys, Inc.",11407
 "AS396982","Google LLC",9722
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7143
@@ -23,7 +23,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2058
 "AS202425","IP Volume inc",1655
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1478
+"AS209605","UAB Host Baltic",1479
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1330
 "AS215269","LAZYCLOUD LTD",1312
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",522
 "AS9009","M247 Europe SRL",519
-"AS20052","Arbor Networks, Inc.",514
+"AS20052","Arbor Networks, Inc.",515
 "AS140292","China Telecom",509
 "AS4837","CHINA UNICOM China169 Backbone",500
 "AS50360","Tamatiya EOOD",492
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS3462","Chunghwa Telecom Co., Ltd.",375
 "AS51115","HLL LLC",371
-"AS53667","FranTech Solutions",352
+"AS53667","FranTech Solutions",353
 "AS9829","Bharat Sanchar Nigam Ltd",336
 "AS21859","Zenlayer Inc",330
 "AS214943","Railnet LLC",313
@@ -444,6 +444,7 @@ ASN,Organization,IP_Count
 "AS23201","Telecel S.A.",6
 "AS23383","METRORED S.A. DE C.V.",6
 "AS25490","PJSC Rostelecom",6
+"AS267507","SRX TECNOLOGIA DA INFORMACAO LTDA",6
 "AS27983","Red Intercable Digital S.A.",6
 "AS28201","Companhia Itabirana Telecomunicações Ltda",6
 "AS33771","Safaricom Limited",6
@@ -497,7 +498,6 @@ ASN,Organization,IP_Count
 "AS26383","Baxet Group Inc.",5
 "AS264628","CORPORACION FIBEX TELECOM, C.A.",5
 "AS265702","AZUL NETWORKS S.R.L",5
-"AS267507","SRX TECNOLOGIA DA INFORMACAO LTDA",5
 "AS267684","VISIONMAGICA SOCIEDAD ANONIMA",5
 "AS267784","Flyservers S.A.",5
 "AS28126","BRISANET SERVICOS DE TELECOMUNICACOES LTDA",5
