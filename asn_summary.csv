@@ -1,7 +1,7 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87598
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
-"AS211298","Driftnet Ltd",21713
+"AS211298","Driftnet Ltd",21714
 "AS398324","Censys, Inc.",11453
 "AS396982","Google LLC",9741
 "AS26210","AXS Bolivia S. A.",7971
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4412
 "AS16509","Amazon.com, Inc.",3837
 "AS45102","Alibaba (US) Technology Co., Ltd.",3578
-"AS63949","Akamai Technologies, Inc.",3489
+"AS63949","Akamai Technologies, Inc.",3490
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
 "AS51396","Pfcloud UG",3045
@@ -50,7 +50,7 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS10439","CariNet, Inc.",547
 "AS14618","Amazon.com, Inc.",539
-"AS20052","Arbor Networks, Inc.",530
+"AS20052","Arbor Networks, Inc.",531
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",522
 "AS9009","M247 Europe SRL",520
@@ -408,6 +408,7 @@ ASN,Organization,IP_Count
 "AS215672","MoeChuang Network Limited",7
 "AS24955","JSC ""Ufanet""",7
 "AS266702","MEGALINK S.R.L.",7
+"AS267507","SRX TECNOLOGIA DA INFORMACAO LTDA",7
 "AS27831","Colombia Móvil",7
 "AS31122","Digiweb ltd",7
 "AS3215","Orange S.A.",7
@@ -444,7 +445,6 @@ ASN,Organization,IP_Count
 "AS23201","Telecel S.A.",6
 "AS23383","METRORED S.A. DE C.V.",6
 "AS25490","PJSC Rostelecom",6
-"AS267507","SRX TECNOLOGIA DA INFORMACAO LTDA",6
 "AS27983","Red Intercable Digital S.A.",6
 "AS28201","Companhia Itabirana Telecomunicações Ltda",6
 "AS33771","Safaricom Limited",6
