@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87600
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21714
-"AS398324","Censys, Inc.",11462
+"AS398324","Censys, Inc.",11463
 "AS396982","Google LLC",9749
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7156
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS51115","HLL LLC",381
 "AS3462","Chunghwa Telecom Co., Ltd.",375
-"AS53667","FranTech Solutions",359
+"AS53667","FranTech Solutions",360
 "AS9829","Bharat Sanchar Nigam Ltd",337
 "AS21859","Zenlayer Inc",330
 "AS214943","Railnet LLC",313
@@ -88,7 +88,7 @@ ASN,Organization,IP_Count
 "AS45899","VNPT Corp",198
 "AS213613","BOTSHIELD LTD",194
 "AS12389","PJSC Rostelecom",181
-"AS141718","haoxiangyun",177
+"AS141718","haoxiangyun",178
 "AS401116","Nybula LLC",170
 "AS12555","Data-center IMAQLIQ Ltd.",167
 "AS63199","CDS Global Cloud Co., Ltd",167
@@ -720,6 +720,7 @@ ASN,Organization,IP_Count
 "AS52436","Cable Televisora Color",3
 "AS52783","ALCANS TELECOM LTDA",3
 "AS53006","ALGAR TELECOM S/A",3
+"AS53062","GGNET TELECOM BACKBONE",3
 "AS53167","SEBRATEL TECNOLOGIA LTDA",3
 "AS5483","Magyar Telekom plc.",3
 "AS56694","LLC Smart Ape",3
@@ -1006,7 +1007,6 @@ ASN,Organization,IP_Count
 "AS52444","Pogliotti & Pogliotti Construcciones S.A.",2
 "AS52639","MEGANET RJ INFORMÁTICA E TELECOMUNICAÇÕES LTDA",2
 "AS52854","DIGITALSMART TELECOMUNICACOES LTDA",2
-"AS53062","GGNET TELECOM BACKBONE",2
 "AS53158","Net Turbo Telecom",2
 "AS53209","Mantiqueira Tecnologia Ltda.",2
 "AS5413","Daisy Corporate Services Trading Ltd",2
