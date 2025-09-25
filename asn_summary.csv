@@ -1,12 +1,12 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87592
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87593
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21710
-"AS398324","Censys, Inc.",11420
-"AS396982","Google LLC",9725
+"AS398324","Censys, Inc.",11422
+"AS396982","Google LLC",9728
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7145
-"AS16276","OVH SAS",5646
+"AS14061","DigitalOcean, LLC",7148
+"AS16276","OVH SAS",5648
 "AS4134","Chinanet",4855
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4412
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1333
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1223
-"AS0","",1221
+"AS0","",1222
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
@@ -48,7 +48,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
-"AS10439","CariNet, Inc.",545
+"AS10439","CariNet, Inc.",546
 "AS14618","Amazon.com, Inc.",539
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",522
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS3462","Chunghwa Telecom Co., Ltd.",375
 "AS51115","HLL LLC",372
 "AS53667","FranTech Solutions",354
-"AS9829","Bharat Sanchar Nigam Ltd",336
+"AS9829","Bharat Sanchar Nigam Ltd",337
 "AS21859","Zenlayer Inc",330
 "AS214943","Railnet LLC",313
 "AS24863","LINKdotNET AS number",307
@@ -131,8 +131,8 @@ ASN,Organization,IP_Count
 "AS40021","Nubes, LLC",66
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
+"AS136435","ELITE COMMUNICATION",63
 "AS7552","Viettel Group",63
-"AS136435","ELITE COMMUNICATION",62
 "AS140717","China Unicom",61
 "AS3920","ESTOXY OU",60
 "AS4812","China Telecom (Group)",58
