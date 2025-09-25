@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87595
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21713
-"AS398324","Censys, Inc.",11438
-"AS396982","Google LLC",9735
+"AS398324","Censys, Inc.",11439
+"AS396982","Google LLC",9736
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7149
+"AS14061","DigitalOcean, LLC",7150
 "AS16276","OVH SAS",5648
 "AS4134","Chinanet",4855
 "AS6568","Entel S.A. - EntelNet",4536
@@ -27,8 +27,8 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1335
 "AS215269","LAZYCLOUD LTD",1312
+"AS0","",1223
 "AS49870","Alsycon B.V.",1223
-"AS0","",1222
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
@@ -51,8 +51,8 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",546
 "AS14618","Amazon.com, Inc.",539
 "AS198953","Proton66 OOO",527
+"AS20052","Arbor Networks, Inc.",522
 "AS401120","cheapy.host LLC",522
-"AS20052","Arbor Networks, Inc.",520
 "AS9009","M247 Europe SRL",519
 "AS140292","China Telecom",509
 "AS4837","CHINA UNICOM China169 Backbone",500
