@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87600
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21714
-"AS398324","Censys, Inc.",11459
+"AS398324","Censys, Inc.",11460
 "AS396982","Google LLC",9747
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7156
@@ -40,11 +40,11 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS32475","Internap Holding LLC",829
+"AS36352","HostPapa",806
 "AS208046","ColocationX Ltd.",804
 "AS8452","TE-AS",804
-"AS36352","HostPapa",801
 "AS215925","VPSVAULT.HOST LTD",771
-"AS23470","ReliableSite.Net LLC",748
+"AS23470","ReliableSite.Net LLC",750
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
@@ -311,6 +311,7 @@ ASN,Organization,IP_Count
 "AS18881","TELEFÔNICA BRASIL S.A",12
 "AS200593","PROSPERO OOO",12
 "AS213438","ColocaTel Inc.",12
+"AS214417","Andrii Hrosh",12
 "AS2637","Georgia Institute of Technology",12
 "AS35042","Layer7 Networks GmbH",12
 "AS36992","ETISALAT MISR",12
@@ -324,7 +325,6 @@ ASN,Organization,IP_Count
 "AS205119","TELEKS DOOEL Skopje",11
 "AS206804","EstNOC OY",11
 "AS2116","GLOBALCONNECT AS",11
-"AS214417","Andrii Hrosh",11
 "AS24151","China Internet Network Infomation Center",11
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
 "AS3257","GTT Communications Inc.",11
