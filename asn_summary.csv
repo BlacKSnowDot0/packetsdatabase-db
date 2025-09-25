@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87600
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21714
-"AS398324","Censys, Inc.",11456
+"AS398324","Censys, Inc.",11457
 "AS396982","Google LLC",9742
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7154
@@ -11,11 +11,11 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4412
 "AS16509","Amazon.com, Inc.",3837
-"AS45102","Alibaba (US) Technology Co., Ltd.",3581
+"AS45102","Alibaba (US) Technology Co., Ltd.",3582
 "AS63949","Akamai Technologies, Inc.",3491
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
-"AS51396","Pfcloud UG",3045
+"AS51396","Pfcloud UG",3046
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2582
 "AS142002","Scloud Pte Ltd",2529
@@ -84,8 +84,8 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS13335","Cloudflare, Inc.",215
 "AS14987","Rethem Hosting LLC",215
+"AS208843","Alpha Strike Labs GmbH",198
 "AS45899","VNPT Corp",198
-"AS208843","Alpha Strike Labs GmbH",197
 "AS213613","BOTSHIELD LTD",194
 "AS12389","PJSC Rostelecom",181
 "AS141718","haoxiangyun",177
@@ -103,7 +103,7 @@ ASN,Organization,IP_Count
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS262551","Farol Telecom",111
 "AS208287","DC Host INC",110
-"AS42237","w1n ltd",107
+"AS42237","w1n ltd",108
 "AS50219","LNK SYSTEMS MUNTENIA SRL",100
 "AS7922","Comcast Cable Communications, LLC",100
 "AS18403","FPT Telecom Company",98
@@ -582,6 +582,7 @@ ASN,Organization,IP_Count
 "AS28753","Leaseweb Deutschland GmbH",4
 "AS29182","JSC IOT",4
 "AS30600","Metronet",4
+"AS30753","FHU ""COMPOWER"" Dariusz Krocz",4
 "AS328510","Ikeja Wireless (Pty) Ltd",4
 "AS3301","Telia Company AB",4
 "AS3356","Level 3 Communications, Inc.",4
@@ -686,7 +687,6 @@ ASN,Organization,IP_Count
 "AS28885","Oman Telecommunications Company (S.A.O.G)",3
 "AS29571","ORANGE COTE D'IVOIRE",3
 "AS30722","Vodafone Italia S.p.A.",3
-"AS30753","FHU ""COMPOWER"" Dariusz Krocz",3
 "AS31042","Serbia BroadBand-Srpske Kablovske mreze d.o.o.",3
 "AS31208","PJSC MegaFon",3
 "AS31261","PJSC MegaFon",3
