@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87595
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21713
-"AS398324","Censys, Inc.",11433
-"AS396982","Google LLC",9734
+"AS398324","Censys, Inc.",11436
+"AS396982","Google LLC",9735
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7149
 "AS16276","OVH SAS",5648
@@ -19,13 +19,13 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2579
 "AS142002","Scloud Pte Ltd",2529
-"AS6939","Hurricane Electric LLC",2262
+"AS6939","Hurricane Electric LLC",2263
 "AS9808","China Mobile",2058
 "AS202425","IP Volume inc",1657
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1480
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS398722","Censys, Inc.",1334
+"AS398722","Censys, Inc.",1335
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1223
 "AS0","",1222
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS3462","Chunghwa Telecom Co., Ltd.",375
 "AS51115","HLL LLC",374
-"AS53667","FranTech Solutions",355
+"AS53667","FranTech Solutions",356
 "AS9829","Bharat Sanchar Nigam Ltd",337
 "AS21859","Zenlayer Inc",330
 "AS214943","Railnet LLC",313
@@ -539,6 +539,7 @@ ASN,Organization,IP_Count
 "AS131607","Digidom CableTV Co., LTD.",4
 "AS13489","EPM Telecomunicaciones S.A. E.S.P.",4
 "AS135089","China Telecom",4
+"AS135953","Vietnam Online Network Solution Joint Stock Compnay",4
 "AS136280","Costel Networks P Ltd",4
 "AS14080","Telmex Colombia S.A.",4
 "AS14117","Telefonica del Sur S.A.",4
@@ -624,7 +625,6 @@ ASN,Organization,IP_Count
 "AS134032","INFONET COMM ENTERPRISES",3
 "AS134762","CHINANET Liaoning province Dalian MAN network",3
 "AS135905","VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",3
-"AS135953","Vietnam Online Network Solution Joint Stock Compnay",3
 "AS136873","MEGADATA-ISP",3
 "AS13720","Daybreak Game Company LLC",3
 "AS137236","TURBOTECH CO., LTD.",3
@@ -732,6 +732,7 @@ ASN,Organization,IP_Count
 "AS7545","TPG Internet Pty Ltd",3
 "AS7643","Vietnam Posts and Telecommunications (VNPT)",3
 "AS786","Jisc Services Limited",3
+"AS8400","TELEKOM SRBIJA a.d.",3
 "AS852","TELUS Communications Inc.",3
 "AS9269","Hong Kong Broadband Network Ltd",3
 "AS9329","Sri Lanka Telecom Ltd",3
@@ -1037,7 +1038,6 @@ ASN,Organization,IP_Count
 "AS8047","GENERAL COMMUNICATION, INC.",2
 "AS8053","IFX Networks Venezuela C.A.",2
 "AS8376","Jordan Data Communications Company LLC",2
-"AS8400","TELEKOM SRBIJA a.d.",2
 "AS8551","Bezeq International Ltd.",2
 "AS8595","OOO WestCall Ltd.",2
 "AS8732","JSC Comcor",2
