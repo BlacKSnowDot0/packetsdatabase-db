@@ -3,9 +3,9 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21714
 "AS398324","Censys, Inc.",11459
-"AS396982","Google LLC",9746
+"AS396982","Google LLC",9747
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7155
+"AS14061","DigitalOcean, LLC",7156
 "AS16276","OVH SAS",5653
 "AS4134","Chinanet",4855
 "AS6568","Entel S.A. - EntelNet",4536
@@ -63,9 +63,9 @@ ASN,Organization,IP_Count
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS51115","HLL LLC",379
+"AS51115","HLL LLC",380
 "AS3462","Chunghwa Telecom Co., Ltd.",375
-"AS53667","FranTech Solutions",358
+"AS53667","FranTech Solutions",359
 "AS9829","Bharat Sanchar Nigam Ltd",337
 "AS21859","Zenlayer Inc",330
 "AS214943","Railnet LLC",313
@@ -228,13 +228,13 @@ ASN,Organization,IP_Count
 "AS400536","Nodestop LLC",21
 "AS4800","PT Aplikanusa Lintasarta",21
 "AS50887","DC FIBER HOME SRL",21
+"AS58212","dataforest GmbH",21
+"AS6134","XNNET LLC",21
 "AS146817","Hubei Feixun Network Co., Ltd",20
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
 "AS197540","netcup GmbH",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
 "AS46573","LayerHost",20
-"AS58212","dataforest GmbH",20
-"AS6134","XNNET LLC",20
 "AS9299","Philippine Long Distance Telephone Co.",20
 "AS10796","Charter Communications Inc",19
 "AS1103","SURF B.V.",19
