@@ -1,9 +1,9 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87593
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87594
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21710
-"AS398324","Censys, Inc.",11422
-"AS396982","Google LLC",9728
+"AS398324","Censys, Inc.",11428
+"AS396982","Google LLC",9731
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7148
 "AS16276","OVH SAS",5648
@@ -17,11 +17,11 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3163
 "AS51396","Pfcloud UG",3043
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2573
+"AS8075","Microsoft Corporation",2576
 "AS142002","Scloud Pte Ltd",2529
 "AS6939","Hurricane Electric LLC",2261
 "AS9808","China Mobile",2058
-"AS202425","IP Volume inc",1655
+"AS202425","IP Volume inc",1656
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1479
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS22552","eSited Solutions",1112
+"AS22552","eSited Solutions",1113
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",972
 "AS208684","BHA CONSEIL SARL",955
@@ -42,9 +42,9 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",829
 "AS208046","ColocationX Ltd.",804
 "AS8452","TE-AS",804
-"AS36352","HostPapa",796
+"AS36352","HostPapa",797
 "AS215925","VPSVAULT.HOST LTD",770
-"AS23470","ReliableSite.Net LLC",745
+"AS23470","ReliableSite.Net LLC",746
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",522
 "AS9009","M247 Europe SRL",519
-"AS20052","Arbor Networks, Inc.",516
+"AS20052","Arbor Networks, Inc.",517
 "AS140292","China Telecom",509
 "AS4837","CHINA UNICOM China169 Backbone",500
 "AS50360","Tamatiya EOOD",492
@@ -64,7 +64,7 @@ ASN,Organization,IP_Count
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS3462","Chunghwa Telecom Co., Ltd.",375
-"AS51115","HLL LLC",372
+"AS51115","HLL LLC",373
 "AS53667","FranTech Solutions",354
 "AS9829","Bharat Sanchar Nigam Ltd",337
 "AS21859","Zenlayer Inc",330
@@ -233,6 +233,7 @@ ASN,Organization,IP_Count
 "AS197540","netcup GmbH",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
 "AS46573","LayerHost",20
+"AS58212","dataforest GmbH",20
 "AS6134","XNNET LLC",20
 "AS9299","Philippine Long Distance Telephone Co.",20
 "AS10796","Charter Communications Inc",19
@@ -243,7 +244,6 @@ ASN,Organization,IP_Count
 "AS262287","Maxihost LTDA",19
 "AS43641","SOLLUTIUM EU Sp z.o.o.",19
 "AS46475","Limestone Networks, Inc.",19
-"AS58212","dataforest GmbH",19
 "AS9123","TimeWeb Ltd.",19
 "AS11878","tzulo, inc.",18
 "AS13213","UK-2 Limited",18
