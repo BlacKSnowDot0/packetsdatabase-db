@@ -3,7 +3,7 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21714
 "AS398324","Censys, Inc.",11462
-"AS396982","Google LLC",9747
+"AS396982","Google LLC",9749
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7156
 "AS16276","OVH SAS",5653
@@ -17,7 +17,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3163
 "AS51396","Pfcloud UG",3047
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2583
+"AS8075","Microsoft Corporation",2584
 "AS142002","Scloud Pte Ltd",2529
 "AS6939","Hurricane Electric LLC",2265
 "AS9808","China Mobile",2058
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS10439","CariNet, Inc.",547
-"AS14618","Amazon.com, Inc.",539
+"AS14618","Amazon.com, Inc.",540
 "AS20052","Arbor Networks, Inc.",535
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",522
@@ -1046,6 +1046,7 @@ ASN,Organization,IP_Count
 "AS9319","HCN CHUNGBUK CABLE TV SYSTEMS",2
 "AS9381","HKBN Enterprise Solutions HK Limited",2
 "AS9534","Maxis Broadband Sdn Bhd",2
+"AS963","N963",2
 "AS9821","Advanced Science and Technology Institute",2
 "AS9905","Linknet ASN",2
 "AS9908","Hong Kong Cable Television Limited",2
@@ -2027,6 +2028,5 @@ ASN,Organization,IP_Count
 "AS9371","SAKURA Internet Inc.",1
 "AS9506","Singapore Telecommunications Ltd, Magix Services",1
 "AS9583","Sify Limited",1
-"AS963","N963",1
 "AS9891","CS Loxinfo Public Company Limited",1
 "AS9924","Taiwan Fixed Network, Telco and Network Service Provider.",1
