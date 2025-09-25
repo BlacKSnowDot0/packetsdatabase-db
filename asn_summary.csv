@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87600
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21714
-"AS398324","Censys, Inc.",11465
+"AS398324","Censys, Inc.",11466
 "AS396982","Google LLC",9749
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7156
@@ -11,11 +11,11 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4412
 "AS16509","Amazon.com, Inc.",3837
-"AS45102","Alibaba (US) Technology Co., Ltd.",3583
+"AS45102","Alibaba (US) Technology Co., Ltd.",3584
 "AS63949","Akamai Technologies, Inc.",3493
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
-"AS51396","Pfcloud UG",3047
+"AS51396","Pfcloud UG",3048
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2584
 "AS142002","Scloud Pte Ltd",2529
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1480
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS398722","Censys, Inc.",1335
+"AS398722","Censys, Inc.",1336
 "AS215269","LAZYCLOUD LTD",1312
 "AS0","",1225
 "AS49870","Alsycon B.V.",1223
@@ -65,8 +65,8 @@ ASN,Organization,IP_Count
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS51115","HLL LLC",381
 "AS3462","Chunghwa Telecom Co., Ltd.",375
-"AS53667","FranTech Solutions",360
-"AS9829","Bharat Sanchar Nigam Ltd",338
+"AS53667","FranTech Solutions",361
+"AS9829","Bharat Sanchar Nigam Ltd",339
 "AS21859","Zenlayer Inc",330
 "AS214943","Railnet LLC",313
 "AS24863","LINKdotNET AS number",307
