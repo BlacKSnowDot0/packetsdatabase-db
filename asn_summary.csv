@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87602
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
 "AS211298","Driftnet Ltd",21717
-"AS398324","Censys, Inc.",11518
+"AS398324","Censys, Inc.",11519
 "AS396982","Google LLC",9778
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7170
+"AS14061","DigitalOcean, LLC",7171
 "AS16276","OVH SAS",5657
 "AS4134","Chinanet",4856
 "AS6568","Entel S.A. - EntelNet",4536
@@ -488,6 +488,7 @@ ASN,Organization,IP_Count
 "AS21056","Vianova S.p.A",5
 "AS21127","Joint Stock Company TransTeleCom",5
 "AS21246","IPKO Telecommunications LLC",5
+"AS213732","Peyman Ertebatat Pouya Company (Ltd)",5
 "AS213851","Marcel Hanisch",5
 "AS213893","IPTransit Business LTD",5
 "AS215311","Regxa Company for Information Technology Ltd",5
@@ -560,7 +561,6 @@ ASN,Organization,IP_Count
 "AS209","CenturyLink Communications, LLC",4
 "AS212042","Istqrar for Servers Services Ltd",4
 "AS212219","HOSTING DUNYAM BILISIM TEKNOLOJILERI TICARET LIMITED SIRKETI",4
-"AS213732","Peyman Ertebatat Pouya Company (Ltd)",4
 "AS214209","Internet Magnate (Pty) Ltd",4
 "AS215439","PLAY2GO INTERNATIONAL LIMITED",4
 "AS22418","Cologuard",4
