@@ -1,12 +1,12 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87600
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
-"AS211298","Driftnet Ltd",21714
-"AS398324","Censys, Inc.",11474
-"AS396982","Google LLC",9757
+"AS211298","Driftnet Ltd",21715
+"AS398324","Censys, Inc.",11476
+"AS396982","Google LLC",9759
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7158
-"AS16276","OVH SAS",5655
+"AS16276","OVH SAS",5656
 "AS4134","Chinanet",4855
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4412
@@ -32,14 +32,14 @@ ASN,Organization,IP_Count
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1141
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS22552","eSited Solutions",1121
+"AS22552","eSited Solutions",1122
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",977
-"AS208684","BHA CONSEIL SARL",955
+"AS208684","BHA CONSEIL SARL",956
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
-"AS32475","Internap Holding LLC",831
+"AS32475","Internap Holding LLC",832
 "AS36352","HostPapa",809
 "AS208046","ColocationX Ltd.",804
 "AS8452","TE-AS",804
@@ -181,10 +181,10 @@ ASN,Organization,IP_Count
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",32
 "AS42624","Global-Data System IT Corporation",32
 "AS55990","Huawei Cloud Service data center",32
+"AS23724","IDC, China Telecommunications Corporation",31
 "AS263355","GTR NET COMUNICACOES EIRELI",31
 "AS30083","velia.net",31
 "AS9198","JSC Kazakhtelecom",31
-"AS23724","IDC, China Telecommunications Corporation",30
 "AS44592","SkyLink Data Center BV",30
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",30
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",29
@@ -603,6 +603,7 @@ ASN,Organization,IP_Count
 "AS45700","PT. NAP Info Lintas Nusa",4
 "AS47165","Omskie kabelnye seti Ltd.",4
 "AS4811","China Telecom (Group)",4
+"AS48282","Hosting technology LTD",4
 "AS51765","Oy Crea Nova Hosting Solution Ltd",4
 "AS52401","CABLESAT TV SRL",4
 "AS55699","PT. Cemerlang Multimedia",4
@@ -712,7 +713,6 @@ ASN,Organization,IP_Count
 "AS46375","Sonic Telecom LLC",3
 "AS47154","HUSAM A. H. HIJAZI",3
 "AS4761","PT. INDOSAT Tbk",3
-"AS48282","Hosting technology LTD",3
 "AS48411","FOP Samoylenko Oleksandr Volodymirovich",3
 "AS49242","Internet Union Spolka Akcyjna",3
 "AS49981","WorldStream B.V.",3
@@ -1991,6 +1991,7 @@ ASN,Organization,IP_Count
 "AS62563","GLOBALTELEHOST Corp.",1
 "AS62738","ZochNet",1
 "AS63014","McCormick Place",1
+"AS63139","BEDGE CO LIMITED",1
 "AS6325","Illinois Century Network",1
 "AS63473","HostHatch, LLC",1
 "AS63491","Universitas Katolik Widya Mandala",1
