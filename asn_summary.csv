@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87600
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21716
-"AS398324","Censys, Inc.",11497
-"AS396982","Google LLC",9769
+"AS398324","Censys, Inc.",11502
+"AS396982","Google LLC",9770
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7159
 "AS16276","OVH SAS",5657
@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4412
 "AS16509","Amazon.com, Inc.",3837
-"AS45102","Alibaba (US) Technology Co., Ltd.",3595
+"AS45102","Alibaba (US) Technology Co., Ltd.",3596
 "AS63949","Akamai Technologies, Inc.",3494
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
@@ -273,6 +273,7 @@ ASN,Organization,IP_Count
 "AS6597","Coloblox Data Centers Inc",16
 "AS11426","Charter Communications Inc",15
 "AS136515","Dasca Cable Services, Inc.",15
+"AS141995","Contabo Asia Private Limited",15
 "AS202448","MVPS LTD",15
 "AS207713","GLOBAL INTERNET SOLUTIONS LLC",15
 "AS211619","MAXKO d.o.o.",15
@@ -288,7 +289,6 @@ ASN,Organization,IP_Count
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",15
 "AS12322","Free SAS",14
 "AS136142","Enigma Fiber Pvt Ltd",14
-"AS141995","Contabo Asia Private Limited",14
 "AS14593","Space Exploration Technologies Corporation",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS26599","TELEFÔNICA BRASIL S.A",14
