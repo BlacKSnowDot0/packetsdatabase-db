@@ -1,17 +1,17 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87602
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
-"AS211298","Driftnet Ltd",21719
-"AS398324","Censys, Inc.",11525
-"AS396982","Google LLC",9780
+"AS211298","Driftnet Ltd",21720
+"AS398324","Censys, Inc.",11529
+"AS396982","Google LLC",9781
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7171
 "AS16276","OVH SAS",5657
-"AS4134","Chinanet",4856
+"AS4134","Chinanet",4857
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4412
 "AS16509","Amazon.com, Inc.",3837
-"AS45102","Alibaba (US) Technology Co., Ltd.",3603
+"AS45102","Alibaba (US) Technology Co., Ltd.",3605
 "AS63949","Akamai Technologies, Inc.",3495
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS51115","HLL LLC",383
 "AS3462","Chunghwa Telecom Co., Ltd.",375
-"AS53667","FranTech Solutions",367
+"AS53667","FranTech Solutions",368
 "AS9829","Bharat Sanchar Nigam Ltd",340
 "AS21859","Zenlayer Inc",330
 "AS214943","Railnet LLC",313
@@ -253,6 +253,7 @@ ASN,Organization,IP_Count
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",18
 "AS329009","Spectrum Internet Service Ltd",18
 "AS400655","NixLabs Networks",18
+"AS53118","NETLINE TELECOM",18
 "AS136958","China Unicom Guangdong IP network",17
 "AS140061","China Telecom",17
 "AS148981","China Telecom",17
@@ -263,7 +264,6 @@ ASN,Organization,IP_Count
 "AS32934","Facebook, Inc.",17
 "AS3320","Deutsche Telekom AG",17
 "AS45117","Ishan's Network",17
-"AS53118","NETLINE TELECOM",17
 "AS56630","Melbikomas UAB",17
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",16
 "AS206092","Internet Utilities Europe and Asia Limited",16
