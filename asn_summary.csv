@@ -3,7 +3,7 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21716
 "AS398324","Censys, Inc.",11488
-"AS396982","Google LLC",9762
+"AS396982","Google LLC",9763
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7159
 "AS16276","OVH SAS",5656
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS10439","CariNet, Inc.",547
-"AS20052","Arbor Networks, Inc.",543
+"AS20052","Arbor Networks, Inc.",544
 "AS14618","Amazon.com, Inc.",541
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",522
@@ -88,7 +88,7 @@ ASN,Organization,IP_Count
 "AS45899","VNPT Corp",198
 "AS213613","BOTSHIELD LTD",194
 "AS12389","PJSC Rostelecom",181
-"AS141718","haoxiangyun",178
+"AS141718","haoxiangyun",179
 "AS401116","Nybula LLC",170
 "AS12555","Data-center IMAQLIQ Ltd.",167
 "AS63199","CDS Global Cloud Co., Ltd",167
@@ -288,6 +288,7 @@ ASN,Organization,IP_Count
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",15
 "AS12322","Free SAS",14
 "AS136142","Enigma Fiber Pvt Ltd",14
+"AS141995","Contabo Asia Private Limited",14
 "AS14593","Space Exploration Technologies Corporation",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS26599","TELEFÔNICA BRASIL S.A",14
@@ -295,7 +296,6 @@ ASN,Organization,IP_Count
 "AS39603","P4 Sp. z o.o.",14
 "AS4816","China Telecom (Group)",14
 "AS48721","Flyservers S.A.",14
-"AS141995","Contabo Asia Private Limited",13
 "AS213194","Nechaev Dmitry Sergeevich",13
 "AS24757","EthioNet",13
 "AS25369","Hydra Communications Ltd",13
