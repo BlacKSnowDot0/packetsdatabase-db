@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87601
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21717
-"AS398324","Censys, Inc.",11514
-"AS396982","Google LLC",9777
+"AS398324","Censys, Inc.",11515
+"AS396982","Google LLC",9778
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7169
+"AS14061","DigitalOcean, LLC",7170
 "AS16276","OVH SAS",5657
 "AS4134","Chinanet",4856
 "AS6568","Entel S.A. - EntelNet",4536
@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3495
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
-"AS51396","Pfcloud UG",3050
+"AS51396","Pfcloud UG",3051
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2585
 "AS142002","Scloud Pte Ltd",2529
@@ -40,7 +40,7 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS32475","Internap Holding LLC",835
-"AS36352","HostPapa",820
+"AS36352","HostPapa",821
 "AS208046","ColocationX Ltd.",804
 "AS8452","TE-AS",804
 "AS215925","VPSVAULT.HOST LTD",771
@@ -142,8 +142,8 @@ ASN,Organization,IP_Count
 "AS57588","Hayat for Internet & communication LLC",57
 "AS8560","IONOS SE",57
 "AS11320","LightEdge Solutions",56
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",56
 "AS48090","PPTECHNOLOGY LIMITED",56
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",55
 "AS18345","Servers Australia Pty. Ltd",55
 "AS199785","Cloud Hosting Solutions, Limited.",55
 "AS271795","SERVITELCONET CIA. LTDA.",54
