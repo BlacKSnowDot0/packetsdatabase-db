@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87600
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21715
-"AS398324","Censys, Inc.",11476
-"AS396982","Google LLC",9759
+"AS398324","Censys, Inc.",11479
+"AS396982","Google LLC",9760
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7158
+"AS14061","DigitalOcean, LLC",7159
 "AS16276","OVH SAS",5656
 "AS4134","Chinanet",4855
 "AS6568","Entel S.A. - EntelNet",4536
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1141
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS22552","eSited Solutions",1123
+"AS22552","eSited Solutions",1124
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",977
 "AS208684","BHA CONSEIL SARL",956
@@ -50,7 +50,7 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS10439","CariNet, Inc.",547
 "AS14618","Amazon.com, Inc.",540
-"AS20052","Arbor Networks, Inc.",538
+"AS20052","Arbor Networks, Inc.",539
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",522
 "AS9009","M247 Europe SRL",520
@@ -115,8 +115,8 @@ ASN,Organization,IP_Count
 "AS210125","PRIAM NET Sh.p.k.",79
 "AS200019","ALEXHOST SRL",78
 "AS151185","China Telecom",77
+"AS28209","Under Servicos de Internet Ltda",77
 "AS211736","FOP Dmytro Nedilskyi",76
-"AS28209","Under Servicos de Internet Ltda",76
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
 "AS47331","TTNet A.S.",75
