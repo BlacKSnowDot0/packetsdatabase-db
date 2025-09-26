@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87601
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21717
-"AS398324","Censys, Inc.",11506
+"AS398324","Censys, Inc.",11507
 "AS396982","Google LLC",9774
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7161
+"AS14061","DigitalOcean, LLC",7162
 "AS16276","OVH SAS",5657
 "AS4134","Chinanet",4856
 "AS6568","Entel S.A. - EntelNet",4536
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2585
 "AS142002","Scloud Pte Ltd",2529
-"AS6939","Hurricane Electric LLC",2268
+"AS6939","Hurricane Electric LLC",2269
 "AS9808","China Mobile",2058
 "AS202425","IP Volume inc",1661
 "AS214295","SKYNET NETWORK LTD",1631
@@ -222,6 +222,7 @@ ASN,Organization,IP_Count
 "AS43289","Trabia SRL",22
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",22
 "AS51430","AltusHost B.V.",22
+"AS58212","dataforest GmbH",22
 "AS146817","Hubei Feixun Network Co., Ltd",21
 "AS17561","Larus Limited",21
 "AS17816","China Unicom IP network China169 Guangdong province",21
@@ -230,7 +231,6 @@ ASN,Organization,IP_Count
 "AS400536","Nodestop LLC",21
 "AS4800","PT Aplikanusa Lintasarta",21
 "AS50887","DC FIBER HOME SRL",21
-"AS58212","dataforest GmbH",21
 "AS6134","XNNET LLC",21
 "AS1103","SURF B.V.",20
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
