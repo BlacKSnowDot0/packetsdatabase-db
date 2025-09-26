@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87600
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
 "AS211298","Driftnet Ltd",21716
-"AS398324","Censys, Inc.",11488
+"AS398324","Censys, Inc.",11489
 "AS396982","Google LLC",9763
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7159
@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4412
 "AS16509","Amazon.com, Inc.",3837
-"AS45102","Alibaba (US) Technology Co., Ltd.",3589
+"AS45102","Alibaba (US) Technology Co., Ltd.",3590
 "AS63949","Akamai Technologies, Inc.",3494
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
@@ -95,7 +95,7 @@ ASN,Organization,IP_Count
 "AS206264","Amarutu Technology Ltd",153
 "AS8151","Uninet S.A. de C.V.",142
 "AS47105","Vault Dweller OU",141
-"AS29484","Ruhr-Universitaet Bochum",137
+"AS29484","Ruhr-Universitaet Bochum",138
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
 "AS36007","Kamatera, Inc.",122
@@ -153,9 +153,9 @@ ASN,Organization,IP_Count
 "AS213877","u1host ltd",51
 "AS215590","DpkgSoft International Limited",50
 "AS266181","GOLDEN LINK",48
+"AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",47
 "AS55720","Gigabit Hosting Sdn Bhd",47
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
-"AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",46
 "AS150263","PT Alnet Telekomunikasi Indonesia",45
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
@@ -232,12 +232,12 @@ ASN,Organization,IP_Count
 "AS50887","DC FIBER HOME SRL",21
 "AS58212","dataforest GmbH",21
 "AS6134","XNNET LLC",21
+"AS1103","SURF B.V.",20
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
 "AS46573","LayerHost",20
 "AS9299","Philippine Long Distance Telephone Co.",20
 "AS10796","Charter Communications Inc",19
-"AS1103","SURF B.V.",19
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",19
 "AS24348","CERNET2 IX at Tsinghua University",19
 "AS24560","Bharti Airtel Limited",19
@@ -1028,6 +1028,7 @@ ASN,Organization,IP_Count
 "AS60522","KomMITT-Ratingen GmbH",2
 "AS6147","Telefonica del Peru S.A.A.",2
 "AS61844","America-NET Ltda.",2
+"AS63139","BEDGE CO LIMITED",2
 "AS6327","Shaw Communications Inc.",2
 "AS63508","PT DINAMIKA MEDIAKOM",2
 "AS6724","Strato AG",2
@@ -1991,7 +1992,6 @@ ASN,Organization,IP_Count
 "AS62563","GLOBALTELEHOST Corp.",1
 "AS62738","ZochNet",1
 "AS63014","McCormick Place",1
-"AS63139","BEDGE CO LIMITED",1
 "AS6325","Illinois Century Network",1
 "AS63473","HostHatch, LLC",1
 "AS63491","Universitas Katolik Widya Mandala",1
