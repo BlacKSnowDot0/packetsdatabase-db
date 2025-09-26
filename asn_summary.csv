@@ -1,17 +1,17 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87600
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70542
-"AS211298","Driftnet Ltd",21716
-"AS398324","Censys, Inc.",11503
-"AS396982","Google LLC",9771
+"AS211298","Driftnet Ltd",21717
+"AS398324","Censys, Inc.",11505
+"AS396982","Google LLC",9772
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7160
+"AS14061","DigitalOcean, LLC",7161
 "AS16276","OVH SAS",5657
 "AS4134","Chinanet",4856
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4412
 "AS16509","Amazon.com, Inc.",3837
-"AS45102","Alibaba (US) Technology Co., Ltd.",3599
+"AS45102","Alibaba (US) Technology Co., Ltd.",3601
 "AS63949","Akamai Technologies, Inc.",3494
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2584
 "AS142002","Scloud Pte Ltd",2529
-"AS6939","Hurricane Electric LLC",2267
+"AS6939","Hurricane Electric LLC",2268
 "AS9808","China Mobile",2058
 "AS202425","IP Volume inc",1661
 "AS214295","SKYNET NETWORK LTD",1631
@@ -40,7 +40,7 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS32475","Internap Holding LLC",835
-"AS36352","HostPapa",816
+"AS36352","HostPapa",817
 "AS208046","ColocationX Ltd.",804
 "AS8452","TE-AS",804
 "AS215925","VPSVAULT.HOST LTD",771
@@ -179,9 +179,9 @@ ASN,Organization,IP_Count
 "AS9498","Bharti Airtel Limited",33
 "AS210558","1337 Services GmbH",32
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",32
+"AS23724","IDC, China Telecommunications Corporation",32
 "AS42624","Global-Data System IT Corporation",32
 "AS55990","Huawei Cloud Service data center",32
-"AS23724","IDC, China Telecommunications Corporation",31
 "AS263355","GTR NET COMUNICACOES EIRELI",31
 "AS30083","velia.net",31
 "AS9198","JSC Kazakhtelecom",31
