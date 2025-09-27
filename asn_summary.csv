@@ -1,9 +1,9 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87603
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
-"AS211298","Driftnet Ltd",21720
+"AS211298","Driftnet Ltd",21721
 "AS398324","Censys, Inc.",11543
-"AS396982","Google LLC",9790
+"AS396982","Google LLC",9791
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7173
 "AS16276","OVH SAS",5660
@@ -1031,6 +1031,7 @@ ASN,Organization,IP_Count
 "AS63139","BEDGE CO LIMITED",2
 "AS6327","Shaw Communications Inc.",2
 "AS63508","PT DINAMIKA MEDIAKOM",2
+"AS63526","Systems Solutions & development Technologies Limited",2
 "AS6724","Strato AG",2
 "AS6768","""EUROTELE-PLUS"" LLC",2
 "AS7018","AT&T Services, Inc.",2
@@ -1997,7 +1998,6 @@ ASN,Organization,IP_Count
 "AS63473","HostHatch, LLC",1
 "AS63491","Universitas Katolik Widya Mandala",1
 "AS63497","PT. Arana Teknologi Indonesia",1
-"AS63526","Systems Solutions & development Technologies Limited",1
 "AS63835","No.293,Wanbao Avenue",1
 "AS6389","AT&T Enterprises, LLC",1
 "AS64236","UnReal Servers, LLC",1
