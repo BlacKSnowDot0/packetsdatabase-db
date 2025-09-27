@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87606
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
-"AS211298","Driftnet Ltd",21726
+"AS211298","Driftnet Ltd",21727
 "AS398324","Censys, Inc.",11579
-"AS396982","Google LLC",9807
+"AS396982","Google LLC",9808
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7186
+"AS14061","DigitalOcean, LLC",7187
 "AS16276","OVH SAS",5663
 "AS4134","Chinanet",4858
 "AS6568","Entel S.A. - EntelNet",4536
@@ -147,8 +147,8 @@ ASN,Organization,IP_Count
 "AS18345","Servers Australia Pty. Ltd",55
 "AS199785","Cloud Hosting Solutions, Limited.",55
 "AS271795","SERVITELCONET CIA. LTDA.",54
+"AS44477","STARK INDUSTRIES SOLUTIONS LTD",54
 "AS44382","Fiba Cloud Operation Company, LLC",53
-"AS44477","STARK INDUSTRIES SOLUTIONS LTD",53
 "AS8402","PJSC ""Vimpelcom""",53
 "AS213877","u1host ltd",51
 "AS215590","DpkgSoft International Limited",51
@@ -218,6 +218,7 @@ ASN,Organization,IP_Count
 "AS58224","Iran Telecommunication Company PJS",23
 "AS60068","Datacamp Limited",23
 "AS62240","Clouvider Limited",23
+"AS197540","netcup GmbH",22
 "AS213010","Gening Nikita Dmitrievich",22
 "AS43289","Trabia SRL",22
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",22
@@ -226,7 +227,6 @@ ASN,Organization,IP_Count
 "AS146817","Hubei Feixun Network Co., Ltd",21
 "AS17561","Larus Limited",21
 "AS17816","China Unicom IP network China169 Guangdong province",21
-"AS197540","netcup GmbH",21
 "AS214668","AxusHost B.V.",21
 "AS400536","Nodestop LLC",21
 "AS4800","PT Aplikanusa Lintasarta",21
