@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87603
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
 "AS211298","Driftnet Ltd",21721
-"AS398324","Censys, Inc.",11543
+"AS398324","Censys, Inc.",11544
 "AS396982","Google LLC",9791
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7173
@@ -48,7 +48,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
-"AS10439","CariNet, Inc.",548
+"AS10439","CariNet, Inc.",549
 "AS20052","Arbor Networks, Inc.",546
 "AS14618","Amazon.com, Inc.",542
 "AS198953","Proton66 OOO",527
@@ -107,7 +107,7 @@ ASN,Organization,IP_Count
 "AS50219","LNK SYSTEMS MUNTENIA SRL",103
 "AS7922","Comcast Cable Communications, LLC",100
 "AS18403","FPT Telecom Company",99
-"AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",94
+"AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",95
 "AS63018","Dedicated.com",92
 "AS14956","RouterHosting LLC",90
 "AS58461","Chinanet",85
@@ -267,6 +267,7 @@ ASN,Organization,IP_Count
 "AS45117","Ishan's Network",17
 "AS56630","Melbikomas UAB",17
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",16
+"AS141995","Contabo Asia Private Limited",16
 "AS206092","Internet Utilities Europe and Asia Limited",16
 "AS25198","INTERKVM HOST SRL",16
 "AS46261","QuickPacket, LLC",16
@@ -274,7 +275,6 @@ ASN,Organization,IP_Count
 "AS6597","Coloblox Data Centers Inc",16
 "AS11426","Charter Communications Inc",15
 "AS136515","Dasca Cable Services, Inc.",15
-"AS141995","Contabo Asia Private Limited",15
 "AS202448","MVPS LTD",15
 "AS207713","GLOBAL INTERNET SOLUTIONS LLC",15
 "AS211619","MAXKO d.o.o.",15
