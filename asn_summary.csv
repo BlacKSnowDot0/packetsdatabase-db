@@ -1,9 +1,9 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87602
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87603
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
 "AS211298","Driftnet Ltd",21720
-"AS398324","Censys, Inc.",11532
-"AS396982","Google LLC",9781
+"AS398324","Censys, Inc.",11536
+"AS396982","Google LLC",9783
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7171
 "AS16276","OVH SAS",5659
@@ -11,30 +11,30 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4412
 "AS16509","Amazon.com, Inc.",3837
-"AS45102","Alibaba (US) Technology Co., Ltd.",3605
+"AS45102","Alibaba (US) Technology Co., Ltd.",3609
 "AS63949","Akamai Technologies, Inc.",3495
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
-"AS51396","Pfcloud UG",3051
+"AS51396","Pfcloud UG",3052
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2585
 "AS142002","Scloud Pte Ltd",2529
 "AS6939","Hurricane Electric LLC",2269
 "AS9808","China Mobile",2058
-"AS202425","IP Volume inc",1662
+"AS202425","IP Volume inc",1663
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1483
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1338
 "AS215269","LAZYCLOUD LTD",1312
 "AS0","",1227
-"AS49870","Alsycon B.V.",1223
+"AS49870","Alsycon B.V.",1224
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1141
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS22552","eSited Solutions",1132
 "AS201401","NewVM B.V.",1076
-"AS174","Cogent Communications",981
+"AS174","Cogent Communications",982
 "AS208684","BHA CONSEIL SARL",956
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -170,12 +170,12 @@ ASN,Organization,IP_Count
 "AS4538","China Education and Research Network Center",35
 "AS19318","Interserver, Inc",34
 "AS23969","TOT Public Company Limited",34
+"AS29066","velia.net Internetdienste GmbH",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS12816","Leibniz-Rechenzentrum",33
 "AS149746","PT Blip Integrator Provider",33
 "AS23724","IDC, China Telecommunications Corporation",33
 "AS262378","Compuservice Empreendimentos Ltda",33
-"AS29066","velia.net Internetdienste GmbH",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
 "AS210558","1337 Services GmbH",32
@@ -382,6 +382,7 @@ ASN,Organization,IP_Count
 "AS138886","PT Data Buana Nusantara",8
 "AS141295","Madhya Pradesh Agency For Promotion   Of Information Technology",8
 "AS142032","High Family Technology Co., Limited",8
+"AS17639","ComClark Network & Technology Corp",8
 "AS17882","MCS Com Co Ltd",8
 "AS18209","Atria Convergence Technologies Pvt. Ltd.,",8
 "AS18986","Calligo (Canada) Inc.",8
@@ -399,7 +400,6 @@ ASN,Organization,IP_Count
 "AS137718","Beijing Volcano Engine Technology Co., Ltd.",7
 "AS15704","XTRA TELECOM S.A.",7
 "AS17552","TRUE INTERNET CORPORATION CO. LTD.",7
-"AS17639","ComClark Network & Technology Corp",7
 "AS17762","Tata Teleservices (Maharashtra) Ltd",7
 "AS197309","RS-Media LLC",7
 "AS203684","Imen Sanat Novin Alighapoo Private Joint Stock Company",7
