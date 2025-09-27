@@ -3,7 +3,7 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
 "AS211298","Driftnet Ltd",21721
 "AS398324","Censys, Inc.",11549
-"AS396982","Google LLC",9795
+"AS396982","Google LLC",9796
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7176
 "AS16276","OVH SAS",5660
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2585
 "AS142002","Scloud Pte Ltd",2529
-"AS6939","Hurricane Electric LLC",2271
+"AS6939","Hurricane Electric LLC",2272
 "AS9808","China Mobile",2058
 "AS202425","IP Volume inc",1664
 "AS214295","SKYNET NETWORK LTD",1631
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1141
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS22552","eSited Solutions",1133
+"AS22552","eSited Solutions",1134
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",982
 "AS208684","BHA CONSEIL SARL",956
@@ -41,7 +41,7 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS32475","Internap Holding LLC",835
 "AS36352","HostPapa",830
-"AS208046","ColocationX Ltd.",804
+"AS208046","ColocationX Ltd.",805
 "AS8452","TE-AS",804
 "AS215925","VPSVAULT.HOST LTD",772
 "AS23470","ReliableSite.Net LLC",769
@@ -113,8 +113,8 @@ ASN,Organization,IP_Count
 "AS58461","Chinanet",85
 "AS205352","KABELNET LTD",84
 "AS210125","PRIAM NET Sh.p.k.",80
+"AS151185","China Telecom",78
 "AS200019","ALEXHOST SRL",78
-"AS151185","China Telecom",77
 "AS28209","Under Servicos de Internet Ltda",77
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",75
@@ -151,7 +151,7 @@ ASN,Organization,IP_Count
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",53
 "AS8402","PJSC ""Vimpelcom""",53
 "AS213877","u1host ltd",51
-"AS215590","DpkgSoft International Limited",50
+"AS215590","DpkgSoft International Limited",51
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",48
 "AS266181","GOLDEN LINK",48
 "AS55720","Gigabit Hosting Sdn Bhd",47
@@ -614,6 +614,7 @@ ASN,Organization,IP_Count
 "AS7029","Windstream Communications LLC",4
 "AS8764","Telia Lietuva, AB",4
 "AS8781","Ooredoo Q.S.C.",4
+"AS8926","Moldtelecom SA",4
 "AS9260","Multinet Broadband",4
 "AS9335","CAT Telecom Public Company Limited",4
 "AS9416","Hoshin Multimedia Center Inc.",4
@@ -737,7 +738,6 @@ ASN,Organization,IP_Count
 "AS786","Jisc Services Limited",3
 "AS8400","TELEKOM SRBIJA a.d.",3
 "AS852","TELUS Communications Inc.",3
-"AS8926","Moldtelecom SA",3
 "AS9269","Hong Kong Broadband Network Ltd",3
 "AS9329","Sri Lanka Telecom Ltd",3
 "AS9674","Far EastTone Telecommunication Co., Ltd.",3
