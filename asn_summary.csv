@@ -34,13 +34,13 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS22552","eSited Solutions",1138
 "AS201401","NewVM B.V.",1076
-"AS174","Cogent Communications",984
+"AS174","Cogent Communications",985
 "AS208684","BHA CONSEIL SARL",957
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS36352","HostPapa",839
-"AS32475","Internap Holding LLC",837
+"AS32475","Internap Holding LLC",838
 "AS208046","ColocationX Ltd.",806
 "AS8452","TE-AS",804
 "AS215925","VPSVAULT.HOST LTD",773
@@ -58,7 +58,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",504
 "AS50360","Tamatiya EOOD",492
 "AS201814","MEVSPACE sp. z o.o.",476
-"AS51167","Contabo GmbH",467
+"AS51167","Contabo GmbH",468
 "AS212238","Datacamp Limited",454
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
@@ -76,7 +76,7 @@ ASN,Organization,IP_Count
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",273
 "AS7713","Telekomunikasi Indonesia (PT)",272
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",263
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",261
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",262
 "AS47890","UNMANAGED LTD",255
 "AS48090","TECHOFF SRV LIMITED",249
 "AS60223","Netiface Limited",248
@@ -426,6 +426,7 @@ ASN,Organization,IP_Count
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",7
 "AS8167","V tal",7
 "AS9658","Eastern Telecommunications Philippines, Inc.",7
+"AS9770","LG HelloVision Corp.",7
 "AS11351","Charter Communications Inc",6
 "AS11427","Charter Communications Inc",6
 "AS132116","Ani Network Pvt Ltd",6
@@ -465,7 +466,6 @@ ASN,Organization,IP_Count
 "AS6849","JSC ""Ukrtelecom""",6
 "AS8346","SONATEL-AS Autonomous System",6
 "AS8708","RCS & RDS SA",6
-"AS9770","LG HelloVision Corp.",6
 "AS9873","Lao Telecommunication Public Company",6
 "AS9981","Saero Network Service LTD",6
 "AS10429","TELEFÔNICA BRASIL S.A",5
