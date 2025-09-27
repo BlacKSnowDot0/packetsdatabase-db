@@ -1,9 +1,9 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87605
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
-"AS211298","Driftnet Ltd",21725
-"AS398324","Censys, Inc.",11574
-"AS396982","Google LLC",9804
+"AS211298","Driftnet Ltd",21726
+"AS398324","Censys, Inc.",11576
+"AS396982","Google LLC",9805
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7183
 "AS16276","OVH SAS",5663
@@ -32,15 +32,15 @@ ASN,Organization,IP_Count
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1141
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS22552","eSited Solutions",1137
+"AS22552","eSited Solutions",1138
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",984
 "AS208684","BHA CONSEIL SARL",957
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
+"AS36352","HostPapa",837
 "AS32475","Internap Holding LLC",836
-"AS36352","HostPapa",836
 "AS208046","ColocationX Ltd.",806
 "AS8452","TE-AS",804
 "AS215925","VPSVAULT.HOST LTD",773
@@ -63,7 +63,7 @@ ASN,Organization,IP_Count
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS51115","HLL LLC",387
+"AS51115","HLL LLC",388
 "AS3462","Chunghwa Telecom Co., Ltd.",375
 "AS53667","FranTech Solutions",372
 "AS9829","Bharat Sanchar Nigam Ltd",341
@@ -1010,6 +1010,7 @@ ASN,Organization,IP_Count
 "AS52854","DIGITALSMART TELECOMUNICACOES LTDA",2
 "AS53158","Net Turbo Telecom",2
 "AS53209","Mantiqueira Tecnologia Ltda.",2
+"AS53850","GorillaServers, Inc.",2
 "AS5413","Daisy Corporate Services Trading Ltd",2
 "AS55341","51/A RACHNA MIDAS GOKULPETH",2
 "AS56047","China Mobile Communications Corporation",2
@@ -1924,7 +1925,6 @@ ASN,Organization,IP_Count
 "AS53222","Seanet Telecom Ltda",1
 "AS53230","Clean Net Telecom Ltda",1
 "AS53449","OEC Fiber",1
-"AS53850","GorillaServers, Inc.",1
 "AS5391","Hrvatski Telekom d.d.",1
 "AS5416","BEYON B.S.C.",1
 "AS54600","PEG TECH INC",1
