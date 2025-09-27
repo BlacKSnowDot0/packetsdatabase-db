@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87603
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
 "AS211298","Driftnet Ltd",21724
-"AS398324","Censys, Inc.",11558
+"AS398324","Censys, Inc.",11559
 "AS396982","Google LLC",9800
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7180
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS22552","eSited Solutions",1136
 "AS201401","NewVM B.V.",1076
-"AS174","Cogent Communications",982
+"AS174","Cogent Communications",983
 "AS208684","BHA CONSEIL SARL",956
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS10439","CariNet, Inc.",550
-"AS20052","Arbor Networks, Inc.",547
+"AS20052","Arbor Networks, Inc.",548
 "AS14618","Amazon.com, Inc.",542
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",522
@@ -126,8 +126,8 @@ ASN,Organization,IP_Count
 "AS31898","Oracle Corporation",71
 "AS28573","Claro NXT Telecomunicacoes Ltda",69
 "AS52053","REDHEBERG Association declaree",69
+"AS7018","AT&T Enterprises, LLC",69
 "AS328867","Corebach Backbone SARL",67
-"AS7018","AT&T Enterprises, LLC",67
 "AS40021","Nubes, LLC",66
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
