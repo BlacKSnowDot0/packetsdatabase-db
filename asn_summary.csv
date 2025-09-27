@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87603
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
 "AS211298","Driftnet Ltd",21721
-"AS398324","Censys, Inc.",11549
-"AS396982","Google LLC",9796
+"AS398324","Censys, Inc.",11551
+"AS396982","Google LLC",9797
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7176
 "AS16276","OVH SAS",5660
@@ -65,10 +65,10 @@ ASN,Organization,IP_Count
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS51115","HLL LLC",384
 "AS3462","Chunghwa Telecom Co., Ltd.",375
-"AS53667","FranTech Solutions",369
+"AS53667","FranTech Solutions",371
 "AS9829","Bharat Sanchar Nigam Ltd",341
 "AS21859","Zenlayer Inc",330
-"AS12876","ONLINE S.A.S.",327
+"AS12876","ONLINE S.A.S.",328
 "AS214943","Railnet LLC",313
 "AS24863","LINKdotNET AS number",307
 "AS210848","Telkom Internet LTD",296
@@ -156,7 +156,7 @@ ASN,Organization,IP_Count
 "AS266181","GOLDEN LINK",48
 "AS55720","Gigabit Hosting Sdn Bhd",47
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
-"AS150263","PT Alnet Telekomunikasi Indonesia",45
+"AS150263","PT Alnet Telekomunikasi Indonesia",46
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
 "AS701","Verizon Business",44
@@ -180,15 +180,15 @@ ASN,Organization,IP_Count
 "AS9498","Bharti Airtel Limited",33
 "AS210558","1337 Services GmbH",32
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",32
+"AS263355","GTR NET COMUNICACOES EIRELI",32
 "AS42624","Global-Data System IT Corporation",32
 "AS55990","Huawei Cloud Service data center",32
-"AS263355","GTR NET COMUNICACOES EIRELI",31
 "AS30083","velia.net",31
 "AS9198","JSC Kazakhtelecom",31
+"AS30633","Leaseweb USA, Inc.",30
 "AS44592","SkyLink Data Center BV",30
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",30
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",29
-"AS30633","Leaseweb USA, Inc.",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS141679","China Telecom",28
