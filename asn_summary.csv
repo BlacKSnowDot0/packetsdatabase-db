@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87603
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
 "AS211298","Driftnet Ltd",21721
-"AS398324","Censys, Inc.",11544
-"AS396982","Google LLC",9791
+"AS398324","Censys, Inc.",11547
+"AS396982","Google LLC",9792
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7173
+"AS14061","DigitalOcean, LLC",7174
 "AS16276","OVH SAS",5660
 "AS4134","Chinanet",4858
 "AS6568","Entel S.A. - EntelNet",4536
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS10439","CariNet, Inc.",549
-"AS20052","Arbor Networks, Inc.",546
+"AS20052","Arbor Networks, Inc.",547
 "AS14618","Amazon.com, Inc.",542
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",522
@@ -297,6 +297,7 @@ ASN,Organization,IP_Count
 "AS4816","China Telecom (Group)",14
 "AS48721","Flyservers S.A.",14
 "AS213194","Nechaev Dmitry Sergeevich",13
+"AS214417","Andrii Hrosh",13
 "AS24757","EthioNet",13
 "AS25369","Hydra Communications Ltd",13
 "AS28840","PJSC ""TATTELECOM""",13
@@ -311,7 +312,6 @@ ASN,Organization,IP_Count
 "AS18881","TELEFÔNICA BRASIL S.A",12
 "AS200593","PROSPERO OOO",12
 "AS213438","ColocaTel Inc.",12
-"AS214417","Andrii Hrosh",12
 "AS2637","Georgia Institute of Technology",12
 "AS35042","Layer7 Networks GmbH",12
 "AS36992","ETISALAT MISR",12
