@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87606
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
 "AS211298","Driftnet Ltd",21726
-"AS398324","Censys, Inc.",11577
+"AS398324","Censys, Inc.",11578
 "AS396982","Google LLC",9807
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7185
@@ -23,9 +23,9 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2058
 "AS202425","IP Volume inc",1665
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1484
+"AS209605","UAB Host Baltic",1485
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS398722","Censys, Inc.",1338
+"AS398722","Censys, Inc.",1339
 "AS215269","LAZYCLOUD LTD",1312
 "AS0","",1227
 "AS49870","Alsycon B.V.",1225
@@ -39,7 +39,7 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
-"AS36352","HostPapa",838
+"AS36352","HostPapa",839
 "AS32475","Internap Holding LLC",837
 "AS208046","ColocationX Ltd.",806
 "AS8452","TE-AS",804
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS51115","HLL LLC",388
 "AS3462","Chunghwa Telecom Co., Ltd.",375
-"AS53667","FranTech Solutions",372
+"AS53667","FranTech Solutions",374
 "AS9829","Bharat Sanchar Nigam Ltd",341
 "AS12876","ONLINE S.A.S.",333
 "AS21859","Zenlayer Inc",330
@@ -86,7 +86,7 @@ ASN,Organization,IP_Count
 "AS14987","Rethem Hosting LLC",215
 "AS208843","Alpha Strike Labs GmbH",203
 "AS45899","VNPT Corp",198
-"AS213613","BOTSHIELD LTD",196
+"AS213613","BOTSHIELD LTD",197
 "AS12389","PJSC Rostelecom",181
 "AS141718","haoxiangyun",181
 "AS401116","Nybula LLC",170
