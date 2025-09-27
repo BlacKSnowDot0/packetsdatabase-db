@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87603
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
 "AS211298","Driftnet Ltd",21720
-"AS398324","Censys, Inc.",11541
-"AS396982","Google LLC",9789
+"AS398324","Censys, Inc.",11543
+"AS396982","Google LLC",9790
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7173
 "AS16276","OVH SAS",5660
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",383
 "AS3462","Chunghwa Telecom Co., Ltd.",375
 "AS53667","FranTech Solutions",369
-"AS9829","Bharat Sanchar Nigam Ltd",340
+"AS9829","Bharat Sanchar Nigam Ltd",341
 "AS21859","Zenlayer Inc",330
 "AS214943","Railnet LLC",313
 "AS12876","ONLINE S.A.S.",308
@@ -103,7 +103,7 @@ ASN,Organization,IP_Count
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS262551","Farol Telecom",113
 "AS208287","DC Host INC",110
-"AS42237","w1n ltd",108
+"AS42237","w1n ltd",109
 "AS50219","LNK SYSTEMS MUNTENIA SRL",103
 "AS7922","Comcast Cable Communications, LLC",100
 "AS18403","FPT Telecom Company",99
@@ -516,6 +516,7 @@ ASN,Organization,IP_Count
 "AS45458","ADVANCED WIRELESS NETWORK COMPANY LIMITED",5
 "AS4721","JCOM Co., Ltd.",5
 "AS47524","Turksat Uydu Haberlesme ve Kablo TV Isletme A.S.",5
+"AS48282","Hosting technology LTD",5
 "AS52468","UFINET PANAMA S.A.",5
 "AS5410","Bouygues Telecom SA",5
 "AS5432","Proximus NV",5
@@ -603,7 +604,6 @@ ASN,Organization,IP_Count
 "AS45700","PT. NAP Info Lintas Nusa",4
 "AS47165","Omskie kabelnye seti Ltd.",4
 "AS4811","China Telecom (Group)",4
-"AS48282","Hosting technology LTD",4
 "AS51765","Oy Crea Nova Hosting Solution Ltd",4
 "AS52401","CABLESAT TV SRL",4
 "AS55699","PT. Cemerlang Multimedia",4
