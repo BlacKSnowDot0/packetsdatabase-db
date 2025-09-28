@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87606
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
 "AS211298","Driftnet Ltd",21733
-"AS398324","Censys, Inc.",11622
-"AS396982","Google LLC",9830
+"AS398324","Censys, Inc.",11623
+"AS396982","Google LLC",9831
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7205
+"AS14061","DigitalOcean, LLC",7206
 "AS16276","OVH SAS",5665
 "AS4134","Chinanet",4859
 "AS6568","Entel S.A. - EntelNet",4536
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS0","",1232
 "AS49870","Alsycon B.V.",1225
 "AS204428","SS-Net",1182
-"AS22552","eSited Solutions",1142
+"AS22552","eSited Solutions",1143
 "AS399045","DediOutlet, LLC",1141
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
@@ -39,7 +39,7 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS32475","Internap Holding LLC",851
 "AS9465","AGOTOZ PTE. LTD.",845
-"AS36352","HostPapa",842
+"AS36352","HostPapa",843
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",806
 "AS8452","TE-AS",804
@@ -171,11 +171,11 @@ ASN,Organization,IP_Count
 "AS4538","China Education and Research Network Center",35
 "AS19318","Interserver, Inc",34
 "AS23969","TOT Public Company Limited",34
+"AS262378","Compuservice Empreendimentos Ltda",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS12816","Leibniz-Rechenzentrum",33
 "AS149746","PT Blip Integrator Provider",33
 "AS23724","IDC, China Telecommunications Corporation",33
-"AS262378","Compuservice Empreendimentos Ltda",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
 "AS210558","1337 Services GmbH",32
@@ -281,6 +281,7 @@ ASN,Organization,IP_Count
 "AS263767","CORPORACIÓN GALA IT, C.A.",15
 "AS272547","Servicos de Infraestrutura e Datacenter",15
 "AS31113","Artkomm LLC",15
+"AS329490","Promethean Consulting Limited",15
 "AS36947","Telecom Algeria",15
 "AS397283","RocketNode Inc",15
 "AS45758","Triple T Broadband Public Company Limited",15
@@ -292,7 +293,6 @@ ASN,Organization,IP_Count
 "AS14593","Space Exploration Technologies Corporation",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS26599","TELEFÔNICA BRASIL S.A",14
-"AS329490","Promethean Consulting Limited",14
 "AS39603","P4 Sp. z o.o.",14
 "AS4816","China Telecom (Group)",14
 "AS48721","Flyservers S.A.",14
