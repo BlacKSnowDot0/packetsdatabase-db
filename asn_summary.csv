@@ -2,17 +2,17 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87606
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
 "AS211298","Driftnet Ltd",21733
-"AS398324","Censys, Inc.",11607
-"AS396982","Google LLC",9824
+"AS398324","Censys, Inc.",11608
+"AS396982","Google LLC",9826
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7197
+"AS14061","DigitalOcean, LLC",7203
 "AS16276","OVH SAS",5664
 "AS4134","Chinanet",4858
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4415
 "AS16509","Amazon.com, Inc.",3837
 "AS45102","Alibaba (US) Technology Co., Ltd.",3619
-"AS63949","Akamai Technologies, Inc.",3497
+"AS63949","Akamai Technologies, Inc.",3498
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
 "AS51396","Pfcloud UG",3054
@@ -108,8 +108,8 @@ ASN,Organization,IP_Count
 "AS7922","Comcast Cable Communications, LLC",100
 "AS18403","FPT Telecom Company",99
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",95
+"AS14956","RouterHosting LLC",92
 "AS63018","Dedicated.com",92
-"AS14956","RouterHosting LLC",91
 "AS58461","Chinanet",85
 "AS205352","KABELNET LTD",84
 "AS210125","PRIAM NET Sh.p.k.",82
@@ -434,6 +434,7 @@ ASN,Organization,IP_Count
 "AS138915","Kaopu Cloud HK Limited",6
 "AS141167","AgotoZ HK Limited",6
 "AS149078","VPSMMO TECHNOLOGY COMPANY LIMITED",6
+"AS153096","PT High Speed Connection Network",6
 "AS16611","InfiniaHost.com",6
 "AS17754","Excellmedia",6
 "AS203020","HostRoyale Technologies Pvt Ltd",6
@@ -477,7 +478,6 @@ ASN,Organization,IP_Count
 "AS135953","Vietnam Online Network Solution Joint Stock Compnay",5
 "AS136188","NINGBO, ZHEJIANG Province, P.R.China.",5
 "AS151858","INTERDIGI JOINT STOCK COMPANY",5
-"AS153096","PT High Speed Connection Network",5
 "AS16058","Gabon Telecom Internet Network Autonomous System",5
 "AS17451","BIZNET NETWORKS",5
 "AS17676","SoftBank Corp.",5
