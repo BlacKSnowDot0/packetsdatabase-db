@@ -1,15 +1,15 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87606
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
-"AS211298","Driftnet Ltd",21727
-"AS398324","Censys, Inc.",11583
+"AS211298","Driftnet Ltd",21728
+"AS398324","Censys, Inc.",11585
 "AS396982","Google LLC",9812
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7188
+"AS14061","DigitalOcean, LLC",7189
 "AS16276","OVH SAS",5663
 "AS4134","Chinanet",4858
 "AS6568","Entel S.A. - EntelNet",4536
-"AS58466","CHINANET Guangdong province network",4413
+"AS58466","CHINANET Guangdong province network",4414
 "AS16509","Amazon.com, Inc.",3837
 "AS45102","Alibaba (US) Technology Co., Ltd.",3618
 "AS63949","Akamai Technologies, Inc.",3495
@@ -39,16 +39,16 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
+"AS32475","Internap Holding LLC",839
 "AS36352","HostPapa",839
-"AS32475","Internap Holding LLC",838
 "AS208046","ColocationX Ltd.",806
 "AS8452","TE-AS",804
 "AS215925","VPSVAULT.HOST LTD",773
-"AS23470","ReliableSite.Net LLC",772
+"AS23470","ReliableSite.Net LLC",773
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
-"AS10439","CariNet, Inc.",551
+"AS10439","CariNet, Inc.",552
 "AS20052","Arbor Networks, Inc.",548
 "AS14618","Amazon.com, Inc.",542
 "AS198953","Proton66 OOO",527
@@ -57,7 +57,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS4837","CHINA UNICOM China169 Backbone",504
 "AS50360","Tamatiya EOOD",492
-"AS201814","MEVSPACE sp. z o.o.",476
+"AS201814","MEVSPACE sp. z o.o.",477
 "AS51167","Contabo GmbH",468
 "AS212238","Datacamp Limited",454
 "AS21299","Kar-Tel LLC",406
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS3462","Chunghwa Telecom Co., Ltd.",375
 "AS53667","FranTech Solutions",374
 "AS9829","Bharat Sanchar Nigam Ltd",341
-"AS12876","ONLINE S.A.S.",333
+"AS12876","ONLINE S.A.S.",334
 "AS21859","Zenlayer Inc",330
 "AS214943","Railnet LLC",313
 "AS24863","LINKdotNET AS number",307
@@ -138,11 +138,11 @@ ASN,Organization,IP_Count
 "AS3920","ESTOXY OU",60
 "AS4812","China Telecom (Group)",58
 "AS57588","Hayat for Internet & communication LLC",58
+"AS11320","LightEdge Solutions",57
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",57
 "AS20278","Nexeon Technologies, Inc.",57
 "AS49544","i3D.net B.V",57
 "AS8560","IONOS SE",57
-"AS11320","LightEdge Solutions",56
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS199785","Cloud Hosting Solutions, Limited.",55
@@ -154,7 +154,7 @@ ASN,Organization,IP_Count
 "AS215590","DpkgSoft International Limited",51
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",49
 "AS266181","GOLDEN LINK",48
-"AS55720","Gigabit Hosting Sdn Bhd",47
+"AS55720","Gigabit Hosting Sdn Bhd",48
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
 "AS150263","PT Alnet Telekomunikasi Indonesia",46
 "AS42708","GleSYS AB",44
@@ -162,7 +162,7 @@ ASN,Organization,IP_Count
 "AS701","Verizon Business",44
 "AS152194","CTG Server Limited",43
 "AS214497","Whitelabel Solutions, Ltd.",42
-"AS396356","Latitude.sh",41
+"AS396356","Latitude.sh",42
 "AS138156","CSNE Co., Ltd.",39
 "AS210644","AEZA INTERNATIONAL LTD",38
 "AS20473","The Constant Company, LLC",35
@@ -474,6 +474,7 @@ ASN,Organization,IP_Count
 "AS12714","PJSC MegaFon",5
 "AS131267","Star Telecom",5
 "AS135357","HONG KONG KOWLOON TELECOMMUNICATIONS CO.,LIMITED",5
+"AS135953","Vietnam Online Network Solution Joint Stock Compnay",5
 "AS136188","NINGBO, ZHEJIANG Province, P.R.China.",5
 "AS151858","INTERDIGI JOINT STOCK COMPANY",5
 "AS16058","Gabon Telecom Internet Network Autonomous System",5
@@ -542,7 +543,6 @@ ASN,Organization,IP_Count
 "AS131607","Digidom CableTV Co., LTD.",4
 "AS13489","EPM Telecomunicaciones S.A. E.S.P.",4
 "AS135089","China Telecom",4
-"AS135953","Vietnam Online Network Solution Joint Stock Compnay",4
 "AS136280","Costel Networks P Ltd",4
 "AS14080","Telmex Colombia S.A.",4
 "AS14117","Telefonica del Sur S.A.",4
@@ -856,6 +856,7 @@ ASN,Organization,IP_Count
 "AS214882","Hadi Santosa",2
 "AS214967","Optibounce, LLC",2
 "AS21497","PrJSC ""VF UKRAINE""",2
+"AS215599","Zkillu SAS",2
 "AS215761","Muhammed Fatih ASAN",2
 "AS22611","InMotion Hosting, Inc.",2
 "AS22724","PUNTONET S.A.",2
@@ -1378,7 +1379,6 @@ ASN,Organization,IP_Count
 "AS215476","Inside Network LTD",1
 "AS215481","Bram de Graaf trading as FlexyNode",1
 "AS21554","Wisconsin CyberLynk Network, Inc.",1
-"AS215599","Zkillu SAS",1
 "AS215762","Bullet Group LTD",1
 "AS215826","Partner Hosting LTD",1
 "AS21632","Cybernet1",1
