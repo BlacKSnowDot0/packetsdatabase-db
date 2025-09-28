@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87606
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
 "AS211298","Driftnet Ltd",21731
-"AS398324","Censys, Inc.",11587
+"AS398324","Censys, Inc.",11588
 "AS396982","Google LLC",9817
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7190
@@ -31,15 +31,15 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1225
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1141
+"AS22552","eSited Solutions",1139
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS22552","eSited Solutions",1138
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",985
 "AS208684","BHA CONSEIL SARL",957
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
+"AS32475","Internap Holding LLC",840
 "AS56042","China Mobile Communications Corporation",840
-"AS32475","Internap Holding LLC",839
 "AS36352","HostPapa",839
 "AS208046","ColocationX Ltd.",806
 "AS8452","TE-AS",804
@@ -48,7 +48,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
-"AS10439","CariNet, Inc.",552
+"AS10439","CariNet, Inc.",553
 "AS20052","Arbor Networks, Inc.",548
 "AS14618","Amazon.com, Inc.",542
 "AS198953","Proton66 OOO",527
