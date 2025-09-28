@@ -3,7 +3,7 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
 "AS211298","Driftnet Ltd",21731
 "AS398324","Censys, Inc.",11596
-"AS396982","Google LLC",9822
+"AS396982","Google LLC",9823
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7194
 "AS16276","OVH SAS",5663
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2530
 "AS6939","Hurricane Electric LLC",2274
 "AS9808","China Mobile",2058
-"AS202425","IP Volume inc",1665
+"AS202425","IP Volume inc",1666
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1486
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -43,8 +43,8 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",806
 "AS8452","TE-AS",804
+"AS23470","ReliableSite.Net LLC",774
 "AS215925","VPSVAULT.HOST LTD",773
-"AS23470","ReliableSite.Net LLC",773
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
@@ -82,7 +82,7 @@ ASN,Organization,IP_Count
 "AS60223","Netiface Limited",248
 "AS209272","Alviva Holding Limited",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
-"AS13335","Cloudflare, Inc.",216
+"AS13335","Cloudflare, Inc.",217
 "AS14987","Rethem Hosting LLC",215
 "AS208843","Alpha Strike Labs GmbH",203
 "AS45899","VNPT Corp",198
@@ -325,6 +325,7 @@ ASN,Organization,IP_Count
 "AS200651","FlokiNET ehf",11
 "AS205119","TELEKS DOOEL Skopje",11
 "AS206804","EstNOC OY",11
+"AS210509","Optimum Line for Internet Services Ltd.",11
 "AS2116","GLOBALCONNECT AS",11
 "AS24151","China Internet Network Infomation Center",11
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
@@ -340,7 +341,6 @@ ASN,Organization,IP_Count
 "AS134420","Chongqing Telecom",10
 "AS149359","PT Persada Data Multimedia",10
 "AS153443","VPSRE.NET LLC",10
-"AS210509","Optimum Line for Internet Services Ltd.",10
 "AS22927","Telefonica de Argentina",10
 "AS23693","PT. Telekomunikasi Selular",10
 "AS24547","China Mobile",10
@@ -666,6 +666,7 @@ ASN,Organization,IP_Count
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",3
 "AS213354","INTERNATIONAL HOSTING SOLUTIONS LLP",3
 "AS21499","Host Europe GmbH",3
+"AS215599","Zkillu SAS",3
 "AS22047","VTR BANDA ANCHA S.A.",3
 "AS22612","Namecheap, Inc.",3
 "AS23028","Team Cymru Inc.",3
@@ -856,7 +857,6 @@ ASN,Organization,IP_Count
 "AS214882","Hadi Santosa",2
 "AS214967","Optibounce, LLC",2
 "AS21497","PrJSC ""VF UKRAINE""",2
-"AS215599","Zkillu SAS",2
 "AS215761","Muhammed Fatih ASAN",2
 "AS22611","InMotion Hosting, Inc.",2
 "AS22724","PUNTONET S.A.",2
