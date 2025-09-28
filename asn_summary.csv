@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87606
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
 "AS211298","Driftnet Ltd",21733
-"AS398324","Censys, Inc.",11611
-"AS396982","Google LLC",9826
+"AS398324","Censys, Inc.",11612
+"AS396982","Google LLC",9827
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7204
+"AS14061","DigitalOcean, LLC",7205
 "AS16276","OVH SAS",5664
 "AS4134","Chinanet",4858
 "AS6568","Entel S.A. - EntelNet",4536
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS10439","CariNet, Inc.",554
-"AS20052","Arbor Networks, Inc.",550
+"AS20052","Arbor Networks, Inc.",551
 "AS14618","Amazon.com, Inc.",543
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",525
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS3462","Chunghwa Telecom Co., Ltd.",375
 "AS53667","FranTech Solutions",375
 "AS9829","Bharat Sanchar Nigam Ltd",342
-"AS12876","ONLINE S.A.S.",335
+"AS12876","ONLINE S.A.S.",336
 "AS21859","Zenlayer Inc",330
 "AS214943","Railnet LLC",313
 "AS24863","LINKdotNET AS number",307
@@ -100,7 +100,7 @@ ASN,Organization,IP_Count
 "AS19905","Neustar Security Services",127
 "AS36007","Kamatera, Inc.",122
 "AS13238","YANDEX LLC",119
-"AS262551","Farol Telecom",114
+"AS262551","Farol Telecom",115
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
 "AS42237","w1n ltd",110
@@ -322,6 +322,7 @@ ASN,Organization,IP_Count
 "AS7738","V tal",12
 "AS984","OCTOPUS WEB SOLUTION INC",12
 "AS12874","Fastweb SpA",11
+"AS134420","Chongqing Telecom",11
 "AS200651","FlokiNET ehf",11
 "AS205119","TELEKS DOOEL Skopje",11
 "AS206804","EstNOC OY",11
@@ -338,7 +339,6 @@ ASN,Organization,IP_Count
 "AS58563","CHINANET Hubei province network",11
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",11
 "AS12912","T-Mobile Polska S.A.",10
-"AS134420","Chongqing Telecom",10
 "AS149359","PT Persada Data Multimedia",10
 "AS153443","VPSRE.NET LLC",10
 "AS22927","Telefonica de Argentina",10
