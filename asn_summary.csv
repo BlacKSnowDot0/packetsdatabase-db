@@ -9,7 +9,7 @@ ASN,Organization,IP_Count
 "AS16276","OVH SAS",5664
 "AS4134","Chinanet",4858
 "AS6568","Entel S.A. - EntelNet",4536
-"AS58466","CHINANET Guangdong province network",4414
+"AS58466","CHINANET Guangdong province network",4415
 "AS16509","Amazon.com, Inc.",3837
 "AS45102","Alibaba (US) Technology Co., Ltd.",3619
 "AS63949","Akamai Technologies, Inc.",3497
@@ -17,7 +17,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3163
 "AS51396","Pfcloud UG",3054
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2589
+"AS8075","Microsoft Corporation",2590
 "AS142002","Scloud Pte Ltd",2530
 "AS6939","Hurricane Electric LLC",2275
 "AS9808","China Mobile",2058
@@ -27,7 +27,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1339
 "AS215269","LAZYCLOUD LTD",1312
-"AS0","",1230
+"AS0","",1231
 "AS49870","Alsycon B.V.",1225
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1141
@@ -58,7 +58,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",504
 "AS50360","Tamatiya EOOD",492
 "AS201814","MEVSPACE sp. z o.o.",478
-"AS51167","Contabo GmbH",469
+"AS51167","Contabo GmbH",470
 "AS212238","Datacamp Limited",454
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
@@ -477,6 +477,7 @@ ASN,Organization,IP_Count
 "AS135953","Vietnam Online Network Solution Joint Stock Compnay",5
 "AS136188","NINGBO, ZHEJIANG Province, P.R.China.",5
 "AS151858","INTERDIGI JOINT STOCK COMPANY",5
+"AS153096","PT High Speed Connection Network",5
 "AS16058","Gabon Telecom Internet Network Autonomous System",5
 "AS17451","BIZNET NETWORKS",5
 "AS17676","SoftBank Corp.",5
@@ -551,7 +552,6 @@ ASN,Organization,IP_Count
 "AS149360","PT Indo Telemedia Solusi",4
 "AS150008","Pioneer Elabs Ltd.",4
 "AS150034","FOFO NETWORKS PVT LTD",4
-"AS153096","PT High Speed Connection Network",4
 "AS15557","Societe Francaise Du Radiotelephone - SFR SA",4
 "AS15895","""Kyivstar"" PJSC",4
 "AS18809","Cable Onda",4
