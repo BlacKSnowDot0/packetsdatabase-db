@@ -2,16 +2,16 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87606
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
 "AS211298","Driftnet Ltd",21732
-"AS398324","Censys, Inc.",11600
+"AS398324","Censys, Inc.",11602
 "AS396982","Google LLC",9823
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7194
-"AS16276","OVH SAS",5663
+"AS16276","OVH SAS",5664
 "AS4134","Chinanet",4858
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4414
 "AS16509","Amazon.com, Inc.",3837
-"AS45102","Alibaba (US) Technology Co., Ltd.",3618
+"AS45102","Alibaba (US) Technology Co., Ltd.",3619
 "AS63949","Akamai Technologies, Inc.",3497
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3163
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2589
 "AS142002","Scloud Pte Ltd",2530
-"AS6939","Hurricane Electric LLC",2274
+"AS6939","Hurricane Electric LLC",2275
 "AS9808","China Mobile",2058
 "AS202425","IP Volume inc",1667
 "AS214295","SKYNET NETWORK LTD",1631
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS10439","CariNet, Inc.",554
-"AS20052","Arbor Networks, Inc.",548
+"AS20052","Arbor Networks, Inc.",549
 "AS14618","Amazon.com, Inc.",543
 "AS198953","Proton66 OOO",527
 "AS401120","cheapy.host LLC",525
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS51115","HLL LLC",388
 "AS3462","Chunghwa Telecom Co., Ltd.",375
-"AS53667","FranTech Solutions",374
+"AS53667","FranTech Solutions",375
 "AS9829","Bharat Sanchar Nigam Ltd",342
 "AS12876","ONLINE S.A.S.",335
 "AS21859","Zenlayer Inc",330
@@ -76,7 +76,7 @@ ASN,Organization,IP_Count
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",273
 "AS7713","Telekomunikasi Indonesia (PT)",272
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",263
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",262
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",263
 "AS47890","UNMANAGED LTD",255
 "AS48090","TECHOFF SRV LIMITED",249
 "AS60223","Netiface Limited",248
