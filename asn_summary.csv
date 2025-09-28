@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87606
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
 "AS211298","Driftnet Ltd",21731
-"AS398324","Censys, Inc.",11588
-"AS396982","Google LLC",9817
+"AS398324","Censys, Inc.",11589
+"AS396982","Google LLC",9818
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7190
+"AS14061","DigitalOcean, LLC",7192
 "AS16276","OVH SAS",5663
 "AS4134","Chinanet",4858
 "AS6568","Entel S.A. - EntelNet",4536
@@ -27,7 +27,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1339
 "AS215269","LAZYCLOUD LTD",1312
-"AS0","",1228
+"AS0","",1229
 "AS49870","Alsycon B.V.",1225
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1141
@@ -252,6 +252,7 @@ ASN,Organization,IP_Count
 "AS200514","KnownSRV Ltd.",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",18
+"AS24940","Hetzner Online GmbH",18
 "AS329009","Spectrum Internet Service Ltd",18
 "AS400655","NixLabs Networks",18
 "AS136958","China Unicom Guangdong IP network",17
@@ -260,7 +261,6 @@ ASN,Organization,IP_Count
 "AS148981","China Telecom",17
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
-"AS24940","Hetzner Online GmbH",17
 "AS27699","TELEFÔNICA BRASIL S.A",17
 "AS3269","Telecom Italia S.p.A.",17
 "AS32934","Facebook, Inc.",17
