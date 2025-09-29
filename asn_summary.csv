@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87606
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
 "AS211298","Driftnet Ltd",21736
-"AS398324","Censys, Inc.",11667
+"AS398324","Censys, Inc.",11668
 "AS396982","Google LLC",9834
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7213
@@ -27,10 +27,10 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1341
 "AS215269","LAZYCLOUD LTD",1312
-"AS0","",1261
+"AS0","",1262
 "AS49870","Alsycon B.V.",1225
 "AS204428","SS-Net",1182
-"AS22552","eSited Solutions",1149
+"AS22552","eSited Solutions",1150
 "AS399045","DediOutlet, LLC",1141
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",806
 "AS8452","TE-AS",804
-"AS23470","ReliableSite.Net LLC",779
+"AS23470","ReliableSite.Net LLC",780
 "AS215925","VPSVAULT.HOST LTD",773
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -295,6 +295,7 @@ ASN,Organization,IP_Count
 "AS24757","EthioNet",14
 "AS26599","TELEFÔNICA BRASIL S.A",14
 "AS39603","P4 Sp. z o.o.",14
+"AS41745","Baykov Ilya Sergeevich",14
 "AS4816","China Telecom (Group)",14
 "AS48721","Flyservers S.A.",14
 "AS213194","Nechaev Dmitry Sergeevich",13
@@ -304,7 +305,6 @@ ASN,Organization,IP_Count
 "AS2914","NTT America, Inc.",13
 "AS29465","MTN NIGERIA Communication limited",13
 "AS37457","Telkom SA Ltd.",13
-"AS41745","Baykov Ilya Sergeevich",13
 "AS4808","China Unicom Beijing Province Network",13
 "AS7303","Telecom Argentina S.A.",13
 "AS12400","Partner Communications Ltd.",12
@@ -401,6 +401,7 @@ ASN,Organization,IP_Count
 "AS133661","Netplus Broadband Services Private Limited",7
 "AS137718","Beijing Volcano Engine Technology Co., Ltd.",7
 "AS138915","Kaopu Cloud HK Limited",7
+"AS153096","PT High Speed Connection Network",7
 "AS15704","XTRA TELECOM S.A.",7
 "AS17552","TRUE INTERNET CORPORATION CO. LTD.",7
 "AS17762","Tata Teleservices (Maharashtra) Ltd",7
@@ -434,7 +435,6 @@ ASN,Organization,IP_Count
 "AS135523","Multinet Broadband",6
 "AS141167","AgotoZ HK Limited",6
 "AS149078","VPSMMO TECHNOLOGY COMPANY LIMITED",6
-"AS153096","PT High Speed Connection Network",6
 "AS16611","InfiniaHost.com",6
 "AS17754","Excellmedia",6
 "AS203020","HostRoyale Technologies Pvt Ltd",6
