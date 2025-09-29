@@ -5,11 +5,11 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",11669
 "AS396982","Google LLC",9834
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7213
+"AS14061","DigitalOcean, LLC",7214
 "AS16276","OVH SAS",5668
 "AS4134","Chinanet",4859
 "AS6568","Entel S.A. - EntelNet",4536
-"AS58466","CHINANET Guangdong province network",4417
+"AS58466","CHINANET Guangdong province network",4418
 "AS16509","Amazon.com, Inc.",3838
 "AS45102","Alibaba (US) Technology Co., Ltd.",3629
 "AS63949","Akamai Technologies, Inc.",3498
@@ -25,9 +25,9 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1489
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS398722","Censys, Inc.",1341
+"AS398722","Censys, Inc.",1342
 "AS215269","LAZYCLOUD LTD",1312
-"AS0","",1263
+"AS0","",1265
 "AS49870","Alsycon B.V.",1225
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1150
@@ -166,11 +166,11 @@ ASN,Organization,IP_Count
 "AS138156","CSNE Co., Ltd.",40
 "AS29066","velia.net Internetdienste GmbH",40
 "AS210644","AEZA INTERNATIONAL LTD",38
+"AS149746","PT Blip Integrator Provider",35
 "AS19318","Interserver, Inc",35
 "AS20473","The Constant Company, LLC",35
 "AS213790","Limited Network LTD",35
 "AS4538","China Education and Research Network Center",35
-"AS149746","PT Blip Integrator Provider",34
 "AS23724","IDC, China Telecommunications Corporation",34
 "AS23969","TOT Public Company Limited",34
 "AS262378","Compuservice Empreendimentos Ltda",34
