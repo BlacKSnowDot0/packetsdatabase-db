@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87606
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
-"AS211298","Driftnet Ltd",21735
-"AS398324","Censys, Inc.",11663
+"AS211298","Driftnet Ltd",21736
+"AS398324","Censys, Inc.",11665
 "AS396982","Google LLC",9834
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7212
@@ -27,7 +27,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1341
 "AS215269","LAZYCLOUD LTD",1312
-"AS0","",1257
+"AS0","",1259
 "AS49870","Alsycon B.V.",1225
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1149
@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",989
 "AS208684","BHA CONSEIL SARL",957
 "AS51852","Private Layer INC",907
-"AS32475","Internap Holding LLC",859
+"AS32475","Internap Holding LLC",861
 "AS36352","HostPapa",858
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -107,7 +107,7 @@ ASN,Organization,IP_Count
 "AS50219","LNK SYSTEMS MUNTENIA SRL",106
 "AS7922","Comcast Cable Communications, LLC",100
 "AS18403","FPT Telecom Company",99
-"AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",95
+"AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",96
 "AS14956","RouterHosting LLC",93
 "AS63018","Dedicated.com",92
 "AS58461","Chinanet",85
@@ -274,6 +274,7 @@ ASN,Organization,IP_Count
 "AS50340","JSC Selectel",16
 "AS6597","Coloblox Data Centers Inc",16
 "AS11426","Charter Communications Inc",15
+"AS12322","Free SAS",15
 "AS136515","Dasca Cable Services, Inc.",15
 "AS202448","MVPS LTD",15
 "AS207713","GLOBAL INTERNET SOLUTIONS LLC",15
@@ -288,7 +289,6 @@ ASN,Organization,IP_Count
 "AS49531","""NetCom-R"" LLC",15
 "AS6167","Verizon Business",15
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",15
-"AS12322","Free SAS",14
 "AS136142","Enigma Fiber Pvt Ltd",14
 "AS14593","Space Exploration Technologies Corporation",14
 "AS204104","Giti Secure Cloud LLC",14
