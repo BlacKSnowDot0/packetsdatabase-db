@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87606
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
 "AS211298","Driftnet Ltd",21735
-"AS398324","Censys, Inc.",11647
+"AS398324","Censys, Inc.",11651
 "AS396982","Google LLC",9833
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7210
+"AS14061","DigitalOcean, LLC",7211
 "AS16276","OVH SAS",5668
 "AS4134","Chinanet",4859
 "AS6568","Entel S.A. - EntelNet",4536
@@ -17,11 +17,11 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3164
 "AS51396","Pfcloud UG",3054
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2590
+"AS8075","Microsoft Corporation",2591
 "AS142002","Scloud Pte Ltd",2530
 "AS6939","Hurricane Electric LLC",2282
 "AS9808","China Mobile",2058
-"AS202425","IP Volume inc",1668
+"AS202425","IP Volume inc",1669
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1488
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS0","",1239
 "AS49870","Alsycon B.V.",1225
 "AS204428","SS-Net",1182
-"AS22552","eSited Solutions",1148
+"AS22552","eSited Solutions",1149
 "AS399045","DediOutlet, LLC",1141
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
@@ -48,7 +48,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
-"AS10439","CariNet, Inc.",555
+"AS10439","CariNet, Inc.",556
 "AS20052","Arbor Networks, Inc.",551
 "AS14618","Amazon.com, Inc.",543
 "AS198953","Proton66 OOO",527
@@ -85,7 +85,7 @@ ASN,Organization,IP_Count
 "AS13335","Cloudflare, Inc.",219
 "AS14987","Rethem Hosting LLC",215
 "AS208843","Alpha Strike Labs GmbH",204
-"AS213613","BOTSHIELD LTD",198
+"AS213613","BOTSHIELD LTD",199
 "AS45899","VNPT Corp",198
 "AS12389","PJSC Rostelecom",181
 "AS141718","haoxiangyun",181
@@ -94,8 +94,8 @@ ASN,Organization,IP_Count
 "AS63199","CDS Global Cloud Co., Ltd",167
 "AS206264","Amarutu Technology Ltd",153
 "AS8151","Uninet S.A. de C.V.",142
+"AS29484","Ruhr-Universitaet Bochum",141
 "AS47105","Vault Dweller OU",141
-"AS29484","Ruhr-Universitaet Bochum",140
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
 "AS36007","Kamatera, Inc.",122
@@ -150,9 +150,9 @@ ASN,Organization,IP_Count
 "AS271795","SERVITELCONET CIA. LTDA.",54
 "AS44382","Fiba Cloud Operation Company, LLC",53
 "AS8402","PJSC ""Vimpelcom""",53
+"AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",51
 "AS213877","u1host ltd",51
 "AS215590","DpkgSoft International Limited",51
-"AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",50
 "AS266181","GOLDEN LINK",48
 "AS55720","Gigabit Hosting Sdn Bhd",48
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
