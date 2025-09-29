@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87606
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
 "AS211298","Driftnet Ltd",21734
-"AS398324","Censys, Inc.",11639
-"AS396982","Google LLC",9832
+"AS398324","Censys, Inc.",11646
+"AS396982","Google LLC",9833
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7208
-"AS16276","OVH SAS",5667
+"AS16276","OVH SAS",5668
 "AS4134","Chinanet",4859
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4416
@@ -38,7 +38,7 @@ ASN,Organization,IP_Count
 "AS208684","BHA CONSEIL SARL",957
 "AS51852","Private Layer INC",907
 "AS32475","Internap Holding LLC",853
-"AS36352","HostPapa",852
+"AS36352","HostPapa",853
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",806
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",388
 "AS53667","FranTech Solutions",378
 "AS3462","Chunghwa Telecom Co., Ltd.",375
-"AS9829","Bharat Sanchar Nigam Ltd",342
+"AS9829","Bharat Sanchar Nigam Ltd",343
 "AS12876","ONLINE S.A.S.",338
 "AS21859","Zenlayer Inc",330
 "AS214943","Railnet LLC",313
@@ -1970,6 +1970,7 @@ ASN,Organization,IP_Count
 "AS58895","E Bone Network (Pvt.) Limited",1
 "AS59150","PT Rtiga Global Media",1
 "AS59517","Multistream Ltd.",1
+"AS59878","BFB ONE FZ-LLC",1
 "AS60246","Consumer Internet Cooperative PG-19",1
 "AS60352","S E L C O M SHPK",1
 "AS60757","Optinet LLP",1
