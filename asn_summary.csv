@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87606
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
 "AS211298","Driftnet Ltd",21735
-"AS398324","Censys, Inc.",11652
+"AS398324","Censys, Inc.",11655
 "AS396982","Google LLC",9833
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7212
@@ -10,7 +10,7 @@ ASN,Organization,IP_Count
 "AS4134","Chinanet",4859
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4417
-"AS16509","Amazon.com, Inc.",3837
+"AS16509","Amazon.com, Inc.",3838
 "AS45102","Alibaba (US) Technology Co., Ltd.",3625
 "AS63949","Akamai Technologies, Inc.",3498
 "AS398705","Censys, Inc.",3238
@@ -27,7 +27,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1341
 "AS215269","LAZYCLOUD LTD",1312
-"AS0","",1241
+"AS0","",1242
 "AS49870","Alsycon B.V.",1225
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1149
@@ -55,7 +55,7 @@ ASN,Organization,IP_Count
 "AS401120","cheapy.host LLC",526
 "AS9009","M247 Europe SRL",522
 "AS140292","China Telecom",509
-"AS4837","CHINA UNICOM China169 Backbone",504
+"AS4837","CHINA UNICOM China169 Backbone",505
 "AS50360","Tamatiya EOOD",492
 "AS201814","MEVSPACE sp. z o.o.",478
 "AS51167","Contabo GmbH",475
@@ -1293,6 +1293,7 @@ ASN,Organization,IP_Count
 "AS198253","Kukushkin Anatoly Valerievich",1
 "AS198539","Objedinennye Seti Ltd.",1
 "AS198584","PIO-Hosting GmbH",1
+"AS19871","Network Solutions, LLC",1
 "AS198820","Limited Liability Company Radio Network",1
 "AS199415","Association YORKHOST",1
 "AS199739","Earthlink Telecommunications Equipment Trading & Services DMCC",1
