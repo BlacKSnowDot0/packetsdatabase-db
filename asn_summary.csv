@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87606
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
 "AS211298","Driftnet Ltd",21739
-"AS398324","Censys, Inc.",11681
+"AS398324","Censys, Inc.",11683
 "AS396982","Google LLC",9835
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7217
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS0","",1275
 "AS49870","Alsycon B.V.",1226
 "AS204428","SS-Net",1182
-"AS22552","eSited Solutions",1151
+"AS22552","eSited Solutions",1152
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
@@ -459,6 +459,7 @@ ASN,Organization,IP_Count
 "AS399765","FasNET Services LLC",6
 "AS48642","Joint stock company ""For""",6
 "AS50304","Blix Solutions AS",6
+"AS5607","Sky UK Limited",6
 "AS5617","Orange Polska Spolka Akcyjna",6
 "AS56971","CGI GLOBAL LIMITED",6
 "AS58495","PT Parsaoran Global Datatrans",6
@@ -524,7 +525,6 @@ ASN,Organization,IP_Count
 "AS5410","Bouygues Telecom SA",5
 "AS5432","Proximus NV",5
 "AS56044","China Mobile Communications Corporation",5
-"AS5607","Sky UK Limited",5
 "AS5650","Frontier Communications of America, Inc.",5
 "AS577","Bell Canada",5
 "AS58898","Rainbow communications India Pvt Ltd",5
