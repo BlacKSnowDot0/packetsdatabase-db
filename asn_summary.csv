@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4417
 "AS16509","Amazon.com, Inc.",3838
-"AS45102","Alibaba (US) Technology Co., Ltd.",3625
+"AS45102","Alibaba (US) Technology Co., Ltd.",3626
 "AS63949","Akamai Technologies, Inc.",3498
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3164
@@ -27,7 +27,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1341
 "AS215269","LAZYCLOUD LTD",1312
-"AS0","",1248
+"AS0","",1249
 "AS49870","Alsycon B.V.",1225
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1149
@@ -48,7 +48,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
-"AS10439","CariNet, Inc.",556
+"AS10439","CariNet, Inc.",557
 "AS20052","Arbor Networks, Inc.",551
 "AS14618","Amazon.com, Inc.",543
 "AS198953","Proton66 OOO",527
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",388
 "AS53667","FranTech Solutions",379
 "AS3462","Chunghwa Telecom Co., Ltd.",375
-"AS9829","Bharat Sanchar Nigam Ltd",343
+"AS9829","Bharat Sanchar Nigam Ltd",344
 "AS12876","ONLINE S.A.S.",339
 "AS21859","Zenlayer Inc",330
 "AS214943","Railnet LLC",313
@@ -136,10 +136,10 @@ ASN,Organization,IP_Count
 "AS7552","Viettel Group",63
 "AS140717","China Unicom",61
 "AS3920","ESTOXY OU",60
+"AS11320","LightEdge Solutions",58
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",58
 "AS4812","China Telecom (Group)",58
 "AS57588","Hayat for Internet & communication LLC",58
-"AS11320","LightEdge Solutions",57
 "AS20278","Nexeon Technologies, Inc.",57
 "AS49544","i3D.net B.V",57
 "AS8560","IONOS SE",57
