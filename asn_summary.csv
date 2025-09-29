@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87606
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
-"AS211298","Driftnet Ltd",21734
+"AS211298","Driftnet Ltd",21735
 "AS398324","Censys, Inc.",11647
 "AS396982","Google LLC",9833
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7208
+"AS14061","DigitalOcean, LLC",7209
 "AS16276","OVH SAS",5668
 "AS4134","Chinanet",4859
 "AS6568","Entel S.A. - EntelNet",4536
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2590
 "AS142002","Scloud Pte Ltd",2530
-"AS6939","Hurricane Electric LLC",2280
+"AS6939","Hurricane Electric LLC",2281
 "AS9808","China Mobile",2058
 "AS202425","IP Volume inc",1668
 "AS214295","SKYNET NETWORK LTD",1631
@@ -27,7 +27,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1340
 "AS215269","LAZYCLOUD LTD",1312
-"AS0","",1234
+"AS0","",1236
 "AS49870","Alsycon B.V.",1225
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1147
@@ -37,8 +37,8 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",988
 "AS208684","BHA CONSEIL SARL",957
 "AS51852","Private Layer INC",907
+"AS36352","HostPapa",857
 "AS32475","Internap Holding LLC",853
-"AS36352","HostPapa",853
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",806
@@ -58,7 +58,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",504
 "AS50360","Tamatiya EOOD",492
 "AS201814","MEVSPACE sp. z o.o.",478
-"AS51167","Contabo GmbH",474
+"AS51167","Contabo GmbH",475
 "AS212238","Datacamp Limited",454
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS53667","FranTech Solutions",378
 "AS3462","Chunghwa Telecom Co., Ltd.",375
 "AS9829","Bharat Sanchar Nigam Ltd",343
-"AS12876","ONLINE S.A.S.",338
+"AS12876","ONLINE S.A.S.",339
 "AS21859","Zenlayer Inc",330
 "AS214943","Railnet LLC",313
 "AS24863","LINKdotNET AS number",307
@@ -143,10 +143,10 @@ ASN,Organization,IP_Count
 "AS20278","Nexeon Technologies, Inc.",57
 "AS49544","i3D.net B.V",57
 "AS8560","IONOS SE",57
+"AS44477","STARK INDUSTRIES SOLUTIONS LTD",56
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS199785","Cloud Hosting Solutions, Limited.",55
-"AS44477","STARK INDUSTRIES SOLUTIONS LTD",55
 "AS271795","SERVITELCONET CIA. LTDA.",54
 "AS44382","Fiba Cloud Operation Company, LLC",53
 "AS8402","PJSC ""Vimpelcom""",53
