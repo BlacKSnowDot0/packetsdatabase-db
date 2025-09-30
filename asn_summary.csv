@@ -12,12 +12,12 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4418
 "AS16509","Amazon.com, Inc.",3838
 "AS45102","Alibaba (US) Technology Co., Ltd.",3629
-"AS63949","Akamai Technologies, Inc.",3500
+"AS63949","Akamai Technologies, Inc.",3501
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3164
 "AS51396","Pfcloud UG",3054
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2592
+"AS8075","Microsoft Corporation",2593
 "AS142002","Scloud Pte Ltd",2530
 "AS6939","Hurricane Electric LLC",2284
 "AS9808","China Mobile",2058
@@ -25,9 +25,9 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1490
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS398722","Censys, Inc.",1342
+"AS398722","Censys, Inc.",1343
 "AS215269","LAZYCLOUD LTD",1312
-"AS0","",1280
+"AS0","",1282
 "AS49870","Alsycon B.V.",1226
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1154
@@ -330,6 +330,7 @@ ASN,Organization,IP_Count
 "AS2116","GLOBALCONNECT AS",11
 "AS24151","China Internet Network Infomation Center",11
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
+"AS30823","aurologic GmbH",11
 "AS3257","GTT Communications Inc.",11
 "AS38264","Wateen Telecom Limited",11
 "AS39351","31173 Services AB",11
@@ -339,6 +340,7 @@ ASN,Organization,IP_Count
 "AS58563","CHINANET Hubei province network",11
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",11
 "AS12912","T-Mobile Polska S.A.",10
+"AS138915","Kaopu Cloud HK Limited",10
 "AS149359","PT Persada Data Multimedia",10
 "AS153443","VPSRE.NET LLC",10
 "AS22927","Telefonica de Argentina",10
@@ -346,7 +348,6 @@ ASN,Organization,IP_Count
 "AS24547","China Mobile",10
 "AS24835","Vodafone Data - Egypt",10
 "AS2856","British Telecommunications PLC",10
-"AS30823","aurologic GmbH",10
 "AS33363","Charter Communications, Inc",10
 "AS37105","RAIN GROUP HOLDINGS (PTY) LTD",10
 "AS41420","Xentech B.V.",10
@@ -359,7 +360,6 @@ ASN,Organization,IP_Count
 "AS6128","Cablevision Systems Corp.",10
 "AS6697","Republican Unitary Telecommunication Enterprise Beltelecom",10
 "AS135059","Lao Asia Pacific Satellite Co., Ltd.",9
-"AS138915","Kaopu Cloud HK Limited",9
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",9
 "AS199414","Noah Kolossa",9
 "AS202520","SkyPass Solutions Sp. z.o.o.",9
