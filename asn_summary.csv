@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87606
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
-"AS211298","Driftnet Ltd",21740
-"AS398324","Censys, Inc.",11702
+"AS211298","Driftnet Ltd",21742
+"AS398324","Censys, Inc.",11703
 "AS396982","Google LLC",9841
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7222
@@ -55,7 +55,7 @@ ASN,Organization,IP_Count
 "AS401120","cheapy.host LLC",527
 "AS9009","M247 Europe SRL",522
 "AS140292","China Telecom",509
-"AS4837","CHINA UNICOM China169 Backbone",505
+"AS4837","CHINA UNICOM China169 Backbone",506
 "AS50360","Tamatiya EOOD",492
 "AS51167","Contabo GmbH",484
 "AS201814","MEVSPACE sp. z o.o.",480
@@ -134,8 +134,8 @@ ASN,Organization,IP_Count
 "AS136435","ELITE COMMUNICATION",64
 "AS34984","Superonline Iletisim Hizmetleri A.S.",64
 "AS7552","Viettel Group",63
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",62
 "AS140717","China Unicom",61
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",61
 "AS3920","ESTOXY OU",60
 "AS11320","LightEdge Solutions",58
 "AS4812","China Telecom (Group)",58
@@ -279,6 +279,7 @@ ASN,Organization,IP_Count
 "AS202448","MVPS LTD",15
 "AS207713","GLOBAL INTERNET SOLUTIONS LLC",15
 "AS211619","MAXKO d.o.o.",15
+"AS24757","EthioNet",15
 "AS263767","CORPORACIÓN GALA IT, C.A.",15
 "AS272547","Servicos de Infraestrutura e Datacenter",15
 "AS31113","Artkomm LLC",15
@@ -292,7 +293,6 @@ ASN,Organization,IP_Count
 "AS136142","Enigma Fiber Pvt Ltd",14
 "AS14593","Space Exploration Technologies Corporation",14
 "AS204104","Giti Secure Cloud LLC",14
-"AS24757","EthioNet",14
 "AS26599","TELEFÔNICA BRASIL S.A",14
 "AS39603","P4 Sp. z o.o.",14
 "AS41745","Baykov Ilya Sergeevich",14
