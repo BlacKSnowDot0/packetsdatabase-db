@@ -3,7 +3,7 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
 "AS211298","Driftnet Ltd",21739
 "AS398324","Censys, Inc.",11696
-"AS396982","Google LLC",9838
+"AS396982","Google LLC",9840
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7221
 "AS16276","OVH SAS",5670
@@ -27,14 +27,14 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1343
 "AS215269","LAZYCLOUD LTD",1312
-"AS0","",1288
+"AS0","",1289
 "AS49870","Alsycon B.V.",1227
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1159
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
-"AS174","Cogent Communications",992
+"AS174","Cogent Communications",993
 "AS208684","BHA CONSEIL SARL",957
 "AS51852","Private Layer INC",907
 "AS32475","Internap Holding LLC",870
@@ -76,7 +76,7 @@ ASN,Organization,IP_Count
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",274
 "AS7713","Telekomunikasi Indonesia (PT)",272
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",265
-"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",263
+"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",264
 "AS47890","UNMANAGED LTD",255
 "AS48090","TECHOFF SRV LIMITED",249
 "AS60223","Netiface Limited",248
@@ -93,8 +93,8 @@ ASN,Organization,IP_Count
 "AS12555","Data-center IMAQLIQ Ltd.",167
 "AS63199","CDS Global Cloud Co., Ltd",167
 "AS206264","Amarutu Technology Ltd",153
+"AS29484","Ruhr-Universitaet Bochum",142
 "AS8151","Uninet S.A. de C.V.",142
-"AS29484","Ruhr-Universitaet Bochum",141
 "AS47105","Vault Dweller OU",141
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
