@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87606
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
 "AS211298","Driftnet Ltd",21742
-"AS398324","Censys, Inc.",11704
+"AS398324","Censys, Inc.",11705
 "AS396982","Google LLC",9841
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7223
-"AS16276","OVH SAS",5670
+"AS16276","OVH SAS",5671
 "AS4134","Chinanet",4859
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4418
@@ -17,7 +17,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3164
 "AS51396","Pfcloud UG",3055
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2595
+"AS8075","Microsoft Corporation",2596
 "AS142002","Scloud Pte Ltd",2530
 "AS6939","Hurricane Electric LLC",2287
 "AS9808","China Mobile",2058
@@ -30,11 +30,11 @@ ASN,Organization,IP_Count
 "AS0","",1289
 "AS49870","Alsycon B.V.",1227
 "AS204428","SS-Net",1182
-"AS22552","eSited Solutions",1159
+"AS22552","eSited Solutions",1160
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
-"AS174","Cogent Communications",994
+"AS174","Cogent Communications",995
 "AS208684","BHA CONSEIL SARL",957
 "AS51852","Private Layer INC",907
 "AS32475","Internap Holding LLC",870
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",806
 "AS8452","TE-AS",804
-"AS23470","ReliableSite.Net LLC",784
+"AS23470","ReliableSite.Net LLC",785
 "AS215925","VPSVAULT.HOST LTD",773
 "AS211680","NSEC - Sistemas Informaticos, S.A.",703
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -162,9 +162,9 @@ ASN,Organization,IP_Count
 "AS701","Verizon Business",44
 "AS152194","CTG Server Limited",43
 "AS214497","Whitelabel Solutions, Ltd.",42
+"AS29066","velia.net Internetdienste GmbH",42
 "AS396356","Latitude.sh",42
 "AS138156","CSNE Co., Ltd.",41
-"AS29066","velia.net Internetdienste GmbH",41
 "AS210644","AEZA INTERNATIONAL LTD",39
 "AS149746","PT Blip Integrator Provider",36
 "AS19318","Interserver, Inc",36
