@@ -3,7 +3,7 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
 "AS211298","Driftnet Ltd",21743
 "AS398324","Censys, Inc.",11708
-"AS396982","Google LLC",9843
+"AS396982","Google LLC",9844
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7223
 "AS16276","OVH SAS",5671
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
-"AS174","Cogent Communications",995
+"AS174","Cogent Communications",996
 "AS208684","BHA CONSEIL SARL",957
 "AS51852","Private Layer INC",907
 "AS32475","Internap Holding LLC",870
@@ -100,7 +100,7 @@ ASN,Organization,IP_Count
 "AS19905","Neustar Security Services",127
 "AS36007","Kamatera, Inc.",122
 "AS13238","YANDEX LLC",119
-"AS262551","Farol Telecom",117
+"AS262551","Farol Telecom",118
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS42237","w1n ltd",111
 "AS208287","DC Host INC",110
@@ -117,10 +117,10 @@ ASN,Organization,IP_Count
 "AS200019","ALEXHOST SRL",78
 "AS28209","Under Servicos de Internet Ltda",77
 "AS211736","FOP Dmytro Nedilskyi",76
+"AS4766","Korea Telecom",76
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
 "AS47331","TTNet A.S.",75
-"AS4766","Korea Telecom",75
 "AS56046","China Mobile Communications Corporation",74
 "AS16735","ALGAR TELECOM S/A",73
 "AS31898","Oracle Corporation",71
