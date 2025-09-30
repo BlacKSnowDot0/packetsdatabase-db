@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87606
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
 "AS211298","Driftnet Ltd",21743
-"AS398324","Censys, Inc.",11708
+"AS398324","Censys, Inc.",11711
 "AS396982","Google LLC",9844
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7223
@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4536
 "AS58466","CHINANET Guangdong province network",4418
 "AS16509","Amazon.com, Inc.",3838
-"AS45102","Alibaba (US) Technology Co., Ltd.",3629
+"AS45102","Alibaba (US) Technology Co., Ltd.",3630
 "AS63949","Akamai Technologies, Inc.",3502
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3164
@@ -133,8 +133,8 @@ ASN,Organization,IP_Count
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS136435","ELITE COMMUNICATION",64
 "AS34984","Superonline Iletisim Hizmetleri A.S.",64
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",63
 "AS7552","Viettel Group",63
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",62
 "AS140717","China Unicom",61
 "AS3920","ESTOXY OU",60
 "AS11320","LightEdge Solutions",58
@@ -286,6 +286,7 @@ ASN,Organization,IP_Count
 "AS329490","Promethean Consulting Limited",15
 "AS36947","Telecom Algeria",15
 "AS397283","RocketNode Inc",15
+"AS41745","Baykov Ilya Sergeevich",15
 "AS45758","Triple T Broadband Public Company Limited",15
 "AS49531","""NetCom-R"" LLC",15
 "AS6167","Verizon Business",15
@@ -295,7 +296,6 @@ ASN,Organization,IP_Count
 "AS204104","Giti Secure Cloud LLC",14
 "AS26599","TELEFÔNICA BRASIL S.A",14
 "AS39603","P4 Sp. z o.o.",14
-"AS41745","Baykov Ilya Sergeevich",14
 "AS4816","China Telecom (Group)",14
 "AS48721","Flyservers S.A.",14
 "AS213194","Nechaev Dmitry Sergeevich",13
