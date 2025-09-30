@@ -1,7 +1,7 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87606
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
-"AS211298","Driftnet Ltd",21743
+"AS211298","Driftnet Ltd",21744
 "AS398324","Censys, Inc.",11711
 "AS396982","Google LLC",9844
 "AS26210","AXS Bolivia S. A.",7971
@@ -17,7 +17,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3164
 "AS51396","Pfcloud UG",3056
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2596
+"AS8075","Microsoft Corporation",2597
 "AS142002","Scloud Pte Ltd",2530
 "AS6939","Hurricane Electric LLC",2288
 "AS9808","China Mobile",2058
@@ -239,6 +239,7 @@ ASN,Organization,IP_Count
 "AS9299","Philippine Long Distance Telephone Co.",20
 "AS10796","Charter Communications Inc",19
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",19
+"AS200514","KnownSRV Ltd.",19
 "AS24348","CERNET2 IX at Tsinghua University",19
 "AS24560","Bharti Airtel Limited",19
 "AS262287","Maxihost LTDA",19
@@ -250,7 +251,6 @@ ASN,Organization,IP_Count
 "AS13213","UK-2 Limited",18
 "AS141995","Contabo Asia Private Limited",18
 "AS17638","ASN for TIANJIN Provincial Net of CT",18
-"AS200514","KnownSRV Ltd.",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",18
 "AS24940","Hetzner Online GmbH",18
