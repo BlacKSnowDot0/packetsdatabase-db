@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87606
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
 "AS211298","Driftnet Ltd",21739
-"AS398324","Censys, Inc.",11686
-"AS396982","Google LLC",9836
+"AS398324","Censys, Inc.",11689
+"AS396982","Google LLC",9837
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7217
 "AS16276","OVH SAS",5669
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4418
 "AS16509","Amazon.com, Inc.",3838
 "AS45102","Alibaba (US) Technology Co., Ltd.",3629
-"AS63949","Akamai Technologies, Inc.",3499
+"AS63949","Akamai Technologies, Inc.",3500
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3164
 "AS51396","Pfcloud UG",3054
@@ -27,7 +27,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1342
 "AS215269","LAZYCLOUD LTD",1312
-"AS0","",1277
+"AS0","",1280
 "AS49870","Alsycon B.V.",1226
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1154
@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",992
 "AS208684","BHA CONSEIL SARL",957
 "AS51852","Private Layer INC",907
-"AS32475","Internap Holding LLC",867
+"AS32475","Internap Holding LLC",870
 "AS36352","HostPapa",858
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -64,7 +64,7 @@ ASN,Organization,IP_Count
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS51115","HLL LLC",392
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS53667","FranTech Solutions",380
+"AS53667","FranTech Solutions",381
 "AS3462","Chunghwa Telecom Co., Ltd.",375
 "AS9829","Bharat Sanchar Nigam Ltd",347
 "AS12876","ONLINE S.A.S.",339
@@ -84,7 +84,7 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS13335","Cloudflare, Inc.",220
 "AS14987","Rethem Hosting LLC",215
-"AS208843","Alpha Strike Labs GmbH",204
+"AS208843","Alpha Strike Labs GmbH",205
 "AS213613","BOTSHIELD LTD",199
 "AS45899","VNPT Corp",198
 "AS141718","haoxiangyun",183
@@ -164,7 +164,7 @@ ASN,Organization,IP_Count
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS396356","Latitude.sh",42
 "AS138156","CSNE Co., Ltd.",41
-"AS29066","velia.net Internetdienste GmbH",40
+"AS29066","velia.net Internetdienste GmbH",41
 "AS210644","AEZA INTERNATIONAL LTD",39
 "AS19318","Interserver, Inc",36
 "AS149746","PT Blip Integrator Provider",35
@@ -411,6 +411,7 @@ ASN,Organization,IP_Count
 "AS204631","VIVANET GmbH",7
 "AS215672","MoeChuang Network Limited",7
 "AS24955","JSC ""Ufanet""",7
+"AS25490","PJSC Rostelecom",7
 "AS266702","MEGALINK S.R.L.",7
 "AS267507","SRX TECNOLOGIA DA INFORMACAO LTDA",7
 "AS27831","Colombia Móvil",7
@@ -447,7 +448,6 @@ ASN,Organization,IP_Count
 "AS216300","Closed Joint Stock Company ""AbkhazMedia""",6
 "AS23201","Telecel S.A.",6
 "AS23383","METRORED S.A. DE C.V.",6
-"AS25490","PJSC Rostelecom",6
 "AS27983","Red Intercable Digital S.A.",6
 "AS28201","Companhia Itabirana Telecomunicações Ltda",6
 "AS33771","Safaricom Limited",6
@@ -1811,6 +1811,7 @@ ASN,Organization,IP_Count
 "AS42548","PJSC Rostelecom",1
 "AS42574","Novaya Sibir Plus Ltd.",1
 "AS42714","Kichkas Network Ltd.",1
+"AS42730","EVANZO e-commerce GmbH",1
 "AS42772","Unitary enterprise A1",1
 "AS42922","KaspNet Ltd.",1
 "AS42925","Internet Rimon LTD",1
