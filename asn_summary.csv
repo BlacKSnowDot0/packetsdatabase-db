@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87607
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
 "AS211298","Driftnet Ltd",21744
-"AS398324","Censys, Inc.",11717
+"AS398324","Censys, Inc.",11719
 "AS396982","Google LLC",9844
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7225
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4419
 "AS16509","Amazon.com, Inc.",3838
 "AS45102","Alibaba (US) Technology Co., Ltd.",3630
-"AS63949","Akamai Technologies, Inc.",3503
+"AS63949","Akamai Technologies, Inc.",3504
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3166
 "AS51396","Pfcloud UG",3056
@@ -21,13 +21,13 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2530
 "AS6939","Hurricane Electric LLC",2288
 "AS9808","China Mobile",2058
-"AS202425","IP Volume inc",1673
+"AS202425","IP Volume inc",1674
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1491
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1343
 "AS215269","LAZYCLOUD LTD",1312
-"AS0","",1291
+"AS0","",1292
 "AS49870","Alsycon B.V.",1227
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1160
@@ -57,7 +57,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS4837","CHINA UNICOM China169 Backbone",506
 "AS50360","Tamatiya EOOD",492
-"AS51167","Contabo GmbH",486
+"AS51167","Contabo GmbH",487
 "AS201814","MEVSPACE sp. z o.o.",480
 "AS212238","Datacamp Limited",454
 "AS21299","Kar-Tel LLC",406
