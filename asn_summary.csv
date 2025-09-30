@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",11704
 "AS396982","Google LLC",9841
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7222
+"AS14061","DigitalOcean, LLC",7223
 "AS16276","OVH SAS",5670
 "AS4134","Chinanet",4859
 "AS6568","Entel S.A. - EntelNet",4536
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
-"AS174","Cogent Communications",993
+"AS174","Cogent Communications",994
 "AS208684","BHA CONSEIL SARL",957
 "AS51852","Private Layer INC",907
 "AS32475","Internap Holding LLC",870
@@ -57,7 +57,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS4837","CHINA UNICOM China169 Backbone",506
 "AS50360","Tamatiya EOOD",492
-"AS51167","Contabo GmbH",485
+"AS51167","Contabo GmbH",486
 "AS201814","MEVSPACE sp. z o.o.",480
 "AS212238","Datacamp Limited",454
 "AS21299","Kar-Tel LLC",406
@@ -75,8 +75,8 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",285
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",275
 "AS7713","Telekomunikasi Indonesia (PT)",272
+"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",265
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",265
-"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",264
 "AS47890","UNMANAGED LTD",255
 "AS48090","TECHOFF SRV LIMITED",249
 "AS60223","Netiface Limited",248
@@ -506,6 +506,7 @@ ASN,Organization,IP_Count
 "AS265702","AZUL NETWORKS S.R.L",5
 "AS267684","VISIONMAGICA SOCIEDAD ANONIMA",5
 "AS267784","Flyservers S.A.",5
+"AS271597","NEW LINK CONNECT",5
 "AS28126","BRISANET SERVICOS DE TELECOMUNICACOES LTDA",5
 "AS29049","Delta Telecom Ltd",5
 "AS29302","Hosting Services Inc",5
@@ -581,7 +582,6 @@ ASN,Organization,IP_Count
 "AS266541","ItaNet - Provedor de Internet",4
 "AS269003","KIMNET SOLUCOES",4
 "AS269820","FULL DATA COMUNICACIONES C.A.",4
-"AS271597","NEW LINK CONNECT",4
 "AS273683","ALLREDE TELECOM LTDA",4
 "AS27747","Telecentro S.A.",4
 "AS28753","Leaseweb Deutschland GmbH",4
