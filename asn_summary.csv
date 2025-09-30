@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87606
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
-"AS211298","Driftnet Ltd",21742
-"AS398324","Censys, Inc.",11705
+"AS211298","Driftnet Ltd",21743
+"AS398324","Censys, Inc.",11706
 "AS396982","Google LLC",9841
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7223
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4418
 "AS16509","Amazon.com, Inc.",3838
 "AS45102","Alibaba (US) Technology Co., Ltd.",3629
-"AS63949","Akamai Technologies, Inc.",3501
+"AS63949","Akamai Technologies, Inc.",3502
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3164
 "AS51396","Pfcloud UG",3055
@@ -170,8 +170,8 @@ ASN,Organization,IP_Count
 "AS19318","Interserver, Inc",36
 "AS20473","The Constant Company, LLC",35
 "AS213790","Limited Network LTD",35
+"AS23724","IDC, China Telecommunications Corporation",35
 "AS4538","China Education and Research Network Center",35
-"AS23724","IDC, China Telecommunications Corporation",34
 "AS23969","TOT Public Company Limited",34
 "AS262378","Compuservice Empreendimentos Ltda",34
 "AS34665","Petersburg Internet Network ltd.",34
@@ -1955,6 +1955,7 @@ ASN,Organization,IP_Count
 "AS57141","TELWAN SAS",1
 "AS57197","Shaporenko Yuri Nikolaevich",1
 "AS57227","Subnet LLC",1
+"AS57630","84 Grams AB",1
 "AS57764","Flink Ltd.",1
 "AS57800","Cadr-TV LLE TVRC",1
 "AS57808","SAT-DV LLC",1
