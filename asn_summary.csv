@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87608
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
-"AS211298","Driftnet Ltd",21746
-"AS398324","Censys, Inc.",11741
+"AS211298","Driftnet Ltd",21748
+"AS398324","Censys, Inc.",11742
 "AS396982","Google LLC",9846
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7237
@@ -84,7 +84,7 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS13335","Cloudflare, Inc.",220
 "AS14987","Rethem Hosting LLC",215
-"AS208843","Alpha Strike Labs GmbH",206
+"AS208843","Alpha Strike Labs GmbH",207
 "AS213613","BOTSHIELD LTD",201
 "AS45899","VNPT Corp",198
 "AS141718","haoxiangyun",183
@@ -224,6 +224,7 @@ ASN,Organization,IP_Count
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",22
 "AS51430","AltusHost B.V.",22
 "AS58212","dataforest GmbH",22
+"AS6134","XNNET LLC",22
 "AS1103","SURF B.V.",21
 "AS146817","Hubei Feixun Network Co., Ltd",21
 "AS17561","Larus Limited",21
@@ -232,7 +233,6 @@ ASN,Organization,IP_Count
 "AS400536","Nodestop LLC",21
 "AS4800","PT Aplikanusa Lintasarta",21
 "AS50887","DC FIBER HOME SRL",21
-"AS6134","XNNET LLC",21
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
 "AS46573","LayerHost",20
