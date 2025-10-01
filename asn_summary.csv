@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87608
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
 "AS211298","Driftnet Ltd",21749
-"AS398324","Censys, Inc.",11748
+"AS398324","Censys, Inc.",11752
 "AS396982","Google LLC",9847
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7238
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4419
 "AS16509","Amazon.com, Inc.",3838
 "AS45102","Alibaba (US) Technology Co., Ltd.",3630
-"AS63949","Akamai Technologies, Inc.",3505
+"AS63949","Akamai Technologies, Inc.",3506
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3166
 "AS51396","Pfcloud UG",3056
@@ -35,10 +35,10 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",998
-"AS208684","BHA CONSEIL SARL",957
+"AS208684","BHA CONSEIL SARL",958
 "AS51852","Private Layer INC",907
 "AS32475","Internap Holding LLC",873
-"AS36352","HostPapa",862
+"AS36352","HostPapa",866
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",806
@@ -49,10 +49,10 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS10439","CariNet, Inc.",562
 "AS31148","Freenet LTD",558
-"AS20052","Arbor Networks, Inc.",555
+"AS20052","Arbor Networks, Inc.",556
 "AS14618","Amazon.com, Inc.",547
+"AS401120","cheapy.host LLC",530
 "AS198953","Proton66 OOO",527
-"AS401120","cheapy.host LLC",527
 "AS9009","M247 Europe SRL",523
 "AS140292","China Telecom",509
 "AS4837","CHINA UNICOM China169 Backbone",506
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS53667","FranTech Solutions",384
 "AS3462","Chunghwa Telecom Co., Ltd.",375
-"AS9829","Bharat Sanchar Nigam Ltd",347
+"AS9829","Bharat Sanchar Nigam Ltd",348
 "AS12876","ONLINE S.A.S.",340
 "AS21859","Zenlayer Inc",330
 "AS214943","Railnet LLC",313
@@ -147,7 +147,7 @@ ASN,Organization,IP_Count
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS199785","Cloud Hosting Solutions, Limited.",55
-"AS271795","SERVITELCONET CIA. LTDA.",54
+"AS271795","SERVITELCONET CIA. LTDA.",55
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",53
 "AS44382","Fiba Cloud Operation Company, LLC",53
 "AS8402","PJSC ""Vimpelcom""",53
@@ -173,10 +173,10 @@ ASN,Organization,IP_Count
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",35
 "AS23724","IDC, China Telecommunications Corporation",35
 "AS4538","China Education and Research Network Center",35
+"AS12816","Leibniz-Rechenzentrum",34
 "AS23969","TOT Public Company Limited",34
 "AS262378","Compuservice Empreendimentos Ltda",34
 "AS34665","Petersburg Internet Network ltd.",34
-"AS12816","Leibniz-Rechenzentrum",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
 "AS210558","1337 Services GmbH",32
@@ -343,6 +343,7 @@ ASN,Organization,IP_Count
 "AS138915","Kaopu Cloud HK Limited",10
 "AS149359","PT Persada Data Multimedia",10
 "AS153443","VPSRE.NET LLC",10
+"AS204834","Shabakieh Isfahan Co PJSC",10
 "AS22927","Telefonica de Argentina",10
 "AS23693","PT. Telekomunikasi Selular",10
 "AS24547","China Mobile",10
@@ -363,7 +364,6 @@ ASN,Organization,IP_Count
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",9
 "AS199414","Noah Kolossa",9
 "AS202520","SkyPass Solutions Sp. z.o.o.",9
-"AS204834","Shabakieh Isfahan Co PJSC",9
 "AS212504","AdKyNet SAS",9
 "AS213520","Senko Digital Ltd",9
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",9
