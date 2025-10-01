@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",11756
 "AS396982","Google LLC",9847
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7240
+"AS14061","DigitalOcean, LLC",7241
 "AS16276","OVH SAS",5674
 "AS4134","Chinanet",4860
 "AS6568","Entel S.A. - EntelNet",4536
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1343
 "AS215269","LAZYCLOUD LTD",1312
 "AS0","",1294
-"AS49870","Alsycon B.V.",1227
+"AS49870","Alsycon B.V.",1228
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1162
 "AS399045","DediOutlet, LLC",1142
@@ -56,8 +56,8 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",523
 "AS140292","China Telecom",509
 "AS4837","CHINA UNICOM China169 Backbone",506
+"AS51167","Contabo GmbH",493
 "AS50360","Tamatiya EOOD",492
-"AS51167","Contabo GmbH",492
 "AS201814","MEVSPACE sp. z o.o.",480
 "AS212238","Datacamp Limited",454
 "AS21299","Kar-Tel LLC",406
@@ -76,7 +76,7 @@ ASN,Organization,IP_Count
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",275
 "AS7713","Telekomunikasi Indonesia (PT)",272
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",269
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",265
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",266
 "AS47890","UNMANAGED LTD",255
 "AS48090","TECHOFF SRV LIMITED",249
 "AS60223","Netiface Limited",248
@@ -87,7 +87,7 @@ ASN,Organization,IP_Count
 "AS208843","Alpha Strike Labs GmbH",207
 "AS213613","BOTSHIELD LTD",202
 "AS45899","VNPT Corp",198
-"AS141718","haoxiangyun",183
+"AS141718","haoxiangyun",184
 "AS12389","PJSC Rostelecom",181
 "AS401116","Nybula LLC",170
 "AS12555","Data-center IMAQLIQ Ltd.",168
@@ -113,7 +113,7 @@ ASN,Organization,IP_Count
 "AS210125","PRIAM NET Sh.p.k.",86
 "AS58461","Chinanet",85
 "AS205352","KABELNET LTD",84
-"AS151185","China Telecom",79
+"AS151185","China Telecom",80
 "AS200019","ALEXHOST SRL",78
 "AS28209","Under Servicos de Internet Ltda",77
 "AS211736","FOP Dmytro Nedilskyi",76
@@ -128,7 +128,7 @@ ASN,Organization,IP_Count
 "AS28573","Claro NXT Telecomunicacoes Ltda",70
 "AS52053","REDHEBERG Association declaree",69
 "AS328867","Corebach Backbone SARL",67
-"AS34984","Superonline Iletisim Hizmetleri A.S.",66
+"AS34984","Superonline Iletisim Hizmetleri A.S.",67
 "AS40021","Nubes, LLC",66
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
