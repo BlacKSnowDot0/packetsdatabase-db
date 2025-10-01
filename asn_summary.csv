@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87608
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
 "AS211298","Driftnet Ltd",21746
-"AS398324","Censys, Inc.",11734
+"AS398324","Censys, Inc.",11737
 "AS396982","Google LLC",9846
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7230
+"AS14061","DigitalOcean, LLC",7231
 "AS16276","OVH SAS",5672
 "AS4134","Chinanet",4860
 "AS6568","Entel S.A. - EntelNet",4536
@@ -17,7 +17,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3166
 "AS51396","Pfcloud UG",3056
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2597
+"AS8075","Microsoft Corporation",2598
 "AS142002","Scloud Pte Ltd",2531
 "AS6939","Hurricane Electric LLC",2289
 "AS9808","China Mobile",2058
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
-"AS174","Cogent Communications",997
+"AS174","Cogent Communications",998
 "AS208684","BHA CONSEIL SARL",957
 "AS51852","Private Layer INC",907
 "AS32475","Internap Holding LLC",873
@@ -84,7 +84,7 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS13335","Cloudflare, Inc.",220
 "AS14987","Rethem Hosting LLC",215
-"AS208843","Alpha Strike Labs GmbH",205
+"AS208843","Alpha Strike Labs GmbH",206
 "AS213613","BOTSHIELD LTD",200
 "AS45899","VNPT Corp",198
 "AS141718","haoxiangyun",183
@@ -110,7 +110,7 @@ ASN,Organization,IP_Count
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",96
 "AS14956","RouterHosting LLC",93
 "AS63018","Dedicated.com",92
-"AS210125","PRIAM NET Sh.p.k.",85
+"AS210125","PRIAM NET Sh.p.k.",86
 "AS58461","Chinanet",85
 "AS205352","KABELNET LTD",84
 "AS151185","China Telecom",79
@@ -155,8 +155,8 @@ ASN,Organization,IP_Count
 "AS215590","DpkgSoft International Limited",51
 "AS55720","Gigabit Hosting Sdn Bhd",50
 "AS266181","GOLDEN LINK",48
+"AS150263","PT Alnet Telekomunikasi Indonesia",47
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
-"AS150263","PT Alnet Telekomunikasi Indonesia",46
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
 "AS701","Verizon Business",44
