@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87608
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
 "AS211298","Driftnet Ltd",21752
-"AS398324","Censys, Inc.",11759
+"AS398324","Censys, Inc.",11762
 "AS396982","Google LLC",9847
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7242
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1343
 "AS215269","LAZYCLOUD LTD",1312
 "AS0","",1294
-"AS49870","Alsycon B.V.",1228
+"AS49870","Alsycon B.V.",1229
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1162
 "AS399045","DediOutlet, LLC",1142
@@ -85,7 +85,7 @@ ASN,Organization,IP_Count
 "AS13335","Cloudflare, Inc.",220
 "AS14987","Rethem Hosting LLC",215
 "AS208843","Alpha Strike Labs GmbH",207
-"AS213613","BOTSHIELD LTD",202
+"AS213613","BOTSHIELD LTD",203
 "AS45899","VNPT Corp",198
 "AS141718","haoxiangyun",184
 "AS12389","PJSC Rostelecom",181
@@ -102,7 +102,7 @@ ASN,Organization,IP_Count
 "AS13238","YANDEX LLC",119
 "AS262551","Farol Telecom",119
 "AS211298","Constantine Cybersecurity Ltd.",113
-"AS42237","w1n ltd",111
+"AS42237","w1n ltd",112
 "AS208287","DC Host INC",110
 "AS50219","LNK SYSTEMS MUNTENIA SRL",107
 "AS7922","Comcast Cable Communications, LLC",100
@@ -110,7 +110,7 @@ ASN,Organization,IP_Count
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",96
 "AS14956","RouterHosting LLC",95
 "AS63018","Dedicated.com",92
-"AS210125","PRIAM NET Sh.p.k.",86
+"AS210125","PRIAM NET Sh.p.k.",87
 "AS58461","Chinanet",85
 "AS205352","KABELNET LTD",84
 "AS151185","China Telecom",80
@@ -492,6 +492,7 @@ ASN,Organization,IP_Count
 "AS21056","Vianova S.p.A",5
 "AS21127","Joint Stock Company TransTeleCom",5
 "AS21246","IPKO Telecommunications LLC",5
+"AS212913","FOP Hornostay Mykhaylo Ivanovych",5
 "AS213851","Marcel Hanisch",5
 "AS213893","IPTransit Business LTD",5
 "AS215311","Regxa Company for Information Technology Ltd",5
@@ -565,7 +566,6 @@ ASN,Organization,IP_Count
 "AS209","CenturyLink Communications, LLC",4
 "AS212042","Istqrar for Servers Services Ltd",4
 "AS212219","HOSTING DUNYAM BILISIM TEKNOLOJILERI TICARET LIMITED SIRKETI",4
-"AS212913","FOP Hornostay Mykhaylo Ivanovych",4
 "AS214209","Internet Magnate (Pty) Ltd",4
 "AS215439","PLAY2GO INTERNATIONAL LIMITED",4
 "AS215599","Zkillu SAS",4
