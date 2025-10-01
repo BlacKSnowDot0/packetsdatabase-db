@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87609
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70566
 "AS211298","Driftnet Ltd",21752
-"AS398324","Censys, Inc.",11763
+"AS398324","Censys, Inc.",11765
 "AS396982","Google LLC",9847
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7243
@@ -239,6 +239,7 @@ ASN,Organization,IP_Count
 "AS46573","LayerHost",20
 "AS53118","NETLINE TELECOM",20
 "AS9299","Philippine Long Distance Telephone Co.",20
+"AS141995","Contabo Asia Private Limited",19
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",19
 "AS200514","KnownSRV Ltd.",19
 "AS24348","CERNET2 IX at Tsinghua University",19
@@ -249,7 +250,6 @@ ASN,Organization,IP_Count
 "AS9123","TimeWeb Ltd.",19
 "AS11878","tzulo, inc.",18
 "AS13213","UK-2 Limited",18
-"AS141995","Contabo Asia Private Limited",18
 "AS17638","ASN for TIANJIN Provincial Net of CT",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",18
@@ -294,13 +294,13 @@ ASN,Organization,IP_Count
 "AS136142","Enigma Fiber Pvt Ltd",14
 "AS14593","Space Exploration Technologies Corporation",14
 "AS204104","Giti Secure Cloud LLC",14
+"AS214417","Andrii Hrosh",14
 "AS26599","TELEFÔNICA BRASIL S.A",14
 "AS39603","P4 Sp. z o.o.",14
 "AS4816","China Telecom (Group)",14
 "AS48721","Flyservers S.A.",14
 "AS210509","Optimum Line for Internet Services Ltd.",13
 "AS213194","Nechaev Dmitry Sergeevich",13
-"AS214417","Andrii Hrosh",13
 "AS25369","Hydra Communications Ltd",13
 "AS28840","PJSC ""TATTELECOM""",13
 "AS2914","NTT America, Inc.",13
@@ -457,6 +457,7 @@ ASN,Organization,IP_Count
 "AS39521","TNGNET B.V.",6
 "AS397270","NetInformatik Inc.",6
 "AS399765","FasNET Services LLC",6
+"AS48282","Hosting technology LTD",6
 "AS48642","Joint stock company ""For""",6
 "AS50304","Blix Solutions AS",6
 "AS5607","Sky UK Limited",6
@@ -523,7 +524,6 @@ ASN,Organization,IP_Count
 "AS45458","ADVANCED WIRELESS NETWORK COMPANY LIMITED",5
 "AS4721","JCOM Co., Ltd.",5
 "AS47524","Turksat Uydu Haberlesme ve Kablo TV Isletme A.S.",5
-"AS48282","Hosting technology LTD",5
 "AS52468","UFINET PANAMA S.A.",5
 "AS5410","Bouygues Telecom SA",5
 "AS5432","Proximus NV",5
