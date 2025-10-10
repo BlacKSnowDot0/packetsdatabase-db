@@ -6,7 +6,7 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",9941
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7435
-"AS16276","OVH SAS",5701
+"AS16276","OVH SAS",5702
 "AS4134","Chinanet",4881
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4423
@@ -41,7 +41,7 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
-"AS23470","ReliableSite.Net LLC",836
+"AS23470","ReliableSite.Net LLC",837
 "AS208046","ColocationX Ltd.",815
 "AS8452","TE-AS",804
 "AS215925","VPSVAULT.HOST LTD",785
@@ -148,12 +148,12 @@ ASN,Organization,IP_Count
 "AS49544","i3D.net B.V",58
 "AS20278","Nexeon Technologies, Inc.",57
 "AS22773","Cox Communications Inc.",56
+"AS29066","velia.net Internetdienste GmbH",56
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",56
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
 "AS215590","DpkgSoft International Limited",55
-"AS29066","velia.net Internetdienste GmbH",55
 "AS55720","Gigabit Hosting Sdn Bhd",55
 "AS150263","PT Alnet Telekomunikasi Indonesia",54
 "AS44382","Fiba Cloud Operation Company, LLC",53
@@ -173,10 +173,10 @@ ASN,Organization,IP_Count
 "AS210644","AEZA INTERNATIONAL LTD",42
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS23724","IDC, China Telecommunications Corporation",42
+"AS149746","PT Blip Integrator Provider",39
 "AS21928","T-Mobile USA, Inc.",39
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",39
 "AS27699","TELEFÔNICA BRASIL S.A",39
-"AS149746","PT Blip Integrator Provider",38
 "AS23969","TOT Public Company Limited",38
 "AS7738","V tal",38
 "AS12816","Leibniz-Rechenzentrum",37
