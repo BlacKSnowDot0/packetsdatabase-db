@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87632
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21808
-"AS398324","Censys, Inc.",12167
-"AS396982","Google LLC",9940
+"AS398324","Censys, Inc.",12168
+"AS396982","Google LLC",9941
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7434
+"AS14061","DigitalOcean, LLC",7435
 "AS16276","OVH SAS",5701
 "AS4134","Chinanet",4881
 "AS6568","Entel S.A. - EntelNet",4537
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS0","",1410
 "AS398722","Censys, Inc.",1356
 "AS215269","LAZYCLOUD LTD",1312
-"AS49870","Alsycon B.V.",1250
+"AS49870","Alsycon B.V.",1251
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1165
 "AS399045","DediOutlet, LLC",1142
@@ -131,7 +131,7 @@ ASN,Organization,IP_Count
 "AS31898","Oracle Corporation",71
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",69
 "AS52053","REDHEBERG Association declaree",69
-"AS136435","ELITE COMMUNICATION",67
+"AS136435","ELITE COMMUNICATION",68
 "AS328867","Corebach Backbone SARL",67
 "AS40021","Nubes, LLC",67
 "AS271795","SERVITELCONET CIA. LTDA.",66
@@ -201,13 +201,13 @@ ASN,Organization,IP_Count
 "AS1680","Cellcom Fixed Line Communication L.P",31
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",31
 "AS200593","PROSPERO OOO",30
+"AS263025","ISPTEC Sistemas de Comunicação Eireli",30
 "AS269193","Iktelecom Ltda",30
 "AS30633","Leaseweb USA, Inc.",30
 "AS44592","SkyLink Data Center BV",30
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",30
 "AS8048","CANTV Servicios, Venezuela",30
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",29
-"AS263025","ISPTEC Sistemas de Comunicação Eireli",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS141679","China Telecom",28
@@ -2210,6 +2210,7 @@ ASN,Organization,IP_Count
 "AS36351","SoftLayer Technologies Inc.",1
 "AS36374","Stellar Association, LLC",1
 "AS36445","Coextro",1
+"AS36905","Creolink Communications",1
 "AS36907","TV CABO ANGOLA LDA",1
 "AS36925","MEDITELECOM",1
 "AS37002","Reunicable SAS",1
