@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87632
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21808
-"AS398324","Censys, Inc.",12162
+"AS398324","Censys, Inc.",12163
 "AS396982","Google LLC",9937
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7427
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2625
 "AS142002","Scloud Pte Ltd",2531
-"AS6939","Hurricane Electric LLC",2343
+"AS6939","Hurricane Electric LLC",2344
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1692
 "AS214295","SKYNET NETWORK LTD",1631
@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1042
 "AS208684","BHA CONSEIL SARL",969
 "AS32475","Internap Holding LLC",951
-"AS36352","HostPapa",946
+"AS36352","HostPapa",947
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -141,8 +141,8 @@ ASN,Organization,IP_Count
 "AS11320","LightEdge Solutions",61
 "AS140717","China Unicom",61
 "AS3920","ESTOXY OU",61
+"AS8560","IONOS SE",61
 "AS57588","Hayat for Internet & communication LLC",60
-"AS8560","IONOS SE",60
 "AS199785","Cloud Hosting Solutions, Limited.",59
 "AS4812","China Telecom (Group)",58
 "AS49544","i3D.net B.V",58
