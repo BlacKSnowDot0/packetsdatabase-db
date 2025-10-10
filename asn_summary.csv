@@ -3,7 +3,7 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21808
 "AS398324","Censys, Inc.",12163
-"AS396982","Google LLC",9937
+"AS396982","Google LLC",9938
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7428
 "AS16276","OVH SAS",5700
@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4423
 "AS16509","Amazon.com, Inc.",3840
-"AS45102","Alibaba (US) Technology Co., Ltd.",3682
+"AS45102","Alibaba (US) Technology Co., Ltd.",3683
 "AS63949","Akamai Technologies, Inc.",3518
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3166
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
-"AS174","Cogent Communications",1042
+"AS174","Cogent Communications",1043
 "AS208684","BHA CONSEIL SARL",969
 "AS32475","Internap Holding LLC",951
 "AS36352","HostPapa",947
@@ -95,7 +95,7 @@ ASN,Organization,IP_Count
 "AS12389","PJSC Rostelecom",181
 "AS12555","Data-center IMAQLIQ Ltd.",176
 "AS401116","Nybula LLC",170
-"AS63199","CDS Global Cloud Co., Ltd",169
+"AS63199","CDS Global Cloud Co., Ltd",170
 "AS18403","FPT Telecom Company",163
 "AS206264","Amarutu Technology Ltd",153
 "AS29484","Ruhr-Universitaet Bochum",152
@@ -120,9 +120,9 @@ ASN,Organization,IP_Count
 "AS58461","Chinanet",85
 "AS205352","KABELNET LTD",84
 "AS16735","ALGAR TELECOM S/A",81
+"AS34984","Superonline Iletisim Hizmetleri A.S.",79
 "AS200019","ALEXHOST SRL",78
 "AS28209","Under Servicos de Internet Ltda",78
-"AS34984","Superonline Iletisim Hizmetleri A.S.",78
 "AS4766","Korea Telecom",77
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",75
@@ -388,6 +388,7 @@ ASN,Organization,IP_Count
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",10
 "AS153443","VPSRE.NET LLC",10
 "AS202520","SkyPass Solutions Sp. z.o.o.",10
+"AS21127","Joint Stock Company TransTeleCom",10
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",10
 "AS23693","PT. Telekomunikasi Selular",10
 "AS24547","China Mobile",10
@@ -407,7 +408,6 @@ ASN,Organization,IP_Count
 "AS135059","Lao Asia Pacific Satellite Co., Ltd.",9
 "AS142032","High Family Technology Co., Limited",9
 "AS199414","Noah Kolossa",9
-"AS21127","Joint Stock Company TransTeleCom",9
 "AS212504","AdKyNet SAS",9
 "AS213520","Senko Digital Ltd",9
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",9
