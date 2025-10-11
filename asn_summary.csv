@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87636
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21814
-"AS398324","Censys, Inc.",12210
+"AS398324","Censys, Inc.",12211
 "AS396982","Google LLC",9952
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7451
+"AS14061","DigitalOcean, LLC",7452
 "AS16276","OVH SAS",5704
-"AS4134","Chinanet",4882
+"AS4134","Chinanet",4883
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4423
 "AS16509","Amazon.com, Inc.",3840
@@ -39,8 +39,8 @@ ASN,Organization,IP_Count
 "AS36352","HostPapa",960
 "AS32475","Internap Holding LLC",957
 "AS51852","Private Layer INC",907
+"AS23470","ReliableSite.Net LLC",857
 "AS9465","AGOTOZ PTE. LTD.",845
-"AS23470","ReliableSite.Net LLC",840
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",815
 "AS8452","TE-AS",804
@@ -88,7 +88,7 @@ ASN,Organization,IP_Count
 "AS13335","Cloudflare, Inc.",224
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS213613","BOTSHIELD LTD",222
-"AS208843","Alpha Strike Labs GmbH",216
+"AS208843","Alpha Strike Labs GmbH",217
 "AS14987","Rethem Hosting LLC",215
 "AS141718","haoxiangyun",193
 "AS701","Verizon Business",186
