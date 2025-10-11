@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",12182
 "AS396982","Google LLC",9945
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7439
+"AS14061","DigitalOcean, LLC",7440
 "AS16276","OVH SAS",5702
 "AS4134","Chinanet",4882
 "AS6568","Entel S.A. - EntelNet",4537
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1497
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS0","",1412
+"AS0","",1413
 "AS398722","Censys, Inc.",1356
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1252
@@ -278,6 +278,7 @@ ASN,Organization,IP_Count
 "AS577","Bell Canada",19
 "AS11426","Charter Communications Inc",18
 "AS11878","tzulo, inc.",18
+"AS12322","Free SAS",18
 "AS140061","China Telecom",18
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",18
 "AS17638","ASN for TIANJIN Provincial Net of CT",18
@@ -285,7 +286,6 @@ ASN,Organization,IP_Count
 "AS24940","Hetzner Online GmbH",18
 "AS329009","Spectrum Internet Service Ltd",18
 "AS400655","NixLabs Networks",18
-"AS12322","Free SAS",17
 "AS136958","China Unicom Guangdong IP network",17
 "AS14593","Space Exploration Technologies Corporation",17
 "AS148981","China Telecom",17
