@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87636
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21814
-"AS398324","Censys, Inc.",12204
-"AS396982","Google LLC",9951
+"AS398324","Censys, Inc.",12207
+"AS396982","Google LLC",9952
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7449
 "AS16276","OVH SAS",5703
@@ -40,8 +40,8 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",957
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
+"AS23470","ReliableSite.Net LLC",840
 "AS56042","China Mobile Communications Corporation",840
-"AS23470","ReliableSite.Net LLC",839
 "AS208046","ColocationX Ltd.",815
 "AS8452","TE-AS",804
 "AS215925","VPSVAULT.HOST LTD",788
@@ -439,6 +439,7 @@ ASN,Organization,IP_Count
 "AS198361","Yaglom Labs Ltd",8
 "AS20011","Dimension Data",8
 "AS209956","Telkoturk Iletisim Hizmetleri A.S.",8
+"AS212913","FOP Hornostay Mykhaylo Ivanovych",8
 "AS24812","NPK Home-Net Ltd.",8
 "AS262459","Osirnet Info Telecom Ltda.",8
 "AS27967","Gobernacion de la Provincia de Buenos Aires",8
@@ -464,7 +465,6 @@ ASN,Organization,IP_Count
 "AS203684","Imen Sanat Novin Alighapoo Private Joint Stock Company",7
 "AS204044","PACKET STAR NETWORKS LIMITED",7
 "AS204631","VIVANET GmbH",7
-"AS212913","FOP Hornostay Mykhaylo Ivanovych",7
 "AS215599","Zkillu SAS",7
 "AS215672","MoeChuang Network Limited",7
 "AS24955","JSC ""Ufanet""",7
