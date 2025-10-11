@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87634
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21809
-"AS398324","Censys, Inc.",12187
+"AS398324","Censys, Inc.",12188
 "AS396982","Google LLC",9946
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7440
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1498
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS0","",1413
+"AS0","",1414
 "AS398722","Censys, Inc.",1356
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1252
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",1043
 "AS208684","BHA CONSEIL SARL",969
-"AS36352","HostPapa",954
+"AS36352","HostPapa",955
 "AS32475","Internap Holding LLC",953
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -138,10 +138,10 @@ ASN,Organization,IP_Count
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",65
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
+"AS3920","ESTOXY OU",62
 "AS8560","IONOS SE",62
 "AS11320","LightEdge Solutions",61
 "AS140717","China Unicom",61
-"AS3920","ESTOXY OU",61
 "AS57588","Hayat for Internet & communication LLC",60
 "AS199785","Cloud Hosting Solutions, Limited.",59
 "AS29066","velia.net Internetdienste GmbH",58
@@ -173,7 +173,7 @@ ASN,Organization,IP_Count
 "AS20001","Charter Communications Inc",42
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS23724","IDC, China Telecommunications Corporation",42
-"AS149746","PT Blip Integrator Provider",39
+"AS149746","PT Blip Integrator Provider",40
 "AS21928","T-Mobile USA, Inc.",39
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",39
 "AS27699","TELEFÔNICA BRASIL S.A",39
@@ -456,6 +456,7 @@ ASN,Organization,IP_Count
 "AS12353","Vodafone Portugal - Communicacoes Pessoais S.A.",7
 "AS133661","Netplus Broadband Services Private Limited",7
 "AS133982","Excitel Broadband Private Limited",7
+"AS150179","KAAL TECH CO., LIMITED",7
 "AS153096","PT High Speed Connection Network",7
 "AS17451","BIZNET NETWORKS",7
 "AS17676","SoftBank Corp.",7
@@ -496,7 +497,6 @@ ASN,Organization,IP_Count
 "AS13999","Mega Cable, S.A. de C.V.",6
 "AS141167","AgotoZ HK Limited",6
 "AS149078","VPSMMO TECHNOLOGY COMPANY LIMITED",6
-"AS150179","KAAL TECH CO., LIMITED",6
 "AS16611","InfiniaHost.com",6
 "AS17754","Excellmedia",6
 "AS203020","HostRoyale Technologies Pvt Ltd",6
