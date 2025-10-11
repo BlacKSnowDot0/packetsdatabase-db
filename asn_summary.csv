@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS0","",1414
 "AS398722","Censys, Inc.",1357
 "AS215269","LAZYCLOUD LTD",1312
-"AS49870","Alsycon B.V.",1252
+"AS49870","Alsycon B.V.",1253
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1165
 "AS399045","DediOutlet, LLC",1142
@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1043
 "AS208684","BHA CONSEIL SARL",969
 "AS36352","HostPapa",956
-"AS32475","Internap Holding LLC",953
+"AS32475","Internap Holding LLC",955
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -256,6 +256,7 @@ ASN,Organization,IP_Count
 "AS4800","PT Aplikanusa Lintasarta",21
 "AS50887","DC FIBER HOME SRL",21
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",21
+"AS132203","Shenzhen Tencent Computer Systems Company Limited",20
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
@@ -264,7 +265,6 @@ ASN,Organization,IP_Count
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS46573","LayerHost",20
 "AS9299","Philippine Long Distance Telephone Co.",20
-"AS132203","Shenzhen Tencent Computer Systems Company Limited",19
 "AS141995","Contabo Asia Private Limited",19
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",19
 "AS22927","Telefonica de Argentina",19
