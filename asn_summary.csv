@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87634
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21808
-"AS398324","Censys, Inc.",12179
-"AS396982","Google LLC",9944
+"AS398324","Censys, Inc.",12182
+"AS396982","Google LLC",9945
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7437
+"AS14061","DigitalOcean, LLC",7439
 "AS16276","OVH SAS",5702
 "AS4134","Chinanet",4882
 "AS6568","Entel S.A. - EntelNet",4537
@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3518
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3166
-"AS51396","Pfcloud UG",3072
+"AS51396","Pfcloud UG",3073
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2626
 "AS142002","Scloud Pte Ltd",2531
@@ -44,14 +44,14 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",837
 "AS208046","ColocationX Ltd.",815
 "AS8452","TE-AS",804
-"AS215925","VPSVAULT.HOST LTD",785
+"AS215925","VPSVAULT.HOST LTD",786
 "AS211680","NSEC - Sistemas Informaticos, S.A.",705
 "AS20052","Arbor Networks, Inc.",598
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS10439","CariNet, Inc.",583
 "AS14618","Amazon.com, Inc.",558
 "AS31148","Freenet LTD",558
-"AS51167","Contabo GmbH",551
+"AS51167","Contabo GmbH",552
 "AS401120","cheapy.host LLC",532
 "AS9009","M247 Europe SRL",531
 "AS198953","Proton66 OOO",527
@@ -604,6 +604,7 @@ ASN,Organization,IP_Count
 "AS61135","COMNET BILGI ILETISIM TEKNOLOJILERI TICARET A.S.",5
 "AS63526","Systems Solutions & development Technologies Limited",5
 "AS6739","VODAFONE ONO, S.A.",5
+"AS6830","Liberty Global B.V.",5
 "AS8345","JSC ""ER-Telecom Holding""",5
 "AS8359","MTS PJSC",5
 "AS8648","dogado GmbH",5
@@ -693,7 +694,6 @@ ASN,Organization,IP_Count
 "AS59142","Pemerintah Kota Batam",4
 "AS60404","The Infrastructure Group B.V.",4
 "AS61461","Airtek Solutions C.A.",4
-"AS6830","Liberty Global B.V.",4
 "AS8376","Jordan Data Communications Company LLC",4
 "AS8781","Ooredoo Q.S.C.",4
 "AS8926","Moldtelecom SA",4
