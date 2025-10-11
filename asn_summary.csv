@@ -3,7 +3,7 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21814
 "AS398324","Censys, Inc.",12204
-"AS396982","Google LLC",9950
+"AS396982","Google LLC",9951
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7449
 "AS16276","OVH SAS",5703
@@ -265,6 +265,7 @@ ASN,Organization,IP_Count
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS46573","LayerHost",20
 "AS9299","Philippine Long Distance Telephone Co.",20
+"AS12322","Free SAS",19
 "AS141995","Contabo Asia Private Limited",19
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",19
 "AS22927","Telefonica de Argentina",19
@@ -278,7 +279,6 @@ ASN,Organization,IP_Count
 "AS577","Bell Canada",19
 "AS11426","Charter Communications Inc",18
 "AS11878","tzulo, inc.",18
-"AS12322","Free SAS",18
 "AS140061","China Telecom",18
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",18
 "AS17638","ASN for TIANJIN Provincial Net of CT",18
