@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87634
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21809
-"AS398324","Censys, Inc.",12188
-"AS396982","Google LLC",9946
+"AS398324","Censys, Inc.",12189
+"AS396982","Google LLC",9947
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7440
+"AS14061","DigitalOcean, LLC",7441
 "AS16276","OVH SAS",5703
 "AS4134","Chinanet",4882
 "AS6568","Entel S.A. - EntelNet",4537
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1498
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS0","",1414
-"AS398722","Censys, Inc.",1356
+"AS398722","Censys, Inc.",1357
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1252
 "AS204428","SS-Net",1182
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",804
 "AS215925","VPSVAULT.HOST LTD",787
 "AS211680","NSEC - Sistemas Informaticos, S.A.",705
-"AS20052","Arbor Networks, Inc.",598
+"AS20052","Arbor Networks, Inc.",599
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS10439","CariNet, Inc.",583
 "AS14618","Amazon.com, Inc.",558
@@ -323,13 +323,13 @@ ASN,Organization,IP_Count
 "AS31113","Artkomm LLC",15
 "AS39603","P4 Sp. z o.o.",15
 "AS397283","RocketNode Inc",15
+"AS4816","China Telecom (Group)",15
 "AS5384","EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",15
 "AS852","TELUS Communications Inc.",15
 "AS136142","Enigma Fiber Pvt Ltd",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS28126","BRISANET SERVICOS DE TELECOMUNICACOES LTDA",14
 "AS30600","Metronet",14
-"AS4816","China Telecom (Group)",14
 "AS48721","Flyservers S.A.",14
 "AS6181","Cincinnati Bell Telephone Company LLC",14
 "AS812","Rogers Communications Canada Inc.",14
@@ -1265,6 +1265,7 @@ ASN,Organization,IP_Count
 "AS9506","Singapore Telecommunications Ltd, Magix Services",2
 "AS9534","Maxis Broadband Sdn Bhd",2
 "AS963","N963",2
+"AS979","NetLab Global",2
 "AS9821","Advanced Science and Technology Institute",2
 "AS9905","Linknet ASN",2
 "AS9908","Hong Kong Cable Television Limited",2
@@ -2597,7 +2598,6 @@ ASN,Organization,IP_Count
 "AS9371","SAKURA Internet Inc.",1
 "AS9583","Sify Limited",1
 "AS9617","JCOM Co., Ltd.",1
-"AS979","NetLab Global",1
 "AS9891","CS Loxinfo Public Company Limited",1
 "AS9922","New Kaohsiung Broadband LTD.",1
 "AS9924","Taiwan Fixed Network, Telco and Network Service Provider.",1
