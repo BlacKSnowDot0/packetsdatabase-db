@@ -3,7 +3,7 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21812
 "AS398324","Censys, Inc.",12194
-"AS396982","Google LLC",9947
+"AS396982","Google LLC",9948
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7445
 "AS16276","OVH SAS",5703
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1498
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS0","",1415
+"AS0","",1416
 "AS398722","Censys, Inc.",1357
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1253
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",583
 "AS14618","Amazon.com, Inc.",558
 "AS31148","Freenet LTD",558
-"AS51167","Contabo GmbH",553
+"AS51167","Contabo GmbH",555
 "AS401120","cheapy.host LLC",532
 "AS9009","M247 Europe SRL",532
 "AS198953","Proton66 OOO",527
@@ -330,6 +330,7 @@ ASN,Organization,IP_Count
 "AS204104","Giti Secure Cloud LLC",14
 "AS28126","BRISANET SERVICOS DE TELECOMUNICACOES LTDA",14
 "AS30600","Metronet",14
+"AS3257","GTT Communications Inc.",14
 "AS48721","Flyservers S.A.",14
 "AS6181","Cincinnati Bell Telephone Company LLC",14
 "AS812","Rogers Communications Canada Inc.",14
@@ -340,7 +341,6 @@ ASN,Organization,IP_Count
 "AS25369","Hydra Communications Ltd",13
 "AS28840","PJSC ""TATTELECOM""",13
 "AS29465","MTN NIGERIA Communication limited",13
-"AS3257","GTT Communications Inc.",13
 "AS33363","Charter Communications, Inc",13
 "AS37457","Telkom SA Ltd.",13
 "AS4808","China Unicom Beijing Province Network",13
