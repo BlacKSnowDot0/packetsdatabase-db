@@ -6,7 +6,7 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",9945
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7440
-"AS16276","OVH SAS",5702
+"AS16276","OVH SAS",5703
 "AS4134","Chinanet",4882
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4423
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS51167","Contabo GmbH",552
 "AS401120","cheapy.host LLC",532
-"AS9009","M247 Europe SRL",531
+"AS9009","M247 Europe SRL",532
 "AS198953","Proton66 OOO",527
 "AS4837","CHINA UNICOM China169 Backbone",516
 "AS140292","China Telecom",509
@@ -63,8 +63,8 @@ ASN,Organization,IP_Count
 "AS212238","Datacamp Limited",454
 "AS51115","HLL LLC",417
 "AS21299","Kar-Tel LLC",406
+"AS53667","FranTech Solutions",405
 "AS24186","RailTel Corporation of India Ltd.",404
-"AS53667","FranTech Solutions",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS9829","Bharat Sanchar Nigam Ltd",367
 "AS12876","ONLINE S.A.S.",356
@@ -80,7 +80,7 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",285
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",277
 "AS7713","Telekomunikasi Indonesia (PT)",276
-"AS47890","UNMANAGED LTD",262
+"AS47890","UNMANAGED LTD",265
 "AS48090","TECHOFF SRV LIMITED",254
 "AS60223","Netiface Limited",250
 "AS8151","Uninet S.A. de C.V.",245
@@ -627,6 +627,7 @@ ASN,Organization,IP_Count
 "AS15081","Omni Fiber",4
 "AS15557","Societe Francaise Du Radiotelephone - SFR SA",4
 "AS18809","Cable Onda",4
+"AS200590","NLS Kazakhstan LLC",4
 "AS201838","Community Fibre Limited",4
 "AS203380","DA International Group Ltd.",4
 "AS206216","Advin Services LLC",4
@@ -753,7 +754,6 @@ ASN,Organization,IP_Count
 "AS199468","GRAIN COMMUNICATIONS LIMITED",3
 "AS200359","Grupo Proveedor tecnologico Universal SL",3
 "AS20055","Wholesail networks LLC",3
-"AS200590","NLS Kazakhstan LLC",3
 "AS203257","Layth Zuhair Zahid",3
 "AS20326","TeraSwitch Networks Inc.",3
 "AS203459","AL-MARAJ AL-ALAMIYA Co",3
