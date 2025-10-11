@@ -2,16 +2,16 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87632
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21808
-"AS398324","Censys, Inc.",12175
-"AS396982","Google LLC",9943
+"AS398324","Censys, Inc.",12177
+"AS396982","Google LLC",9944
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7436
+"AS14061","DigitalOcean, LLC",7437
 "AS16276","OVH SAS",5702
 "AS4134","Chinanet",4882
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4423
 "AS16509","Amazon.com, Inc.",3840
-"AS45102","Alibaba (US) Technology Co., Ltd.",3691
+"AS45102","Alibaba (US) Technology Co., Ltd.",3694
 "AS63949","Akamai Technologies, Inc.",3518
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3166
@@ -75,8 +75,8 @@ ASN,Organization,IP_Count
 "AS24863","LINKdotNET AS number",307
 "AS210848","Telkom Internet LTD",296
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",291
+"AS45899","VNPT Corp",286
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",285
-"AS45899","VNPT Corp",285
 "AS9341","PT Indonesia Comnets Plus",285
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",277
 "AS7713","Telekomunikasi Indonesia (PT)",276
@@ -87,7 +87,7 @@ ASN,Organization,IP_Count
 "AS209272","Alviva Holding Limited",230
 "AS13335","Cloudflare, Inc.",224
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
-"AS213613","BOTSHIELD LTD",220
+"AS213613","BOTSHIELD LTD",221
 "AS208843","Alpha Strike Labs GmbH",216
 "AS14987","Rethem Hosting LLC",215
 "AS141718","haoxiangyun",193
