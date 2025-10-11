@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87632
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21808
-"AS398324","Censys, Inc.",12173
-"AS396982","Google LLC",9941
+"AS398324","Censys, Inc.",12175
+"AS396982","Google LLC",9943
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7436
 "AS16276","OVH SAS",5702
@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4423
 "AS16509","Amazon.com, Inc.",3840
-"AS45102","Alibaba (US) Technology Co., Ltd.",3685
+"AS45102","Alibaba (US) Technology Co., Ltd.",3691
 "AS63949","Akamai Technologies, Inc.",3518
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3166
@@ -19,13 +19,13 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2626
 "AS142002","Scloud Pte Ltd",2531
-"AS6939","Hurricane Electric LLC",2344
+"AS6939","Hurricane Electric LLC",2345
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1692
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1497
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS0","",1411
+"AS0","",1412
 "AS398722","Censys, Inc.",1356
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1251
@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1043
 "AS208684","BHA CONSEIL SARL",969
 "AS32475","Internap Holding LLC",953
-"AS36352","HostPapa",950
+"AS36352","HostPapa",952
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -51,11 +51,11 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",583
 "AS14618","Amazon.com, Inc.",558
 "AS31148","Freenet LTD",558
-"AS51167","Contabo GmbH",550
+"AS51167","Contabo GmbH",551
 "AS401120","cheapy.host LLC",532
 "AS9009","M247 Europe SRL",531
 "AS198953","Proton66 OOO",527
-"AS4837","CHINA UNICOM China169 Backbone",515
+"AS4837","CHINA UNICOM China169 Backbone",516
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
 "AS201814","MEVSPACE sp. z o.o.",483
@@ -68,7 +68,7 @@ ASN,Organization,IP_Count
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS9829","Bharat Sanchar Nigam Ltd",367
 "AS12876","ONLINE S.A.S.",355
-"AS7018","AT&T Enterprises, LLC",351
+"AS7018","AT&T Enterprises, LLC",353
 "AS21859","Zenlayer Inc",341
 "AS7922","Comcast Cable Communications, LLC",341
 "AS214943","Railnet LLC",314
@@ -147,8 +147,8 @@ ASN,Organization,IP_Count
 "AS4812","China Telecom (Group)",58
 "AS49544","i3D.net B.V",58
 "AS20278","Nexeon Technologies, Inc.",57
+"AS29066","velia.net Internetdienste GmbH",57
 "AS22773","Cox Communications Inc.",56
-"AS29066","velia.net Internetdienste GmbH",56
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",56
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
@@ -225,13 +225,13 @@ ASN,Organization,IP_Count
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS17557","Pakistan Telecommuication company limited",24
 "AS18881","TELEFÔNICA BRASIL S.A",24
+"AS197540","netcup GmbH",24
 "AS209","CenturyLink Communications, LLC",24
 "AS3269","Telecom Italia S.p.A.",24
 "AS55933","Cloudie Limited",24
 "AS60068","Datacamp Limited",24
 "AS1103","SURF B.V.",23
 "AS17995","PT iForte Global Internet",23
-"AS197540","netcup GmbH",23
 "AS198037","SPACECORE SOLUTION LTD",23
 "AS53118","NETLINE TELECOM",23
 "AS55836","Reliance Jio Infocomm Limited",23
@@ -369,6 +369,7 @@ ASN,Organization,IP_Count
 "AS200651","FlokiNET ehf",11
 "AS205119","TELEKS DOOEL Skopje",11
 "AS206804","EstNOC OY",11
+"AS21127","Joint Stock Company TransTeleCom",11
 "AS2116","GLOBALCONNECT AS",11
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
 "AS27947","Telconet S.A",11
@@ -388,7 +389,6 @@ ASN,Organization,IP_Count
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",10
 "AS153443","VPSRE.NET LLC",10
 "AS202520","SkyPass Solutions Sp. z.o.o.",10
-"AS21127","Joint Stock Company TransTeleCom",10
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",10
 "AS23693","PT. Telekomunikasi Selular",10
 "AS24547","China Mobile",10
