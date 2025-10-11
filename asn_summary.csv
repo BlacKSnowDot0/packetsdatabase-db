@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87636
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21812
-"AS398324","Censys, Inc.",12197
-"AS396982","Google LLC",9949
+"AS398324","Censys, Inc.",12200
+"AS396982","Google LLC",9950
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7447
 "AS16276","OVH SAS",5703
@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4423
 "AS16509","Amazon.com, Inc.",3840
-"AS45102","Alibaba (US) Technology Co., Ltd.",3695
+"AS45102","Alibaba (US) Technology Co., Ltd.",3697
 "AS63949","Akamai Technologies, Inc.",3518
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3166
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2626
 "AS142002","Scloud Pte Ltd",2531
-"AS6939","Hurricane Electric LLC",2346
+"AS6939","Hurricane Electric LLC",2347
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1692
 "AS214295","SKYNET NETWORK LTD",1631
@@ -44,7 +44,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",839
 "AS208046","ColocationX Ltd.",815
 "AS8452","TE-AS",804
-"AS215925","VPSVAULT.HOST LTD",787
+"AS215925","VPSVAULT.HOST LTD",788
 "AS211680","NSEC - Sistemas Informaticos, S.A.",705
 "AS20052","Arbor Networks, Inc.",599
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -129,7 +129,7 @@ ASN,Organization,IP_Count
 "AS32475","SingleHop LLC",75
 "AS56046","China Mobile Communications Corporation",74
 "AS31898","Oracle Corporation",71
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",69
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",70
 "AS52053","REDHEBERG Association declaree",69
 "AS136435","ELITE COMMUNICATION",68
 "AS271795","SERVITELCONET CIA. LTDA.",67
