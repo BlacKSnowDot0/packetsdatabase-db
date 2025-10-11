@@ -2,16 +2,16 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87632
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21808
-"AS398324","Censys, Inc.",12170
+"AS398324","Censys, Inc.",12173
 "AS396982","Google LLC",9941
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7435
+"AS14061","DigitalOcean, LLC",7436
 "AS16276","OVH SAS",5702
-"AS4134","Chinanet",4881
+"AS4134","Chinanet",4882
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4423
 "AS16509","Amazon.com, Inc.",3840
-"AS45102","Alibaba (US) Technology Co., Ltd.",3683
+"AS45102","Alibaba (US) Technology Co., Ltd.",3685
 "AS63949","Akamai Technologies, Inc.",3518
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3166
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1497
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS0","",1410
+"AS0","",1411
 "AS398722","Censys, Inc.",1356
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1251
@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1043
 "AS208684","BHA CONSEIL SARL",969
 "AS32475","Internap Holding LLC",953
-"AS36352","HostPapa",949
+"AS36352","HostPapa",950
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",804
 "AS215925","VPSVAULT.HOST LTD",785
 "AS211680","NSEC - Sistemas Informaticos, S.A.",705
-"AS20052","Arbor Networks, Inc.",597
+"AS20052","Arbor Networks, Inc.",598
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS10439","CariNet, Inc.",583
 "AS14618","Amazon.com, Inc.",558
@@ -138,10 +138,10 @@ ASN,Organization,IP_Count
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",65
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
+"AS8560","IONOS SE",62
 "AS11320","LightEdge Solutions",61
 "AS140717","China Unicom",61
 "AS3920","ESTOXY OU",61
-"AS8560","IONOS SE",61
 "AS57588","Hayat for Internet & communication LLC",60
 "AS199785","Cloud Hosting Solutions, Limited.",59
 "AS4812","China Telecom (Group)",58
