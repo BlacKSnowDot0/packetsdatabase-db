@@ -1,5 +1,5 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87634
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87636
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21809
 "AS398324","Censys, Inc.",12191
@@ -120,7 +120,7 @@ ASN,Organization,IP_Count
 "AS58461","Chinanet",85
 "AS205352","KABELNET LTD",84
 "AS16735","ALGAR TELECOM S/A",81
-"AS34984","Superonline Iletisim Hizmetleri A.S.",79
+"AS34984","Superonline Iletisim Hizmetleri A.S.",80
 "AS200019","ALEXHOST SRL",78
 "AS28209","Under Servicos de Internet Ltda",78
 "AS4766","Korea Telecom",77
@@ -575,6 +575,7 @@ ASN,Organization,IP_Count
 "AS265702","AZUL NETWORKS S.R.L",5
 "AS267684","VISIONMAGICA SOCIEDAD ANONIMA",5
 "AS267784","Flyservers S.A.",5
+"AS268482","Connect Telecomunicações LTDA",5
 "AS271188","VOCALNET TELECOMUNICAÇÕES EIRELI - ME",5
 "AS271874","SERVITRACTOR S.A.",5
 "AS28580","CILNET Comunicacao e Informatica LTDA.",5
