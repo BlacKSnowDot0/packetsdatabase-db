@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4423
 "AS16509","Amazon.com, Inc.",3840
-"AS45102","Alibaba (US) Technology Co., Ltd.",3700
+"AS45102","Alibaba (US) Technology Co., Ltd.",3701
 "AS63949","Akamai Technologies, Inc.",3518
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3166
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1498
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS0","",1417
+"AS0","",1418
 "AS398722","Censys, Inc.",1358
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1254
@@ -62,12 +62,12 @@ ASN,Organization,IP_Count
 "AS3462","Chunghwa Telecom Co., Ltd.",462
 "AS212238","Datacamp Limited",454
 "AS51115","HLL LLC",421
+"AS53667","FranTech Solutions",407
 "AS21299","Kar-Tel LLC",406
-"AS53667","FranTech Solutions",406
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS9829","Bharat Sanchar Nigam Ltd",368
-"AS12876","ONLINE S.A.S.",358
+"AS12876","ONLINE S.A.S.",359
 "AS7018","AT&T Enterprises, LLC",353
 "AS21859","Zenlayer Inc",341
 "AS7922","Comcast Cable Communications, LLC",341
@@ -80,7 +80,7 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",285
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",277
 "AS7713","Telekomunikasi Indonesia (PT)",276
-"AS47890","UNMANAGED LTD",266
+"AS47890","UNMANAGED LTD",268
 "AS48090","TECHOFF SRV LIMITED",254
 "AS60223","Netiface Limited",250
 "AS8151","Uninet S.A. de C.V.",245
