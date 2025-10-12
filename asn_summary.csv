@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87645
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21820
-"AS398324","Censys, Inc.",12234
+"AS398324","Censys, Inc.",12235
 "AS396982","Google LLC",9957
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7462
+"AS14061","DigitalOcean, LLC",7463
 "AS16276","OVH SAS",5709
 "AS4134","Chinanet",4883
 "AS6568","Entel S.A. - EntelNet",4537
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2531
 "AS6939","Hurricane Electric LLC",2354
 "AS9808","China Mobile",2074
-"AS202425","IP Volume inc",1692
+"AS202425","IP Volume inc",1693
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1498
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",1049
-"AS36352","HostPapa",974
+"AS36352","HostPapa",975
 "AS208684","BHA CONSEIL SARL",970
 "AS32475","Internap Holding LLC",960
 "AS51852","Private Layer INC",907
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",583
 "AS14618","Amazon.com, Inc.",558
 "AS31148","Freenet LTD",558
-"AS51167","Contabo GmbH",555
+"AS51167","Contabo GmbH",556
 "AS401120","cheapy.host LLC",532
 "AS9009","M247 Europe SRL",532
 "AS198953","Proton66 OOO",527
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS3462","Chunghwa Telecom Co., Ltd.",462
 "AS212238","Datacamp Limited",454
 "AS51115","HLL LLC",424
-"AS53667","FranTech Solutions",410
+"AS53667","FranTech Solutions",411
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -120,7 +120,7 @@ ASN,Organization,IP_Count
 "AS58461","Chinanet",85
 "AS205352","KABELNET LTD",84
 "AS16735","ALGAR TELECOM S/A",81
-"AS34984","Superonline Iletisim Hizmetleri A.S.",80
+"AS34984","Superonline Iletisim Hizmetleri A.S.",81
 "AS200019","ALEXHOST SRL",78
 "AS28209","Under Servicos de Internet Ltda",78
 "AS4766","Korea Telecom",77
@@ -267,6 +267,7 @@ ASN,Organization,IP_Count
 "AS9299","Philippine Long Distance Telephone Co.",20
 "AS12322","Free SAS",19
 "AS141995","Contabo Asia Private Limited",19
+"AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",19
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",19
 "AS22927","Telefonica de Argentina",19
 "AS24348","CERNET2 IX at Tsinghua University",19
@@ -280,7 +281,6 @@ ASN,Organization,IP_Count
 "AS11426","Charter Communications Inc",18
 "AS11878","tzulo, inc.",18
 "AS140061","China Telecom",18
-"AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",18
 "AS17638","ASN for TIANJIN Provincial Net of CT",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
 "AS24940","Hetzner Online GmbH",18
@@ -433,6 +433,7 @@ ASN,Organization,IP_Count
 "AS138754","Kerala Vision Broad Band Private Limited",8
 "AS138886","PT Data Buana Nusantara",8
 "AS141295","Madhya Pradesh Agency For Promotion   Of Information Technology",8
+"AS150179","KAAL TECH CO., LIMITED",8
 "AS17882","MCS Com Co Ltd",8
 "AS18209","Atria Convergence Technologies Pvt. Ltd.,",8
 "AS18986","Calligo (Canada) Inc.",8
@@ -457,7 +458,6 @@ ASN,Organization,IP_Count
 "AS12353","Vodafone Portugal - Communicacoes Pessoais S.A.",7
 "AS133661","Netplus Broadband Services Private Limited",7
 "AS133982","Excitel Broadband Private Limited",7
-"AS150179","KAAL TECH CO., LIMITED",7
 "AS153096","PT High Speed Connection Network",7
 "AS17451","BIZNET NETWORKS",7
 "AS17676","SoftBank Corp.",7
