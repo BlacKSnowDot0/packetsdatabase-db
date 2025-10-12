@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87647
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87648
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21821
-"AS398324","Censys, Inc.",12241
+"AS398324","Censys, Inc.",12242
 "AS396982","Google LLC",9959
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7469
@@ -352,6 +352,7 @@ ASN,Organization,IP_Count
 "AS140726","China Unicom",12
 "AS15704","XTRA TELECOM S.A.",12
 "AS17621","China Unicom Shanghai network",12
+"AS21127","Joint Stock Company TransTeleCom",12
 "AS213438","ColocaTel Inc.",12
 "AS2637","Georgia Institute of Technology",12
 "AS30823","aurologic GmbH",12
@@ -369,7 +370,6 @@ ASN,Organization,IP_Count
 "AS200651","FlokiNET ehf",11
 "AS205119","TELEKS DOOEL Skopje",11
 "AS206804","EstNOC OY",11
-"AS21127","Joint Stock Company TransTeleCom",11
 "AS2116","GLOBALCONNECT AS",11
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
 "AS27947","Telconet S.A",11
