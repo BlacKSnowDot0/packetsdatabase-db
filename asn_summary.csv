@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87637
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21817
-"AS398324","Censys, Inc.",12213
-"AS396982","Google LLC",9953
+"AS398324","Censys, Inc.",12214
+"AS396982","Google LLC",9954
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7454
+"AS14061","DigitalOcean, LLC",7455
 "AS16276","OVH SAS",5707
 "AS4134","Chinanet",4883
 "AS6568","Entel S.A. - EntelNet",4537
@@ -19,13 +19,13 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2627
 "AS142002","Scloud Pte Ltd",2531
-"AS6939","Hurricane Electric LLC",2347
+"AS6939","Hurricane Electric LLC",2348
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1692
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1498
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS0","",1420
+"AS0","",1423
 "AS398722","Censys, Inc.",1358
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1254
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
-"AS174","Cogent Communications",1045
+"AS174","Cogent Communications",1046
 "AS208684","BHA CONSEIL SARL",969
 "AS36352","HostPapa",968
 "AS32475","Internap Holding LLC",957
@@ -61,7 +61,7 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",483
 "AS3462","Chunghwa Telecom Co., Ltd.",462
 "AS212238","Datacamp Limited",454
-"AS51115","HLL LLC",423
+"AS51115","HLL LLC",424
 "AS53667","FranTech Solutions",407
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
@@ -88,7 +88,7 @@ ASN,Organization,IP_Count
 "AS13335","Cloudflare, Inc.",224
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS213613","BOTSHIELD LTD",222
-"AS208843","Alpha Strike Labs GmbH",217
+"AS208843","Alpha Strike Labs GmbH",218
 "AS14987","Rethem Hosting LLC",215
 "AS141718","haoxiangyun",193
 "AS701","Verizon Business",186
@@ -142,9 +142,9 @@ ASN,Organization,IP_Count
 "AS11320","LightEdge Solutions",62
 "AS8560","IONOS SE",62
 "AS140717","China Unicom",61
+"AS29066","velia.net Internetdienste GmbH",61
 "AS57588","Hayat for Internet & communication LLC",60
 "AS199785","Cloud Hosting Solutions, Limited.",59
-"AS29066","velia.net Internetdienste GmbH",59
 "AS4812","China Telecom (Group)",58
 "AS49544","i3D.net B.V",58
 "AS20278","Nexeon Technologies, Inc.",57
@@ -173,7 +173,7 @@ ASN,Organization,IP_Count
 "AS20001","Charter Communications Inc",42
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS23724","IDC, China Telecommunications Corporation",42
-"AS149746","PT Blip Integrator Provider",40
+"AS149746","PT Blip Integrator Provider",41
 "AS21928","T-Mobile USA, Inc.",39
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",39
 "AS27699","TELEFÔNICA BRASIL S.A",39
@@ -226,6 +226,7 @@ ASN,Organization,IP_Count
 "AS17557","Pakistan Telecommuication company limited",24
 "AS18881","TELEFÔNICA BRASIL S.A",24
 "AS197540","netcup GmbH",24
+"AS200514","KnownSRV Ltd.",24
 "AS209","CenturyLink Communications, LLC",24
 "AS3269","Telecom Italia S.p.A.",24
 "AS55933","Cloudie Limited",24
@@ -233,7 +234,6 @@ ASN,Organization,IP_Count
 "AS1103","SURF B.V.",23
 "AS17995","PT iForte Global Internet",23
 "AS198037","SPACECORE SOLUTION LTD",23
-"AS200514","KnownSRV Ltd.",23
 "AS53118","NETLINE TELECOM",23
 "AS55836","Reliance Jio Infocomm Limited",23
 "AS58224","Iran Telecommunication Company PJS",23
