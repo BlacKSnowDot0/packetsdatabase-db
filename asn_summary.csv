@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87645
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21820
-"AS398324","Censys, Inc.",12235
-"AS396982","Google LLC",9957
+"AS398324","Censys, Inc.",12236
+"AS396982","Google LLC",9958
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7465
+"AS14061","DigitalOcean, LLC",7466
 "AS16276","OVH SAS",5709
 "AS4134","Chinanet",4884
 "AS6568","Entel S.A. - EntelNet",4537
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1498
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS0","",1425
-"AS398722","Censys, Inc.",1358
+"AS398722","Censys, Inc.",1359
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1255
 "AS204428","SS-Net",1182
@@ -556,6 +556,7 @@ ASN,Organization,IP_Count
 "AS18049","Taiwan Infrastructure Network Technologie",5
 "AS18229","CtrlS",5
 "AS198983","Joseph Hofmann trading as 'Tornado Datacenter GmbH & Co. KG'",5
+"AS200590","NLS Kazakhstan LLC",5
 "AS202468","Noyan Abr Arvan Co. ( Private Joint Stock)",5
 "AS20412","Clarity Telecom LLC",5
 "AS207656","Epinatura LLC",5
@@ -628,7 +629,6 @@ ASN,Organization,IP_Count
 "AS15081","Omni Fiber",4
 "AS15557","Societe Francaise Du Radiotelephone - SFR SA",4
 "AS18809","Cable Onda",4
-"AS200590","NLS Kazakhstan LLC",4
 "AS201838","Community Fibre Limited",4
 "AS203380","DA International Group Ltd.",4
 "AS206216","Advin Services LLC",4
