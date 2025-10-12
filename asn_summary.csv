@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87644
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21818
-"AS398324","Censys, Inc.",12230
+"AS398324","Censys, Inc.",12232
 "AS396982","Google LLC",9957
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7461
+"AS14061","DigitalOcean, LLC",7462
 "AS16276","OVH SAS",5708
 "AS4134","Chinanet",4883
 "AS6568","Entel S.A. - EntelNet",4537
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2628
 "AS142002","Scloud Pte Ltd",2531
-"AS6939","Hurricane Electric LLC",2352
+"AS6939","Hurricane Electric LLC",2353
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1692
 "AS214295","SKYNET NETWORK LTD",1631
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS9829","Bharat Sanchar Nigam Ltd",369
-"AS12876","ONLINE S.A.S.",359
+"AS12876","ONLINE S.A.S.",360
 "AS7018","AT&T Enterprises, LLC",353
 "AS21859","Zenlayer Inc",341
 "AS7922","Comcast Cable Communications, LLC",341
@@ -96,7 +96,7 @@ ASN,Organization,IP_Count
 "AS12555","Data-center IMAQLIQ Ltd.",176
 "AS401116","Nybula LLC",170
 "AS63199","CDS Global Cloud Co., Ltd",170
-"AS18403","FPT Telecom Company",163
+"AS18403","FPT Telecom Company",164
 "AS29484","Ruhr-Universitaet Bochum",154
 "AS206264","Amarutu Technology Ltd",153
 "AS47105","Vault Dweller OU",141
@@ -394,6 +394,7 @@ ASN,Organization,IP_Count
 "AS24547","China Mobile",10
 "AS24835","Vodafone Data - Egypt",10
 "AS264628","CORPORACION FIBEX TELECOM, C.A.",10
+"AS271597","NEW LINK CONNECT",10
 "AS37105","RAIN GROUP HOLDINGS (PTY) LTD",10
 "AS37705","TOPNET",10
 "AS41420","Xentech B.V.",10
@@ -414,7 +415,6 @@ ASN,Organization,IP_Count
 "AS214481","Wojciech Czapkowicz",9
 "AS25019","Saudi Telecom Company JSC",9
 "AS267280","YELLOW CONNECT MULTIMIDIA LTDA ME",9
-"AS271597","NEW LINK CONNECT",9
 "AS3352","TELEFONICA DE ESPANA S.A.U.",9
 "AS37611","Afrihost (Pty) Ltd",9
 "AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",9
