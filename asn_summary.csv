@@ -3,10 +3,10 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21818
 "AS398324","Censys, Inc.",12225
-"AS396982","Google LLC",9955
+"AS396982","Google LLC",9956
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7457
-"AS16276","OVH SAS",5707
+"AS14061","DigitalOcean, LLC",7459
+"AS16276","OVH SAS",5708
 "AS4134","Chinanet",4883
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4424
@@ -19,13 +19,13 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2628
 "AS142002","Scloud Pte Ltd",2531
-"AS6939","Hurricane Electric LLC",2350
+"AS6939","Hurricane Electric LLC",2351
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1692
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1498
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS0","",1423
+"AS0","",1424
 "AS398722","Censys, Inc.",1358
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1254
@@ -2243,6 +2243,7 @@ ASN,Organization,IP_Count
 "AS38673","Korea Cable TV Kwangju Broadcasting",1
 "AS38700","SMILESERV",1
 "AS38713","Satcomm (Pvt.) Ltd.",1
+"AS38758","PT. HIPERNET INDODATA",1
 "AS38778","PT. Dutakom Wibawa Putra",1
 "AS38794","United Information Highway Co.,Ltd.",1
 "AS39089","STATE UNITARY ENTERPRISE OF THE DONETSK PEOPLE'S REPUBLIC ""UGLETELECOM""",1
