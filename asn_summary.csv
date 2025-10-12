@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87645
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
-"AS211298","Driftnet Ltd",21818
-"AS398324","Censys, Inc.",12233
+"AS211298","Driftnet Ltd",21820
+"AS398324","Censys, Inc.",12234
 "AS396982","Google LLC",9957
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7462
@@ -35,9 +35,9 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",1048
-"AS36352","HostPapa",973
+"AS36352","HostPapa",974
 "AS208684","BHA CONSEIL SARL",970
-"AS32475","Internap Holding LLC",959
+"AS32475","Internap Holding LLC",960
 "AS51852","Private Layer INC",907
 "AS23470","ReliableSite.Net LLC",860
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -88,7 +88,7 @@ ASN,Organization,IP_Count
 "AS13335","Cloudflare, Inc.",224
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS213613","BOTSHIELD LTD",222
-"AS208843","Alpha Strike Labs GmbH",218
+"AS208843","Alpha Strike Labs GmbH",219
 "AS14987","Rethem Hosting LLC",215
 "AS141718","haoxiangyun",193
 "AS701","Verizon Business",186
@@ -861,6 +861,7 @@ ASN,Organization,IP_Count
 "AS786","Jisc Services Limited",3
 "AS9329","Sri Lanka Telecom Ltd",3
 "AS9674","Far EastTone Telecommunication Co., Ltd.",3
+"AS979","NetLab Global",3
 "AS10030","Celcom Axiata Berhad",2
 "AS10036","DLIVE",2
 "AS10066","LG HelloVision Corp.",2
@@ -1267,7 +1268,6 @@ ASN,Organization,IP_Count
 "AS9506","Singapore Telecommunications Ltd, Magix Services",2
 "AS9534","Maxis Broadband Sdn Bhd",2
 "AS963","N963",2
-"AS979","NetLab Global",2
 "AS9821","Advanced Science and Technology Institute",2
 "AS9905","Linknet ASN",2
 "AS9908","Hong Kong Cable Television Limited",2
