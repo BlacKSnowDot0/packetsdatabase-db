@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87648
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21822
-"AS398324","Censys, Inc.",12248
-"AS396982","Google LLC",9961
+"AS398324","Censys, Inc.",12250
+"AS396982","Google LLC",9963
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7470
+"AS14061","DigitalOcean, LLC",7471
 "AS16276","OVH SAS",5710
 "AS4134","Chinanet",4884
 "AS6568","Entel S.A. - EntelNet",4537
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",584
 "AS14618","Amazon.com, Inc.",558
 "AS31148","Freenet LTD",558
-"AS51167","Contabo GmbH",556
+"AS51167","Contabo GmbH",557
 "AS401120","cheapy.host LLC",532
 "AS9009","M247 Europe SRL",532
 "AS198953","Proton66 OOO",527
@@ -389,6 +389,7 @@ ASN,Organization,IP_Count
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",10
 "AS153443","VPSRE.NET LLC",10
 "AS202520","SkyPass Solutions Sp. z.o.o.",10
+"AS213732","Peyman Ertebatat Pouya Company (Ltd)",10
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",10
 "AS23693","PT. Telekomunikasi Selular",10
 "AS24547","China Mobile",10
@@ -412,7 +413,6 @@ ASN,Organization,IP_Count
 "AS212504","AdKyNet SAS",9
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",9
 "AS213520","Senko Digital Ltd",9
-"AS213732","Peyman Ertebatat Pouya Company (Ltd)",9
 "AS214481","Wojciech Czapkowicz",9
 "AS25019","Saudi Telecom Company JSC",9
 "AS267280","YELLOW CONNECT MULTIMIDIA LTDA ME",9
@@ -765,6 +765,7 @@ ASN,Organization,IP_Count
 "AS213354","INTERNATIONAL HOSTING SOLUTIONS LLP",3
 "AS21499","Host Europe GmbH",3
 "AS21565","Horry Telephone Cooperative, Inc.",3
+"AS215762","Bullet Group LTD",3
 "AS22612","Namecheap, Inc.",3
 "AS23028","Team Cymru Inc.",3
 "AS23650","Chinanet Jiangsu",3
@@ -995,7 +996,6 @@ ASN,Organization,IP_Count
 "AS21497","PrJSC ""VF UKRAINE""",2
 "AS21559","OSNET Wireless",2
 "AS215761","Muhammed Fatih ASAN",2
-"AS215762","Bullet Group LTD",2
 "AS22611","InMotion Hosting, Inc.",2
 "AS22646","Hargray Communications Group, Inc.",2
 "AS23314","Summit Broadband",2
