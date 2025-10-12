@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87648
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21821
-"AS398324","Censys, Inc.",12242
-"AS396982","Google LLC",9959
+"AS398324","Censys, Inc.",12243
+"AS396982","Google LLC",9960
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7469
-"AS16276","OVH SAS",5709
+"AS16276","OVH SAS",5710
 "AS4134","Chinanet",4884
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4424
@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3519
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3166
-"AS51396","Pfcloud UG",3077
+"AS51396","Pfcloud UG",3078
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2629
 "AS142002","Scloud Pte Ltd",2531
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",1052
-"AS36352","HostPapa",978
+"AS36352","HostPapa",979
 "AS208684","BHA CONSEIL SARL",970
 "AS32475","Internap Holding LLC",963
 "AS51852","Private Layer INC",907
@@ -304,6 +304,7 @@ ASN,Organization,IP_Count
 "AS6167","Verizon Business",17
 "AS12479","Orange Espagne SA",16
 "AS204834","Shabakieh Isfahan Co PJSC",16
+"AS24757","EthioNet",16
 "AS25198","INTERKVM HOST SRL",16
 "AS46261","QuickPacket, LLC",16
 "AS6597","Coloblox Data Centers Inc",16
@@ -315,7 +316,6 @@ ASN,Organization,IP_Count
 "AS207713","GLOBAL INTERNET SOLUTIONS LLC",15
 "AS210509","Optimum Line for Internet Services Ltd.",15
 "AS211619","MAXKO d.o.o.",15
-"AS24757","EthioNet",15
 "AS263767","CORPORACIÓN GALA IT, C.A.",15
 "AS272547","Servicos de Infraestrutura e Datacenter",15
 "AS28201","Companhia Itabirana Telecomunicações Ltda",15
@@ -410,6 +410,7 @@ ASN,Organization,IP_Count
 "AS142032","High Family Technology Co., Limited",9
 "AS199414","Noah Kolossa",9
 "AS212504","AdKyNet SAS",9
+"AS212913","FOP Hornostay Mykhaylo Ivanovych",9
 "AS213520","Senko Digital Ltd",9
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",9
 "AS214481","Wojciech Czapkowicz",9
@@ -441,7 +442,6 @@ ASN,Organization,IP_Count
 "AS198361","Yaglom Labs Ltd",8
 "AS20011","Dimension Data",8
 "AS209956","Telkoturk Iletisim Hizmetleri A.S.",8
-"AS212913","FOP Hornostay Mykhaylo Ivanovych",8
 "AS24812","NPK Home-Net Ltd.",8
 "AS262459","Osirnet Info Telecom Ltda.",8
 "AS27967","Gobernacion de la Provincia de Buenos Aires",8
