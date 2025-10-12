@@ -6,7 +6,7 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",9957
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7462
-"AS16276","OVH SAS",5708
+"AS16276","OVH SAS",5709
 "AS4134","Chinanet",4883
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4424
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",1047
-"AS36352","HostPapa",972
+"AS36352","HostPapa",973
 "AS208684","BHA CONSEIL SARL",969
 "AS32475","Internap Holding LLC",957
 "AS51852","Private Layer INC",907
@@ -138,9 +138,9 @@ ASN,Organization,IP_Count
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
+"AS29066","velia.net Internetdienste GmbH",63
 "AS3920","ESTOXY OU",63
 "AS11320","LightEdge Solutions",62
-"AS29066","velia.net Internetdienste GmbH",62
 "AS8560","IONOS SE",62
 "AS140717","China Unicom",61
 "AS57588","Hayat for Internet & communication LLC",60
@@ -824,6 +824,7 @@ ASN,Organization,IP_Count
 "AS41743","OPTIMASET Ltd.",3
 "AS41750","Mega-Line Ltd.",3
 "AS4230","CLARO S.A.",3
+"AS42730","EVANZO e-commerce GmbH",3
 "AS42961","Mobile Telecommunications Company",3
 "AS43139","Maximum-Net LLC",3
 "AS43612","Company for communications services A1 Makedonija DOOEL Skopje",3
@@ -1151,7 +1152,6 @@ ASN,Organization,IP_Count
 "AS4213","Krypt Technologies",2
 "AS42610","PJSC Rostelecom",2
 "AS42683","JSC ""ER-Telecom Holding""",2
-"AS42730","EVANZO e-commerce GmbH",2
 "AS43047","Stream-Network Ltd.",2
 "AS43278","Castles LLC",2
 "AS43764","LLC ""Electron-sevlush""",2
