@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87649
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21828
-"AS398324","Censys, Inc.",12299
-"AS396982","Google LLC",9969
+"AS398324","Censys, Inc.",12301
+"AS396982","Google LLC",9970
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7496
+"AS14061","DigitalOcean, LLC",7497
 "AS16276","OVH SAS",5715
 "AS4134","Chinanet",4886
 "AS6568","Entel S.A. - EntelNet",4537
@@ -36,8 +36,8 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",1057
 "AS36352","HostPapa",986
+"AS32475","Internap Holding LLC",972
 "AS208684","BHA CONSEIL SARL",971
-"AS32475","Internap Holding LLC",970
 "AS51852","Private Layer INC",907
 "AS23470","ReliableSite.Net LLC",866
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -641,6 +641,7 @@ ASN,Organization,IP_Count
 "AS212042","Istqrar for Servers Services Ltd",4
 "AS212219","HOSTING DUNYAM BILISIM TEKNOLOJILERI TICARET LIMITED SIRKETI",4
 "AS215439","PLAY2GO INTERNATIONAL LIMITED",4
+"AS215762","Bullet Group LTD",4
 "AS22047","VTR BANDA ANCHA S.A.",4
 "AS22418","Cologuard",4
 "AS23674","Nayatel (Pvt) Ltd",4
@@ -767,7 +768,6 @@ ASN,Organization,IP_Count
 "AS213354","INTERNATIONAL HOSTING SOLUTIONS LLP",3
 "AS21499","Host Europe GmbH",3
 "AS21565","Horry Telephone Cooperative, Inc.",3
-"AS215762","Bullet Group LTD",3
 "AS22612","Namecheap, Inc.",3
 "AS23028","Team Cymru Inc.",3
 "AS23650","Chinanet Jiangsu",3
