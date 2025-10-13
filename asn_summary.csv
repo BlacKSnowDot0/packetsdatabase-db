@@ -17,7 +17,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3167
 "AS51396","Pfcloud UG",3080
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2633
+"AS8075","Microsoft Corporation",2634
 "AS142002","Scloud Pte Ltd",2534
 "AS6939","Hurricane Electric LLC",2358
 "AS9808","China Mobile",2074
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",1053
-"AS36352","HostPapa",982
+"AS36352","HostPapa",983
 "AS208684","BHA CONSEIL SARL",971
 "AS32475","Internap Holding LLC",963
 "AS51852","Private Layer INC",907
@@ -223,6 +223,7 @@ ASN,Organization,IP_Count
 "AS2200","Renater",26
 "AS3209","Vodafone GmbH",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
+"AS1103","SURF B.V.",24
 "AS17557","Pakistan Telecommuication company limited",24
 "AS18881","TELEFÔNICA BRASIL S.A",24
 "AS197540","netcup GmbH",24
@@ -231,7 +232,6 @@ ASN,Organization,IP_Count
 "AS3269","Telecom Italia S.p.A.",24
 "AS55933","Cloudie Limited",24
 "AS60068","Datacamp Limited",24
-"AS1103","SURF B.V.",23
 "AS17995","PT iForte Global Internet",23
 "AS198037","SPACECORE SOLUTION LTD",23
 "AS53118","NETLINE TELECOM",23
