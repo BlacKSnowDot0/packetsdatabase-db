@@ -2,22 +2,22 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87648
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21822
-"AS398324","Censys, Inc.",12251
+"AS398324","Censys, Inc.",12257
 "AS396982","Google LLC",9963
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7472
-"AS16276","OVH SAS",5710
-"AS4134","Chinanet",4884
+"AS14061","DigitalOcean, LLC",7473
+"AS16276","OVH SAS",5714
+"AS4134","Chinanet",4885
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4424
 "AS16509","Amazon.com, Inc.",3840
-"AS45102","Alibaba (US) Technology Co., Ltd.",3704
+"AS45102","Alibaba (US) Technology Co., Ltd.",3705
 "AS63949","Akamai Technologies, Inc.",3519
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3166
 "AS51396","Pfcloud UG",3079
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2629
+"AS8075","Microsoft Corporation",2630
 "AS142002","Scloud Pte Ltd",2531
 "AS6939","Hurricane Electric LLC",2354
 "AS9808","China Mobile",2074
@@ -35,8 +35,8 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",1053
-"AS36352","HostPapa",979
-"AS208684","BHA CONSEIL SARL",970
+"AS36352","HostPapa",980
+"AS208684","BHA CONSEIL SARL",971
 "AS32475","Internap Holding LLC",963
 "AS51852","Private Layer INC",907
 "AS23470","ReliableSite.Net LLC",861
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS9829","Bharat Sanchar Nigam Ltd",370
-"AS12876","ONLINE S.A.S.",360
+"AS12876","ONLINE S.A.S.",361
 "AS7018","AT&T Enterprises, LLC",353
 "AS21859","Zenlayer Inc",341
 "AS7922","Comcast Cable Communications, LLC",341
@@ -123,7 +123,7 @@ ASN,Organization,IP_Count
 "AS34984","Superonline Iletisim Hizmetleri A.S.",81
 "AS200019","ALEXHOST SRL",78
 "AS28209","Under Servicos de Internet Ltda",78
-"AS4766","Korea Telecom",77
+"AS4766","Korea Telecom",78
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
@@ -136,9 +136,9 @@ ASN,Organization,IP_Count
 "AS328867","Corebach Backbone SARL",67
 "AS40021","Nubes, LLC",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
+"AS29066","velia.net Internetdienste GmbH",65
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
-"AS29066","velia.net Internetdienste GmbH",64
 "AS3920","ESTOXY OU",63
 "AS8560","IONOS SE",63
 "AS11320","LightEdge Solutions",62
@@ -169,10 +169,10 @@ ASN,Organization,IP_Count
 "AS46844","Sharktech",44
 "AS152194","CTG Server Limited",43
 "AS210644","AEZA INTERNATIONAL LTD",43
+"AS23724","IDC, China Telecommunications Corporation",43
 "AS10796","Charter Communications Inc",42
 "AS20001","Charter Communications Inc",42
 "AS214497","Whitelabel Solutions, Ltd.",42
-"AS23724","IDC, China Telecommunications Corporation",42
 "AS149746","PT Blip Integrator Provider",41
 "AS21928","T-Mobile USA, Inc.",39
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",39
@@ -807,6 +807,7 @@ ASN,Organization,IP_Count
 "AS29894","South Central Rural Telecommunications Cooperative Inc.",3
 "AS30036","Mediacom Communications Corp",3
 "AS30041","Race Tech, LLC",3
+"AS30058","FDCservers.net",3
 "AS30404","Blue Stream",3
 "AS30689","FLOW",3
 "AS31208","PJSC MegaFon",3
@@ -1094,7 +1095,6 @@ ASN,Organization,IP_Count
 "AS28669","America-NET Ltda.",2
 "AS29222","Infomaniak Network SA",2
 "AS29456","PJSC Rostelecom",2
-"AS30058","FDCservers.net",2
 "AS30844","Liquid Telecommunications Ltd",2
 "AS30936","RENET COM Ltd.",2
 "AS31143","COSMOS TV JLLC",2
