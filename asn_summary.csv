@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87648
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21823
-"AS398324","Censys, Inc.",12264
-"AS396982","Google LLC",9964
+"AS398324","Censys, Inc.",12267
+"AS396982","Google LLC",9965
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7485
 "AS16276","OVH SAS",5714
@@ -188,6 +188,7 @@ ASN,Organization,IP_Count
 "AS4538","China Education and Research Network Center",35
 "AS6128","Cablevision Systems Corp.",35
 "AS34665","Petersburg Internet Network ltd.",34
+"AS45090","Shenzhen Tencent Computer Systems Company Limited",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9198","JSC Kazakhtelecom",33
 "AS9498","Bharti Airtel Limited",33
@@ -196,7 +197,6 @@ ASN,Organization,IP_Count
 "AS30083","velia.net",32
 "AS30633","Leaseweb USA, Inc.",32
 "AS42624","Global-Data System IT Corporation",32
-"AS45090","Shenzhen Tencent Computer Systems Company Limited",32
 "AS55990","Huawei Cloud Service data center",32
 "AS8167","V tal",32
 "AS1680","Cellcom Fixed Line Communication L.P",31
