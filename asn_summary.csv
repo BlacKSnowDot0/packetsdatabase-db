@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87648
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21826
-"AS398324","Censys, Inc.",12270
+"AS398324","Censys, Inc.",12272
 "AS396982","Google LLC",9967
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7489
@@ -17,7 +17,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3166
 "AS51396","Pfcloud UG",3080
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2632
+"AS8075","Microsoft Corporation",2633
 "AS142002","Scloud Pte Ltd",2534
 "AS6939","Hurricane Electric LLC",2356
 "AS9808","China Mobile",2074
@@ -49,9 +49,9 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",602
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS10439","CariNet, Inc.",585
+"AS51167","Contabo GmbH",559
 "AS14618","Amazon.com, Inc.",558
 "AS31148","Freenet LTD",558
-"AS51167","Contabo GmbH",557
 "AS401120","cheapy.host LLC",532
 "AS9009","M247 Europe SRL",532
 "AS198953","Proton66 OOO",527
@@ -86,8 +86,8 @@ ASN,Organization,IP_Count
 "AS8151","Uninet S.A. de C.V.",245
 "AS209272","Alviva Holding Limited",230
 "AS13335","Cloudflare, Inc.",225
+"AS208843","Alpha Strike Labs GmbH",223
 "AS213613","BOTSHIELD LTD",223
-"AS208843","Alpha Strike Labs GmbH",222
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS141718","haoxiangyun",194
@@ -156,7 +156,7 @@ ASN,Organization,IP_Count
 "AS215590","DpkgSoft International Limited",55
 "AS55720","Gigabit Hosting Sdn Bhd",55
 "AS150263","PT Alnet Telekomunikasi Indonesia",54
-"AS44382","Fiba Cloud Operation Company, LLC",53
+"AS44382","Fiba Cloud Operation Company, LLC",54
 "AS8402","PJSC ""Vimpelcom""",53
 "AS213877","u1host ltd",51
 "AS20115","Charter Communications",48
