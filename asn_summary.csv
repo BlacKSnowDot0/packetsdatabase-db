@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",12267
 "AS396982","Google LLC",9965
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7485
+"AS14061","DigitalOcean, LLC",7487
 "AS16276","OVH SAS",5714
 "AS4134","Chinanet",4885
 "AS6568","Entel S.A. - EntelNet",4537
@@ -17,7 +17,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3166
 "AS51396","Pfcloud UG",3080
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2631
+"AS8075","Microsoft Corporation",2632
 "AS142002","Scloud Pte Ltd",2534
 "AS6939","Hurricane Electric LLC",2355
 "AS9808","China Mobile",2074
@@ -55,7 +55,7 @@ ASN,Organization,IP_Count
 "AS401120","cheapy.host LLC",532
 "AS9009","M247 Europe SRL",532
 "AS198953","Proton66 OOO",527
-"AS4837","CHINA UNICOM China169 Backbone",517
+"AS4837","CHINA UNICOM China169 Backbone",518
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
 "AS201814","MEVSPACE sp. z o.o.",483
@@ -78,7 +78,7 @@ ASN,Organization,IP_Count
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",289
 "AS45899","VNPT Corp",287
 "AS9341","PT Indonesia Comnets Plus",285
-"AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",279
+"AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",280
 "AS7713","Telekomunikasi Indonesia (PT)",276
 "AS47890","UNMANAGED LTD",268
 "AS48090","TECHOFF SRV LIMITED",254
@@ -87,8 +87,8 @@ ASN,Organization,IP_Count
 "AS209272","Alviva Holding Limited",230
 "AS13335","Cloudflare, Inc.",225
 "AS213613","BOTSHIELD LTD",223
+"AS208843","Alpha Strike Labs GmbH",222
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
-"AS208843","Alpha Strike Labs GmbH",221
 "AS14987","Rethem Hosting LLC",215
 "AS141718","haoxiangyun",194
 "AS701","Verizon Business",186
@@ -372,6 +372,7 @@ ASN,Organization,IP_Count
 "AS206804","EstNOC OY",11
 "AS2116","GLOBALCONNECT AS",11
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
+"AS271597","NEW LINK CONNECT",11
 "AS27947","Telconet S.A",11
 "AS38264","Wateen Telecom Limited",11
 "AS39351","31173 Services AB",11
@@ -395,7 +396,6 @@ ASN,Organization,IP_Count
 "AS24547","China Mobile",10
 "AS24835","Vodafone Data - Egypt",10
 "AS264628","CORPORACION FIBEX TELECOM, C.A.",10
-"AS271597","NEW LINK CONNECT",10
 "AS37105","RAIN GROUP HOLDINGS (PTY) LTD",10
 "AS37705","TOPNET",10
 "AS41420","Xentech B.V.",10
