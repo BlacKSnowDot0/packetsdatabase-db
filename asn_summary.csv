@@ -2,16 +2,16 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87648
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21827
-"AS398324","Censys, Inc.",12278
+"AS398324","Censys, Inc.",12279
 "AS396982","Google LLC",9967
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7490
+"AS14061","DigitalOcean, LLC",7492
 "AS16276","OVH SAS",5715
 "AS4134","Chinanet",4886
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4424
 "AS16509","Amazon.com, Inc.",3840
-"AS45102","Alibaba (US) Technology Co., Ltd.",3706
+"AS45102","Alibaba (US) Technology Co., Ltd.",3707
 "AS63949","Akamai Technologies, Inc.",3519
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3167
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS0","",1426
 "AS398722","Censys, Inc.",1360
 "AS215269","LAZYCLOUD LTD",1312
-"AS49870","Alsycon B.V.",1255
+"AS49870","Alsycon B.V.",1256
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1166
 "AS399045","DediOutlet, LLC",1142
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",804
 "AS215925","VPSVAULT.HOST LTD",789
 "AS211680","NSEC - Sistemas Informaticos, S.A.",705
-"AS20052","Arbor Networks, Inc.",603
+"AS20052","Arbor Networks, Inc.",604
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS10439","CariNet, Inc.",586
 "AS51167","Contabo GmbH",559
@@ -62,11 +62,11 @@ ASN,Organization,IP_Count
 "AS3462","Chunghwa Telecom Co., Ltd.",462
 "AS212238","Datacamp Limited",454
 "AS51115","HLL LLC",424
-"AS53667","FranTech Solutions",413
+"AS53667","FranTech Solutions",414
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS9829","Bharat Sanchar Nigam Ltd",371
+"AS9829","Bharat Sanchar Nigam Ltd",372
 "AS12876","ONLINE S.A.S.",363
 "AS7018","AT&T Enterprises, LLC",355
 "AS21859","Zenlayer Inc",341
@@ -223,11 +223,11 @@ ASN,Organization,IP_Count
 "AS2200","Renater",26
 "AS3209","Vodafone GmbH",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
+"AS200514","KnownSRV Ltd.",25
 "AS1103","SURF B.V.",24
 "AS17557","Pakistan Telecommuication company limited",24
 "AS18881","TELEFÔNICA BRASIL S.A",24
 "AS197540","netcup GmbH",24
-"AS200514","KnownSRV Ltd.",24
 "AS209","CenturyLink Communications, LLC",24
 "AS3269","Telecom Italia S.p.A.",24
 "AS55933","Cloudie Limited",24
