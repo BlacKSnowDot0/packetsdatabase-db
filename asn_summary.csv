@@ -2,14 +2,14 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87649
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21828
-"AS398324","Censys, Inc.",12284
+"AS398324","Censys, Inc.",12285
 "AS396982","Google LLC",9967
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7496
 "AS16276","OVH SAS",5715
 "AS4134","Chinanet",4886
 "AS6568","Entel S.A. - EntelNet",4537
-"AS58466","CHINANET Guangdong province network",4424
+"AS58466","CHINANET Guangdong province network",4425
 "AS16509","Amazon.com, Inc.",3840
 "AS45102","Alibaba (US) Technology Co., Ltd.",3708
 "AS63949","Akamai Technologies, Inc.",3519
@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1056
 "AS36352","HostPapa",985
 "AS208684","BHA CONSEIL SARL",971
-"AS32475","Internap Holding LLC",965
+"AS32475","Internap Holding LLC",966
 "AS51852","Private Layer INC",907
 "AS23470","ReliableSite.Net LLC",866
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -1113,6 +1113,7 @@ ASN,Organization,IP_Count
 "AS328539","Giga for Telecommunication and Technology Limited",2
 "AS328961","NET99 (PTY) LTD",2
 "AS3303","Swisscom (Schweiz) AG",2
+"AS33070","Rackspace Hosting",2
 "AS3326","PRIVATE JOINT STOCK COMPANY ""DATAGROUP""",2
 "AS33567","Econet Telecom Lesotho (PTY) LTD",2
 "AS33616","Co-Mo Comm Inc",2
@@ -2180,7 +2181,6 @@ ASN,Organization,IP_Count
 "AS329360","iiNet Connect Pty Ltd",1
 "AS329387","Skylink Networks LTD",1
 "AS3302","Retelit Digital Services S.p.A.",1
-"AS33070","Rackspace Hosting",1
 "AS33182","HostDime.com, Inc.",1
 "AS33387","Nocix, LLC",1
 "AS33541","Cable Cable Inc",1
