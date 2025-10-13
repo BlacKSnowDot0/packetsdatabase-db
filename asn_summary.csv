@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87649
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21828
-"AS398324","Censys, Inc.",12291
+"AS398324","Censys, Inc.",12294
 "AS396982","Google LLC",9968
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7496
@@ -34,8 +34,8 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
-"AS174","Cogent Communications",1056
-"AS36352","HostPapa",985
+"AS174","Cogent Communications",1057
+"AS36352","HostPapa",986
 "AS208684","BHA CONSEIL SARL",971
 "AS32475","Internap Holding LLC",969
 "AS51852","Private Layer INC",907
@@ -52,8 +52,8 @@ ASN,Organization,IP_Count
 "AS51167","Contabo GmbH",559
 "AS14618","Amazon.com, Inc.",558
 "AS31148","Freenet LTD",558
+"AS9009","M247 Europe SRL",533
 "AS401120","cheapy.host LLC",532
-"AS9009","M247 Europe SRL",532
 "AS198953","Proton66 OOO",527
 "AS4837","CHINA UNICOM China169 Backbone",519
 "AS140292","China Telecom",509
@@ -133,10 +133,10 @@ ASN,Organization,IP_Count
 "AS271795","SERVITELCONET CIA. LTDA.",69
 "AS52053","REDHEBERG Association declaree",69
 "AS136435","ELITE COMMUNICATION",68
+"AS29066","velia.net Internetdienste GmbH",67
 "AS328867","Corebach Backbone SARL",67
 "AS40021","Nubes, LLC",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
-"AS29066","velia.net Internetdienste GmbH",66
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS3920","ESTOXY OU",63
@@ -857,6 +857,7 @@ ASN,Organization,IP_Count
 "AS58118","SC ADINET-Com SRL",3
 "AS6057","Administracion Nacional de Telecomunicaciones",3
 "AS61908","Nova Net Telecomunicações Ltda",3
+"AS63139","BEDGE CO LIMITED",3
 "AS6821","Makedonski Telekom AD-Skopje",3
 "AS6848","Telenet BV",3
 "AS7545","TPG Internet Pty Ltd",3
@@ -1242,7 +1243,6 @@ ASN,Organization,IP_Count
 "AS61877","SELECT TELECOM E REDES LTDA",2
 "AS61937","Oquei Telecom Ltda EPP",2
 "AS61942","TURBONET TELECOM LTDA",2
-"AS63139","BEDGE CO LIMITED",2
 "AS63508","PT DINAMIKA MEDIAKOM",2
 "AS64074","Alpha Broadway System",2
 "AS6580","Golden West Telecommunications Coop., Inc.",2
