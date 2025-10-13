@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87648
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21823
-"AS398324","Censys, Inc.",12263
+"AS398324","Censys, Inc.",12264
 "AS396982","Google LLC",9964
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7485
@@ -39,7 +39,7 @@ ASN,Organization,IP_Count
 "AS208684","BHA CONSEIL SARL",971
 "AS32475","Internap Holding LLC",963
 "AS51852","Private Layer INC",907
-"AS23470","ReliableSite.Net LLC",864
+"AS23470","ReliableSite.Net LLC",865
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",815
@@ -402,6 +402,7 @@ ASN,Organization,IP_Count
 "AS44901","Belcloud LTD",10
 "AS49434","FBW NETWORKS SAS",10
 "AS52468","UFINET PANAMA S.A.",10
+"AS56067","Metrabyte Co.,Ltd",10
 "AS57269","DIGI SPAIN TELECOM S.L.U.",10
 "AS60781","LeaseWeb Netherlands B.V.",10
 "AS9930","TT DOTCOM SDN BHD",10
@@ -422,7 +423,6 @@ ASN,Organization,IP_Count
 "AS40244","Turnkey Internet Inc.",9
 "AS4847","China Networks Inter-Exchange",9
 "AS48874","HOSTMAZE INC SRL-D",9
-"AS56067","Metrabyte Co.,Ltd",9
 "AS5617","Orange Polska Spolka Akcyjna",9
 "AS6327","Shaw Communications Inc.",9
 "AS8400","TELEKOM SRBIJA a.d.",9
@@ -702,6 +702,7 @@ ASN,Organization,IP_Count
 "AS9260","Multinet Broadband",4
 "AS9335","CAT Telecom Public Company Limited",4
 "AS9416","Hoshin Multimedia Center Inc.",4
+"AS979","NetLab Global",4
 "AS10001","Mics Network Corporation",3
 "AS10029","SHYAM SPECTRA PVT LTD",3
 "AS1101","SURF B.V.",3
@@ -863,7 +864,6 @@ ASN,Organization,IP_Count
 "AS786","Jisc Services Limited",3
 "AS9329","Sri Lanka Telecom Ltd",3
 "AS9674","Far EastTone Telecommunication Co., Ltd.",3
-"AS979","NetLab Global",3
 "AS10030","Celcom Axiata Berhad",2
 "AS10036","DLIVE",2
 "AS10066","LG HelloVision Corp.",2
