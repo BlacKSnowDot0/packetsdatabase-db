@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1056
 "AS36352","HostPapa",985
 "AS208684","BHA CONSEIL SARL",971
-"AS32475","Internap Holding LLC",963
+"AS32475","Internap Holding LLC",964
 "AS51852","Private Layer INC",907
 "AS23470","ReliableSite.Net LLC",866
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -621,6 +621,7 @@ ASN,Organization,IP_Count
 "AS138089","PT.Global Media Data Prima",4
 "AS14080","Telmex Colombia S.A.",4
 "AS14117","Telefonica del Sur S.A.",4
+"AS141433","Netcom Internet Service",4
 "AS141862","AL HUTAIB NETSOL PRIVATE LIMITED",4
 "AS14754","Telgua",4
 "AS14868","Ligga Telecomunicações S.A.",4
@@ -734,7 +735,6 @@ ASN,Organization,IP_Count
 "AS140210","ConnectX",3
 "AS140607","Sign In (PVT) LTD",3
 "AS140791","BKHOST TECHNOLOGY VIETNAM JOINT STOCK COMPANY",3
-"AS141433","Netcom Internet Service",3
 "AS141607","PT Gayatri Lintas Nusantara",3
 "AS142036","Hosteons Pte. Ltd.",3
 "AS142468","VANSHIKA ITLAM INDIA PVT LTD",3
@@ -1638,6 +1638,7 @@ ASN,Organization,IP_Count
 "AS212463","FOP Polischyk O.V",1
 "AS212531","UAB ""Interneto vizija""",1
 "AS212555","Remicro Kft.",1
+"AS212598","SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.",1
 "AS212616","K.M.A ADVANCED TECHNOLOGIES LTD",1
 "AS21283","A1 Slovenija telekomunikacijske storitve,d.d.",1
 "AS213250","Dominic Scholz trading as ITP-Solutions GmbH & Co. KG",1
