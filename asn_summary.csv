@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87649
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21828
-"AS398324","Censys, Inc.",12287
+"AS398324","Censys, Inc.",12289
 "AS396982","Google LLC",9967
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7496
@@ -11,8 +11,8 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4425
 "AS16509","Amazon.com, Inc.",3840
-"AS45102","Alibaba (US) Technology Co., Ltd.",3708
-"AS63949","Akamai Technologies, Inc.",3519
+"AS45102","Alibaba (US) Technology Co., Ltd.",3709
+"AS63949","Akamai Technologies, Inc.",3520
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3167
 "AS51396","Pfcloud UG",3081
@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1056
 "AS36352","HostPapa",985
 "AS208684","BHA CONSEIL SARL",971
-"AS32475","Internap Holding LLC",966
+"AS32475","Internap Holding LLC",969
 "AS51852","Private Layer INC",907
 "AS23470","ReliableSite.Net LLC",866
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -61,7 +61,7 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",483
 "AS3462","Chunghwa Telecom Co., Ltd.",462
 "AS212238","Datacamp Limited",454
-"AS51115","HLL LLC",425
+"AS51115","HLL LLC",426
 "AS53667","FranTech Solutions",414
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
