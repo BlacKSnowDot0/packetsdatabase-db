@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87648
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
-"AS211298","Driftnet Ltd",21822
-"AS398324","Censys, Inc.",12257
+"AS211298","Driftnet Ltd",21823
+"AS398324","Censys, Inc.",12260
 "AS396982","Google LLC",9963
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7473
+"AS14061","DigitalOcean, LLC",7474
 "AS16276","OVH SAS",5714
 "AS4134","Chinanet",4885
 "AS6568","Entel S.A. - EntelNet",4537
@@ -15,17 +15,17 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3519
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3166
-"AS51396","Pfcloud UG",3079
+"AS51396","Pfcloud UG",3080
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2630
+"AS8075","Microsoft Corporation",2631
 "AS142002","Scloud Pte Ltd",2531
-"AS6939","Hurricane Electric LLC",2354
+"AS6939","Hurricane Electric LLC",2355
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1693
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1499
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS0","",1425
+"AS0","",1426
 "AS398722","Censys, Inc.",1360
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1255
@@ -39,7 +39,7 @@ ASN,Organization,IP_Count
 "AS208684","BHA CONSEIL SARL",971
 "AS32475","Internap Holding LLC",963
 "AS51852","Private Layer INC",907
-"AS23470","ReliableSite.Net LLC",861
+"AS23470","ReliableSite.Net LLC",863
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",815
@@ -48,7 +48,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",705
 "AS20052","Arbor Networks, Inc.",600
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS10439","CariNet, Inc.",584
+"AS10439","CariNet, Inc.",585
 "AS14618","Amazon.com, Inc.",558
 "AS31148","Freenet LTD",558
 "AS51167","Contabo GmbH",557
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS9829","Bharat Sanchar Nigam Ltd",370
-"AS12876","ONLINE S.A.S.",361
+"AS12876","ONLINE S.A.S.",363
 "AS7018","AT&T Enterprises, LLC",353
 "AS21859","Zenlayer Inc",341
 "AS7922","Comcast Cable Communications, LLC",341
