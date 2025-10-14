@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87651
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21830
-"AS398324","Censys, Inc.",12344
+"AS398324","Censys, Inc.",12345
 "AS396982","Google LLC",9976
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7516
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1500
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS0","",1427
-"AS398722","Censys, Inc.",1360
+"AS398722","Censys, Inc.",1361
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1258
 "AS204428","SS-Net",1182
@@ -39,12 +39,12 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",981
 "AS208684","BHA CONSEIL SARL",971
 "AS51852","Private Layer INC",907
-"AS23470","ReliableSite.Net LLC",867
+"AS23470","ReliableSite.Net LLC",868
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",815
 "AS8452","TE-AS",804
-"AS215925","VPSVAULT.HOST LTD",790
+"AS215925","VPSVAULT.HOST LTD",791
 "AS211680","NSEC - Sistemas Informaticos, S.A.",705
 "AS20052","Arbor Networks, Inc.",605
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS51167","Contabo GmbH",563
 "AS14618","Amazon.com, Inc.",560
 "AS31148","Freenet LTD",558
-"AS9009","M247 Europe SRL",533
+"AS9009","M247 Europe SRL",534
 "AS401120","cheapy.host LLC",532
 "AS198953","Proton66 OOO",527
 "AS4837","CHINA UNICOM China169 Backbone",521
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS9829","Bharat Sanchar Nigam Ltd",374
-"AS12876","ONLINE S.A.S.",371
+"AS12876","ONLINE S.A.S.",372
 "AS7018","AT&T Enterprises, LLC",355
 "AS7922","Comcast Cable Communications, LLC",342
 "AS21859","Zenlayer Inc",341
