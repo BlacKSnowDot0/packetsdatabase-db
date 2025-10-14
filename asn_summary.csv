@@ -3,7 +3,7 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21830
 "AS398324","Censys, Inc.",12345
-"AS396982","Google LLC",9976
+"AS396982","Google LLC",9977
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7516
 "AS16276","OVH SAS",5717
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1500
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS0","",1427
+"AS0","",1428
 "AS398722","Censys, Inc.",1361
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1258
@@ -36,10 +36,10 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",1059
 "AS36352","HostPapa",993
-"AS32475","Internap Holding LLC",981
+"AS32475","Internap Holding LLC",984
 "AS208684","BHA CONSEIL SARL",971
 "AS51852","Private Layer INC",907
-"AS23470","ReliableSite.Net LLC",868
+"AS23470","ReliableSite.Net LLC",881
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",815
