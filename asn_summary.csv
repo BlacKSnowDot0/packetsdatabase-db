@@ -2,14 +2,14 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87649
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21828
-"AS398324","Censys, Inc.",12308
+"AS398324","Censys, Inc.",12310
 "AS396982","Google LLC",9970
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7499
+"AS14061","DigitalOcean, LLC",7500
 "AS16276","OVH SAS",5715
 "AS4134","Chinanet",4886
 "AS6568","Entel S.A. - EntelNet",4537
-"AS58466","CHINANET Guangdong province network",4425
+"AS58466","CHINANET Guangdong province network",4426
 "AS16509","Amazon.com, Inc.",3841
 "AS45102","Alibaba (US) Technology Co., Ltd.",3710
 "AS63949","Akamai Technologies, Inc.",3520
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",1058
-"AS36352","HostPapa",987
+"AS36352","HostPapa",988
 "AS32475","Internap Holding LLC",975
 "AS208684","BHA CONSEIL SARL",971
 "AS51852","Private Layer INC",907
@@ -55,7 +55,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",533
 "AS401120","cheapy.host LLC",532
 "AS198953","Proton66 OOO",527
-"AS4837","CHINA UNICOM China169 Backbone",519
+"AS4837","CHINA UNICOM China169 Backbone",520
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
 "AS201814","MEVSPACE sp. z o.o.",483
@@ -119,8 +119,8 @@ ASN,Organization,IP_Count
 "AS151185","China Telecom",88
 "AS58461","Chinanet",85
 "AS205352","KABELNET LTD",84
+"AS34984","Superonline Iletisim Hizmetleri A.S.",82
 "AS16735","ALGAR TELECOM S/A",81
-"AS34984","Superonline Iletisim Hizmetleri A.S.",81
 "AS200019","ALEXHOST SRL",78
 "AS28209","Under Servicos de Internet Ltda",78
 "AS4766","Korea Telecom",78
@@ -499,6 +499,7 @@ ASN,Organization,IP_Count
 "AS149078","VPSMMO TECHNOLOGY COMPANY LIMITED",6
 "AS16611","InfiniaHost.com",6
 "AS17754","Excellmedia",6
+"AS200590","NLS Kazakhstan LLC",6
 "AS203020","HostRoyale Technologies Pvt Ltd",6
 "AS210538","KEYUBU Internet ve Bilisim Tic. Ltd. Sti.",6
 "AS21056","Vianova S.p.A",6
@@ -549,6 +550,7 @@ ASN,Organization,IP_Count
 "AS135357","HONG KONG KOWLOON TELECOMMUNICATIONS CO.,LIMITED",5
 "AS135953","Vietnam Online Network Solution Joint Stock Compnay",5
 "AS136188","NINGBO, ZHEJIANG Province, P.R.China.",5
+"AS141433","Netcom Internet Service",5
 "AS15108","Allo Communications LLC",5
 "AS151858","INTERDIGI JOINT STOCK COMPANY",5
 "AS16058","Gabon Telecom Internet Network Autonomous System",5
@@ -556,7 +558,6 @@ ASN,Organization,IP_Count
 "AS18049","Taiwan Infrastructure Network Technologie",5
 "AS18229","CtrlS",5
 "AS198983","Joseph Hofmann trading as 'Tornado Datacenter GmbH & Co. KG'",5
-"AS200590","NLS Kazakhstan LLC",5
 "AS202468","Noyan Abr Arvan Co. ( Private Joint Stock)",5
 "AS20412","Clarity Telecom LLC",5
 "AS207656","Epinatura LLC",5
@@ -622,7 +623,6 @@ ASN,Organization,IP_Count
 "AS138089","PT.Global Media Data Prima",4
 "AS14080","Telmex Colombia S.A.",4
 "AS14117","Telefonica del Sur S.A.",4
-"AS141433","Netcom Internet Service",4
 "AS141862","AL HUTAIB NETSOL PRIVATE LIMITED",4
 "AS14754","Telgua",4
 "AS14868","Ligga Telecomunicações S.A.",4
