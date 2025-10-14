@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87651
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
-"AS211298","Driftnet Ltd",21828
-"AS398324","Censys, Inc.",12320
+"AS211298","Driftnet Ltd",21829
+"AS398324","Censys, Inc.",12323
 "AS396982","Google LLC",9971
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7503
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",1058
-"AS36352","HostPapa",990
+"AS36352","HostPapa",991
 "AS32475","Internap Holding LLC",975
 "AS208684","BHA CONSEIL SARL",971
 "AS51852","Private Layer INC",907
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",605
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS10439","CariNet, Inc.",588
-"AS51167","Contabo GmbH",560
+"AS51167","Contabo GmbH",561
 "AS14618","Amazon.com, Inc.",558
 "AS31148","Freenet LTD",558
 "AS9009","M247 Europe SRL",533
@@ -97,7 +97,7 @@ ASN,Organization,IP_Count
 "AS401116","Nybula LLC",170
 "AS63199","CDS Global Cloud Co., Ltd",170
 "AS18403","FPT Telecom Company",164
-"AS29484","Ruhr-Universitaet Bochum",154
+"AS29484","Ruhr-Universitaet Bochum",155
 "AS206264","Amarutu Technology Ltd",153
 "AS47105","Vault Dweller OU",141
 "AS137409","GSL Networks Pty LTD",128
