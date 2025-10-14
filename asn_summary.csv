@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87651
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21830
-"AS398324","Censys, Inc.",12342
+"AS398324","Censys, Inc.",12343
 "AS396982","Google LLC",9976
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7509
+"AS14061","DigitalOcean, LLC",7515
 "AS16276","OVH SAS",5717
 "AS4134","Chinanet",4891
 "AS6568","Entel S.A. - EntelNet",4537
@@ -74,7 +74,7 @@ ASN,Organization,IP_Count
 "AS214943","Railnet LLC",314
 "AS24863","LINKdotNET AS number",307
 "AS210848","Telkom Internet LTD",296
-"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",292
+"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",293
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",292
 "AS45899","VNPT Corp",287
 "AS9341","PT Indonesia Comnets Plus",285
@@ -148,10 +148,10 @@ ASN,Organization,IP_Count
 "AS4812","China Telecom (Group)",58
 "AS49544","i3D.net B.V",58
 "AS20278","Nexeon Technologies, Inc.",57
+"AS150263","PT Alnet Telekomunikasi Indonesia",56
 "AS22773","Cox Communications Inc.",56
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",56
 "AS48090","PPTECHNOLOGY LIMITED",56
-"AS150263","PT Alnet Telekomunikasi Indonesia",55
 "AS18345","Servers Australia Pty. Ltd",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
 "AS215590","DpkgSoft International Limited",55
@@ -2140,6 +2140,7 @@ ASN,Organization,IP_Count
 "AS29744","United Telephone Mutual Aid Corporation",1
 "AS29968","Dunkirk & Fredonia Telephone Company",1
 "AS30848","TWT S.p.A.",1
+"AS30860","Virtual Systems LLC",1
 "AS30985","IKATEL SA",1
 "AS30992","MTN Network Solutions (Cameroon)",1
 "AS31012","A1 Hrvatska d.o.o.",1
