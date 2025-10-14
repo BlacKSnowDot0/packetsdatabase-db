@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87651
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21829
-"AS398324","Censys, Inc.",12325
+"AS398324","Censys, Inc.",12326
 "AS396982","Google LLC",9974
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7505
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",1058
-"AS36352","HostPapa",992
+"AS36352","HostPapa",993
 "AS32475","Internap Holding LLC",975
 "AS208684","BHA CONSEIL SARL",971
 "AS51852","Private Layer INC",907
@@ -85,8 +85,8 @@ ASN,Organization,IP_Count
 "AS60223","Netiface Limited",250
 "AS8151","Uninet S.A. de C.V.",245
 "AS209272","Alviva Holding Limited",230
+"AS213613","BOTSHIELD LTD",226
 "AS13335","Cloudflare, Inc.",225
-"AS213613","BOTSHIELD LTD",225
 "AS208843","Alpha Strike Labs GmbH",224
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
@@ -428,6 +428,7 @@ ASN,Organization,IP_Count
 "AS8400","TELEKOM SRBIJA a.d.",9
 "AS8708","RCS & RDS SA",9
 "AS8796","FD-298-8796",9
+"AS9770","LG HelloVision Corp.",9
 "AS133481","ADVANCED WIRELESS NETWORK COMPANY LIMITED",8
 "AS135918","VIET DIGITAL TECHNOLOGY LIABILITY COMPANY",8
 "AS137718","Beijing Volcano Engine Technology Co., Ltd.",8
@@ -454,7 +455,6 @@ ASN,Organization,IP_Count
 "AS6698","Virtual Systems LLC",8
 "AS6849","JSC ""Ukrtelecom""",8
 "AS9038","Batelco Jordan",8
-"AS9770","LG HelloVision Corp.",8
 "AS12353","Vodafone Portugal - Communicacoes Pessoais S.A.",7
 "AS133661","Netplus Broadband Services Private Limited",7
 "AS133982","Excitel Broadband Private Limited",7
