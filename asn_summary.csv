@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4427
 "AS16509","Amazon.com, Inc.",3841
-"AS45102","Alibaba (US) Technology Co., Ltd.",3714
+"AS45102","Alibaba (US) Technology Co., Ltd.",3715
 "AS63949","Akamai Technologies, Inc.",3520
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3167
@@ -174,7 +174,7 @@ ASN,Organization,IP_Count
 "AS20001","Charter Communications Inc",42
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS149746","PT Blip Integrator Provider",41
-"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",40
+"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",41
 "AS21928","T-Mobile USA, Inc.",39
 "AS27699","TELEFÔNICA BRASIL S.A",39
 "AS12816","Leibniz-Rechenzentrum",38
@@ -1879,6 +1879,7 @@ ASN,Organization,IP_Count
 "AS265974","America-NET Ltda.",1
 "AS265978","WM TELECOM",1
 "AS265989","NETS TELECOMUNICACOES LTDA",1
+"AS266015","JC2000 Telecomunicações Ltda",1
 "AS266020","Iclick Telecom",1
 "AS266044","Nicnet Telecom Ltda.",1
 "AS266095","SIM TELECOM EIRELI",1
