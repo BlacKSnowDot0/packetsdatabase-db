@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87651
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21829
-"AS398324","Censys, Inc.",12327
+"AS398324","Censys, Inc.",12329
 "AS396982","Google LLC",9974
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7505
@@ -17,7 +17,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3167
 "AS51396","Pfcloud UG",3082
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2635
+"AS8075","Microsoft Corporation",2636
 "AS142002","Scloud Pte Ltd",2534
 "AS6939","Hurricane Electric LLC",2362
 "AS9808","China Mobile",2074
@@ -250,6 +250,7 @@ ASN,Organization,IP_Count
 "AS7303","Telecom Argentina S.A.",22
 "AS9123","TimeWeb Ltd.",22
 "AS12322","Free SAS",21
+"AS132203","Shenzhen Tencent Computer Systems Company Limited",21
 "AS17561","Larus Limited",21
 "AS17816","China Unicom IP network China169 Guangdong province",21
 "AS214668","AxusHost B.V.",21
@@ -257,7 +258,6 @@ ASN,Organization,IP_Count
 "AS4800","PT Aplikanusa Lintasarta",21
 "AS50887","DC FIBER HOME SRL",21
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",21
-"AS132203","Shenzhen Tencent Computer Systems Company Limited",20
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
