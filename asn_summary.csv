@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87649
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21828
-"AS398324","Censys, Inc.",12313
+"AS398324","Censys, Inc.",12314
 "AS396982","Google LLC",9971
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7502
@@ -58,11 +58,11 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",520
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
-"AS201814","MEVSPACE sp. z o.o.",483
+"AS201814","MEVSPACE sp. z o.o.",484
 "AS3462","Chunghwa Telecom Co., Ltd.",462
 "AS212238","Datacamp Limited",454
 "AS51115","HLL LLC",428
-"AS53667","FranTech Solutions",415
+"AS53667","FranTech Solutions",416
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -382,6 +382,7 @@ ASN,Organization,IP_Count
 "AS46375","Sonic Telecom LLC",11
 "AS48753","AVA HOST SRL",11
 "AS48925","VibeGAMES B.V.",11
+"AS56067","Metrabyte Co.,Ltd",11
 "AS58563","CHINANET Hubei province network",11
 "AS8193","""Uzbektelekom"" Joint Stock Company",11
 "AS12912","T-Mobile Polska S.A.",10
@@ -403,7 +404,6 @@ ASN,Organization,IP_Count
 "AS44901","Belcloud LTD",10
 "AS49434","FBW NETWORKS SAS",10
 "AS52468","UFINET PANAMA S.A.",10
-"AS56067","Metrabyte Co.,Ltd",10
 "AS57269","DIGI SPAIN TELECOM S.L.U.",10
 "AS60781","LeaseWeb Netherlands B.V.",10
 "AS9930","TT DOTCOM SDN BHD",10
