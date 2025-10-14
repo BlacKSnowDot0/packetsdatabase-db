@@ -3,7 +3,7 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21829
 "AS398324","Censys, Inc.",12336
-"AS396982","Google LLC",9975
+"AS396982","Google LLC",9976
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7505
 "AS16276","OVH SAS",5717
@@ -74,8 +74,8 @@ ASN,Organization,IP_Count
 "AS214943","Railnet LLC",314
 "AS24863","LINKdotNET AS number",307
 "AS210848","Telkom Internet LTD",296
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",292
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",291
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",291
 "AS45899","VNPT Corp",287
 "AS9341","PT Indonesia Comnets Plus",285
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",280
@@ -110,7 +110,7 @@ ASN,Organization,IP_Count
 "AS50219","LNK SYSTEMS MUNTENIA SRL",114
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
-"AS14956","RouterHosting LLC",106
+"AS14956","RouterHosting LLC",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",99
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",99
 "AS63018","Dedicated.com",92
@@ -507,6 +507,7 @@ ASN,Organization,IP_Count
 "AS21056","Vianova S.p.A",6
 "AS211507","Julian Achter",6
 "AS212374","Virtuozzo International GmbH",6
+"AS213893","IPTransit Business LTD",6
 "AS214762","Sebastian Stefanek trading as MatHost.eu",6
 "AS216158","Teleport Rus LLC",6
 "AS216300","Closed Joint Stock Company ""AbkhazMedia""",6
@@ -563,7 +564,6 @@ ASN,Organization,IP_Count
 "AS207656","Epinatura LLC",5
 "AS21246","IPKO Telecommunications LLC",5
 "AS213851","Marcel Hanisch",5
-"AS213893","IPTransit Business LTD",5
 "AS214209","Internet Magnate (Pty) Ltd",5
 "AS215311","Regxa Company for Information Technology Ltd",5
 "AS215730","H2NEXUS LTD",5
@@ -988,6 +988,7 @@ ASN,Organization,IP_Count
 "AS211860","Nerushenko Vyacheslav Nikolaevich",2
 "AS211895","Serverius Holding B.V.",2
 "AS212552","BitCommand LLC",2
+"AS212598","SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.",2
 "AS213186","Yanoor Islam Khan",2
 "AS213725","UK-03AI",2
 "AS214309","Aurorix Gaming Solutions Limited",2
@@ -1639,7 +1640,6 @@ ASN,Organization,IP_Count
 "AS212463","FOP Polischyk O.V",1
 "AS212531","UAB ""Interneto vizija""",1
 "AS212555","Remicro Kft.",1
-"AS212598","SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.",1
 "AS212616","K.M.A ADVANCED TECHNOLOGIES LTD",1
 "AS21283","A1 Slovenija telekomunikacijske storitve,d.d.",1
 "AS213250","Dominic Scholz trading as ITP-Solutions GmbH & Co. KG",1
