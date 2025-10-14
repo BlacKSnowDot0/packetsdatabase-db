@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",12340
 "AS396982","Google LLC",9976
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7507
+"AS14061","DigitalOcean, LLC",7509
 "AS16276","OVH SAS",5717
 "AS4134","Chinanet",4891
 "AS6568","Entel S.A. - EntelNet",4537
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",1059
 "AS36352","HostPapa",993
-"AS32475","Internap Holding LLC",976
+"AS32475","Internap Holding LLC",977
 "AS208684","BHA CONSEIL SARL",971
 "AS51852","Private Layer INC",907
 "AS23470","ReliableSite.Net LLC",867
@@ -188,6 +188,7 @@ ASN,Organization,IP_Count
 "AS4538","China Education and Research Network Center",35
 "AS6128","Cablevision Systems Corp.",35
 "AS34665","Petersburg Internet Network ltd.",34
+"AS30633","Leaseweb USA, Inc.",33
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9198","JSC Kazakhtelecom",33
@@ -195,7 +196,6 @@ ASN,Organization,IP_Count
 "AS210558","1337 Services GmbH",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
 "AS30083","velia.net",32
-"AS30633","Leaseweb USA, Inc.",32
 "AS42624","Global-Data System IT Corporation",32
 "AS55990","Huawei Cloud Service data center",32
 "AS8167","V tal",32
@@ -215,12 +215,12 @@ ASN,Organization,IP_Count
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS5650","Frontier Communications of America, Inc.",28
 "AS1241","RIPE Network Coordination Centre",27
+"AS200514","KnownSRV Ltd.",27
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
 "AS4760","PCCW IMS Limited",27
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",27
 "AS149705","PT Wijaya Trimitra Indonesia",26
-"AS200514","KnownSRV Ltd.",26
 "AS2200","Renater",26
 "AS3209","Vodafone GmbH",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
