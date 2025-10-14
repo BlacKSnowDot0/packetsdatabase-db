@@ -5,8 +5,8 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",12325
 "AS396982","Google LLC",9974
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7504
-"AS16276","OVH SAS",5715
+"AS14061","DigitalOcean, LLC",7505
+"AS16276","OVH SAS",5716
 "AS4134","Chinanet",4889
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4426
@@ -55,14 +55,14 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",533
 "AS401120","cheapy.host LLC",532
 "AS198953","Proton66 OOO",527
-"AS4837","CHINA UNICOM China169 Backbone",520
+"AS4837","CHINA UNICOM China169 Backbone",521
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
 "AS201814","MEVSPACE sp. z o.o.",485
 "AS3462","Chunghwa Telecom Co., Ltd.",462
 "AS212238","Datacamp Limited",454
 "AS51115","HLL LLC",429
-"AS53667","FranTech Solutions",416
+"AS53667","FranTech Solutions",417
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -87,7 +87,7 @@ ASN,Organization,IP_Count
 "AS209272","Alviva Holding Limited",230
 "AS13335","Cloudflare, Inc.",225
 "AS213613","BOTSHIELD LTD",225
-"AS208843","Alpha Strike Labs GmbH",223
+"AS208843","Alpha Strike Labs GmbH",224
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS141718","haoxiangyun",194
@@ -131,11 +131,11 @@ ASN,Organization,IP_Count
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",71
 "AS31898","Oracle Corporation",71
 "AS271795","SERVITELCONET CIA. LTDA.",70
-"AS29066","velia.net Internetdienste GmbH",69
+"AS29066","velia.net Internetdienste GmbH",70
 "AS52053","REDHEBERG Association declaree",69
 "AS136435","ELITE COMMUNICATION",68
+"AS40021","Nubes, LLC",68
 "AS328867","Corebach Backbone SARL",67
-"AS40021","Nubes, LLC",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
@@ -177,9 +177,9 @@ ASN,Organization,IP_Count
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",40
 "AS21928","T-Mobile USA, Inc.",39
 "AS27699","TELEFÔNICA BRASIL S.A",39
+"AS12816","Leibniz-Rechenzentrum",38
 "AS23969","TOT Public Company Limited",38
 "AS7738","V tal",38
-"AS12816","Leibniz-Rechenzentrum",37
 "AS26599","TELEFÔNICA BRASIL S.A",37
 "AS262378","Compuservice Empreendimentos Ltda",36
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",36
