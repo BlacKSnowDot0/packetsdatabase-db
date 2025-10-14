@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4426
 "AS16509","Amazon.com, Inc.",3841
-"AS45102","Alibaba (US) Technology Co., Ltd.",3710
+"AS45102","Alibaba (US) Technology Co., Ltd.",3713
 "AS63949","Akamai Technologies, Inc.",3520
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3167
@@ -58,7 +58,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",520
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
-"AS201814","MEVSPACE sp. z o.o.",484
+"AS201814","MEVSPACE sp. z o.o.",485
 "AS3462","Chunghwa Telecom Co., Ltd.",462
 "AS212238","Datacamp Limited",454
 "AS51115","HLL LLC",429
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS9829","Bharat Sanchar Nigam Ltd",373
-"AS12876","ONLINE S.A.S.",365
+"AS12876","ONLINE S.A.S.",370
 "AS7018","AT&T Enterprises, LLC",355
 "AS7922","Comcast Cable Communications, LLC",342
 "AS21859","Zenlayer Inc",341
@@ -117,9 +117,9 @@ ASN,Organization,IP_Count
 "AS47331","TTNet A.S.",90
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS151185","China Telecom",88
+"AS34984","Superonline Iletisim Hizmetleri A.S.",85
 "AS58461","Chinanet",85
 "AS205352","KABELNET LTD",84
-"AS34984","Superonline Iletisim Hizmetleri A.S.",83
 "AS16735","ALGAR TELECOM S/A",81
 "AS200019","ALEXHOST SRL",78
 "AS28209","Under Servicos de Internet Ltda",78
@@ -131,9 +131,9 @@ ASN,Organization,IP_Count
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",71
 "AS31898","Oracle Corporation",71
 "AS271795","SERVITELCONET CIA. LTDA.",69
+"AS29066","velia.net Internetdienste GmbH",69
 "AS52053","REDHEBERG Association declaree",69
 "AS136435","ELITE COMMUNICATION",68
-"AS29066","velia.net Internetdienste GmbH",68
 "AS328867","Corebach Backbone SARL",67
 "AS40021","Nubes, LLC",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
