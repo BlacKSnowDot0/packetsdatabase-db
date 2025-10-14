@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",12325
 "AS396982","Google LLC",9974
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7503
+"AS14061","DigitalOcean, LLC",7504
 "AS16276","OVH SAS",5715
 "AS4134","Chinanet",4889
 "AS6568","Entel S.A. - EntelNet",4537
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",1058
-"AS36352","HostPapa",991
+"AS36352","HostPapa",992
 "AS32475","Internap Holding LLC",975
 "AS208684","BHA CONSEIL SARL",971
 "AS51852","Private Layer INC",907
@@ -50,7 +50,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS10439","CariNet, Inc.",588
 "AS51167","Contabo GmbH",561
-"AS14618","Amazon.com, Inc.",558
+"AS14618","Amazon.com, Inc.",559
 "AS31148","Freenet LTD",558
 "AS9009","M247 Europe SRL",533
 "AS401120","cheapy.host LLC",532
@@ -496,6 +496,7 @@ ASN,Organization,IP_Count
 "AS135523","Multinet Broadband",6
 "AS13999","Mega Cable, S.A. de C.V.",6
 "AS141167","AgotoZ HK Limited",6
+"AS141433","Netcom Internet Service",6
 "AS149078","VPSMMO TECHNOLOGY COMPANY LIMITED",6
 "AS16611","InfiniaHost.com",6
 "AS17754","Excellmedia",6
@@ -550,7 +551,6 @@ ASN,Organization,IP_Count
 "AS135357","HONG KONG KOWLOON TELECOMMUNICATIONS CO.,LIMITED",5
 "AS135953","Vietnam Online Network Solution Joint Stock Compnay",5
 "AS136188","NINGBO, ZHEJIANG Province, P.R.China.",5
-"AS141433","Netcom Internet Service",5
 "AS15108","Allo Communications LLC",5
 "AS151858","INTERDIGI JOINT STOCK COMPANY",5
 "AS16058","Gabon Telecom Internet Network Autonomous System",5
