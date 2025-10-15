@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4429
 "AS16509","Amazon.com, Inc.",3841
-"AS45102","Alibaba (US) Technology Co., Ltd.",3721
+"AS45102","Alibaba (US) Technology Co., Ltd.",3722
 "AS63949","Akamai Technologies, Inc.",3524
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3167
@@ -73,9 +73,9 @@ ASN,Organization,IP_Count
 "AS21859","Zenlayer Inc",341
 "AS214943","Railnet LLC",314
 "AS24863","LINKdotNET AS number",307
-"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",298
+"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",299
 "AS210848","Telkom Internet LTD",296
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",293
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",294
 "AS45899","VNPT Corp",287
 "AS9341","PT Indonesia Comnets Plus",285
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",280
@@ -462,6 +462,7 @@ ASN,Organization,IP_Count
 "AS17451","BIZNET NETWORKS",7
 "AS17676","SoftBank Corp.",7
 "AS17762","Tata Teleservices (Maharashtra) Ltd",7
+"AS200590","NLS Kazakhstan LLC",7
 "AS203684","Imen Sanat Novin Alighapoo Private Joint Stock Company",7
 "AS204044","PACKET STAR NETWORKS LIMITED",7
 "AS204631","VIVANET GmbH",7
@@ -501,7 +502,6 @@ ASN,Organization,IP_Count
 "AS149078","VPSMMO TECHNOLOGY COMPANY LIMITED",6
 "AS16611","InfiniaHost.com",6
 "AS17754","Excellmedia",6
-"AS200590","NLS Kazakhstan LLC",6
 "AS203020","HostRoyale Technologies Pvt Ltd",6
 "AS210538","KEYUBU Internet ve Bilisim Tic. Ltd. Sti.",6
 "AS21056","Vianova S.p.A",6
