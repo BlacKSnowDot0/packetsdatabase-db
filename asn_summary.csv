@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",12374
 "AS396982","Google LLC",9982
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7534
+"AS14061","DigitalOcean, LLC",7535
 "AS16276","OVH SAS",5720
 "AS4134","Chinanet",4892
 "AS6568","Entel S.A. - EntelNet",4537
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1501
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS0","",1432
-"AS398722","Censys, Inc.",1361
+"AS398722","Censys, Inc.",1362
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1258
 "AS204428","SS-Net",1182
@@ -126,8 +126,8 @@ ASN,Organization,IP_Count
 "AS4766","Korea Telecom",78
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",75
+"AS29066","velia.net Internetdienste GmbH",75
 "AS32475","SingleHop LLC",75
-"AS29066","velia.net Internetdienste GmbH",74
 "AS56046","China Mobile Communications Corporation",74
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",73
 "AS31898","Oracle Corporation",71
@@ -473,6 +473,7 @@ ASN,Organization,IP_Count
 "AS25490","PJSC Rostelecom",7
 "AS266702","MEGALINK S.R.L.",7
 "AS267507","SRX TECNOLOGIA DA INFORMACAO LTDA",7
+"AS269003","KIMNET SOLUCOES",7
 "AS27831","Colombia Móvil",7
 "AS31122","Digiweb ltd",7
 "AS3216","PJSC ""Vimpelcom""",7
@@ -519,7 +520,6 @@ ASN,Organization,IP_Count
 "AS262262","METRONET",6
 "AS262773","PROXXIMA TELECOMUNICACOES LTDA",6
 "AS268976","Weclix Telecom S/A",6
-"AS269003","KIMNET SOLUCOES",6
 "AS273683","ALLREDE TELECOM LTDA",6
 "AS27747","Telecentro S.A.",6
 "AS27983","Red Intercable Digital S.A.",6
