@@ -58,7 +58,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",522
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
-"AS201814","MEVSPACE sp. z o.o.",487
+"AS201814","MEVSPACE sp. z o.o.",488
 "AS3462","Chunghwa Telecom Co., Ltd.",462
 "AS212238","Datacamp Limited",454
 "AS51115","HLL LLC",429
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS9829","Bharat Sanchar Nigam Ltd",379
+"AS9829","Bharat Sanchar Nigam Ltd",380
 "AS12876","ONLINE S.A.S.",373
 "AS7018","AT&T Enterprises, LLC",355
 "AS7922","Comcast Cable Communications, LLC",342
@@ -87,7 +87,7 @@ ASN,Organization,IP_Count
 "AS209272","Alviva Holding Limited",230
 "AS213613","BOTSHIELD LTD",227
 "AS13335","Cloudflare, Inc.",226
-"AS208843","Alpha Strike Labs GmbH",224
+"AS208843","Alpha Strike Labs GmbH",225
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS141718","haoxiangyun",194
@@ -327,6 +327,7 @@ ASN,Organization,IP_Count
 "AS5384","EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",15
 "AS852","TELUS Communications Inc.",15
 "AS136142","Enigma Fiber Pvt Ltd",14
+"AS138915","Kaopu Cloud HK Limited",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS28126","BRISANET SERVICOS DE TELECOMUNICACOES LTDA",14
 "AS30600","Metronet",14
@@ -334,7 +335,6 @@ ASN,Organization,IP_Count
 "AS48721","Flyservers S.A.",14
 "AS6181","Cincinnati Bell Telephone Company LLC",14
 "AS812","Rogers Communications Canada Inc.",14
-"AS138915","Kaopu Cloud HK Limited",13
 "AS15895","""Kyivstar"" PJSC",13
 "AS16591","Google Fiber Inc.",13
 "AS19901","Brightspeed",13
@@ -372,6 +372,7 @@ ASN,Organization,IP_Count
 "AS205119","TELEKS DOOEL Skopje",11
 "AS206804","EstNOC OY",11
 "AS2116","GLOBALCONNECT AS",11
+"AS212913","FOP Hornostay Mykhaylo Ivanovych",11
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
 "AS271597","NEW LINK CONNECT",11
 "AS27947","Telconet S.A",11
@@ -391,7 +392,6 @@ ASN,Organization,IP_Count
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",10
 "AS153443","VPSRE.NET LLC",10
 "AS202520","SkyPass Solutions Sp. z.o.o.",10
-"AS212913","FOP Hornostay Mykhaylo Ivanovych",10
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",10
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",10
 "AS23693","PT. Telekomunikasi Selular",10
