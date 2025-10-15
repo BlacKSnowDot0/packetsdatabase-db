@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87651
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21838
-"AS398324","Censys, Inc.",12371
+"AS398324","Censys, Inc.",12374
 "AS396982","Google LLC",9982
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7533
-"AS16276","OVH SAS",5719
+"AS14061","DigitalOcean, LLC",7534
+"AS16276","OVH SAS",5720
 "AS4134","Chinanet",4892
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4429
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",1062
-"AS36352","HostPapa",1002
+"AS36352","HostPapa",1004
 "AS32475","Internap Holding LLC",987
 "AS208684","BHA CONSEIL SARL",971
 "AS51852","Private Layer INC",907
@@ -50,7 +50,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS10439","CariNet, Inc.",589
 "AS51167","Contabo GmbH",567
-"AS14618","Amazon.com, Inc.",560
+"AS14618","Amazon.com, Inc.",561
 "AS31148","Freenet LTD",558
 "AS9009","M247 Europe SRL",534
 "AS401120","cheapy.host LLC",533
@@ -139,8 +139,8 @@ ASN,Organization,IP_Count
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
+"AS11320","LightEdge Solutions",64
 "AS3920","ESTOXY OU",64
-"AS11320","LightEdge Solutions",63
 "AS8560","IONOS SE",63
 "AS57588","Hayat for Internet & communication LLC",62
 "AS140717","China Unicom",61
