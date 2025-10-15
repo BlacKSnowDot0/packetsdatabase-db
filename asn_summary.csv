@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87651
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21839
-"AS398324","Censys, Inc.",12380
+"AS398324","Censys, Inc.",12382
 "AS396982","Google LLC",9984
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7536
@@ -39,7 +39,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",990
 "AS208684","BHA CONSEIL SARL",971
 "AS51852","Private Layer INC",907
-"AS23470","ReliableSite.Net LLC",883
+"AS23470","ReliableSite.Net LLC",884
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",815
@@ -87,7 +87,7 @@ ASN,Organization,IP_Count
 "AS13335","Cloudflare, Inc.",239
 "AS209272","Alviva Holding Limited",230
 "AS213613","BOTSHIELD LTD",227
-"AS208843","Alpha Strike Labs GmbH",225
+"AS208843","Alpha Strike Labs GmbH",226
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS141718","haoxiangyun",194
@@ -445,6 +445,7 @@ ASN,Organization,IP_Count
 "AS209956","Telkoturk Iletisim Hizmetleri A.S.",8
 "AS24812","NPK Home-Net Ltd.",8
 "AS262459","Osirnet Info Telecom Ltda.",8
+"AS266702","MEGALINK S.R.L.",8
 "AS27967","Gobernacion de la Provincia de Buenos Aires",8
 "AS29302","Hosting Services Inc",8
 "AS3215","Orange S.A.",8
@@ -471,7 +472,6 @@ ASN,Organization,IP_Count
 "AS24955","JSC ""Ufanet""",7
 "AS24961","WIIT AG",7
 "AS25490","PJSC Rostelecom",7
-"AS266702","MEGALINK S.R.L.",7
 "AS267507","SRX TECNOLOGIA DA INFORMACAO LTDA",7
 "AS269003","KIMNET SOLUCOES",7
 "AS27831","Colombia Móvil",7
