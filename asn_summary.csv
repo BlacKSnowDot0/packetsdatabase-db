@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87651
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21835
-"AS398324","Censys, Inc.",12358
+"AS398324","Censys, Inc.",12359
 "AS396982","Google LLC",9978
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7521
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",605
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS10439","CariNet, Inc.",589
-"AS51167","Contabo GmbH",564
+"AS51167","Contabo GmbH",565
 "AS14618","Amazon.com, Inc.",560
 "AS31148","Freenet LTD",558
 "AS9009","M247 Europe SRL",534
@@ -73,7 +73,7 @@ ASN,Organization,IP_Count
 "AS21859","Zenlayer Inc",341
 "AS214943","Railnet LLC",314
 "AS24863","LINKdotNET AS number",307
-"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",296
+"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",297
 "AS210848","Telkom Internet LTD",296
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",292
 "AS45899","VNPT Corp",287
@@ -365,6 +365,7 @@ ASN,Organization,IP_Count
 "AS9318","SK Broadband Co Ltd",12
 "AS984","OCTOPUS WEB SOLUTION INC",12
 "AS134420","Chongqing Telecom",11
+"AS138915","Kaopu Cloud HK Limited",11
 "AS17552","TRUE INTERNET CORPORATION CO. LTD.",11
 "AS17639","ComClark Network & Technology Corp",11
 "AS200651","FlokiNET ehf",11
@@ -386,7 +387,6 @@ ASN,Organization,IP_Count
 "AS58563","CHINANET Hubei province network",11
 "AS8193","""Uzbektelekom"" Joint Stock Company",11
 "AS12912","T-Mobile Polska S.A.",10
-"AS138915","Kaopu Cloud HK Limited",10
 "AS149359","PT Persada Data Multimedia",10
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",10
 "AS153443","VPSRE.NET LLC",10
