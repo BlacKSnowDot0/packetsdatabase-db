@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87651
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21836
-"AS398324","Censys, Inc.",12367
+"AS398324","Censys, Inc.",12368
 "AS396982","Google LLC",9981
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7531
+"AS14061","DigitalOcean, LLC",7532
 "AS16276","OVH SAS",5718
-"AS4134","Chinanet",4891
+"AS4134","Chinanet",4892
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4429
 "AS16509","Amazon.com, Inc.",3841
@@ -334,6 +334,7 @@ ASN,Organization,IP_Count
 "AS48721","Flyservers S.A.",14
 "AS6181","Cincinnati Bell Telephone Company LLC",14
 "AS812","Rogers Communications Canada Inc.",14
+"AS138915","Kaopu Cloud HK Limited",13
 "AS15895","""Kyivstar"" PJSC",13
 "AS16591","Google Fiber Inc.",13
 "AS19901","Brightspeed",13
@@ -350,7 +351,6 @@ ASN,Organization,IP_Count
 "AS11232","Midcontinent Communications",12
 "AS11427","Charter Communications Inc",12
 "AS12400","Partner Communications Ltd.",12
-"AS138915","Kaopu Cloud HK Limited",12
 "AS140726","China Unicom",12
 "AS15704","XTRA TELECOM S.A.",12
 "AS17621","China Unicom Shanghai network",12
