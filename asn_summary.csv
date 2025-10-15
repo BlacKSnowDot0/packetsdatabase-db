@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87651
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21838
-"AS398324","Censys, Inc.",12370
-"AS396982","Google LLC",9981
+"AS398324","Censys, Inc.",12371
+"AS396982","Google LLC",9982
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7533
 "AS16276","OVH SAS",5719
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2640
 "AS142002","Scloud Pte Ltd",2534
-"AS6939","Hurricane Electric LLC",2371
+"AS6939","Hurricane Electric LLC",2372
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1695
 "AS214295","SKYNET NETWORK LTD",1631
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",605
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS10439","CariNet, Inc.",589
-"AS51167","Contabo GmbH",565
+"AS51167","Contabo GmbH",566
 "AS14618","Amazon.com, Inc.",560
 "AS31148","Freenet LTD",558
 "AS9009","M247 Europe SRL",534
@@ -145,6 +145,7 @@ ASN,Organization,IP_Count
 "AS57588","Hayat for Internet & communication LLC",62
 "AS140717","China Unicom",61
 "AS199785","Cloud Hosting Solutions, Limited.",61
+"AS32934","Facebook, Inc.",60
 "AS4812","China Telecom (Group)",58
 "AS49544","i3D.net B.V",58
 "AS20278","Nexeon Technologies, Inc.",57
@@ -161,7 +162,6 @@ ASN,Organization,IP_Count
 "AS213877","u1host ltd",51
 "AS20115","Charter Communications",48
 "AS266181","GOLDEN LINK",48
-"AS32934","Facebook, Inc.",47
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
 "AS19318","Interserver, Inc",44
