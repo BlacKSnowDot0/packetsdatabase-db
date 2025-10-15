@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87651
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21836
-"AS398324","Censys, Inc.",12366
+"AS398324","Censys, Inc.",12367
 "AS396982","Google LLC",9981
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7531
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1501
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS0","",1431
+"AS0","",1432
 "AS398722","Censys, Inc.",1361
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1258
@@ -39,7 +39,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",987
 "AS208684","BHA CONSEIL SARL",971
 "AS51852","Private Layer INC",907
-"AS23470","ReliableSite.Net LLC",882
+"AS23470","ReliableSite.Net LLC",883
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",815
@@ -128,8 +128,8 @@ ASN,Organization,IP_Count
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
 "AS56046","China Mobile Communications Corporation",74
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",73
 "AS29066","velia.net Internetdienste GmbH",73
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",72
 "AS31898","Oracle Corporation",71
 "AS271795","SERVITELCONET CIA. LTDA.",70
 "AS136435","ELITE COMMUNICATION",69
