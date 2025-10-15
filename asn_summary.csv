@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87651
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21838
-"AS398324","Censys, Inc.",12374
+"AS398324","Censys, Inc.",12376
 "AS396982","Google LLC",9982
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7535
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",3722
 "AS63949","Akamai Technologies, Inc.",3524
 "AS398705","Censys, Inc.",3238
-"AS15169","Google LLC",3180
+"AS15169","Google LLC",3182
 "AS51396","Pfcloud UG",3084
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2640
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",1062
 "AS36352","HostPapa",1004
-"AS32475","Internap Holding LLC",987
+"AS32475","Internap Holding LLC",988
 "AS208684","BHA CONSEIL SARL",971
 "AS51852","Private Layer INC",907
 "AS23470","ReliableSite.Net LLC",883
@@ -117,7 +117,7 @@ ASN,Organization,IP_Count
 "AS47331","TTNet A.S.",90
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS151185","China Telecom",88
-"AS34984","Superonline Iletisim Hizmetleri A.S.",86
+"AS34984","Superonline Iletisim Hizmetleri A.S.",87
 "AS58461","Chinanet",85
 "AS205352","KABELNET LTD",84
 "AS16735","ALGAR TELECOM S/A",81
@@ -125,8 +125,8 @@ ASN,Organization,IP_Count
 "AS28209","Under Servicos de Internet Ltda",78
 "AS4766","Korea Telecom",78
 "AS211736","FOP Dmytro Nedilskyi",76
+"AS29066","velia.net Internetdienste GmbH",76
 "AS27882","Telefónica Celular de Bolivia S.A.",75
-"AS29066","velia.net Internetdienste GmbH",75
 "AS32475","SingleHop LLC",75
 "AS56046","China Mobile Communications Corporation",74
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",73
@@ -256,6 +256,7 @@ ASN,Organization,IP_Count
 "AS17561","Larus Limited",21
 "AS17816","China Unicom IP network China169 Guangdong province",21
 "AS214668","AxusHost B.V.",21
+"AS24560","Bharti Airtel Limited",21
 "AS400536","Nodestop LLC",21
 "AS4800","PT Aplikanusa Lintasarta",21
 "AS50887","DC FIBER HOME SRL",21
@@ -263,7 +264,6 @@ ASN,Organization,IP_Count
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
-"AS24560","Bharti Airtel Limited",20
 "AS2856","British Telecommunications PLC",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS46573","LayerHost",20
