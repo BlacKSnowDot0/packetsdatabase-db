@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87651
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
-"AS211298","Driftnet Ltd",21836
+"AS211298","Driftnet Ltd",21838
 "AS398324","Censys, Inc.",12370
 "AS396982","Google LLC",9981
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7532
+"AS14061","DigitalOcean, LLC",7533
 "AS16276","OVH SAS",5719
 "AS4134","Chinanet",4892
 "AS6568","Entel S.A. - EntelNet",4537
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",3722
 "AS63949","Akamai Technologies, Inc.",3524
 "AS398705","Censys, Inc.",3238
-"AS15169","Google LLC",3167
+"AS15169","Google LLC",3173
 "AS51396","Pfcloud UG",3084
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2640
@@ -84,9 +84,9 @@ ASN,Organization,IP_Count
 "AS48090","TECHOFF SRV LIMITED",254
 "AS60223","Netiface Limited",250
 "AS8151","Uninet S.A. de C.V.",245
+"AS13335","Cloudflare, Inc.",238
 "AS209272","Alviva Holding Limited",230
 "AS213613","BOTSHIELD LTD",227
-"AS13335","Cloudflare, Inc.",226
 "AS208843","Alpha Strike Labs GmbH",225
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
@@ -161,6 +161,7 @@ ASN,Organization,IP_Count
 "AS213877","u1host ltd",51
 "AS20115","Charter Communications",48
 "AS266181","GOLDEN LINK",48
+"AS32934","Facebook, Inc.",47
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
 "AS19318","Interserver, Inc",44
@@ -292,7 +293,6 @@ ASN,Organization,IP_Count
 "AS148981","China Telecom",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
-"AS32934","Facebook, Inc.",17
 "AS329490","Promethean Consulting Limited",17
 "AS36947","Telecom Algeria",17
 "AS41745","Baykov Ilya Sergeevich",17
