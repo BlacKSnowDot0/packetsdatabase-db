@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87651
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21835
-"AS398324","Censys, Inc.",12359
-"AS396982","Google LLC",9978
+"AS398324","Censys, Inc.",12360
+"AS396982","Google LLC",9980
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7521
 "AS16276","OVH SAS",5717
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2639
 "AS142002","Scloud Pte Ltd",2534
-"AS6939","Hurricane Electric LLC",2367
+"AS6939","Hurricane Electric LLC",2368
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1695
 "AS214295","SKYNET NETWORK LTD",1631
@@ -128,8 +128,8 @@ ASN,Organization,IP_Count
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
 "AS56046","China Mobile Communications Corporation",74
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",72
 "AS29066","velia.net Internetdienste GmbH",72
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",71
 "AS31898","Oracle Corporation",71
 "AS271795","SERVITELCONET CIA. LTDA.",70
 "AS136435","ELITE COMMUNICATION",69
@@ -144,7 +144,7 @@ ASN,Organization,IP_Count
 "AS8560","IONOS SE",63
 "AS57588","Hayat for Internet & communication LLC",62
 "AS140717","China Unicom",61
-"AS199785","Cloud Hosting Solutions, Limited.",59
+"AS199785","Cloud Hosting Solutions, Limited.",61
 "AS4812","China Telecom (Group)",58
 "AS49544","i3D.net B.V",58
 "AS20278","Nexeon Technologies, Inc.",57
@@ -509,6 +509,7 @@ ASN,Organization,IP_Count
 "AS212374","Virtuozzo International GmbH",6
 "AS213893","IPTransit Business LTD",6
 "AS214762","Sebastian Stefanek trading as MatHost.eu",6
+"AS215762","Bullet Group LTD",6
 "AS216158","Teleport Rus LLC",6
 "AS216300","Closed Joint Stock Company ""AbkhazMedia""",6
 "AS23201","Telecel S.A.",6
@@ -567,7 +568,6 @@ ASN,Organization,IP_Count
 "AS214209","Internet Magnate (Pty) Ltd",5
 "AS215311","Regxa Company for Information Technology Ltd",5
 "AS215730","H2NEXUS LTD",5
-"AS215762","Bullet Group LTD",5
 "AS22724","PUNTONET S.A.",5
 "AS23089","Hotwire Communications",5
 "AS24086","Viettel Corporation",5
