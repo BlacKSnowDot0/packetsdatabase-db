@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87660
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21846
-"AS398324","Censys, Inc.",12432
+"AS398324","Censys, Inc.",12434
 "AS396982","Google LLC",9995
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7580
@@ -165,7 +165,7 @@ ASN,Organization,IP_Count
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
 "AS19318","Interserver, Inc",45
-"AS210644","AEZA INTERNATIONAL LTD",44
+"AS210644","AEZA INTERNATIONAL LTD",45
 "AS23724","IDC, China Telecommunications Corporation",44
 "AS396356","Latitude.sh",44
 "AS42708","GleSYS AB",44
@@ -408,6 +408,7 @@ ASN,Organization,IP_Count
 "AS52468","UFINET PANAMA S.A.",10
 "AS57269","DIGI SPAIN TELECOM S.L.U.",10
 "AS60781","LeaseWeb Netherlands B.V.",10
+"AS8796","FD-298-8796",10
 "AS9930","TT DOTCOM SDN BHD",10
 "AS11351","Charter Communications Inc",9
 "AS12849","Hot-Net internet services Ltd.",9
@@ -427,7 +428,6 @@ ASN,Organization,IP_Count
 "AS6327","Shaw Communications Inc.",9
 "AS8400","TELEKOM SRBIJA a.d.",9
 "AS8708","RCS & RDS SA",9
-"AS8796","FD-298-8796",9
 "AS9770","LG HelloVision Corp.",9
 "AS133481","ADVANCED WIRELESS NETWORK COMPANY LIMITED",8
 "AS135918","VIET DIGITAL TECHNOLOGY LIABILITY COMPANY",8
@@ -442,6 +442,7 @@ ASN,Organization,IP_Count
 "AS197309","RS-Media LLC",8
 "AS198361","Yaglom Labs Ltd",8
 "AS20011","Dimension Data",8
+"AS200590","NLS Kazakhstan LLC",8
 "AS209956","Telkoturk Iletisim Hizmetleri A.S.",8
 "AS24812","NPK Home-Net Ltd.",8
 "AS262459","Osirnet Info Telecom Ltda.",8
@@ -463,7 +464,6 @@ ASN,Organization,IP_Count
 "AS17451","BIZNET NETWORKS",7
 "AS17676","SoftBank Corp.",7
 "AS17762","Tata Teleservices (Maharashtra) Ltd",7
-"AS200590","NLS Kazakhstan LLC",7
 "AS203684","Imen Sanat Novin Alighapoo Private Joint Stock Company",7
 "AS204044","PACKET STAR NETWORKS LIMITED",7
 "AS204631","VIVANET GmbH",7
