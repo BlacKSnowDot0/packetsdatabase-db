@@ -1,13 +1,13 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87660
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
-"AS211298","Driftnet Ltd",21845
-"AS398324","Censys, Inc.",12426
+"AS211298","Driftnet Ltd",21846
+"AS398324","Censys, Inc.",12428
 "AS396982","Google LLC",9993
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7579
 "AS16276","OVH SAS",5721
-"AS4134","Chinanet",4892
+"AS4134","Chinanet",4893
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4429
 "AS16509","Amazon.com, Inc.",3841
@@ -23,7 +23,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1695
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1503
+"AS209605","UAB Host Baltic",1504
 "AS0","",1448
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1364
@@ -36,10 +36,10 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",1069
 "AS36352","HostPapa",1004
-"AS32475","Internap Holding LLC",996
+"AS32475","Internap Holding LLC",997
 "AS208684","BHA CONSEIL SARL",972
 "AS51852","Private Layer INC",907
-"AS23470","ReliableSite.Net LLC",889
+"AS23470","ReliableSite.Net LLC",891
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",815
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS9829","Bharat Sanchar Nigam Ltd",381
+"AS9829","Bharat Sanchar Nigam Ltd",382
 "AS12876","ONLINE S.A.S.",374
 "AS7018","AT&T Enterprises, LLC",357
 "AS7922","Comcast Cable Communications, LLC",342
@@ -190,10 +190,10 @@ ASN,Organization,IP_Count
 "AS6128","Cablevision Systems Corp.",35
 "AS34665","Petersburg Internet Network ltd.",34
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",34
+"AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",34
 "AS30633","Leaseweb USA, Inc.",33
 "AS42624","Global-Data System IT Corporation",33
 "AS45671","Servers Australia Pty. Ltd",33
-"AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",33
 "AS8048","CANTV Servicios, Venezuela",33
 "AS9198","JSC Kazakhtelecom",33
 "AS9498","Bharti Airtel Limited",33
@@ -258,6 +258,7 @@ ASN,Organization,IP_Count
 "AS214668","AxusHost B.V.",21
 "AS24560","Bharti Airtel Limited",21
 "AS400536","Nodestop LLC",21
+"AS46573","LayerHost",21
 "AS4800","PT Aplikanusa Lintasarta",21
 "AS50887","DC FIBER HOME SRL",21
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",21
@@ -266,7 +267,6 @@ ASN,Organization,IP_Count
 "AS202306","HOSTGLOBAL.PLUS LTD",20
 "AS2856","British Telecommunications PLC",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
-"AS46573","LayerHost",20
 "AS5089","Virgin Media Limited",20
 "AS9299","Philippine Long Distance Telephone Co.",20
 "AS141995","Contabo Asia Private Limited",19
@@ -1816,6 +1816,7 @@ ASN,Organization,IP_Count
 "AS264233","WF -TELECOM SERVIÇOS DE TELECOMUNICAÇOES EIRELE ME",1
 "AS264255","INTERFIBRAS TELECOMUNICACOES LTDA",1
 "AS264268","TELETURBO SERVICOS DE TELECOMUNICACOES LTDA",1
+"AS264301","LLL INFORMATICA LTDA",1
 "AS264346","SOFTWAY internet e telecomunicacoes ltda",1
 "AS264356","SCHUCK INTERNET LTDA",1
 "AS264358","PETRANET INTERNET LTDA",1
