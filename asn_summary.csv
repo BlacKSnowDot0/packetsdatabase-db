@@ -1,9 +1,9 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87660
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
-"AS211298","Driftnet Ltd",21840
-"AS398324","Censys, Inc.",12393
-"AS396982","Google LLC",9986
+"AS211298","Driftnet Ltd",21841
+"AS398324","Censys, Inc.",12395
+"AS396982","Google LLC",9987
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7570
 "AS16276","OVH SAS",5721
@@ -19,13 +19,13 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2641
 "AS142002","Scloud Pte Ltd",2550
-"AS6939","Hurricane Electric LLC",2372
+"AS6939","Hurricane Electric LLC",2373
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1695
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1502
+"AS209605","UAB Host Baltic",1503
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS0","",1437
+"AS0","",1438
 "AS398722","Censys, Inc.",1362
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1259
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",1065
 "AS36352","HostPapa",1004
-"AS32475","Internap Holding LLC",993
+"AS32475","Internap Holding LLC",994
 "AS208684","BHA CONSEIL SARL",971
 "AS51852","Private Layer INC",907
 "AS23470","ReliableSite.Net LLC",885
@@ -73,7 +73,7 @@ ASN,Organization,IP_Count
 "AS21859","Zenlayer Inc",341
 "AS214943","Railnet LLC",314
 "AS24863","LINKdotNET AS number",307
-"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",300
+"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",301
 "AS210848","Telkom Internet LTD",296
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",295
 "AS45899","VNPT Corp",287
@@ -115,15 +115,15 @@ ASN,Organization,IP_Count
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",99
 "AS63018","Dedicated.com",92
 "AS47331","TTNet A.S.",90
+"AS151185","China Telecom",89
 "AS210125","PRIAM NET Sh.p.k.",89
-"AS151185","China Telecom",88
 "AS34984","Superonline Iletisim Hizmetleri A.S.",87
 "AS58461","Chinanet",85
 "AS205352","KABELNET LTD",84
 "AS16735","ALGAR TELECOM S/A",81
 "AS28209","Under Servicos de Internet Ltda",79
+"AS29066","velia.net Internetdienste GmbH",79
 "AS200019","ALEXHOST SRL",78
-"AS29066","velia.net Internetdienste GmbH",78
 "AS4766","Korea Telecom",78
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",75
