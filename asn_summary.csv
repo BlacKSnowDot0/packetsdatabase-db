@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87660
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21844
-"AS398324","Censys, Inc.",12404
+"AS398324","Censys, Inc.",12406
 "AS396982","Google LLC",9992
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7574
+"AS14061","DigitalOcean, LLC",7575
 "AS16276","OVH SAS",5721
 "AS4134","Chinanet",4892
 "AS6568","Entel S.A. - EntelNet",4537
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2641
 "AS142002","Scloud Pte Ltd",2550
-"AS6939","Hurricane Electric LLC",2375
+"AS6939","Hurricane Electric LLC",2376
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1695
 "AS214295","SKYNET NETWORK LTD",1631
@@ -61,7 +61,7 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",488
 "AS3462","Chunghwa Telecom Co., Ltd.",462
 "AS212238","Datacamp Limited",454
-"AS51115","HLL LLC",431
+"AS51115","HLL LLC",432
 "AS53667","FranTech Solutions",424
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
@@ -132,8 +132,8 @@ ASN,Organization,IP_Count
 "AS56046","China Mobile Communications Corporation",74
 "AS31898","Oracle Corporation",71
 "AS271795","SERVITELCONET CIA. LTDA.",70
+"AS40021","Nubes, LLC",70
 "AS136435","ELITE COMMUNICATION",69
-"AS40021","Nubes, LLC",69
 "AS52053","REDHEBERG Association declaree",69
 "AS328867","Corebach Backbone SARL",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
@@ -764,6 +764,7 @@ ASN,Organization,IP_Count
 "AS203542","IT-PROF LLC",3
 "AS207083","HostSlim B.V.",3
 "AS211826","Istqrar for Servers Services Ltd",3
+"AS212598","SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.",3
 "AS212695","Link Telecom Service Ltd",3
 "AS213354","INTERNATIONAL HOSTING SOLUTIONS LLP",3
 "AS21499","Host Europe GmbH",3
@@ -990,7 +991,6 @@ ASN,Organization,IP_Count
 "AS211860","Nerushenko Vyacheslav Nikolaevich",2
 "AS211895","Serverius Holding B.V.",2
 "AS212552","BitCommand LLC",2
-"AS212598","SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.",2
 "AS213186","Yanoor Islam Khan",2
 "AS213725","UK-03AI",2
 "AS214309","Aurorix Gaming Solutions Limited",2
