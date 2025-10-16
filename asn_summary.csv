@@ -3,7 +3,7 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21845
 "AS398324","Censys, Inc.",12426
-"AS396982","Google LLC",9992
+"AS396982","Google LLC",9993
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7579
 "AS16276","OVH SAS",5721
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
-"AS174","Cogent Communications",1068
+"AS174","Cogent Communications",1069
 "AS36352","HostPapa",1004
 "AS32475","Internap Holding LLC",996
 "AS208684","BHA CONSEIL SARL",972
@@ -193,13 +193,13 @@ ASN,Organization,IP_Count
 "AS30633","Leaseweb USA, Inc.",33
 "AS42624","Global-Data System IT Corporation",33
 "AS45671","Servers Australia Pty. Ltd",33
+"AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",33
 "AS8048","CANTV Servicios, Venezuela",33
 "AS9198","JSC Kazakhtelecom",33
 "AS9498","Bharti Airtel Limited",33
 "AS210558","1337 Services GmbH",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
 "AS30083","velia.net",32
-"AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",32
 "AS55990","Huawei Cloud Service data center",32
 "AS8167","V tal",32
 "AS1680","Cellcom Fixed Line Communication L.P",31
@@ -391,6 +391,7 @@ ASN,Organization,IP_Count
 "AS149359","PT Persada Data Multimedia",10
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",10
 "AS153443","VPSRE.NET LLC",10
+"AS199414","Noah Kolossa",10
 "AS202520","SkyPass Solutions Sp. z.o.o.",10
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",10
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",10
@@ -412,7 +413,6 @@ ASN,Organization,IP_Count
 "AS12849","Hot-Net internet services Ltd.",9
 "AS135059","Lao Asia Pacific Satellite Co., Ltd.",9
 "AS142032","High Family Technology Co., Limited",9
-"AS199414","Noah Kolossa",9
 "AS212504","AdKyNet SAS",9
 "AS213520","Senko Digital Ltd",9
 "AS214481","Wojciech Czapkowicz",9
