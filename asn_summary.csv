@@ -2,16 +2,16 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87660
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21845
-"AS398324","Censys, Inc.",12412
+"AS398324","Censys, Inc.",12413
 "AS396982","Google LLC",9992
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7576
+"AS14061","DigitalOcean, LLC",7577
 "AS16276","OVH SAS",5721
 "AS4134","Chinanet",4892
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4429
 "AS16509","Amazon.com, Inc.",3841
-"AS45102","Alibaba (US) Technology Co., Ltd.",3725
+"AS45102","Alibaba (US) Technology Co., Ltd.",3726
 "AS63949","Akamai Technologies, Inc.",3527
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3182
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2641
 "AS142002","Scloud Pte Ltd",2550
-"AS6939","Hurricane Electric LLC",2376
+"AS6939","Hurricane Electric LLC",2377
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1695
 "AS214295","SKYNET NETWORK LTD",1631
@@ -126,9 +126,9 @@ ASN,Organization,IP_Count
 "AS200019","ALEXHOST SRL",78
 "AS4766","Korea Telecom",78
 "AS211736","FOP Dmytro Nedilskyi",76
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",75
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",74
 "AS56046","China Mobile Communications Corporation",74
 "AS31898","Oracle Corporation",71
 "AS271795","SERVITELCONET CIA. LTDA.",70
@@ -235,12 +235,12 @@ ASN,Organization,IP_Count
 "AS53118","NETLINE TELECOM",24
 "AS55933","Cloudie Limited",24
 "AS60068","Datacamp Limited",24
+"AS6134","XNNET LLC",24
 "AS17995","PT iForte Global Internet",23
 "AS198037","SPACECORE SOLUTION LTD",23
 "AS46475","Limestone Networks, Inc.",23
 "AS55836","Reliance Jio Infocomm Limited",23
 "AS58224","Iran Telecommunication Company PJS",23
-"AS6134","XNNET LLC",23
 "AS62240","Clouvider Limited",23
 "AS13213","UK-2 Limited",22
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",22
@@ -356,6 +356,7 @@ ASN,Organization,IP_Count
 "AS17621","China Unicom Shanghai network",12
 "AS213438","ColocaTel Inc.",12
 "AS2637","Georgia Institute of Technology",12
+"AS271597","NEW LINK CONNECT",12
 "AS30823","aurologic GmbH",12
 "AS35042","Layer7 Networks GmbH",12
 "AS36992","ETISALAT MISR",12
@@ -374,7 +375,6 @@ ASN,Organization,IP_Count
 "AS2116","GLOBALCONNECT AS",11
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",11
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
-"AS271597","NEW LINK CONNECT",11
 "AS27947","Telconet S.A",11
 "AS38264","Wateen Telecom Limited",11
 "AS39351","31173 Services AB",11
@@ -563,6 +563,7 @@ ASN,Organization,IP_Count
 "AS202468","Noyan Abr Arvan Co. ( Private Joint Stock)",5
 "AS20412","Clarity Telecom LLC",5
 "AS207656","Epinatura LLC",5
+"AS212219","HOSTING DUNYAM BILISIM TEKNOLOJILERI TICARET LIMITED SIRKETI",5
 "AS21246","IPKO Telecommunications LLC",5
 "AS213851","Marcel Hanisch",5
 "AS214209","Internet Magnate (Pty) Ltd",5
@@ -642,7 +643,6 @@ ASN,Organization,IP_Count
 "AS208208","Marco Lingl trading as Cyberse GmbH & Co. KG",4
 "AS2119","Telenor Norge AS",4
 "AS212042","Istqrar for Servers Services Ltd",4
-"AS212219","HOSTING DUNYAM BILISIM TEKNOLOJILERI TICARET LIMITED SIRKETI",4
 "AS215439","PLAY2GO INTERNATIONAL LIMITED",4
 "AS22047","VTR BANDA ANCHA S.A.",4
 "AS22418","Cologuard",4
@@ -2125,6 +2125,7 @@ ASN,Organization,IP_Count
 "AS28668","Desktop Sigmanet Comunicação Multimídia SA",1
 "AS28775","OOO TRANSTELECOM",1
 "AS28812","PJSC ""Bashinformsvyaz""",1
+"AS28890","INSYS LLC",1
 "AS29046","Radiobaylanys LLP",1
 "AS29061","Saimanet Telecomunications CJSC",1
 "AS29069","PJSC Rostelecom",1
