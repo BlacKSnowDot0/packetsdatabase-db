@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",1069
 "AS36352","HostPapa",1004
-"AS32475","Internap Holding LLC",997
+"AS32475","Internap Holding LLC",998
 "AS208684","BHA CONSEIL SARL",972
 "AS51852","Private Layer INC",907
 "AS23470","ReliableSite.Net LLC",895
@@ -84,7 +84,7 @@ ASN,Organization,IP_Count
 "AS8151","Uninet S.A. de C.V.",260
 "AS48090","TECHOFF SRV LIMITED",254
 "AS60223","Netiface Limited",250
-"AS13335","Cloudflare, Inc.",240
+"AS13335","Cloudflare, Inc.",241
 "AS209272","Alviva Holding Limited",230
 "AS208843","Alpha Strike Labs GmbH",228
 "AS213613","BOTSHIELD LTD",228
@@ -378,6 +378,7 @@ ASN,Organization,IP_Count
 "AS205119","TELEKS DOOEL Skopje",11
 "AS206804","EstNOC OY",11
 "AS2116","GLOBALCONNECT AS",11
+"AS213732","Peyman Ertebatat Pouya Company (Ltd)",11
 "AS23693","PT. Telekomunikasi Selular",11
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
 "AS3243","MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.",11
@@ -397,7 +398,6 @@ ASN,Organization,IP_Count
 "AS153443","VPSRE.NET LLC",10
 "AS199414","Noah Kolossa",10
 "AS202520","SkyPass Solutions Sp. z.o.o.",10
-"AS213732","Peyman Ertebatat Pouya Company (Ltd)",10
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",10
 "AS24547","China Mobile",10
 "AS24835","Vodafone Data - Egypt",10
