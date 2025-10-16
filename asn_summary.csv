@@ -19,13 +19,13 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2642
 "AS142002","Scloud Pte Ltd",2550
-"AS6939","Hurricane Electric LLC",2377
+"AS6939","Hurricane Electric LLC",2378
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1695
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1503
+"AS0","",1448
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS0","",1446
 "AS398722","Censys, Inc.",1364
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1259
@@ -34,9 +34,9 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
-"AS174","Cogent Communications",1066
+"AS174","Cogent Communications",1067
 "AS36352","HostPapa",1004
-"AS32475","Internap Holding LLC",995
+"AS32475","Internap Holding LLC",996
 "AS208684","BHA CONSEIL SARL",972
 "AS51852","Private Layer INC",907
 "AS23470","ReliableSite.Net LLC",889
@@ -107,7 +107,7 @@ ASN,Organization,IP_Count
 "AS36007","Kamatera, Inc.",122
 "AS42237","w1n ltd",122
 "AS7552","Viettel Group",120
-"AS50219","LNK SYSTEMS MUNTENIA SRL",115
+"AS50219","LNK SYSTEMS MUNTENIA SRL",116
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
 "AS14956","RouterHosting LLC",107
