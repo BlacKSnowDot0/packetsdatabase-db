@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87659
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21840
-"AS398324","Censys, Inc.",12387
+"AS398324","Censys, Inc.",12390
 "AS396982","Google LLC",9985
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7570
@@ -11,13 +11,13 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4429
 "AS16509","Amazon.com, Inc.",3841
-"AS45102","Alibaba (US) Technology Co., Ltd.",3724
-"AS63949","Akamai Technologies, Inc.",3524
+"AS45102","Alibaba (US) Technology Co., Ltd.",3725
+"AS63949","Akamai Technologies, Inc.",3525
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3182
 "AS51396","Pfcloud UG",3084
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2640
+"AS8075","Microsoft Corporation",2641
 "AS142002","Scloud Pte Ltd",2550
 "AS6939","Hurricane Electric LLC",2372
 "AS9808","China Mobile",2074
@@ -55,19 +55,19 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",534
 "AS401120","cheapy.host LLC",533
 "AS198953","Proton66 OOO",527
-"AS4837","CHINA UNICOM China169 Backbone",524
+"AS4837","CHINA UNICOM China169 Backbone",525
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
 "AS201814","MEVSPACE sp. z o.o.",488
 "AS3462","Chunghwa Telecom Co., Ltd.",462
 "AS212238","Datacamp Limited",454
-"AS51115","HLL LLC",429
+"AS51115","HLL LLC",430
 "AS53667","FranTech Solutions",424
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS9829","Bharat Sanchar Nigam Ltd",380
-"AS12876","ONLINE S.A.S.",373
+"AS12876","ONLINE S.A.S.",374
 "AS7018","AT&T Enterprises, LLC",355
 "AS7922","Comcast Cable Communications, LLC",342
 "AS21859","Zenlayer Inc",341
@@ -107,7 +107,7 @@ ASN,Organization,IP_Count
 "AS36007","Kamatera, Inc.",122
 "AS42237","w1n ltd",121
 "AS7552","Viettel Group",120
-"AS50219","LNK SYSTEMS MUNTENIA SRL",114
+"AS50219","LNK SYSTEMS MUNTENIA SRL",115
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
 "AS14956","RouterHosting LLC",107
@@ -121,10 +121,10 @@ ASN,Organization,IP_Count
 "AS58461","Chinanet",85
 "AS205352","KABELNET LTD",84
 "AS16735","ALGAR TELECOM S/A",81
+"AS28209","Under Servicos de Internet Ltda",79
 "AS200019","ALEXHOST SRL",78
-"AS28209","Under Servicos de Internet Ltda",78
+"AS29066","velia.net Internetdienste GmbH",78
 "AS4766","Korea Telecom",78
-"AS29066","velia.net Internetdienste GmbH",77
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
@@ -164,7 +164,7 @@ ASN,Organization,IP_Count
 "AS266181","GOLDEN LINK",48
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
-"AS19318","Interserver, Inc",44
+"AS19318","Interserver, Inc",45
 "AS210644","AEZA INTERNATIONAL LTD",44
 "AS23724","IDC, China Telecommunications Corporation",44
 "AS396356","Latitude.sh",44
