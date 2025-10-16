@@ -3,9 +3,9 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21841
 "AS398324","Censys, Inc.",12400
-"AS396982","Google LLC",9990
+"AS396982","Google LLC",9992
 "AS26210","AXS Bolivia S. A.",7971
-"AS14061","DigitalOcean, LLC",7571
+"AS14061","DigitalOcean, LLC",7573
 "AS16276","OVH SAS",5721
 "AS4134","Chinanet",4892
 "AS6568","Entel S.A. - EntelNet",4537
@@ -25,8 +25,8 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1503
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS0","",1439
-"AS398722","Censys, Inc.",1363
+"AS0","",1441
+"AS398722","Censys, Inc.",1364
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1259
 "AS204428","SS-Net",1182
@@ -105,7 +105,7 @@ ASN,Organization,IP_Count
 "AS262551","Farol Telecom",126
 "AS13238","YANDEX LLC",122
 "AS36007","Kamatera, Inc.",122
-"AS42237","w1n ltd",121
+"AS42237","w1n ltd",122
 "AS7552","Viettel Group",120
 "AS50219","LNK SYSTEMS MUNTENIA SRL",115
 "AS211298","Constantine Cybersecurity Ltd.",113
