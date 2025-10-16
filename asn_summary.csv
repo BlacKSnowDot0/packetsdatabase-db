@@ -3,7 +3,7 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21846
 "AS398324","Censys, Inc.",12428
-"AS396982","Google LLC",9993
+"AS396982","Google LLC",9994
 "AS26210","AXS Bolivia S. A.",7971
 "AS14061","DigitalOcean, LLC",7579
 "AS16276","OVH SAS",5721
@@ -39,7 +39,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",997
 "AS208684","BHA CONSEIL SARL",972
 "AS51852","Private Layer INC",907
-"AS23470","ReliableSite.Net LLC",891
+"AS23470","ReliableSite.Net LLC",892
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",815
@@ -354,6 +354,7 @@ ASN,Organization,IP_Count
 "AS12400","Partner Communications Ltd.",12
 "AS15704","XTRA TELECOM S.A.",12
 "AS17621","China Unicom Shanghai network",12
+"AS212913","FOP Hornostay Mykhaylo Ivanovych",12
 "AS213438","ColocaTel Inc.",12
 "AS2637","Georgia Institute of Technology",12
 "AS271597","NEW LINK CONNECT",12
@@ -373,7 +374,6 @@ ASN,Organization,IP_Count
 "AS205119","TELEKS DOOEL Skopje",11
 "AS206804","EstNOC OY",11
 "AS2116","GLOBALCONNECT AS",11
-"AS212913","FOP Hornostay Mykhaylo Ivanovych",11
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
 "AS27947","Telconet S.A",11
 "AS38264","Wateen Telecom Limited",11
