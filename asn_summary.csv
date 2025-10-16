@@ -1,7 +1,7 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87660
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
-"AS211298","Driftnet Ltd",21841
+"AS211298","Driftnet Ltd",21844
 "AS398324","Censys, Inc.",12403
 "AS396982","Google LLC",9992
 "AS26210","AXS Bolivia S. A.",7971
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4429
 "AS16509","Amazon.com, Inc.",3841
 "AS45102","Alibaba (US) Technology Co., Ltd.",3725
-"AS63949","Akamai Technologies, Inc.",3526
+"AS63949","Akamai Technologies, Inc.",3527
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3182
 "AS51396","Pfcloud UG",3084
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1503
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS0","",1443
+"AS0","",1446
 "AS398722","Censys, Inc.",1364
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1259
@@ -39,7 +39,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",995
 "AS208684","BHA CONSEIL SARL",971
 "AS51852","Private Layer INC",907
-"AS23470","ReliableSite.Net LLC",885
+"AS23470","ReliableSite.Net LLC",886
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",815
@@ -335,6 +335,7 @@ ASN,Organization,IP_Count
 "AS48721","Flyservers S.A.",14
 "AS6181","Cincinnati Bell Telephone Company LLC",14
 "AS812","Rogers Communications Canada Inc.",14
+"AS140726","China Unicom",13
 "AS15895","""Kyivstar"" PJSC",13
 "AS16591","Google Fiber Inc.",13
 "AS19901","Brightspeed",13
@@ -351,7 +352,6 @@ ASN,Organization,IP_Count
 "AS11232","Midcontinent Communications",12
 "AS11427","Charter Communications Inc",12
 "AS12400","Partner Communications Ltd.",12
-"AS140726","China Unicom",12
 "AS15704","XTRA TELECOM S.A.",12
 "AS17621","China Unicom Shanghai network",12
 "AS213438","ColocaTel Inc.",12
