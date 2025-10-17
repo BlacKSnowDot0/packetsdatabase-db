@@ -23,7 +23,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1696
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1505
+"AS209605","UAB Host Baltic",1506
 "AS0","",1451
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1364
@@ -34,9 +34,9 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
-"AS174","Cogent Communications",1070
+"AS174","Cogent Communications",1071
 "AS36352","HostPapa",1021
-"AS32475","Internap Holding LLC",1018
+"AS32475","Internap Holding LLC",1019
 "AS208684","BHA CONSEIL SARL",974
 "AS51852","Private Layer INC",907
 "AS23470","ReliableSite.Net LLC",896
@@ -344,6 +344,7 @@ ASN,Organization,IP_Count
 "AS140726","China Unicom",13
 "AS15895","""Kyivstar"" PJSC",13
 "AS16591","Google Fiber Inc.",13
+"AS17621","China Unicom Shanghai network",13
 "AS19901","Brightspeed",13
 "AS213194","Nechaev Dmitry Sergeevich",13
 "AS25369","Hydra Communications Ltd",13
@@ -354,7 +355,6 @@ ASN,Organization,IP_Count
 "AS53006","ALGAR TELECOM S/A",13
 "AS12400","Partner Communications Ltd.",12
 "AS15704","XTRA TELECOM S.A.",12
-"AS17621","China Unicom Shanghai network",12
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",12
 "AS213438","ColocaTel Inc.",12
 "AS2637","Georgia Institute of Technology",12
