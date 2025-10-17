@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87663
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87664
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21847
-"AS398324","Censys, Inc.",12465
+"AS398324","Censys, Inc.",12466
 "AS396982","Google LLC",10001
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7589
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",1070
 "AS36352","HostPapa",1018
-"AS32475","Internap Holding LLC",1015
+"AS32475","Internap Holding LLC",1016
 "AS208684","BHA CONSEIL SARL",973
 "AS51852","Private Layer INC",907
 "AS23470","ReliableSite.Net LLC",896
@@ -330,6 +330,7 @@ ASN,Organization,IP_Count
 "AS852","TELUS Communications Inc.",15
 "AS136142","Enigma Fiber Pvt Ltd",14
 "AS204104","Giti Secure Cloud LLC",14
+"AS21127","Joint Stock Company TransTeleCom",14
 "AS27947","Telconet S.A",14
 "AS28126","BRISANET SERVICOS DE TELECOMUNICACOES LTDA",14
 "AS30600","Metronet",14
@@ -344,7 +345,6 @@ ASN,Organization,IP_Count
 "AS15895","""Kyivstar"" PJSC",13
 "AS16591","Google Fiber Inc.",13
 "AS19901","Brightspeed",13
-"AS21127","Joint Stock Company TransTeleCom",13
 "AS213194","Nechaev Dmitry Sergeevich",13
 "AS25369","Hydra Communications Ltd",13
 "AS28840","PJSC ""TATTELECOM""",13
