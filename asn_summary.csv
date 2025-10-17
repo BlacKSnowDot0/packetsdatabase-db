@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87661
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21846
-"AS398324","Censys, Inc.",12447
-"AS396982","Google LLC",9998
+"AS398324","Censys, Inc.",12448
+"AS396982","Google LLC",9999
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7582
+"AS14061","DigitalOcean, LLC",7583
 "AS16276","OVH SAS",5721
 "AS4134","Chinanet",4896
 "AS6568","Entel S.A. - EntelNet",4537
@@ -17,13 +17,13 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3182
 "AS51396","Pfcloud UG",3084
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2643
+"AS8075","Microsoft Corporation",2644
 "AS142002","Scloud Pte Ltd",2550
 "AS6939","Hurricane Electric LLC",2378
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1695
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1504
+"AS209605","UAB Host Baltic",1505
 "AS0","",1449
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1364
@@ -35,9 +35,9 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",1069
-"AS36352","HostPapa",1004
+"AS36352","HostPapa",1005
 "AS32475","Internap Holding LLC",998
-"AS208684","BHA CONSEIL SARL",972
+"AS208684","BHA CONSEIL SARL",973
 "AS51852","Private Layer INC",907
 "AS23470","ReliableSite.Net LLC",895
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -120,7 +120,7 @@ ASN,Organization,IP_Count
 "AS34984","Superonline Iletisim Hizmetleri A.S.",87
 "AS58461","Chinanet",85
 "AS205352","KABELNET LTD",84
-"AS29066","velia.net Internetdienste GmbH",82
+"AS29066","velia.net Internetdienste GmbH",83
 "AS16735","ALGAR TELECOM S/A",81
 "AS28209","Under Servicos de Internet Ltda",79
 "AS200019","ALEXHOST SRL",78
