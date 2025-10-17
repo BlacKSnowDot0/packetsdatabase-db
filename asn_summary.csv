@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87665
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21849
-"AS398324","Censys, Inc.",12477
-"AS396982","Google LLC",10003
+"AS398324","Censys, Inc.",12481
+"AS396982","Google LLC",10004
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7599
-"AS16276","OVH SAS",5724
+"AS16276","OVH SAS",5725
 "AS4134","Chinanet",4896
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4429
@@ -17,7 +17,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3182
 "AS51396","Pfcloud UG",3084
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2645
+"AS8075","Microsoft Corporation",2646
 "AS142002","Scloud Pte Ltd",2552
 "AS6939","Hurricane Electric LLC",2384
 "AS9808","China Mobile",2074
@@ -35,8 +35,8 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",1071
+"AS32475","Internap Holding LLC",1022
 "AS36352","HostPapa",1022
-"AS32475","Internap Holding LLC",1021
 "AS208684","BHA CONSEIL SARL",974
 "AS51852","Private Layer INC",907
 "AS23470","ReliableSite.Net LLC",896
@@ -110,7 +110,7 @@ ASN,Organization,IP_Count
 "AS50219","LNK SYSTEMS MUNTENIA SRL",116
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
-"AS14956","RouterHosting LLC",107
+"AS14956","RouterHosting LLC",108
 "AS28573","Claro NXT Telecomunicacoes Ltda",99
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",99
 "AS47331","TTNet A.S.",95
@@ -481,6 +481,7 @@ ASN,Organization,IP_Count
 "AS267507","SRX TECNOLOGIA DA INFORMACAO LTDA",7
 "AS269003","KIMNET SOLUCOES",7
 "AS27831","Colombia Móvil",7
+"AS30058","FDCservers.net",7
 "AS31122","Digiweb ltd",7
 "AS3216","PJSC ""Vimpelcom""",7
 "AS328471","HERO TELECOMS (PTY) LTD",7
@@ -533,7 +534,6 @@ ASN,Organization,IP_Count
 "AS27747","Telecentro S.A.",6
 "AS27983","Red Intercable Digital S.A.",6
 "AS28210","GIGA MAIS FIBRA TELECOMUNICACOES S.A.",6
-"AS30058","FDCservers.net",6
 "AS33588","Charter Communications",6
 "AS33771","Safaricom Limited",6
 "AS35297","Dataline LLC",6
