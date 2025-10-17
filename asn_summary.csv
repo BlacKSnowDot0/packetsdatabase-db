@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87661
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21846
-"AS398324","Censys, Inc.",12448
+"AS398324","Censys, Inc.",12449
 "AS396982","Google LLC",9999
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7583
+"AS14061","DigitalOcean, LLC",7584
 "AS16276","OVH SAS",5721
 "AS4134","Chinanet",4896
 "AS6568","Entel S.A. - EntelNet",4537
@@ -19,12 +19,12 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2644
 "AS142002","Scloud Pte Ltd",2550
-"AS6939","Hurricane Electric LLC",2378
+"AS6939","Hurricane Electric LLC",2379
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1695
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1505
-"AS0","",1449
+"AS0","",1450
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1364
 "AS215269","LAZYCLOUD LTD",1312
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS9829","Bharat Sanchar Nigam Ltd",383
+"AS9829","Bharat Sanchar Nigam Ltd",384
 "AS12876","ONLINE S.A.S.",376
 "AS7018","AT&T Enterprises, LLC",358
 "AS7922","Comcast Cable Communications, LLC",342
@@ -78,7 +78,7 @@ ASN,Organization,IP_Count
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",295
 "AS45899","VNPT Corp",293
 "AS9341","PT Indonesia Comnets Plus",286
-"AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",280
+"AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",281
 "AS7713","Telekomunikasi Indonesia (PT)",280
 "AS47890","UNMANAGED LTD",270
 "AS8151","Uninet S.A. de C.V.",260
@@ -102,7 +102,7 @@ ASN,Organization,IP_Count
 "AS47105","Vault Dweller OU",141
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
-"AS262551","Farol Telecom",126
+"AS262551","Farol Telecom",127
 "AS7552","Viettel Group",123
 "AS13238","YANDEX LLC",122
 "AS36007","Kamatera, Inc.",122
@@ -130,10 +130,10 @@ ASN,Organization,IP_Count
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
 "AS56046","China Mobile Communications Corporation",74
+"AS136435","ELITE COMMUNICATION",71
 "AS271795","SERVITELCONET CIA. LTDA.",71
 "AS31898","Oracle Corporation",71
 "AS40021","Nubes, LLC",70
-"AS136435","ELITE COMMUNICATION",69
 "AS52053","REDHEBERG Association declaree",69
 "AS328867","Corebach Backbone SARL",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
@@ -172,11 +172,11 @@ ASN,Organization,IP_Count
 "AS46844","Sharktech",44
 "AS10796","Charter Communications Inc",43
 "AS152194","CTG Server Limited",43
+"AS149746","PT Blip Integrator Provider",42
 "AS20001","Charter Communications Inc",42
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",42
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",42
-"AS149746","PT Blip Integrator Provider",41
 "AS12816","Leibniz-Rechenzentrum",39
 "AS21928","T-Mobile USA, Inc.",39
 "AS23969","TOT Public Company Limited",39
@@ -191,10 +191,10 @@ ASN,Organization,IP_Count
 "AS34665","Petersburg Internet Network ltd.",34
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",34
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",34
+"AS8048","CANTV Servicios, Venezuela",34
 "AS30633","Leaseweb USA, Inc.",33
 "AS42624","Global-Data System IT Corporation",33
 "AS45671","Servers Australia Pty. Ltd",33
-"AS8048","CANTV Servicios, Venezuela",33
 "AS9198","JSC Kazakhtelecom",33
 "AS9498","Bharti Airtel Limited",33
 "AS210558","1337 Services GmbH",32
@@ -652,6 +652,7 @@ ASN,Organization,IP_Count
 "AS208040","RSS (RAPID SOFTWARE SYSTEMS) CYPRUS LTD",4
 "AS208208","Marco Lingl trading as Cyberse GmbH & Co. KG",4
 "AS212042","Istqrar for Servers Services Ltd",4
+"AS212598","SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.",4
 "AS215439","PLAY2GO INTERNATIONAL LIMITED",4
 "AS22047","VTR BANDA ANCHA S.A.",4
 "AS22418","Cologuard",4
@@ -776,7 +777,6 @@ ASN,Organization,IP_Count
 "AS206262","TelKos L.L.C",3
 "AS207083","HostSlim B.V.",3
 "AS211826","Istqrar for Servers Services Ltd",3
-"AS212598","SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.",3
 "AS212695","Link Telecom Service Ltd",3
 "AS213354","INTERNATIONAL HOSTING SOLUTIONS LLP",3
 "AS21499","Host Europe GmbH",3
