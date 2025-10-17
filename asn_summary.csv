@@ -5,14 +5,14 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",12449
 "AS396982","Google LLC",9999
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7584
+"AS14061","DigitalOcean, LLC",7585
 "AS16276","OVH SAS",5721
 "AS4134","Chinanet",4896
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4429
 "AS16509","Amazon.com, Inc.",3841
 "AS45102","Alibaba (US) Technology Co., Ltd.",3732
-"AS63949","Akamai Technologies, Inc.",3528
+"AS63949","Akamai Technologies, Inc.",3529
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3182
 "AS51396","Pfcloud UG",3084
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",1069
 "AS36352","HostPapa",1005
-"AS32475","Internap Holding LLC",999
+"AS32475","Internap Holding LLC",1000
 "AS208684","BHA CONSEIL SARL",973
 "AS51852","Private Layer INC",907
 "AS23470","ReliableSite.Net LLC",896
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",608
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS10439","CariNet, Inc.",590
-"AS51167","Contabo GmbH",570
+"AS51167","Contabo GmbH",571
 "AS14618","Amazon.com, Inc.",561
 "AS31148","Freenet LTD",558
 "AS9009","M247 Europe SRL",534
