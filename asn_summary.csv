@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87666
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21849
-"AS398324","Censys, Inc.",12482
-"AS396982","Google LLC",10006
+"AS398324","Censys, Inc.",12483
+"AS396982","Google LLC",10007
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7599
 "AS16276","OVH SAS",5725
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",1073
-"AS32475","Internap Holding LLC",1025
+"AS32475","Internap Holding LLC",1027
 "AS36352","HostPapa",1023
 "AS208684","BHA CONSEIL SARL",974
 "AS51852","Private Layer INC",907
@@ -271,6 +271,7 @@ ASN,Organization,IP_Count
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS9299","Philippine Long Distance Telephone Co.",20
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",19
+"AS204834","Shabakieh Isfahan Co PJSC",19
 "AS214417","Andrii Hrosh",19
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",19
 "AS22927","Telefonica de Argentina",19
@@ -284,7 +285,6 @@ ASN,Organization,IP_Count
 "AS11878","tzulo, inc.",18
 "AS140061","China Telecom",18
 "AS17638","ASN for TIANJIN Provincial Net of CT",18
-"AS204834","Shabakieh Isfahan Co PJSC",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
 "AS24940","Hetzner Online GmbH",18
 "AS329009","Spectrum Internet Service Ltd",18
