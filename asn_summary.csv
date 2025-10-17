@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87663
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21847
-"AS398324","Censys, Inc.",12462
-"AS396982","Google LLC",10000
+"AS398324","Censys, Inc.",12465
+"AS396982","Google LLC",10001
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7588
-"AS16276","OVH SAS",5722
+"AS14061","DigitalOcean, LLC",7589
+"AS16276","OVH SAS",5723
 "AS4134","Chinanet",4896
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4429
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2550
 "AS6939","Hurricane Electric LLC",2384
 "AS9808","China Mobile",2074
-"AS202425","IP Volume inc",1695
+"AS202425","IP Volume inc",1696
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1505
 "AS0","",1450
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",1069
 "AS36352","HostPapa",1018
-"AS32475","Internap Holding LLC",1013
+"AS32475","Internap Holding LLC",1014
 "AS208684","BHA CONSEIL SARL",973
 "AS51852","Private Layer INC",907
 "AS23470","ReliableSite.Net LLC",896
@@ -86,7 +86,7 @@ ASN,Organization,IP_Count
 "AS60223","Netiface Limited",250
 "AS13335","Cloudflare, Inc.",241
 "AS209272","Alviva Holding Limited",230
-"AS213613","BOTSHIELD LTD",229
+"AS213613","BOTSHIELD LTD",230
 "AS208843","Alpha Strike Labs GmbH",228
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
@@ -120,7 +120,7 @@ ASN,Organization,IP_Count
 "AS34984","Superonline Iletisim Hizmetleri A.S.",87
 "AS58461","Chinanet",85
 "AS205352","KABELNET LTD",84
-"AS29066","velia.net Internetdienste GmbH",83
+"AS29066","velia.net Internetdienste GmbH",84
 "AS16735","ALGAR TELECOM S/A",81
 "AS28209","Under Servicos de Internet Ltda",79
 "AS200019","ALEXHOST SRL",78
@@ -204,11 +204,11 @@ ASN,Organization,IP_Count
 "AS8167","V tal",32
 "AS1680","Cellcom Fixed Line Communication L.P",31
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",31
+"AS38623","VIETTEL (CAMBODIA) PTE., LTD",31
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",31
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",31
 "AS200593","PROSPERO OOO",30
 "AS269193","Iktelecom Ltda",30
-"AS38623","VIETTEL (CAMBODIA) PTE., LTD",30
 "AS44592","SkyLink Data Center BV",30
 "AS5650","Frontier Communications of America, Inc.",30
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",29
