@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87665
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21849
-"AS398324","Censys, Inc.",12481
+"AS398324","Censys, Inc.",12482
 "AS396982","Google LLC",10006
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7599
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1506
 "AS0","",1451
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS398722","Censys, Inc.",1364
+"AS398722","Censys, Inc.",1365
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1259
 "AS204428","SS-Net",1182
@@ -35,8 +35,8 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",1071
-"AS32475","Internap Holding LLC",1022
-"AS36352","HostPapa",1022
+"AS32475","Internap Holding LLC",1023
+"AS36352","HostPapa",1023
 "AS208684","BHA CONSEIL SARL",974
 "AS51852","Private Layer INC",907
 "AS23470","ReliableSite.Net LLC",896
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS9829","Bharat Sanchar Nigam Ltd",385
+"AS9829","Bharat Sanchar Nigam Ltd",386
 "AS12876","ONLINE S.A.S.",377
 "AS7018","AT&T Enterprises, LLC",358
 "AS7922","Comcast Cable Communications, LLC",342
@@ -118,9 +118,9 @@ ASN,Organization,IP_Count
 "AS151185","China Telecom",89
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS34984","Superonline Iletisim Hizmetleri A.S.",87
+"AS29066","velia.net Internetdienste GmbH",85
 "AS58461","Chinanet",85
 "AS205352","KABELNET LTD",84
-"AS29066","velia.net Internetdienste GmbH",84
 "AS16735","ALGAR TELECOM S/A",81
 "AS28209","Under Servicos de Internet Ltda",79
 "AS200019","ALEXHOST SRL",78
