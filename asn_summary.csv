@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87663
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21847
-"AS398324","Censys, Inc.",12456
-"AS396982","Google LLC",9999
+"AS398324","Censys, Inc.",12458
+"AS396982","Google LLC",10000
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7587
 "AS16276","OVH SAS",5722
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",1069
 "AS36352","HostPapa",1010
-"AS32475","Internap Holding LLC",1006
+"AS32475","Internap Holding LLC",1008
 "AS208684","BHA CONSEIL SARL",973
 "AS51852","Private Layer INC",907
 "AS23470","ReliableSite.Net LLC",896
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",609
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS10439","CariNet, Inc.",591
-"AS51167","Contabo GmbH",571
+"AS51167","Contabo GmbH",572
 "AS14618","Amazon.com, Inc.",561
 "AS31148","Freenet LTD",558
 "AS9009","M247 Europe SRL",534
@@ -130,8 +130,8 @@ ASN,Organization,IP_Count
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
 "AS56046","China Mobile Communications Corporation",74
+"AS271795","SERVITELCONET CIA. LTDA.",72
 "AS136435","ELITE COMMUNICATION",71
-"AS271795","SERVITELCONET CIA. LTDA.",71
 "AS31898","Oracle Corporation",71
 "AS40021","Nubes, LLC",70
 "AS52053","REDHEBERG Association declaree",69
@@ -604,6 +604,7 @@ ASN,Organization,IP_Count
 "AS3737","PenTeleData Inc.",5
 "AS38365","Beijing Baidu Netcom Science and Technology Co., Ltd.",5
 "AS398025","Cumberland Connect",5
+"AS40676","Psychz Networks",5
 "AS45305","Lintas Data Prima, PT",5
 "AS45458","ADVANCED WIRELESS NETWORK COMPANY LIMITED",5
 "AS4721","JCOM Co., Ltd.",5
@@ -689,7 +690,6 @@ ASN,Organization,IP_Count
 "AS399296","Rackdog, LLC",4
 "AS400391","Pacific Wyyerd LLC",4
 "AS400992","ZhouyiSat Communications",4
-"AS40676","Psychz Networks",4
 "AS43754","Asiatech Data Transmission company",4
 "AS44395","Ucom CJSC",4
 "AS45284","Wireline Solution India Pvt Ltd.",4
