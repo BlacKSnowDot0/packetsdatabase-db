@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87666
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
-"AS211298","Driftnet Ltd",21854
-"AS398324","Censys, Inc.",12506
+"AS211298","Driftnet Ltd",21855
+"AS398324","Censys, Inc.",12510
 "AS396982","Google LLC",10012
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7603
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4429
 "AS16509","Amazon.com, Inc.",3841
 "AS45102","Alibaba (US) Technology Co., Ltd.",3734
-"AS63949","Akamai Technologies, Inc.",3529
+"AS63949","Akamai Technologies, Inc.",3530
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3182
 "AS51396","Pfcloud UG",3086
@@ -54,7 +54,7 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS9009","M247 Europe SRL",537
 "AS401120","cheapy.host LLC",534
-"AS4837","CHINA UNICOM China169 Backbone",529
+"AS4837","CHINA UNICOM China169 Backbone",530
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
@@ -86,8 +86,8 @@ ASN,Organization,IP_Count
 "AS60223","Netiface Limited",250
 "AS13335","Cloudflare, Inc.",243
 "AS213613","BOTSHIELD LTD",232
+"AS208843","Alpha Strike Labs GmbH",230
 "AS209272","Alviva Holding Limited",230
-"AS208843","Alpha Strike Labs GmbH",229
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS141718","haoxiangyun",195
@@ -160,12 +160,12 @@ ASN,Organization,IP_Count
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS8402","PJSC ""Vimpelcom""",53
 "AS213877","u1host ltd",51
-"AS20115","Charter Communications",48
+"AS20115","Charter Communications",49
 "AS266181","GOLDEN LINK",48
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
+"AS19318","Interserver, Inc",46
 "AS23724","IDC, China Telecommunications Corporation",46
-"AS19318","Interserver, Inc",45
 "AS210644","AEZA INTERNATIONAL LTD",45
 "AS396356","Latitude.sh",44
 "AS42708","GleSYS AB",44
