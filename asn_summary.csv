@@ -1,7 +1,7 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87666
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
-"AS211298","Driftnet Ltd",21857
+"AS211298","Driftnet Ltd",21858
 "AS398324","Censys, Inc.",12522
 "AS396982","Google LLC",10012
 "AS26210","AXS Bolivia S. A.",7972
@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4429
 "AS16509","Amazon.com, Inc.",3841
-"AS45102","Alibaba (US) Technology Co., Ltd.",3734
+"AS45102","Alibaba (US) Technology Co., Ltd.",3736
 "AS63949","Akamai Technologies, Inc.",3530
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3182
@@ -28,14 +28,14 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1365
 "AS215269","LAZYCLOUD LTD",1312
-"AS49870","Alsycon B.V.",1259
+"AS49870","Alsycon B.V.",1260
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",1074
-"AS32475","Internap Holding LLC",1035
+"AS32475","Internap Holding LLC",1038
 "AS36352","HostPapa",1026
 "AS208684","BHA CONSEIL SARL",975
 "AS51852","Private Layer INC",907
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS3462","Chunghwa Telecom Co., Ltd.",474
 "AS212238","Datacamp Limited",454
 "AS51115","HLL LLC",438
-"AS53667","FranTech Solutions",429
+"AS53667","FranTech Solutions",430
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS9829","Bharat Sanchar Nigam Ltd",391
