@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",12500
 "AS396982","Google LLC",10009
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7600
+"AS14061","DigitalOcean, LLC",7601
 "AS16276","OVH SAS",5725
 "AS4134","Chinanet",4897
 "AS6568","Entel S.A. - EntelNet",4537
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",611
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS10439","CariNet, Inc.",591
-"AS51167","Contabo GmbH",572
+"AS51167","Contabo GmbH",573
 "AS14618","Amazon.com, Inc.",561
 "AS31148","Freenet LTD",558
 "AS9009","M247 Europe SRL",537
@@ -85,8 +85,8 @@ ASN,Organization,IP_Count
 "AS48090","TECHOFF SRV LIMITED",254
 "AS60223","Netiface Limited",250
 "AS13335","Cloudflare, Inc.",243
+"AS213613","BOTSHIELD LTD",231
 "AS209272","Alviva Holding Limited",230
-"AS213613","BOTSHIELD LTD",230
 "AS208843","Alpha Strike Labs GmbH",229
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
@@ -226,10 +226,10 @@ ASN,Organization,IP_Count
 "AS2200","Renater",26
 "AS3209","Vodafone GmbH",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
+"AS146817","Hubei Feixun Network Co., Ltd",25
 "AS53118","NETLINE TELECOM",25
 "AS58224","Iran Telecommunication Company PJS",25
 "AS1103","SURF B.V.",24
-"AS146817","Hubei Feixun Network Co., Ltd",24
 "AS18881","TELEFÔNICA BRASIL S.A",24
 "AS197540","netcup GmbH",24
 "AS209","CenturyLink Communications, LLC",24
@@ -329,6 +329,7 @@ ASN,Organization,IP_Count
 "AS4816","China Telecom (Group)",15
 "AS852","TELUS Communications Inc.",15
 "AS136142","Enigma Fiber Pvt Ltd",14
+"AS140726","China Unicom",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS21127","Joint Stock Company TransTeleCom",14
 "AS27947","Telconet S.A",14
@@ -341,7 +342,6 @@ ASN,Organization,IP_Count
 "AS812","Rogers Communications Canada Inc.",14
 "AS11232","Midcontinent Communications",13
 "AS11427","Charter Communications Inc",13
-"AS140726","China Unicom",13
 "AS15895","""Kyivstar"" PJSC",13
 "AS16591","Google Fiber Inc.",13
 "AS17621","China Unicom Shanghai network",13
