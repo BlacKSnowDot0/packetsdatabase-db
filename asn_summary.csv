@@ -1,9 +1,9 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87666
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
-"AS211298","Driftnet Ltd",21851
-"AS398324","Censys, Inc.",12486
-"AS396982","Google LLC",10007
+"AS211298","Driftnet Ltd",21852
+"AS398324","Censys, Inc.",12492
+"AS396982","Google LLC",10008
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7599
 "AS16276","OVH SAS",5725
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1697
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1506
-"AS0","",1453
+"AS0","",1454
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1365
 "AS215269","LAZYCLOUD LTD",1312
@@ -354,6 +354,7 @@ ASN,Organization,IP_Count
 "AS37457","Telkom SA Ltd.",13
 "AS4808","China Unicom Beijing Province Network",13
 "AS53006","ALGAR TELECOM S/A",13
+"AS56067","Metrabyte Co.,Ltd",13
 "AS12400","Partner Communications Ltd.",12
 "AS15704","XTRA TELECOM S.A.",12
 "AS213438","ColocaTel Inc.",12
@@ -364,7 +365,6 @@ ASN,Organization,IP_Count
 "AS36992","ETISALAT MISR",12
 "AS38264","Wateen Telecom Limited",12
 "AS41075","ATW Internet Kft.",12
-"AS56067","Metrabyte Co.,Ltd",12
 "AS5607","Sky UK Limited",12
 "AS62442","Dade Samane Fanava Company (PJS)",12
 "AS63859","PT. Eka Mas Republik",12
