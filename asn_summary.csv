@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87666
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21857
-"AS398324","Censys, Inc.",12513
+"AS398324","Censys, Inc.",12516
 "AS396982","Google LLC",10012
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7603
-"AS16276","OVH SAS",5725
+"AS14061","DigitalOcean, LLC",7604
+"AS16276","OVH SAS",5726
 "AS4134","Chinanet",4898
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4429
@@ -17,7 +17,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3182
 "AS51396","Pfcloud UG",3086
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2646
+"AS8075","Microsoft Corporation",2647
 "AS142002","Scloud Pte Ltd",2552
 "AS6939","Hurricane Electric LLC",2384
 "AS9808","China Mobile",2074
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",1073
-"AS32475","Internap Holding LLC",1033
+"AS32475","Internap Holding LLC",1034
 "AS36352","HostPapa",1025
 "AS208684","BHA CONSEIL SARL",975
 "AS51852","Private Layer INC",907
@@ -61,7 +61,7 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",489
 "AS3462","Chunghwa Telecom Co., Ltd.",474
 "AS212238","Datacamp Limited",454
-"AS51115","HLL LLC",436
+"AS51115","HLL LLC",437
 "AS53667","FranTech Solutions",429
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
@@ -118,7 +118,7 @@ ASN,Organization,IP_Count
 "AS151185","China Telecom",89
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS34984","Superonline Iletisim Hizmetleri A.S.",89
-"AS29066","velia.net Internetdienste GmbH",87
+"AS29066","velia.net Internetdienste GmbH",88
 "AS58461","Chinanet",85
 "AS205352","KABELNET LTD",84
 "AS16735","ALGAR TELECOM S/A",81
@@ -308,6 +308,7 @@ ASN,Organization,IP_Count
 "AS25198","INTERKVM HOST SRL",16
 "AS39603","P4 Sp. z o.o.",16
 "AS46261","QuickPacket, LLC",16
+"AS4816","China Telecom (Group)",16
 "AS5384","EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",16
 "AS6597","Coloblox Data Centers Inc",16
 "AS6697","Republican Unitary Telecommunication Enterprise Beltelecom",16
@@ -327,7 +328,6 @@ ASN,Organization,IP_Count
 "AS2914","NTT America, Inc.",15
 "AS31113","Artkomm LLC",15
 "AS397283","RocketNode Inc",15
-"AS4816","China Telecom (Group)",15
 "AS852","TELUS Communications Inc.",15
 "AS140726","China Unicom",14
 "AS204104","Giti Secure Cloud LLC",14
