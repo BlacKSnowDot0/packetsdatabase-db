@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
-"AS174","Cogent Communications",1073
+"AS174","Cogent Communications",1074
 "AS32475","Internap Holding LLC",1035
 "AS36352","HostPapa",1026
 "AS208684","BHA CONSEIL SARL",975
@@ -54,7 +54,7 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS9009","M247 Europe SRL",537
 "AS401120","cheapy.host LLC",534
-"AS4837","CHINA UNICOM China169 Backbone",530
+"AS4837","CHINA UNICOM China169 Backbone",531
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
@@ -454,6 +454,7 @@ ASN,Organization,IP_Count
 "AS3215","Orange S.A.",8
 "AS328723","Telasera Technologies PTY LTD",8
 "AS38283","CHINANET SiChuan Telecom Internet Data Center",8
+"AS40676","Psychz Networks",8
 "AS41608","NextGenWebs, S.L.",8
 "AS4609","Companhia de Telecomunicacoes de Macau",8
 "AS47524","Turksat Uydu Haberlesme ve Kablo TV Isletme A.S.",8
@@ -486,7 +487,6 @@ ASN,Organization,IP_Count
 "AS3216","PJSC ""Vimpelcom""",7
 "AS328471","HERO TELECOMS (PTY) LTD",7
 "AS36903","Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",7
-"AS40676","Psychz Networks",7
 "AS48282","Hosting technology LTD",7
 "AS49505","JSC Selectel",7
 "AS50923","Metroset Ltd.",7
