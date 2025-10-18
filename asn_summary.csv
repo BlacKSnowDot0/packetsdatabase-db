@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87666
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21852
-"AS398324","Censys, Inc.",12495
+"AS398324","Censys, Inc.",12496
 "AS396982","Google LLC",10008
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7599
@@ -255,6 +255,7 @@ ASN,Organization,IP_Count
 "AS7303","Telecom Argentina S.A.",22
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",22
 "AS9123","TimeWeb Ltd.",22
+"AS141995","Contabo Asia Private Limited",21
 "AS17561","Larus Limited",21
 "AS17816","China Unicom IP network China169 Guangdong province",21
 "AS214668","AxusHost B.V.",21
@@ -263,7 +264,6 @@ ASN,Organization,IP_Count
 "AS46573","LayerHost",21
 "AS4800","PT Aplikanusa Lintasarta",21
 "AS50887","DC FIBER HOME SRL",21
-"AS141995","Contabo Asia Private Limited",20
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
@@ -419,6 +419,7 @@ ASN,Organization,IP_Count
 "AS135059","Lao Asia Pacific Satellite Co., Ltd.",9
 "AS142032","High Family Technology Co., Limited",9
 "AS20011","Dimension Data",9
+"AS200590","NLS Kazakhstan LLC",9
 "AS212504","AdKyNet SAS",9
 "AS213520","Senko Digital Ltd",9
 "AS214481","Wojciech Czapkowicz",9
@@ -444,7 +445,6 @@ ASN,Organization,IP_Count
 "AS18986","Calligo (Canada) Inc.",8
 "AS197309","RS-Media LLC",8
 "AS198361","Yaglom Labs Ltd",8
-"AS200590","NLS Kazakhstan LLC",8
 "AS209956","Telkoturk Iletisim Hizmetleri A.S.",8
 "AS24812","NPK Home-Net Ltd.",8
 "AS262459","Osirnet Info Telecom Ltda.",8
