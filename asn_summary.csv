@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87666
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
 "AS211298","Driftnet Ltd",21854
-"AS398324","Censys, Inc.",12503
+"AS398324","Censys, Inc.",12504
 "AS396982","Google LLC",10012
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7602
@@ -85,7 +85,7 @@ ASN,Organization,IP_Count
 "AS48090","TECHOFF SRV LIMITED",254
 "AS60223","Netiface Limited",250
 "AS13335","Cloudflare, Inc.",243
-"AS213613","BOTSHIELD LTD",231
+"AS213613","BOTSHIELD LTD",232
 "AS209272","Alviva Holding Limited",230
 "AS208843","Alpha Strike Labs GmbH",229
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
@@ -1606,6 +1606,7 @@ ASN,Organization,IP_Count
 "AS202578","""KUBANENERGOSERVICE"" LLC",1
 "AS202700","Individual entrepreneur Kushkhov Azret Ali Alisakhovich",1
 "AS202719","Pranet s.r.o.",1
+"AS202796","JSR IT B.V.",1
 "AS202838","OOO ""Intercom""",1
 "AS20294","MTN Uganda",1
 "AS202993","Institute of Information Technologies of National Academy of Science Azerbaijan",1
