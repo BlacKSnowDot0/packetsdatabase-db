@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87666
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
-"AS211298","Driftnet Ltd",21852
-"AS398324","Censys, Inc.",12497
+"AS211298","Driftnet Ltd",21853
+"AS398324","Censys, Inc.",12499
 "AS396982","Google LLC",10009
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7600
@@ -486,6 +486,7 @@ ASN,Organization,IP_Count
 "AS3216","PJSC ""Vimpelcom""",7
 "AS328471","HERO TELECOMS (PTY) LTD",7
 "AS36903","Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",7
+"AS40676","Psychz Networks",7
 "AS48282","Hosting technology LTD",7
 "AS49505","JSC Selectel",7
 "AS50923","Metroset Ltd.",7
@@ -542,7 +543,6 @@ ASN,Organization,IP_Count
 "AS39521","TNGNET B.V.",6
 "AS397270","NetInformatik Inc.",6
 "AS399765","FasNET Services LLC",6
-"AS40676","Psychz Networks",6
 "AS48642","Joint stock company ""For""",6
 "AS50304","Blix Solutions AS",6
 "AS56971","CGI GLOBAL LIMITED",6
