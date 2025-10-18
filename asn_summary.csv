@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87666
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70568
-"AS211298","Driftnet Ltd",21849
-"AS398324","Censys, Inc.",12483
+"AS211298","Driftnet Ltd",21851
+"AS398324","Censys, Inc.",12486
 "AS396982","Google LLC",10007
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7599
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1697
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1506
-"AS0","",1451
+"AS0","",1453
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1365
 "AS215269","LAZYCLOUD LTD",1312
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",1073
-"AS32475","Internap Holding LLC",1027
+"AS32475","Internap Holding LLC",1030
 "AS36352","HostPapa",1023
 "AS208684","BHA CONSEIL SARL",974
 "AS51852","Private Layer INC",907
@@ -187,8 +187,8 @@ ASN,Organization,IP_Count
 "AS6128","Cablevision Systems Corp.",36
 "AS20473","The Constant Company, LLC",35
 "AS213790","Limited Network LTD",35
+"AS30633","Leaseweb USA, Inc.",35
 "AS4538","China Education and Research Network Center",35
-"AS30633","Leaseweb USA, Inc.",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS42624","Global-Data System IT Corporation",34
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",34
@@ -346,6 +346,7 @@ ASN,Organization,IP_Count
 "AS16591","Google Fiber Inc.",13
 "AS17621","China Unicom Shanghai network",13
 "AS19901","Brightspeed",13
+"AS212913","FOP Hornostay Mykhaylo Ivanovych",13
 "AS213194","Nechaev Dmitry Sergeevich",13
 "AS25369","Hydra Communications Ltd",13
 "AS28840","PJSC ""TATTELECOM""",13
@@ -355,7 +356,6 @@ ASN,Organization,IP_Count
 "AS53006","ALGAR TELECOM S/A",13
 "AS12400","Partner Communications Ltd.",12
 "AS15704","XTRA TELECOM S.A.",12
-"AS212913","FOP Hornostay Mykhaylo Ivanovych",12
 "AS213438","ColocaTel Inc.",12
 "AS2637","Georgia Institute of Technology",12
 "AS271597","NEW LINK CONNECT",12
@@ -1620,6 +1620,7 @@ ASN,Organization,IP_Count
 "AS204770","UAB Cherry Servers",1
 "AS204997","FIRST SERVER LIMITED",1
 "AS205157","Daniel Cid",1
+"AS205463","Pembe Gul Isguzar Karagoz",1
 "AS20598","Autonomous System number for Cyber Space,",1
 "AS206026","Kar-Tel LLC",1
 "AS206077","Lecrin Television S.L.",1
