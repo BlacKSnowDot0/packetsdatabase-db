@@ -1,17 +1,17 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87667
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70569
-"AS211298","Driftnet Ltd",21860
+"AS211298","Driftnet Ltd",21863
 "AS398324","Censys, Inc.",12544
 "AS396982","Google LLC",10017
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7607
 "AS16276","OVH SAS",5732
-"AS4134","Chinanet",4899
+"AS4134","Chinanet",4900
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4429
 "AS16509","Amazon.com, Inc.",3841
-"AS45102","Alibaba (US) Technology Co., Ltd.",3740
+"AS45102","Alibaba (US) Technology Co., Ltd.",3741
 "AS63949","Akamai Technologies, Inc.",3530
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3182
@@ -132,8 +132,8 @@ ASN,Organization,IP_Count
 "AS56046","China Mobile Communications Corporation",74
 "AS136435","ELITE COMMUNICATION",72
 "AS271795","SERVITELCONET CIA. LTDA.",72
+"AS40021","Nubes, LLC",72
 "AS31898","Oracle Corporation",71
-"AS40021","Nubes, LLC",71
 "AS52053","REDHEBERG Association declaree",69
 "AS328867","Corebach Backbone SARL",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
@@ -142,8 +142,8 @@ ASN,Organization,IP_Count
 "AS3920","ESTOXY OU",65
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
+"AS199785","Cloud Hosting Solutions, Limited.",63
 "AS57588","Hayat for Internet & communication LLC",63
-"AS199785","Cloud Hosting Solutions, Limited.",62
 "AS140717","China Unicom",61
 "AS32934","Facebook, Inc.",60
 "AS4812","China Telecom (Group)",58
@@ -188,9 +188,9 @@ ASN,Organization,IP_Count
 "AS20473","The Constant Company, LLC",35
 "AS213790","Limited Network LTD",35
 "AS30633","Leaseweb USA, Inc.",35
+"AS42624","Global-Data System IT Corporation",35
 "AS4538","China Education and Research Network Center",35
 "AS34665","Petersburg Internet Network ltd.",34
-"AS42624","Global-Data System IT Corporation",34
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",34
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",34
 "AS8048","CANTV Servicios, Venezuela",34
