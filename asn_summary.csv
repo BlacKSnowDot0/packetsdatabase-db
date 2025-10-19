@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87667
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70569
 "AS211298","Driftnet Ltd",21860
-"AS398324","Censys, Inc.",12541
+"AS398324","Censys, Inc.",12542
 "AS396982","Google LLC",10017
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7607
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1699
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1506
-"AS0","",1454
+"AS0","",1455
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1365
 "AS215269","LAZYCLOUD LTD",1312
@@ -39,7 +39,7 @@ ASN,Organization,IP_Count
 "AS36352","HostPapa",1037
 "AS208684","BHA CONSEIL SARL",975
 "AS51852","Private Layer INC",907
-"AS23470","ReliableSite.Net LLC",898
+"AS23470","ReliableSite.Net LLC",899
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",815
@@ -466,6 +466,7 @@ ASN,Organization,IP_Count
 "AS12353","Vodafone Portugal - Communicacoes Pessoais S.A.",7
 "AS133661","Netplus Broadband Services Private Limited",7
 "AS133982","Excitel Broadband Private Limited",7
+"AS141433","Netcom Internet Service",7
 "AS153096","PT High Speed Connection Network",7
 "AS17451","BIZNET NETWORKS",7
 "AS17676","SoftBank Corp.",7
@@ -508,7 +509,6 @@ ASN,Organization,IP_Count
 "AS135953","Vietnam Online Network Solution Joint Stock Compnay",6
 "AS13999","Mega Cable, S.A. de C.V.",6
 "AS141167","AgotoZ HK Limited",6
-"AS141433","Netcom Internet Service",6
 "AS149078","VPSMMO TECHNOLOGY COMPANY LIMITED",6
 "AS16611","InfiniaHost.com",6
 "AS17754","Excellmedia",6
