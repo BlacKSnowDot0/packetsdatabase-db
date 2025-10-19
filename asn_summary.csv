@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
-"AS174","Cogent Communications",1074
+"AS174","Cogent Communications",1075
 "AS32475","Internap Holding LLC",1041
 "AS36352","HostPapa",1031
 "AS208684","BHA CONSEIL SARL",975
@@ -103,7 +103,7 @@ ASN,Organization,IP_Count
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
 "AS262551","Farol Telecom",127
-"AS42237","w1n ltd",123
+"AS42237","w1n ltd",124
 "AS7552","Viettel Group",123
 "AS13238","YANDEX LLC",122
 "AS36007","Kamatera, Inc.",122
@@ -130,8 +130,8 @@ ASN,Organization,IP_Count
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
 "AS56046","China Mobile Communications Corporation",74
+"AS136435","ELITE COMMUNICATION",72
 "AS271795","SERVITELCONET CIA. LTDA.",72
-"AS136435","ELITE COMMUNICATION",71
 "AS31898","Oracle Corporation",71
 "AS40021","Nubes, LLC",71
 "AS52053","REDHEBERG Association declaree",69
@@ -883,6 +883,7 @@ ASN,Organization,IP_Count
 "AS61908","Nova Net Telecomunicações Ltda",3
 "AS63139","BEDGE CO LIMITED",3
 "AS64074","Alpha Broadway System",3
+"AS64236","UnReal Servers, LLC",3
 "AS6821","Makedonski Telekom AD-Skopje",3
 "AS6848","Telenet BV",3
 "AS7482","Asia Pacific On-line Service Inc.",3
@@ -1268,7 +1269,6 @@ ASN,Organization,IP_Count
 "AS61937","Oquei Telecom Ltda EPP",2
 "AS61942","TURBONET TELECOM LTDA",2
 "AS63508","PT DINAMIKA MEDIAKOM",2
-"AS64236","UnReal Servers, LLC",2
 "AS6580","Golden West Telecommunications Coop., Inc.",2
 "AS6724","Strato AG",2
 "AS6768","""EUROTELE-PLUS"" LLC",2
