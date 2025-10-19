@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",12539
 "AS396982","Google LLC",10017
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7606
+"AS14061","DigitalOcean, LLC",7607
 "AS16276","OVH SAS",5732
 "AS4134","Chinanet",4899
 "AS6568","Entel S.A. - EntelNet",4537
@@ -33,8 +33,8 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
+"AS174","Cogent Communications",1076
 "AS201401","NewVM B.V.",1076
-"AS174","Cogent Communications",1075
 "AS32475","Internap Holding LLC",1041
 "AS36352","HostPapa",1031
 "AS208684","BHA CONSEIL SARL",975
@@ -2323,6 +2323,7 @@ ASN,Organization,IP_Count
 "AS395011","City and County of San Francisco",1
 "AS395035","LiveOak Fiber",1
 "AS395165","Madison Telephone LLC",1
+"AS395839","HOSTKEY",1
 "AS396073","Majestic Hosting Solutions, LLC",1
 "AS39798","MivoCloud SRL",1
 "AS39811","MTS PJSC",1
