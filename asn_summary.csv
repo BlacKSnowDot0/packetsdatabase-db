@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1700
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1507
-"AS0","",1458
+"AS0","",1459
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1365
 "AS215269","LAZYCLOUD LTD",1312
@@ -54,7 +54,7 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS9009","M247 Europe SRL",537
 "AS401120","cheapy.host LLC",535
-"AS4837","CHINA UNICOM China169 Backbone",533
+"AS4837","CHINA UNICOM China169 Backbone",534
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
@@ -407,6 +407,7 @@ ASN,Organization,IP_Count
 "AS37105","RAIN GROUP HOLDINGS (PTY) LTD",10
 "AS37611","Afrihost (Pty) Ltd",10
 "AS37705","TOPNET",10
+"AS40676","Psychz Networks",10
 "AS41420","Xentech B.V.",10
 "AS44901","Belcloud LTD",10
 "AS49434","FBW NETWORKS SAS",10
@@ -427,7 +428,6 @@ ASN,Organization,IP_Count
 "AS267280","YELLOW CONNECT MULTIMIDIA LTDA ME",9
 "AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",9
 "AS40244","Turnkey Internet Inc.",9
-"AS40676","Psychz Networks",9
 "AS4847","China Networks Inter-Exchange",9
 "AS48874","HOSTMAZE INC SRL-D",9
 "AS5617","Orange Polska Spolka Akcyjna",9
