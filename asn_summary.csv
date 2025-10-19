@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87666
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70569
 "AS211298","Driftnet Ltd",21859
-"AS398324","Censys, Inc.",12531
-"AS396982","Google LLC",10016
+"AS398324","Censys, Inc.",12536
+"AS396982","Google LLC",10017
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7605
 "AS16276","OVH SAS",5729
@@ -17,7 +17,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3182
 "AS51396","Pfcloud UG",3086
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2648
+"AS8075","Microsoft Corporation",2649
 "AS142002","Scloud Pte Ltd",2552
 "AS6939","Hurricane Electric LLC",2384
 "AS9808","China Mobile",2074
@@ -35,8 +35,8 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",1074
-"AS32475","Internap Holding LLC",1038
-"AS36352","HostPapa",1030
+"AS32475","Internap Holding LLC",1041
+"AS36352","HostPapa",1031
 "AS208684","BHA CONSEIL SARL",975
 "AS51852","Private Layer INC",907
 "AS23470","ReliableSite.Net LLC",898
@@ -48,7 +48,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",705
 "AS20052","Arbor Networks, Inc.",612
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS10439","CariNet, Inc.",593
+"AS10439","CariNet, Inc.",595
 "AS51167","Contabo GmbH",577
 "AS14618","Amazon.com, Inc.",562
 "AS31148","Freenet LTD",558
@@ -125,8 +125,8 @@ ASN,Organization,IP_Count
 "AS28209","Under Servicos de Internet Ltda",79
 "AS200019","ALEXHOST SRL",78
 "AS4766","Korea Telecom",78
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",76
 "AS211736","FOP Dmytro Nedilskyi",76
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",75
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
 "AS56046","China Mobile Communications Corporation",74
@@ -1737,6 +1737,7 @@ ASN,Organization,IP_Count
 "AS24699","PJSC Rostelecom",1
 "AS24722","LLC Babilon-T",1
 "AS24758","Mikroel Ltd",1
+"AS24768","ALMOUROLTEC SERVICOS DE INFORMATICA E INTERNET LDA",1
 "AS25106","Mobile TeleSystems JLLC",1
 "AS2514","NTT PC Communications, Inc.",1
 "AS25403","Firm Delta PE",1
