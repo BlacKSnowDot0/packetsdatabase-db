@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87666
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70569
 "AS211298","Driftnet Ltd",21859
-"AS398324","Censys, Inc.",12527
-"AS396982","Google LLC",10015
+"AS398324","Censys, Inc.",12531
+"AS396982","Google LLC",10016
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7605
 "AS16276","OVH SAS",5729
@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4429
 "AS16509","Amazon.com, Inc.",3841
-"AS45102","Alibaba (US) Technology Co., Ltd.",3736
+"AS45102","Alibaba (US) Technology Co., Ltd.",3737
 "AS63949","Akamai Technologies, Inc.",3530
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3182
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2552
 "AS6939","Hurricane Electric LLC",2384
 "AS9808","China Mobile",2074
-"AS202425","IP Volume inc",1698
+"AS202425","IP Volume inc",1699
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1506
 "AS0","",1454
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1076
 "AS174","Cogent Communications",1074
 "AS32475","Internap Holding LLC",1038
-"AS36352","HostPapa",1027
+"AS36352","HostPapa",1030
 "AS208684","BHA CONSEIL SARL",975
 "AS51852","Private Layer INC",907
 "AS23470","ReliableSite.Net LLC",898
@@ -48,8 +48,8 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",705
 "AS20052","Arbor Networks, Inc.",612
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS10439","CariNet, Inc.",592
-"AS51167","Contabo GmbH",576
+"AS10439","CariNet, Inc.",593
+"AS51167","Contabo GmbH",577
 "AS14618","Amazon.com, Inc.",562
 "AS31148","Freenet LTD",558
 "AS9009","M247 Europe SRL",537
@@ -58,7 +58,7 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
-"AS201814","MEVSPACE sp. z o.o.",489
+"AS201814","MEVSPACE sp. z o.o.",490
 "AS3462","Chunghwa Telecom Co., Ltd.",474
 "AS212238","Datacamp Limited",454
 "AS51115","HLL LLC",439
@@ -115,10 +115,10 @@ ASN,Organization,IP_Count
 "AS28573","Claro NXT Telecomunicacoes Ltda",99
 "AS47331","TTNet A.S.",95
 "AS63018","Dedicated.com",92
-"AS151185","China Telecom",89
+"AS151185","China Telecom",90
 "AS210125","PRIAM NET Sh.p.k.",89
+"AS29066","velia.net Internetdienste GmbH",89
 "AS34984","Superonline Iletisim Hizmetleri A.S.",89
-"AS29066","velia.net Internetdienste GmbH",88
 "AS58461","Chinanet",85
 "AS205352","KABELNET LTD",84
 "AS16735","ALGAR TELECOM S/A",81
