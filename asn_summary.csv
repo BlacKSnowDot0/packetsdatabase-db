@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87673
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70569
 "AS211298","Driftnet Ltd",21865
-"AS398324","Censys, Inc.",12563
+"AS398324","Censys, Inc.",12565
 "AS396982","Google LLC",10025
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7609
@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4429
 "AS16509","Amazon.com, Inc.",3841
-"AS45102","Alibaba (US) Technology Co., Ltd.",3748
+"AS45102","Alibaba (US) Technology Co., Ltd.",3749
 "AS63949","Akamai Technologies, Inc.",3530
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3182
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1700
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1507
-"AS0","",1457
+"AS0","",1458
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1365
 "AS215269","LAZYCLOUD LTD",1312
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS174","Cogent Communications",1076
+"AS174","Cogent Communications",1077
 "AS201401","NewVM B.V.",1076
 "AS32475","Internap Holding LLC",1051
 "AS36352","HostPapa",1040
@@ -80,7 +80,7 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",286
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",281
 "AS7713","Telekomunikasi Indonesia (PT)",280
-"AS47890","UNMANAGED LTD",270
+"AS47890","UNMANAGED LTD",271
 "AS8151","Uninet S.A. de C.V.",260
 "AS48090","TECHOFF SRV LIMITED",254
 "AS60223","Netiface Limited",250
@@ -605,6 +605,7 @@ ASN,Organization,IP_Count
 "AS3737","PenTeleData Inc.",5
 "AS38365","Beijing Baidu Netcom Science and Technology Co., Ltd.",5
 "AS398025","Cumberland Connect",5
+"AS400992","ZhouyiSat Communications",5
 "AS45305","Lintas Data Prima, PT",5
 "AS45458","ADVANCED WIRELESS NETWORK COMPANY LIMITED",5
 "AS4721","JCOM Co., Ltd.",5
@@ -690,7 +691,6 @@ ASN,Organization,IP_Count
 "AS39891","Saudi Telecom Company JSC",4
 "AS399296","Rackdog, LLC",4
 "AS400391","Pacific Wyyerd LLC",4
-"AS400992","ZhouyiSat Communications",4
 "AS43754","Asiatech Data Transmission company",4
 "AS44395","Ucom CJSC",4
 "AS45284","Wireline Solution India Pvt Ltd.",4
