@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87666
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70569
 "AS211298","Driftnet Ltd",21860
-"AS398324","Censys, Inc.",12537
+"AS398324","Censys, Inc.",12539
 "AS396982","Google LLC",10017
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7606
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",804
 "AS215925","VPSVAULT.HOST LTD",795
 "AS211680","NSEC - Sistemas Informaticos, S.A.",705
-"AS20052","Arbor Networks, Inc.",612
+"AS20052","Arbor Networks, Inc.",613
 "AS10439","CariNet, Inc.",596
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS51167","Contabo GmbH",577
@@ -90,7 +90,7 @@ ASN,Organization,IP_Count
 "AS209272","Alviva Holding Limited",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
-"AS141718","haoxiangyun",195
+"AS141718","haoxiangyun",196
 "AS701","Verizon Business",192
 "AS12389","PJSC Rostelecom",186
 "AS12555","Data-center IMAQLIQ Ltd.",181
@@ -137,11 +137,11 @@ ASN,Organization,IP_Count
 "AS52053","REDHEBERG Association declaree",69
 "AS328867","Corebach Backbone SARL",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
+"AS11320","LightEdge Solutions",65
 "AS3920","ESTOXY OU",65
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS8560","IONOS SE",65
-"AS11320","LightEdge Solutions",64
 "AS57588","Hayat for Internet & communication LLC",63
 "AS199785","Cloud Hosting Solutions, Limited.",62
 "AS140717","China Unicom",61
@@ -211,12 +211,12 @@ ASN,Organization,IP_Count
 "AS269193","Iktelecom Ltda",30
 "AS44592","SkyLink Data Center BV",30
 "AS5650","Frontier Communications of America, Inc.",30
+"AS200514","KnownSRV Ltd.",29
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS1241","RIPE Network Coordination Centre",28
 "AS141679","China Telecom",28
-"AS200514","KnownSRV Ltd.",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
