@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87673
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70569
 "AS211298","Driftnet Ltd",21865
-"AS398324","Censys, Inc.",12562
+"AS398324","Censys, Inc.",12563
 "AS396982","Google LLC",10025
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7609
@@ -17,7 +17,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3182
 "AS51396","Pfcloud UG",3086
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2650
+"AS8075","Microsoft Corporation",2651
 "AS142002","Scloud Pte Ltd",2552
 "AS6939","Hurricane Electric LLC",2384
 "AS9808","China Mobile",2074
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS3462","Chunghwa Telecom Co., Ltd.",474
 "AS212238","Datacamp Limited",454
 "AS51115","HLL LLC",439
-"AS53667","FranTech Solutions",431
+"AS53667","FranTech Solutions",432
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS9829","Bharat Sanchar Nigam Ltd",392
@@ -142,8 +142,8 @@ ASN,Organization,IP_Count
 "AS3920","ESTOXY OU",65
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
+"AS57588","Hayat for Internet & communication LLC",65
 "AS199785","Cloud Hosting Solutions, Limited.",63
-"AS57588","Hayat for Internet & communication LLC",63
 "AS140717","China Unicom",61
 "AS32934","Facebook, Inc.",60
 "AS4812","China Telecom (Group)",58
@@ -268,11 +268,11 @@ ASN,Organization,IP_Count
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
 "AS204834","Shabakieh Isfahan Co PJSC",20
+"AS214417","Andrii Hrosh",20
 "AS2856","British Telecommunications PLC",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS9299","Philippine Long Distance Telephone Co.",20
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",19
-"AS214417","Andrii Hrosh",19
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",19
 "AS22927","Telefonica de Argentina",19
 "AS24348","CERNET2 IX at Tsinghua University",19
