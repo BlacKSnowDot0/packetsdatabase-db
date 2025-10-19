@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87667
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70569
 "AS211298","Driftnet Ltd",21864
-"AS398324","Censys, Inc.",12544
-"AS396982","Google LLC",10018
+"AS398324","Censys, Inc.",12545
+"AS396982","Google LLC",10019
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7607
 "AS16276","OVH SAS",5732
@@ -352,6 +352,7 @@ ASN,Organization,IP_Count
 "AS25369","Hydra Communications Ltd",13
 "AS28840","PJSC ""TATTELECOM""",13
 "AS29465","MTN NIGERIA Communication limited",13
+"AS30823","aurologic GmbH",13
 "AS37457","Telkom SA Ltd.",13
 "AS4808","China Unicom Beijing Province Network",13
 "AS53006","ALGAR TELECOM S/A",13
@@ -360,7 +361,6 @@ ASN,Organization,IP_Count
 "AS213438","ColocaTel Inc.",12
 "AS2637","Georgia Institute of Technology",12
 "AS271597","NEW LINK CONNECT",12
-"AS30823","aurologic GmbH",12
 "AS35042","Layer7 Networks GmbH",12
 "AS36992","ETISALAT MISR",12
 "AS38264","Wateen Telecom Limited",12
@@ -677,6 +677,7 @@ ASN,Organization,IP_Count
 "AS30753","FHU ""COMPOWER"" Dariusz Krocz",4
 "AS31042","Serbia BroadBand-Srpske Kablovske mreze d.o.o.",4
 "AS328510","Ikeja Wireless (Pty) Ltd",4
+"AS329244","Connect, Surf and Smile Limited",4
 "AS3301","Telia Company AB",4
 "AS3329","VODAFONE-PANAFON HELLENIC TELECOMMUNICATIONS COMPANY SA",4
 "AS3356","Level 3 Communications, Inc.",4
@@ -833,7 +834,6 @@ ASN,Organization,IP_Count
 "AS327724","National Information Technology Authority Uganda",3
 "AS32809","Dickey Rural Networks",3
 "AS328539","Giga for Telecommunication and Technology Limited",3
-"AS329244","Connect, Surf and Smile Limited",3
 "AS3303","Swisscom (Schweiz) AG",3
 "AS3326","PRIVATE JOINT STOCK COMPANY ""DATAGROUP""",3
 "AS33616","Co-Mo Comm Inc",3
