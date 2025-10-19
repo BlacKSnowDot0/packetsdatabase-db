@@ -1,12 +1,12 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87666
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70569
-"AS211298","Driftnet Ltd",21859
-"AS398324","Censys, Inc.",12536
+"AS211298","Driftnet Ltd",21860
+"AS398324","Censys, Inc.",12537
 "AS396982","Google LLC",10017
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7605
-"AS16276","OVH SAS",5729
+"AS14061","DigitalOcean, LLC",7606
+"AS16276","OVH SAS",5732
 "AS4134","Chinanet",4899
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4429
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1365
 "AS215269","LAZYCLOUD LTD",1312
-"AS49870","Alsycon B.V.",1260
+"AS49870","Alsycon B.V.",1261
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
@@ -47,8 +47,8 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",795
 "AS211680","NSEC - Sistemas Informaticos, S.A.",705
 "AS20052","Arbor Networks, Inc.",612
+"AS10439","CariNet, Inc.",596
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS10439","CariNet, Inc.",595
 "AS51167","Contabo GmbH",577
 "AS14618","Amazon.com, Inc.",562
 "AS31148","Freenet LTD",558
@@ -125,7 +125,7 @@ ASN,Organization,IP_Count
 "AS28209","Under Servicos de Internet Ltda",79
 "AS200019","ALEXHOST SRL",78
 "AS4766","Korea Telecom",78
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",76
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",77
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
@@ -338,6 +338,7 @@ ASN,Organization,IP_Count
 "AS3257","GTT Communications Inc.",14
 "AS33363","Charter Communications, Inc",14
 "AS48721","Flyservers S.A.",14
+"AS56067","Metrabyte Co.,Ltd",14
 "AS6181","Cincinnati Bell Telephone Company LLC",14
 "AS812","Rogers Communications Canada Inc.",14
 "AS11232","Midcontinent Communications",13
@@ -354,7 +355,6 @@ ASN,Organization,IP_Count
 "AS37457","Telkom SA Ltd.",13
 "AS4808","China Unicom Beijing Province Network",13
 "AS53006","ALGAR TELECOM S/A",13
-"AS56067","Metrabyte Co.,Ltd",13
 "AS12400","Partner Communications Ltd.",12
 "AS15704","XTRA TELECOM S.A.",12
 "AS213438","ColocaTel Inc.",12
