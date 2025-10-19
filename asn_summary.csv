@@ -1,5 +1,5 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87668
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87669
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70569
 "AS211298","Driftnet Ltd",21864
 "AS398324","Censys, Inc.",12552
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1076
 "AS201401","NewVM B.V.",1076
 "AS32475","Internap Holding LLC",1044
-"AS36352","HostPapa",1038
+"AS36352","HostPapa",1039
 "AS208684","BHA CONSEIL SARL",975
 "AS51852","Private Layer INC",907
 "AS23470","ReliableSite.Net LLC",899
@@ -85,8 +85,8 @@ ASN,Organization,IP_Count
 "AS48090","TECHOFF SRV LIMITED",254
 "AS60223","Netiface Limited",250
 "AS13335","Cloudflare, Inc.",243
+"AS208843","Alpha Strike Labs GmbH",233
 "AS213613","BOTSHIELD LTD",233
-"AS208843","Alpha Strike Labs GmbH",232
 "AS209272","Alviva Holding Limited",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
@@ -115,7 +115,7 @@ ASN,Organization,IP_Count
 "AS28573","Claro NXT Telecomunicacoes Ltda",99
 "AS47331","TTNet A.S.",95
 "AS63018","Dedicated.com",92
-"AS151185","China Telecom",90
+"AS151185","China Telecom",91
 "AS29066","velia.net Internetdienste GmbH",90
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS34984","Superonline Iletisim Hizmetleri A.S.",89
@@ -130,9 +130,9 @@ ASN,Organization,IP_Count
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
 "AS56046","China Mobile Communications Corporation",74
+"AS40021","Nubes, LLC",73
 "AS136435","ELITE COMMUNICATION",72
 "AS271795","SERVITELCONET CIA. LTDA.",72
-"AS40021","Nubes, LLC",72
 "AS31898","Oracle Corporation",71
 "AS52053","REDHEBERG Association declaree",69
 "AS328867","Corebach Backbone SARL",67
@@ -332,6 +332,7 @@ ASN,Organization,IP_Count
 "AS140726","China Unicom",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS21127","Joint Stock Company TransTeleCom",14
+"AS212913","FOP Hornostay Mykhaylo Ivanovych",14
 "AS27947","Telconet S.A",14
 "AS28126","BRISANET SERVICOS DE TELECOMUNICACOES LTDA",14
 "AS30600","Metronet",14
@@ -347,7 +348,6 @@ ASN,Organization,IP_Count
 "AS16591","Google Fiber Inc.",13
 "AS17621","China Unicom Shanghai network",13
 "AS19901","Brightspeed",13
-"AS212913","FOP Hornostay Mykhaylo Ivanovych",13
 "AS213194","Nechaev Dmitry Sergeevich",13
 "AS25369","Hydra Communications Ltd",13
 "AS28840","PJSC ""TATTELECOM""",13
