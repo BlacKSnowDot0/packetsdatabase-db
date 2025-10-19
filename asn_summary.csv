@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87671
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70569
 "AS211298","Driftnet Ltd",21864
-"AS398324","Censys, Inc.",12554
-"AS396982","Google LLC",10020
+"AS398324","Censys, Inc.",12555
+"AS396982","Google LLC",10021
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7608
-"AS16276","OVH SAS",5732
+"AS14061","DigitalOcean, LLC",7609
+"AS16276","OVH SAS",5733
 "AS4134","Chinanet",4900
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4429
@@ -23,7 +23,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1699
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1506
+"AS209605","UAB Host Baltic",1507
 "AS0","",1457
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1365
@@ -35,9 +35,9 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS174","Cogent Communications",1076
 "AS201401","NewVM B.V.",1076
-"AS32475","Internap Holding LLC",1046
+"AS32475","Internap Holding LLC",1047
 "AS36352","HostPapa",1039
-"AS208684","BHA CONSEIL SARL",975
+"AS208684","BHA CONSEIL SARL",976
 "AS51852","Private Layer INC",907
 "AS23470","ReliableSite.Net LLC",899
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS53667","FranTech Solutions",431
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
-"AS9829","Bharat Sanchar Nigam Ltd",391
+"AS9829","Bharat Sanchar Nigam Ltd",392
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS12876","ONLINE S.A.S.",380
 "AS7018","AT&T Enterprises, LLC",358
@@ -427,6 +427,7 @@ ASN,Organization,IP_Count
 "AS267280","YELLOW CONNECT MULTIMIDIA LTDA ME",9
 "AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",9
 "AS40244","Turnkey Internet Inc.",9
+"AS40676","Psychz Networks",9
 "AS4847","China Networks Inter-Exchange",9
 "AS48874","HOSTMAZE INC SRL-D",9
 "AS5617","Orange Polska Spolka Akcyjna",9
@@ -454,7 +455,6 @@ ASN,Organization,IP_Count
 "AS3215","Orange S.A.",8
 "AS328723","Telasera Technologies PTY LTD",8
 "AS38283","CHINANET SiChuan Telecom Internet Data Center",8
-"AS40676","Psychz Networks",8
 "AS41608","NextGenWebs, S.L.",8
 "AS4609","Companhia de Telecomunicacoes de Macau",8
 "AS47524","Turksat Uydu Haberlesme ve Kablo TV Isletme A.S.",8
@@ -838,6 +838,7 @@ ASN,Organization,IP_Count
 "AS3303","Swisscom (Schweiz) AG",3
 "AS3326","PRIVATE JOINT STOCK COMPANY ""DATAGROUP""",3
 "AS33616","Co-Mo Comm Inc",3
+"AS35916","MULTACOM CORPORATION",3
 "AS36884","Wana Corporate",3
 "AS36924","GVA Cote d'Ivoire SAS",3
 "AS36994","Vodacom",3
@@ -1152,7 +1153,6 @@ ASN,Organization,IP_Count
 "AS34779","T-2, d.o.o.",2
 "AS35320","Eurotranstelecom Ltd",2
 "AS35586","VOLYN OPTICAL NETWORKS LLC",2
-"AS35916","MULTACOM CORPORATION",2
 "AS36692","Cisco OpenDNS, LLC",2
 "AS36728","Emery Telcom",2
 "AS37517","CABO VERDE TELECOM, S.A",2
