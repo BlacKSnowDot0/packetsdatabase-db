@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87672
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70569
 "AS211298","Driftnet Ltd",21865
-"AS398324","Censys, Inc.",12560
+"AS398324","Censys, Inc.",12562
 "AS396982","Google LLC",10023
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7609
@@ -35,11 +35,11 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS174","Cogent Communications",1076
 "AS201401","NewVM B.V.",1076
-"AS32475","Internap Holding LLC",1049
+"AS32475","Internap Holding LLC",1050
 "AS36352","HostPapa",1039
 "AS208684","BHA CONSEIL SARL",976
 "AS51852","Private Layer INC",907
-"AS23470","ReliableSite.Net LLC",899
+"AS23470","ReliableSite.Net LLC",900
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",815
@@ -58,7 +58,7 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
-"AS201814","MEVSPACE sp. z o.o.",490
+"AS201814","MEVSPACE sp. z o.o.",491
 "AS3462","Chunghwa Telecom Co., Ltd.",474
 "AS212238","Datacamp Limited",454
 "AS51115","HLL LLC",439
@@ -84,7 +84,7 @@ ASN,Organization,IP_Count
 "AS8151","Uninet S.A. de C.V.",260
 "AS48090","TECHOFF SRV LIMITED",254
 "AS60223","Netiface Limited",250
-"AS13335","Cloudflare, Inc.",243
+"AS13335","Cloudflare, Inc.",244
 "AS208843","Alpha Strike Labs GmbH",234
 "AS213613","BOTSHIELD LTD",233
 "AS209272","Alviva Holding Limited",230
@@ -375,6 +375,7 @@ ASN,Organization,IP_Count
 "AS134420","Chongqing Telecom",11
 "AS17552","TRUE INTERNET CORPORATION CO. LTD.",11
 "AS17639","ComClark Network & Technology Corp",11
+"AS200590","NLS Kazakhstan LLC",11
 "AS200651","FlokiNET ehf",11
 "AS205119","TELEKS DOOEL Skopje",11
 "AS206804","EstNOC OY",11
@@ -397,7 +398,6 @@ ASN,Organization,IP_Count
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",10
 "AS153443","VPSRE.NET LLC",10
 "AS199414","Noah Kolossa",10
-"AS200590","NLS Kazakhstan LLC",10
 "AS202520","SkyPass Solutions Sp. z.o.o.",10
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",10
 "AS24547","China Mobile",10
