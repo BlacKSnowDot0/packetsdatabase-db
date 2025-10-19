@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87669
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87671
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70569
 "AS211298","Driftnet Ltd",21864
-"AS398324","Censys, Inc.",12552
+"AS398324","Censys, Inc.",12553
 "AS396982","Google LLC",10020
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7607
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS174","Cogent Communications",1076
 "AS201401","NewVM B.V.",1076
-"AS32475","Internap Holding LLC",1044
+"AS32475","Internap Holding LLC",1045
 "AS36352","HostPapa",1039
 "AS208684","BHA CONSEIL SARL",975
 "AS51852","Private Layer INC",907
@@ -162,10 +162,10 @@ ASN,Organization,IP_Count
 "AS213877","u1host ltd",51
 "AS20115","Charter Communications",49
 "AS266181","GOLDEN LINK",48
+"AS19318","Interserver, Inc",47
 "AS23724","IDC, China Telecommunications Corporation",47
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
-"AS19318","Interserver, Inc",46
 "AS210644","AEZA INTERNATIONAL LTD",45
 "AS396356","Latitude.sh",44
 "AS42708","GleSYS AB",44
@@ -397,6 +397,7 @@ ASN,Organization,IP_Count
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",10
 "AS153443","VPSRE.NET LLC",10
 "AS199414","Noah Kolossa",10
+"AS200590","NLS Kazakhstan LLC",10
 "AS202520","SkyPass Solutions Sp. z.o.o.",10
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",10
 "AS24547","China Mobile",10
@@ -419,7 +420,6 @@ ASN,Organization,IP_Count
 "AS135059","Lao Asia Pacific Satellite Co., Ltd.",9
 "AS142032","High Family Technology Co., Limited",9
 "AS20011","Dimension Data",9
-"AS200590","NLS Kazakhstan LLC",9
 "AS212504","AdKyNet SAS",9
 "AS213520","Senko Digital Ltd",9
 "AS214481","Wojciech Czapkowicz",9
