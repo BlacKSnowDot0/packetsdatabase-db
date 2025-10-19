@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87668
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70569
 "AS211298","Driftnet Ltd",21864
-"AS398324","Censys, Inc.",12548
+"AS398324","Censys, Inc.",12549
 "AS396982","Google LLC",10019
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7607
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS174","Cogent Communications",1076
 "AS201401","NewVM B.V.",1076
-"AS32475","Internap Holding LLC",1042
+"AS32475","Internap Holding LLC",1043
 "AS36352","HostPapa",1038
 "AS208684","BHA CONSEIL SARL",975
 "AS51852","Private Layer INC",907
@@ -748,6 +748,7 @@ ASN,Organization,IP_Count
 "AS140210","ConnectX",3
 "AS140607","Sign In (PVT) LTD",3
 "AS140791","BKHOST TECHNOLOGY VIETNAM JOINT STOCK COMPANY",3
+"AS140869","Turing Group Limited",3
 "AS141607","PT Gayatri Lintas Nusantara",3
 "AS142036","Hosteons Pte. Ltd.",3
 "AS142468","VANSHIKA ITLAM INDIA PVT LTD",3
@@ -947,7 +948,6 @@ ASN,Organization,IP_Count
 "AS140171","Reis Network Solutions",2
 "AS140293","China Telecom",2
 "AS140425","DINAS KOMUNIKASI DAN INFORMATIKA KABUPATEN DEMAK",2
-"AS140869","Turing Group Limited",2
 "AS141071","PT Jembatan Data Pangrango",2
 "AS141077","RSTNET",2
 "AS141140","PT Jinde Grup Indonesia",2
