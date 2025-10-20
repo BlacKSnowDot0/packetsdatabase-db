@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87673
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70569
-"AS211298","Driftnet Ltd",21867
-"AS398324","Censys, Inc.",12602
+"AS211298","Driftnet Ltd",21868
+"AS398324","Censys, Inc.",12604
 "AS396982","Google LLC",10027
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7622
@@ -11,11 +11,11 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4429
 "AS16509","Amazon.com, Inc.",3841
-"AS45102","Alibaba (US) Technology Co., Ltd.",3750
+"AS45102","Alibaba (US) Technology Co., Ltd.",3751
 "AS63949","Akamai Technologies, Inc.",3530
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3182
-"AS51396","Pfcloud UG",3086
+"AS51396","Pfcloud UG",3087
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2654
 "AS142002","Scloud Pte Ltd",2552
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS174","Cogent Communications",1080
 "AS201401","NewVM B.V.",1076
-"AS32475","Internap Holding LLC",1064
+"AS32475","Internap Holding LLC",1065
 "AS36352","HostPapa",1054
 "AS208684","BHA CONSEIL SARL",976
 "AS51852","Private Layer INC",907
@@ -452,6 +452,7 @@ ASN,Organization,IP_Count
 "AS266702","MEGALINK S.R.L.",8
 "AS27967","Gobernacion de la Provincia de Buenos Aires",8
 "AS29302","Hosting Services Inc",8
+"AS30058","FDCservers.net",8
 "AS3215","Orange S.A.",8
 "AS328723","Telasera Technologies PTY LTD",8
 "AS38283","CHINANET SiChuan Telecom Internet Data Center",8
@@ -484,7 +485,6 @@ ASN,Organization,IP_Count
 "AS267507","SRX TECNOLOGIA DA INFORMACAO LTDA",7
 "AS269003","KIMNET SOLUCOES",7
 "AS27831","Colombia Móvil",7
-"AS30058","FDCservers.net",7
 "AS31122","Digiweb ltd",7
 "AS3216","PJSC ""Vimpelcom""",7
 "AS328471","HERO TELECOMS (PTY) LTD",7
