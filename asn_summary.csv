@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87673
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70569
 "AS211298","Driftnet Ltd",21866
-"AS398324","Censys, Inc.",12583
+"AS398324","Censys, Inc.",12585
 "AS396982","Google LLC",10027
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7619
+"AS14061","DigitalOcean, LLC",7620
 "AS16276","OVH SAS",5736
 "AS4134","Chinanet",4901
 "AS6568","Entel S.A. - EntelNet",4537
@@ -33,9 +33,9 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS174","Cogent Communications",1077
+"AS174","Cogent Communications",1078
 "AS201401","NewVM B.V.",1076
-"AS32475","Internap Holding LLC",1059
+"AS32475","Internap Holding LLC",1060
 "AS36352","HostPapa",1051
 "AS208684","BHA CONSEIL SARL",976
 "AS51852","Private Layer INC",907
@@ -44,7 +44,7 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",815
 "AS8452","TE-AS",804
-"AS215925","VPSVAULT.HOST LTD",796
+"AS215925","VPSVAULT.HOST LTD",797
 "AS211680","NSEC - Sistemas Informaticos, S.A.",705
 "AS20052","Arbor Networks, Inc.",616
 "AS10439","CariNet, Inc.",597
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS9829","Bharat Sanchar Nigam Ltd",394
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS12876","ONLINE S.A.S.",382
+"AS12876","ONLINE S.A.S.",383
 "AS7018","AT&T Enterprises, LLC",358
 "AS21859","Zenlayer Inc",342
 "AS7922","Comcast Cable Communications, LLC",342
@@ -194,11 +194,11 @@ ASN,Organization,IP_Count
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",34
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",34
 "AS8048","CANTV Servicios, Venezuela",34
+"AS210558","1337 Services GmbH",33
 "AS30083","velia.net",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9198","JSC Kazakhtelecom",33
 "AS9498","Bharti Airtel Limited",33
-"AS210558","1337 Services GmbH",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
 "AS55990","Huawei Cloud Service data center",32
 "AS8167","V tal",32
