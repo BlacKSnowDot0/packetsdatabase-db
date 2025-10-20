@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87673
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70569
 "AS211298","Driftnet Ltd",21867
-"AS398324","Censys, Inc.",12594
+"AS398324","Censys, Inc.",12595
 "AS396982","Google LLC",10027
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7621
@@ -53,8 +53,8 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",563
 "AS31148","Freenet LTD",558
 "AS9009","M247 Europe SRL",537
+"AS4837","CHINA UNICOM China169 Backbone",536
 "AS401120","cheapy.host LLC",535
-"AS4837","CHINA UNICOM China169 Backbone",535
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",493
@@ -62,12 +62,12 @@ ASN,Organization,IP_Count
 "AS3462","Chunghwa Telecom Co., Ltd.",474
 "AS212238","Datacamp Limited",454
 "AS51115","HLL LLC",439
-"AS53667","FranTech Solutions",435
+"AS53667","FranTech Solutions",436
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
-"AS9829","Bharat Sanchar Nigam Ltd",395
+"AS9829","Bharat Sanchar Nigam Ltd",396
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS12876","ONLINE S.A.S.",384
+"AS12876","ONLINE S.A.S.",385
 "AS7018","AT&T Enterprises, LLC",358
 "AS21859","Zenlayer Inc",342
 "AS7922","Comcast Cable Communications, LLC",342
@@ -304,6 +304,7 @@ ASN,Organization,IP_Count
 "AS50340","JSC Selectel",17
 "AS56630","Melbikomas UAB",17
 "AS6167","Verizon Business",17
+"AS136142","Enigma Fiber Pvt Ltd",16
 "AS24757","EthioNet",16
 "AS25198","INTERKVM HOST SRL",16
 "AS39603","P4 Sp. z o.o.",16
@@ -315,7 +316,6 @@ ASN,Organization,IP_Count
 "AS6697","Republican Unitary Telecommunication Enterprise Beltelecom",16
 "AS9269","Hong Kong Broadband Network Ltd",16
 "AS12874","Fastweb SpA",15
-"AS136142","Enigma Fiber Pvt Ltd",15
 "AS136515","Dasca Cable Services, Inc.",15
 "AS138915","Kaopu Cloud HK Limited",15
 "AS202448","MVPS LTD",15
@@ -396,6 +396,7 @@ ASN,Organization,IP_Count
 "AS58563","CHINANET Hubei province network",11
 "AS6849","JSC ""Ukrtelecom""",11
 "AS12912","T-Mobile Polska S.A.",10
+"AS142032","High Family Technology Co., Limited",10
 "AS149359","PT Persada Data Multimedia",10
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",10
 "AS153443","VPSRE.NET LLC",10
@@ -420,7 +421,6 @@ ASN,Organization,IP_Count
 "AS9930","TT DOTCOM SDN BHD",10
 "AS11351","Charter Communications Inc",9
 "AS135059","Lao Asia Pacific Satellite Co., Ltd.",9
-"AS142032","High Family Technology Co., Limited",9
 "AS20011","Dimension Data",9
 "AS212504","AdKyNet SAS",9
 "AS213520","Senko Digital Ltd",9
