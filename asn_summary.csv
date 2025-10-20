@@ -116,7 +116,7 @@ ASN,Organization,IP_Count
 "AS47331","TTNet A.S.",95
 "AS63018","Dedicated.com",92
 "AS151185","China Telecom",91
-"AS29066","velia.net Internetdienste GmbH",90
+"AS29066","velia.net Internetdienste GmbH",91
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS34984","Superonline Iletisim Hizmetleri A.S.",89
 "AS58461","Chinanet",85
@@ -415,6 +415,7 @@ ASN,Organization,IP_Count
 "AS57269","DIGI SPAIN TELECOM S.L.U.",10
 "AS60781","LeaseWeb Netherlands B.V.",10
 "AS6327","Shaw Communications Inc.",10
+"AS8400","TELEKOM SRBIJA a.d.",10
 "AS8796","FD-298-8796",10
 "AS9930","TT DOTCOM SDN BHD",10
 "AS11351","Charter Communications Inc",9
@@ -431,7 +432,6 @@ ASN,Organization,IP_Count
 "AS4847","China Networks Inter-Exchange",9
 "AS48874","HOSTMAZE INC SRL-D",9
 "AS5617","Orange Polska Spolka Akcyjna",9
-"AS8400","TELEKOM SRBIJA a.d.",9
 "AS8708","RCS & RDS SA",9
 "AS9770","LG HelloVision Corp.",9
 "AS133481","ADVANCED WIRELESS NETWORK COMPANY LIMITED",8
