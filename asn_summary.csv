@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS174","Cogent Communications",1080
 "AS201401","NewVM B.V.",1076
-"AS32475","Internap Holding LLC",1063
+"AS32475","Internap Holding LLC",1064
 "AS36352","HostPapa",1051
 "AS208684","BHA CONSEIL SARL",976
 "AS51852","Private Layer INC",907
@@ -47,7 +47,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",797
 "AS211680","NSEC - Sistemas Informaticos, S.A.",705
 "AS20052","Arbor Networks, Inc.",616
-"AS10439","CariNet, Inc.",597
+"AS10439","CariNet, Inc.",598
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS51167","Contabo GmbH",580
 "AS14618","Amazon.com, Inc.",563
@@ -103,7 +103,7 @@ ASN,Organization,IP_Count
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
 "AS262551","Farol Telecom",127
-"AS42237","w1n ltd",124
+"AS42237","w1n ltd",125
 "AS7552","Viettel Group",123
 "AS13238","YANDEX LLC",122
 "AS36007","Kamatera, Inc.",122
@@ -386,6 +386,7 @@ ASN,Organization,IP_Count
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
 "AS3243","MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.",11
 "AS39351","31173 Services AB",11
+"AS40676","Psychz Networks",11
 "AS41436","Kamatera Inc",11
 "AS4181","TDS TELECOM",11
 "AS45820","TTSL-ISP DIVISION",11
@@ -407,7 +408,6 @@ ASN,Organization,IP_Count
 "AS37105","RAIN GROUP HOLDINGS (PTY) LTD",10
 "AS37611","Afrihost (Pty) Ltd",10
 "AS37705","TOPNET",10
-"AS40676","Psychz Networks",10
 "AS41420","Xentech B.V.",10
 "AS44901","Belcloud LTD",10
 "AS49434","FBW NETWORKS SAS",10
