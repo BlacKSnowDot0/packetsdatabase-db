@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87673
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70569
 "AS211298","Driftnet Ltd",21865
-"AS398324","Censys, Inc.",12568
-"AS396982","Google LLC",10026
+"AS398324","Censys, Inc.",12571
+"AS396982","Google LLC",10027
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7609
-"AS16276","OVH SAS",5734
-"AS4134","Chinanet",4900
+"AS14061","DigitalOcean, LLC",7617
+"AS16276","OVH SAS",5735
+"AS4134","Chinanet",4901
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4429
 "AS16509","Amazon.com, Inc.",3841
@@ -17,13 +17,13 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3182
 "AS51396","Pfcloud UG",3086
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2651
+"AS8075","Microsoft Corporation",2652
 "AS142002","Scloud Pte Ltd",2552
 "AS6939","Hurricane Electric LLC",2384
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1700
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1507
+"AS209605","UAB Host Baltic",1508
 "AS0","",1459
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1365
@@ -35,8 +35,8 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS174","Cogent Communications",1077
 "AS201401","NewVM B.V.",1076
-"AS32475","Internap Holding LLC",1051
-"AS36352","HostPapa",1040
+"AS32475","Internap Holding LLC",1054
+"AS36352","HostPapa",1041
 "AS208684","BHA CONSEIL SARL",976
 "AS51852","Private Layer INC",907
 "AS23470","ReliableSite.Net LLC",903
@@ -57,8 +57,8 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",535
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
+"AS201814","MEVSPACE sp. z o.o.",492
 "AS50360","Tamatiya EOOD",492
-"AS201814","MEVSPACE sp. z o.o.",491
 "AS3462","Chunghwa Telecom Co., Ltd.",474
 "AS212238","Datacamp Limited",454
 "AS51115","HLL LLC",439
@@ -86,7 +86,7 @@ ASN,Organization,IP_Count
 "AS60223","Netiface Limited",250
 "AS13335","Cloudflare, Inc.",244
 "AS208843","Alpha Strike Labs GmbH",234
-"AS213613","BOTSHIELD LTD",233
+"AS213613","BOTSHIELD LTD",234
 "AS209272","Alviva Holding Limited",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
@@ -146,10 +146,10 @@ ASN,Organization,IP_Count
 "AS199785","Cloud Hosting Solutions, Limited.",63
 "AS140717","China Unicom",61
 "AS32934","Facebook, Inc.",60
+"AS215590","DpkgSoft International Limited",58
 "AS4812","China Telecom (Group)",58
 "AS49544","i3D.net B.V",58
 "AS20278","Nexeon Technologies, Inc.",57
-"AS215590","DpkgSoft International Limited",57
 "AS22773","Cox Communications Inc.",57
 "AS55720","Gigabit Hosting Sdn Bhd",57
 "AS150263","PT Alnet Telekomunikasi Indonesia",56
@@ -278,6 +278,7 @@ ASN,Organization,IP_Count
 "AS24348","CERNET2 IX at Tsinghua University",19
 "AS262287","Maxihost LTDA",19
 "AS3320","Deutsche Telekom AG",19
+"AS41745","Baykov Ilya Sergeevich",19
 "AS43641","SOLLUTIUM EU Sp z.o.o.",19
 "AS45758","Triple T Broadband Public Company Limited",19
 "AS577","Bell Canada",19
@@ -290,7 +291,6 @@ ASN,Organization,IP_Count
 "AS329009","Spectrum Internet Service Ltd",18
 "AS36947","Telecom Algeria",18
 "AS400655","NixLabs Networks",18
-"AS41745","Baykov Ilya Sergeevich",18
 "AS4713","NTT Communications Corporation",18
 "AS49531","""NetCom-R"" LLC",18
 "AS12479","Orange Espagne SA",17
@@ -604,6 +604,7 @@ ASN,Organization,IP_Count
 "AS37337","MUNI S.A",5
 "AS3737","PenTeleData Inc.",5
 "AS38365","Beijing Baidu Netcom Science and Technology Co., Ltd.",5
+"AS38880","Micron21 Datacentre Pty Ltd",5
 "AS398025","Cumberland Connect",5
 "AS400992","ZhouyiSat Communications",5
 "AS45305","Lintas Data Prima, PT",5
@@ -684,7 +685,6 @@ ASN,Organization,IP_Count
 "AS3356","Level 3 Communications, Inc.",4
 "AS35104","Jusan Mobile JSC",4
 "AS38841","kbro CO. Ltd.",4
-"AS38880","Micron21 Datacentre Pty Ltd",4
 "AS39065","Southern Telecommunication Company Ltd.",4
 "AS39608","Lanet Network Ltd",4
 "AS39816","Volta Communications Sp.z.o.o.",4
