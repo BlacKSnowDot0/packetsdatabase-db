@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87673
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70569
 "AS211298","Driftnet Ltd",21865
-"AS398324","Censys, Inc.",12574
+"AS398324","Censys, Inc.",12575
 "AS396982","Google LLC",10027
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7617
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1700
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1508
-"AS0","",1465
+"AS0","",1466
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1366
 "AS215269","LAZYCLOUD LTD",1312
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS174","Cogent Communications",1077
 "AS201401","NewVM B.V.",1076
-"AS32475","Internap Holding LLC",1054
+"AS32475","Internap Holding LLC",1056
 "AS36352","HostPapa",1041
 "AS208684","BHA CONSEIL SARL",976
 "AS51852","Private Layer INC",907
@@ -543,6 +543,7 @@ ASN,Organization,IP_Count
 "AS39521","TNGNET B.V.",6
 "AS397270","NetInformatik Inc.",6
 "AS399765","FasNET Services LLC",6
+"AS400992","ZhouyiSat Communications",6
 "AS48642","Joint stock company ""For""",6
 "AS50304","Blix Solutions AS",6
 "AS56971","CGI GLOBAL LIMITED",6
@@ -606,7 +607,6 @@ ASN,Organization,IP_Count
 "AS38365","Beijing Baidu Netcom Science and Technology Co., Ltd.",5
 "AS38880","Micron21 Datacentre Pty Ltd",5
 "AS398025","Cumberland Connect",5
-"AS400992","ZhouyiSat Communications",5
 "AS45305","Lintas Data Prima, PT",5
 "AS45458","ADVANCED WIRELESS NETWORK COMPANY LIMITED",5
 "AS4721","JCOM Co., Ltd.",5
