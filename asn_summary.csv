@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87673
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70569
 "AS211298","Driftnet Ltd",21865
-"AS398324","Censys, Inc.",12577
+"AS398324","Censys, Inc.",12578
 "AS396982","Google LLC",10027
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7617
+"AS14061","DigitalOcean, LLC",7618
 "AS16276","OVH SAS",5735
 "AS4134","Chinanet",4901
 "AS6568","Entel S.A. - EntelNet",4537
@@ -97,7 +97,7 @@ ASN,Organization,IP_Count
 "AS401116","Nybula LLC",170
 "AS63199","CDS Global Cloud Co., Ltd",170
 "AS18403","FPT Telecom Company",169
-"AS29484","Ruhr-Universitaet Bochum",156
+"AS29484","Ruhr-Universitaet Bochum",157
 "AS206264","Amarutu Technology Ltd",153
 "AS47105","Vault Dweller OU",141
 "AS137409","GSL Networks Pty LTD",128
@@ -540,6 +540,7 @@ ASN,Organization,IP_Count
 "AS35297","Dataline LLC",6
 "AS36873","Airtel Networks Limited",6
 "AS37492","Orange Tunisie",6
+"AS38880","Micron21 Datacentre Pty Ltd",6
 "AS39521","TNGNET B.V.",6
 "AS397270","NetInformatik Inc.",6
 "AS399765","FasNET Services LLC",6
@@ -605,7 +606,6 @@ ASN,Organization,IP_Count
 "AS37337","MUNI S.A",5
 "AS3737","PenTeleData Inc.",5
 "AS38365","Beijing Baidu Netcom Science and Technology Co., Ltd.",5
-"AS38880","Micron21 Datacentre Pty Ltd",5
 "AS398025","Cumberland Connect",5
 "AS45305","Lintas Data Prima, PT",5
 "AS45458","ADVANCED WIRELESS NETWORK COMPANY LIMITED",5
