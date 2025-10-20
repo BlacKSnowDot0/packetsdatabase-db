@@ -2,16 +2,16 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87673
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70569
 "AS211298","Driftnet Ltd",21868
-"AS398324","Censys, Inc.",12614
-"AS396982","Google LLC",10027
+"AS398324","Censys, Inc.",12617
+"AS396982","Google LLC",10029
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7624
+"AS14061","DigitalOcean, LLC",7625
 "AS16276","OVH SAS",5738
 "AS4134","Chinanet",4901
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4429
 "AS16509","Amazon.com, Inc.",3841
-"AS45102","Alibaba (US) Technology Co., Ltd.",3756
+"AS45102","Alibaba (US) Technology Co., Ltd.",3758
 "AS63949","Akamai Technologies, Inc.",3530
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3182
@@ -33,12 +33,12 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS174","Cogent Communications",1082
+"AS174","Cogent Communications",1083
 "AS201401","NewVM B.V.",1076
 "AS32475","Internap Holding LLC",1069
 "AS36352","HostPapa",1055
 "AS208684","BHA CONSEIL SARL",976
-"AS23470","ReliableSite.Net LLC",907
+"AS23470","ReliableSite.Net LLC",908
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",616
 "AS10439","CariNet, Inc.",599
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS51167","Contabo GmbH",582
+"AS51167","Contabo GmbH",583
 "AS14618","Amazon.com, Inc.",563
 "AS31148","Freenet LTD",558
 "AS9009","M247 Europe SRL",537
@@ -74,7 +74,7 @@ ASN,Organization,IP_Count
 "AS214943","Railnet LLC",314
 "AS24863","LINKdotNET AS number",307
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",303
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",300
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",301
 "AS210848","Telkom Internet LTD",296
 "AS45899","VNPT Corp",293
 "AS9341","PT Indonesia Comnets Plus",286
@@ -110,7 +110,7 @@ ASN,Organization,IP_Count
 "AS50219","LNK SYSTEMS MUNTENIA SRL",117
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
-"AS14956","RouterHosting LLC",108
+"AS14956","RouterHosting LLC",109
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",100
 "AS28573","Claro NXT Telecomunicacoes Ltda",99
 "AS47331","TTNet A.S.",95
@@ -181,9 +181,9 @@ ASN,Organization,IP_Count
 "AS21928","T-Mobile USA, Inc.",39
 "AS23969","TOT Public Company Limited",39
 "AS27699","TELEFÔNICA BRASIL S.A",39
+"AS262378","Compuservice Empreendimentos Ltda",38
 "AS26599","TELEFÔNICA BRASIL S.A",38
 "AS7738","V tal",38
-"AS262378","Compuservice Empreendimentos Ltda",37
 "AS42624","Global-Data System IT Corporation",36
 "AS4538","China Education and Research Network Center",36
 "AS6128","Cablevision Systems Corp.",36
