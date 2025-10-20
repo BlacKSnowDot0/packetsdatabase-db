@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87673
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70569
 "AS211298","Driftnet Ltd",21867
-"AS398324","Censys, Inc.",12595
+"AS398324","Censys, Inc.",12597
 "AS396982","Google LLC",10027
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7621
@@ -19,9 +19,9 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2654
 "AS142002","Scloud Pte Ltd",2552
-"AS6939","Hurricane Electric LLC",2384
+"AS6939","Hurricane Electric LLC",2385
 "AS9808","China Mobile",2074
-"AS202425","IP Volume inc",1701
+"AS202425","IP Volume inc",1702
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1508
 "AS0","",1471
@@ -36,10 +36,10 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1080
 "AS201401","NewVM B.V.",1076
 "AS32475","Internap Holding LLC",1064
-"AS36352","HostPapa",1051
+"AS36352","HostPapa",1053
 "AS208684","BHA CONSEIL SARL",976
 "AS51852","Private Layer INC",907
-"AS23470","ReliableSite.Net LLC",905
+"AS23470","ReliableSite.Net LLC",906
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",815
@@ -158,8 +158,8 @@ ASN,Organization,IP_Count
 "AS18345","Servers Australia Pty. Ltd",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
 "AS44382","Fiba Cloud Operation Company, LLC",54
+"AS213877","u1host ltd",53
 "AS8402","PJSC ""Vimpelcom""",53
-"AS213877","u1host ltd",52
 "AS20115","Charter Communications",49
 "AS266181","GOLDEN LINK",48
 "AS19318","Interserver, Inc",47
@@ -322,6 +322,7 @@ ASN,Organization,IP_Count
 "AS207713","GLOBAL INTERNET SOLUTIONS LLC",15
 "AS210509","Optimum Line for Internet Services Ltd.",15
 "AS211619","MAXKO d.o.o.",15
+"AS212913","FOP Hornostay Mykhaylo Ivanovych",15
 "AS24151","China Internet Network Infomation Center",15
 "AS263767","CORPORACIÓN GALA IT, C.A.",15
 "AS272547","Servicos de Infraestrutura e Datacenter",15
@@ -333,7 +334,6 @@ ASN,Organization,IP_Count
 "AS140726","China Unicom",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS21127","Joint Stock Company TransTeleCom",14
-"AS212913","FOP Hornostay Mykhaylo Ivanovych",14
 "AS27947","Telconet S.A",14
 "AS28126","BRISANET SERVICOS DE TELECOMUNICACOES LTDA",14
 "AS30600","Metronet",14
