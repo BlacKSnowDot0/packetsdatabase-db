@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87673
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70569
 "AS211298","Driftnet Ltd",21866
-"AS398324","Censys, Inc.",12585
+"AS398324","Censys, Inc.",12586
 "AS396982","Google LLC",10027
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7620
-"AS16276","OVH SAS",5736
+"AS16276","OVH SAS",5737
 "AS4134","Chinanet",4901
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4429
@@ -33,9 +33,9 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS174","Cogent Communications",1078
+"AS174","Cogent Communications",1080
 "AS201401","NewVM B.V.",1076
-"AS32475","Internap Holding LLC",1061
+"AS32475","Internap Holding LLC",1062
 "AS36352","HostPapa",1051
 "AS208684","BHA CONSEIL SARL",976
 "AS51852","Private Layer INC",907
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS53667","FranTech Solutions",435
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
-"AS9829","Bharat Sanchar Nigam Ltd",394
+"AS9829","Bharat Sanchar Nigam Ltd",395
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS12876","ONLINE S.A.S.",383
 "AS7018","AT&T Enterprises, LLC",358
@@ -114,9 +114,9 @@ ASN,Organization,IP_Count
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",100
 "AS28573","Claro NXT Telecomunicacoes Ltda",99
 "AS47331","TTNet A.S.",95
+"AS29066","velia.net Internetdienste GmbH",92
 "AS63018","Dedicated.com",92
 "AS151185","China Telecom",91
-"AS29066","velia.net Internetdienste GmbH",91
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS34984","Superonline Iletisim Hizmetleri A.S.",89
 "AS58461","Chinanet",85
@@ -1589,6 +1589,7 @@ ASN,Organization,IP_Count
 "AS198760","Quattre Internet SL",1
 "AS199173","TechnoLux Ltd.",1
 "AS199415","Association YORKHOST",1
+"AS199578","Technische Universitaet Kaiserslautern",1
 "AS199739","Earthlink Telecommunications Equipment Trading & Services DMCC",1
 "AS199995","Omega Telecom LLC",1
 "AS200218","Tvoy Novy Telecom LLP",1
