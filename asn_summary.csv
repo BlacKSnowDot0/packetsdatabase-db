@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87673
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70569
 "AS211298","Driftnet Ltd",21866
-"AS398324","Censys, Inc.",12586
+"AS398324","Censys, Inc.",12589
 "AS396982","Google LLC",10027
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7620
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS174","Cogent Communications",1080
 "AS201401","NewVM B.V.",1076
-"AS32475","Internap Holding LLC",1062
+"AS32475","Internap Holding LLC",1063
 "AS36352","HostPapa",1051
 "AS208684","BHA CONSEIL SARL",976
 "AS51852","Private Layer INC",907
@@ -226,10 +226,10 @@ ASN,Organization,IP_Count
 "AS2200","Renater",26
 "AS3209","Vodafone GmbH",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
+"AS1103","SURF B.V.",25
 "AS146817","Hubei Feixun Network Co., Ltd",25
 "AS53118","NETLINE TELECOM",25
 "AS58224","Iran Telecommunication Company PJS",25
-"AS1103","SURF B.V.",24
 "AS18881","TELEFÔNICA BRASIL S.A",24
 "AS197540","netcup GmbH",24
 "AS209","CenturyLink Communications, LLC",24
