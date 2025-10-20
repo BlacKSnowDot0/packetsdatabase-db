@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87673
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70569
-"AS211298","Driftnet Ltd",21866
-"AS398324","Censys, Inc.",12589
+"AS211298","Driftnet Ltd",21867
+"AS398324","Censys, Inc.",12592
 "AS396982","Google LLC",10027
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7620
@@ -57,7 +57,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",535
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
-"AS201814","MEVSPACE sp. z o.o.",492
+"AS201814","MEVSPACE sp. z o.o.",493
 "AS50360","Tamatiya EOOD",492
 "AS3462","Chunghwa Telecom Co., Ltd.",474
 "AS212238","Datacamp Limited",454
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS9829","Bharat Sanchar Nigam Ltd",395
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS12876","ONLINE S.A.S.",383
+"AS12876","ONLINE S.A.S.",384
 "AS7018","AT&T Enterprises, LLC",358
 "AS21859","Zenlayer Inc",342
 "AS7922","Comcast Cable Communications, LLC",342
@@ -84,8 +84,8 @@ ASN,Organization,IP_Count
 "AS8151","Uninet S.A. de C.V.",260
 "AS48090","TECHOFF SRV LIMITED",254
 "AS60223","Netiface Limited",250
-"AS13335","Cloudflare, Inc.",244
-"AS208843","Alpha Strike Labs GmbH",234
+"AS13335","Cloudflare, Inc.",245
+"AS208843","Alpha Strike Labs GmbH",235
 "AS213613","BOTSHIELD LTD",234
 "AS209272","Alviva Holding Limited",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
@@ -185,11 +185,11 @@ ASN,Organization,IP_Count
 "AS7738","V tal",38
 "AS262378","Compuservice Empreendimentos Ltda",37
 "AS42624","Global-Data System IT Corporation",36
+"AS4538","China Education and Research Network Center",36
 "AS6128","Cablevision Systems Corp.",36
 "AS20473","The Constant Company, LLC",35
 "AS213790","Limited Network LTD",35
 "AS30633","Leaseweb USA, Inc.",35
-"AS4538","China Education and Research Network Center",35
 "AS34665","Petersburg Internet Network ltd.",34
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",34
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",34
