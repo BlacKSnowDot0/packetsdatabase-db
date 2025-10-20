@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87673
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70569
 "AS211298","Driftnet Ltd",21868
-"AS398324","Censys, Inc.",12611
+"AS398324","Censys, Inc.",12614
 "AS396982","Google LLC",10027
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7623
+"AS14061","DigitalOcean, LLC",7624
 "AS16276","OVH SAS",5738
 "AS4134","Chinanet",4901
 "AS6568","Entel S.A. - EntelNet",4537
@@ -47,7 +47,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",797
 "AS211680","NSEC - Sistemas Informaticos, S.A.",705
 "AS20052","Arbor Networks, Inc.",616
-"AS10439","CariNet, Inc.",598
+"AS10439","CariNet, Inc.",599
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS51167","Contabo GmbH",580
 "AS14618","Amazon.com, Inc.",563
@@ -139,11 +139,11 @@ ASN,Organization,IP_Count
 "AS328867","Corebach Backbone SARL",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
 "AS11320","LightEdge Solutions",65
+"AS199785","Cloud Hosting Solutions, Limited.",65
 "AS3920","ESTOXY OU",65
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS57588","Hayat for Internet & communication LLC",65
-"AS199785","Cloud Hosting Solutions, Limited.",64
 "AS140717","China Unicom",61
 "AS32934","Facebook, Inc.",60
 "AS215590","DpkgSoft International Limited",58
@@ -302,6 +302,7 @@ ASN,Organization,IP_Count
 "AS329490","Promethean Consulting Limited",17
 "AS45117","Ishan's Network",17
 "AS50340","JSC Selectel",17
+"AS56067","Metrabyte Co.,Ltd",17
 "AS56630","Melbikomas UAB",17
 "AS6167","Verizon Business",17
 "AS136142","Enigma Fiber Pvt Ltd",16
@@ -311,7 +312,6 @@ ASN,Organization,IP_Count
 "AS46261","QuickPacket, LLC",16
 "AS4816","China Telecom (Group)",16
 "AS5384","EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",16
-"AS56067","Metrabyte Co.,Ltd",16
 "AS6597","Coloblox Data Centers Inc",16
 "AS6697","Republican Unitary Telecommunication Enterprise Beltelecom",16
 "AS9269","Hong Kong Broadband Network Ltd",16
