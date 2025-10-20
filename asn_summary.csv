@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1077
 "AS201401","NewVM B.V.",1076
 "AS32475","Internap Holding LLC",1059
-"AS36352","HostPapa",1043
+"AS36352","HostPapa",1044
 "AS208684","BHA CONSEIL SARL",976
 "AS51852","Private Layer INC",907
 "AS23470","ReliableSite.Net LLC",904
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",804
 "AS215925","VPSVAULT.HOST LTD",796
 "AS211680","NSEC - Sistemas Informaticos, S.A.",705
-"AS20052","Arbor Networks, Inc.",614
+"AS20052","Arbor Networks, Inc.",615
 "AS10439","CariNet, Inc.",597
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS51167","Contabo GmbH",579
@@ -684,6 +684,7 @@ ASN,Organization,IP_Count
 "AS3329","VODAFONE-PANAFON HELLENIC TELECOMMUNICATIONS COMPANY SA",4
 "AS3356","Level 3 Communications, Inc.",4
 "AS35104","Jusan Mobile JSC",4
+"AS35916","MULTACOM CORPORATION",4
 "AS38841","kbro CO. Ltd.",4
 "AS39065","Southern Telecommunication Company Ltd.",4
 "AS39608","Lanet Network Ltd",4
@@ -838,7 +839,6 @@ ASN,Organization,IP_Count
 "AS3303","Swisscom (Schweiz) AG",3
 "AS3326","PRIVATE JOINT STOCK COMPANY ""DATAGROUP""",3
 "AS33616","Co-Mo Comm Inc",3
-"AS35916","MULTACOM CORPORATION",3
 "AS36884","Wana Corporate",3
 "AS36924","GVA Cote d'Ivoire SAS",3
 "AS36994","Vodacom",3
