@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87678
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70570
-"AS211298","Driftnet Ltd",21875
-"AS398324","Censys, Inc.",12665
+"AS211298","Driftnet Ltd",21877
+"AS398324","Censys, Inc.",12666
 "AS396982","Google LLC",10048
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7632
+"AS14061","DigitalOcean, LLC",7633
 "AS16276","OVH SAS",5740
 "AS4134","Chinanet",4901
 "AS6568","Entel S.A. - EntelNet",4537
@@ -21,12 +21,12 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2552
 "AS6939","Hurricane Electric LLC",2414
 "AS9808","China Mobile",2074
-"AS202425","IP Volume inc",1703
+"AS202425","IP Volume inc",1704
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1509
 "AS0","",1474
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS398722","Censys, Inc.",1369
+"AS398722","Censys, Inc.",1370
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1262
 "AS204428","SS-Net",1182
@@ -44,9 +44,9 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",815
 "AS8452","TE-AS",804
-"AS215925","VPSVAULT.HOST LTD",798
+"AS215925","VPSVAULT.HOST LTD",799
 "AS211680","NSEC - Sistemas Informaticos, S.A.",705
-"AS20052","Arbor Networks, Inc.",636
+"AS20052","Arbor Networks, Inc.",638
 "AS10439","CariNet, Inc.",600
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS51167","Contabo GmbH",587
@@ -86,8 +86,8 @@ ASN,Organization,IP_Count
 "AS8151","Uninet S.A. de C.V.",260
 "AS48090","TECHOFF SRV LIMITED",254
 "AS60223","Netiface Limited",250
+"AS213613","BOTSHIELD LTD",238
 "AS208843","Alpha Strike Labs GmbH",237
-"AS213613","BOTSHIELD LTD",237
 "AS209272","Alviva Holding Limited",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
@@ -427,6 +427,7 @@ ASN,Organization,IP_Count
 "AS214481","Wojciech Czapkowicz",9
 "AS25019","Saudi Telecom Company JSC",9
 "AS267280","YELLOW CONNECT MULTIMIDIA LTDA ME",9
+"AS30058","FDCservers.net",9
 "AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",9
 "AS40244","Turnkey Internet Inc.",9
 "AS4847","China Networks Inter-Exchange",9
@@ -452,7 +453,6 @@ ASN,Organization,IP_Count
 "AS266702","MEGALINK S.R.L.",8
 "AS27967","Gobernacion de la Provincia de Buenos Aires",8
 "AS29302","Hosting Services Inc",8
-"AS30058","FDCservers.net",8
 "AS3215","Orange S.A.",8
 "AS328723","Telasera Technologies PTY LTD",8
 "AS38283","CHINANET SiChuan Telecom Internet Data Center",8
