@@ -3,7 +3,7 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70570
 "AS211298","Driftnet Ltd",21877
 "AS398324","Censys, Inc.",12678
-"AS396982","Google LLC",10050
+"AS396982","Google LLC",10051
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7637
 "AS16276","OVH SAS",5754
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",3775
 "AS63949","Akamai Technologies, Inc.",3541
 "AS398705","Censys, Inc.",3238
-"AS15169","Google LLC",3221
+"AS15169","Google LLC",3225
 "AS51396","Pfcloud UG",3088
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2665
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS174","Cogent Communications",1089
-"AS32475","Internap Holding LLC",1084
+"AS32475","Internap Holding LLC",1085
 "AS201401","NewVM B.V.",1076
 "AS36352","HostPapa",1061
 "AS208684","BHA CONSEIL SARL",977
@@ -47,9 +47,9 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",799
 "AS211680","NSEC - Sistemas Informaticos, S.A.",705
 "AS20052","Arbor Networks, Inc.",638
+"AS32934","Facebook, Inc.",635
 "AS10439","CariNet, Inc.",600
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS32934","Facebook, Inc.",588
 "AS51167","Contabo GmbH",587
 "AS14618","Amazon.com, Inc.",574
 "AS31148","Freenet LTD",558
@@ -74,7 +74,7 @@ ASN,Organization,IP_Count
 "AS21859","Zenlayer Inc",342
 "AS7922","Comcast Cable Communications, LLC",342
 "AS214943","Railnet LLC",314
-"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",307
+"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",308
 "AS24863","LINKdotNET AS number",307
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",302
 "AS210848","Telkom Internet LTD",296
@@ -115,7 +115,7 @@ ASN,Organization,IP_Count
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",100
 "AS28573","Claro NXT Telecomunicacoes Ltda",99
 "AS47331","TTNet A.S.",95
-"AS151185","China Telecom",93
+"AS151185","China Telecom",94
 "AS29066","velia.net Internetdienste GmbH",93
 "AS63018","Dedicated.com",92
 "AS34984","Superonline Iletisim Hizmetleri A.S.",90
