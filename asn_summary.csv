@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87677
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70569
 "AS211298","Driftnet Ltd",21872
-"AS398324","Censys, Inc.",12652
+"AS398324","Censys, Inc.",12654
 "AS396982","Google LLC",10047
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7628
@@ -12,14 +12,14 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4430
 "AS16509","Amazon.com, Inc.",3845
 "AS45102","Alibaba (US) Technology Co., Ltd.",3769
-"AS63949","Akamai Technologies, Inc.",3535
+"AS63949","Akamai Technologies, Inc.",3536
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3201
 "AS51396","Pfcloud UG",3087
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2661
 "AS142002","Scloud Pte Ltd",2552
-"AS6939","Hurricane Electric LLC",2406
+"AS6939","Hurricane Electric LLC",2411
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1703
 "AS214295","SKYNET NETWORK LTD",1631
@@ -54,7 +54,7 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS9009","M247 Europe SRL",540
 "AS401120","cheapy.host LLC",539
-"AS4837","CHINA UNICOM China169 Backbone",538
+"AS4837","CHINA UNICOM China169 Backbone",539
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",493
@@ -91,6 +91,7 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS141718","haoxiangyun",202
+"AS32934","Facebook, Inc.",196
 "AS701","Verizon Business",192
 "AS12389","PJSC Rostelecom",186
 "AS12555","Data-center IMAQLIQ Ltd.",183
@@ -98,7 +99,6 @@ ASN,Organization,IP_Count
 "AS63199","CDS Global Cloud Co., Ltd",170
 "AS18403","FPT Telecom Company",169
 "AS29484","Ruhr-Universitaet Bochum",160
-"AS32934","Facebook, Inc.",156
 "AS206264","Amarutu Technology Ltd",153
 "AS47105","Vault Dweller OU",141
 "AS137409","GSL Networks Pty LTD",128
