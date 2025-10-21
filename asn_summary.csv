@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87674
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70569
 "AS211298","Driftnet Ltd",21871
-"AS398324","Censys, Inc.",12634
-"AS396982","Google LLC",10041
+"AS398324","Censys, Inc.",12636
+"AS396982","Google LLC",10042
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7627
 "AS16276","OVH SAS",5739
@@ -11,15 +11,15 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4429
 "AS16509","Amazon.com, Inc.",3841
-"AS45102","Alibaba (US) Technology Co., Ltd.",3761
+"AS45102","Alibaba (US) Technology Co., Ltd.",3762
 "AS63949","Akamai Technologies, Inc.",3531
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3182
 "AS51396","Pfcloud UG",3087
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2659
+"AS8075","Microsoft Corporation",2660
 "AS142002","Scloud Pte Ltd",2552
-"AS6939","Hurricane Electric LLC",2392
+"AS6939","Hurricane Electric LLC",2394
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1702
 "AS214295","SKYNET NETWORK LTD",1631
@@ -35,9 +35,9 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS174","Cogent Communications",1085
 "AS201401","NewVM B.V.",1076
-"AS32475","Internap Holding LLC",1075
+"AS32475","Internap Holding LLC",1076
 "AS36352","HostPapa",1056
-"AS208684","BHA CONSEIL SARL",976
+"AS208684","BHA CONSEIL SARL",977
 "AS23470","ReliableSite.Net LLC",908
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -50,7 +50,7 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",599
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS51167","Contabo GmbH",584
-"AS14618","Amazon.com, Inc.",565
+"AS14618","Amazon.com, Inc.",566
 "AS31148","Freenet LTD",558
 "AS9009","M247 Europe SRL",537
 "AS401120","cheapy.host LLC",536
@@ -85,8 +85,8 @@ ASN,Organization,IP_Count
 "AS48090","TECHOFF SRV LIMITED",254
 "AS60223","Netiface Limited",250
 "AS13335","Cloudflare, Inc.",245
+"AS213613","BOTSHIELD LTD",236
 "AS208843","Alpha Strike Labs GmbH",235
-"AS213613","BOTSHIELD LTD",235
 "AS209272","Alviva Holding Limited",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
@@ -167,12 +167,12 @@ ASN,Organization,IP_Count
 "AS23724","IDC, China Telecommunications Corporation",47
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
+"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",44
 "AS396356","Latitude.sh",44
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
 "AS10796","Charter Communications Inc",43
 "AS152194","CTG Server Limited",43
-"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",43
 "AS149746","PT Blip Integrator Provider",42
 "AS20001","Charter Communications Inc",42
 "AS214497","Whitelabel Solutions, Ltd.",42
