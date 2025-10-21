@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87681
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70570
 "AS211298","Driftnet Ltd",21877
-"AS398324","Censys, Inc.",12672
+"AS398324","Censys, Inc.",12674
 "AS396982","Google LLC",10048
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7635
@@ -11,13 +11,13 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4430
 "AS16509","Amazon.com, Inc.",3860
-"AS45102","Alibaba (US) Technology Co., Ltd.",3774
-"AS63949","Akamai Technologies, Inc.",3539
+"AS45102","Alibaba (US) Technology Co., Ltd.",3775
+"AS63949","Akamai Technologies, Inc.",3540
 "AS398705","Censys, Inc.",3238
-"AS15169","Google LLC",3213
+"AS15169","Google LLC",3219
 "AS51396","Pfcloud UG",3087
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2663
+"AS8075","Microsoft Corporation",2664
 "AS142002","Scloud Pte Ltd",2552
 "AS6939","Hurricane Electric LLC",2414
 "AS9808","China Mobile",2074
@@ -34,11 +34,11 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS174","Cogent Communications",1087
-"AS32475","Internap Holding LLC",1083
+"AS32475","Internap Holding LLC",1084
 "AS201401","NewVM B.V.",1076
-"AS36352","HostPapa",1060
+"AS36352","HostPapa",1061
 "AS208684","BHA CONSEIL SARL",977
-"AS23470","ReliableSite.Net LLC",910
+"AS23470","ReliableSite.Net LLC",928
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -50,27 +50,27 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",600
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS51167","Contabo GmbH",587
-"AS14618","Amazon.com, Inc.",573
+"AS14618","Amazon.com, Inc.",574
 "AS31148","Freenet LTD",558
 "AS9009","M247 Europe SRL",540
 "AS401120","cheapy.host LLC",539
 "AS4837","CHINA UNICOM China169 Backbone",539
+"AS32934","Facebook, Inc.",534
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",493
 "AS50360","Tamatiya EOOD",492
-"AS32934","Facebook, Inc.",481
 "AS3462","Chunghwa Telecom Co., Ltd.",474
 "AS212238","Datacamp Limited",454
 "AS51115","HLL LLC",447
 "AS53667","FranTech Solutions",438
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
-"AS9829","Bharat Sanchar Nigam Ltd",399
+"AS9829","Bharat Sanchar Nigam Ltd",400
 "AS12876","ONLINE S.A.S.",389
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS7018","AT&T Enterprises, LLC",360
-"AS13335","Cloudflare, Inc.",348
+"AS13335","Cloudflare, Inc.",359
 "AS21859","Zenlayer Inc",342
 "AS7922","Comcast Cable Communications, LLC",342
 "AS214943","Railnet LLC",314
@@ -995,6 +995,7 @@ ASN,Organization,IP_Count
 "AS198820","Limited Liability Company Radio Network",2
 "AS200845","AVATEL TELECOM, SA",2
 "AS201409","HOSTSHIELD LTD",2
+"AS20150","anyNode",2
 "AS202561","High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.",2
 "AS203087","PE Fedinyak Sergey Vyacheslavovich",2
 "AS203622","GSP LLC",2
@@ -1602,7 +1603,6 @@ ASN,Organization,IP_Count
 "AS201094","Mulgin Alexander Sergeevich",1
 "AS201174","Tbilisi City Hall",1
 "AS201224","Tikhomirov Evgeny Viktorovich",1
-"AS20150","anyNode",1
 "AS201624","ARANEA LLC",1
 "AS201749","SUPER CELL NETWORK FOR INTERNET SERVICES LTD",1
 "AS201776","Miranda-Media Ltd",1
