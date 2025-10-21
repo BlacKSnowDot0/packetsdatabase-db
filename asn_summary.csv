@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87681
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70570
-"AS211298","Driftnet Ltd",21877
-"AS398324","Censys, Inc.",12679
-"AS396982","Google LLC",10051
+"AS211298","Driftnet Ltd",21878
+"AS398324","Censys, Inc.",12681
+"AS396982","Google LLC",10052
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7637
+"AS14061","DigitalOcean, LLC",7638
 "AS16276","OVH SAS",5754
 "AS4134","Chinanet",4901
 "AS6568","Entel S.A. - EntelNet",4537
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",3775
 "AS63949","Akamai Technologies, Inc.",3541
 "AS398705","Censys, Inc.",3238
-"AS15169","Google LLC",3228
+"AS15169","Google LLC",3237
 "AS51396","Pfcloud UG",3088
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2665
@@ -46,12 +46,12 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",804
 "AS215925","VPSVAULT.HOST LTD",799
 "AS211680","NSEC - Sistemas Informaticos, S.A.",705
-"AS32934","Facebook, Inc.",664
+"AS32934","Facebook, Inc.",674
 "AS20052","Arbor Networks, Inc.",638
 "AS10439","CariNet, Inc.",600
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS51167","Contabo GmbH",587
-"AS14618","Amazon.com, Inc.",574
+"AS14618","Amazon.com, Inc.",575
 "AS31148","Freenet LTD",558
 "AS9009","M247 Europe SRL",540
 "AS401120","cheapy.host LLC",539
@@ -63,13 +63,13 @@ ASN,Organization,IP_Count
 "AS3462","Chunghwa Telecom Co., Ltd.",474
 "AS212238","Datacamp Limited",454
 "AS51115","HLL LLC",448
-"AS53667","FranTech Solutions",438
+"AS53667","FranTech Solutions",439
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS9829","Bharat Sanchar Nigam Ltd",401
-"AS12876","ONLINE S.A.S.",389
+"AS12876","ONLINE S.A.S.",390
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS13335","Cloudflare, Inc.",369
+"AS13335","Cloudflare, Inc.",370
 "AS7018","AT&T Enterprises, LLC",360
 "AS21859","Zenlayer Inc",342
 "AS7922","Comcast Cable Communications, LLC",342
@@ -293,6 +293,7 @@ ASN,Organization,IP_Count
 "AS400655","NixLabs Networks",18
 "AS4713","NTT Communications Corporation",18
 "AS49531","""NetCom-R"" LLC",18
+"AS56067","Metrabyte Co.,Ltd",18
 "AS12479","Orange Espagne SA",17
 "AS136958","China Unicom Guangdong IP network",17
 "AS14593","Space Exploration Technologies Corporation",17
@@ -303,7 +304,6 @@ ASN,Organization,IP_Count
 "AS39603","P4 Sp. z o.o.",17
 "AS45117","Ishan's Network",17
 "AS50340","JSC Selectel",17
-"AS56067","Metrabyte Co.,Ltd",17
 "AS56630","Melbikomas UAB",17
 "AS6167","Verizon Business",17
 "AS136142","Enigma Fiber Pvt Ltd",16
@@ -456,6 +456,7 @@ ASN,Organization,IP_Count
 "AS3215","Orange S.A.",8
 "AS328723","Telasera Technologies PTY LTD",8
 "AS38283","CHINANET SiChuan Telecom Internet Data Center",8
+"AS400992","ZhouyiSat Communications",8
 "AS41608","NextGenWebs, S.L.",8
 "AS4609","Companhia de Telecomunicacoes de Macau",8
 "AS47524","Turksat Uydu Haberlesme ve Kablo TV Isletme A.S.",8
@@ -489,7 +490,6 @@ ASN,Organization,IP_Count
 "AS3216","PJSC ""Vimpelcom""",7
 "AS328471","HERO TELECOMS (PTY) LTD",7
 "AS36903","Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",7
-"AS400992","ZhouyiSat Communications",7
 "AS48282","Hosting technology LTD",7
 "AS49505","JSC Selectel",7
 "AS50923","Metroset Ltd.",7
