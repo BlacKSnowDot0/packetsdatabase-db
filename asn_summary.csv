@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87681
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70570
 "AS211298","Driftnet Ltd",21878
-"AS398324","Censys, Inc.",12684
+"AS398324","Censys, Inc.",12685
 "AS396982","Google LLC",10052
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7639
@@ -58,18 +58,18 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",539
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
-"AS201814","MEVSPACE sp. z o.o.",493
+"AS201814","MEVSPACE sp. z o.o.",494
 "AS50360","Tamatiya EOOD",492
 "AS3462","Chunghwa Telecom Co., Ltd.",474
 "AS212238","Datacamp Limited",454
-"AS51115","HLL LLC",448
+"AS51115","HLL LLC",449
 "AS53667","FranTech Solutions",439
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS9829","Bharat Sanchar Nigam Ltd",401
 "AS12876","ONLINE S.A.S.",390
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS13335","Cloudflare, Inc.",375
+"AS13335","Cloudflare, Inc.",381
 "AS7018","AT&T Enterprises, LLC",360
 "AS21859","Zenlayer Inc",342
 "AS7922","Comcast Cable Communications, LLC",342
@@ -118,7 +118,7 @@ ASN,Organization,IP_Count
 "AS151185","China Telecom",94
 "AS29066","velia.net Internetdienste GmbH",94
 "AS63018","Dedicated.com",92
-"AS34984","Superonline Iletisim Hizmetleri A.S.",90
+"AS34984","Superonline Iletisim Hizmetleri A.S.",91
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS58461","Chinanet",85
 "AS205352","KABELNET LTD",84
@@ -281,6 +281,7 @@ ASN,Organization,IP_Count
 "AS41745","Baykov Ilya Sergeevich",19
 "AS43641","SOLLUTIUM EU Sp z.o.o.",19
 "AS45758","Triple T Broadband Public Company Limited",19
+"AS49531","""NetCom-R"" LLC",19
 "AS577","Bell Canada",19
 "AS11426","Charter Communications Inc",18
 "AS11878","tzulo, inc.",18
@@ -292,7 +293,6 @@ ASN,Organization,IP_Count
 "AS36947","Telecom Algeria",18
 "AS400655","NixLabs Networks",18
 "AS4713","NTT Communications Corporation",18
-"AS49531","""NetCom-R"" LLC",18
 "AS56067","Metrabyte Co.,Ltd",18
 "AS12479","Orange Espagne SA",17
 "AS136958","China Unicom Guangdong IP network",17
