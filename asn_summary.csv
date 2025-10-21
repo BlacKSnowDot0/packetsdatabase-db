@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87681
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70570
 "AS211298","Driftnet Ltd",21877
-"AS398324","Censys, Inc.",12674
-"AS396982","Google LLC",10048
+"AS398324","Censys, Inc.",12676
+"AS396982","Google LLC",10049
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7635
+"AS14061","DigitalOcean, LLC",7637
 "AS16276","OVH SAS",5754
 "AS4134","Chinanet",4901
 "AS6568","Entel S.A. - EntelNet",4537
@@ -23,7 +23,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1704
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1509
+"AS209605","UAB Host Baltic",1510
 "AS0","",1474
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1371
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS174","Cogent Communications",1087
+"AS174","Cogent Communications",1088
 "AS32475","Internap Holding LLC",1084
 "AS201401","NewVM B.V.",1076
 "AS36352","HostPapa",1061
@@ -50,12 +50,12 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",600
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS51167","Contabo GmbH",587
+"AS32934","Facebook, Inc.",576
 "AS14618","Amazon.com, Inc.",574
 "AS31148","Freenet LTD",558
 "AS9009","M247 Europe SRL",540
 "AS401120","cheapy.host LLC",539
 "AS4837","CHINA UNICOM China169 Backbone",539
-"AS32934","Facebook, Inc.",534
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",493
@@ -69,14 +69,14 @@ ASN,Organization,IP_Count
 "AS9829","Bharat Sanchar Nigam Ltd",400
 "AS12876","ONLINE S.A.S.",389
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
+"AS13335","Cloudflare, Inc.",367
 "AS7018","AT&T Enterprises, LLC",360
-"AS13335","Cloudflare, Inc.",359
 "AS21859","Zenlayer Inc",342
 "AS7922","Comcast Cable Communications, LLC",342
 "AS214943","Railnet LLC",314
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",307
 "AS24863","LINKdotNET AS number",307
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",301
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",302
 "AS210848","Telkom Internet LTD",296
 "AS45899","VNPT Corp",293
 "AS9341","PT Indonesia Comnets Plus",286
@@ -203,12 +203,12 @@ ASN,Organization,IP_Count
 "AS55990","Huawei Cloud Service data center",32
 "AS8167","V tal",32
 "AS1680","Cellcom Fixed Line Communication L.P",31
+"AS200514","KnownSRV Ltd.",31
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",31
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",31
 "AS44592","SkyLink Data Center BV",31
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",31
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",31
-"AS200514","KnownSRV Ltd.",30
 "AS200593","PROSPERO OOO",30
 "AS269193","Iktelecom Ltda",30
 "AS5650","Frontier Communications of America, Inc.",30
