@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87674
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70569
 "AS211298","Driftnet Ltd",21871
-"AS398324","Censys, Inc.",12641
+"AS398324","Censys, Inc.",12642
 "AS396982","Google LLC",10044
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7627
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2661
 "AS142002","Scloud Pte Ltd",2552
-"AS6939","Hurricane Electric LLC",2398
+"AS6939","Hurricane Electric LLC",2399
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1703
 "AS214295","SKYNET NETWORK LTD",1631
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",804
 "AS215925","VPSVAULT.HOST LTD",797
 "AS211680","NSEC - Sistemas Informaticos, S.A.",705
-"AS20052","Arbor Networks, Inc.",629
+"AS20052","Arbor Networks, Inc.",630
 "AS10439","CariNet, Inc.",600
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS51167","Contabo GmbH",586
@@ -79,12 +79,12 @@ ASN,Organization,IP_Count
 "AS45899","VNPT Corp",293
 "AS9341","PT Indonesia Comnets Plus",286
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",282
-"AS7713","Telekomunikasi Indonesia (PT)",280
+"AS7713","Telekomunikasi Indonesia (PT)",281
 "AS47890","UNMANAGED LTD",271
 "AS8151","Uninet S.A. de C.V.",260
 "AS48090","TECHOFF SRV LIMITED",254
 "AS60223","Netiface Limited",250
-"AS13335","Cloudflare, Inc.",245
+"AS13335","Cloudflare, Inc.",246
 "AS213613","BOTSHIELD LTD",236
 "AS208843","Alpha Strike Labs GmbH",235
 "AS209272","Alviva Holding Limited",230
@@ -378,6 +378,7 @@ ASN,Organization,IP_Count
 "AS134420","Chongqing Telecom",11
 "AS17552","TRUE INTERNET CORPORATION CO. LTD.",11
 "AS17639","ComClark Network & Technology Corp",11
+"AS199414","Noah Kolossa",11
 "AS200651","FlokiNET ehf",11
 "AS205119","TELEKS DOOEL Skopje",11
 "AS206804","EstNOC OY",11
@@ -400,7 +401,6 @@ ASN,Organization,IP_Count
 "AS149359","PT Persada Data Multimedia",10
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",10
 "AS153443","VPSRE.NET LLC",10
-"AS199414","Noah Kolossa",10
 "AS202520","SkyPass Solutions Sp. z.o.o.",10
 "AS24547","China Mobile",10
 "AS24835","Vodafone Data - Egypt",10
