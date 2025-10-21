@@ -9,9 +9,9 @@ ASN,Organization,IP_Count
 "AS16276","OVH SAS",5739
 "AS4134","Chinanet",4901
 "AS6568","Entel S.A. - EntelNet",4537
-"AS58466","CHINANET Guangdong province network",4429
+"AS58466","CHINANET Guangdong province network",4430
 "AS16509","Amazon.com, Inc.",3845
-"AS45102","Alibaba (US) Technology Co., Ltd.",3766
+"AS45102","Alibaba (US) Technology Co., Ltd.",3768
 "AS63949","Akamai Technologies, Inc.",3535
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3195
@@ -19,11 +19,11 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2661
 "AS142002","Scloud Pte Ltd",2552
-"AS6939","Hurricane Electric LLC",2404
+"AS6939","Hurricane Electric LLC",2405
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1703
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1508
+"AS209605","UAB Host Baltic",1509
 "AS0","",1473
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1368
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1086
 "AS32475","Internap Holding LLC",1077
 "AS201401","NewVM B.V.",1076
-"AS36352","HostPapa",1056
+"AS36352","HostPapa",1057
 "AS208684","BHA CONSEIL SARL",977
 "AS23470","ReliableSite.Net LLC",909
 "AS51852","Private Layer INC",907
@@ -44,7 +44,7 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",815
 "AS8452","TE-AS",804
-"AS215925","VPSVAULT.HOST LTD",797
+"AS215925","VPSVAULT.HOST LTD",798
 "AS211680","NSEC - Sistemas Informaticos, S.A.",705
 "AS20052","Arbor Networks, Inc.",634
 "AS10439","CariNet, Inc.",600
@@ -115,8 +115,8 @@ ASN,Organization,IP_Count
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",100
 "AS28573","Claro NXT Telecomunicacoes Ltda",99
 "AS47331","TTNet A.S.",95
+"AS151185","China Telecom",93
 "AS29066","velia.net Internetdienste GmbH",93
-"AS151185","China Telecom",92
 "AS63018","Dedicated.com",92
 "AS34984","Superonline Iletisim Hizmetleri A.S.",90
 "AS210125","PRIAM NET Sh.p.k.",89
@@ -184,13 +184,13 @@ ASN,Organization,IP_Count
 "AS262378","Compuservice Empreendimentos Ltda",38
 "AS26599","TELEFÔNICA BRASIL S.A",38
 "AS7738","V tal",38
+"AS210558","1337 Services GmbH",36
 "AS30633","Leaseweb USA, Inc.",36
 "AS42624","Global-Data System IT Corporation",36
 "AS4538","China Education and Research Network Center",36
 "AS6128","Cablevision Systems Corp.",36
 "AS20473","The Constant Company, LLC",35
 "AS213790","Limited Network LTD",35
-"AS210558","1337 Services GmbH",34
 "AS30083","velia.net",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",34
