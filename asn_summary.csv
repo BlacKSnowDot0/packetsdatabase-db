@@ -10,16 +10,16 @@ ASN,Organization,IP_Count
 "AS4134","Chinanet",4901
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4429
-"AS16509","Amazon.com, Inc.",3841
+"AS16509","Amazon.com, Inc.",3845
 "AS45102","Alibaba (US) Technology Co., Ltd.",3762
 "AS63949","Akamai Technologies, Inc.",3532
 "AS398705","Censys, Inc.",3238
-"AS15169","Google LLC",3183
+"AS15169","Google LLC",3186
 "AS51396","Pfcloud UG",3087
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2661
 "AS142002","Scloud Pte Ltd",2552
-"AS6939","Hurricane Electric LLC",2396
+"AS6939","Hurricane Electric LLC",2398
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1703
 "AS214295","SKYNET NETWORK LTD",1631
@@ -46,11 +46,11 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",804
 "AS215925","VPSVAULT.HOST LTD",797
 "AS211680","NSEC - Sistemas Informaticos, S.A.",705
-"AS20052","Arbor Networks, Inc.",628
-"AS10439","CariNet, Inc.",599
+"AS20052","Arbor Networks, Inc.",629
+"AS10439","CariNet, Inc.",600
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS51167","Contabo GmbH",586
-"AS14618","Amazon.com, Inc.",566
+"AS14618","Amazon.com, Inc.",567
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",539
 "AS4837","CHINA UNICOM China169 Backbone",538
@@ -61,7 +61,7 @@ ASN,Organization,IP_Count
 "AS50360","Tamatiya EOOD",492
 "AS3462","Chunghwa Telecom Co., Ltd.",474
 "AS212238","Datacamp Limited",454
-"AS51115","HLL LLC",442
+"AS51115","HLL LLC",443
 "AS53667","FranTech Solutions",438
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
@@ -97,7 +97,7 @@ ASN,Organization,IP_Count
 "AS401116","Nybula LLC",170
 "AS63199","CDS Global Cloud Co., Ltd",170
 "AS18403","FPT Telecom Company",169
-"AS29484","Ruhr-Universitaet Bochum",158
+"AS29484","Ruhr-Universitaet Bochum",159
 "AS206264","Amarutu Technology Ltd",153
 "AS47105","Vault Dweller OU",141
 "AS137409","GSL Networks Pty LTD",128
@@ -108,14 +108,14 @@ ASN,Organization,IP_Count
 "AS7552","Viettel Group",123
 "AS36007","Kamatera, Inc.",122
 "AS50219","LNK SYSTEMS MUNTENIA SRL",120
+"AS32934","Facebook, Inc.",115
 "AS211298","Constantine Cybersecurity Ltd.",113
-"AS14956","RouterHosting LLC",111
+"AS14956","RouterHosting LLC",112
 "AS208287","DC Host INC",110
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",100
 "AS28573","Claro NXT Telecomunicacoes Ltda",99
 "AS47331","TTNet A.S.",95
 "AS29066","velia.net Internetdienste GmbH",93
-"AS32934","Facebook, Inc.",93
 "AS151185","China Telecom",92
 "AS63018","Dedicated.com",92
 "AS34984","Superonline Iletisim Hizmetleri A.S.",90
@@ -222,12 +222,12 @@ ASN,Organization,IP_Count
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
 "AS4760","PCCW IMS Limited",27
+"AS146817","Hubei Feixun Network Co., Ltd",26
 "AS17557","Pakistan Telecommuication company limited",26
 "AS2200","Renater",26
 "AS3209","Vodafone GmbH",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS1103","SURF B.V.",25
-"AS146817","Hubei Feixun Network Co., Ltd",25
 "AS53118","NETLINE TELECOM",25
 "AS58224","Iran Telecommunication Company PJS",25
 "AS18881","TELEFÔNICA BRASIL S.A",24
@@ -577,6 +577,7 @@ ASN,Organization,IP_Count
 "AS2119","Telenor Norge AS",5
 "AS212219","HOSTING DUNYAM BILISIM TEKNOLOJILERI TICARET LIMITED SIRKETI",5
 "AS21246","IPKO Telecommunications LLC",5
+"AS212598","SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.",5
 "AS213851","Marcel Hanisch",5
 "AS214209","Internet Magnate (Pty) Ltd",5
 "AS215311","Regxa Company for Information Technology Ltd",5
@@ -655,7 +656,6 @@ ASN,Organization,IP_Count
 "AS208040","RSS (RAPID SOFTWARE SYSTEMS) CYPRUS LTD",4
 "AS208208","Marco Lingl trading as Cyberse GmbH & Co. KG",4
 "AS212042","Istqrar for Servers Services Ltd",4
-"AS212598","SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.",4
 "AS215439","PLAY2GO INTERNATIONAL LIMITED",4
 "AS22047","VTR BANDA ANCHA S.A.",4
 "AS22418","Cologuard",4
