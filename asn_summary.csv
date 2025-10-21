@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87681
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70570
 "AS211298","Driftnet Ltd",21878
-"AS398324","Censys, Inc.",12681
+"AS398324","Censys, Inc.",12684
 "AS396982","Google LLC",10052
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7638
+"AS14061","DigitalOcean, LLC",7639
 "AS16276","OVH SAS",5754
 "AS4134","Chinanet",4901
 "AS6568","Entel S.A. - EntelNet",4537
@@ -13,11 +13,11 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",3860
 "AS45102","Alibaba (US) Technology Co., Ltd.",3775
 "AS63949","Akamai Technologies, Inc.",3541
+"AS15169","Google LLC",3238
 "AS398705","Censys, Inc.",3238
-"AS15169","Google LLC",3237
 "AS51396","Pfcloud UG",3088
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2665
+"AS8075","Microsoft Corporation",2667
 "AS142002","Scloud Pte Ltd",2552
 "AS6939","Hurricane Electric LLC",2414
 "AS9808","China Mobile",2074
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS174","Cogent Communications",1089
+"AS174","Cogent Communications",1090
 "AS32475","Internap Holding LLC",1085
 "AS201401","NewVM B.V.",1076
 "AS36352","HostPapa",1062
@@ -69,7 +69,7 @@ ASN,Organization,IP_Count
 "AS9829","Bharat Sanchar Nigam Ltd",401
 "AS12876","ONLINE S.A.S.",390
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS13335","Cloudflare, Inc.",370
+"AS13335","Cloudflare, Inc.",374
 "AS7018","AT&T Enterprises, LLC",360
 "AS21859","Zenlayer Inc",342
 "AS7922","Comcast Cable Communications, LLC",342
@@ -138,9 +138,9 @@ ASN,Organization,IP_Count
 "AS8560","IONOS SE",71
 "AS52053","REDHEBERG Association declaree",69
 "AS328867","Corebach Backbone SARL",67
+"AS11320","LightEdge Solutions",66
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
 "AS3920","ESTOXY OU",66
-"AS11320","LightEdge Solutions",65
 "AS199785","Cloud Hosting Solutions, Limited.",65
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
