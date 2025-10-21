@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87677
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70569
 "AS211298","Driftnet Ltd",21872
-"AS398324","Censys, Inc.",12648
+"AS398324","Censys, Inc.",12650
 "AS396982","Google LLC",10047
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7628
@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4429
 "AS16509","Amazon.com, Inc.",3845
-"AS45102","Alibaba (US) Technology Co., Ltd.",3765
+"AS45102","Alibaba (US) Technology Co., Ltd.",3766
 "AS63949","Akamai Technologies, Inc.",3535
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3195
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2661
 "AS142002","Scloud Pte Ltd",2552
-"AS6939","Hurricane Electric LLC",2402
+"AS6939","Hurricane Electric LLC",2404
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1703
 "AS214295","SKYNET NETWORK LTD",1631
@@ -46,11 +46,11 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",804
 "AS215925","VPSVAULT.HOST LTD",797
 "AS211680","NSEC - Sistemas Informaticos, S.A.",705
-"AS20052","Arbor Networks, Inc.",633
+"AS20052","Arbor Networks, Inc.",634
 "AS10439","CariNet, Inc.",600
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS51167","Contabo GmbH",587
-"AS14618","Amazon.com, Inc.",569
+"AS14618","Amazon.com, Inc.",570
 "AS31148","Freenet LTD",558
 "AS9009","M247 Europe SRL",540
 "AS401120","cheapy.host LLC",539
@@ -61,7 +61,7 @@ ASN,Organization,IP_Count
 "AS50360","Tamatiya EOOD",492
 "AS3462","Chunghwa Telecom Co., Ltd.",474
 "AS212238","Datacamp Limited",454
-"AS51115","HLL LLC",443
+"AS51115","HLL LLC",444
 "AS53667","FranTech Solutions",438
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
@@ -73,7 +73,7 @@ ASN,Organization,IP_Count
 "AS7922","Comcast Cable Communications, LLC",342
 "AS214943","Railnet LLC",314
 "AS24863","LINKdotNET AS number",307
-"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",304
+"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",305
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",301
 "AS210848","Telkom Internet LTD",296
 "AS45899","VNPT Corp",293
@@ -90,7 +90,7 @@ ASN,Organization,IP_Count
 "AS209272","Alviva Holding Limited",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
-"AS141718","haoxiangyun",200
+"AS141718","haoxiangyun",201
 "AS701","Verizon Business",192
 "AS12389","PJSC Rostelecom",186
 "AS12555","Data-center IMAQLIQ Ltd.",183
@@ -109,8 +109,8 @@ ASN,Organization,IP_Count
 "AS36007","Kamatera, Inc.",122
 "AS50219","LNK SYSTEMS MUNTENIA SRL",120
 "AS32934","Facebook, Inc.",115
+"AS14956","RouterHosting LLC",113
 "AS211298","Constantine Cybersecurity Ltd.",113
-"AS14956","RouterHosting LLC",112
 "AS208287","DC Host INC",110
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",100
 "AS28573","Claro NXT Telecomunicacoes Ltda",99
