@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87674
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70569
 "AS211298","Driftnet Ltd",21871
-"AS398324","Censys, Inc.",12636
-"AS396982","Google LLC",10042
+"AS398324","Censys, Inc.",12638
+"AS396982","Google LLC",10043
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7627
 "AS16276","OVH SAS",5739
@@ -17,11 +17,11 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3182
 "AS51396","Pfcloud UG",3087
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2660
+"AS8075","Microsoft Corporation",2661
 "AS142002","Scloud Pte Ltd",2552
-"AS6939","Hurricane Electric LLC",2394
+"AS6939","Hurricane Electric LLC",2396
 "AS9808","China Mobile",2074
-"AS202425","IP Volume inc",1702
+"AS202425","IP Volume inc",1703
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1508
 "AS0","",1473
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS174","Cogent Communications",1085
+"AS174","Cogent Communications",1086
 "AS32475","Internap Holding LLC",1077
 "AS201401","NewVM B.V.",1076
 "AS36352","HostPapa",1056
@@ -46,15 +46,15 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",804
 "AS215925","VPSVAULT.HOST LTD",797
 "AS211680","NSEC - Sistemas Informaticos, S.A.",705
-"AS20052","Arbor Networks, Inc.",627
+"AS20052","Arbor Networks, Inc.",628
 "AS10439","CariNet, Inc.",599
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS51167","Contabo GmbH",584
 "AS14618","Amazon.com, Inc.",566
 "AS31148","Freenet LTD",558
+"AS401120","cheapy.host LLC",539
 "AS4837","CHINA UNICOM China169 Backbone",538
 "AS9009","M247 Europe SRL",537
-"AS401120","cheapy.host LLC",536
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",493
@@ -90,7 +90,7 @@ ASN,Organization,IP_Count
 "AS209272","Alviva Holding Limited",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
-"AS141718","haoxiangyun",199
+"AS141718","haoxiangyun",200
 "AS701","Verizon Business",192
 "AS12389","PJSC Rostelecom",186
 "AS12555","Data-center IMAQLIQ Ltd.",183
@@ -133,7 +133,7 @@ ASN,Organization,IP_Count
 "AS40021","Nubes, LLC",73
 "AS136435","ELITE COMMUNICATION",72
 "AS271795","SERVITELCONET CIA. LTDA.",72
-"AS31898","Oracle Corporation",71
+"AS31898","Oracle Corporation",72
 "AS8560","IONOS SE",70
 "AS52053","REDHEBERG Association declaree",69
 "AS328867","Corebach Backbone SARL",67
