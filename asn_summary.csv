@@ -34,8 +34,8 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS174","Cogent Communications",1085
+"AS32475","Internap Holding LLC",1077
 "AS201401","NewVM B.V.",1076
-"AS32475","Internap Holding LLC",1076
 "AS36352","HostPapa",1056
 "AS208684","BHA CONSEIL SARL",977
 "AS23470","ReliableSite.Net LLC",908
@@ -46,15 +46,15 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",804
 "AS215925","VPSVAULT.HOST LTD",797
 "AS211680","NSEC - Sistemas Informaticos, S.A.",705
-"AS20052","Arbor Networks, Inc.",625
+"AS20052","Arbor Networks, Inc.",627
 "AS10439","CariNet, Inc.",599
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS51167","Contabo GmbH",584
 "AS14618","Amazon.com, Inc.",566
 "AS31148","Freenet LTD",558
+"AS4837","CHINA UNICOM China169 Backbone",538
 "AS9009","M247 Europe SRL",537
 "AS401120","cheapy.host LLC",536
-"AS4837","CHINA UNICOM China169 Backbone",536
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",493
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS3462","Chunghwa Telecom Co., Ltd.",474
 "AS212238","Datacamp Limited",454
 "AS51115","HLL LLC",442
-"AS53667","FranTech Solutions",437
+"AS53667","FranTech Solutions",438
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS9829","Bharat Sanchar Nigam Ltd",398
@@ -90,7 +90,7 @@ ASN,Organization,IP_Count
 "AS209272","Alviva Holding Limited",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
-"AS141718","haoxiangyun",198
+"AS141718","haoxiangyun",199
 "AS701","Verizon Business",192
 "AS12389","PJSC Rostelecom",186
 "AS12555","Data-center IMAQLIQ Ltd.",183
