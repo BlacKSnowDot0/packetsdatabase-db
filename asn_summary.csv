@@ -1,9 +1,9 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87677
-"AS49581","Ferdinand Zink trading as Tube-Hosting",70569
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87678
+"AS49581","Ferdinand Zink trading as Tube-Hosting",70570
 "AS211298","Driftnet Ltd",21872
 "AS398324","Censys, Inc.",12654
-"AS396982","Google LLC",10047
+"AS396982","Google LLC",10048
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7628
 "AS16276","OVH SAS",5739
@@ -11,15 +11,15 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4430
 "AS16509","Amazon.com, Inc.",3845
-"AS45102","Alibaba (US) Technology Co., Ltd.",3769
+"AS45102","Alibaba (US) Technology Co., Ltd.",3770
 "AS63949","Akamai Technologies, Inc.",3536
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3201
 "AS51396","Pfcloud UG",3087
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2661
+"AS8075","Microsoft Corporation",2662
 "AS142002","Scloud Pte Ltd",2552
-"AS6939","Hurricane Electric LLC",2411
+"AS6939","Hurricane Electric LLC",2412
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1703
 "AS214295","SKYNET NETWORK LTD",1631
@@ -61,7 +61,7 @@ ASN,Organization,IP_Count
 "AS50360","Tamatiya EOOD",492
 "AS3462","Chunghwa Telecom Co., Ltd.",474
 "AS212238","Datacamp Limited",454
-"AS51115","HLL LLC",444
+"AS51115","HLL LLC",445
 "AS53667","FranTech Solutions",438
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
@@ -73,15 +73,15 @@ ASN,Organization,IP_Count
 "AS7922","Comcast Cable Communications, LLC",342
 "AS214943","Railnet LLC",314
 "AS24863","LINKdotNET AS number",307
-"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",305
+"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",306
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",301
 "AS210848","Telkom Internet LTD",296
+"AS13335","Cloudflare, Inc.",293
 "AS45899","VNPT Corp",293
 "AS9341","PT Indonesia Comnets Plus",286
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",282
 "AS7713","Telekomunikasi Indonesia (PT)",281
 "AS47890","UNMANAGED LTD",271
-"AS13335","Cloudflare, Inc.",270
 "AS8151","Uninet S.A. de C.V.",260
 "AS48090","TECHOFF SRV LIMITED",254
 "AS60223","Netiface Limited",250
@@ -108,7 +108,7 @@ ASN,Organization,IP_Count
 "AS13238","YANDEX LLC",123
 "AS7552","Viettel Group",123
 "AS36007","Kamatera, Inc.",122
-"AS50219","LNK SYSTEMS MUNTENIA SRL",120
+"AS50219","LNK SYSTEMS MUNTENIA SRL",121
 "AS14956","RouterHosting LLC",113
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
@@ -139,9 +139,9 @@ ASN,Organization,IP_Count
 "AS52053","REDHEBERG Association declaree",69
 "AS328867","Corebach Backbone SARL",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
+"AS3920","ESTOXY OU",66
 "AS11320","LightEdge Solutions",65
 "AS199785","Cloud Hosting Solutions, Limited.",65
-"AS3920","ESTOXY OU",65
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS57588","Hayat for Internet & communication LLC",65
@@ -237,13 +237,13 @@ ASN,Organization,IP_Count
 "AS55933","Cloudie Limited",24
 "AS60068","Datacamp Limited",24
 "AS6134","XNNET LLC",24
+"AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",24
 "AS17995","PT iForte Global Internet",23
 "AS198037","SPACECORE SOLUTION LTD",23
 "AS46475","Limestone Networks, Inc.",23
 "AS5089","Virgin Media Limited",23
 "AS55836","Reliance Jio Infocomm Limited",23
 "AS62240","Clouvider Limited",23
-"AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",23
 "AS12322","Free SAS",22
 "AS13213","UK-2 Limited",22
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",22
