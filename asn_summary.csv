@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87674
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70569
 "AS211298","Driftnet Ltd",21871
-"AS398324","Censys, Inc.",12633
-"AS396982","Google LLC",10038
+"AS398324","Censys, Inc.",12634
+"AS396982","Google LLC",10041
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7627
 "AS16276","OVH SAS",5739
@@ -12,14 +12,14 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4429
 "AS16509","Amazon.com, Inc.",3841
 "AS45102","Alibaba (US) Technology Co., Ltd.",3761
-"AS63949","Akamai Technologies, Inc.",3530
+"AS63949","Akamai Technologies, Inc.",3531
 "AS398705","Censys, Inc.",3238
 "AS15169","Google LLC",3182
 "AS51396","Pfcloud UG",3087
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2659
 "AS142002","Scloud Pte Ltd",2552
-"AS6939","Hurricane Electric LLC",2391
+"AS6939","Hurricane Electric LLC",2392
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1702
 "AS214295","SKYNET NETWORK LTD",1631
@@ -109,7 +109,7 @@ ASN,Organization,IP_Count
 "AS36007","Kamatera, Inc.",122
 "AS50219","LNK SYSTEMS MUNTENIA SRL",120
 "AS211298","Constantine Cybersecurity Ltd.",113
-"AS14956","RouterHosting LLC",110
+"AS14956","RouterHosting LLC",111
 "AS208287","DC Host INC",110
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",100
 "AS28573","Claro NXT Telecomunicacoes Ltda",99
