@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87674
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70569
 "AS211298","Driftnet Ltd",21871
-"AS398324","Censys, Inc.",12638
-"AS396982","Google LLC",10043
+"AS398324","Censys, Inc.",12641
+"AS396982","Google LLC",10044
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7627
 "AS16276","OVH SAS",5739
@@ -12,9 +12,9 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4429
 "AS16509","Amazon.com, Inc.",3841
 "AS45102","Alibaba (US) Technology Co., Ltd.",3762
-"AS63949","Akamai Technologies, Inc.",3531
+"AS63949","Akamai Technologies, Inc.",3532
 "AS398705","Censys, Inc.",3238
-"AS15169","Google LLC",3182
+"AS15169","Google LLC",3183
 "AS51396","Pfcloud UG",3087
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2661
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",628
 "AS10439","CariNet, Inc.",599
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS51167","Contabo GmbH",584
+"AS51167","Contabo GmbH",586
 "AS14618","Amazon.com, Inc.",566
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",539
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS9829","Bharat Sanchar Nigam Ltd",398
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS12876","ONLINE S.A.S.",387
+"AS12876","ONLINE S.A.S.",388
 "AS7018","AT&T Enterprises, LLC",358
 "AS21859","Zenlayer Inc",342
 "AS7922","Comcast Cable Communications, LLC",342
@@ -97,15 +97,15 @@ ASN,Organization,IP_Count
 "AS401116","Nybula LLC",170
 "AS63199","CDS Global Cloud Co., Ltd",170
 "AS18403","FPT Telecom Company",169
-"AS29484","Ruhr-Universitaet Bochum",157
+"AS29484","Ruhr-Universitaet Bochum",158
 "AS206264","Amarutu Technology Ltd",153
 "AS47105","Vault Dweller OU",141
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
 "AS262551","Farol Telecom",127
 "AS42237","w1n ltd",125
+"AS13238","YANDEX LLC",123
 "AS7552","Viettel Group",123
-"AS13238","YANDEX LLC",122
 "AS36007","Kamatera, Inc.",122
 "AS50219","LNK SYSTEMS MUNTENIA SRL",120
 "AS211298","Constantine Cybersecurity Ltd.",113
@@ -115,6 +115,7 @@ ASN,Organization,IP_Count
 "AS28573","Claro NXT Telecomunicacoes Ltda",99
 "AS47331","TTNet A.S.",95
 "AS29066","velia.net Internetdienste GmbH",93
+"AS32934","Facebook, Inc.",93
 "AS151185","China Telecom",92
 "AS63018","Dedicated.com",92
 "AS34984","Superonline Iletisim Hizmetleri A.S.",90
@@ -145,7 +146,6 @@ ASN,Organization,IP_Count
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS57588","Hayat for Internet & communication LLC",65
 "AS140717","China Unicom",61
-"AS32934","Facebook, Inc.",60
 "AS215590","DpkgSoft International Limited",58
 "AS4812","China Telecom (Group)",58
 "AS49544","i3D.net B.V",58
