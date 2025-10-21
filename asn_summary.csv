@@ -1,9 +1,9 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87673
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87674
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70569
 "AS211298","Driftnet Ltd",21871
-"AS398324","Censys, Inc.",12631
-"AS396982","Google LLC",10033
+"AS398324","Censys, Inc.",12632
+"AS396982","Google LLC",10035
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7627
 "AS16276","OVH SAS",5739
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2659
 "AS142002","Scloud Pte Ltd",2552
-"AS6939","Hurricane Electric LLC",2388
+"AS6939","Hurricane Electric LLC",2390
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1702
 "AS214295","SKYNET NETWORK LTD",1631
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS174","Cogent Communications",1084
+"AS174","Cogent Communications",1085
 "AS201401","NewVM B.V.",1076
 "AS32475","Internap Holding LLC",1073
 "AS36352","HostPapa",1055
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",804
 "AS215925","VPSVAULT.HOST LTD",797
 "AS211680","NSEC - Sistemas Informaticos, S.A.",705
-"AS20052","Arbor Networks, Inc.",624
+"AS20052","Arbor Networks, Inc.",625
 "AS10439","CariNet, Inc.",599
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS51167","Contabo GmbH",584
@@ -107,16 +107,16 @@ ASN,Organization,IP_Count
 "AS7552","Viettel Group",123
 "AS13238","YANDEX LLC",122
 "AS36007","Kamatera, Inc.",122
-"AS50219","LNK SYSTEMS MUNTENIA SRL",118
+"AS50219","LNK SYSTEMS MUNTENIA SRL",120
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS14956","RouterHosting LLC",110
 "AS208287","DC Host INC",110
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",100
 "AS28573","Claro NXT Telecomunicacoes Ltda",99
 "AS47331","TTNet A.S.",95
-"AS29066","velia.net Internetdienste GmbH",92
+"AS29066","velia.net Internetdienste GmbH",93
+"AS151185","China Telecom",92
 "AS63018","Dedicated.com",92
-"AS151185","China Telecom",91
 "AS34984","Superonline Iletisim Hizmetleri A.S.",90
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS58461","Chinanet",85
@@ -1278,6 +1278,7 @@ ASN,Organization,IP_Count
 "AS7018","AT&T Services, Inc.",2
 "AS719","RIPE Network Coordination Centre",2
 "AS7377","University of California, San Diego",2
+"AS786","RIPE Network Coordination Centre",2
 "AS8047","GENERAL COMMUNICATION, INC.",2
 "AS8053","IFX Networks Venezuela C.A.",2
 "AS8220","COLT Technology Services Group Limited",2
@@ -2649,7 +2650,6 @@ ASN,Organization,IP_Count
 "AS7602","Sai gon Postel Corporation",1
 "AS7679","QTnet,Inc.",1
 "AS7795","LUMOS Networks, Inc.",1
-"AS786","RIPE Network Coordination Centre",1
 "AS7992","Cogeco Connexion Inc.",1
 "AS8100","QuadraNet Enterprises LLC",1
 "AS8290","Slovanet a.s.",1
