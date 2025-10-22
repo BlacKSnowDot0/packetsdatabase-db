@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87682
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70571
 "AS211298","Driftnet Ltd",21883
-"AS398324","Censys, Inc.",12714
+"AS398324","Censys, Inc.",12715
 "AS396982","Google LLC",10061
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7651
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",3875
 "AS45102","Alibaba (US) Technology Co., Ltd.",3778
 "AS63949","Akamai Technologies, Inc.",3542
-"AS15169","Google LLC",3248
+"AS15169","Google LLC",3252
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3088
 "AS213412","ONYPHE SAS",2795
@@ -45,7 +45,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",816
 "AS8452","TE-AS",804
 "AS215925","VPSVAULT.HOST LTD",799
-"AS32934","Facebook, Inc.",707
+"AS32934","Facebook, Inc.",729
 "AS211680","NSEC - Sistemas Informaticos, S.A.",705
 "AS20052","Arbor Networks, Inc.",647
 "AS10439","CariNet, Inc.",602
@@ -64,7 +64,7 @@ ASN,Organization,IP_Count
 "AS212238","Datacamp Limited",454
 "AS51115","HLL LLC",451
 "AS53667","FranTech Solutions",440
-"AS13335","Cloudflare, Inc.",413
+"AS13335","Cloudflare, Inc.",414
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS9829","Bharat Sanchar Nigam Ltd",403
@@ -779,6 +779,7 @@ ASN,Organization,IP_Count
 "AS203542","IT-PROF LLC",3
 "AS206262","TelKos L.L.C",3
 "AS207083","HostSlim B.V.",3
+"AS211301","Collin Schneeweiss trading as Unesty Company",3
 "AS211826","Istqrar for Servers Services Ltd",3
 "AS212695","Link Telecom Service Ltd",3
 "AS213354","INTERNATIONAL HOSTING SOLUTIONS LLP",3
@@ -1012,7 +1013,6 @@ ASN,Organization,IP_Count
 "AS208592","LLC ""NET SOLUTIONS""",2
 "AS210656","Yandex.Cloud LLC",2
 "AS210819","Netversor GmbH",2
-"AS211301","Collin Schneeweiss trading as Unesty Company",2
 "AS211381","Podaon SIA",2
 "AS211860","Nerushenko Vyacheslav Nikolaevich",2
 "AS211895","Serverius Holding B.V.",2
