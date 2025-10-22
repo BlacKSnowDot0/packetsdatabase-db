@@ -1,19 +1,19 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87682
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70571
-"AS211298","Driftnet Ltd",21880
-"AS398324","Censys, Inc.",12710
-"AS396982","Google LLC",10060
+"AS211298","Driftnet Ltd",21883
+"AS398324","Censys, Inc.",12714
+"AS396982","Google LLC",10061
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7651
 "AS16276","OVH SAS",5754
 "AS4134","Chinanet",4901
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4431
-"AS16509","Amazon.com, Inc.",3864
+"AS16509","Amazon.com, Inc.",3875
 "AS45102","Alibaba (US) Technology Co., Ltd.",3778
 "AS63949","Akamai Technologies, Inc.",3542
-"AS15169","Google LLC",3241
+"AS15169","Google LLC",3248
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3088
 "AS213412","ONYPHE SAS",2795
@@ -45,9 +45,9 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",816
 "AS8452","TE-AS",804
 "AS215925","VPSVAULT.HOST LTD",799
+"AS32934","Facebook, Inc.",707
 "AS211680","NSEC - Sistemas Informaticos, S.A.",705
-"AS32934","Facebook, Inc.",685
-"AS20052","Arbor Networks, Inc.",645
+"AS20052","Arbor Networks, Inc.",647
 "AS10439","CariNet, Inc.",602
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS51167","Contabo GmbH",587
@@ -64,7 +64,7 @@ ASN,Organization,IP_Count
 "AS212238","Datacamp Limited",454
 "AS51115","HLL LLC",451
 "AS53667","FranTech Solutions",440
-"AS13335","Cloudflare, Inc.",411
+"AS13335","Cloudflare, Inc.",413
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS9829","Bharat Sanchar Nigam Ltd",403
@@ -76,7 +76,7 @@ ASN,Organization,IP_Count
 "AS214943","Railnet LLC",314
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",311
 "AS24863","LINKdotNET AS number",307
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",302
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",303
 "AS210848","Telkom Internet LTD",296
 "AS45899","VNPT Corp",293
 "AS9341","PT Indonesia Comnets Plus",286
@@ -349,6 +349,7 @@ ASN,Organization,IP_Count
 "AS16591","Google Fiber Inc.",13
 "AS17621","China Unicom Shanghai network",13
 "AS19901","Brightspeed",13
+"AS200590","NLS Kazakhstan LLC",13
 "AS213194","Nechaev Dmitry Sergeevich",13
 "AS25369","Hydra Communications Ltd",13
 "AS28840","PJSC ""TATTELECOM""",13
@@ -360,7 +361,6 @@ ASN,Organization,IP_Count
 "AS53006","ALGAR TELECOM S/A",13
 "AS12400","Partner Communications Ltd.",12
 "AS15704","XTRA TELECOM S.A.",12
-"AS200590","NLS Kazakhstan LLC",12
 "AS213438","ColocaTel Inc.",12
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",12
 "AS2637","Georgia Institute of Technology",12
