@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87682
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21885
-"AS398324","Censys, Inc.",12737
+"AS398324","Censys, Inc.",12739
 "AS396982","Google LLC",10062
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7656
@@ -27,9 +27,9 @@ ASN,Organization,IP_Count
 "AS0","",1477
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1371
+"AS32934","Facebook, Inc.",1341
 "AS215269","LAZYCLOUD LTD",1312
-"AS32934","Facebook, Inc.",1310
-"AS49870","Alsycon B.V.",1287
+"AS49870","Alsycon B.V.",1289
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",604
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS51167","Contabo GmbH",590
-"AS14618","Amazon.com, Inc.",585
+"AS14618","Amazon.com, Inc.",586
 "AS31148","Freenet LTD",558
 "AS9009","M247 Europe SRL",541
 "AS401120","cheapy.host LLC",540
@@ -77,7 +77,7 @@ ASN,Organization,IP_Count
 "AS214943","Railnet LLC",314
 "AS24863","LINKdotNET AS number",307
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",303
-"AS47890","UNMANAGED LTD",298
+"AS47890","UNMANAGED LTD",301
 "AS210848","Telkom Internet LTD",296
 "AS45899","VNPT Corp",293
 "AS9341","PT Indonesia Comnets Plus",286
@@ -124,8 +124,8 @@ ASN,Organization,IP_Count
 "AS58461","Chinanet",85
 "AS16735","ALGAR TELECOM S/A",81
 "AS4766","Korea Telecom",80
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",79
 "AS28209","Under Servicos de Internet Ltda",79
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",78
 "AS200019","ALEXHOST SRL",78
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",75
