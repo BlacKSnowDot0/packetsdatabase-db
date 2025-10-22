@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87682
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70571
 "AS211298","Driftnet Ltd",21880
-"AS398324","Censys, Inc.",12707
+"AS398324","Censys, Inc.",12708
 "AS396982","Google LLC",10060
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7651
@@ -63,8 +63,8 @@ ASN,Organization,IP_Count
 "AS3462","Chunghwa Telecom Co., Ltd.",474
 "AS212238","Datacamp Limited",454
 "AS51115","HLL LLC",451
-"AS53667","FranTech Solutions",439
-"AS13335","Cloudflare, Inc.",408
+"AS53667","FranTech Solutions",440
+"AS13335","Cloudflare, Inc.",409
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS9829","Bharat Sanchar Nigam Ltd",402
@@ -98,7 +98,7 @@ ASN,Organization,IP_Count
 "AS401116","Nybula LLC",170
 "AS63199","CDS Global Cloud Co., Ltd",170
 "AS18403","FPT Telecom Company",169
-"AS29484","Ruhr-Universitaet Bochum",160
+"AS29484","Ruhr-Universitaet Bochum",161
 "AS206264","Amarutu Technology Ltd",153
 "AS47105","Vault Dweller OU",141
 "AS137409","GSL Networks Pty LTD",128
@@ -1565,6 +1565,7 @@ ASN,Organization,IP_Count
 "AS18978","Enzu Inc",1
 "AS19045","Direct Communications Cedar Valley, LLC",1
 "AS19108","Suddenlink Communications",1
+"AS19148","Leaseweb USA, Inc.",1
 "AS19182","TELEFÔNICA BRASIL S.A",1
 "AS19527","Google LLC",1
 "AS19624","Data Room, Inc",1
