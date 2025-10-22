@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87682
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21885
-"AS398324","Censys, Inc.",12734
+"AS398324","Censys, Inc.",12735
 "AS396982","Google LLC",10062
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7655
@@ -28,10 +28,10 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1371
 "AS215269","LAZYCLOUD LTD",1312
-"AS49870","Alsycon B.V.",1275
+"AS49870","Alsycon B.V.",1277
+"AS32934","Facebook, Inc.",1201
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1167
-"AS32934","Facebook, Inc.",1146
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS32475","Internap Holding LLC",1101
@@ -54,7 +54,7 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",585
 "AS31148","Freenet LTD",558
 "AS9009","M247 Europe SRL",541
-"AS401120","cheapy.host LLC",539
+"AS401120","cheapy.host LLC",540
 "AS4837","CHINA UNICOM China169 Backbone",539
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
@@ -131,9 +131,9 @@ ASN,Organization,IP_Count
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
 "AS56046","China Mobile Communications Corporation",74
+"AS136435","ELITE COMMUNICATION",73
 "AS40021","Nubes, LLC",73
 "AS8560","IONOS SE",73
-"AS136435","ELITE COMMUNICATION",72
 "AS271795","SERVITELCONET CIA. LTDA.",72
 "AS31898","Oracle Corporation",72
 "AS52053","REDHEBERG Association declaree",69
@@ -308,6 +308,7 @@ ASN,Organization,IP_Count
 "AS56630","Melbikomas UAB",17
 "AS6167","Verizon Business",17
 "AS136142","Enigma Fiber Pvt Ltd",16
+"AS210509","Optimum Line for Internet Services Ltd.",16
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",16
 "AS24757","EthioNet",16
 "AS25198","INTERKVM HOST SRL",16
@@ -322,7 +323,6 @@ ASN,Organization,IP_Count
 "AS138915","Kaopu Cloud HK Limited",15
 "AS202448","MVPS LTD",15
 "AS207713","GLOBAL INTERNET SOLUTIONS LLC",15
-"AS210509","Optimum Line for Internet Services Ltd.",15
 "AS21127","Joint Stock Company TransTeleCom",15
 "AS211619","MAXKO d.o.o.",15
 "AS24151","China Internet Network Infomation Center",15
