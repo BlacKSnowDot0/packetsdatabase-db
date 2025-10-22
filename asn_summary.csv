@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87682
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21883
-"AS398324","Censys, Inc.",12728
-"AS396982","Google LLC",10061
+"AS398324","Censys, Inc.",12729
+"AS396982","Google LLC",10062
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7654
 "AS16276","OVH SAS",5754
@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4432
 "AS16509","Amazon.com, Inc.",3891
-"AS45102","Alibaba (US) Technology Co., Ltd.",3782
+"AS45102","Alibaba (US) Technology Co., Ltd.",3784
 "AS63949","Akamai Technologies, Inc.",3544
 "AS15169","Google LLC",3322
 "AS398705","Censys, Inc.",3238
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS32475","Internap Holding LLC",1099
+"AS32475","Internap Holding LLC",1101
 "AS174","Cogent Communications",1093
 "AS201401","NewVM B.V.",1076
 "AS36352","HostPapa",1074
@@ -47,7 +47,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",804
 "AS215925","VPSVAULT.HOST LTD",799
 "AS211680","NSEC - Sistemas Informaticos, S.A.",705
-"AS20052","Arbor Networks, Inc.",655
+"AS20052","Arbor Networks, Inc.",656
 "AS10439","CariNet, Inc.",604
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS51167","Contabo GmbH",587
@@ -62,9 +62,9 @@ ASN,Organization,IP_Count
 "AS50360","Tamatiya EOOD",492
 "AS3462","Chunghwa Telecom Co., Ltd.",474
 "AS212238","Datacamp Limited",454
+"AS13335","Cloudflare, Inc.",452
 "AS51115","HLL LLC",451
 "AS53667","FranTech Solutions",441
-"AS13335","Cloudflare, Inc.",416
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS9829","Bharat Sanchar Nigam Ltd",403
@@ -132,10 +132,10 @@ ASN,Organization,IP_Count
 "AS32475","SingleHop LLC",75
 "AS56046","China Mobile Communications Corporation",74
 "AS40021","Nubes, LLC",73
+"AS8560","IONOS SE",73
 "AS136435","ELITE COMMUNICATION",72
 "AS271795","SERVITELCONET CIA. LTDA.",72
 "AS31898","Oracle Corporation",72
-"AS8560","IONOS SE",72
 "AS52053","REDHEBERG Association declaree",69
 "AS3920","ESTOXY OU",68
 "AS11320","LightEdge Solutions",67
@@ -291,6 +291,7 @@ ASN,Organization,IP_Count
 "AS24940","Hetzner Online GmbH",18
 "AS329009","Spectrum Internet Service Ltd",18
 "AS36947","Telecom Algeria",18
+"AS39603","P4 Sp. z o.o.",18
 "AS400655","NixLabs Networks",18
 "AS4713","NTT Communications Corporation",18
 "AS56067","Metrabyte Co.,Ltd",18
@@ -301,7 +302,6 @@ ASN,Organization,IP_Count
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
 "AS329490","Promethean Consulting Limited",17
-"AS39603","P4 Sp. z o.o.",17
 "AS45117","Ishan's Network",17
 "AS50340","JSC Selectel",17
 "AS56630","Melbikomas UAB",17
@@ -329,6 +329,7 @@ ASN,Organization,IP_Count
 "AS272547","Servicos de Infraestrutura e Datacenter",15
 "AS28201","Companhia Itabirana Telecomunicações Ltda",15
 "AS2914","NTT America, Inc.",15
+"AS30823","aurologic GmbH",15
 "AS31113","Artkomm LLC",15
 "AS397283","RocketNode Inc",15
 "AS852","TELUS Communications Inc.",15
@@ -355,7 +356,6 @@ ASN,Organization,IP_Count
 "AS25369","Hydra Communications Ltd",13
 "AS28840","PJSC ""TATTELECOM""",13
 "AS29465","MTN NIGERIA Communication limited",13
-"AS30823","aurologic GmbH",13
 "AS37457","Telkom SA Ltd.",13
 "AS4808","China Unicom Beijing Province Network",13
 "AS53006","ALGAR TELECOM S/A",13
@@ -823,6 +823,7 @@ ASN,Organization,IP_Count
 "AS28220","CABO SERVICOS DE TELECOMUNICACOES LTDA",3
 "AS28787","Baku Telephone Communication LLC",3
 "AS28885","Oman Telecommunications Company (S.A.O.G)",3
+"AS29314","VECTRA S.A.",3
 "AS29447","SCALEWAY S.A.S.",3
 "AS29571","ORANGE COTE D'IVOIRE",3
 "AS29580","A1 Bulgaria EAD",3
@@ -1128,7 +1129,6 @@ ASN,Organization,IP_Count
 "AS28656","BTT TELECOMUNICACOES S.A.",2
 "AS28669","America-NET Ltda.",2
 "AS29222","Infomaniak Network SA",2
-"AS29314","VECTRA S.A.",2
 "AS29456","PJSC Rostelecom",2
 "AS30844","Liquid Telecommunications Ltd",2
 "AS30936","RENET COM Ltd.",2
