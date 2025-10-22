@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87682
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70571
-"AS211298","Driftnet Ltd",21879
-"AS398324","Censys, Inc.",12697
+"AS211298","Driftnet Ltd",21880
+"AS398324","Censys, Inc.",12700
 "AS396982","Google LLC",10057
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7642
+"AS14061","DigitalOcean, LLC",7645
 "AS16276","OVH SAS",5754
 "AS4134","Chinanet",4901
 "AS6568","Entel S.A. - EntelNet",4537
@@ -17,7 +17,7 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3088
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2668
+"AS8075","Microsoft Corporation",2669
 "AS142002","Scloud Pte Ltd",2553
 "AS6939","Hurricane Electric LLC",2415
 "AS9808","China Mobile",2074
@@ -47,8 +47,8 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",799
 "AS211680","NSEC - Sistemas Informaticos, S.A.",705
 "AS32934","Facebook, Inc.",685
-"AS20052","Arbor Networks, Inc.",639
-"AS10439","CariNet, Inc.",601
+"AS20052","Arbor Networks, Inc.",641
+"AS10439","CariNet, Inc.",602
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS51167","Contabo GmbH",587
 "AS14618","Amazon.com, Inc.",575
@@ -58,7 +58,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",539
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
-"AS201814","MEVSPACE sp. z o.o.",494
+"AS201814","MEVSPACE sp. z o.o.",495
 "AS50360","Tamatiya EOOD",492
 "AS3462","Chunghwa Telecom Co., Ltd.",474
 "AS212238","Datacamp Limited",454
@@ -429,6 +429,7 @@ ASN,Organization,IP_Count
 "AS267280","YELLOW CONNECT MULTIMIDIA LTDA ME",9
 "AS30058","FDCservers.net",9
 "AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",9
+"AS400992","ZhouyiSat Communications",9
 "AS40244","Turnkey Internet Inc.",9
 "AS4847","China Networks Inter-Exchange",9
 "AS48874","HOSTMAZE INC SRL-D",9
@@ -456,7 +457,6 @@ ASN,Organization,IP_Count
 "AS3215","Orange S.A.",8
 "AS328723","Telasera Technologies PTY LTD",8
 "AS38283","CHINANET SiChuan Telecom Internet Data Center",8
-"AS400992","ZhouyiSat Communications",8
 "AS41608","NextGenWebs, S.L.",8
 "AS4609","Companhia de Telecomunicacoes de Macau",8
 "AS47524","Turksat Uydu Haberlesme ve Kablo TV Isletme A.S.",8
