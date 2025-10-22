@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87682
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21885
-"AS398324","Censys, Inc.",12736
+"AS398324","Censys, Inc.",12737
 "AS396982","Google LLC",10062
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7656
@@ -17,7 +17,7 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3088
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2674
+"AS8075","Microsoft Corporation",2675
 "AS142002","Scloud Pte Ltd",2554
 "AS6939","Hurricane Electric LLC",2418
 "AS9808","China Mobile",2074
@@ -29,12 +29,12 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1371
 "AS215269","LAZYCLOUD LTD",1312
 "AS32934","Facebook, Inc.",1310
-"AS49870","Alsycon B.V.",1284
+"AS49870","Alsycon B.V.",1287
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS32475","Internap Holding LLC",1104
+"AS32475","Internap Holding LLC",1105
 "AS174","Cogent Communications",1093
 "AS201401","NewVM B.V.",1076
 "AS36352","HostPapa",1076
@@ -50,7 +50,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",656
 "AS10439","CariNet, Inc.",604
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS51167","Contabo GmbH",589
+"AS51167","Contabo GmbH",590
 "AS14618","Amazon.com, Inc.",585
 "AS31148","Freenet LTD",558
 "AS9009","M247 Europe SRL",541
@@ -77,8 +77,8 @@ ASN,Organization,IP_Count
 "AS214943","Railnet LLC",314
 "AS24863","LINKdotNET AS number",307
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",303
+"AS47890","UNMANAGED LTD",298
 "AS210848","Telkom Internet LTD",296
-"AS47890","UNMANAGED LTD",295
 "AS45899","VNPT Corp",293
 "AS9341","PT Indonesia Comnets Plus",286
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",283
@@ -114,7 +114,7 @@ ASN,Organization,IP_Count
 "AS208287","DC Host INC",110
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",101
 "AS28573","Claro NXT Telecomunicacoes Ltda",99
-"AS29066","velia.net Internetdienste GmbH",97
+"AS29066","velia.net Internetdienste GmbH",98
 "AS47331","TTNet A.S.",95
 "AS151185","China Telecom",94
 "AS63018","Dedicated.com",92
