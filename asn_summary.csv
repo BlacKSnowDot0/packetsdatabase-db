@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",12726
 "AS396982","Google LLC",10061
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7653
+"AS14061","DigitalOcean, LLC",7654
 "AS16276","OVH SAS",5754
 "AS4134","Chinanet",4901
 "AS6568","Entel S.A. - EntelNet",4537
@@ -13,11 +13,11 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",3887
 "AS45102","Alibaba (US) Technology Co., Ltd.",3782
 "AS63949","Akamai Technologies, Inc.",3543
-"AS15169","Google LLC",3319
+"AS15169","Google LLC",3321
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3088
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2671
+"AS8075","Microsoft Corporation",2672
 "AS142002","Scloud Pte Ltd",2553
 "AS6939","Hurricane Electric LLC",2417
 "AS9808","China Mobile",2074
@@ -37,8 +37,8 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1093
 "AS201401","NewVM B.V.",1076
 "AS36352","HostPapa",1074
+"AS32934","Facebook, Inc.",989
 "AS208684","BHA CONSEIL SARL",977
-"AS32934","Facebook, Inc.",970
 "AS23470","ReliableSite.Net LLC",931
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -307,6 +307,7 @@ ASN,Organization,IP_Count
 "AS56630","Melbikomas UAB",17
 "AS6167","Verizon Business",17
 "AS136142","Enigma Fiber Pvt Ltd",16
+"AS212913","FOP Hornostay Mykhaylo Ivanovych",16
 "AS24757","EthioNet",16
 "AS25198","INTERKVM HOST SRL",16
 "AS46261","QuickPacket, LLC",16
@@ -323,7 +324,6 @@ ASN,Organization,IP_Count
 "AS210509","Optimum Line for Internet Services Ltd.",15
 "AS21127","Joint Stock Company TransTeleCom",15
 "AS211619","MAXKO d.o.o.",15
-"AS212913","FOP Hornostay Mykhaylo Ivanovych",15
 "AS24151","China Internet Network Infomation Center",15
 "AS263767","CORPORACIÓN GALA IT, C.A.",15
 "AS272547","Servicos de Infraestrutura e Datacenter",15
