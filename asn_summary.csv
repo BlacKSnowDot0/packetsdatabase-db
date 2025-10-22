@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87682
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21883
-"AS398324","Censys, Inc.",12727
+"AS398324","Censys, Inc.",12728
 "AS396982","Google LLC",10061
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7654
@@ -10,7 +10,7 @@ ASN,Organization,IP_Count
 "AS4134","Chinanet",4901
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4432
-"AS16509","Amazon.com, Inc.",3887
+"AS16509","Amazon.com, Inc.",3891
 "AS45102","Alibaba (US) Technology Co., Ltd.",3782
 "AS63949","Akamai Technologies, Inc.",3544
 "AS15169","Google LLC",3322
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2672
 "AS142002","Scloud Pte Ltd",2553
-"AS6939","Hurricane Electric LLC",2417
+"AS6939","Hurricane Electric LLC",2418
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1708
 "AS214295","SKYNET NETWORK LTD",1631
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS32475","Internap Holding LLC",1098
+"AS32475","Internap Holding LLC",1099
 "AS174","Cogent Communications",1093
 "AS201401","NewVM B.V.",1076
 "AS36352","HostPapa",1074
@@ -73,8 +73,8 @@ ASN,Organization,IP_Count
 "AS7018","AT&T Enterprises, LLC",360
 "AS21859","Zenlayer Inc",342
 "AS7922","Comcast Cable Communications, LLC",342
+"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",314
 "AS214943","Railnet LLC",314
-"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",313
 "AS24863","LINKdotNET AS number",307
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",303
 "AS210848","Telkom Internet LTD",296
@@ -137,9 +137,9 @@ ASN,Organization,IP_Count
 "AS31898","Oracle Corporation",72
 "AS8560","IONOS SE",72
 "AS52053","REDHEBERG Association declaree",69
+"AS3920","ESTOXY OU",68
 "AS11320","LightEdge Solutions",67
 "AS328867","Corebach Backbone SARL",67
-"AS3920","ESTOXY OU",67
 "AS199785","Cloud Hosting Solutions, Limited.",66
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
 "AS398101","GoDaddy.com, LLC",65
