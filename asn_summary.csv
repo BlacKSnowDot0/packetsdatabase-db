@@ -3,7 +3,7 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70571
 "AS211298","Driftnet Ltd",21880
 "AS398324","Censys, Inc.",12703
-"AS396982","Google LLC",10057
+"AS396982","Google LLC",10058
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7646
 "AS16276","OVH SAS",5754
@@ -13,11 +13,11 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",3860
 "AS45102","Alibaba (US) Technology Co., Ltd.",3777
 "AS63949","Akamai Technologies, Inc.",3542
-"AS15169","Google LLC",3238
+"AS15169","Google LLC",3240
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3088
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2669
+"AS8075","Microsoft Corporation",2670
 "AS142002","Scloud Pte Ltd",2553
 "AS6939","Hurricane Electric LLC",2415
 "AS9808","China Mobile",2074
@@ -33,10 +33,10 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
+"AS32475","Internap Holding LLC",1092
 "AS174","Cogent Communications",1091
-"AS32475","Internap Holding LLC",1091
 "AS201401","NewVM B.V.",1076
-"AS36352","HostPapa",1068
+"AS36352","HostPapa",1069
 "AS208684","BHA CONSEIL SARL",977
 "AS23470","ReliableSite.Net LLC",930
 "AS51852","Private Layer INC",907
@@ -332,6 +332,7 @@ ASN,Organization,IP_Count
 "AS397283","RocketNode Inc",15
 "AS852","TELUS Communications Inc.",15
 "AS140726","China Unicom",14
+"AS199414","Noah Kolossa",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS21127","Joint Stock Company TransTeleCom",14
 "AS27947","Telconet S.A",14
@@ -348,7 +349,6 @@ ASN,Organization,IP_Count
 "AS16591","Google Fiber Inc.",13
 "AS17621","China Unicom Shanghai network",13
 "AS19901","Brightspeed",13
-"AS199414","Noah Kolossa",13
 "AS213194","Nechaev Dmitry Sergeevich",13
 "AS25369","Hydra Communications Ltd",13
 "AS28840","PJSC ""TATTELECOM""",13
