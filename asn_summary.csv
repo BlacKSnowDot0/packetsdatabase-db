@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87682
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
-"AS211298","Driftnet Ltd",21883
-"AS398324","Censys, Inc.",12730
+"AS211298","Driftnet Ltd",21884
+"AS398324","Censys, Inc.",12731
 "AS396982","Google LLC",10062
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7654
@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1093
 "AS201401","NewVM B.V.",1076
 "AS36352","HostPapa",1074
-"AS32934","Facebook, Inc.",992
+"AS32934","Facebook, Inc.",1011
 "AS208684","BHA CONSEIL SARL",977
 "AS23470","ReliableSite.Net LLC",931
 "AS51852","Private Layer INC",907
@@ -50,7 +50,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",656
 "AS10439","CariNet, Inc.",604
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS51167","Contabo GmbH",587
+"AS51167","Contabo GmbH",588
 "AS14618","Amazon.com, Inc.",585
 "AS31148","Freenet LTD",558
 "AS9009","M247 Europe SRL",541
@@ -82,7 +82,7 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",286
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",283
 "AS7713","Telekomunikasi Indonesia (PT)",281
-"AS47890","UNMANAGED LTD",274
+"AS47890","UNMANAGED LTD",277
 "AS8151","Uninet S.A. de C.V.",260
 "AS48090","TECHOFF SRV LIMITED",254
 "AS60223","Netiface Limited",250
@@ -94,10 +94,10 @@ ASN,Organization,IP_Count
 "AS141718","haoxiangyun",202
 "AS701","Verizon Business",192
 "AS12389","PJSC Rostelecom",186
-"AS12555","Data-center IMAQLIQ Ltd.",183
+"AS12555","Data-center IMAQLIQ Ltd.",184
+"AS18403","FPT Telecom Company",170
 "AS401116","Nybula LLC",170
 "AS63199","CDS Global Cloud Co., Ltd",170
-"AS18403","FPT Telecom Company",169
 "AS29484","Ruhr-Universitaet Bochum",161
 "AS206264","Amarutu Technology Ltd",153
 "AS47105","Vault Dweller OU",141
@@ -229,6 +229,7 @@ ASN,Organization,IP_Count
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS1103","SURF B.V.",25
 "AS53118","NETLINE TELECOM",25
+"AS5617","Orange Polska Spolka Akcyjna",25
 "AS58224","Iran Telecommunication Company PJS",25
 "AS18881","TELEFÔNICA BRASIL S.A",24
 "AS197540","netcup GmbH",24
@@ -433,7 +434,6 @@ ASN,Organization,IP_Count
 "AS40244","Turnkey Internet Inc.",9
 "AS4847","China Networks Inter-Exchange",9
 "AS48874","HOSTMAZE INC SRL-D",9
-"AS5617","Orange Polska Spolka Akcyjna",9
 "AS8708","RCS & RDS SA",9
 "AS9770","LG HelloVision Corp.",9
 "AS133481","ADVANCED WIRELESS NETWORK COMPANY LIMITED",8
