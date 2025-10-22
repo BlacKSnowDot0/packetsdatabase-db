@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87682
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21885
-"AS398324","Censys, Inc.",12739
-"AS396982","Google LLC",10062
+"AS398324","Censys, Inc.",12740
+"AS396982","Google LLC",10063
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7656
 "AS16276","OVH SAS",5755
@@ -27,9 +27,9 @@ ASN,Organization,IP_Count
 "AS0","",1477
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1371
-"AS32934","Facebook, Inc.",1341
+"AS32934","Facebook, Inc.",1363
 "AS215269","LAZYCLOUD LTD",1312
-"AS49870","Alsycon B.V.",1289
+"AS49870","Alsycon B.V.",1292
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
@@ -50,7 +50,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",656
 "AS10439","CariNet, Inc.",604
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS51167","Contabo GmbH",590
+"AS51167","Contabo GmbH",591
 "AS14618","Amazon.com, Inc.",586
 "AS31148","Freenet LTD",558
 "AS9009","M247 Europe SRL",541
@@ -61,7 +61,7 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",495
 "AS50360","Tamatiya EOOD",492
 "AS3462","Chunghwa Telecom Co., Ltd.",474
-"AS13335","Cloudflare, Inc.",471
+"AS13335","Cloudflare, Inc.",472
 "AS212238","Datacamp Limited",454
 "AS51115","HLL LLC",451
 "AS53667","FranTech Solutions",441
@@ -76,8 +76,8 @@ ASN,Organization,IP_Count
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",314
 "AS214943","Railnet LLC",314
 "AS24863","LINKdotNET AS number",307
+"AS47890","UNMANAGED LTD",306
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",303
-"AS47890","UNMANAGED LTD",301
 "AS210848","Telkom Internet LTD",296
 "AS45899","VNPT Corp",293
 "AS9341","PT Indonesia Comnets Plus",286
