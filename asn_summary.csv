@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87682
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21883
-"AS398324","Censys, Inc.",12729
+"AS398324","Censys, Inc.",12730
 "AS396982","Google LLC",10062
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7654
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",3891
 "AS45102","Alibaba (US) Technology Co., Ltd.",3784
 "AS63949","Akamai Technologies, Inc.",3544
-"AS15169","Google LLC",3322
+"AS15169","Google LLC",3323
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3088
 "AS213412","ONYPHE SAS",2795
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",604
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS51167","Contabo GmbH",587
-"AS14618","Amazon.com, Inc.",581
+"AS14618","Amazon.com, Inc.",585
 "AS31148","Freenet LTD",558
 "AS9009","M247 Europe SRL",541
 "AS401120","cheapy.host LLC",539
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS50360","Tamatiya EOOD",492
 "AS3462","Chunghwa Telecom Co., Ltd.",474
 "AS212238","Datacamp Limited",454
-"AS13335","Cloudflare, Inc.",452
+"AS13335","Cloudflare, Inc.",453
 "AS51115","HLL LLC",451
 "AS53667","FranTech Solutions",441
 "AS21299","Kar-Tel LLC",406
@@ -675,6 +675,7 @@ ASN,Organization,IP_Count
 "AS28258","VERO S.A",4
 "AS28753","Leaseweb Deutschland GmbH",4
 "AS29182","JSC IOT",4
+"AS29314","VECTRA S.A.",4
 "AS30722","Vodafone Italia S.p.A.",4
 "AS30753","FHU ""COMPOWER"" Dariusz Krocz",4
 "AS31042","Serbia BroadBand-Srpske Kablovske mreze d.o.o.",4
@@ -823,7 +824,6 @@ ASN,Organization,IP_Count
 "AS28220","CABO SERVICOS DE TELECOMUNICACOES LTDA",3
 "AS28787","Baku Telephone Communication LLC",3
 "AS28885","Oman Telecommunications Company (S.A.O.G)",3
-"AS29314","VECTRA S.A.",3
 "AS29447","SCALEWAY S.A.S.",3
 "AS29571","ORANGE COTE D'IVOIRE",3
 "AS29580","A1 Bulgaria EAD",3
