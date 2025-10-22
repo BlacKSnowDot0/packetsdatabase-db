@@ -2,18 +2,18 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87682
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70571
 "AS211298","Driftnet Ltd",21880
-"AS398324","Censys, Inc.",12703
-"AS396982","Google LLC",10058
+"AS398324","Censys, Inc.",12706
+"AS396982","Google LLC",10060
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7646
+"AS14061","DigitalOcean, LLC",7649
 "AS16276","OVH SAS",5754
 "AS4134","Chinanet",4901
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4431
 "AS16509","Amazon.com, Inc.",3860
-"AS45102","Alibaba (US) Technology Co., Ltd.",3777
+"AS45102","Alibaba (US) Technology Co., Ltd.",3778
 "AS63949","Akamai Technologies, Inc.",3542
-"AS15169","Google LLC",3240
+"AS15169","Google LLC",3241
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3088
 "AS213412","ONYPHE SAS",2795
@@ -33,10 +33,10 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS32475","Internap Holding LLC",1092
+"AS32475","Internap Holding LLC",1093
 "AS174","Cogent Communications",1091
 "AS201401","NewVM B.V.",1076
-"AS36352","HostPapa",1069
+"AS36352","HostPapa",1070
 "AS208684","BHA CONSEIL SARL",977
 "AS23470","ReliableSite.Net LLC",930
 "AS51852","Private Layer INC",907
@@ -64,10 +64,10 @@ ASN,Organization,IP_Count
 "AS212238","Datacamp Limited",454
 "AS51115","HLL LLC",451
 "AS53667","FranTech Solutions",439
+"AS13335","Cloudflare, Inc.",407
 "AS21299","Kar-Tel LLC",406
-"AS13335","Cloudflare, Inc.",404
 "AS24186","RailTel Corporation of India Ltd.",404
-"AS9829","Bharat Sanchar Nigam Ltd",401
+"AS9829","Bharat Sanchar Nigam Ltd",402
 "AS12876","ONLINE S.A.S.",391
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS7018","AT&T Enterprises, LLC",360
@@ -258,6 +258,7 @@ ASN,Organization,IP_Count
 "AS141995","Contabo Asia Private Limited",21
 "AS17561","Larus Limited",21
 "AS17816","China Unicom IP network China169 Guangdong province",21
+"AS204834","Shabakieh Isfahan Co PJSC",21
 "AS214668","AxusHost B.V.",21
 "AS24560","Bharti Airtel Limited",21
 "AS400536","Nodestop LLC",21
@@ -267,7 +268,6 @@ ASN,Organization,IP_Count
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
-"AS204834","Shabakieh Isfahan Co PJSC",20
 "AS214417","Andrii Hrosh",20
 "AS2856","British Telecommunications PLC",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
