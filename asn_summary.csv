@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87682
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21883
-"AS398324","Censys, Inc.",12726
+"AS398324","Censys, Inc.",12727
 "AS396982","Google LLC",10061
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7654
@@ -12,8 +12,8 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4432
 "AS16509","Amazon.com, Inc.",3887
 "AS45102","Alibaba (US) Technology Co., Ltd.",3782
-"AS63949","Akamai Technologies, Inc.",3543
-"AS15169","Google LLC",3321
+"AS63949","Akamai Technologies, Inc.",3544
+"AS15169","Google LLC",3322
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3088
 "AS213412","ONYPHE SAS",2795
@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1093
 "AS201401","NewVM B.V.",1076
 "AS36352","HostPapa",1074
-"AS32934","Facebook, Inc.",989
+"AS32934","Facebook, Inc.",992
 "AS208684","BHA CONSEIL SARL",977
 "AS23470","ReliableSite.Net LLC",931
 "AS51852","Private Layer INC",907
@@ -48,7 +48,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",799
 "AS211680","NSEC - Sistemas Informaticos, S.A.",705
 "AS20052","Arbor Networks, Inc.",655
-"AS10439","CariNet, Inc.",603
+"AS10439","CariNet, Inc.",604
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS51167","Contabo GmbH",587
 "AS14618","Amazon.com, Inc.",581
@@ -340,6 +340,7 @@ ASN,Organization,IP_Count
 "AS30600","Metronet",14
 "AS3257","GTT Communications Inc.",14
 "AS33363","Charter Communications, Inc",14
+"AS40676","Psychz Networks",14
 "AS48721","Flyservers S.A.",14
 "AS6181","Cincinnati Bell Telephone Company LLC",14
 "AS812","Rogers Communications Canada Inc.",14
@@ -356,7 +357,6 @@ ASN,Organization,IP_Count
 "AS29465","MTN NIGERIA Communication limited",13
 "AS30823","aurologic GmbH",13
 "AS37457","Telkom SA Ltd.",13
-"AS40676","Psychz Networks",13
 "AS4808","China Unicom Beijing Province Network",13
 "AS53006","ALGAR TELECOM S/A",13
 "AS12400","Partner Communications Ltd.",12
