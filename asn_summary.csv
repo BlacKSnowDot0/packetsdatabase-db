@@ -5,13 +5,13 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",12700
 "AS396982","Google LLC",10057
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7645
+"AS14061","DigitalOcean, LLC",7646
 "AS16276","OVH SAS",5754
 "AS4134","Chinanet",4901
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4431
 "AS16509","Amazon.com, Inc.",3860
-"AS45102","Alibaba (US) Technology Co., Ltd.",3775
+"AS45102","Alibaba (US) Technology Co., Ltd.",3777
 "AS63949","Akamai Technologies, Inc.",3542
 "AS15169","Google LLC",3238
 "AS398705","Censys, Inc.",3238
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS174","Cogent Communications",1091
-"AS32475","Internap Holding LLC",1089
+"AS32475","Internap Holding LLC",1090
 "AS201401","NewVM B.V.",1076
 "AS36352","HostPapa",1067
 "AS208684","BHA CONSEIL SARL",977
@@ -47,7 +47,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",799
 "AS211680","NSEC - Sistemas Informaticos, S.A.",705
 "AS32934","Facebook, Inc.",685
-"AS20052","Arbor Networks, Inc.",641
+"AS20052","Arbor Networks, Inc.",642
 "AS10439","CariNet, Inc.",602
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS51167","Contabo GmbH",587
@@ -354,10 +354,12 @@ ASN,Organization,IP_Count
 "AS29465","MTN NIGERIA Communication limited",13
 "AS30823","aurologic GmbH",13
 "AS37457","Telkom SA Ltd.",13
+"AS40676","Psychz Networks",13
 "AS4808","China Unicom Beijing Province Network",13
 "AS53006","ALGAR TELECOM S/A",13
 "AS12400","Partner Communications Ltd.",12
 "AS15704","XTRA TELECOM S.A.",12
+"AS199414","Noah Kolossa",12
 "AS200590","NLS Kazakhstan LLC",12
 "AS213438","ColocaTel Inc.",12
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",12
@@ -366,7 +368,6 @@ ASN,Organization,IP_Count
 "AS35042","Layer7 Networks GmbH",12
 "AS36992","ETISALAT MISR",12
 "AS38264","Wateen Telecom Limited",12
-"AS40676","Psychz Networks",12
 "AS41075","ATW Internet Kft.",12
 "AS5607","Sky UK Limited",12
 "AS62442","Dade Samane Fanava Company (PJS)",12
@@ -378,7 +379,6 @@ ASN,Organization,IP_Count
 "AS134420","Chongqing Telecom",11
 "AS17552","TRUE INTERNET CORPORATION CO. LTD.",11
 "AS17639","ComClark Network & Technology Corp",11
-"AS199414","Noah Kolossa",11
 "AS200651","FlokiNET ehf",11
 "AS205119","TELEKS DOOEL Skopje",11
 "AS206804","EstNOC OY",11
