@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87682
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70571
 "AS211298","Driftnet Ltd",21880
-"AS398324","Censys, Inc.",12700
+"AS398324","Censys, Inc.",12701
 "AS396982","Google LLC",10057
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7646
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS174","Cogent Communications",1091
-"AS32475","Internap Holding LLC",1090
+"AS32475","Internap Holding LLC",1091
 "AS201401","NewVM B.V.",1076
 "AS36352","HostPapa",1067
 "AS208684","BHA CONSEIL SARL",977
@@ -348,6 +348,7 @@ ASN,Organization,IP_Count
 "AS16591","Google Fiber Inc.",13
 "AS17621","China Unicom Shanghai network",13
 "AS19901","Brightspeed",13
+"AS199414","Noah Kolossa",13
 "AS213194","Nechaev Dmitry Sergeevich",13
 "AS25369","Hydra Communications Ltd",13
 "AS28840","PJSC ""TATTELECOM""",13
@@ -359,7 +360,6 @@ ASN,Organization,IP_Count
 "AS53006","ALGAR TELECOM S/A",13
 "AS12400","Partner Communications Ltd.",12
 "AS15704","XTRA TELECOM S.A.",12
-"AS199414","Noah Kolossa",12
 "AS200590","NLS Kazakhstan LLC",12
 "AS213438","ColocaTel Inc.",12
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",12
@@ -409,6 +409,7 @@ ASN,Organization,IP_Count
 "AS37105","RAIN GROUP HOLDINGS (PTY) LTD",10
 "AS37611","Afrihost (Pty) Ltd",10
 "AS37705","TOPNET",10
+"AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",10
 "AS41420","Xentech B.V.",10
 "AS44901","Belcloud LTD",10
 "AS49434","FBW NETWORKS SAS",10
@@ -428,7 +429,6 @@ ASN,Organization,IP_Count
 "AS25019","Saudi Telecom Company JSC",9
 "AS267280","YELLOW CONNECT MULTIMIDIA LTDA ME",9
 "AS30058","FDCservers.net",9
-"AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",9
 "AS400992","ZhouyiSat Communications",9
 "AS40244","Turnkey Internet Inc.",9
 "AS4847","China Networks Inter-Exchange",9
@@ -519,6 +519,7 @@ ASN,Organization,IP_Count
 "AS21056","Vianova S.p.A",6
 "AS211507","Julian Achter",6
 "AS212374","Virtuozzo International GmbH",6
+"AS212598","SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.",6
 "AS213893","IPTransit Business LTD",6
 "AS214762","Sebastian Stefanek trading as MatHost.eu",6
 "AS216158","Teleport Rus LLC",6
@@ -577,7 +578,6 @@ ASN,Organization,IP_Count
 "AS2119","Telenor Norge AS",5
 "AS212219","HOSTING DUNYAM BILISIM TEKNOLOJILERI TICARET LIMITED SIRKETI",5
 "AS21246","IPKO Telecommunications LLC",5
-"AS212598","SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.",5
 "AS213851","Marcel Hanisch",5
 "AS214209","Internet Magnate (Pty) Ltd",5
 "AS215311","Regxa Company for Information Technology Ltd",5
