@@ -6,18 +6,18 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",10062
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7656
-"AS16276","OVH SAS",5754
+"AS16276","OVH SAS",5755
 "AS4134","Chinanet",4901
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4432
-"AS16509","Amazon.com, Inc.",3902
-"AS45102","Alibaba (US) Technology Co., Ltd.",3786
-"AS63949","Akamai Technologies, Inc.",3544
+"AS16509","Amazon.com, Inc.",3903
+"AS45102","Alibaba (US) Technology Co., Ltd.",3788
+"AS63949","Akamai Technologies, Inc.",3545
 "AS15169","Google LLC",3323
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3088
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2673
+"AS8075","Microsoft Corporation",2674
 "AS142002","Scloud Pte Ltd",2554
 "AS6939","Hurricane Electric LLC",2418
 "AS9808","China Mobile",2074
@@ -28,13 +28,13 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1371
 "AS215269","LAZYCLOUD LTD",1312
-"AS49870","Alsycon B.V.",1279
-"AS32934","Facebook, Inc.",1223
+"AS32934","Facebook, Inc.",1310
+"AS49870","Alsycon B.V.",1281
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS32475","Internap Holding LLC",1102
+"AS32475","Internap Holding LLC",1103
 "AS174","Cogent Communications",1093
 "AS201401","NewVM B.V.",1076
 "AS36352","HostPapa",1076
@@ -78,8 +78,8 @@ ASN,Organization,IP_Count
 "AS24863","LINKdotNET AS number",307
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",303
 "AS210848","Telkom Internet LTD",296
+"AS47890","UNMANAGED LTD",294
 "AS45899","VNPT Corp",293
-"AS47890","UNMANAGED LTD",288
 "AS9341","PT Indonesia Comnets Plus",286
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",283
 "AS7713","Telekomunikasi Indonesia (PT)",281
@@ -191,7 +191,7 @@ ASN,Organization,IP_Count
 "AS6128","Cablevision Systems Corp.",36
 "AS20473","The Constant Company, LLC",35
 "AS213790","Limited Network LTD",35
-"AS30083","velia.net",34
+"AS30083","velia.net",35
 "AS34665","Petersburg Internet Network ltd.",34
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",34
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",34
