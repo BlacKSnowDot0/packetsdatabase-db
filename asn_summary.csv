@@ -11,9 +11,9 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4432
 "AS16509","Amazon.com, Inc.",3887
-"AS45102","Alibaba (US) Technology Co., Ltd.",3781
+"AS45102","Alibaba (US) Technology Co., Ltd.",3782
 "AS63949","Akamai Technologies, Inc.",3543
-"AS15169","Google LLC",3317
+"AS15169","Google LLC",3319
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3088
 "AS213412","ONYPHE SAS",2795
@@ -33,21 +33,21 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS32475","Internap Holding LLC",1097
-"AS174","Cogent Communications",1092
+"AS32475","Internap Holding LLC",1098
+"AS174","Cogent Communications",1093
 "AS201401","NewVM B.V.",1076
-"AS36352","HostPapa",1073
+"AS36352","HostPapa",1074
 "AS208684","BHA CONSEIL SARL",977
+"AS32934","Facebook, Inc.",938
 "AS23470","ReliableSite.Net LLC",931
 "AS51852","Private Layer INC",907
-"AS32934","Facebook, Inc.",850
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",816
 "AS8452","TE-AS",804
 "AS215925","VPSVAULT.HOST LTD",799
 "AS211680","NSEC - Sistemas Informaticos, S.A.",705
-"AS20052","Arbor Networks, Inc.",653
+"AS20052","Arbor Networks, Inc.",654
 "AS10439","CariNet, Inc.",603
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS51167","Contabo GmbH",587
@@ -64,7 +64,7 @@ ASN,Organization,IP_Count
 "AS212238","Datacamp Limited",454
 "AS51115","HLL LLC",451
 "AS53667","FranTech Solutions",441
-"AS13335","Cloudflare, Inc.",414
+"AS13335","Cloudflare, Inc.",416
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS9829","Bharat Sanchar Nigam Ltd",403
@@ -74,7 +74,7 @@ ASN,Organization,IP_Count
 "AS21859","Zenlayer Inc",342
 "AS7922","Comcast Cable Communications, LLC",342
 "AS214943","Railnet LLC",314
-"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",312
+"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",313
 "AS24863","LINKdotNET AS number",307
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",303
 "AS210848","Telkom Internet LTD",296
@@ -1375,6 +1375,7 @@ ASN,Organization,IP_Count
 "AS134502","Victorians Online",1
 "AS134674","Tata Play Broadband Private Limited",1
 "AS134756","China Telecom",1
+"AS134768","CHINANET SHAANXI province Cloud Base network",1
 "AS134877","Sri Vari Network Private Limited",1
 "AS134907","Bharat VoIP Communications Pvt Ltd",1
 "AS134911","Sigaram Networks Pvt Ltd",1
