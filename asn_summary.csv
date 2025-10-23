@@ -2,30 +2,30 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87682
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21885
-"AS398324","Censys, Inc.",12769
+"AS398324","Censys, Inc.",12771
 "AS396982","Google LLC",10077
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7666
+"AS14061","DigitalOcean, LLC",7667
 "AS16276","OVH SAS",5756
 "AS4134","Chinanet",4901
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4433
-"AS16509","Amazon.com, Inc.",3931
+"AS16509","Amazon.com, Inc.",3939
 "AS45102","Alibaba (US) Technology Co., Ltd.",3794
-"AS63949","Akamai Technologies, Inc.",3547
+"AS63949","Akamai Technologies, Inc.",3548
 "AS15169","Google LLC",3323
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3088
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2676
 "AS142002","Scloud Pte Ltd",2555
-"AS6939","Hurricane Electric LLC",2422
+"AS6939","Hurricane Electric LLC",2423
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1712
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1510
 "AS0","",1478
-"AS32934","Facebook, Inc.",1451
+"AS32934","Facebook, Inc.",1462
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1372
 "AS215269","LAZYCLOUD LTD",1312
@@ -45,13 +45,13 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",816
 "AS8452","TE-AS",804
-"AS215925","VPSVAULT.HOST LTD",799
+"AS215925","VPSVAULT.HOST LTD",800
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS20052","Arbor Networks, Inc.",663
 "AS10439","CariNet, Inc.",605
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS51167","Contabo GmbH",591
-"AS14618","Amazon.com, Inc.",588
+"AS14618","Amazon.com, Inc.",590
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",541
 "AS9009","M247 Europe SRL",541
@@ -139,8 +139,8 @@ ASN,Organization,IP_Count
 "AS52053","REDHEBERG Association declaree",69
 "AS3920","ESTOXY OU",68
 "AS11320","LightEdge Solutions",67
+"AS199785","Cloud Hosting Solutions, Limited.",67
 "AS328867","Corebach Backbone SARL",67
-"AS199785","Cloud Hosting Solutions, Limited.",66
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
@@ -301,6 +301,7 @@ ASN,Organization,IP_Count
 "AS14593","Space Exploration Technologies Corporation",17
 "AS148981","China Telecom",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
+"AS210509","Optimum Line for Internet Services Ltd.",17
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
 "AS329490","Promethean Consulting Limited",17
 "AS45117","Ishan's Network",17
@@ -308,7 +309,6 @@ ASN,Organization,IP_Count
 "AS56630","Melbikomas UAB",17
 "AS6167","Verizon Business",17
 "AS136142","Enigma Fiber Pvt Ltd",16
-"AS210509","Optimum Line for Internet Services Ltd.",16
 "AS21127","Joint Stock Company TransTeleCom",16
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",16
 "AS24757","EthioNet",16
