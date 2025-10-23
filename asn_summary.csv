@@ -3,24 +3,24 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21887
 "AS398324","Censys, Inc.",12783
-"AS396982","Google LLC",10084
+"AS396982","Google LLC",10085
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7671
 "AS16276","OVH SAS",5756
-"AS4134","Chinanet",4901
+"AS4134","Chinanet",4902
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4433
-"AS16509","Amazon.com, Inc.",3959
+"AS16509","Amazon.com, Inc.",3963
 "AS45102","Alibaba (US) Technology Co., Ltd.",3800
 "AS63949","Akamai Technologies, Inc.",3548
 "AS15169","Google LLC",3323
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3088
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2676
+"AS8075","Microsoft Corporation",2677
 "AS142002","Scloud Pte Ltd",2555
 "AS6939","Hurricane Electric LLC",2425
-"AS32934","Facebook, Inc.",2111
+"AS32934","Facebook, Inc.",2143
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1713
 "AS214295","SKYNET NETWORK LTD",1631
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",605
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS51167","Contabo GmbH",593
-"AS14618","Amazon.com, Inc.",590
+"AS14618","Amazon.com, Inc.",591
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",542
 "AS9009","M247 Europe SRL",541
@@ -132,8 +132,8 @@ ASN,Organization,IP_Count
 "AS32475","SingleHop LLC",75
 "AS136435","ELITE COMMUNICATION",74
 "AS56046","China Mobile Communications Corporation",74
+"AS8560","IONOS SE",74
 "AS40021","Nubes, LLC",73
-"AS8560","IONOS SE",73
 "AS271795","SERVITELCONET CIA. LTDA.",72
 "AS31898","Oracle Corporation",72
 "AS3920","ESTOXY OU",69
@@ -149,10 +149,10 @@ ASN,Organization,IP_Count
 "AS215590","DpkgSoft International Limited",58
 "AS4812","China Telecom (Group)",58
 "AS49544","i3D.net B.V",58
+"AS150263","PT Alnet Telekomunikasi Indonesia",57
 "AS20278","Nexeon Technologies, Inc.",57
 "AS22773","Cox Communications Inc.",57
 "AS55720","Gigabit Hosting Sdn Bhd",57
-"AS150263","PT Alnet Telekomunikasi Indonesia",56
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",56
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
