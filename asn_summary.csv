@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87682
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21885
-"AS398324","Censys, Inc.",12760
-"AS396982","Google LLC",10074
+"AS398324","Censys, Inc.",12761
+"AS396982","Google LLC",10075
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7666
 "AS16276","OVH SAS",5756
@@ -1131,6 +1131,7 @@ ASN,Organization,IP_Count
 "AS29222","Infomaniak Network SA",2
 "AS29456","PJSC Rostelecom",2
 "AS30844","Liquid Telecommunications Ltd",2
+"AS30860","Virtual Systems LLC",2
 "AS30936","RENET COM Ltd.",2
 "AS31143","COSMOS TV JLLC",2
 "AS31245","ATI - ISP",2
@@ -2204,7 +2205,6 @@ ASN,Organization,IP_Count
 "AS29744","United Telephone Mutual Aid Corporation",1
 "AS29968","Dunkirk & Fredonia Telephone Company",1
 "AS30848","TWT S.p.A.",1
-"AS30860","Virtual Systems LLC",1
 "AS30881","MTS PJSC",1
 "AS30985","IKATEL SA",1
 "AS30992","MTN Network Solutions (Cameroon)",1
