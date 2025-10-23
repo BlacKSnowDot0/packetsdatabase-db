@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",12790
 "AS396982","Google LLC",10086
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7672
+"AS14061","DigitalOcean, LLC",7673
 "AS16276","OVH SAS",5757
 "AS4134","Chinanet",4902
 "AS6568","Entel S.A. - EntelNet",4537
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2677
 "AS142002","Scloud Pte Ltd",2557
-"AS32934","Facebook, Inc.",2504
+"AS32934","Facebook, Inc.",2526
 "AS6939","Hurricane Electric LLC",2425
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1713
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",495
 "AS50360","Tamatiya EOOD",492
 "AS3462","Chunghwa Telecom Co., Ltd.",474
-"AS51115","HLL LLC",456
+"AS51115","HLL LLC",457
 "AS212238","Datacamp Limited",454
 "AS53667","FranTech Solutions",441
 "AS21299","Kar-Tel LLC",406
@@ -302,6 +302,7 @@ ASN,Organization,IP_Count
 "AS148981","China Telecom",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
 "AS210509","Optimum Line for Internet Services Ltd.",17
+"AS212913","FOP Hornostay Mykhaylo Ivanovych",17
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
 "AS329490","Promethean Consulting Limited",17
 "AS45117","Ishan's Network",17
@@ -310,7 +311,6 @@ ASN,Organization,IP_Count
 "AS6167","Verizon Business",17
 "AS136142","Enigma Fiber Pvt Ltd",16
 "AS21127","Joint Stock Company TransTeleCom",16
-"AS212913","FOP Hornostay Mykhaylo Ivanovych",16
 "AS24757","EthioNet",16
 "AS25198","INTERKVM HOST SRL",16
 "AS40676","Psychz Networks",16
@@ -337,6 +337,7 @@ ASN,Organization,IP_Count
 "AS852","TELUS Communications Inc.",15
 "AS140726","China Unicom",14
 "AS199414","Noah Kolossa",14
+"AS200590","NLS Kazakhstan LLC",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS27947","Telconet S.A",14
 "AS28126","BRISANET SERVICOS DE TELECOMUNICACOES LTDA",14
@@ -352,7 +353,6 @@ ASN,Organization,IP_Count
 "AS16591","Google Fiber Inc.",13
 "AS17621","China Unicom Shanghai network",13
 "AS19901","Brightspeed",13
-"AS200590","NLS Kazakhstan LLC",13
 "AS213194","Nechaev Dmitry Sergeevich",13
 "AS25369","Hydra Communications Ltd",13
 "AS28840","PJSC ""TATTELECOM""",13
