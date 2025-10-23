@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4433
 "AS16509","Amazon.com, Inc.",3955
-"AS45102","Alibaba (US) Technology Co., Ltd.",3795
+"AS45102","Alibaba (US) Technology Co., Ltd.",3796
 "AS63949","Akamai Technologies, Inc.",3548
 "AS15169","Google LLC",3323
 "AS398705","Censys, Inc.",3238
@@ -21,13 +21,13 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2555
 "AS6939","Hurricane Electric LLC",2425
 "AS9808","China Mobile",2074
-"AS32934","Facebook, Inc.",1744
+"AS32934","Facebook, Inc.",1883
 "AS202425","IP Volume inc",1712
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1510
 "AS0","",1478
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS398722","Censys, Inc.",1372
+"AS398722","Censys, Inc.",1373
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1308
 "AS204428","SS-Net",1182
@@ -47,7 +47,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",804
 "AS215925","VPSVAULT.HOST LTD",800
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
-"AS20052","Arbor Networks, Inc.",665
+"AS20052","Arbor Networks, Inc.",666
 "AS10439","CariNet, Inc.",605
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS51167","Contabo GmbH",591
@@ -62,8 +62,8 @@ ASN,Organization,IP_Count
 "AS50360","Tamatiya EOOD",492
 "AS13335","Cloudflare, Inc.",475
 "AS3462","Chunghwa Telecom Co., Ltd.",474
+"AS51115","HLL LLC",455
 "AS212238","Datacamp Limited",454
-"AS51115","HLL LLC",454
 "AS53667","FranTech Solutions",441
 "AS21299","Kar-Tel LLC",406
 "AS9829","Bharat Sanchar Nigam Ltd",405
@@ -74,7 +74,7 @@ ASN,Organization,IP_Count
 "AS21859","Zenlayer Inc",342
 "AS7922","Comcast Cable Communications, LLC",342
 "AS47890","UNMANAGED LTD",341
-"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",317
+"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",318
 "AS214943","Railnet LLC",314
 "AS24863","LINKdotNET AS number",307
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",304
@@ -86,8 +86,8 @@ ASN,Organization,IP_Count
 "AS8151","Uninet S.A. de C.V.",260
 "AS48090","TECHOFF SRV LIMITED",254
 "AS60223","Netiface Limited",250
+"AS213613","BOTSHIELD LTD",240
 "AS208843","Alpha Strike Labs GmbH",239
-"AS213613","BOTSHIELD LTD",239
 "AS209272","Alviva Holding Limited",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
@@ -679,6 +679,7 @@ ASN,Organization,IP_Count
 "AS29314","VECTRA S.A.",4
 "AS30722","Vodafone Italia S.p.A.",4
 "AS30753","FHU ""COMPOWER"" Dariusz Krocz",4
+"AS30860","Virtual Systems LLC",4
 "AS31042","Serbia BroadBand-Srpske Kablovske mreze d.o.o.",4
 "AS328510","Ikeja Wireless (Pty) Ltd",4
 "AS329244","Connect, Surf and Smile Limited",4
@@ -833,7 +834,6 @@ ASN,Organization,IP_Count
 "AS30404","Blue Stream",3
 "AS30619","TMCEL - Moçambique Telecom, SA",3
 "AS30689","FLOW",3
-"AS30860","Virtual Systems LLC",3
 "AS31200","Novotelecom Ltd",3
 "AS31208","PJSC MegaFon",3
 "AS31261","PJSC MegaFon",3
