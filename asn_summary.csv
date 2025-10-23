@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87682
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21888
-"AS398324","Censys, Inc.",12792
+"AS398324","Censys, Inc.",12793
 "AS396982","Google LLC",10086
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7673
@@ -16,8 +16,8 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3326
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3088
+"AS32934","Facebook, Inc.",2800
 "AS213412","ONYPHE SAS",2795
-"AS32934","Facebook, Inc.",2766
 "AS8075","Microsoft Corporation",2677
 "AS142002","Scloud Pte Ltd",2557
 "AS6939","Hurricane Electric LLC",2425
@@ -136,6 +136,7 @@ ASN,Organization,IP_Count
 "AS40021","Nubes, LLC",73
 "AS271795","SERVITELCONET CIA. LTDA.",72
 "AS31898","Oracle Corporation",72
+"AS5617","Orange Polska Spolka Akcyjna",70
 "AS3920","ESTOXY OU",69
 "AS52053","REDHEBERG Association declaree",69
 "AS11320","LightEdge Solutions",67
@@ -165,7 +166,6 @@ ASN,Organization,IP_Count
 "AS210644","AEZA INTERNATIONAL LTD",48
 "AS266181","GOLDEN LINK",48
 "AS19318","Interserver, Inc",47
-"AS5617","Orange Polska Spolka Akcyjna",47
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",46
