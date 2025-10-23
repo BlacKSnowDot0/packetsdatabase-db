@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87682
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21887
-"AS398324","Censys, Inc.",12784
-"AS396982","Google LLC",10085
+"AS398324","Censys, Inc.",12787
+"AS396982","Google LLC",10086
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7671
+"AS14061","DigitalOcean, LLC",7672
 "AS16276","OVH SAS",5756
 "AS4134","Chinanet",4902
 "AS6568","Entel S.A. - EntelNet",4537
@@ -20,14 +20,14 @@ ASN,Organization,IP_Count
 "AS8075","Microsoft Corporation",2677
 "AS142002","Scloud Pte Ltd",2557
 "AS6939","Hurricane Electric LLC",2425
-"AS32934","Facebook, Inc.",2154
+"AS32934","Facebook, Inc.",2196
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1713
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1510
-"AS0","",1478
+"AS0","",1479
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS398722","Censys, Inc.",1373
+"AS398722","Censys, Inc.",1374
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1308
 "AS204428","SS-Net",1182
@@ -219,11 +219,11 @@ ASN,Organization,IP_Count
 "AS1241","RIPE Network Coordination Centre",28
 "AS141679","China Telecom",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
+"AS146817","Hubei Feixun Network Co., Ltd",27
 "AS149705","PT Wijaya Trimitra Indonesia",27
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
 "AS4760","PCCW IMS Limited",27
-"AS146817","Hubei Feixun Network Co., Ltd",26
 "AS17557","Pakistan Telecommuication company limited",26
 "AS2200","Renater",26
 "AS3209","Vodafone GmbH",26
