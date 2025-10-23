@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87682
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21888
-"AS398324","Censys, Inc.",12800
+"AS398324","Censys, Inc.",12802
 "AS396982","Google LLC",10092
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7673
@@ -16,7 +16,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3326
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3088
-"AS32934","Facebook, Inc.",2930
+"AS32934","Facebook, Inc.",2941
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2677
 "AS142002","Scloud Pte Ltd",2557
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS32475","Internap Holding LLC",1114
+"AS32475","Internap Holding LLC",1115
 "AS174","Cogent Communications",1099
 "AS36352","HostPapa",1091
 "AS201401","NewVM B.V.",1076
@@ -54,8 +54,8 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",591
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",544
+"AS4837","CHINA UNICOM China169 Backbone",542
 "AS9009","M247 Europe SRL",542
-"AS4837","CHINA UNICOM China169 Backbone",541
 "AS13335","Cloudflare, Inc.",534
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
@@ -153,8 +153,8 @@ ASN,Organization,IP_Count
 "AS150263","PT Alnet Telekomunikasi Indonesia",57
 "AS20278","Nexeon Technologies, Inc.",57
 "AS22773","Cox Communications Inc.",57
+"AS44477","STARK INDUSTRIES SOLUTIONS LTD",57
 "AS55720","Gigabit Hosting Sdn Bhd",57
-"AS44477","STARK INDUSTRIES SOLUTIONS LTD",56
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
@@ -162,8 +162,8 @@ ASN,Organization,IP_Count
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS8402","PJSC ""Vimpelcom""",54
 "AS20115","Charter Communications",49
+"AS210644","AEZA INTERNATIONAL LTD",49
 "AS23724","IDC, China Telecommunications Corporation",49
-"AS210644","AEZA INTERNATIONAL LTD",48
 "AS266181","GOLDEN LINK",48
 "AS19318","Interserver, Inc",47
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",47
