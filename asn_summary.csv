@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87682
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
-"AS211298","Driftnet Ltd",21886
-"AS398324","Censys, Inc.",12776
+"AS211298","Driftnet Ltd",21887
+"AS398324","Censys, Inc.",12778
 "AS396982","Google LLC",10082
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7668
@@ -10,7 +10,7 @@ ASN,Organization,IP_Count
 "AS4134","Chinanet",4901
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4433
-"AS16509","Amazon.com, Inc.",3951
+"AS16509","Amazon.com, Inc.",3955
 "AS45102","Alibaba (US) Technology Co., Ltd.",3795
 "AS63949","Akamai Technologies, Inc.",3548
 "AS15169","Google LLC",3323
@@ -21,8 +21,8 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2555
 "AS6939","Hurricane Electric LLC",2425
 "AS9808","China Mobile",2074
+"AS32934","Facebook, Inc.",1744
 "AS202425","IP Volume inc",1712
-"AS32934","Facebook, Inc.",1700
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1510
 "AS0","",1478
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS32475","Internap Holding LLC",1109
 "AS174","Cogent Communications",1095
-"AS36352","HostPapa",1084
+"AS36352","HostPapa",1085
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",979
 "AS23470","ReliableSite.Net LLC",934
@@ -162,9 +162,9 @@ ASN,Organization,IP_Count
 "AS8402","PJSC ""Vimpelcom""",53
 "AS20115","Charter Communications",49
 "AS23724","IDC, China Telecommunications Corporation",49
+"AS210644","AEZA INTERNATIONAL LTD",48
 "AS266181","GOLDEN LINK",48
 "AS19318","Interserver, Inc",47
-"AS210644","AEZA INTERNATIONAL LTD",47
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",46
