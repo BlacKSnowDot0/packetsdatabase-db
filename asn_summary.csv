@@ -2,16 +2,16 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87682
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21887
-"AS398324","Censys, Inc.",12780
+"AS398324","Censys, Inc.",12782
 "AS396982","Google LLC",10083
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7668
+"AS14061","DigitalOcean, LLC",7669
 "AS16276","OVH SAS",5756
 "AS4134","Chinanet",4901
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4433
 "AS16509","Amazon.com, Inc.",3959
-"AS45102","Alibaba (US) Technology Co., Ltd.",3796
+"AS45102","Alibaba (US) Technology Co., Ltd.",3799
 "AS63949","Akamai Technologies, Inc.",3548
 "AS15169","Google LLC",3323
 "AS398705","Censys, Inc.",3238
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2555
 "AS6939","Hurricane Electric LLC",2425
 "AS9808","China Mobile",2074
-"AS32934","Facebook, Inc.",1905
+"AS32934","Facebook, Inc.",1981
 "AS202425","IP Volume inc",1713
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1510
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS32475","Internap Holding LLC",1110
+"AS32475","Internap Holding LLC",1111
 "AS174","Cogent Communications",1095
 "AS36352","HostPapa",1087
 "AS201401","NewVM B.V.",1076
@@ -50,7 +50,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",667
 "AS10439","CariNet, Inc.",605
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS51167","Contabo GmbH",591
+"AS51167","Contabo GmbH",592
 "AS14618","Amazon.com, Inc.",590
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",542
@@ -136,8 +136,8 @@ ASN,Organization,IP_Count
 "AS8560","IONOS SE",73
 "AS271795","SERVITELCONET CIA. LTDA.",72
 "AS31898","Oracle Corporation",72
+"AS3920","ESTOXY OU",69
 "AS52053","REDHEBERG Association declaree",69
-"AS3920","ESTOXY OU",68
 "AS11320","LightEdge Solutions",67
 "AS199785","Cloud Hosting Solutions, Limited.",67
 "AS328867","Corebach Backbone SARL",67
@@ -157,8 +157,8 @@ ASN,Organization,IP_Count
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
+"AS213877","u1host ltd",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
-"AS213877","u1host ltd",53
 "AS8402","PJSC ""Vimpelcom""",53
 "AS20115","Charter Communications",49
 "AS23724","IDC, China Telecommunications Corporation",49
@@ -397,6 +397,7 @@ ASN,Organization,IP_Count
 "AS48925","VibeGAMES B.V.",11
 "AS58563","CHINANET Hubei province network",11
 "AS6849","JSC ""Ukrtelecom""",11
+"AS8796","FD-298-8796",11
 "AS12912","T-Mobile Polska S.A.",10
 "AS142032","High Family Technology Co., Limited",10
 "AS149359","PT Persada Data Multimedia",10
@@ -420,7 +421,6 @@ ASN,Organization,IP_Count
 "AS60781","LeaseWeb Netherlands B.V.",10
 "AS6327","Shaw Communications Inc.",10
 "AS8400","TELEKOM SRBIJA a.d.",10
-"AS8796","FD-298-8796",10
 "AS9930","TT DOTCOM SDN BHD",10
 "AS11351","Charter Communications Inc",9
 "AS135059","Lao Asia Pacific Satellite Co., Ltd.",9
@@ -2407,6 +2407,7 @@ ASN,Organization,IP_Count
 "AS44882","Vsevnet Ltd.",1
 "AS4515","PCCW IMS Ltd (PCCW Business Internet Access)",1
 "AS45177","Devoli LTD",1
+"AS45179","SiteTech Solutions Limited",1
 "AS45184","DEN Networks Limited",1
 "AS45287","Varnion Technology Semesta, PT",1
 "AS45302","PT DES Teknologi Informasi",1
