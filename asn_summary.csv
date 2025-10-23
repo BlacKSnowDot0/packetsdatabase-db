@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87682
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21886
-"AS398324","Censys, Inc.",12772
+"AS398324","Censys, Inc.",12775
 "AS396982","Google LLC",10077
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7667
@@ -24,8 +24,8 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1712
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1510
+"AS32934","Facebook, Inc.",1483
 "AS0","",1478
-"AS32934","Facebook, Inc.",1462
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1372
 "AS215269","LAZYCLOUD LTD",1312
@@ -47,7 +47,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",804
 "AS215925","VPSVAULT.HOST LTD",800
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
-"AS20052","Arbor Networks, Inc.",663
+"AS20052","Arbor Networks, Inc.",664
 "AS10439","CariNet, Inc.",605
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS51167","Contabo GmbH",591
@@ -177,8 +177,8 @@ ASN,Organization,IP_Count
 "AS20001","Charter Communications Inc",42
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",42
+"AS12816","Leibniz-Rechenzentrum",40
 "AS262378","Compuservice Empreendimentos Ltda",40
-"AS12816","Leibniz-Rechenzentrum",39
 "AS21928","T-Mobile USA, Inc.",39
 "AS23969","TOT Public Company Limited",39
 "AS27699","TELEFÔNICA BRASIL S.A",39
