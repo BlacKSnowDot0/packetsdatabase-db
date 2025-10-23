@@ -5,13 +5,13 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",12782
 "AS396982","Google LLC",10083
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7669
+"AS14061","DigitalOcean, LLC",7670
 "AS16276","OVH SAS",5756
 "AS4134","Chinanet",4901
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4433
 "AS16509","Amazon.com, Inc.",3959
-"AS45102","Alibaba (US) Technology Co., Ltd.",3799
+"AS45102","Alibaba (US) Technology Co., Ltd.",3800
 "AS63949","Akamai Technologies, Inc.",3548
 "AS15169","Google LLC",3323
 "AS398705","Censys, Inc.",3238
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2555
 "AS6939","Hurricane Electric LLC",2425
 "AS9808","China Mobile",2074
-"AS32934","Facebook, Inc.",1981
+"AS32934","Facebook, Inc.",2069
 "AS202425","IP Volume inc",1713
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1510
@@ -34,8 +34,8 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS32475","Internap Holding LLC",1111
-"AS174","Cogent Communications",1095
+"AS32475","Internap Holding LLC",1112
+"AS174","Cogent Communications",1097
 "AS36352","HostPapa",1087
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",979
@@ -47,10 +47,10 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",804
 "AS215925","VPSVAULT.HOST LTD",800
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
-"AS20052","Arbor Networks, Inc.",667
+"AS20052","Arbor Networks, Inc.",670
 "AS10439","CariNet, Inc.",605
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS51167","Contabo GmbH",592
+"AS51167","Contabo GmbH",593
 "AS14618","Amazon.com, Inc.",590
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",542
@@ -60,7 +60,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",495
 "AS50360","Tamatiya EOOD",492
-"AS13335","Cloudflare, Inc.",475
+"AS13335","Cloudflare, Inc.",488
 "AS3462","Chunghwa Telecom Co., Ltd.",474
 "AS51115","HLL LLC",455
 "AS212238","Datacamp Limited",454
@@ -597,6 +597,7 @@ ASN,Organization,IP_Count
 "AS28580","CILNET Comunicacao e Informatica LTDA.",5
 "AS2860","NOS COMUNICACOES, S.A.",5
 "AS29049","Delta Telecom Ltd",5
+"AS30860","Virtual Systems LLC",5
 "AS31133","PJSC MegaFon",5
 "AS33915","Vodafone Libertel B.V.",5
 "AS34343","Eweka Internet Services B.V.",5
@@ -679,7 +680,6 @@ ASN,Organization,IP_Count
 "AS29314","VECTRA S.A.",4
 "AS30722","Vodafone Italia S.p.A.",4
 "AS30753","FHU ""COMPOWER"" Dariusz Krocz",4
-"AS30860","Virtual Systems LLC",4
 "AS31042","Serbia BroadBand-Srpske Kablovske mreze d.o.o.",4
 "AS328510","Ikeja Wireless (Pty) Ltd",4
 "AS329244","Connect, Surf and Smile Limited",4
