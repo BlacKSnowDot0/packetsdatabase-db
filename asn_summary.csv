@@ -5,12 +5,12 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",12776
 "AS396982","Google LLC",10082
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7667
+"AS14061","DigitalOcean, LLC",7668
 "AS16276","OVH SAS",5756
 "AS4134","Chinanet",4901
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4433
-"AS16509","Amazon.com, Inc.",3943
+"AS16509","Amazon.com, Inc.",3951
 "AS45102","Alibaba (US) Technology Co., Ltd.",3795
 "AS63949","Akamai Technologies, Inc.",3548
 "AS15169","Google LLC",3323
@@ -19,10 +19,10 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2676
 "AS142002","Scloud Pte Ltd",2555
-"AS6939","Hurricane Electric LLC",2423
+"AS6939","Hurricane Electric LLC",2425
 "AS9808","China Mobile",2074
 "AS202425","IP Volume inc",1712
-"AS32934","Facebook, Inc.",1635
+"AS32934","Facebook, Inc.",1700
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1510
 "AS0","",1478
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS32475","Internap Holding LLC",1109
-"AS174","Cogent Communications",1094
+"AS174","Cogent Communications",1095
 "AS36352","HostPapa",1084
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",979
@@ -47,7 +47,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",804
 "AS215925","VPSVAULT.HOST LTD",800
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
-"AS20052","Arbor Networks, Inc.",664
+"AS20052","Arbor Networks, Inc.",665
 "AS10439","CariNet, Inc.",605
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS51167","Contabo GmbH",591
@@ -60,7 +60,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",495
 "AS50360","Tamatiya EOOD",492
-"AS13335","Cloudflare, Inc.",474
+"AS13335","Cloudflare, Inc.",475
 "AS3462","Chunghwa Telecom Co., Ltd.",474
 "AS212238","Datacamp Limited",454
 "AS51115","HLL LLC",454
@@ -231,6 +231,7 @@ ASN,Organization,IP_Count
 "AS1103","SURF B.V.",25
 "AS53118","NETLINE TELECOM",25
 "AS58224","Iran Telecommunication Company PJS",25
+"AS6134","XNNET LLC",25
 "AS12322","Free SAS",24
 "AS18881","TELEFÔNICA BRASIL S.A",24
 "AS197540","netcup GmbH",24
@@ -238,7 +239,6 @@ ASN,Organization,IP_Count
 "AS3269","Telecom Italia S.p.A.",24
 "AS55933","Cloudie Limited",24
 "AS60068","Datacamp Limited",24
-"AS6134","XNNET LLC",24
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",24
 "AS17995","PT iForte Global Internet",23
 "AS198037","SPACECORE SOLUTION LTD",23
@@ -651,6 +651,7 @@ ASN,Organization,IP_Count
 "AS201838","Community Fibre Limited",4
 "AS203380","DA International Group Ltd.",4
 "AS206216","Advin Services LLC",4
+"AS207083","HostSlim B.V.",4
 "AS207506","""NEWNET"" LLC",4
 "AS207957","SERV.HOST GROUP LTD",4
 "AS208040","RSS (RAPID SOFTWARE SYSTEMS) CYPRUS LTD",4
@@ -780,7 +781,6 @@ ASN,Organization,IP_Count
 "AS203459","AL-MARAJ AL-ALAMIYA Co",3
 "AS203542","IT-PROF LLC",3
 "AS206262","TelKos L.L.C",3
-"AS207083","HostSlim B.V.",3
 "AS211301","Collin Schneeweiss trading as Unesty Company",3
 "AS211826","Istqrar for Servers Services Ltd",3
 "AS212695","Link Telecom Service Ltd",3
