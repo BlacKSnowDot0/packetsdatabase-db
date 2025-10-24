@@ -3,7 +3,7 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21893
 "AS398324","Censys, Inc.",12823
-"AS396982","Google LLC",10106
+"AS396982","Google LLC",10109
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7683
 "AS16276","OVH SAS",5759
@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3550
 "AS15169","Google LLC",3326
 "AS398705","Censys, Inc.",3238
-"AS32934","Facebook, Inc.",3158
+"AS32934","Facebook, Inc.",3222
 "AS51396","Pfcloud UG",3088
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2679
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1713
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1512
-"AS0","",1495
+"AS0","",1497
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1376
 "AS215269","LAZYCLOUD LTD",1312
@@ -50,10 +50,10 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",672
 "AS10439","CariNet, Inc.",605
 "AS211849","Kakharov Orinbassar Maratuly",596
+"AS14618","Amazon.com, Inc.",595
 "AS51167","Contabo GmbH",595
-"AS14618","Amazon.com, Inc.",593
 "AS31148","Freenet LTD",558
-"AS13335","Cloudflare, Inc.",545
+"AS13335","Cloudflare, Inc.",546
 "AS401120","cheapy.host LLC",544
 "AS4837","CHINA UNICOM China169 Backbone",543
 "AS9009","M247 Europe SRL",542
