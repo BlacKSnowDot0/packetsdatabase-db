@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87683
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21892
-"AS398324","Censys, Inc.",12818
+"AS398324","Censys, Inc.",12819
 "AS396982","Google LLC",10105
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7680
+"AS14061","DigitalOcean, LLC",7681
 "AS16276","OVH SAS",5759
 "AS4134","Chinanet",4904
 "AS6568","Entel S.A. - EntelNet",4537
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1713
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1512
-"AS0","",1488
+"AS0","",1489
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1375
 "AS215269","LAZYCLOUD LTD",1312
@@ -56,14 +56,14 @@ ASN,Organization,IP_Count
 "AS401120","cheapy.host LLC",544
 "AS4837","CHINA UNICOM China169 Backbone",543
 "AS9009","M247 Europe SRL",542
-"AS13335","Cloudflare, Inc.",539
+"AS13335","Cloudflare, Inc.",540
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS3462","Chunghwa Telecom Co., Ltd.",497
 "AS201814","MEVSPACE sp. z o.o.",495
 "AS50360","Tamatiya EOOD",492
 "AS51115","HLL LLC",457
-"AS212238","Datacamp Limited",454
+"AS212238","Datacamp Limited",455
 "AS53667","FranTech Solutions",441
 "AS9829","Bharat Sanchar Nigam Ltd",409
 "AS21299","Kar-Tel LLC",406
@@ -127,8 +127,8 @@ ASN,Organization,IP_Count
 "AS4766","Korea Telecom",80
 "AS28209","Under Servicos de Internet Ltda",79
 "AS200019","ALEXHOST SRL",78
+"AS136435","ELITE COMMUNICATION",76
 "AS211736","FOP Dmytro Nedilskyi",76
-"AS136435","ELITE COMMUNICATION",75
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
 "AS8560","IONOS SE",75
