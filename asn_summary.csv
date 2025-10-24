@@ -2,23 +2,23 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87683
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21895
-"AS398324","Censys, Inc.",12842
+"AS398324","Censys, Inc.",12843
 "AS396982","Google LLC",10118
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7695
+"AS14061","DigitalOcean, LLC",7696
 "AS16276","OVH SAS",5762
 "AS4134","Chinanet",4907
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4433
-"AS32934","Facebook, Inc.",4195
-"AS16509","Amazon.com, Inc.",4062
+"AS32934","Facebook, Inc.",4377
+"AS16509","Amazon.com, Inc.",4070
 "AS45102","Alibaba (US) Technology Co., Ltd.",3805
 "AS63949","Akamai Technologies, Inc.",3554
 "AS15169","Google LLC",3331
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3088
+"AS51396","Pfcloud UG",3089
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2679
+"AS8075","Microsoft Corporation",2680
 "AS142002","Scloud Pte Ltd",2557
 "AS6939","Hurricane Electric LLC",2431
 "AS9808","China Mobile",2076
@@ -34,8 +34,8 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS32475","Internap Holding LLC",1124
-"AS36352","HostPapa",1106
+"AS32475","Internap Holding LLC",1125
+"AS36352","HostPapa",1107
 "AS174","Cogent Communications",1105
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",981
@@ -64,7 +64,7 @@ ASN,Organization,IP_Count
 "AS50360","Tamatiya EOOD",492
 "AS51115","HLL LLC",457
 "AS212238","Datacamp Limited",455
-"AS53667","FranTech Solutions",442
+"AS53667","FranTech Solutions",443
 "AS9829","Bharat Sanchar Nigam Ltd",412
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
@@ -190,11 +190,11 @@ ASN,Organization,IP_Count
 "AS42624","Global-Data System IT Corporation",36
 "AS4538","China Education and Research Network Center",36
 "AS6128","Cablevision Systems Corp.",36
+"AS200514","KnownSRV Ltd.",35
 "AS20473","The Constant Company, LLC",35
 "AS213790","Limited Network LTD",35
 "AS30083","velia.net",35
 "AS8167","V tal",35
-"AS200514","KnownSRV Ltd.",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",34
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",34
@@ -570,6 +570,7 @@ ASN,Organization,IP_Count
 "AS58495","PT Parsaoran Global Datatrans",6
 "AS58519","Cloud Computing Corporation",6
 "AS58821","PT Lintas Jaringan Nusantara",6
+"AS6739","VODAFONE ONO, S.A.",6
 "AS9541","Cyber Internet Services (Private) Limited",6
 "AS9873","Lao Telecommunication Public Company",6
 "AS10429","TELEFÔNICA BRASIL S.A",5
@@ -637,7 +638,6 @@ ASN,Organization,IP_Count
 "AS59441","NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)",5
 "AS61135","COMNET BILGI ILETISIM TEKNOLOJILERI TICARET A.S.",5
 "AS63526","Systems Solutions & development Technologies Limited",5
-"AS6739","VODAFONE ONO, S.A.",5
 "AS6830","Liberty Global B.V.",5
 "AS8345","JSC ""ER-Telecom Holding""",5
 "AS8359","MTS PJSC",5
