@@ -3,16 +3,16 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21892
 "AS398324","Censys, Inc.",12810
-"AS396982","Google LLC",10101
+"AS396982","Google LLC",10102
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7676
+"AS14061","DigitalOcean, LLC",7678
 "AS16276","OVH SAS",5758
 "AS4134","Chinanet",4904
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4433
 "AS16509","Amazon.com, Inc.",3968
 "AS45102","Alibaba (US) Technology Co., Ltd.",3805
-"AS63949","Akamai Technologies, Inc.",3548
+"AS63949","Akamai Technologies, Inc.",3549
 "AS15169","Google LLC",3326
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3088
@@ -39,7 +39,7 @@ ASN,Organization,IP_Count
 "AS36352","HostPapa",1096
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",980
-"AS23470","ReliableSite.Net LLC",957
+"AS23470","ReliableSite.Net LLC",958
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -460,6 +460,7 @@ ASN,Organization,IP_Count
 "AS197309","RS-Media LLC",8
 "AS198361","Yaglom Labs Ltd",8
 "AS209956","Telkoturk Iletisim Hizmetleri A.S.",8
+"AS215762","Bullet Group LTD",8
 "AS24955","JSC ""Ufanet""",8
 "AS262459","Osirnet Info Telecom Ltda.",8
 "AS266702","MEGALINK S.R.L.",8
@@ -487,7 +488,6 @@ ASN,Organization,IP_Count
 "AS2119","Telenor Norge AS",7
 "AS215599","Zkillu SAS",7
 "AS215672","MoeChuang Network Limited",7
-"AS215762","Bullet Group LTD",7
 "AS24086","Viettel Corporation",7
 "AS24961","WIIT AG",7
 "AS25490","PJSC Rostelecom",7
