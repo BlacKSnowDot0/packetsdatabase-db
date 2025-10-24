@@ -7,12 +7,12 @@ ASN,Organization,IP_Count
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7683
 "AS16276","OVH SAS",5759
-"AS4134","Chinanet",4905
+"AS4134","Chinanet",4906
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4433
-"AS16509","Amazon.com, Inc.",3982
+"AS16509","Amazon.com, Inc.",3991
 "AS45102","Alibaba (US) Technology Co., Ltd.",3805
-"AS32934","Facebook, Inc.",3735
+"AS32934","Facebook, Inc.",3754
 "AS63949","Akamai Technologies, Inc.",3551
 "AS15169","Google LLC",3326
 "AS398705","Censys, Inc.",3238
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1713
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1512
-"AS0","",1504
+"AS0","",1505
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1376
 "AS215269","LAZYCLOUD LTD",1312
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS32475","Internap Holding LLC",1118
+"AS32475","Internap Holding LLC",1119
 "AS174","Cogent Communications",1101
 "AS36352","HostPapa",1100
 "AS201401","NewVM B.V.",1076
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",606
 "AS14618","Amazon.com, Inc.",596
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS51167","Contabo GmbH",595
+"AS51167","Contabo GmbH",596
 "AS31148","Freenet LTD",558
 "AS13335","Cloudflare, Inc.",549
 "AS401120","cheapy.host LLC",544
@@ -106,7 +106,7 @@ ASN,Organization,IP_Count
 "AS19905","Neustar Security Services",127
 "AS262551","Farol Telecom",127
 "AS42237","w1n ltd",127
-"AS50219","LNK SYSTEMS MUNTENIA SRL",124
+"AS50219","LNK SYSTEMS MUNTENIA SRL",125
 "AS13238","YANDEX LLC",123
 "AS36007","Kamatera, Inc.",122
 "AS14956","RouterHosting LLC",116
@@ -194,12 +194,12 @@ ASN,Organization,IP_Count
 "AS213790","Limited Network LTD",35
 "AS30083","velia.net",35
 "AS8167","V tal",35
+"AS200514","KnownSRV Ltd.",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",34
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",34
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",34
 "AS8048","CANTV Servicios, Venezuela",34
-"AS200514","KnownSRV Ltd.",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",33
 "AS9198","JSC Kazakhtelecom",33
