@@ -10,10 +10,10 @@ ASN,Organization,IP_Count
 "AS4134","Chinanet",4905
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4433
-"AS16509","Amazon.com, Inc.",3978
+"AS16509","Amazon.com, Inc.",3982
 "AS45102","Alibaba (US) Technology Co., Ltd.",3805
-"AS32934","Facebook, Inc.",3669
-"AS63949","Akamai Technologies, Inc.",3550
+"AS32934","Facebook, Inc.",3735
+"AS63949","Akamai Technologies, Inc.",3551
 "AS15169","Google LLC",3326
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3088
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1713
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1512
-"AS0","",1501
+"AS0","",1504
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1376
 "AS215269","LAZYCLOUD LTD",1312
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS32475","Internap Holding LLC",1117
+"AS32475","Internap Holding LLC",1118
 "AS174","Cogent Communications",1101
 "AS36352","HostPapa",1100
 "AS201401","NewVM B.V.",1076
@@ -49,11 +49,11 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS20052","Arbor Networks, Inc.",672
 "AS10439","CariNet, Inc.",606
+"AS14618","Amazon.com, Inc.",596
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS14618","Amazon.com, Inc.",595
 "AS51167","Contabo GmbH",595
 "AS31148","Freenet LTD",558
-"AS13335","Cloudflare, Inc.",547
+"AS13335","Cloudflare, Inc.",549
 "AS401120","cheapy.host LLC",544
 "AS4837","CHINA UNICOM China169 Backbone",543
 "AS9009","M247 Europe SRL",542
