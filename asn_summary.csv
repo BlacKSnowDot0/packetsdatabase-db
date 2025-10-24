@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87683
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21893
-"AS398324","Censys, Inc.",12832
-"AS396982","Google LLC",10114
+"AS398324","Censys, Inc.",12835
+"AS396982","Google LLC",10115
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7683
+"AS14061","DigitalOcean, LLC",7690
 "AS16276","OVH SAS",5759
 "AS4134","Chinanet",4907
 "AS6568","Entel S.A. - EntelNet",4537
@@ -35,8 +35,8 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS32475","Internap Holding LLC",1120
+"AS36352","HostPapa",1103
 "AS174","Cogent Communications",1102
-"AS36352","HostPapa",1102
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",981
 "AS23470","ReliableSite.Net LLC",959
@@ -367,6 +367,7 @@ ASN,Organization,IP_Count
 "AS4808","China Unicom Beijing Province Network",13
 "AS53006","ALGAR TELECOM S/A",13
 "AS12400","Partner Communications Ltd.",12
+"AS134420","Chongqing Telecom",12
 "AS213438","ColocaTel Inc.",12
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",12
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",12
@@ -382,7 +383,6 @@ ASN,Organization,IP_Count
 "AS9318","SK Broadband Co Ltd",12
 "AS984","OCTOPUS WEB SOLUTION INC",12
 "AS12849","Hot-Net internet services Ltd.",11
-"AS134420","Chongqing Telecom",11
 "AS17552","TRUE INTERNET CORPORATION CO. LTD.",11
 "AS17639","ComClark Network & Technology Corp",11
 "AS200651","FlokiNET ehf",11
