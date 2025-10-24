@@ -1,20 +1,20 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87683
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
-"AS211298","Driftnet Ltd",21893
-"AS398324","Censys, Inc.",12836
-"AS396982","Google LLC",10115
+"AS211298","Driftnet Ltd",21895
+"AS398324","Censys, Inc.",12839
+"AS396982","Google LLC",10117
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7691
-"AS16276","OVH SAS",5759
+"AS16276","OVH SAS",5760
 "AS4134","Chinanet",4907
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4433
 "AS16509","Amazon.com, Inc.",4042
-"AS32934","Facebook, Inc.",3907
+"AS32934","Facebook, Inc.",3995
 "AS45102","Alibaba (US) Technology Co., Ltd.",3805
 "AS63949","Akamai Technologies, Inc.",3553
-"AS15169","Google LLC",3329
+"AS15169","Google LLC",3331
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3088
 "AS213412","ONYPHE SAS",2795
@@ -34,8 +34,8 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS32475","Internap Holding LLC",1120
-"AS36352","HostPapa",1104
+"AS32475","Internap Holding LLC",1121
+"AS36352","HostPapa",1105
 "AS174","Cogent Communications",1102
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",981
@@ -50,8 +50,8 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",673
 "AS10439","CariNet, Inc.",606
 "AS14618","Amazon.com, Inc.",603
+"AS51167","Contabo GmbH",597
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS51167","Contabo GmbH",596
 "AS13335","Cloudflare, Inc.",564
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",545
@@ -87,7 +87,7 @@ ASN,Organization,IP_Count
 "AS48090","TECHOFF SRV LIMITED",254
 "AS60223","Netiface Limited",250
 "AS213613","BOTSHIELD LTD",241
-"AS208843","Alpha Strike Labs GmbH",239
+"AS208843","Alpha Strike Labs GmbH",240
 "AS18403","FPT Telecom Company",233
 "AS209272","Alviva Holding Limited",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
@@ -120,7 +120,7 @@ ASN,Organization,IP_Count
 "AS34984","Superonline Iletisim Hizmetleri A.S.",92
 "AS63018","Dedicated.com",92
 "AS210125","PRIAM NET Sh.p.k.",89
-"AS205352","KABELNET LTD",87
+"AS205352","KABELNET LTD",88
 "AS58461","Chinanet",85
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",81
 "AS16735","ALGAR TELECOM S/A",81
@@ -1035,6 +1035,7 @@ ASN,Organization,IP_Count
 "AS198227","New Telecom Ltd",2
 "AS198381","Star Satellite Communications Company - PJSC",2
 "AS198551","REZOCEAN SAS",2
+"AS19871","Network Solutions, LLC",2
 "AS198820","Limited Liability Company Radio Network",2
 "AS199739","Earthlink Telecommunications Equipment Trading & Services DMCC",2
 "AS201409","HOSTSHIELD LTD",2
@@ -1685,7 +1686,6 @@ ASN,Organization,IP_Count
 "AS198371","NINET Company Nis d.o.o.",1
 "AS198539","Objedinennye Seti Ltd.",1
 "AS198584","PIO-Hosting GmbH",1
-"AS19871","Network Solutions, LLC",1
 "AS198760","Quattre Internet SL",1
 "AS199173","TechnoLux Ltd.",1
 "AS199415","Association YORKHOST",1
