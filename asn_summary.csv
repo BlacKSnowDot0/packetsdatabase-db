@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87683
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21892
-"AS398324","Censys, Inc.",12810
+"AS398324","Censys, Inc.",12811
 "AS396982","Google LLC",10102
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7678
@@ -27,7 +27,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1512
 "AS0","",1483
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS398722","Censys, Inc.",1374
+"AS398722","Censys, Inc.",1375
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1308
 "AS204428","SS-Net",1182
@@ -39,7 +39,7 @@ ASN,Organization,IP_Count
 "AS36352","HostPapa",1096
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",980
-"AS23470","ReliableSite.Net LLC",958
+"AS23470","ReliableSite.Net LLC",959
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -150,11 +150,11 @@ ASN,Organization,IP_Count
 "AS215590","DpkgSoft International Limited",58
 "AS4812","China Telecom (Group)",58
 "AS49544","i3D.net B.V",58
+"AS55720","Gigabit Hosting Sdn Bhd",58
 "AS150263","PT Alnet Telekomunikasi Indonesia",57
 "AS20278","Nexeon Technologies, Inc.",57
 "AS22773","Cox Communications Inc.",57
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",57
-"AS55720","Gigabit Hosting Sdn Bhd",57
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
@@ -237,6 +237,7 @@ ASN,Organization,IP_Count
 "AS17995","PT iForte Global Internet",24
 "AS18881","TELEFÔNICA BRASIL S.A",24
 "AS197540","netcup GmbH",24
+"AS204834","Shabakieh Isfahan Co PJSC",24
 "AS209","CenturyLink Communications, LLC",24
 "AS3269","Telecom Italia S.p.A.",24
 "AS5089","Virgin Media Limited",24
@@ -244,7 +245,6 @@ ASN,Organization,IP_Count
 "AS60068","Datacamp Limited",24
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",24
 "AS198037","SPACECORE SOLUTION LTD",23
-"AS204834","Shabakieh Isfahan Co PJSC",23
 "AS46475","Limestone Networks, Inc.",23
 "AS55836","Reliance Jio Infocomm Limited",23
 "AS62240","Clouvider Limited",23
@@ -1940,6 +1940,7 @@ ASN,Organization,IP_Count
 "AS263620","Sertaonet Internet Provider LTDA-ME",1
 "AS263635","REDE G2 LTDA - ME",1
 "AS263656","BRSULNET TELECOM LTDA",1
+"AS263661","BRASIL DIGITAL SERVIÇOS DE INFORMATICA E COMERCIO",1
 "AS263689","Telecable Central, S.A.",1
 "AS263877","rede banda larga",1
 "AS263888","FIUZA INFORMÁTICA & TELECOMUNICAÇÃO LTDA ME",1
