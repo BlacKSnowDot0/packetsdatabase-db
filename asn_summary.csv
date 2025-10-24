@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87683
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21895
-"AS398324","Censys, Inc.",12839
+"AS398324","Censys, Inc.",12840
 "AS396982","Google LLC",10117
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7691
@@ -10,7 +10,7 @@ ASN,Organization,IP_Count
 "AS4134","Chinanet",4907
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4433
-"AS16509","Amazon.com, Inc.",4042
+"AS16509","Amazon.com, Inc.",4046
 "AS32934","Facebook, Inc.",3995
 "AS45102","Alibaba (US) Technology Co., Ltd.",3805
 "AS63949","Akamai Technologies, Inc.",3553
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS32475","Internap Holding LLC",1121
+"AS32475","Internap Holding LLC",1122
 "AS36352","HostPapa",1105
 "AS174","Cogent Communications",1102
 "AS201401","NewVM B.V.",1076
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",603
 "AS51167","Contabo GmbH",597
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS13335","Cloudflare, Inc.",564
+"AS13335","Cloudflare, Inc.",573
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",545
 "AS4837","CHINA UNICOM China169 Backbone",543
@@ -210,9 +210,9 @@ ASN,Organization,IP_Count
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",31
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",31
 "AS44592","SkyLink Data Center BV",31
+"AS5650","Frontier Communications of America, Inc.",31
 "AS200593","PROSPERO OOO",30
 "AS269193","Iktelecom Ltda",30
-"AS5650","Frontier Communications of America, Inc.",30
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
@@ -366,6 +366,7 @@ ASN,Organization,IP_Count
 "AS29465","MTN NIGERIA Communication limited",13
 "AS4808","China Unicom Beijing Province Network",13
 "AS53006","ALGAR TELECOM S/A",13
+"AS5607","Sky UK Limited",13
 "AS12400","Partner Communications Ltd.",12
 "AS134420","Chongqing Telecom",12
 "AS213438","ColocaTel Inc.",12
@@ -377,7 +378,6 @@ ASN,Organization,IP_Count
 "AS36992","ETISALAT MISR",12
 "AS38264","Wateen Telecom Limited",12
 "AS41075","ATW Internet Kft.",12
-"AS5607","Sky UK Limited",12
 "AS62442","Dade Samane Fanava Company (PJS)",12
 "AS6849","JSC ""Ukrtelecom""",12
 "AS9318","SK Broadband Co Ltd",12
@@ -1843,6 +1843,7 @@ ASN,Organization,IP_Count
 "AS24872","MAGNUS NG LLC",1
 "AS25106","Mobile TeleSystems JLLC",1
 "AS25403","Firm Delta PE",1
+"AS2549","Universidad de Guadalajara",1
 "AS25515","PJSC Rostelecom",1
 "AS25520","JSC ""Futures Telecom""",1
 "AS25521","Industrial Media Network LLC",1
