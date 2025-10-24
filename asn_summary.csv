@@ -2,18 +2,18 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87683
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21893
-"AS398324","Censys, Inc.",12831
-"AS396982","Google LLC",10113
+"AS398324","Censys, Inc.",12832
+"AS396982","Google LLC",10114
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7683
 "AS16276","OVH SAS",5759
 "AS4134","Chinanet",4907
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4433
-"AS16509","Amazon.com, Inc.",4019
-"AS32934","Facebook, Inc.",3884
+"AS16509","Amazon.com, Inc.",4042
+"AS32934","Facebook, Inc.",3896
 "AS45102","Alibaba (US) Technology Co., Ltd.",3805
-"AS63949","Akamai Technologies, Inc.",3552
+"AS63949","Akamai Technologies, Inc.",3553
 "AS15169","Google LLC",3329
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3088
@@ -49,11 +49,11 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS20052","Arbor Networks, Inc.",673
 "AS10439","CariNet, Inc.",606
-"AS14618","Amazon.com, Inc.",600
+"AS14618","Amazon.com, Inc.",603
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS51167","Contabo GmbH",596
+"AS13335","Cloudflare, Inc.",564
 "AS31148","Freenet LTD",558
-"AS13335","Cloudflare, Inc.",549
 "AS401120","cheapy.host LLC",545
 "AS4837","CHINA UNICOM China169 Backbone",543
 "AS9009","M247 Europe SRL",542
