@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87683
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21892
-"AS398324","Censys, Inc.",12811
+"AS398324","Censys, Inc.",12814
 "AS396982","Google LLC",10102
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7678
+"AS14061","DigitalOcean, LLC",7679
 "AS16276","OVH SAS",5758
 "AS4134","Chinanet",4904
 "AS6568","Entel S.A. - EntelNet",4537
@@ -16,7 +16,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3326
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3088
-"AS32934","Facebook, Inc.",2952
+"AS32934","Facebook, Inc.",2963
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2679
 "AS142002","Scloud Pte Ltd",2557
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1713
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1512
-"AS0","",1483
+"AS0","",1484
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1375
 "AS215269","LAZYCLOUD LTD",1312
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS32475","Internap Holding LLC",1116
 "AS174","Cogent Communications",1099
-"AS36352","HostPapa",1096
+"AS36352","HostPapa",1097
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",980
 "AS23470","ReliableSite.Net LLC",959
@@ -128,10 +128,10 @@ ASN,Organization,IP_Count
 "AS28209","Under Servicos de Internet Ltda",79
 "AS200019","ALEXHOST SRL",78
 "AS211736","FOP Dmytro Nedilskyi",76
+"AS136435","ELITE COMMUNICATION",75
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
 "AS8560","IONOS SE",75
-"AS136435","ELITE COMMUNICATION",74
 "AS56046","China Mobile Communications Corporation",74
 "AS40021","Nubes, LLC",73
 "AS271795","SERVITELCONET CIA. LTDA.",72
@@ -1177,6 +1177,7 @@ ASN,Organization,IP_Count
 "AS29456","PJSC Rostelecom",2
 "AS30844","Liquid Telecommunications Ltd",2
 "AS30936","RENET COM Ltd.",2
+"AS31034","Aruba S.p.A.",2
 "AS31143","COSMOS TV JLLC",2
 "AS31245","ATI - ISP",2
 "AS31549","Aria Shatel PJSC",2
@@ -2306,7 +2307,6 @@ ASN,Organization,IP_Count
 "AS30985","IKATEL SA",1
 "AS30992","MTN Network Solutions (Cameroon)",1
 "AS31012","A1 Hrvatska d.o.o.",1
-"AS31034","Aruba S.p.A.",1
 "AS31115","INTRED S.P.A.",1
 "AS31204","ORANGE MOLDOVA S.A.",1
 "AS31213","PJSC MegaFon",1
