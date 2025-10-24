@@ -2,16 +2,16 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87683
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21889
-"AS398324","Censys, Inc.",12804
-"AS396982","Google LLC",10094
+"AS398324","Censys, Inc.",12806
+"AS396982","Google LLC",10098
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7674
+"AS14061","DigitalOcean, LLC",7676
 "AS16276","OVH SAS",5758
 "AS4134","Chinanet",4904
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4433
 "AS16509","Amazon.com, Inc.",3967
-"AS45102","Alibaba (US) Technology Co., Ltd.",3800
+"AS45102","Alibaba (US) Technology Co., Ltd.",3802
 "AS63949","Akamai Technologies, Inc.",3548
 "AS15169","Google LLC",3326
 "AS398705","Censys, Inc.",3238
@@ -39,7 +39,7 @@ ASN,Organization,IP_Count
 "AS36352","HostPapa",1091
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",980
-"AS23470","ReliableSite.Net LLC",955
+"AS23470","ReliableSite.Net LLC",956
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -54,7 +54,7 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",591
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",544
-"AS4837","CHINA UNICOM China169 Backbone",542
+"AS4837","CHINA UNICOM China169 Backbone",543
 "AS9009","M247 Europe SRL",542
 "AS13335","Cloudflare, Inc.",534
 "AS198953","Proton66 OOO",527
@@ -68,7 +68,7 @@ ASN,Organization,IP_Count
 "AS9829","Bharat Sanchar Nigam Ltd",409
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
-"AS12876","ONLINE S.A.S.",394
+"AS12876","ONLINE S.A.S.",397
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS7018","AT&T Enterprises, LLC",365
 "AS21859","Zenlayer Inc",342
@@ -78,7 +78,7 @@ ASN,Organization,IP_Count
 "AS7713","Telekomunikasi Indonesia (PT)",317
 "AS214943","Railnet LLC",314
 "AS24863","LINKdotNET AS number",307
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",304
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",305
 "AS210848","Telkom Internet LTD",296
 "AS45899","VNPT Corp",293
 "AS9341","PT Indonesia Comnets Plus",288
@@ -112,7 +112,7 @@ ASN,Organization,IP_Count
 "AS14956","RouterHosting LLC",116
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
-"AS29066","velia.net Internetdienste GmbH",102
+"AS29066","velia.net Internetdienste GmbH",103
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",101
 "AS28573","Claro NXT Telecomunicacoes Ltda",100
 "AS47331","TTNet A.S.",95
@@ -136,8 +136,8 @@ ASN,Organization,IP_Count
 "AS40021","Nubes, LLC",73
 "AS271795","SERVITELCONET CIA. LTDA.",72
 "AS31898","Oracle Corporation",72
+"AS3920","ESTOXY OU",70
 "AS5617","Orange Polska Spolka Akcyjna",70
-"AS3920","ESTOXY OU",69
 "AS52053","REDHEBERG Association declaree",69
 "AS11320","LightEdge Solutions",67
 "AS199785","Cloud Hosting Solutions, Limited.",67
@@ -1263,6 +1263,7 @@ ASN,Organization,IP_Count
 "AS48004","PE Tsibrankov Konstantin Igorevich",2
 "AS4804","SingTel Optus Pty Ltd",2
 "AS48314","Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG",2
+"AS48347","JSC Mediasoft ekspert",2
 "AS48678","PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi",2
 "AS48728","Vodafone Qatar P.Q.S.C",2
 "AS48832","Linkdotnet-Jordan",2
@@ -2538,7 +2539,6 @@ ASN,Organization,IP_Count
 "AS48166","FORTEX CJSC",1
 "AS48206","Net Pro sarl",1
 "AS48279","Delta-Net LLC",1
-"AS48347","JSC Mediasoft ekspert",1
 "AS48416","Information Network, LLC",1
 "AS48441","Society with limited liability MagLAN",1
 "AS48503","Mobile Telecom-Service LLP",1
@@ -2568,6 +2568,7 @@ ASN,Organization,IP_Count
 "AS51028","Zummer LLC",1
 "AS51042","Klimovsk network Ltd",1
 "AS51069","Volodymyr Shtark",1
+"AS51095","EdgeUno, Inc.",1
 "AS51273","FOP Lizanchuk Yaroslav M.",1
 "AS51341","Gigakom Sistems OOO",1
 "AS51346","Opened Joint Stock Company ""Tojiktelecom""",1
