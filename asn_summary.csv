@@ -5,13 +5,13 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",12846
 "AS396982","Google LLC",10125
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7698
+"AS14061","DigitalOcean, LLC",7699
 "AS16276","OVH SAS",5763
 "AS4134","Chinanet",4907
 "AS32934","Facebook, Inc.",4613
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4433
-"AS16509","Amazon.com, Inc.",4082
+"AS16509","Amazon.com, Inc.",4086
 "AS45102","Alibaba (US) Technology Co., Ltd.",3805
 "AS63949","Akamai Technologies, Inc.",3555
 "AS15169","Google LLC",3331
@@ -34,8 +34,8 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS32475","Internap Holding LLC",1127
-"AS36352","HostPapa",1107
+"AS32475","Internap Holding LLC",1128
+"AS36352","HostPapa",1108
 "AS174","Cogent Communications",1105
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",981
@@ -92,7 +92,7 @@ ASN,Organization,IP_Count
 "AS209272","Alviva Holding Limited",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
-"AS141718","haoxiangyun",203
+"AS141718","haoxiangyun",204
 "AS701","Verizon Business",192
 "AS12389","PJSC Rostelecom",188
 "AS12555","Data-center IMAQLIQ Ltd.",184
@@ -466,6 +466,7 @@ ASN,Organization,IP_Count
 "AS266702","MEGALINK S.R.L.",8
 "AS27967","Gobernacion de la Provincia de Buenos Aires",8
 "AS29302","Hosting Services Inc",8
+"AS30860","Virtual Systems LLC",8
 "AS328723","Telasera Technologies PTY LTD",8
 "AS38283","CHINANET SiChuan Telecom Internet Data Center",8
 "AS41608","NextGenWebs, S.L.",8
@@ -495,7 +496,6 @@ ASN,Organization,IP_Count
 "AS267507","SRX TECNOLOGIA DA INFORMACAO LTDA",7
 "AS269003","KIMNET SOLUCOES",7
 "AS27831","Colombia Móvil",7
-"AS30860","Virtual Systems LLC",7
 "AS31122","Digiweb ltd",7
 "AS3216","PJSC ""Vimpelcom""",7
 "AS328471","HERO TELECOMS (PTY) LTD",7
