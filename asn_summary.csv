@@ -1,14 +1,14 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87683
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
-"AS211298","Driftnet Ltd",21895
-"AS398324","Censys, Inc.",12844
+"AS211298","Driftnet Ltd",21897
+"AS398324","Censys, Inc.",12846
 "AS396982","Google LLC",10125
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7698
 "AS16276","OVH SAS",5763
 "AS4134","Chinanet",4907
-"AS32934","Facebook, Inc.",4581
+"AS32934","Facebook, Inc.",4613
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4433
 "AS16509","Amazon.com, Inc.",4082
@@ -103,9 +103,9 @@ ASN,Organization,IP_Count
 "AS7552","Viettel Group",152
 "AS47105","Vault Dweller OU",141
 "AS137409","GSL Networks Pty LTD",128
+"AS42237","w1n ltd",128
 "AS19905","Neustar Security Services",127
 "AS262551","Farol Telecom",127
-"AS42237","w1n ltd",127
 "AS50219","LNK SYSTEMS MUNTENIA SRL",127
 "AS13238","YANDEX LLC",123
 "AS36007","Kamatera, Inc.",122
@@ -392,6 +392,7 @@ ASN,Organization,IP_Count
 "AS2116","GLOBALCONNECT AS",11
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
 "AS24812","NPK Home-Net Ltd.",11
+"AS30058","FDCservers.net",11
 "AS3243","MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.",11
 "AS328539","Giga for Telecommunication and Technology Limited",11
 "AS3352","TELEFONICA DE ESPANA S.A.U.",11
@@ -417,7 +418,6 @@ ASN,Organization,IP_Count
 "AS24835","Vodafone Data - Egypt",10
 "AS25019","Saudi Telecom Company JSC",10
 "AS264628","CORPORACION FIBEX TELECOM, C.A.",10
-"AS30058","FDCservers.net",10
 "AS37611","Afrihost (Pty) Ltd",10
 "AS37705","TOPNET",10
 "AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",10
