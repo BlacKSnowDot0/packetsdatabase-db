@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2076
 "AS202425","IP Volume inc",1713
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1511
+"AS209605","UAB Host Baltic",1512
 "AS0","",1483
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1374
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS32475","Internap Holding LLC",1116
 "AS174","Cogent Communications",1099
-"AS36352","HostPapa",1094
+"AS36352","HostPapa",1095
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",980
 "AS23470","ReliableSite.Net LLC",957
@@ -47,7 +47,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS215925","VPSVAULT.HOST LTD",800
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
-"AS20052","Arbor Networks, Inc.",671
+"AS20052","Arbor Networks, Inc.",672
 "AS10439","CariNet, Inc.",605
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS51167","Contabo GmbH",594
@@ -88,7 +88,7 @@ ASN,Organization,IP_Count
 "AS60223","Netiface Limited",250
 "AS213613","BOTSHIELD LTD",240
 "AS208843","Alpha Strike Labs GmbH",239
-"AS18403","FPT Telecom Company",232
+"AS18403","FPT Telecom Company",233
 "AS209272","Alviva Holding Limited",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
@@ -244,13 +244,13 @@ ASN,Organization,IP_Count
 "AS60068","Datacamp Limited",24
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",24
 "AS198037","SPACECORE SOLUTION LTD",23
+"AS204834","Shabakieh Isfahan Co PJSC",23
 "AS46475","Limestone Networks, Inc.",23
 "AS55836","Reliance Jio Infocomm Limited",23
 "AS62240","Clouvider Limited",23
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",23
 "AS13213","UK-2 Limited",22
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",22
-"AS204834","Shabakieh Isfahan Co PJSC",22
 "AS213010","Gening Nikita Dmitrievich",22
 "AS43289","Trabia SRL",22
 "AS51430","AltusHost B.V.",22
@@ -890,6 +890,7 @@ ASN,Organization,IP_Count
 "AS47154","HUSAM A. H. HIJAZI",3
 "AS47898","NPK Home-Net Ltd.",3
 "AS4818","DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",3
+"AS48347","JSC Mediasoft ekspert",3
 "AS48411","FOP Samoylenko Oleksandr Volodymirovich",3
 "AS48437","PP ""Merezha""",3
 "AS49242","Internet Union Spolka Akcyjna",3
@@ -1263,7 +1264,6 @@ ASN,Organization,IP_Count
 "AS48004","PE Tsibrankov Konstantin Igorevich",2
 "AS4804","SingTel Optus Pty Ltd",2
 "AS48314","Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG",2
-"AS48347","JSC Mediasoft ekspert",2
 "AS48678","PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi",2
 "AS48728","Vodafone Qatar P.Q.S.C",2
 "AS48832","Linkdotnet-Jordan",2
