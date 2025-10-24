@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87683
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21893
-"AS398324","Censys, Inc.",12830
+"AS398324","Censys, Inc.",12831
 "AS396982","Google LLC",10112
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7683
@@ -11,10 +11,10 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4433
 "AS16509","Amazon.com, Inc.",4007
-"AS32934","Facebook, Inc.",3841
+"AS32934","Facebook, Inc.",3863
 "AS45102","Alibaba (US) Technology Co., Ltd.",3805
-"AS63949","Akamai Technologies, Inc.",3551
-"AS15169","Google LLC",3326
+"AS63949","Akamai Technologies, Inc.",3552
+"AS15169","Google LLC",3329
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3088
 "AS213412","ONYPHE SAS",2795
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS32475","Internap Holding LLC",1120
 "AS174","Cogent Communications",1102
-"AS36352","HostPapa",1101
+"AS36352","HostPapa",1102
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",981
 "AS23470","ReliableSite.Net LLC",959
@@ -54,7 +54,7 @@ ASN,Organization,IP_Count
 "AS51167","Contabo GmbH",596
 "AS31148","Freenet LTD",558
 "AS13335","Cloudflare, Inc.",549
-"AS401120","cheapy.host LLC",544
+"AS401120","cheapy.host LLC",545
 "AS4837","CHINA UNICOM China169 Backbone",543
 "AS9009","M247 Europe SRL",542
 "AS198953","Proton66 OOO",527
@@ -305,6 +305,7 @@ ASN,Organization,IP_Count
 "AS148981","China Telecom",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
 "AS210509","Optimum Line for Internet Services Ltd.",17
+"AS21127","Joint Stock Company TransTeleCom",17
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",17
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
 "AS329490","Promethean Consulting Limited",17
@@ -314,7 +315,6 @@ ASN,Organization,IP_Count
 "AS56630","Melbikomas UAB",17
 "AS6167","Verizon Business",17
 "AS136142","Enigma Fiber Pvt Ltd",16
-"AS21127","Joint Stock Company TransTeleCom",16
 "AS24757","EthioNet",16
 "AS25198","INTERKVM HOST SRL",16
 "AS40676","Psychz Networks",16
