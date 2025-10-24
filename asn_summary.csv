@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87683
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21893
-"AS398324","Censys, Inc.",12825
+"AS398324","Censys, Inc.",12827
 "AS396982","Google LLC",10111
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7683
@@ -10,9 +10,9 @@ ASN,Organization,IP_Count
 "AS4134","Chinanet",4906
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4433
-"AS16509","Amazon.com, Inc.",3991
+"AS16509","Amazon.com, Inc.",4007
+"AS32934","Facebook, Inc.",3808
 "AS45102","Alibaba (US) Technology Co., Ltd.",3805
-"AS32934","Facebook, Inc.",3754
 "AS63949","Akamai Technologies, Inc.",3551
 "AS15169","Google LLC",3326
 "AS398705","Censys, Inc.",3238
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1713
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1512
-"AS0","",1505
+"AS0","",1507
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1376
 "AS215269","LAZYCLOUD LTD",1312
@@ -34,8 +34,8 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS32475","Internap Holding LLC",1119
-"AS174","Cogent Communications",1101
+"AS32475","Internap Holding LLC",1120
+"AS174","Cogent Communications",1102
 "AS36352","HostPapa",1100
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",981
@@ -47,7 +47,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS215925","VPSVAULT.HOST LTD",801
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
-"AS20052","Arbor Networks, Inc.",672
+"AS20052","Arbor Networks, Inc.",673
 "AS10439","CariNet, Inc.",606
 "AS14618","Amazon.com, Inc.",596
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -106,7 +106,7 @@ ASN,Organization,IP_Count
 "AS19905","Neustar Security Services",127
 "AS262551","Farol Telecom",127
 "AS42237","w1n ltd",127
-"AS50219","LNK SYSTEMS MUNTENIA SRL",125
+"AS50219","LNK SYSTEMS MUNTENIA SRL",127
 "AS13238","YANDEX LLC",123
 "AS36007","Kamatera, Inc.",122
 "AS14956","RouterHosting LLC",116
