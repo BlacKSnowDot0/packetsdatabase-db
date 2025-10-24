@@ -2,30 +2,30 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87683
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21893
-"AS398324","Censys, Inc.",12823
-"AS396982","Google LLC",10109
+"AS398324","Censys, Inc.",12825
+"AS396982","Google LLC",10110
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7683
 "AS16276","OVH SAS",5759
 "AS4134","Chinanet",4904
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4433
-"AS16509","Amazon.com, Inc.",3974
+"AS16509","Amazon.com, Inc.",3978
 "AS45102","Alibaba (US) Technology Co., Ltd.",3805
 "AS63949","Akamai Technologies, Inc.",3550
+"AS32934","Facebook, Inc.",3365
 "AS15169","Google LLC",3326
 "AS398705","Censys, Inc.",3238
-"AS32934","Facebook, Inc.",3222
 "AS51396","Pfcloud UG",3088
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2679
 "AS142002","Scloud Pte Ltd",2557
-"AS6939","Hurricane Electric LLC",2428
+"AS6939","Hurricane Electric LLC",2429
 "AS9808","China Mobile",2076
 "AS202425","IP Volume inc",1713
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1512
-"AS0","",1497
+"AS0","",1500
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1376
 "AS215269","LAZYCLOUD LTD",1312
@@ -48,12 +48,12 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",801
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS20052","Arbor Networks, Inc.",672
-"AS10439","CariNet, Inc.",605
+"AS10439","CariNet, Inc.",606
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS14618","Amazon.com, Inc.",595
 "AS51167","Contabo GmbH",595
 "AS31148","Freenet LTD",558
-"AS13335","Cloudflare, Inc.",546
+"AS13335","Cloudflare, Inc.",547
 "AS401120","cheapy.host LLC",544
 "AS4837","CHINA UNICOM China169 Backbone",543
 "AS9009","M247 Europe SRL",542
@@ -122,8 +122,8 @@ ASN,Organization,IP_Count
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS205352","KABELNET LTD",87
 "AS58461","Chinanet",85
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",81
 "AS16735","ALGAR TELECOM S/A",81
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",80
 "AS4766","Korea Telecom",80
 "AS28209","Under Servicos de Internet Ltda",79
 "AS200019","ALEXHOST SRL",78
