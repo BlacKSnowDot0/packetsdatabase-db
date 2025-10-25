@@ -5,9 +5,9 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",12877
 "AS396982","Google LLC",10144
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7710
+"AS14061","DigitalOcean, LLC",7711
 "AS16276","OVH SAS",5764
-"AS32934","Facebook, Inc.",5480
+"AS32934","Facebook, Inc.",5524
 "AS4134","Chinanet",4907
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4433
@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3090
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2683
+"AS8075","Microsoft Corporation",2684
 "AS142002","Scloud Pte Ltd",2557
 "AS6939","Hurricane Electric LLC",2437
 "AS9808","China Mobile",2076
@@ -29,13 +29,13 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1379
 "AS215269","LAZYCLOUD LTD",1312
-"AS49870","Alsycon B.V.",1308
+"AS49870","Alsycon B.V.",1309
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
+"AS32475","Internap Holding LLC",1139
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS32475","Internap Holding LLC",1138
-"AS36352","HostPapa",1114
+"AS36352","HostPapa",1115
 "AS174","Cogent Communications",1107
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",982
@@ -48,9 +48,9 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",802
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS20052","Arbor Networks, Inc.",676
-"AS10439","CariNet, Inc.",611
+"AS13335","Cloudflare, Inc.",634
+"AS10439","CariNet, Inc.",612
 "AS14618","Amazon.com, Inc.",604
-"AS13335","Cloudflare, Inc.",601
 "AS51167","Contabo GmbH",600
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
@@ -148,8 +148,8 @@ ASN,Organization,IP_Count
 "AS57588","Hayat for Internet & communication LLC",65
 "AS140717","China Unicom",61
 "AS215590","DpkgSoft International Limited",59
+"AS44477","STARK INDUSTRIES SOLUTIONS LTD",59
 "AS150263","PT Alnet Telekomunikasi Indonesia",58
-"AS44477","STARK INDUSTRIES SOLUTIONS LTD",58
 "AS4812","China Telecom (Group)",58
 "AS49544","i3D.net B.V",58
 "AS55720","Gigabit Hosting Sdn Bhd",58
