@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87683
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21902
-"AS398324","Censys, Inc.",12872
+"AS398324","Censys, Inc.",12874
 "AS396982","Google LLC",10139
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7710
@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3089
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2681
+"AS8075","Microsoft Corporation",2682
 "AS142002","Scloud Pte Ltd",2557
 "AS6939","Hurricane Electric LLC",2437
 "AS9808","China Mobile",2076
@@ -34,8 +34,8 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS32475","Internap Holding LLC",1135
-"AS36352","HostPapa",1113
+"AS32475","Internap Holding LLC",1137
+"AS36352","HostPapa",1114
 "AS174","Cogent Communications",1106
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",982
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS3462","Chunghwa Telecom Co., Ltd.",497
 "AS201814","MEVSPACE sp. z o.o.",495
 "AS50360","Tamatiya EOOD",492
-"AS51115","HLL LLC",458
+"AS51115","HLL LLC",459
 "AS212238","Datacamp Limited",455
 "AS53667","FranTech Solutions",443
 "AS9829","Bharat Sanchar Nigam Ltd",412
