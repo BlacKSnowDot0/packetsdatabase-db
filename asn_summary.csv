@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87683
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21903
-"AS398324","Censys, Inc.",12889
+"AS398324","Censys, Inc.",12891
 "AS396982","Google LLC",10149
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7711
-"AS32934","Facebook, Inc.",6256
+"AS32934","Facebook, Inc.",6331
 "AS16276","OVH SAS",5764
 "AS4134","Chinanet",4908
 "AS6568","Entel S.A. - EntelNet",4537
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",816
 "AS8452","TE-AS",805
 "AS215925","VPSVAULT.HOST LTD",803
-"AS13335","Cloudflare, Inc.",711
+"AS13335","Cloudflare, Inc.",717
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS20052","Arbor Networks, Inc.",676
 "AS10439","CariNet, Inc.",613
@@ -102,9 +102,9 @@ ASN,Organization,IP_Count
 "AS206264","Amarutu Technology Ltd",153
 "AS7552","Viettel Group",152
 "AS47105","Vault Dweller OU",141
+"AS50219","LNK SYSTEMS MUNTENIA SRL",129
 "AS137409","GSL Networks Pty LTD",128
 "AS42237","w1n ltd",128
-"AS50219","LNK SYSTEMS MUNTENIA SRL",128
 "AS19905","Neustar Security Services",127
 "AS262551","Farol Telecom",127
 "AS13238","YANDEX LLC",123
@@ -174,9 +174,9 @@ ASN,Organization,IP_Count
 "AS396356","Latitude.sh",44
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
+"AS149746","PT Blip Integrator Provider",43
 "AS152194","CTG Server Limited",43
 "AS20001","Charter Communications Inc",43
-"AS149746","PT Blip Integrator Provider",42
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS12816","Leibniz-Rechenzentrum",41
 "AS262378","Compuservice Empreendimentos Ltda",41
