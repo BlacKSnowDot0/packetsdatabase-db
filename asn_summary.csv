@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87683
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21902
-"AS398324","Censys, Inc.",12867
+"AS398324","Censys, Inc.",12869
 "AS396982","Google LLC",10136
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7707
+"AS14061","DigitalOcean, LLC",7708
 "AS16276","OVH SAS",5764
-"AS32934","Facebook, Inc.",5326
+"AS32934","Facebook, Inc.",5425
 "AS4134","Chinanet",4907
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4433
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS32475","Internap Holding LLC",1132
+"AS32475","Internap Holding LLC",1133
 "AS36352","HostPapa",1112
 "AS174","Cogent Communications",1106
 "AS201401","NewVM B.V.",1076
@@ -48,8 +48,8 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",802
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS20052","Arbor Networks, Inc.",676
-"AS10439","CariNet, Inc.",610
-"AS14618","Amazon.com, Inc.",603
+"AS10439","CariNet, Inc.",611
+"AS14618","Amazon.com, Inc.",604
 "AS13335","Cloudflare, Inc.",599
 "AS51167","Contabo GmbH",599
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -77,8 +77,8 @@ ASN,Organization,IP_Count
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",319
 "AS7713","Telekomunikasi Indonesia (PT)",317
 "AS214943","Railnet LLC",314
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",307
 "AS24863","LINKdotNET AS number",307
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",306
 "AS210848","Telkom Internet LTD",296
 "AS45899","VNPT Corp",293
 "AS9341","PT Indonesia Comnets Plus",288
@@ -136,7 +136,7 @@ ASN,Organization,IP_Count
 "AS40021","Nubes, LLC",73
 "AS271795","SERVITELCONET CIA. LTDA.",72
 "AS31898","Oracle Corporation",72
-"AS3920","ESTOXY OU",70
+"AS3920","ESTOXY OU",71
 "AS5617","Orange Polska Spolka Akcyjna",70
 "AS199785","Cloud Hosting Solutions, Limited.",69
 "AS52053","REDHEBERG Association declaree",69
@@ -354,6 +354,7 @@ ASN,Organization,IP_Count
 "AS48721","Flyservers S.A.",14
 "AS6181","Cincinnati Bell Telephone Company LLC",14
 "AS63859","PT. Eka Mas Republik",14
+"AS8796","FD-298-8796",14
 "AS11232","Midcontinent Communications",13
 "AS11427","Charter Communications Inc",13
 "AS15895","""Kyivstar"" PJSC",13
@@ -367,7 +368,6 @@ ASN,Organization,IP_Count
 "AS4808","China Unicom Beijing Province Network",13
 "AS53006","ALGAR TELECOM S/A",13
 "AS5607","Sky UK Limited",13
-"AS8796","FD-298-8796",13
 "AS12400","Partner Communications Ltd.",12
 "AS134420","Chongqing Telecom",12
 "AS213438","ColocaTel Inc.",12
