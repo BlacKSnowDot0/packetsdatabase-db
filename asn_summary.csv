@@ -2,16 +2,16 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87683
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21902
-"AS398324","Censys, Inc.",12865
+"AS398324","Censys, Inc.",12867
 "AS396982","Google LLC",10135
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7707
 "AS16276","OVH SAS",5764
+"AS32934","Facebook, Inc.",5272
 "AS4134","Chinanet",4907
-"AS32934","Facebook, Inc.",4802
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4433
-"AS16509","Amazon.com, Inc.",4118
+"AS16509","Amazon.com, Inc.",4122
 "AS45102","Alibaba (US) Technology Co., Ltd.",3806
 "AS63949","Akamai Technologies, Inc.",3556
 "AS15169","Google LLC",3331
@@ -50,7 +50,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",676
 "AS10439","CariNet, Inc.",610
 "AS14618","Amazon.com, Inc.",603
-"AS13335","Cloudflare, Inc.",598
+"AS13335","Cloudflare, Inc.",599
 "AS51167","Contabo GmbH",598
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS3462","Chunghwa Telecom Co., Ltd.",497
 "AS201814","MEVSPACE sp. z o.o.",495
 "AS50360","Tamatiya EOOD",492
-"AS51115","HLL LLC",457
+"AS51115","HLL LLC",458
 "AS212238","Datacamp Limited",455
 "AS53667","FranTech Solutions",443
 "AS9829","Bharat Sanchar Nigam Ltd",412
