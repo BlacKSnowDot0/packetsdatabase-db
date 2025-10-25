@@ -1,7 +1,7 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87683
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
-"AS211298","Driftnet Ltd",21898
+"AS211298","Driftnet Ltd",21899
 "AS398324","Censys, Inc.",12855
 "AS396982","Google LLC",10131
 "AS26210","AXS Bolivia S. A.",7972
@@ -327,6 +327,7 @@ ASN,Organization,IP_Count
 "AS12874","Fastweb SpA",15
 "AS136515","Dasca Cable Services, Inc.",15
 "AS138915","Kaopu Cloud HK Limited",15
+"AS200590","NLS Kazakhstan LLC",15
 "AS202448","MVPS LTD",15
 "AS207713","GLOBAL INTERNET SOLUTIONS LLC",15
 "AS211619","MAXKO d.o.o.",15
@@ -344,7 +345,6 @@ ASN,Organization,IP_Count
 "AS140726","China Unicom",14
 "AS15704","XTRA TELECOM S.A.",14
 "AS199414","Noah Kolossa",14
-"AS200590","NLS Kazakhstan LLC",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS27947","Telconet S.A",14
 "AS28126","BRISANET SERVICOS DE TELECOMUNICACOES LTDA",14
