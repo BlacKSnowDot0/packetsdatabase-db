@@ -3,9 +3,9 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21899
 "AS398324","Censys, Inc.",12855
-"AS396982","Google LLC",10131
+"AS396982","Google LLC",10132
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7701
+"AS14061","DigitalOcean, LLC",7702
 "AS16276","OVH SAS",5763
 "AS4134","Chinanet",4907
 "AS32934","Facebook, Inc.",4646
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS32475","Internap Holding LLC",1132
-"AS36352","HostPapa",1109
+"AS36352","HostPapa",1110
 "AS174","Cogent Communications",1106
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",981
@@ -294,6 +294,7 @@ ASN,Organization,IP_Count
 "AS14593","Space Exploration Technologies Corporation",18
 "AS17638","ASN for TIANJIN Provincial Net of CT",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
+"AS21127","Joint Stock Company TransTeleCom",18
 "AS23693","PT. Telekomunikasi Selular",18
 "AS24940","Hetzner Online GmbH",18
 "AS329009","Spectrum Internet Service Ltd",18
@@ -305,7 +306,6 @@ ASN,Organization,IP_Count
 "AS148981","China Telecom",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
 "AS210509","Optimum Line for Internet Services Ltd.",17
-"AS21127","Joint Stock Company TransTeleCom",17
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",17
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
 "AS329490","Promethean Consulting Limited",17
