@@ -3,7 +3,7 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21899
 "AS398324","Censys, Inc.",12855
-"AS396982","Google LLC",10132
+"AS396982","Google LLC",10133
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7702
 "AS16276","OVH SAS",5763
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1714
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1512
-"AS0","",1509
+"AS0","",1510
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1377
 "AS215269","LAZYCLOUD LTD",1312
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS32475","Internap Holding LLC",1132
-"AS36352","HostPapa",1110
+"AS36352","HostPapa",1111
 "AS174","Cogent Communications",1106
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",981
@@ -367,6 +367,7 @@ ASN,Organization,IP_Count
 "AS4808","China Unicom Beijing Province Network",13
 "AS53006","ALGAR TELECOM S/A",13
 "AS5607","Sky UK Limited",13
+"AS8796","FD-298-8796",13
 "AS12400","Partner Communications Ltd.",12
 "AS134420","Chongqing Telecom",12
 "AS213438","ColocaTel Inc.",12
@@ -380,7 +381,6 @@ ASN,Organization,IP_Count
 "AS41075","ATW Internet Kft.",12
 "AS62442","Dade Samane Fanava Company (PJS)",12
 "AS6849","JSC ""Ukrtelecom""",12
-"AS8796","FD-298-8796",12
 "AS9318","SK Broadband Co Ltd",12
 "AS984","OCTOPUS WEB SOLUTION INC",12
 "AS12849","Hot-Net internet services Ltd.",11
