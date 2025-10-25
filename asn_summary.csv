@@ -2,32 +2,32 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87683
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21899
-"AS398324","Censys, Inc.",12857
+"AS398324","Censys, Inc.",12859
 "AS396982","Google LLC",10134
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7704
+"AS14061","DigitalOcean, LLC",7705
 "AS16276","OVH SAS",5764
 "AS4134","Chinanet",4907
-"AS32934","Facebook, Inc.",4686
+"AS32934","Facebook, Inc.",4719
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4433
-"AS16509","Amazon.com, Inc.",4098
+"AS16509","Amazon.com, Inc.",4104
 "AS45102","Alibaba (US) Technology Co., Ltd.",3806
 "AS63949","Akamai Technologies, Inc.",3556
 "AS15169","Google LLC",3331
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3089
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2680
+"AS8075","Microsoft Corporation",2681
 "AS142002","Scloud Pte Ltd",2557
 "AS6939","Hurricane Electric LLC",2434
 "AS9808","China Mobile",2076
 "AS202425","IP Volume inc",1714
 "AS214295","SKYNET NETWORK LTD",1631
+"AS0","",1513
 "AS209605","UAB Host Baltic",1512
-"AS0","",1511
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS398722","Censys, Inc.",1377
+"AS398722","Censys, Inc.",1378
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1308
 "AS204428","SS-Net",1182
@@ -185,7 +185,7 @@ ASN,Organization,IP_Count
 "AS23969","TOT Public Company Limited",39
 "AS27699","TELEFÔNICA BRASIL S.A",39
 "AS26599","TELEFÔNICA BRASIL S.A",38
-"AS200514","KnownSRV Ltd.",36
+"AS200514","KnownSRV Ltd.",37
 "AS210558","1337 Services GmbH",36
 "AS30633","Leaseweb USA, Inc.",36
 "AS42624","Global-Data System IT Corporation",36
@@ -400,6 +400,7 @@ ASN,Organization,IP_Count
 "AS39351","31173 Services AB",11
 "AS41436","Kamatera Inc",11
 "AS4181","TDS TELECOM",11
+"AS44901","Belcloud LTD",11
 "AS45820","TTSL-ISP DIVISION",11
 "AS46375","Sonic Telecom LLC",11
 "AS48753","AVA HOST SRL",11
@@ -422,7 +423,6 @@ ASN,Organization,IP_Count
 "AS37705","TOPNET",10
 "AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",10
 "AS41420","Xentech B.V.",10
-"AS44901","Belcloud LTD",10
 "AS49434","FBW NETWORKS SAS",10
 "AS50304","Blix Solutions AS",10
 "AS52468","UFINET PANAMA S.A.",10
@@ -655,6 +655,7 @@ ASN,Organization,IP_Count
 "AS136873","MEGADATA-ISP",4
 "AS13977","Consolidated Communications, Inc.",4
 "AS14080","Telmex Colombia S.A.",4
+"AS140869","Turing Group Limited",4
 "AS141140","PT Jinde Grup Indonesia",4
 "AS14117","Telefonica del Sur S.A.",4
 "AS141862","AL HUTAIB NETSOL PRIVATE LIMITED",4
@@ -778,7 +779,6 @@ ASN,Organization,IP_Count
 "AS140210","ConnectX",3
 "AS140607","Sign In (PVT) LTD",3
 "AS140791","BKHOST TECHNOLOGY VIETNAM JOINT STOCK COMPANY",3
-"AS140869","Turing Group Limited",3
 "AS141077","RSTNET",3
 "AS141607","PT Gayatri Lintas Nusantara",3
 "AS142468","VANSHIKA ITLAM INDIA PVT LTD",3
