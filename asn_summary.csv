@@ -7,13 +7,13 @@ ASN,Organization,IP_Count
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7711
 "AS16276","OVH SAS",5764
-"AS32934","Facebook, Inc.",5524
+"AS32934","Facebook, Inc.",5545
 "AS4134","Chinanet",4907
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4433
 "AS16509","Amazon.com, Inc.",4122
 "AS45102","Alibaba (US) Technology Co., Ltd.",3807
-"AS63949","Akamai Technologies, Inc.",3556
+"AS63949","Akamai Technologies, Inc.",3557
 "AS15169","Google LLC",3331
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3090
@@ -22,7 +22,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2557
 "AS6939","Hurricane Electric LLC",2437
 "AS9808","China Mobile",2076
-"AS202425","IP Volume inc",1715
+"AS202425","IP Volume inc",1717
 "AS214295","SKYNET NETWORK LTD",1631
 "AS0","",1514
 "AS209605","UAB Host Baltic",1513
@@ -48,7 +48,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",802
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS20052","Arbor Networks, Inc.",676
-"AS13335","Cloudflare, Inc.",634
+"AS13335","Cloudflare, Inc.",660
 "AS10439","CariNet, Inc.",612
 "AS14618","Amazon.com, Inc.",604
 "AS51167","Contabo GmbH",600
