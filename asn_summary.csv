@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87683
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21898
-"AS398324","Censys, Inc.",12853
+"AS398324","Censys, Inc.",12855
 "AS396982","Google LLC",10131
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7700
+"AS14061","DigitalOcean, LLC",7701
 "AS16276","OVH SAS",5763
 "AS4134","Chinanet",4907
 "AS32934","Facebook, Inc.",4646
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1714
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1512
-"AS0","",1508
+"AS0","",1509
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1377
 "AS215269","LAZYCLOUD LTD",1312
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS32475","Internap Holding LLC",1130
+"AS32475","Internap Holding LLC",1131
 "AS36352","HostPapa",1109
 "AS174","Cogent Communications",1106
 "AS201401","NewVM B.V.",1076
@@ -95,7 +95,7 @@ ASN,Organization,IP_Count
 "AS141718","haoxiangyun",204
 "AS701","Verizon Business",192
 "AS12389","PJSC Rostelecom",188
-"AS12555","Data-center IMAQLIQ Ltd.",184
+"AS12555","Data-center IMAQLIQ Ltd.",185
 "AS63199","CDS Global Cloud Co., Ltd",172
 "AS401116","Nybula LLC",170
 "AS29484","Ruhr-Universitaet Bochum",161
@@ -104,9 +104,9 @@ ASN,Organization,IP_Count
 "AS47105","Vault Dweller OU",141
 "AS137409","GSL Networks Pty LTD",128
 "AS42237","w1n ltd",128
+"AS50219","LNK SYSTEMS MUNTENIA SRL",128
 "AS19905","Neustar Security Services",127
 "AS262551","Farol Telecom",127
-"AS50219","LNK SYSTEMS MUNTENIA SRL",127
 "AS13238","YANDEX LLC",123
 "AS36007","Kamatera, Inc.",122
 "AS14956","RouterHosting LLC",116
@@ -310,6 +310,7 @@ ASN,Organization,IP_Count
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
 "AS329490","Promethean Consulting Limited",17
 "AS45117","Ishan's Network",17
+"AS4816","China Telecom (Group)",17
 "AS50340","JSC Selectel",17
 "AS5384","EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",17
 "AS56630","Melbikomas UAB",17
@@ -319,7 +320,6 @@ ASN,Organization,IP_Count
 "AS25198","INTERKVM HOST SRL",16
 "AS40676","Psychz Networks",16
 "AS46261","QuickPacket, LLC",16
-"AS4816","China Telecom (Group)",16
 "AS6597","Coloblox Data Centers Inc",16
 "AS6697","Republican Unitary Telecommunication Enterprise Beltelecom",16
 "AS8193","""Uzbektelekom"" Joint Stock Company",16
