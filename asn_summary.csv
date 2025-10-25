@@ -3,11 +3,11 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21903
 "AS398324","Censys, Inc.",12877
-"AS396982","Google LLC",10144
+"AS396982","Google LLC",10145
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7711
 "AS16276","OVH SAS",5764
-"AS32934","Facebook, Inc.",5577
+"AS32934","Facebook, Inc.",5599
 "AS4134","Chinanet",4907
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4433
@@ -39,7 +39,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1107
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",982
-"AS23470","ReliableSite.Net LLC",963
+"AS23470","ReliableSite.Net LLC",964
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -47,8 +47,8 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS215925","VPSVAULT.HOST LTD",802
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
+"AS13335","Cloudflare, Inc.",699
 "AS20052","Arbor Networks, Inc.",676
-"AS13335","Cloudflare, Inc.",670
 "AS10439","CariNet, Inc.",612
 "AS14618","Amazon.com, Inc.",604
 "AS51167","Contabo GmbH",600
@@ -319,6 +319,7 @@ ASN,Organization,IP_Count
 "AS136142","Enigma Fiber Pvt Ltd",16
 "AS24757","EthioNet",16
 "AS25198","INTERKVM HOST SRL",16
+"AS30823","aurologic GmbH",16
 "AS46261","QuickPacket, LLC",16
 "AS6597","Coloblox Data Centers Inc",16
 "AS6697","Republican Unitary Telecommunication Enterprise Beltelecom",16
@@ -336,7 +337,6 @@ ASN,Organization,IP_Count
 "AS272547","Servicos de Infraestrutura e Datacenter",15
 "AS28201","Companhia Itabirana Telecomunicações Ltda",15
 "AS2914","NTT America, Inc.",15
-"AS30823","aurologic GmbH",15
 "AS31113","Artkomm LLC",15
 "AS33363","Charter Communications, Inc",15
 "AS397283","RocketNode Inc",15
