@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87683
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21902
-"AS398324","Censys, Inc.",12876
+"AS398324","Censys, Inc.",12877
 "AS396982","Google LLC",10141
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7710
@@ -16,9 +16,9 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3556
 "AS15169","Google LLC",3331
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3089
+"AS51396","Pfcloud UG",3090
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2682
+"AS8075","Microsoft Corporation",2683
 "AS142002","Scloud Pte Ltd",2557
 "AS6939","Hurricane Electric LLC",2437
 "AS9808","China Mobile",2076
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS32475","Internap Holding LLC",1137
+"AS32475","Internap Holding LLC",1138
 "AS36352","HostPapa",1114
 "AS174","Cogent Communications",1107
 "AS201401","NewVM B.V.",1076
@@ -59,8 +59,8 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",542
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
+"AS201814","MEVSPACE sp. z o.o.",497
 "AS3462","Chunghwa Telecom Co., Ltd.",497
-"AS201814","MEVSPACE sp. z o.o.",496
 "AS50360","Tamatiya EOOD",492
 "AS51115","HLL LLC",459
 "AS212238","Datacamp Limited",455
@@ -86,7 +86,7 @@ ASN,Organization,IP_Count
 "AS8151","Uninet S.A. de C.V.",262
 "AS48090","TECHOFF SRV LIMITED",254
 "AS60223","Netiface Limited",250
-"AS213613","BOTSHIELD LTD",243
+"AS213613","BOTSHIELD LTD",244
 "AS208843","Alpha Strike Labs GmbH",242
 "AS18403","FPT Telecom Company",233
 "AS209272","Alviva Holding Limited",230
@@ -147,8 +147,8 @@ ASN,Organization,IP_Count
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS57588","Hayat for Internet & communication LLC",65
 "AS140717","China Unicom",61
+"AS215590","DpkgSoft International Limited",59
 "AS150263","PT Alnet Telekomunikasi Indonesia",58
-"AS215590","DpkgSoft International Limited",58
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",58
 "AS4812","China Telecom (Group)",58
 "AS49544","i3D.net B.V",58
@@ -296,6 +296,7 @@ ASN,Organization,IP_Count
 "AS17638","ASN for TIANJIN Provincial Net of CT",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
 "AS210509","Optimum Line for Internet Services Ltd.",18
+"AS212913","FOP Hornostay Mykhaylo Ivanovych",18
 "AS23693","PT. Telekomunikasi Selular",18
 "AS24940","Hetzner Online GmbH",18
 "AS329009","Spectrum Internet Service Ltd",18
@@ -306,7 +307,6 @@ ASN,Organization,IP_Count
 "AS136958","China Unicom Guangdong IP network",17
 "AS148981","China Telecom",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
-"AS212913","FOP Hornostay Mykhaylo Ivanovych",17
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
 "AS329490","Promethean Consulting Limited",17
 "AS40676","Psychz Networks",17
