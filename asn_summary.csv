@@ -2,16 +2,16 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87683
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21899
-"AS398324","Censys, Inc.",12856
+"AS398324","Censys, Inc.",12857
 "AS396982","Google LLC",10134
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7703
+"AS14061","DigitalOcean, LLC",7704
 "AS16276","OVH SAS",5764
 "AS4134","Chinanet",4907
-"AS32934","Facebook, Inc.",4675
+"AS32934","Facebook, Inc.",4686
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4433
-"AS16509","Amazon.com, Inc.",4094
+"AS16509","Amazon.com, Inc.",4098
 "AS45102","Alibaba (US) Technology Co., Ltd.",3806
 "AS63949","Akamai Technologies, Inc.",3556
 "AS15169","Google LLC",3331
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1714
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1512
-"AS0","",1510
+"AS0","",1511
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1377
 "AS215269","LAZYCLOUD LTD",1312
@@ -39,7 +39,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1106
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",981
-"AS23470","ReliableSite.Net LLC",961
+"AS23470","ReliableSite.Net LLC",962
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -82,12 +82,12 @@ ASN,Organization,IP_Count
 "AS210848","Telkom Internet LTD",296
 "AS45899","VNPT Corp",293
 "AS9341","PT Indonesia Comnets Plus",288
-"AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",283
+"AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",284
 "AS8151","Uninet S.A. de C.V.",262
 "AS48090","TECHOFF SRV LIMITED",254
 "AS60223","Netiface Limited",250
+"AS213613","BOTSHIELD LTD",243
 "AS208843","Alpha Strike Labs GmbH",242
-"AS213613","BOTSHIELD LTD",242
 "AS18403","FPT Telecom Company",233
 "AS209272","Alviva Holding Limited",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
@@ -438,6 +438,7 @@ ASN,Organization,IP_Count
 "AS213520","Senko Digital Ltd",9
 "AS214481","Wojciech Czapkowicz",9
 "AS267280","YELLOW CONNECT MULTIMIDIA LTDA ME",9
+"AS30860","Virtual Systems LLC",9
 "AS3215","Orange S.A.",9
 "AS35297","Dataline LLC",9
 "AS400992","ZhouyiSat Communications",9
@@ -466,7 +467,6 @@ ASN,Organization,IP_Count
 "AS266702","MEGALINK S.R.L.",8
 "AS27967","Gobernacion de la Provincia de Buenos Aires",8
 "AS29302","Hosting Services Inc",8
-"AS30860","Virtual Systems LLC",8
 "AS328723","Telasera Technologies PTY LTD",8
 "AS38283","CHINANET SiChuan Telecom Internet Data Center",8
 "AS41608","NextGenWebs, S.L.",8
