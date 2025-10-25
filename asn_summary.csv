@@ -7,7 +7,7 @@ ASN,Organization,IP_Count
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7707
 "AS16276","OVH SAS",5764
-"AS32934","Facebook, Inc.",5272
+"AS32934","Facebook, Inc.",5326
 "AS4134","Chinanet",4907
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4433
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2681
 "AS142002","Scloud Pte Ltd",2557
-"AS6939","Hurricane Electric LLC",2435
+"AS6939","Hurricane Electric LLC",2436
 "AS9808","China Mobile",2076
 "AS202425","IP Volume inc",1714
 "AS214295","SKYNET NETWORK LTD",1631
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",610
 "AS14618","Amazon.com, Inc.",603
 "AS13335","Cloudflare, Inc.",599
-"AS51167","Contabo GmbH",598
+"AS51167","Contabo GmbH",599
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",545
@@ -147,12 +147,12 @@ ASN,Organization,IP_Count
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS57588","Hayat for Internet & communication LLC",65
 "AS140717","China Unicom",61
+"AS150263","PT Alnet Telekomunikasi Indonesia",58
 "AS215590","DpkgSoft International Limited",58
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",58
 "AS4812","China Telecom (Group)",58
 "AS49544","i3D.net B.V",58
 "AS55720","Gigabit Hosting Sdn Bhd",58
-"AS150263","PT Alnet Telekomunikasi Indonesia",57
 "AS20278","Nexeon Technologies, Inc.",57
 "AS22773","Cox Communications Inc.",57
 "AS48090","PPTECHNOLOGY LIMITED",56
