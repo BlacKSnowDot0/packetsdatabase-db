@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87683
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21902
-"AS398324","Censys, Inc.",12869
+"AS398324","Censys, Inc.",12871
 "AS396982","Google LLC",10136
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7708
+"AS14061","DigitalOcean, LLC",7709
 "AS16276","OVH SAS",5764
 "AS32934","Facebook, Inc.",5425
 "AS4134","Chinanet",4907
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2681
 "AS142002","Scloud Pte Ltd",2557
-"AS6939","Hurricane Electric LLC",2436
+"AS6939","Hurricane Electric LLC",2437
 "AS9808","China Mobile",2076
 "AS202425","IP Volume inc",1714
 "AS214295","SKYNET NETWORK LTD",1631
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1167
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS32475","Internap Holding LLC",1133
+"AS32475","Internap Holding LLC",1134
 "AS36352","HostPapa",1112
 "AS174","Cogent Communications",1106
 "AS201401","NewVM B.V.",1076
@@ -50,7 +50,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",676
 "AS10439","CariNet, Inc.",611
 "AS14618","Amazon.com, Inc.",604
-"AS13335","Cloudflare, Inc.",599
+"AS13335","Cloudflare, Inc.",601
 "AS51167","Contabo GmbH",599
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
@@ -127,7 +127,7 @@ ASN,Organization,IP_Count
 "AS4766","Korea Telecom",80
 "AS28209","Under Servicos de Internet Ltda",79
 "AS200019","ALEXHOST SRL",78
-"AS136435","ELITE COMMUNICATION",76
+"AS136435","ELITE COMMUNICATION",77
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS8560","IONOS SE",76
 "AS27882","Telefónica Celular de Bolivia S.A.",75
@@ -762,6 +762,7 @@ ASN,Organization,IP_Count
 "AS13285","TalkTalk Communications Limited",3
 "AS133278","Dehradun Enet Solutions Private Ltd",3
 "AS134032","INFONET COMM ENTERPRISES",3
+"AS13430","THE WISP.NET CORP.",3
 "AS134762","CHINANET Liaoning province Dalian MAN network",3
 "AS135882","Spark Online",3
 "AS135905","VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",3
@@ -954,7 +955,6 @@ ASN,Organization,IP_Count
 "AS134033","Mithril Telecommunications Private Limited",2
 "AS134238","CHINANET Jiangx province IDC network",2
 "AS134264","DIGI STAR INFO SOLUTIONS PRIVATE LIMITED",2
-"AS13430","THE WISP.NET CORP.",2
 "AS134331","Smartlink Solutions Pvt. Ltd.",2
 "AS134375","Fusionnet Web Services Private Limited",2
 "AS134732","Dot Internet",2
