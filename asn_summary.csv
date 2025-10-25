@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87683
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21902
-"AS398324","Censys, Inc.",12874
-"AS396982","Google LLC",10139
+"AS398324","Censys, Inc.",12876
+"AS396982","Google LLC",10141
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7710
 "AS16276","OVH SAS",5764
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4433
 "AS16509","Amazon.com, Inc.",4122
-"AS45102","Alibaba (US) Technology Co., Ltd.",3806
+"AS45102","Alibaba (US) Technology Co., Ltd.",3807
 "AS63949","Akamai Technologies, Inc.",3556
 "AS15169","Google LLC",3331
 "AS398705","Censys, Inc.",3238
@@ -22,7 +22,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2557
 "AS6939","Hurricane Electric LLC",2437
 "AS9808","China Mobile",2076
-"AS202425","IP Volume inc",1714
+"AS202425","IP Volume inc",1715
 "AS214295","SKYNET NETWORK LTD",1631
 "AS0","",1514
 "AS209605","UAB Host Baltic",1513
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS32475","Internap Holding LLC",1137
 "AS36352","HostPapa",1114
-"AS174","Cogent Communications",1106
+"AS174","Cogent Communications",1107
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",982
 "AS23470","ReliableSite.Net LLC",963
@@ -60,7 +60,7 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS3462","Chunghwa Telecom Co., Ltd.",497
-"AS201814","MEVSPACE sp. z o.o.",495
+"AS201814","MEVSPACE sp. z o.o.",496
 "AS50360","Tamatiya EOOD",492
 "AS51115","HLL LLC",459
 "AS212238","Datacamp Limited",455
@@ -92,7 +92,7 @@ ASN,Organization,IP_Count
 "AS209272","Alviva Holding Limited",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
-"AS141718","haoxiangyun",205
+"AS141718","haoxiangyun",206
 "AS701","Verizon Business",192
 "AS12389","PJSC Rostelecom",188
 "AS12555","Data-center IMAQLIQ Ltd.",185
