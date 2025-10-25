@@ -11,8 +11,8 @@ ASN,Organization,IP_Count
 "AS32934","Facebook, Inc.",4646
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4433
-"AS16509","Amazon.com, Inc.",4086
-"AS45102","Alibaba (US) Technology Co., Ltd.",3805
+"AS16509","Amazon.com, Inc.",4090
+"AS45102","Alibaba (US) Technology Co., Ltd.",3806
 "AS63949","Akamai Technologies, Inc.",3556
 "AS15169","Google LLC",3331
 "AS398705","Censys, Inc.",3238
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2680
 "AS142002","Scloud Pte Ltd",2557
-"AS6939","Hurricane Electric LLC",2432
+"AS6939","Hurricane Electric LLC",2433
 "AS9808","China Mobile",2076
 "AS202425","IP Volume inc",1714
 "AS214295","SKYNET NETWORK LTD",1631
@@ -50,8 +50,8 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",674
 "AS10439","CariNet, Inc.",609
 "AS14618","Amazon.com, Inc.",603
+"AS13335","Cloudflare, Inc.",598
 "AS51167","Contabo GmbH",598
-"AS13335","Cloudflare, Inc.",597
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",545
@@ -68,7 +68,7 @@ ASN,Organization,IP_Count
 "AS9829","Bharat Sanchar Nigam Ltd",412
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
-"AS12876","ONLINE S.A.S.",401
+"AS12876","ONLINE S.A.S.",402
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS7018","AT&T Enterprises, LLC",365
 "AS21859","Zenlayer Inc",342
@@ -294,6 +294,7 @@ ASN,Organization,IP_Count
 "AS14593","Space Exploration Technologies Corporation",18
 "AS17638","ASN for TIANJIN Provincial Net of CT",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
+"AS210509","Optimum Line for Internet Services Ltd.",18
 "AS21127","Joint Stock Company TransTeleCom",18
 "AS23693","PT. Telekomunikasi Selular",18
 "AS24940","Hetzner Online GmbH",18
@@ -305,7 +306,6 @@ ASN,Organization,IP_Count
 "AS136958","China Unicom Guangdong IP network",17
 "AS148981","China Telecom",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
-"AS210509","Optimum Line for Internet Services Ltd.",17
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",17
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
 "AS329490","Promethean Consulting Limited",17
@@ -658,6 +658,7 @@ ASN,Organization,IP_Count
 "AS141140","PT Jinde Grup Indonesia",4
 "AS14117","Telefonica del Sur S.A.",4
 "AS141862","AL HUTAIB NETSOL PRIVATE LIMITED",4
+"AS142036","Hosteons Pte. Ltd.",4
 "AS14754","Telgua",4
 "AS14868","Ligga Telecomunicações S.A.",4
 "AS150008","Pioneer Elabs Ltd.",4
@@ -780,7 +781,6 @@ ASN,Organization,IP_Count
 "AS140869","Turing Group Limited",3
 "AS141077","RSTNET",3
 "AS141607","PT Gayatri Lintas Nusantara",3
-"AS142036","Hosteons Pte. Ltd.",3
 "AS142468","VANSHIKA ITLAM INDIA PVT LTD",3
 "AS14522","Satnet",3
 "AS147065","Lao telecom construction Co.,Ltd",3
