@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87683
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21902
-"AS398324","Censys, Inc.",12864
+"AS398324","Censys, Inc.",12865
 "AS396982","Google LLC",10135
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7707
@@ -47,15 +47,15 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS215925","VPSVAULT.HOST LTD",802
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
-"AS20052","Arbor Networks, Inc.",675
-"AS10439","CariNet, Inc.",609
+"AS20052","Arbor Networks, Inc.",676
+"AS10439","CariNet, Inc.",610
 "AS14618","Amazon.com, Inc.",603
 "AS13335","Cloudflare, Inc.",598
 "AS51167","Contabo GmbH",598
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",545
-"AS4837","CHINA UNICOM China169 Backbone",544
+"AS4837","CHINA UNICOM China169 Backbone",545
 "AS9009","M247 Europe SRL",542
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
@@ -112,7 +112,7 @@ ASN,Organization,IP_Count
 "AS14956","RouterHosting LLC",116
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
-"AS29066","velia.net Internetdienste GmbH",103
+"AS29066","velia.net Internetdienste GmbH",104
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",102
 "AS28573","Claro NXT Telecomunicacoes Ltda",100
 "AS47331","TTNet A.S.",95
@@ -280,6 +280,7 @@ ASN,Organization,IP_Count
 "AS9299","Philippine Long Distance Telephone Co.",20
 "AS12479","Orange Espagne SA",19
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",19
+"AS21127","Joint Stock Company TransTeleCom",19
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",19
 "AS22927","Telefonica de Argentina",19
 "AS24348","CERNET2 IX at Tsinghua University",19
@@ -295,7 +296,6 @@ ASN,Organization,IP_Count
 "AS17638","ASN for TIANJIN Provincial Net of CT",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
 "AS210509","Optimum Line for Internet Services Ltd.",18
-"AS21127","Joint Stock Company TransTeleCom",18
 "AS23693","PT. Telekomunikasi Selular",18
 "AS24940","Hetzner Online GmbH",18
 "AS329009","Spectrum Internet Service Ltd",18
@@ -309,6 +309,7 @@ ASN,Organization,IP_Count
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",17
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
 "AS329490","Promethean Consulting Limited",17
+"AS40676","Psychz Networks",17
 "AS45117","Ishan's Network",17
 "AS4816","China Telecom (Group)",17
 "AS50340","JSC Selectel",17
@@ -318,7 +319,6 @@ ASN,Organization,IP_Count
 "AS136142","Enigma Fiber Pvt Ltd",16
 "AS24757","EthioNet",16
 "AS25198","INTERKVM HOST SRL",16
-"AS40676","Psychz Networks",16
 "AS46261","QuickPacket, LLC",16
 "AS6597","Coloblox Data Centers Inc",16
 "AS6697","Republican Unitary Telecommunication Enterprise Beltelecom",16
