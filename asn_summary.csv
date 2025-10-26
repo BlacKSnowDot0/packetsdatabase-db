@@ -1,13 +1,13 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87685
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
-"AS211298","Driftnet Ltd",21905
-"AS398324","Censys, Inc.",12934
+"AS211298","Driftnet Ltd",21906
+"AS398324","Censys, Inc.",12935
 "AS396982","Google LLC",10162
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7725
-"AS32934","Facebook, Inc.",7461
-"AS16276","OVH SAS",5768
+"AS32934","Facebook, Inc.",7536
+"AS16276","OVH SAS",5772
 "AS4134","Chinanet",4973
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4435
@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3093
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2690
+"AS8075","Microsoft Corporation",2691
 "AS142002","Scloud Pte Ltd",2557
 "AS6939","Hurricane Electric LLC",2441
 "AS9808","China Mobile",2076
