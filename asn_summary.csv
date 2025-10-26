@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87683
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21903
-"AS398324","Censys, Inc.",12904
+"AS398324","Censys, Inc.",12907
 "AS396982","Google LLC",10155
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7715
@@ -12,13 +12,13 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4435
 "AS16509","Amazon.com, Inc.",4122
-"AS45102","Alibaba (US) Technology Co., Ltd.",3809
+"AS45102","Alibaba (US) Technology Co., Ltd.",3815
 "AS63949","Akamai Technologies, Inc.",3558
 "AS15169","Google LLC",3332
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3092
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2687
+"AS8075","Microsoft Corporation",2688
 "AS142002","Scloud Pte Ltd",2557
 "AS6939","Hurricane Electric LLC",2437
 "AS9808","China Mobile",2076
@@ -95,7 +95,7 @@ ASN,Organization,IP_Count
 "AS141718","haoxiangyun",206
 "AS701","Verizon Business",192
 "AS12389","PJSC Rostelecom",188
-"AS12555","Data-center IMAQLIQ Ltd.",185
+"AS12555","Data-center IMAQLIQ Ltd.",187
 "AS63199","CDS Global Cloud Co., Ltd",172
 "AS401116","Nybula LLC",170
 "AS29484","Ruhr-Universitaet Bochum",161
