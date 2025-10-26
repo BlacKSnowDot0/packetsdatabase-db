@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87685
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21906
-"AS398324","Censys, Inc.",12942
+"AS398324","Censys, Inc.",12943
 "AS396982","Google LLC",10164
 "AS26210","AXS Bolivia S. A.",7972
 "AS32934","Facebook, Inc.",7811
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",1150
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS36352","HostPapa",1123
+"AS36352","HostPapa",1124
 "AS174","Cogent Communications",1113
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",982
@@ -304,6 +304,7 @@ ASN,Organization,IP_Count
 "AS39603","P4 Sp. z o.o.",18
 "AS400655","NixLabs Networks",18
 "AS4713","NTT Communications Corporation",18
+"AS4816","China Telecom (Group)",18
 "AS56067","Metrabyte Co.,Ltd",18
 "AS136958","China Unicom Guangdong IP network",17
 "AS148981","China Telecom",17
@@ -311,7 +312,6 @@ ASN,Organization,IP_Count
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
 "AS40676","Psychz Networks",17
 "AS45117","Ishan's Network",17
-"AS4816","China Telecom (Group)",17
 "AS50340","JSC Selectel",17
 "AS5384","EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",17
 "AS56630","Melbikomas UAB",17
