@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87685
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21906
-"AS398324","Censys, Inc.",12941
-"AS396982","Google LLC",10163
+"AS398324","Censys, Inc.",12942
+"AS396982","Google LLC",10164
 "AS26210","AXS Bolivia S. A.",7972
-"AS32934","Facebook, Inc.",7801
+"AS32934","Facebook, Inc.",7811
 "AS14061","DigitalOcean, LLC",7731
 "AS16276","OVH SAS",5776
 "AS4134","Chinanet",4974
@@ -54,8 +54,8 @@ ASN,Organization,IP_Count
 "AS51167","Contabo GmbH",603
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
+"AS4837","CHINA UNICOM China169 Backbone",547
 "AS401120","cheapy.host LLC",546
-"AS4837","CHINA UNICOM China169 Backbone",546
 "AS9009","M247 Europe SRL",543
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
@@ -375,6 +375,7 @@ ASN,Organization,IP_Count
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",12
 "AS2637","Georgia Institute of Technology",12
 "AS271597","NEW LINK CONNECT",12
+"AS30860","Virtual Systems LLC",12
 "AS35042","Layer7 Networks GmbH",12
 "AS36992","ETISALAT MISR",12
 "AS38264","Wateen Telecom Limited",12
@@ -393,7 +394,6 @@ ASN,Organization,IP_Count
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
 "AS24812","NPK Home-Net Ltd.",11
 "AS30058","FDCservers.net",11
-"AS30860","Virtual Systems LLC",11
 "AS3243","MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.",11
 "AS328539","Giga for Telecommunication and Technology Limited",11
 "AS3352","TELEFONICA DE ESPANA S.A.U.",11
