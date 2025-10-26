@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87685
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21906
-"AS398324","Censys, Inc.",12943
-"AS396982","Google LLC",10164
+"AS398324","Censys, Inc.",12944
+"AS396982","Google LLC",10165
 "AS26210","AXS Bolivia S. A.",7972
 "AS32934","Facebook, Inc.",7811
 "AS14061","DigitalOcean, LLC",7731
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS13335","Cloudflare, Inc.",773
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS20052","Arbor Networks, Inc.",677
-"AS10439","CariNet, Inc.",613
+"AS10439","CariNet, Inc.",614
 "AS14618","Amazon.com, Inc.",608
 "AS51167","Contabo GmbH",603
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -77,7 +77,7 @@ ASN,Organization,IP_Count
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",319
 "AS7713","Telekomunikasi Indonesia (PT)",317
 "AS214943","Railnet LLC",314
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",308
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",309
 "AS24863","LINKdotNET AS number",307
 "AS210848","Telkom Internet LTD",296
 "AS45899","VNPT Corp",293
@@ -1429,6 +1429,7 @@ ASN,Organization,IP_Count
 "AS13337","e-vergent.com LLC",1
 "AS133660","PRISAC AVIATION TECHNOLOGIES PRIVATE LIMITED",1
 "AS133684","Sun Broadband And Data Services Pvt Ltd",1
+"AS133720","Zess Networks Private Limited",1
 "AS134008","T10 Networks",1
 "AS134128","Mega Speed Net",1
 "AS13428","Surf Air Wireless, LLC",1
