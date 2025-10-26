@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87683
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21904
-"AS398324","Censys, Inc.",12915
+"AS398324","Censys, Inc.",12917
 "AS396982","Google LLC",10159
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7717
@@ -39,7 +39,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1108
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",982
-"AS23470","ReliableSite.Net LLC",976
+"AS23470","ReliableSite.Net LLC",977
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -102,9 +102,9 @@ ASN,Organization,IP_Count
 "AS206264","Amarutu Technology Ltd",153
 "AS7552","Viettel Group",152
 "AS47105","Vault Dweller OU",141
+"AS42237","w1n ltd",129
 "AS50219","LNK SYSTEMS MUNTENIA SRL",129
 "AS137409","GSL Networks Pty LTD",128
-"AS42237","w1n ltd",128
 "AS19905","Neustar Security Services",127
 "AS262551","Farol Telecom",127
 "AS13238","YANDEX LLC",123
@@ -132,8 +132,8 @@ ASN,Organization,IP_Count
 "AS8560","IONOS SE",76
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
+"AS40021","Nubes, LLC",74
 "AS56046","China Mobile Communications Corporation",74
-"AS40021","Nubes, LLC",73
 "AS271795","SERVITELCONET CIA. LTDA.",72
 "AS31898","Oracle Corporation",72
 "AS3920","ESTOXY OU",71
@@ -339,6 +339,7 @@ ASN,Organization,IP_Count
 "AS28201","Companhia Itabirana Telecomunicações Ltda",15
 "AS2914","NTT America, Inc.",15
 "AS31113","Artkomm LLC",15
+"AS3257","GTT Communications Inc.",15
 "AS33363","Charter Communications, Inc",15
 "AS397283","RocketNode Inc",15
 "AS812","Rogers Communications Canada Inc.",15
@@ -349,7 +350,6 @@ ASN,Organization,IP_Count
 "AS27947","Telconet S.A",14
 "AS28126","BRISANET SERVICOS DE TELECOMUNICACOES LTDA",14
 "AS30600","Metronet",14
-"AS3257","GTT Communications Inc.",14
 "AS37457","Telkom SA Ltd.",14
 "AS48721","Flyservers S.A.",14
 "AS6181","Cincinnati Bell Telephone Company LLC",14
