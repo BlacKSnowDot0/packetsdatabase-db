@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87685
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21906
-"AS398324","Censys, Inc.",12938
+"AS398324","Censys, Inc.",12940
 "AS396982","Google LLC",10163
 "AS26210","AXS Bolivia S. A.",7972
+"AS32934","Facebook, Inc.",7769
 "AS14061","DigitalOcean, LLC",7725
-"AS32934","Facebook, Inc.",7705
-"AS16276","OVH SAS",5772
+"AS16276","OVH SAS",5776
 "AS4134","Chinanet",4973
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4435
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1309
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1168
-"AS32475","Internap Holding LLC",1147
+"AS32475","Internap Holding LLC",1148
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS36352","HostPapa",1123
@@ -55,7 +55,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",546
-"AS4837","CHINA UNICOM China169 Backbone",545
+"AS4837","CHINA UNICOM China169 Backbone",546
 "AS9009","M247 Europe SRL",543
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
@@ -92,7 +92,7 @@ ASN,Organization,IP_Count
 "AS209272","Alviva Holding Limited",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
-"AS141718","haoxiangyun",207
+"AS141718","haoxiangyun",208
 "AS701","Verizon Business",192
 "AS12389","PJSC Rostelecom",188
 "AS12555","Data-center IMAQLIQ Ltd.",187
@@ -271,6 +271,7 @@ ASN,Organization,IP_Count
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
+"AS210509","Optimum Line for Internet Services Ltd.",20
 "AS214417","Andrii Hrosh",20
 "AS2856","British Telecommunications PLC",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
@@ -280,7 +281,6 @@ ASN,Organization,IP_Count
 "AS9299","Philippine Long Distance Telephone Co.",20
 "AS12479","Orange Espagne SA",19
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",19
-"AS210509","Optimum Line for Internet Services Ltd.",19
 "AS21127","Joint Stock Company TransTeleCom",19
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",19
 "AS22927","Telefonica de Argentina",19
