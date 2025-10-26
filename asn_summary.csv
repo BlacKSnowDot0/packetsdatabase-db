@@ -2,25 +2,25 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87684
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21905
-"AS398324","Censys, Inc.",12920
-"AS396982","Google LLC",10159
+"AS398324","Censys, Inc.",12922
+"AS396982","Google LLC",10160
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7719
-"AS32934","Facebook, Inc.",6844
-"AS16276","OVH SAS",5764
+"AS32934","Facebook, Inc.",6855
+"AS16276","OVH SAS",5765
 "AS4134","Chinanet",4973
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4435
 "AS16509","Amazon.com, Inc.",4122
 "AS45102","Alibaba (US) Technology Co., Ltd.",3820
-"AS63949","Akamai Technologies, Inc.",3558
+"AS63949","Akamai Technologies, Inc.",3559
 "AS15169","Google LLC",3332
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3092
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2689
 "AS142002","Scloud Pte Ltd",2557
-"AS6939","Hurricane Electric LLC",2438
+"AS6939","Hurricane Electric LLC",2439
 "AS9808","China Mobile",2076
 "AS202425","IP Volume inc",1717
 "AS214295","SKYNET NETWORK LTD",1631
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1309
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1168
-"AS32475","Internap Holding LLC",1143
+"AS32475","Internap Holding LLC",1144
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS36352","HostPapa",1122
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",816
 "AS8452","TE-AS",805
 "AS215925","VPSVAULT.HOST LTD",804
-"AS13335","Cloudflare, Inc.",734
+"AS13335","Cloudflare, Inc.",743
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS20052","Arbor Networks, Inc.",677
 "AS10439","CariNet, Inc.",613
@@ -156,9 +156,9 @@ ASN,Organization,IP_Count
 "AS20278","Nexeon Technologies, Inc.",57
 "AS22773","Cox Communications Inc.",57
 "AS48090","PPTECHNOLOGY LIMITED",56
+"AS8402","PJSC ""Vimpelcom""",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
-"AS8402","PJSC ""Vimpelcom""",55
 "AS213877","u1host ltd",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS23724","IDC, China Telecommunications Corporation",50
