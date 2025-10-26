@@ -2,17 +2,17 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87685
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21905
-"AS398324","Censys, Inc.",12926
-"AS396982","Google LLC",10160
+"AS398324","Censys, Inc.",12928
+"AS396982","Google LLC",10161
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7722
-"AS32934","Facebook, Inc.",6885
+"AS14061","DigitalOcean, LLC",7724
+"AS32934","Facebook, Inc.",6911
 "AS16276","OVH SAS",5768
 "AS4134","Chinanet",4973
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4435
 "AS16509","Amazon.com, Inc.",4132
-"AS45102","Alibaba (US) Technology Co., Ltd.",3822
+"AS45102","Alibaba (US) Technology Co., Ltd.",3823
 "AS63949","Akamai Technologies, Inc.",3559
 "AS15169","Google LLC",3332
 "AS398705","Censys, Inc.",3238
@@ -1326,6 +1326,7 @@ ASN,Organization,IP_Count
 "AS60522","KomMITT-Ratingen GmbH",2
 "AS60631","Pars Parva System LLC",2
 "AS6079","RCN",2
+"AS61317","Hivelocity Inc",2
 "AS6147","Telefonica del Peru S.A.A.",2
 "AS61844","America-NET Ltda.",2
 "AS61877","SELECT TELECOM E REDES LTDA",2
@@ -2711,7 +2712,6 @@ ASN,Organization,IP_Count
 "AS60849","iLevant FZE",1
 "AS61112","AKILE LTD",1
 "AS61163","Global Technologies of Ukraine LLC",1
-"AS61317","Hivelocity Inc",1
 "AS61512","GIG@NET SOCIEDAD ANONIMA",1
 "AS61579","Pgnet Provedor",1
 "AS61583","WDS TELECOM LTDA. ME",1
