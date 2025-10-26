@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87683
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21904
-"AS398324","Censys, Inc.",12914
-"AS396982","Google LLC",10158
+"AS398324","Censys, Inc.",12915
+"AS396982","Google LLC",10159
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7716
+"AS14061","DigitalOcean, LLC",7717
 "AS32934","Facebook, Inc.",6782
 "AS16276","OVH SAS",5764
 "AS4134","Chinanet",4973
@@ -18,13 +18,13 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3092
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2688
+"AS8075","Microsoft Corporation",2689
 "AS142002","Scloud Pte Ltd",2557
 "AS6939","Hurricane Electric LLC",2438
 "AS9808","China Mobile",2076
 "AS202425","IP Volume inc",1717
 "AS214295","SKYNET NETWORK LTD",1631
-"AS0","",1518
+"AS0","",1519
 "AS209605","UAB Host Baltic",1513
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1380
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",677
 "AS10439","CariNet, Inc.",613
 "AS14618","Amazon.com, Inc.",604
-"AS51167","Contabo GmbH",602
+"AS51167","Contabo GmbH",603
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",546
@@ -158,9 +158,9 @@ ASN,Organization,IP_Count
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
+"AS8402","PJSC ""Vimpelcom""",55
 "AS213877","u1host ltd",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
-"AS8402","PJSC ""Vimpelcom""",54
 "AS23724","IDC, China Telecommunications Corporation",50
 "AS19318","Interserver, Inc",49
 "AS20115","Charter Communications",49
