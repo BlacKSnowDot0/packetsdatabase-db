@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87683
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21903
-"AS398324","Censys, Inc.",12903
-"AS396982","Google LLC",10153
+"AS398324","Censys, Inc.",12904
+"AS396982","Google LLC",10155
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7714
+"AS14061","DigitalOcean, LLC",7715
 "AS32934","Facebook, Inc.",6331
 "AS16276","OVH SAS",5764
 "AS4134","Chinanet",4973
@@ -280,6 +280,7 @@ ASN,Organization,IP_Count
 "AS9299","Philippine Long Distance Telephone Co.",20
 "AS12479","Orange Espagne SA",19
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",19
+"AS210509","Optimum Line for Internet Services Ltd.",19
 "AS21127","Joint Stock Company TransTeleCom",19
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",19
 "AS22927","Telefonica de Argentina",19
@@ -296,7 +297,6 @@ ASN,Organization,IP_Count
 "AS14593","Space Exploration Technologies Corporation",18
 "AS17638","ASN for TIANJIN Provincial Net of CT",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
-"AS210509","Optimum Line for Internet Services Ltd.",18
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",18
 "AS23693","PT. Telekomunikasi Selular",18
 "AS24940","Hetzner Online GmbH",18
@@ -2785,6 +2785,7 @@ ASN,Organization,IP_Count
 "AS9129","MTN Business Kenya",1
 "AS9146","BH Telecom d.d. Sarajevo",1
 "AS9155","Quality Net General Trading & Contracting Company",1
+"AS9232","Cloud Information Technology (Intl) Telecom Group LIMITED",1
 "AS9371","SAKURA Internet Inc.",1
 "AS9583","Sify Limited",1
 "AS9617","JCOM Co., Ltd.",1
