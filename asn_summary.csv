@@ -3,16 +3,16 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21905
 "AS398324","Censys, Inc.",12930
-"AS396982","Google LLC",10161
+"AS396982","Google LLC",10162
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7725
-"AS32934","Facebook, Inc.",6998
+"AS32934","Facebook, Inc.",7119
 "AS16276","OVH SAS",5768
 "AS4134","Chinanet",4973
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4435
-"AS16509","Amazon.com, Inc.",4136
-"AS45102","Alibaba (US) Technology Co., Ltd.",3825
+"AS16509","Amazon.com, Inc.",4144
+"AS45102","Alibaba (US) Technology Co., Ltd.",3826
 "AS63949","Akamai Technologies, Inc.",3559
 "AS15169","Google LLC",3332
 "AS398705","Censys, Inc.",3238
@@ -35,22 +35,22 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",1147
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS36352","HostPapa",1122
+"AS36352","HostPapa",1123
 "AS174","Cogent Communications",1109
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",982
-"AS23470","ReliableSite.Net LLC",978
+"AS23470","ReliableSite.Net LLC",979
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",816
 "AS8452","TE-AS",805
 "AS215925","VPSVAULT.HOST LTD",804
-"AS13335","Cloudflare, Inc.",771
+"AS13335","Cloudflare, Inc.",772
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS20052","Arbor Networks, Inc.",677
 "AS10439","CariNet, Inc.",613
-"AS14618","Amazon.com, Inc.",605
+"AS14618","Amazon.com, Inc.",608
 "AS51167","Contabo GmbH",603
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
@@ -102,8 +102,8 @@ ASN,Organization,IP_Count
 "AS206264","Amarutu Technology Ltd",153
 "AS7552","Viettel Group",152
 "AS47105","Vault Dweller OU",141
+"AS50219","LNK SYSTEMS MUNTENIA SRL",130
 "AS42237","w1n ltd",129
-"AS50219","LNK SYSTEMS MUNTENIA SRL",129
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
 "AS262551","Farol Telecom",127
