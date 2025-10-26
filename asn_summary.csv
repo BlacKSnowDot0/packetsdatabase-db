@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87683
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21903
-"AS398324","Censys, Inc.",12891
-"AS396982","Google LLC",10149
+"AS398324","Censys, Inc.",12894
+"AS396982","Google LLC",10150
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7711
+"AS14061","DigitalOcean, LLC",7712
 "AS32934","Facebook, Inc.",6331
 "AS16276","OVH SAS",5764
 "AS4134","Chinanet",4908
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2076
 "AS202425","IP Volume inc",1717
 "AS214295","SKYNET NETWORK LTD",1631
-"AS0","",1514
+"AS0","",1515
 "AS209605","UAB Host Baltic",1513
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1380
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",816
 "AS8452","TE-AS",805
 "AS215925","VPSVAULT.HOST LTD",803
-"AS13335","Cloudflare, Inc.",717
+"AS13335","Cloudflare, Inc.",733
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS20052","Arbor Networks, Inc.",676
 "AS10439","CariNet, Inc.",613
@@ -62,10 +62,10 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",497
 "AS3462","Chunghwa Telecom Co., Ltd.",497
 "AS50360","Tamatiya EOOD",492
-"AS51115","HLL LLC",461
+"AS51115","HLL LLC",462
 "AS212238","Datacamp Limited",455
 "AS53667","FranTech Solutions",444
-"AS9829","Bharat Sanchar Nigam Ltd",414
+"AS9829","Bharat Sanchar Nigam Ltd",415
 "AS21299","Kar-Tel LLC",406
 "AS12876","ONLINE S.A.S.",405
 "AS24186","RailTel Corporation of India Ltd.",404
@@ -86,7 +86,7 @@ ASN,Organization,IP_Count
 "AS8151","Uninet S.A. de C.V.",262
 "AS48090","TECHOFF SRV LIMITED",254
 "AS60223","Netiface Limited",250
-"AS213613","BOTSHIELD LTD",244
+"AS213613","BOTSHIELD LTD",245
 "AS208843","Alpha Strike Labs GmbH",243
 "AS18403","FPT Telecom Company",233
 "AS209272","Alviva Holding Limited",230
@@ -300,6 +300,7 @@ ASN,Organization,IP_Count
 "AS23693","PT. Telekomunikasi Selular",18
 "AS24940","Hetzner Online GmbH",18
 "AS329009","Spectrum Internet Service Ltd",18
+"AS329490","Promethean Consulting Limited",18
 "AS39603","P4 Sp. z o.o.",18
 "AS400655","NixLabs Networks",18
 "AS4713","NTT Communications Corporation",18
@@ -308,7 +309,6 @@ ASN,Organization,IP_Count
 "AS148981","China Telecom",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
-"AS329490","Promethean Consulting Limited",17
 "AS40676","Psychz Networks",17
 "AS45117","Ishan's Network",17
 "AS4816","China Telecom (Group)",17
