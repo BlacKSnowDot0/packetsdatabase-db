@@ -8,7 +8,7 @@ ASN,Organization,IP_Count
 "AS32934","Facebook, Inc.",7811
 "AS14061","DigitalOcean, LLC",7731
 "AS16276","OVH SAS",5776
-"AS4134","Chinanet",4974
+"AS4134","Chinanet",4975
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4435
 "AS16509","Amazon.com, Inc.",4144
@@ -16,7 +16,7 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3559
 "AS15169","Google LLC",3332
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3094
+"AS51396","Pfcloud UG",3095
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2691
 "AS142002","Scloud Pte Ltd",2557
@@ -54,8 +54,8 @@ ASN,Organization,IP_Count
 "AS51167","Contabo GmbH",603
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
+"AS401120","cheapy.host LLC",547
 "AS4837","CHINA UNICOM China169 Backbone",547
-"AS401120","cheapy.host LLC",546
 "AS9009","M247 Europe SRL",543
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
