@@ -6,13 +6,13 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",10160
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7721
-"AS32934","Facebook, Inc.",6870
+"AS32934","Facebook, Inc.",6877
 "AS16276","OVH SAS",5768
 "AS4134","Chinanet",4973
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4435
 "AS16509","Amazon.com, Inc.",4126
-"AS45102","Alibaba (US) Technology Co., Ltd.",3821
+"AS45102","Alibaba (US) Technology Co., Ltd.",3822
 "AS63949","Akamai Technologies, Inc.",3559
 "AS15169","Google LLC",3332
 "AS398705","Censys, Inc.",3238
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1309
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1168
-"AS32475","Internap Holding LLC",1146
+"AS32475","Internap Holding LLC",1147
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS36352","HostPapa",1122
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",816
 "AS8452","TE-AS",805
 "AS215925","VPSVAULT.HOST LTD",804
-"AS13335","Cloudflare, Inc.",762
+"AS13335","Cloudflare, Inc.",771
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS20052","Arbor Networks, Inc.",677
 "AS10439","CariNet, Inc.",613
@@ -317,6 +317,7 @@ ASN,Organization,IP_Count
 "AS56630","Melbikomas UAB",17
 "AS6167","Verizon Business",17
 "AS136142","Enigma Fiber Pvt Ltd",16
+"AS200590","NLS Kazakhstan LLC",16
 "AS24757","EthioNet",16
 "AS25198","INTERKVM HOST SRL",16
 "AS30823","aurologic GmbH",16
@@ -329,7 +330,6 @@ ASN,Organization,IP_Count
 "AS12874","Fastweb SpA",15
 "AS136515","Dasca Cable Services, Inc.",15
 "AS138915","Kaopu Cloud HK Limited",15
-"AS200590","NLS Kazakhstan LLC",15
 "AS202448","MVPS LTD",15
 "AS207713","GLOBAL INTERNET SOLUTIONS LLC",15
 "AS211619","MAXKO d.o.o.",15
@@ -393,6 +393,7 @@ ASN,Organization,IP_Count
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
 "AS24812","NPK Home-Net Ltd.",11
 "AS30058","FDCservers.net",11
+"AS30860","Virtual Systems LLC",11
 "AS3243","MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.",11
 "AS328539","Giga for Telecommunication and Technology Limited",11
 "AS3352","TELEFONICA DE ESPANA S.A.U.",11
@@ -419,7 +420,6 @@ ASN,Organization,IP_Count
 "AS24835","Vodafone Data - Egypt",10
 "AS25019","Saudi Telecom Company JSC",10
 "AS264628","CORPORACION FIBEX TELECOM, C.A.",10
-"AS30860","Virtual Systems LLC",10
 "AS37611","Afrihost (Pty) Ltd",10
 "AS37705","TOPNET",10
 "AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",10
