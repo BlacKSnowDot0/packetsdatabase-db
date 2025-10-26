@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87684
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21905
-"AS398324","Censys, Inc.",12923
+"AS398324","Censys, Inc.",12924
 "AS396982","Google LLC",10160
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7721
@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS4134","Chinanet",4973
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4435
-"AS16509","Amazon.com, Inc.",4122
+"AS16509","Amazon.com, Inc.",4126
 "AS45102","Alibaba (US) Technology Co., Ltd.",3821
 "AS63949","Akamai Technologies, Inc.",3559
 "AS15169","Google LLC",3332
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1309
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1168
-"AS32475","Internap Holding LLC",1145
+"AS32475","Internap Holding LLC",1146
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS36352","HostPapa",1122
@@ -46,11 +46,11 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",816
 "AS8452","TE-AS",805
 "AS215925","VPSVAULT.HOST LTD",804
-"AS13335","Cloudflare, Inc.",743
+"AS13335","Cloudflare, Inc.",746
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS20052","Arbor Networks, Inc.",677
 "AS10439","CariNet, Inc.",613
-"AS14618","Amazon.com, Inc.",604
+"AS14618","Amazon.com, Inc.",605
 "AS51167","Contabo GmbH",603
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS31148","Freenet LTD",558
@@ -1852,6 +1852,7 @@ ASN,Organization,IP_Count
 "AS25921","LUS Fiber",1
 "AS26042","FiberState, LLC",1
 "AS2609","Tunisia BackBone AS",1
+"AS26141","CubePath",1
 "AS262161","COTES Ltda.",1
 "AS262207","Corporacion de Internet, Sociedad Anonima.",1
 "AS26223","Silver Star Communications",1
