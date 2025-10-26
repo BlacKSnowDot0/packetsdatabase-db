@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87683
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21904
-"AS398324","Censys, Inc.",12918
+"AS398324","Censys, Inc.",12920
 "AS396982","Google LLC",10159
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7717
-"AS32934","Facebook, Inc.",6782
+"AS14061","DigitalOcean, LLC",7718
+"AS32934","Facebook, Inc.",6804
 "AS16276","OVH SAS",5764
 "AS4134","Chinanet",4973
 "AS6568","Entel S.A. - EntelNet",4537
@@ -27,7 +27,7 @@ ASN,Organization,IP_Count
 "AS0","",1519
 "AS209605","UAB Host Baltic",1513
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS398722","Censys, Inc.",1380
+"AS398722","Censys, Inc.",1381
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1309
 "AS204428","SS-Net",1182
@@ -122,7 +122,7 @@ ASN,Organization,IP_Count
 "AS205352","KABELNET LTD",89
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS58461","Chinanet",85
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",81
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",83
 "AS16735","ALGAR TELECOM S/A",81
 "AS4766","Korea Telecom",80
 "AS28209","Under Servicos de Internet Ltda",79
@@ -240,12 +240,12 @@ ASN,Organization,IP_Count
 "AS204834","Shabakieh Isfahan Co PJSC",24
 "AS209","CenturyLink Communications, LLC",24
 "AS3269","Telecom Italia S.p.A.",24
+"AS46475","Limestone Networks, Inc.",24
 "AS5089","Virgin Media Limited",24
 "AS55933","Cloudie Limited",24
 "AS60068","Datacamp Limited",24
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",24
 "AS198037","SPACECORE SOLUTION LTD",23
-"AS46475","Limestone Networks, Inc.",23
 "AS55836","Reliance Jio Infocomm Limited",23
 "AS62240","Clouvider Limited",23
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",23
@@ -438,6 +438,7 @@ ASN,Organization,IP_Count
 "AS212504","AdKyNet SAS",9
 "AS213520","Senko Digital Ltd",9
 "AS214481","Wojciech Czapkowicz",9
+"AS215762","Bullet Group LTD",9
 "AS267280","YELLOW CONNECT MULTIMIDIA LTDA ME",9
 "AS3215","Orange S.A.",9
 "AS35297","Dataline LLC",9
@@ -461,7 +462,6 @@ ASN,Organization,IP_Count
 "AS197309","RS-Media LLC",8
 "AS198361","Yaglom Labs Ltd",8
 "AS209956","Telkoturk Iletisim Hizmetleri A.S.",8
-"AS215762","Bullet Group LTD",8
 "AS24955","JSC ""Ufanet""",8
 "AS262459","Osirnet Info Telecom Ltda.",8
 "AS266702","MEGALINK S.R.L.",8
