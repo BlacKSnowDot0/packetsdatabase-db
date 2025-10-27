@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87690
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21914
-"AS398324","Censys, Inc.",12980
+"AS398324","Censys, Inc.",12981
 "AS396982","Google LLC",10173
-"AS32934","Facebook, Inc.",8415
+"AS32934","Facebook, Inc.",8426
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7743
+"AS14061","DigitalOcean, LLC",7744
 "AS16276","OVH SAS",5784
 "AS4134","Chinanet",4983
 "AS6568","Entel S.A. - EntelNet",4537
@@ -35,8 +35,8 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",1161
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS36352","HostPapa",1128
-"AS174","Cogent Communications",1115
+"AS36352","HostPapa",1129
+"AS174","Cogent Communications",1116
 "AS201401","NewVM B.V.",1076
 "AS23470","ReliableSite.Net LLC",1000
 "AS208684","BHA CONSEIL SARL",983
@@ -318,6 +318,7 @@ ASN,Organization,IP_Count
 "AS136958","China Unicom Guangdong IP network",17
 "AS148981","China Telecom",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
+"AS200590","NLS Kazakhstan LLC",17
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
 "AS40676","Psychz Networks",17
 "AS45117","Ishan's Network",17
@@ -326,7 +327,6 @@ ASN,Organization,IP_Count
 "AS852","TELUS Communications Inc.",17
 "AS9269","Hong Kong Broadband Network Ltd",17
 "AS136142","Enigma Fiber Pvt Ltd",16
-"AS200590","NLS Kazakhstan LLC",16
 "AS207713","GLOBAL INTERNET SOLUTIONS LLC",16
 "AS24757","EthioNet",16
 "AS24812","NPK Home-Net Ltd.",16
