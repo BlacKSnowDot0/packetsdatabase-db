@@ -3,7 +3,7 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21909
 "AS398324","Censys, Inc.",12952
-"AS396982","Google LLC",10165
+"AS396982","Google LLC",10166
 "AS26210","AXS Bolivia S. A.",7972
 "AS32934","Facebook, Inc.",7855
 "AS14061","DigitalOcean, LLC",7732
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",816
 "AS8452","TE-AS",805
 "AS215925","VPSVAULT.HOST LTD",804
-"AS13335","Cloudflare, Inc.",793
+"AS13335","Cloudflare, Inc.",796
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS20052","Arbor Networks, Inc.",678
 "AS10439","CariNet, Inc.",615
@@ -172,11 +172,11 @@ ASN,Organization,IP_Count
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
 "AS10796","Charter Communications Inc",45
+"AS149746","PT Blip Integrator Provider",44
 "AS396356","Latitude.sh",44
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
 "AS6128","Cablevision Systems Corp.",44
-"AS149746","PT Blip Integrator Provider",43
 "AS152194","CTG Server Limited",43
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS262378","Compuservice Empreendimentos Ltda",42
