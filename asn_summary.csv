@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87690
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21913
-"AS398324","Censys, Inc.",12972
-"AS396982","Google LLC",10170
+"AS398324","Censys, Inc.",12974
+"AS396982","Google LLC",10171
 "AS32934","Facebook, Inc.",8052
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7740
@@ -38,8 +38,8 @@ ASN,Organization,IP_Count
 "AS36352","HostPapa",1127
 "AS174","Cogent Communications",1115
 "AS201401","NewVM B.V.",1076
+"AS23470","ReliableSite.Net LLC",1000
 "AS208684","BHA CONSEIL SARL",983
-"AS23470","ReliableSite.Net LLC",983
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",498
 "AS50360","Tamatiya EOOD",492
-"AS51115","HLL LLC",462
+"AS51115","HLL LLC",463
 "AS212238","Datacamp Limited",456
 "AS53667","FranTech Solutions",446
 "AS9829","Bharat Sanchar Nigam Ltd",419
@@ -87,7 +87,7 @@ ASN,Organization,IP_Count
 "AS48090","TECHOFF SRV LIMITED",254
 "AS60223","Netiface Limited",250
 "AS18403","FPT Telecom Company",248
-"AS213613","BOTSHIELD LTD",245
+"AS213613","BOTSHIELD LTD",246
 "AS208843","Alpha Strike Labs GmbH",244
 "AS209272","Alviva Holding Limited",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
@@ -109,7 +109,7 @@ ASN,Organization,IP_Count
 "AS262551","Farol Telecom",127
 "AS13238","YANDEX LLC",124
 "AS36007","Kamatera, Inc.",122
-"AS14956","RouterHosting LLC",118
+"AS14956","RouterHosting LLC",119
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS29066","velia.net Internetdienste GmbH",111
 "AS208287","DC Host INC",110
@@ -284,6 +284,7 @@ ASN,Organization,IP_Count
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
 "AS210509","Optimum Line for Internet Services Ltd.",20
+"AS212913","FOP Hornostay Mykhaylo Ivanovych",20
 "AS214417","Andrii Hrosh",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS43641","SOLLUTIUM EU Sp z.o.o.",20
@@ -291,7 +292,6 @@ ASN,Organization,IP_Count
 "AS14593","Space Exploration Technologies Corporation",19
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",19
 "AS21127","Joint Stock Company TransTeleCom",19
-"AS212913","FOP Hornostay Mykhaylo Ivanovych",19
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",19
 "AS22927","Telefonica de Argentina",19
 "AS24348","CERNET2 IX at Tsinghua University",19
@@ -2925,6 +2925,7 @@ ASN,Organization,IP_Count
 "AS7992","Cogeco Connexion Inc.",1
 "AS8100","QuadraNet Enterprises LLC",1
 "AS8290","Slovanet a.s.",1
+"AS8331","JSC ""ER-Telecom Holding""",1
 "AS834","IPXO LLC",1
 "AS8369","Intersvyaz-2 JSC",1
 "AS8374","Polkomtel Sp. z o.o.",1
