@@ -1,5 +1,5 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87688
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87689
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21913
 "AS398324","Censys, Inc.",12969
@@ -7,12 +7,12 @@ ASN,Organization,IP_Count
 "AS32934","Facebook, Inc.",8052
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7738
-"AS16276","OVH SAS",5783
+"AS16276","OVH SAS",5784
 "AS4134","Chinanet",4982
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4436
 "AS16509","Amazon.com, Inc.",4155
-"AS45102","Alibaba (US) Technology Co., Ltd.",3836
+"AS45102","Alibaba (US) Technology Co., Ltd.",3837
 "AS63949","Akamai Technologies, Inc.",3561
 "AS15169","Google LLC",3335
 "AS398705","Censys, Inc.",3238
@@ -758,6 +758,7 @@ ASN,Organization,IP_Count
 "AS52401","CABLESAT TV SRL",4
 "AS52777","BR27 Serviços de Tecnologia Ltda.",4
 "AS52941","SPACE NETWORK",4
+"AS53449","OEC Fiber",4
 "AS5416","BEYON B.S.C.",4
 "AS5603","Telekom Slovenije, d.d.",4
 "AS58369","PT. Fiber Networks Indonesia",4
@@ -948,7 +949,6 @@ ASN,Organization,IP_Count
 "AS52041","Scaleblade, Ltd.",3
 "AS52436","Cable Televisora Color",3
 "AS52783","ALCANS TELECOM LTDA",3
-"AS53449","OEC Fiber",3
 "AS55685","PT Jala Lintas Media",3
 "AS56400","SPD Chernega Aleksandr Anatolevich",3
 "AS56478","Hyperoptic Ltd",3
