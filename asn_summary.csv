@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87690
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21913
-"AS398324","Censys, Inc.",12971
+"AS398324","Censys, Inc.",12972
 "AS396982","Google LLC",10170
 "AS32934","Facebook, Inc.",8052
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7739
+"AS14061","DigitalOcean, LLC",7740
 "AS16276","OVH SAS",5784
 "AS4134","Chinanet",4982
 "AS6568","Entel S.A. - EntelNet",4537
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4155
 "AS45102","Alibaba (US) Technology Co., Ltd.",3837
 "AS63949","Akamai Technologies, Inc.",3561
-"AS15169","Google LLC",3335
+"AS15169","Google LLC",3336
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3099
 "AS213412","ONYPHE SAS",2795
@@ -27,7 +27,7 @@ ASN,Organization,IP_Count
 "AS0","",1528
 "AS209605","UAB Host Baltic",1515
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS398722","Censys, Inc.",1382
+"AS398722","Censys, Inc.",1383
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1310
 "AS204428","SS-Net",1182
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
-"AS13335","Cloudflare, Inc.",817
+"AS13335","Cloudflare, Inc.",820
 "AS208046","ColocationX Ltd.",816
 "AS215925","VPSVAULT.HOST LTD",805
 "AS8452","TE-AS",805
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",679
 "AS10439","CariNet, Inc.",617
 "AS14618","Amazon.com, Inc.",608
-"AS51167","Contabo GmbH",604
+"AS51167","Contabo GmbH",605
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",569
 "AS31148","Freenet LTD",558
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS212238","Datacamp Limited",456
 "AS53667","FranTech Solutions",446
 "AS9829","Bharat Sanchar Nigam Ltd",419
-"AS12876","ONLINE S.A.S.",410
+"AS12876","ONLINE S.A.S.",411
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -342,6 +342,7 @@ ASN,Organization,IP_Count
 "AS138915","Kaopu Cloud HK Limited",15
 "AS15704","XTRA TELECOM S.A.",15
 "AS16591","Google Fiber Inc.",15
+"AS199414","Noah Kolossa",15
 "AS202448","MVPS LTD",15
 "AS211619","MAXKO d.o.o.",15
 "AS24151","China Internet Network Infomation Center",15
@@ -355,7 +356,6 @@ ASN,Organization,IP_Count
 "AS6849","JSC ""Ukrtelecom""",15
 "AS140726","China Unicom",14
 "AS19901","Brightspeed",14
-"AS199414","Noah Kolossa",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS27947","Telconet S.A",14
 "AS30600","Metronet",14
