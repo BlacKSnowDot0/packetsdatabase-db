@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2692
 "AS142002","Scloud Pte Ltd",2557
-"AS6939","Hurricane Electric LLC",2441
+"AS6939","Hurricane Electric LLC",2442
 "AS9808","China Mobile",2077
 "AS202425","IP Volume inc",1717
 "AS214295","SKYNET NETWORK LTD",1631
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",1153
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS36352","HostPapa",1125
+"AS36352","HostPapa",1126
 "AS174","Cogent Communications",1114
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",982
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",816
 "AS8452","TE-AS",805
 "AS215925","VPSVAULT.HOST LTD",804
-"AS13335","Cloudflare, Inc.",796
+"AS13335","Cloudflare, Inc.",798
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS20052","Arbor Networks, Inc.",678
 "AS10439","CariNet, Inc.",615
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",462
 "AS212238","Datacamp Limited",455
 "AS53667","FranTech Solutions",446
-"AS9829","Bharat Sanchar Nigam Ltd",417
+"AS9829","Bharat Sanchar Nigam Ltd",418
 "AS12876","ONLINE S.A.S.",409
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
@@ -933,6 +933,7 @@ ASN,Organization,IP_Count
 "AS58715","Earth Telecommunication ( pvt ) Limited",3
 "AS59497","Buknet LLC",3
 "AS6057","Administracion Nacional de Telecomunicaciones",3
+"AS61317","Hivelocity Inc",3
 "AS61908","Nova Net Telecomunicações Ltda",3
 "AS63139","BEDGE CO LIMITED",3
 "AS63508","PT DINAMIKA MEDIAKOM",3
@@ -1368,7 +1369,6 @@ ASN,Organization,IP_Count
 "AS60522","KomMITT-Ratingen GmbH",2
 "AS60631","Pars Parva System LLC",2
 "AS6079","RCN",2
-"AS61317","Hivelocity Inc",2
 "AS6147","Telefonica del Peru S.A.A.",2
 "AS61844","America-NET Ltda.",2
 "AS61877","SELECT TELECOM E REDES LTDA",2
