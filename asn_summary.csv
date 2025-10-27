@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",21910
 "AS398324","Censys, Inc.",12963
 "AS396982","Google LLC",10168
-"AS32934","Facebook, Inc.",7997
+"AS32934","Facebook, Inc.",8019
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7737
 "AS16276","OVH SAS",5783
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4155
 "AS45102","Alibaba (US) Technology Co., Ltd.",3836
 "AS63949","Akamai Technologies, Inc.",3561
-"AS15169","Google LLC",3334
+"AS15169","Google LLC",3335
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3099
 "AS213412","ONYPHE SAS",2795
@@ -43,8 +43,8 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
+"AS13335","Cloudflare, Inc.",817
 "AS208046","ColocationX Ltd.",816
-"AS13335","Cloudflare, Inc.",805
 "AS8452","TE-AS",805
 "AS215925","VPSVAULT.HOST LTD",804
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
