@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87690
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21913
-"AS398324","Censys, Inc.",12974
+"AS398324","Censys, Inc.",12975
 "AS396982","Google LLC",10171
-"AS32934","Facebook, Inc.",8072
+"AS32934","Facebook, Inc.",8293
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7741
 "AS16276","OVH SAS",5784
@@ -41,9 +41,9 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",1000
 "AS208684","BHA CONSEIL SARL",983
 "AS51852","Private Layer INC",907
+"AS13335","Cloudflare, Inc.",860
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
-"AS13335","Cloudflare, Inc.",820
 "AS208046","ColocationX Ltd.",816
 "AS215925","VPSVAULT.HOST LTD",805
 "AS8452","TE-AS",805
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",679
 "AS10439","CariNet, Inc.",617
 "AS14618","Amazon.com, Inc.",608
-"AS51167","Contabo GmbH",606
+"AS51167","Contabo GmbH",607
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",569
 "AS31148","Freenet LTD",558
@@ -103,7 +103,7 @@ ASN,Organization,IP_Count
 "AS206264","Amarutu Technology Ltd",153
 "AS47105","Vault Dweller OU",141
 "AS50219","LNK SYSTEMS MUNTENIA SRL",131
-"AS42237","w1n ltd",129
+"AS42237","w1n ltd",130
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
 "AS262551","Farol Telecom",127
@@ -1380,6 +1380,7 @@ ASN,Organization,IP_Count
 "AS56272","Pulse Telesystems Pvt Ltd",2
 "AS56465","Therecom Ltd",2
 "AS56607","Privately owned entrepreneur Chabanov Andrey Alexandrovich",2
+"AS57043","HOSTKEY B.V.",2
 "AS57494","Adman LLC",2
 "AS58291","ColoCenter b.v.",2
 "AS58309","Langate Ltd",2
@@ -2821,7 +2822,6 @@ ASN,Organization,IP_Count
 "AS56833","mieX GmbH",1
 "AS56835","SPD Polyudov Aleksandr Igorevich",1
 "AS5690","Vianet Inc.",1
-"AS57043","HOSTKEY B.V.",1
 "AS57121","Piotr Bukowczyk trading as IT Systematic Group",1
 "AS57141","TELWAN SAS",1
 "AS57197","Shaporenko Yuri Nikolaevich",1
