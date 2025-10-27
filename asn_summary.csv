@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87688
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21910
-"AS398324","Censys, Inc.",12963
+"AS398324","Censys, Inc.",12965
 "AS396982","Google LLC",10168
-"AS32934","Facebook, Inc.",8019
+"AS32934","Facebook, Inc.",8052
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7737
+"AS14061","DigitalOcean, LLC",7738
 "AS16276","OVH SAS",5783
 "AS4134","Chinanet",4979
 "AS6568","Entel S.A. - EntelNet",4537
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1310
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1168
-"AS32475","Internap Holding LLC",1159
+"AS32475","Internap Holding LLC",1160
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS36352","HostPapa",1127
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",462
 "AS212238","Datacamp Limited",456
 "AS53667","FranTech Solutions",446
-"AS9829","Bharat Sanchar Nigam Ltd",418
+"AS9829","Bharat Sanchar Nigam Ltd",419
 "AS12876","ONLINE S.A.S.",410
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
@@ -102,7 +102,7 @@ ASN,Organization,IP_Count
 "AS29484","Ruhr-Universitaet Bochum",162
 "AS206264","Amarutu Technology Ltd",153
 "AS47105","Vault Dweller OU",141
-"AS50219","LNK SYSTEMS MUNTENIA SRL",130
+"AS50219","LNK SYSTEMS MUNTENIA SRL",131
 "AS42237","w1n ltd",129
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
@@ -186,8 +186,8 @@ ASN,Organization,IP_Count
 "AS21928","T-Mobile USA, Inc.",40
 "AS23969","TOT Public Company Limited",40
 "AS27699","TELEFÔNICA BRASIL S.A",39
+"AS200514","KnownSRV Ltd.",38
 "AS26599","TELEFÔNICA BRASIL S.A",38
-"AS200514","KnownSRV Ltd.",37
 "AS210558","1337 Services GmbH",36
 "AS30633","Leaseweb USA, Inc.",36
 "AS42624","Global-Data System IT Corporation",36
@@ -1721,6 +1721,7 @@ ASN,Organization,IP_Count
 "AS18678","INTERNEXA S.A. E.S.P",1
 "AS18731","Cityside Fiber",1
 "AS18734","Operbes, S.A. de C.V.",1
+"AS18779","EGIHosting",1
 "AS18785","Santel Communications Cooperative, Inc.",1
 "AS18859","GVEC.net, LLC",1
 "AS1897","NOS COMUNICACOES, S.A.",1
