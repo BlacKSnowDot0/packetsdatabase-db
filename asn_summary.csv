@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87688
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21910
-"AS398324","Censys, Inc.",12960
+"AS398324","Censys, Inc.",12961
 "AS396982","Google LLC",10168
 "AS32934","Facebook, Inc.",7997
 "AS26210","AXS Bolivia S. A.",7972
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4436
 "AS16509","Amazon.com, Inc.",4154
-"AS45102","Alibaba (US) Technology Co., Ltd.",3832
+"AS45102","Alibaba (US) Technology Co., Ltd.",3836
 "AS63949","Akamai Technologies, Inc.",3561
 "AS15169","Google LLC",3334
 "AS398705","Censys, Inc.",3238
@@ -1286,6 +1286,7 @@ ASN,Organization,IP_Count
 "AS44327","DELTA COMM LLC",2
 "AS44387","PE Radashevsky Sergiy Oleksandrovich",2
 "AS44391","JSC Elektrosvyaz",2
+"AS44486","Oliver Horscht is trading as ""SYNLINQ""",2
 "AS44558","Netonline Bilisim Sirketi LTD",2
 "AS44724","Octopusnet LTD",2
 "AS44803","Webdock.io ApS",2
@@ -2582,7 +2583,6 @@ ASN,Organization,IP_Count
 "AS43940","Drustvo za telekomunikacije ""MTEL"" DOO",1
 "AS44066","firstcolo GmbH",1
 "AS44482","TOV ""TRK Radioservice""",1
-"AS44486","Oliver Horscht is trading as ""SYNLINQ""",1
 "AS44668","Zubko Volodymyr Viktorovych",1
 "AS44695","FOP Markovskiy Denis Vadimovich",1
 "AS44882","Vsevnet Ltd.",1
