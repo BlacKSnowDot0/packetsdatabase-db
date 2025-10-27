@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87687
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
-"AS211298","Driftnet Ltd",21909
-"AS398324","Censys, Inc.",12955
+"AS211298","Driftnet Ltd",21910
+"AS398324","Censys, Inc.",12956
 "AS396982","Google LLC",10167
 "AS26210","AXS Bolivia S. A.",7972
-"AS32934","Facebook, Inc.",7943
+"AS32934","Facebook, Inc.",7954
 "AS14061","DigitalOcean, LLC",7734
 "AS16276","OVH SAS",5778
 "AS4134","Chinanet",4979
@@ -13,12 +13,12 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4435
 "AS16509","Amazon.com, Inc.",4154
 "AS45102","Alibaba (US) Technology Co., Ltd.",3829
-"AS63949","Akamai Technologies, Inc.",3560
+"AS63949","Akamai Technologies, Inc.",3561
 "AS15169","Google LLC",3332
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3098
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2692
+"AS8075","Microsoft Corporation",2693
 "AS142002","Scloud Pte Ltd",2557
 "AS6939","Hurricane Electric LLC",2444
 "AS9808","China Mobile",2077
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1310
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1168
-"AS32475","Internap Holding LLC",1155
+"AS32475","Internap Holding LLC",1156
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS36352","HostPapa",1126
@@ -77,7 +77,7 @@ ASN,Organization,IP_Count
 "AS47890","UNMANAGED LTD",341
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",319
 "AS214943","Railnet LLC",314
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",309
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",310
 "AS24863","LINKdotNET AS number",307
 "AS210848","Telkom Internet LTD",296
 "AS45899","VNPT Corp",293
@@ -87,7 +87,7 @@ ASN,Organization,IP_Count
 "AS48090","TECHOFF SRV LIMITED",254
 "AS60223","Netiface Limited",250
 "AS213613","BOTSHIELD LTD",245
-"AS208843","Alpha Strike Labs GmbH",243
+"AS208843","Alpha Strike Labs GmbH",244
 "AS18403","FPT Telecom Company",233
 "AS209272","Alviva Holding Limited",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
@@ -226,12 +226,12 @@ ASN,Organization,IP_Count
 "AS146817","Hubei Feixun Network Co., Ltd",27
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
+"AS12322","Free SAS",26
 "AS12912","T-Mobile Polska S.A.",26
 "AS2200","Renater",26
 "AS3209","Vodafone GmbH",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS1103","SURF B.V.",25
-"AS12322","Free SAS",25
 "AS3269","Telecom Italia S.p.A.",25
 "AS53118","NETLINE TELECOM",25
 "AS58224","Iran Telecommunication Company PJS",25
@@ -422,6 +422,7 @@ ASN,Organization,IP_Count
 "AS149359","PT Persada Data Multimedia",10
 "AS153443","VPSRE.NET LLC",10
 "AS202520","SkyPass Solutions Sp. z.o.o.",10
+"AS215762","Bullet Group LTD",10
 "AS24547","China Mobile",10
 "AS24835","Vodafone Data - Egypt",10
 "AS25019","Saudi Telecom Company JSC",10
@@ -447,7 +448,6 @@ ASN,Organization,IP_Count
 "AS212504","AdKyNet SAS",9
 "AS213520","Senko Digital Ltd",9
 "AS214481","Wojciech Czapkowicz",9
-"AS215762","Bullet Group LTD",9
 "AS267280","YELLOW CONNECT MULTIMIDIA LTDA ME",9
 "AS328471","HERO TELECOMS (PTY) LTD",9
 "AS36903","Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",9
