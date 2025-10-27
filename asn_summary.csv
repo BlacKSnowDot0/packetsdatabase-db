@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87687
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21909
-"AS398324","Censys, Inc.",12952
+"AS398324","Censys, Inc.",12953
 "AS396982","Google LLC",10167
 "AS26210","AXS Bolivia S. A.",7972
 "AS32934","Facebook, Inc.",7855
-"AS14061","DigitalOcean, LLC",7732
+"AS14061","DigitalOcean, LLC",7733
 "AS16276","OVH SAS",5778
 "AS4134","Chinanet",4979
 "AS6568","Entel S.A. - EntelNet",4537
@@ -16,7 +16,7 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3559
 "AS15169","Google LLC",3332
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3097
+"AS51396","Pfcloud UG",3098
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2692
 "AS142002","Scloud Pte Ltd",2557
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",816
 "AS8452","TE-AS",805
 "AS215925","VPSVAULT.HOST LTD",804
-"AS13335","Cloudflare, Inc.",798
+"AS13335","Cloudflare, Inc.",799
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS20052","Arbor Networks, Inc.",678
 "AS10439","CariNet, Inc.",616
@@ -111,8 +111,8 @@ ASN,Organization,IP_Count
 "AS36007","Kamatera, Inc.",122
 "AS14956","RouterHosting LLC",117
 "AS211298","Constantine Cybersecurity Ltd.",113
+"AS29066","velia.net Internetdienste GmbH",111
 "AS208287","DC Host INC",110
-"AS29066","velia.net Internetdienste GmbH",106
 "AS28573","Claro NXT Telecomunicacoes Ltda",105
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",102
 "AS47331","TTNet A.S.",101
