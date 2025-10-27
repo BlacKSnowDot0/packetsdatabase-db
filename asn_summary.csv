@@ -16,10 +16,10 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3561
 "AS15169","Google LLC",3332
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3098
+"AS51396","Pfcloud UG",3099
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2693
-"AS142002","Scloud Pte Ltd",2557
+"AS142002","Scloud Pte Ltd",2558
 "AS6939","Hurricane Electric LLC",2444
 "AS9808","China Mobile",2077
 "AS202425","IP Volume inc",1718
@@ -39,7 +39,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1114
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",982
-"AS23470","ReliableSite.Net LLC",981
+"AS23470","ReliableSite.Net LLC",982
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -161,8 +161,8 @@ ASN,Organization,IP_Count
 "AS206092","Internet Utilities Europe and Asia Limited",55
 "AS213877","u1host ltd",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
+"AS23724","IDC, China Telecommunications Corporation",51
 "AS20115","Charter Communications",50
-"AS23724","IDC, China Telecommunications Corporation",50
 "AS19318","Interserver, Inc",49
 "AS210644","AEZA INTERNATIONAL LTD",49
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",49
