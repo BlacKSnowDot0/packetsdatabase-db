@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87687
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21910
-"AS398324","Censys, Inc.",12957
+"AS398324","Censys, Inc.",12958
 "AS396982","Google LLC",10168
-"AS32934","Facebook, Inc.",7975
+"AS32934","Facebook, Inc.",7986
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7735
 "AS16276","OVH SAS",5780
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2693
 "AS142002","Scloud Pte Ltd",2558
-"AS6939","Hurricane Electric LLC",2445
+"AS6939","Hurricane Electric LLC",2446
 "AS9808","China Mobile",2077
 "AS202425","IP Volume inc",1718
 "AS214295","SKYNET NETWORK LTD",1631
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1310
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1168
-"AS32475","Internap Holding LLC",1156
+"AS32475","Internap Holding LLC",1157
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS36352","HostPapa",1127
@@ -45,8 +45,8 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",816
 "AS8452","TE-AS",805
+"AS13335","Cloudflare, Inc.",804
 "AS215925","VPSVAULT.HOST LTD",804
-"AS13335","Cloudflare, Inc.",801
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS20052","Arbor Networks, Inc.",679
 "AS10439","CariNet, Inc.",616
@@ -107,7 +107,7 @@ ASN,Organization,IP_Count
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
 "AS262551","Farol Telecom",127
-"AS13238","YANDEX LLC",123
+"AS13238","YANDEX LLC",124
 "AS36007","Kamatera, Inc.",122
 "AS14956","RouterHosting LLC",117
 "AS211298","Constantine Cybersecurity Ltd.",113
