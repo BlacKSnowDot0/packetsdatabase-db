@@ -2,16 +2,16 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87687
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21909
-"AS398324","Censys, Inc.",12954
+"AS398324","Censys, Inc.",12955
 "AS396982","Google LLC",10167
 "AS26210","AXS Bolivia S. A.",7972
-"AS32934","Facebook, Inc.",7855
-"AS14061","DigitalOcean, LLC",7733
+"AS32934","Facebook, Inc.",7943
+"AS14061","DigitalOcean, LLC",7734
 "AS16276","OVH SAS",5778
 "AS4134","Chinanet",4979
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4435
-"AS16509","Amazon.com, Inc.",4144
+"AS16509","Amazon.com, Inc.",4154
 "AS45102","Alibaba (US) Technology Co., Ltd.",3829
 "AS63949","Akamai Technologies, Inc.",3560
 "AS15169","Google LLC",3332
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2692
 "AS142002","Scloud Pte Ltd",2557
-"AS6939","Hurricane Electric LLC",2443
+"AS6939","Hurricane Electric LLC",2444
 "AS9808","China Mobile",2077
 "AS202425","IP Volume inc",1718
 "AS214295","SKYNET NETWORK LTD",1631
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1310
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1168
-"AS32475","Internap Holding LLC",1154
+"AS32475","Internap Holding LLC",1155
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS36352","HostPapa",1126
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",816
 "AS8452","TE-AS",805
 "AS215925","VPSVAULT.HOST LTD",804
-"AS13335","Cloudflare, Inc.",800
+"AS13335","Cloudflare, Inc.",801
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS20052","Arbor Networks, Inc.",679
 "AS10439","CariNet, Inc.",616
@@ -99,7 +99,7 @@ ASN,Organization,IP_Count
 "AS7552","Viettel Group",176
 "AS63199","CDS Global Cloud Co., Ltd",172
 "AS401116","Nybula LLC",170
-"AS29484","Ruhr-Universitaet Bochum",161
+"AS29484","Ruhr-Universitaet Bochum",162
 "AS206264","Amarutu Technology Ltd",153
 "AS47105","Vault Dweller OU",141
 "AS50219","LNK SYSTEMS MUNTENIA SRL",130
