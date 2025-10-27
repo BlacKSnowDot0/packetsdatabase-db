@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4154
 "AS45102","Alibaba (US) Technology Co., Ltd.",3829
 "AS63949","Akamai Technologies, Inc.",3561
-"AS15169","Google LLC",3332
+"AS15169","Google LLC",3334
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3099
 "AS213412","ONYPHE SAS",2795
@@ -162,8 +162,8 @@ ASN,Organization,IP_Count
 "AS213877","u1host ltd",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS23724","IDC, China Telecommunications Corporation",51
+"AS19318","Interserver, Inc",50
 "AS20115","Charter Communications",50
-"AS19318","Interserver, Inc",49
 "AS210644","AEZA INTERNATIONAL LTD",49
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",49
 "AS20001","Charter Communications Inc",48
@@ -384,6 +384,7 @@ ASN,Organization,IP_Count
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",12
 "AS2637","Georgia Institute of Technology",12
 "AS271597","NEW LINK CONNECT",12
+"AS30058","FDCservers.net",12
 "AS3215","Orange S.A.",12
 "AS3243","MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.",12
 "AS35042","Layer7 Networks GmbH",12
@@ -404,7 +405,6 @@ ASN,Organization,IP_Count
 "AS206804","EstNOC OY",11
 "AS2116","GLOBALCONNECT AS",11
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
-"AS30058","FDCservers.net",11
 "AS35297","Dataline LLC",11
 "AS37611","Afrihost (Pty) Ltd",11
 "AS39351","31173 Services AB",11
