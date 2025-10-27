@@ -20,11 +20,11 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2693
 "AS142002","Scloud Pte Ltd",2558
-"AS6939","Hurricane Electric LLC",2444
+"AS6939","Hurricane Electric LLC",2445
 "AS9808","China Mobile",2077
 "AS202425","IP Volume inc",1718
 "AS214295","SKYNET NETWORK LTD",1631
-"AS0","",1525
+"AS0","",1526
 "AS209605","UAB Host Baltic",1514
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1382
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",1156
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS36352","HostPapa",1126
+"AS36352","HostPapa",1127
 "AS174","Cogent Communications",1114
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",982
@@ -1256,7 +1256,6 @@ ASN,Organization,IP_Count
 "AS393238","ImOn Communications, LLC",2
 "AS39397","Metronet LLC",2
 "AS39421","Sapinet SAS",2
-"AS395201","Allnodes Inc",2
 "AS395379","SCI REMC",2
 "AS395570","Beanfield Technologies Inc.",2
 "AS395839","HOSTKEY",2
@@ -2507,6 +2506,7 @@ ASN,Organization,IP_Count
 "AS395011","City and County of San Francisco",1
 "AS395035","LiveOak Fiber",1
 "AS395165","Madison Telephone LLC",1
+"AS395201","Allnodes Inc",1
 "AS39529","Osipenko Alexander Nikolaevich",1
 "AS396073","Majestic Hosting Solutions, LLC",1
 "AS396420","Valley Fiber Ltd.",1
