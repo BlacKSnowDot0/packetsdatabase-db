@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",21922
 "AS398324","Censys, Inc.",13020
 "AS396982","Google LLC",10184
-"AS32934","Facebook, Inc.",9253
+"AS32934","Facebook, Inc.",9305
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7753
 "AS16276","OVH SAS",5788
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4436
 "AS16509","Amazon.com, Inc.",4167
 "AS45102","Alibaba (US) Technology Co., Ltd.",3838
-"AS63949","Akamai Technologies, Inc.",3562
+"AS63949","Akamai Technologies, Inc.",3563
 "AS15169","Google LLC",3342
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3101
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1310
 "AS204428","SS-Net",1182
-"AS32475","Internap Holding LLC",1175
+"AS32475","Internap Holding LLC",1176
 "AS22552","eSited Solutions",1168
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS212238","Datacamp Limited",456
 "AS53667","FranTech Solutions",448
 "AS9829","Bharat Sanchar Nigam Ltd",419
-"AS12876","ONLINE S.A.S.",415
+"AS12876","ONLINE S.A.S.",416
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -490,6 +490,7 @@ ASN,Organization,IP_Count
 "AS5483","Magyar Telekom plc.",8
 "AS56041","China Mobile Communications Corporation",8
 "AS6698","Virtual Systems LLC",8
+"AS6739","VODAFONE ONO, S.A.",8
 "AS7418","TELEFÓNICA CHILE S.A.",8
 "AS8386","VODAFONE NET ILETISIM HIZMETLERI ANONIM SIRKETI",8
 "AS133661","Netplus Broadband Services Private Limited",7
@@ -527,7 +528,6 @@ ASN,Organization,IP_Count
 "AS62068","SpectraIP B.V.",7
 "AS63023","GTHost",7
 "AS63838","Hengyang",7
-"AS6739","VODAFONE ONO, S.A.",7
 "AS8764","Telia Lietuva, AB",7
 "AS9541","Cyber Internet Services (Private) Limited",7
 "AS9658","Eastern Telecommunications Philippines, Inc.",7
