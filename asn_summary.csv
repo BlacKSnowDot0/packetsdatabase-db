@@ -4,15 +4,15 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",21921
 "AS398324","Censys, Inc.",13014
 "AS396982","Google LLC",10182
-"AS32934","Facebook, Inc.",9189
+"AS32934","Facebook, Inc.",9222
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7750
+"AS14061","DigitalOcean, LLC",7751
 "AS16276","OVH SAS",5788
 "AS4134","Chinanet",4983
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4436
 "AS16509","Amazon.com, Inc.",4163
-"AS45102","Alibaba (US) Technology Co., Ltd.",3837
+"AS45102","Alibaba (US) Technology Co., Ltd.",3838
 "AS63949","Akamai Technologies, Inc.",3562
 "AS15169","Google LLC",3342
 "AS398705","Censys, Inc.",3238
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1310
 "AS204428","SS-Net",1182
-"AS32475","Internap Holding LLC",1173
+"AS32475","Internap Holding LLC",1174
 "AS22552","eSited Solutions",1168
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",682
 "AS10439","CariNet, Inc.",618
 "AS14618","Amazon.com, Inc.",612
-"AS51167","Contabo GmbH",611
+"AS51167","Contabo GmbH",612
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",571
 "AS31148","Freenet LTD",558
@@ -78,7 +78,7 @@ ASN,Organization,IP_Count
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",321
 "AS214943","Railnet LLC",315
 "AS45899","VNPT Corp",315
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",313
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",314
 "AS24863","LINKdotNET AS number",307
 "AS8151","Uninet S.A. de C.V.",300
 "AS9341","PT Indonesia Comnets Plus",297
@@ -271,6 +271,7 @@ ASN,Organization,IP_Count
 "AS138886","PT Data Buana Nusantara",21
 "AS17561","Larus Limited",21
 "AS17816","China Unicom IP network China169 Guangdong province",21
+"AS21127","Joint Stock Company TransTeleCom",21
 "AS214668","AxusHost B.V.",21
 "AS2856","British Telecommunications PLC",21
 "AS3320","Deutsche Telekom AG",21
@@ -284,7 +285,6 @@ ASN,Organization,IP_Count
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
 "AS210509","Optimum Line for Internet Services Ltd.",20
-"AS21127","Joint Stock Company TransTeleCom",20
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",20
 "AS214417","Andrii Hrosh",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
