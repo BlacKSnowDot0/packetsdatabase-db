@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87690
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21921
-"AS398324","Censys, Inc.",13012
+"AS398324","Censys, Inc.",13014
 "AS396982","Google LLC",10182
 "AS32934","Facebook, Inc.",9146
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7749
-"AS16276","OVH SAS",5787
+"AS14061","DigitalOcean, LLC",7750
+"AS16276","OVH SAS",5788
 "AS4134","Chinanet",4983
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4436
@@ -102,7 +102,7 @@ ASN,Organization,IP_Count
 "AS29484","Ruhr-Universitaet Bochum",162
 "AS206264","Amarutu Technology Ltd",153
 "AS47105","Vault Dweller OU",141
-"AS50219","LNK SYSTEMS MUNTENIA SRL",131
+"AS50219","LNK SYSTEMS MUNTENIA SRL",132
 "AS42237","w1n ltd",130
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
@@ -284,6 +284,7 @@ ASN,Organization,IP_Count
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
 "AS210509","Optimum Line for Internet Services Ltd.",20
+"AS21127","Joint Stock Company TransTeleCom",20
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",20
 "AS214417","Andrii Hrosh",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
@@ -291,7 +292,6 @@ ASN,Organization,IP_Count
 "AS11426","Charter Communications Inc",19
 "AS14593","Space Exploration Technologies Corporation",19
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",19
-"AS21127","Joint Stock Company TransTeleCom",19
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",19
 "AS22927","Telefonica de Argentina",19
 "AS24348","CERNET2 IX at Tsinghua University",19
