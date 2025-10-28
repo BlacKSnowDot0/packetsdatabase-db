@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",21916
 "AS398324","Censys, Inc.",12990
 "AS396982","Google LLC",10177
-"AS32934","Facebook, Inc.",8444
+"AS32934","Facebook, Inc.",8488
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7746
 "AS16276","OVH SAS",5787
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",1168
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS36352","HostPapa",1131
+"AS36352","HostPapa",1132
 "AS174","Cogent Communications",1116
 "AS201401","NewVM B.V.",1076
 "AS23470","ReliableSite.Net LLC",1003
@@ -2715,6 +2715,7 @@ ASN,Organization,IP_Count
 "AS50482","JSC Kazakhtelecom",1
 "AS50542","JSC ""ER-Telecom Holding""",1
 "AS50581","Ukrainian Telecommunication Group LLC",1
+"AS50590","PE ""NETBERRY""",1
 "AS50772","Ukrtranstelecom tc, ltd",1
 "AS51010","National Agency of Public Registry",1
 "AS51028","Zummer LLC",1
