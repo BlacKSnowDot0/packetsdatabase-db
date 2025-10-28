@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87690
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21922
-"AS398324","Censys, Inc.",13024
-"AS396982","Google LLC",10185
+"AS398324","Censys, Inc.",13026
+"AS396982","Google LLC",10186
 "AS32934","Facebook, Inc.",9348
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7753
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4167
 "AS45102","Alibaba (US) Technology Co., Ltd.",3838
 "AS63949","Akamai Technologies, Inc.",3563
-"AS15169","Google LLC",3343
+"AS15169","Google LLC",3344
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3101
 "AS213412","ONYPHE SAS",2795
@@ -40,16 +40,16 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1076
 "AS23470","ReliableSite.Net LLC",1006
 "AS208684","BHA CONSEIL SARL",984
-"AS13335","Cloudflare, Inc.",927
+"AS13335","Cloudflare, Inc.",929
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",816
-"AS215925","VPSVAULT.HOST LTD",805
+"AS215925","VPSVAULT.HOST LTD",806
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS20052","Arbor Networks, Inc.",682
-"AS10439","CariNet, Inc.",618
+"AS10439","CariNet, Inc.",619
 "AS14618","Amazon.com, Inc.",614
 "AS51167","Contabo GmbH",612
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -252,6 +252,7 @@ ASN,Organization,IP_Count
 "AS60068","Datacamp Limited",24
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",24
 "AS198037","SPACECORE SOLUTION LTD",23
+"AS36947","Telecom Algeria",23
 "AS62240","Clouvider Limited",23
 "AS8193","""Uzbektelekom"" Joint Stock Company",23
 "AS13213","UK-2 Limited",22
@@ -260,7 +261,6 @@ ASN,Organization,IP_Count
 "AS21127","Joint Stock Company TransTeleCom",22
 "AS213010","Gening Nikita Dmitrievich",22
 "AS24560","Bharti Airtel Limited",22
-"AS36947","Telecom Algeria",22
 "AS43289","Trabia SRL",22
 "AS51430","AltusHost B.V.",22
 "AS58212","dataforest GmbH",22
@@ -2510,6 +2510,7 @@ ASN,Organization,IP_Count
 "AS35362","LIMITED LIABILITY COMPANY ""BEST SOLUTIONS""",1
 "AS35394","Cable Aireworld S.A.U.",1
 "AS35654","Cores Networks EOOD",1
+"AS35682","BEST INTERNET SOLUTION XK",1
 "AS35699","Adamo Telecom Iberia S.A.",1
 "AS35795","Vedekon Ltd",1
 "AS3580","Planet Networks",1
