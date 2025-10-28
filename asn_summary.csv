@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87690
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21920
-"AS398324","Censys, Inc.",13006
-"AS396982","Google LLC",10180
-"AS32934","Facebook, Inc.",8708
+"AS398324","Censys, Inc.",13008
+"AS396982","Google LLC",10181
+"AS32934","Facebook, Inc.",8762
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7749
 "AS16276","OVH SAS",5787
@@ -926,6 +926,7 @@ ASN,Organization,IP_Count
 "AS43047","Stream-Network Ltd.",3
 "AS43588","IM Level 7 SRL",3
 "AS43612","Company for communications services A1 Makedonija DOOEL Skopje",3
+"AS44486","Oliver Horscht is trading as ""SYNLINQ""",3
 "AS44866","FOP Fedasiuk Oksana Petrivna",3
 "AS44925","1984 ehf",3
 "AS45544","SUPERDATA-VN",3
@@ -1311,7 +1312,6 @@ ASN,Organization,IP_Count
 "AS44327","DELTA COMM LLC",2
 "AS44387","PE Radashevsky Sergiy Oleksandrovich",2
 "AS44391","JSC Elektrosvyaz",2
-"AS44486","Oliver Horscht is trading as ""SYNLINQ""",2
 "AS44558","Netonline Bilisim Sirketi LTD",2
 "AS44724","Octopusnet LTD",2
 "AS44803","Webdock.io ApS",2
