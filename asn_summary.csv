@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87690
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21922
-"AS398324","Censys, Inc.",13014
+"AS398324","Censys, Inc.",13015
 "AS396982","Google LLC",10183
 "AS32934","Facebook, Inc.",9222
 "AS26210","AXS Bolivia S. A.",7972
@@ -272,6 +272,7 @@ ASN,Organization,IP_Count
 "AS17561","Larus Limited",21
 "AS17816","China Unicom IP network China169 Guangdong province",21
 "AS21127","Joint Stock Company TransTeleCom",21
+"AS212913","FOP Hornostay Mykhaylo Ivanovych",21
 "AS214668","AxusHost B.V.",21
 "AS2856","British Telecommunications PLC",21
 "AS3320","Deutsche Telekom AG",21
@@ -285,7 +286,6 @@ ASN,Organization,IP_Count
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
 "AS210509","Optimum Line for Internet Services Ltd.",20
-"AS212913","FOP Hornostay Mykhaylo Ivanovych",20
 "AS214417","Andrii Hrosh",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS43641","SOLLUTIUM EU Sp z.o.o.",20
