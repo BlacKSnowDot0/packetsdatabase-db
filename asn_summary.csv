@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87690
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21916
-"AS398324","Censys, Inc.",12989
+"AS398324","Censys, Inc.",12990
 "AS396982","Google LLC",10177
 "AS32934","Facebook, Inc.",8444
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7746
-"AS16276","OVH SAS",5786
+"AS16276","OVH SAS",5787
 "AS4134","Chinanet",4983
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4436
@@ -20,11 +20,11 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2694
 "AS142002","Scloud Pte Ltd",2558
-"AS6939","Hurricane Electric LLC",2449
+"AS6939","Hurricane Electric LLC",2450
 "AS9808","China Mobile",2077
 "AS202425","IP Volume inc",1719
 "AS214295","SKYNET NETWORK LTD",1631
-"AS0","",1528
+"AS0","",1529
 "AS209605","UAB Host Baltic",1516
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1383
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",1168
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS36352","HostPapa",1130
+"AS36352","HostPapa",1131
 "AS174","Cogent Communications",1116
 "AS201401","NewVM B.V.",1076
 "AS23470","ReliableSite.Net LLC",1003
@@ -50,8 +50,8 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS20052","Arbor Networks, Inc.",679
 "AS10439","CariNet, Inc.",618
+"AS14618","Amazon.com, Inc.",609
 "AS51167","Contabo GmbH",609
-"AS14618","Amazon.com, Inc.",608
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",569
 "AS31148","Freenet LTD",558
@@ -110,8 +110,8 @@ ASN,Organization,IP_Count
 "AS13238","YANDEX LLC",124
 "AS36007","Kamatera, Inc.",122
 "AS14956","RouterHosting LLC",119
+"AS29066","velia.net Internetdienste GmbH",115
 "AS211298","Constantine Cybersecurity Ltd.",113
-"AS29066","velia.net Internetdienste GmbH",111
 "AS208287","DC Host INC",110
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS47331","TTNet A.S.",103
