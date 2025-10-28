@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87690
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21916
-"AS398324","Censys, Inc.",12990
+"AS398324","Censys, Inc.",12991
 "AS396982","Google LLC",10177
 "AS32934","Facebook, Inc.",8488
 "AS26210","AXS Bolivia S. A.",7972
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",1168
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS36352","HostPapa",1132
+"AS36352","HostPapa",1133
 "AS174","Cogent Communications",1116
 "AS201401","NewVM B.V.",1076
 "AS23470","ReliableSite.Net LLC",1003
@@ -116,8 +116,8 @@ ASN,Organization,IP_Count
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS47331","TTNet A.S.",103
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",102
+"AS34984","Superonline Iletisim Hizmetleri A.S.",96
 "AS151185","China Telecom",95
-"AS34984","Superonline Iletisim Hizmetleri A.S.",95
 "AS63018","Dedicated.com",92
 "AS205352","KABELNET LTD",91
 "AS210125","PRIAM NET Sh.p.k.",89
@@ -162,9 +162,9 @@ ASN,Organization,IP_Count
 "AS206092","Internet Utilities Europe and Asia Limited",55
 "AS213877","u1host ltd",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
+"AS19318","Interserver, Inc",51
 "AS20115","Charter Communications",51
 "AS23724","IDC, China Telecommunications Corporation",51
-"AS19318","Interserver, Inc",50
 "AS210644","AEZA INTERNATIONAL LTD",49
 "AS6128","Cablevision Systems Corp.",49
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
@@ -312,6 +312,7 @@ ASN,Organization,IP_Count
 "AS329009","Spectrum Internet Service Ltd",18
 "AS39603","P4 Sp. z o.o.",18
 "AS400655","NixLabs Networks",18
+"AS40676","Psychz Networks",18
 "AS4816","China Telecom (Group)",18
 "AS6697","Republican Unitary Telecommunication Enterprise Beltelecom",18
 "AS12874","Fastweb SpA",17
@@ -321,7 +322,6 @@ ASN,Organization,IP_Count
 "AS200590","NLS Kazakhstan LLC",17
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
 "AS30823","aurologic GmbH",17
-"AS40676","Psychz Networks",17
 "AS45117","Ishan's Network",17
 "AS50340","JSC Selectel",17
 "AS56630","Melbikomas UAB",17
