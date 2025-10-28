@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3099
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2693
+"AS8075","Microsoft Corporation",2694
 "AS142002","Scloud Pte Ltd",2558
 "AS6939","Hurricane Electric LLC",2449
 "AS9808","China Mobile",2077
@@ -75,7 +75,7 @@ ASN,Organization,IP_Count
 "AS7922","Comcast Cable Communications, LLC",344
 "AS21859","Zenlayer Inc",342
 "AS47890","UNMANAGED LTD",341
-"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",319
+"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",320
 "AS214943","Railnet LLC",315
 "AS45899","VNPT Corp",315
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",313
@@ -116,8 +116,8 @@ ASN,Organization,IP_Count
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS47331","TTNet A.S.",103
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",102
+"AS151185","China Telecom",95
 "AS34984","Superonline Iletisim Hizmetleri A.S.",95
-"AS151185","China Telecom",94
 "AS63018","Dedicated.com",92
 "AS205352","KABELNET LTD",91
 "AS210125","PRIAM NET Sh.p.k.",89
