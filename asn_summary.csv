@@ -2,19 +2,19 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87690
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21920
-"AS398324","Censys, Inc.",12998
+"AS398324","Censys, Inc.",13002
 "AS396982","Google LLC",10180
-"AS32934","Facebook, Inc.",8586
+"AS32934","Facebook, Inc.",8597
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7748
 "AS16276","OVH SAS",5787
 "AS4134","Chinanet",4983
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4436
-"AS16509","Amazon.com, Inc.",4155
+"AS16509","Amazon.com, Inc.",4159
 "AS45102","Alibaba (US) Technology Co., Ltd.",3837
 "AS63949","Akamai Technologies, Inc.",3561
-"AS15169","Google LLC",3338
+"AS15169","Google LLC",3342
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3101
 "AS213412","ONYPHE SAS",2795
@@ -31,14 +31,14 @@ ASN,Organization,IP_Count
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1310
 "AS204428","SS-Net",1182
+"AS32475","Internap Holding LLC",1169
 "AS22552","eSited Solutions",1168
-"AS32475","Internap Holding LLC",1168
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS36352","HostPapa",1133
 "AS174","Cogent Communications",1117
 "AS201401","NewVM B.V.",1076
-"AS23470","ReliableSite.Net LLC",1003
+"AS23470","ReliableSite.Net LLC",1004
 "AS208684","BHA CONSEIL SARL",984
 "AS51852","Private Layer INC",907
 "AS13335","Cloudflare, Inc.",865
@@ -50,7 +50,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS20052","Arbor Networks, Inc.",681
 "AS10439","CariNet, Inc.",618
-"AS14618","Amazon.com, Inc.",610
+"AS14618","Amazon.com, Inc.",611
 "AS51167","Contabo GmbH",610
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",569
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",498
 "AS50360","Tamatiya EOOD",492
-"AS51115","HLL LLC",467
+"AS51115","HLL LLC",468
 "AS212238","Datacamp Limited",456
 "AS53667","FranTech Solutions",447
 "AS9829","Bharat Sanchar Nigam Ltd",419
