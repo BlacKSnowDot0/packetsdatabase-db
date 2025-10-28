@@ -3,10 +3,10 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21920
 "AS398324","Censys, Inc.",12996
-"AS396982","Google LLC",10178
-"AS32934","Facebook, Inc.",8564
+"AS396982","Google LLC",10179
+"AS32934","Facebook, Inc.",8586
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7747
+"AS14061","DigitalOcean, LLC",7748
 "AS16276","OVH SAS",5787
 "AS4134","Chinanet",4983
 "AS6568","Entel S.A. - EntelNet",4537
@@ -14,11 +14,11 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4155
 "AS45102","Alibaba (US) Technology Co., Ltd.",3837
 "AS63949","Akamai Technologies, Inc.",3561
-"AS15169","Google LLC",3336
+"AS15169","Google LLC",3338
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3101
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2695
+"AS8075","Microsoft Corporation",2696
 "AS142002","Scloud Pte Ltd",2558
 "AS6939","Hurricane Electric LLC",2450
 "AS9808","China Mobile",2077
@@ -27,7 +27,7 @@ ASN,Organization,IP_Count
 "AS0","",1530
 "AS209605","UAB Host Baltic",1516
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS398722","Censys, Inc.",1384
+"AS398722","Censys, Inc.",1385
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1310
 "AS204428","SS-Net",1182
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS36352","HostPapa",1133
-"AS174","Cogent Communications",1116
+"AS174","Cogent Communications",1117
 "AS201401","NewVM B.V.",1076
 "AS23470","ReliableSite.Net LLC",1003
 "AS208684","BHA CONSEIL SARL",984
@@ -62,11 +62,11 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",498
 "AS50360","Tamatiya EOOD",492
-"AS51115","HLL LLC",466
+"AS51115","HLL LLC",467
 "AS212238","Datacamp Limited",456
 "AS53667","FranTech Solutions",447
 "AS9829","Bharat Sanchar Nigam Ltd",419
-"AS12876","ONLINE S.A.S.",412
+"AS12876","ONLINE S.A.S.",413
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -1047,6 +1047,7 @@ ASN,Organization,IP_Count
 "AS142527","KKD BROADBAND PRIVATE LIMITED",2
 "AS142594","SpeedyPage Ltd",2
 "AS14291","Antietam Broadband",2
+"AS14315","1GSERVERS, LLC",2
 "AS14543","SRT Communications, Inc.",2
 "AS146966","China Telecom",2
 "AS147106","PT Global Erasiber Teknologi",2
@@ -1644,7 +1645,6 @@ ASN,Organization,IP_Count
 "AS142529","INCUBIX UNIFIED SOLUTIONS PVT LTD",1
 "AS142593","Lakshmipur Communication Network",1
 "AS142647","Nasstec Airnet Networks Private Limited",1
-"AS14315","1GSERVERS, LLC",1
 "AS14371","Paul Bunyan Communications",1
 "AS1448","United Cooperative Services",1
 "AS14615","Comporium, Inc",1
