@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87690
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21920
-"AS398324","Censys, Inc.",12996
-"AS396982","Google LLC",10179
+"AS398324","Censys, Inc.",12998
+"AS396982","Google LLC",10180
 "AS32934","Facebook, Inc.",8586
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7748
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2696
 "AS142002","Scloud Pte Ltd",2558
-"AS6939","Hurricane Electric LLC",2450
+"AS6939","Hurricane Electric LLC",2451
 "AS9808","China Mobile",2077
 "AS202425","IP Volume inc",1720
 "AS214295","SKYNET NETWORK LTD",1631
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",681
 "AS10439","CariNet, Inc.",618
 "AS14618","Amazon.com, Inc.",610
-"AS51167","Contabo GmbH",609
+"AS51167","Contabo GmbH",610
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",569
 "AS31148","Freenet LTD",558
@@ -332,6 +332,7 @@ ASN,Organization,IP_Count
 "AS24757","EthioNet",16
 "AS24812","NPK Home-Net Ltd.",16
 "AS25198","INTERKVM HOST SRL",16
+"AS30860","Virtual Systems LLC",16
 "AS3257","GTT Communications Inc.",16
 "AS328539","Giga for Telecommunication and Technology Limited",16
 "AS33363","Charter Communications, Inc",16
@@ -351,7 +352,6 @@ ASN,Organization,IP_Count
 "AS28126","BRISANET SERVICOS DE TELECOMUNICACOES LTDA",15
 "AS28201","Companhia Itabirana Telecomunicações Ltda",15
 "AS2914","NTT America, Inc.",15
-"AS30860","Virtual Systems LLC",15
 "AS31113","Artkomm LLC",15
 "AS397283","RocketNode Inc",15
 "AS6849","JSC ""Ukrtelecom""",15
@@ -824,6 +824,7 @@ ASN,Organization,IP_Count
 "AS152769","PT Gopal Network Solusindo",3
 "AS15461","Science Production Enterprise Solver Ltd",3
 "AS15774","Limited Liability Company ""TTK-Svyaz""",3
+"AS15958","CETIN Ltd. Belgrade",3
 "AS16019","Vodafone Czech Republic a.s.",3
 "AS16044","IPORT UNITED LLC",3
 "AS16135","TURKCELL ILETISIM HIZMETLERI A.S.",3
@@ -1070,7 +1071,6 @@ ASN,Organization,IP_Count
 "AS153141","PT Jaringan Lintas Maritim",2
 "AS15377","TRADITIONAL LLC",2
 "AS15468","PJSC Rostelecom",2
-"AS15958","CETIN Ltd. Belgrade",2
 "AS15967","Nazwa.pl Sp.z.o.o.",2
 "AS16629","CTC. CORP S.A. (TELEFONICA EMPRESAS)",2
 "AS16637","MTN SA",2
