@@ -6,8 +6,8 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",10190
 "AS32934","Facebook, Inc.",9528
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7765
-"AS16276","OVH SAS",5789
+"AS14061","DigitalOcean, LLC",7766
+"AS16276","OVH SAS",5790
 "AS4134","Chinanet",5005
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4437
@@ -57,7 +57,7 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS4837","CHINA UNICOM China169 Backbone",554
 "AS401120","cheapy.host LLC",549
-"AS9009","M247 Europe SRL",545
+"AS9009","M247 Europe SRL",546
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",500
@@ -355,6 +355,7 @@ ASN,Organization,IP_Count
 "AS2914","NTT America, Inc.",15
 "AS31113","Artkomm LLC",15
 "AS397283","RocketNode Inc",15
+"AS6739","VODAFONE ONO, S.A.",15
 "AS6849","JSC ""Ukrtelecom""",15
 "AS8796","FD-298-8796",15
 "AS19901","Brightspeed",14
@@ -369,7 +370,6 @@ ASN,Organization,IP_Count
 "AS48721","Flyservers S.A.",14
 "AS5607","Sky UK Limited",14
 "AS6181","Cincinnati Bell Telephone Company LLC",14
-"AS6739","VODAFONE ONO, S.A.",14
 "AS11232","Midcontinent Communications",13
 "AS11427","Charter Communications Inc",13
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",13
