@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87690
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21922
-"AS398324","Censys, Inc.",13047
+"AS398324","Censys, Inc.",13048
 "AS396982","Google LLC",10190
-"AS32934","Facebook, Inc.",9402
+"AS32934","Facebook, Inc.",9424
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7755
 "AS16276","OVH SAS",5789
@@ -40,7 +40,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1076
 "AS23470","ReliableSite.Net LLC",1010
 "AS208684","BHA CONSEIL SARL",985
-"AS13335","Cloudflare, Inc.",945
+"AS13335","Cloudflare, Inc.",946
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -72,9 +72,9 @@ ASN,Organization,IP_Count
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS7018","AT&T Enterprises, LLC",373
 "AS7713","Telekomunikasi Indonesia (PT)",366
+"AS47890","UNMANAGED LTD",347
 "AS7922","Comcast Cable Communications, LLC",344
 "AS21859","Zenlayer Inc",342
-"AS47890","UNMANAGED LTD",341
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",325
 "AS214943","Railnet LLC",315
 "AS45899","VNPT Corp",315
@@ -137,9 +137,9 @@ ASN,Organization,IP_Count
 "AS56046","China Mobile Communications Corporation",74
 "AS271795","SERVITELCONET CIA. LTDA.",72
 "AS31898","Oracle Corporation",72
+"AS199785","Cloud Hosting Solutions, Limited.",71
 "AS3920","ESTOXY OU",71
-"AS199785","Cloud Hosting Solutions, Limited.",70
-"AS11320","LightEdge Solutions",69
+"AS11320","LightEdge Solutions",70
 "AS52053","REDHEBERG Association declaree",69
 "AS328867","Corebach Backbone SARL",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
