@@ -1,19 +1,19 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87693
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
-"AS211298","Driftnet Ltd",21924
+"AS211298","Driftnet Ltd",21925
 "AS398324","Censys, Inc.",13063
 "AS396982","Google LLC",10190
 "AS32934","Facebook, Inc.",9528
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7766
+"AS14061","DigitalOcean, LLC",7767
 "AS16276","OVH SAS",5790
 "AS4134","Chinanet",5005
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4437
 "AS16509","Amazon.com, Inc.",4190
 "AS45102","Alibaba (US) Technology Co., Ltd.",3848
-"AS63949","Akamai Technologies, Inc.",3564
+"AS63949","Akamai Technologies, Inc.",3565
 "AS15169","Google LLC",3344
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3101
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",685
 "AS10439","CariNet, Inc.",621
 "AS14618","Amazon.com, Inc.",619
-"AS51167","Contabo GmbH",614
+"AS51167","Contabo GmbH",615
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",572
 "AS31148","Freenet LTD",558
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",468
 "AS212238","Datacamp Limited",456
 "AS53667","FranTech Solutions",451
-"AS12876","ONLINE S.A.S.",420
+"AS12876","ONLINE S.A.S.",421
 "AS9829","Bharat Sanchar Nigam Ltd",419
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
@@ -259,6 +259,7 @@ ASN,Organization,IP_Count
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",22
 "AS141995","Contabo Asia Private Limited",22
 "AS21127","Joint Stock Company TransTeleCom",22
+"AS212913","FOP Hornostay Mykhaylo Ivanovych",22
 "AS213010","Gening Nikita Dmitrievich",22
 "AS24560","Bharti Airtel Limited",22
 "AS43289","Trabia SRL",22
@@ -272,7 +273,6 @@ ASN,Organization,IP_Count
 "AS138886","PT Data Buana Nusantara",21
 "AS17561","Larus Limited",21
 "AS17816","China Unicom IP network China169 Guangdong province",21
-"AS212913","FOP Hornostay Mykhaylo Ivanovych",21
 "AS214668","AxusHost B.V.",21
 "AS2856","British Telecommunications PLC",21
 "AS3320","Deutsche Telekom AG",21
