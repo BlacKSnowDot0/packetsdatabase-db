@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87690
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21922
-"AS398324","Censys, Inc.",13036
-"AS396982","Google LLC",10189
+"AS398324","Censys, Inc.",13037
+"AS396982","Google LLC",10190
 "AS32934","Facebook, Inc.",9369
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7753
@@ -31,12 +31,12 @@ ASN,Organization,IP_Count
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1310
 "AS204428","SS-Net",1182
-"AS32475","Internap Holding LLC",1179
+"AS32475","Internap Holding LLC",1180
 "AS22552","eSited Solutions",1168
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS36352","HostPapa",1136
-"AS174","Cogent Communications",1118
+"AS36352","HostPapa",1137
+"AS174","Cogent Communications",1119
 "AS201401","NewVM B.V.",1076
 "AS23470","ReliableSite.Net LLC",1008
 "AS208684","BHA CONSEIL SARL",985
@@ -65,8 +65,8 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",468
 "AS212238","Datacamp Limited",456
 "AS53667","FranTech Solutions",449
+"AS12876","ONLINE S.A.S.",419
 "AS9829","Bharat Sanchar Nigam Ltd",419
-"AS12876","ONLINE S.A.S.",418
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -75,7 +75,7 @@ ASN,Organization,IP_Count
 "AS7922","Comcast Cable Communications, LLC",344
 "AS21859","Zenlayer Inc",342
 "AS47890","UNMANAGED LTD",341
-"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",324
+"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",325
 "AS214943","Railnet LLC",315
 "AS45899","VNPT Corp",315
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",314
@@ -341,6 +341,7 @@ ASN,Organization,IP_Count
 "AS12849","Hot-Net internet services Ltd.",15
 "AS136515","Dasca Cable Services, Inc.",15
 "AS138915","Kaopu Cloud HK Limited",15
+"AS140726","China Unicom",15
 "AS15704","XTRA TELECOM S.A.",15
 "AS16591","Google Fiber Inc.",15
 "AS199414","Noah Kolossa",15
@@ -355,7 +356,6 @@ ASN,Organization,IP_Count
 "AS31113","Artkomm LLC",15
 "AS397283","RocketNode Inc",15
 "AS6849","JSC ""Ukrtelecom""",15
-"AS140726","China Unicom",14
 "AS19901","Brightspeed",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS27947","Telconet S.A",14
