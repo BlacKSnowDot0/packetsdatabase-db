@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87690
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21924
-"AS398324","Censys, Inc.",13051
+"AS398324","Censys, Inc.",13052
 "AS396982","Google LLC",10190
 "AS32934","Facebook, Inc.",9444
 "AS26210","AXS Bolivia S. A.",7972
@@ -11,8 +11,8 @@ ASN,Organization,IP_Count
 "AS4134","Chinanet",5004
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4436
-"AS16509","Amazon.com, Inc.",4172
-"AS45102","Alibaba (US) Technology Co., Ltd.",3841
+"AS16509","Amazon.com, Inc.",4186
+"AS45102","Alibaba (US) Technology Co., Ltd.",3842
 "AS63949","Akamai Technologies, Inc.",3564
 "AS15169","Google LLC",3344
 "AS398705","Censys, Inc.",3238
@@ -50,7 +50,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS20052","Arbor Networks, Inc.",685
 "AS10439","CariNet, Inc.",619
-"AS14618","Amazon.com, Inc.",616
+"AS14618","Amazon.com, Inc.",617
 "AS51167","Contabo GmbH",613
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",571
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",468
 "AS212238","Datacamp Limited",456
 "AS53667","FranTech Solutions",450
-"AS12876","ONLINE S.A.S.",419
+"AS12876","ONLINE S.A.S.",420
 "AS9829","Bharat Sanchar Nigam Ltd",419
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
