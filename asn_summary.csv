@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87690
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21922
-"AS398324","Censys, Inc.",13043
+"AS398324","Censys, Inc.",13044
 "AS396982","Google LLC",10190
-"AS32934","Facebook, Inc.",9369
+"AS32934","Facebook, Inc.",9380
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7754
+"AS14061","DigitalOcean, LLC",7755
 "AS16276","OVH SAS",5788
 "AS4134","Chinanet",5002
 "AS6568","Entel S.A. - EntelNet",4537
@@ -38,7 +38,7 @@ ASN,Organization,IP_Count
 "AS36352","HostPapa",1137
 "AS174","Cogent Communications",1119
 "AS201401","NewVM B.V.",1076
-"AS23470","ReliableSite.Net LLC",1009
+"AS23470","ReliableSite.Net LLC",1010
 "AS208684","BHA CONSEIL SARL",985
 "AS13335","Cloudflare, Inc.",941
 "AS51852","Private Layer INC",907
@@ -64,7 +64,7 @@ ASN,Organization,IP_Count
 "AS50360","Tamatiya EOOD",492
 "AS51115","HLL LLC",468
 "AS212238","Datacamp Limited",456
-"AS53667","FranTech Solutions",449
+"AS53667","FranTech Solutions",450
 "AS12876","ONLINE S.A.S.",419
 "AS9829","Bharat Sanchar Nigam Ltd",419
 "AS21299","Kar-Tel LLC",406
@@ -116,8 +116,8 @@ ASN,Organization,IP_Count
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS47331","TTNet A.S.",103
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",102
+"AS34984","Superonline Iletisim Hizmetleri A.S.",97
 "AS151185","China Telecom",96
-"AS34984","Superonline Iletisim Hizmetleri A.S.",96
 "AS63018","Dedicated.com",92
 "AS205352","KABELNET LTD",91
 "AS210125","PRIAM NET Sh.p.k.",89
@@ -310,6 +310,7 @@ ASN,Organization,IP_Count
 "AS18049","Taiwan Infrastructure Network Technologie",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
 "AS24940","Hetzner Online GmbH",18
+"AS30860","Virtual Systems LLC",18
 "AS329009","Spectrum Internet Service Ltd",18
 "AS39603","P4 Sp. z o.o.",18
 "AS400655","NixLabs Networks",18
@@ -322,7 +323,6 @@ ASN,Organization,IP_Count
 "AS200590","NLS Kazakhstan LLC",17
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
 "AS30823","aurologic GmbH",17
-"AS30860","Virtual Systems LLC",17
 "AS45117","Ishan's Network",17
 "AS50340","JSC Selectel",17
 "AS56630","Melbikomas UAB",17
