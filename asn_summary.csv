@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87693
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21924
-"AS398324","Censys, Inc.",13062
+"AS398324","Censys, Inc.",13063
 "AS396982","Google LLC",10190
 "AS32934","Facebook, Inc.",9528
 "AS26210","AXS Bolivia S. A.",7972
@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3101
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2699
+"AS8075","Microsoft Corporation",2700
 "AS142002","Scloud Pte Ltd",2558
 "AS6939","Hurricane Electric LLC",2458
 "AS9808","China Mobile",2077
@@ -40,7 +40,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1076
 "AS23470","ReliableSite.Net LLC",1010
 "AS208684","BHA CONSEIL SARL",985
-"AS13335","Cloudflare, Inc.",949
+"AS13335","Cloudflare, Inc.",950
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -75,7 +75,7 @@ ASN,Organization,IP_Count
 "AS47890","UNMANAGED LTD",347
 "AS7922","Comcast Cable Communications, LLC",344
 "AS21859","Zenlayer Inc",343
-"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",326
+"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",327
 "AS214943","Railnet LLC",315
 "AS45899","VNPT Corp",315
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",314
@@ -88,7 +88,7 @@ ASN,Organization,IP_Count
 "AS60223","Netiface Limited",250
 "AS18403","FPT Telecom Company",248
 "AS213613","BOTSHIELD LTD",248
-"AS208843","Alpha Strike Labs GmbH",245
+"AS208843","Alpha Strike Labs GmbH",246
 "AS209272","Alviva Holding Limited",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS701","Verizon Business",220
@@ -235,8 +235,8 @@ ASN,Organization,IP_Count
 "AS2200","Renater",26
 "AS23693","PT. Telekomunikasi Selular",26
 "AS3209","Vodafone GmbH",26
+"AS46475","Limestone Networks, Inc.",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
-"AS46475","Limestone Networks, Inc.",25
 "AS53118","NETLINE TELECOM",25
 "AS55836","Reliance Jio Infocomm Limited",25
 "AS58224","Iran Telecommunication Company PJS",25
@@ -338,6 +338,8 @@ ASN,Organization,IP_Count
 "AS33363","Charter Communications, Inc",16
 "AS46261","QuickPacket, LLC",16
 "AS6597","Coloblox Data Centers Inc",16
+"AS6739","VODAFONE ONO, S.A.",16
+"AS8796","FD-298-8796",16
 "AS12849","Hot-Net internet services Ltd.",15
 "AS136515","Dasca Cable Services, Inc.",15
 "AS138915","Kaopu Cloud HK Limited",15
@@ -355,9 +357,7 @@ ASN,Organization,IP_Count
 "AS2914","NTT America, Inc.",15
 "AS31113","Artkomm LLC",15
 "AS397283","RocketNode Inc",15
-"AS6739","VODAFONE ONO, S.A.",15
 "AS6849","JSC ""Ukrtelecom""",15
-"AS8796","FD-298-8796",15
 "AS19901","Brightspeed",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS27947","Telconet S.A",14
