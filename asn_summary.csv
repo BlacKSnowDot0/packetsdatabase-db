@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87690
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21923
-"AS398324","Censys, Inc.",13048
+"AS398324","Censys, Inc.",13049
 "AS396982","Google LLC",10190
-"AS32934","Facebook, Inc.",9424
+"AS32934","Facebook, Inc.",9433
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7755
+"AS14061","DigitalOcean, LLC",7756
 "AS16276","OVH SAS",5789
 "AS4134","Chinanet",5002
 "AS6568","Entel S.A. - EntelNet",4537
@@ -50,8 +50,8 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS20052","Arbor Networks, Inc.",685
 "AS10439","CariNet, Inc.",619
-"AS14618","Amazon.com, Inc.",615
-"AS51167","Contabo GmbH",612
+"AS14618","Amazon.com, Inc.",616
+"AS51167","Contabo GmbH",613
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",571
 "AS31148","Freenet LTD",558
@@ -95,7 +95,7 @@ ASN,Organization,IP_Count
 "AS14987","Rethem Hosting LLC",215
 "AS141718","haoxiangyun",210
 "AS12389","PJSC Rostelecom",190
-"AS12555","Data-center IMAQLIQ Ltd.",188
+"AS12555","Data-center IMAQLIQ Ltd.",189
 "AS7552","Viettel Group",182
 "AS63199","CDS Global Cloud Co., Ltd",172
 "AS401116","Nybula LLC",170
