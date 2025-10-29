@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1310
 "AS204428","SS-Net",1182
-"AS32475","Internap Holding LLC",1181
+"AS32475","Internap Holding LLC",1182
 "AS22552","eSited Solutions",1168
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
@@ -75,7 +75,7 @@ ASN,Organization,IP_Count
 "AS47890","UNMANAGED LTD",347
 "AS7922","Comcast Cable Communications, LLC",344
 "AS21859","Zenlayer Inc",343
-"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",325
+"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",326
 "AS214943","Railnet LLC",315
 "AS45899","VNPT Corp",315
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",314
@@ -384,6 +384,7 @@ ASN,Organization,IP_Count
 "AS38841","kbro CO. Ltd.",13
 "AS53006","ALGAR TELECOM S/A",13
 "AS6327","Shaw Communications Inc.",13
+"AS6739","VODAFONE ONO, S.A.",13
 "AS12400","Partner Communications Ltd.",12
 "AS134420","Chongqing Telecom",12
 "AS213438","ColocaTel Inc.",12
@@ -398,7 +399,6 @@ ASN,Organization,IP_Count
 "AS41075","ATW Internet Kft.",12
 "AS4181","TDS TELECOM",12
 "AS62442","Dade Samane Fanava Company (PJS)",12
-"AS6739","VODAFONE ONO, S.A.",12
 "AS8400","TELEKOM SRBIJA a.d.",12
 "AS8708","RCS & RDS SA",12
 "AS9318","SK Broadband Co Ltd",12
