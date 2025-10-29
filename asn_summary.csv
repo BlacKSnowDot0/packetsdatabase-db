@@ -1,10 +1,10 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87693
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87694
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21925
-"AS398324","Censys, Inc.",13067
+"AS398324","Censys, Inc.",13069
 "AS396982","Google LLC",10190
-"AS32934","Facebook, Inc.",9723
+"AS32934","Facebook, Inc.",9731
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7769
 "AS16276","OVH SAS",5790
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2077
 "AS202425","IP Volume inc",1723
 "AS214295","SKYNET NETWORK LTD",1631
-"AS0","",1534
+"AS0","",1535
 "AS209605","UAB Host Baltic",1516
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1389
@@ -38,9 +38,9 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS174","Cogent Communications",1123
 "AS201401","NewVM B.V.",1076
-"AS23470","ReliableSite.Net LLC",1011
+"AS23470","ReliableSite.Net LLC",1012
 "AS208684","BHA CONSEIL SARL",985
-"AS13335","Cloudflare, Inc.",951
+"AS13335","Cloudflare, Inc.",952
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -75,7 +75,7 @@ ASN,Organization,IP_Count
 "AS47890","UNMANAGED LTD",347
 "AS7922","Comcast Cable Communications, LLC",344
 "AS21859","Zenlayer Inc",343
-"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",327
+"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",328
 "AS214943","Railnet LLC",315
 "AS45899","VNPT Corp",315
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",314
