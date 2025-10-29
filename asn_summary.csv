@@ -6,7 +6,7 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",10190
 "AS32934","Facebook, Inc.",9444
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7764
+"AS14061","DigitalOcean, LLC",7765
 "AS16276","OVH SAS",5789
 "AS4134","Chinanet",5004
 "AS6568","Entel S.A. - EntelNet",4537
@@ -22,21 +22,21 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2558
 "AS6939","Hurricane Electric LLC",2458
 "AS9808","China Mobile",2077
-"AS202425","IP Volume inc",1722
+"AS202425","IP Volume inc",1723
 "AS214295","SKYNET NETWORK LTD",1631
 "AS0","",1533
 "AS209605","UAB Host Baltic",1516
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS398722","Censys, Inc.",1387
+"AS398722","Censys, Inc.",1388
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1310
+"AS32475","Internap Holding LLC",1183
 "AS204428","SS-Net",1182
-"AS32475","Internap Holding LLC",1182
 "AS22552","eSited Solutions",1168
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS36352","HostPapa",1138
-"AS174","Cogent Communications",1122
+"AS174","Cogent Communications",1123
 "AS201401","NewVM B.V.",1076
 "AS23470","ReliableSite.Net LLC",1010
 "AS208684","BHA CONSEIL SARL",985
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS20052","Arbor Networks, Inc.",685
-"AS10439","CariNet, Inc.",619
+"AS10439","CariNet, Inc.",620
 "AS14618","Amazon.com, Inc.",618
 "AS51167","Contabo GmbH",614
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -369,6 +369,7 @@ ASN,Organization,IP_Count
 "AS48721","Flyservers S.A.",14
 "AS5607","Sky UK Limited",14
 "AS6181","Cincinnati Bell Telephone Company LLC",14
+"AS6739","VODAFONE ONO, S.A.",14
 "AS11232","Midcontinent Communications",13
 "AS11427","Charter Communications Inc",13
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",13
@@ -384,7 +385,6 @@ ASN,Organization,IP_Count
 "AS38841","kbro CO. Ltd.",13
 "AS53006","ALGAR TELECOM S/A",13
 "AS6327","Shaw Communications Inc.",13
-"AS6739","VODAFONE ONO, S.A.",13
 "AS12400","Partner Communications Ltd.",12
 "AS134420","Chongqing Telecom",12
 "AS213438","ColocaTel Inc.",12
