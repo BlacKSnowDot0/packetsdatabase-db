@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87693
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21925
-"AS398324","Censys, Inc.",13063
+"AS398324","Censys, Inc.",13065
 "AS396982","Google LLC",10190
 "AS32934","Facebook, Inc.",9528
 "AS26210","AXS Bolivia S. A.",7972
@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3101
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2700
+"AS8075","Microsoft Corporation",2701
 "AS142002","Scloud Pte Ltd",2558
 "AS6939","Hurricane Electric LLC",2458
 "AS9808","China Mobile",2077
@@ -38,7 +38,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS174","Cogent Communications",1123
 "AS201401","NewVM B.V.",1076
-"AS23470","ReliableSite.Net LLC",1010
+"AS23470","ReliableSite.Net LLC",1011
 "AS208684","BHA CONSEIL SARL",985
 "AS13335","Cloudflare, Inc.",950
 "AS51852","Private Layer INC",907
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",685
 "AS10439","CariNet, Inc.",621
 "AS14618","Amazon.com, Inc.",619
-"AS51167","Contabo GmbH",615
+"AS51167","Contabo GmbH",616
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",572
 "AS31148","Freenet LTD",558
@@ -64,7 +64,7 @@ ASN,Organization,IP_Count
 "AS50360","Tamatiya EOOD",492
 "AS51115","HLL LLC",468
 "AS212238","Datacamp Limited",456
-"AS53667","FranTech Solutions",451
+"AS53667","FranTech Solutions",453
 "AS12876","ONLINE S.A.S.",421
 "AS9829","Bharat Sanchar Nigam Ltd",419
 "AS21299","Kar-Tel LLC",406
@@ -326,6 +326,7 @@ ASN,Organization,IP_Count
 "AS45117","Ishan's Network",17
 "AS50340","JSC Selectel",17
 "AS56630","Melbikomas UAB",17
+"AS6739","VODAFONE ONO, S.A.",17
 "AS852","TELUS Communications Inc.",17
 "AS9269","Hong Kong Broadband Network Ltd",17
 "AS136142","Enigma Fiber Pvt Ltd",16
@@ -338,7 +339,6 @@ ASN,Organization,IP_Count
 "AS33363","Charter Communications, Inc",16
 "AS46261","QuickPacket, LLC",16
 "AS6597","Coloblox Data Centers Inc",16
-"AS6739","VODAFONE ONO, S.A.",16
 "AS8796","FD-298-8796",16
 "AS12849","Hot-Net internet services Ltd.",15
 "AS136515","Dasca Cable Services, Inc.",15
