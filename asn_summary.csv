@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",21925
 "AS398324","Censys, Inc.",13072
 "AS396982","Google LLC",10190
-"AS32934","Facebook, Inc.",9731
+"AS32934","Facebook, Inc.",9846
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7769
 "AS16276","OVH SAS",5790
@@ -18,11 +18,11 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3101
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2701
+"AS8075","Microsoft Corporation",2702
 "AS142002","Scloud Pte Ltd",2558
 "AS6939","Hurricane Electric LLC",2458
 "AS9808","China Mobile",2077
-"AS202425","IP Volume inc",1723
+"AS202425","IP Volume inc",1724
 "AS214295","SKYNET NETWORK LTD",1631
 "AS0","",1535
 "AS209605","UAB Host Baltic",1516
@@ -34,13 +34,13 @@ ASN,Organization,IP_Count
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1168
 "AS399045","DediOutlet, LLC",1142
-"AS36352","HostPapa",1140
+"AS36352","HostPapa",1141
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS174","Cogent Communications",1123
+"AS174","Cogent Communications",1124
 "AS201401","NewVM B.V.",1076
 "AS23470","ReliableSite.Net LLC",1012
+"AS13335","Cloudflare, Inc.",987
 "AS208684","BHA CONSEIL SARL",985
-"AS13335","Cloudflare, Inc.",979
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -147,7 +147,7 @@ ASN,Organization,IP_Count
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS57588","Hayat for Internet & communication LLC",65
 "AS140717","China Unicom",61
-"AS215590","DpkgSoft International Limited",60
+"AS215590","DpkgSoft International Limited",61
 "AS22773","Cox Communications Inc.",60
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS4812","China Telecom (Group)",60
@@ -162,8 +162,8 @@ ASN,Organization,IP_Count
 "AS206092","Internet Utilities Europe and Asia Limited",55
 "AS213877","u1host ltd",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
+"AS19318","Interserver, Inc",52
 "AS23724","IDC, China Telecommunications Corporation",52
-"AS19318","Interserver, Inc",51
 "AS20115","Charter Communications",51
 "AS210644","AEZA INTERNATIONAL LTD",49
 "AS6128","Cablevision Systems Corp.",49
