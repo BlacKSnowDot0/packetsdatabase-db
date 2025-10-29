@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87692
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21924
-"AS398324","Censys, Inc.",13058
+"AS398324","Censys, Inc.",13059
 "AS396982","Google LLC",10190
-"AS32934","Facebook, Inc.",9454
+"AS32934","Facebook, Inc.",9475
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7765
 "AS16276","OVH SAS",5789
@@ -34,13 +34,13 @@ ASN,Organization,IP_Count
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1168
 "AS399045","DediOutlet, LLC",1142
+"AS36352","HostPapa",1139
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS36352","HostPapa",1138
 "AS174","Cogent Communications",1123
 "AS201401","NewVM B.V.",1076
 "AS23470","ReliableSite.Net LLC",1010
 "AS208684","BHA CONSEIL SARL",985
-"AS13335","Cloudflare, Inc.",946
+"AS13335","Cloudflare, Inc.",948
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -156,8 +156,8 @@ ASN,Organization,IP_Count
 "AS49544","i3D.net B.V",58
 "AS55720","Gigabit Hosting Sdn Bhd",58
 "AS20278","Nexeon Technologies, Inc.",57
+"AS8402","PJSC ""Vimpelcom""",57
 "AS48090","PPTECHNOLOGY LIMITED",56
-"AS8402","PJSC ""Vimpelcom""",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
 "AS213877","u1host ltd",54
