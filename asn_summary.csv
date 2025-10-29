@@ -44,7 +44,7 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
-"AS208046","ColocationX Ltd.",816
+"AS208046","ColocationX Ltd.",817
 "AS215925","VPSVAULT.HOST LTD",807
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
@@ -273,6 +273,7 @@ ASN,Organization,IP_Count
 "AS138886","PT Data Buana Nusantara",21
 "AS17561","Larus Limited",21
 "AS17816","China Unicom IP network China169 Guangdong province",21
+"AS210509","Optimum Line for Internet Services Ltd.",21
 "AS214668","AxusHost B.V.",21
 "AS2856","British Telecommunications PLC",21
 "AS3320","Deutsche Telekom AG",21
@@ -285,7 +286,6 @@ ASN,Organization,IP_Count
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
-"AS210509","Optimum Line for Internet Services Ltd.",20
 "AS214417","Andrii Hrosh",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS43641","SOLLUTIUM EU Sp z.o.o.",20
@@ -714,6 +714,7 @@ ASN,Organization,IP_Count
 "AS215439","PLAY2GO INTERNATIONAL LIMITED",4
 "AS22047","VTR BANDA ANCHA S.A.",4
 "AS22418","Cologuard",4
+"AS22612","Namecheap, Inc.",4
 "AS23674","Nayatel (Pvt) Ltd",4
 "AS2514","NTT PC Communications, Inc.",4
 "AS25472","Nova Telecommunications & Media Single Member S.A",4
@@ -852,7 +853,6 @@ ASN,Organization,IP_Count
 "AS213354","INTERNATIONAL HOSTING SOLUTIONS LLP",3
 "AS21499","Host Europe GmbH",3
 "AS21565","Horry Telephone Cooperative, Inc.",3
-"AS22612","Namecheap, Inc.",3
 "AS23028","Team Cymru Inc.",3
 "AS23650","Chinanet Jiangsu",3
 "AS24165","UNION BROADBAND NETWORK",3
