@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87690
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21922
-"AS398324","Censys, Inc.",13035
+"AS398324","Censys, Inc.",13036
 "AS396982","Google LLC",10189
 "AS32934","Facebook, Inc.",9369
 "AS26210","AXS Bolivia S. A.",7972
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4436
 "AS16509","Amazon.com, Inc.",4167
-"AS45102","Alibaba (US) Technology Co., Ltd.",3839
+"AS45102","Alibaba (US) Technology Co., Ltd.",3840
 "AS63949","Akamai Technologies, Inc.",3563
 "AS15169","Google LLC",3344
 "AS398705","Censys, Inc.",3238
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1310
 "AS204428","SS-Net",1182
-"AS32475","Internap Holding LLC",1178
+"AS32475","Internap Holding LLC",1179
 "AS22552","eSited Solutions",1168
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
@@ -439,6 +439,7 @@ ASN,Organization,IP_Count
 "AS50304","Blix Solutions AS",10
 "AS52468","UFINET PANAMA S.A.",10
 "AS57269","DIGI SPAIN TELECOM S.L.U.",10
+"AS6739","VODAFONE ONO, S.A.",10
 "AS9930","TT DOTCOM SDN BHD",10
 "AS12353","Vodafone Portugal - Communicacoes Pessoais S.A.",9
 "AS1267","RIPE Network Coordination Centre",9
@@ -460,7 +461,6 @@ ASN,Organization,IP_Count
 "AS4609","Companhia de Telecomunicacoes de Macau",9
 "AS4847","China Networks Inter-Exchange",9
 "AS48874","HOSTMAZE INC SRL-D",9
-"AS6739","VODAFONE ONO, S.A.",9
 "AS8346","SONATEL-AS Autonomous System",9
 "AS9038","Batelco Jordan",9
 "AS9304","HGC Global Communications Limited",9
