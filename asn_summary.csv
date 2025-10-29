@@ -4,10 +4,10 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",21922
 "AS398324","Censys, Inc.",13047
 "AS396982","Google LLC",10190
-"AS32934","Facebook, Inc.",9391
+"AS32934","Facebook, Inc.",9402
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7755
-"AS16276","OVH SAS",5788
+"AS16276","OVH SAS",5789
 "AS4134","Chinanet",5002
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4436
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1168
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS36352","HostPapa",1137
+"AS36352","HostPapa",1138
 "AS174","Cogent Communications",1119
 "AS201401","NewVM B.V.",1076
 "AS23470","ReliableSite.Net LLC",1010
@@ -95,7 +95,7 @@ ASN,Organization,IP_Count
 "AS14987","Rethem Hosting LLC",215
 "AS141718","haoxiangyun",210
 "AS12389","PJSC Rostelecom",190
-"AS12555","Data-center IMAQLIQ Ltd.",187
+"AS12555","Data-center IMAQLIQ Ltd.",188
 "AS7552","Viettel Group",182
 "AS63199","CDS Global Cloud Co., Ltd",172
 "AS401116","Nybula LLC",170
@@ -308,6 +308,7 @@ ASN,Organization,IP_Count
 "AS140061","China Telecom",18
 "AS17638","ASN for TIANJIN Provincial Net of CT",18
 "AS18049","Taiwan Infrastructure Network Technologie",18
+"AS200590","NLS Kazakhstan LLC",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
 "AS24940","Hetzner Online GmbH",18
 "AS30860","Virtual Systems LLC",18
@@ -320,7 +321,6 @@ ASN,Organization,IP_Count
 "AS136958","China Unicom Guangdong IP network",17
 "AS148981","China Telecom",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
-"AS200590","NLS Kazakhstan LLC",17
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
 "AS30823","aurologic GmbH",17
 "AS45117","Ishan's Network",17
@@ -700,6 +700,7 @@ ASN,Organization,IP_Count
 "AS15924","Vodafone Net Iletisim Hizmetler AS",4
 "AS16010","Magticom Ltd.",4
 "AS18809","Cable Onda",4
+"AS19148","Leaseweb USA, Inc.",4
 "AS200845","AVATEL TELECOM, SA",4
 "AS20150","anyNode",4
 "AS203380","DA International Group Ltd.",4
@@ -836,7 +837,6 @@ ASN,Organization,IP_Count
 "AS17511","OPTAGE Inc.",3
 "AS17665","ONEOTT INTERTAINMENT LIMITED",3
 "AS17931","Netforest,Inc.",3
-"AS19148","Leaseweb USA, Inc.",3
 "AS19331","Twin Lakes Telephone Cooperative Corporation",3
 "AS196949","Natalia Sergeevna Filicheva",3
 "AS199468","GRAIN COMMUNICATIONS LIMITED",3
