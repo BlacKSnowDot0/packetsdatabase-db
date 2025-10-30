@@ -3,7 +3,7 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21928
 "AS398324","Censys, Inc.",13077
-"AS396982","Google LLC",10191
+"AS396982","Google LLC",10192
 "AS32934","Facebook, Inc.",9945
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7770
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2703
 "AS142002","Scloud Pte Ltd",2558
-"AS6939","Hurricane Electric LLC",2458
+"AS6939","Hurricane Electric LLC",2459
 "AS9808","China Mobile",2077
 "AS202425","IP Volume inc",1724
 "AS214295","SKYNET NETWORK LTD",1631
@@ -39,7 +39,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1124
 "AS201401","NewVM B.V.",1076
 "AS23470","ReliableSite.Net LLC",1012
-"AS13335","Cloudflare, Inc.",988
+"AS13335","Cloudflare, Inc.",989
 "AS208684","BHA CONSEIL SARL",985
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -188,9 +188,9 @@ ASN,Organization,IP_Count
 "AS27699","TELEFÔNICA BRASIL S.A",39
 "AS200514","KnownSRV Ltd.",38
 "AS26599","TELEFÔNICA BRASIL S.A",38
+"AS30633","Leaseweb USA, Inc.",37
 "AS8167","V tal",37
 "AS210558","1337 Services GmbH",36
-"AS30633","Leaseweb USA, Inc.",36
 "AS42624","Global-Data System IT Corporation",36
 "AS4538","China Education and Research Network Center",36
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",36
@@ -602,6 +602,7 @@ ASN,Organization,IP_Count
 "AS16223","MAXNET TELECOM, LTD",5
 "AS17858","LG POWERCOMM",5
 "AS18229","CtrlS",5
+"AS19148","Leaseweb USA, Inc.",5
 "AS198983","Joseph Hofmann trading as 'Tornado Datacenter GmbH & Co. KG'",5
 "AS201838","Community Fibre Limited",5
 "AS202468","Noyan Abr Arvan Co. ( Private Joint Stock)",5
@@ -700,7 +701,6 @@ ASN,Organization,IP_Count
 "AS15924","Vodafone Net Iletisim Hizmetler AS",4
 "AS16010","Magticom Ltd.",4
 "AS18809","Cable Onda",4
-"AS19148","Leaseweb USA, Inc.",4
 "AS200845","AVATEL TELECOM, SA",4
 "AS20150","anyNode",4
 "AS203380","DA International Group Ltd.",4
