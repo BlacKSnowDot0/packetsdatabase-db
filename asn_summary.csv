@@ -11,8 +11,8 @@ ASN,Organization,IP_Count
 "AS4134","Chinanet",5005
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4437
-"AS16509","Amazon.com, Inc.",4190
-"AS45102","Alibaba (US) Technology Co., Ltd.",3850
+"AS16509","Amazon.com, Inc.",4191
+"AS45102","Alibaba (US) Technology Co., Ltd.",3853
 "AS63949","Akamai Technologies, Inc.",3567
 "AS15169","Google LLC",3345
 "AS398705","Censys, Inc.",3238
@@ -85,8 +85,8 @@ ASN,Organization,IP_Count
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",284
 "AS48090","TECHOFF SRV LIMITED",254
+"AS213613","BOTSHIELD LTD",250
 "AS60223","Netiface Limited",250
-"AS213613","BOTSHIELD LTD",249
 "AS18403","FPT Telecom Company",248
 "AS208843","Alpha Strike Labs GmbH",246
 "AS209272","Alviva Holding Limited",230
@@ -121,8 +121,8 @@ ASN,Organization,IP_Count
 "AS205352","KABELNET LTD",93
 "AS63018","Dedicated.com",92
 "AS210125","PRIAM NET Sh.p.k.",89
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",85
 "AS58461","Chinanet",85
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",84
 "AS4766","Korea Telecom",83
 "AS16735","ALGAR TELECOM S/A",81
 "AS28209","Under Servicos de Internet Ltda",79
@@ -355,6 +355,7 @@ ASN,Organization,IP_Count
 "AS28126","BRISANET SERVICOS DE TELECOMUNICACOES LTDA",15
 "AS28201","Companhia Itabirana Telecomunicações Ltda",15
 "AS2914","NTT America, Inc.",15
+"AS30058","FDCservers.net",15
 "AS31113","Artkomm LLC",15
 "AS397283","RocketNode Inc",15
 "AS6849","JSC ""Ukrtelecom""",15
@@ -362,7 +363,6 @@ ASN,Organization,IP_Count
 "AS204104","Giti Secure Cloud LLC",14
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",14
 "AS27947","Telconet S.A",14
-"AS30058","FDCservers.net",14
 "AS30600","Metronet",14
 "AS3215","Orange S.A.",14
 "AS3352","TELEFONICA DE ESPANA S.A.U.",14
