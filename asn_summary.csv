@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",21928
 "AS398324","Censys, Inc.",13077
 "AS396982","Google LLC",10193
-"AS32934","Facebook, Inc.",9945
+"AS32934","Facebook, Inc.",9987
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7770
 "AS16276","OVH SAS",5790
@@ -16,11 +16,11 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3567
 "AS15169","Google LLC",3345
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3101
+"AS51396","Pfcloud UG",3102
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2703
 "AS142002","Scloud Pte Ltd",2558
-"AS6939","Hurricane Electric LLC",2460
+"AS6939","Hurricane Electric LLC",2461
 "AS9808","China Mobile",2077
 "AS202425","IP Volume inc",1725
 "AS214295","SKYNET NETWORK LTD",1631
@@ -50,7 +50,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS20052","Arbor Networks, Inc.",686
 "AS10439","CariNet, Inc.",621
-"AS14618","Amazon.com, Inc.",619
+"AS14618","Amazon.com, Inc.",620
 "AS51167","Contabo GmbH",617
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",572
@@ -64,7 +64,7 @@ ASN,Organization,IP_Count
 "AS50360","Tamatiya EOOD",492
 "AS51115","HLL LLC",469
 "AS212238","Datacamp Limited",456
-"AS53667","FranTech Solutions",454
+"AS53667","FranTech Solutions",455
 "AS12876","ONLINE S.A.S.",422
 "AS9829","Bharat Sanchar Nigam Ltd",419
 "AS21299","Kar-Tel LLC",406
@@ -283,13 +283,13 @@ ASN,Organization,IP_Count
 "AS46573","LayerHost",21
 "AS4800","PT Aplikanusa Lintasarta",21
 "AS50887","DC FIBER HOME SRL",21
+"AS6739","VODAFONE ONO, S.A.",21
 "AS9299","Philippine Long Distance Telephone Co.",21
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS43641","SOLLUTIUM EU Sp z.o.o.",20
-"AS6739","VODAFONE ONO, S.A.",20
 "AS11426","Charter Communications Inc",19
 "AS14593","Space Exploration Technologies Corporation",19
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",19
