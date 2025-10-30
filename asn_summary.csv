@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87694
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21929
-"AS398324","Censys, Inc.",13084
+"AS398324","Censys, Inc.",13086
 "AS32934","Facebook, Inc.",10786
 "AS396982","Google LLC",10200
 "AS26210","AXS Bolivia S. A.",7972
@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS4134","Chinanet",5006
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4437
-"AS16509","Amazon.com, Inc.",4256
+"AS16509","Amazon.com, Inc.",4260
 "AS45102","Alibaba (US) Technology Co., Ltd.",3854
 "AS63949","Akamai Technologies, Inc.",3569
 "AS15169","Google LLC",3345
@@ -38,7 +38,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS174","Cogent Communications",1124
 "AS201401","NewVM B.V.",1076
-"AS13335","Cloudflare, Inc.",1023
+"AS13335","Cloudflare, Inc.",1039
 "AS23470","ReliableSite.Net LLC",1012
 "AS208684","BHA CONSEIL SARL",985
 "AS51852","Private Layer INC",907
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS20052","Arbor Networks, Inc.",688
-"AS14618","Amazon.com, Inc.",628
+"AS14618","Amazon.com, Inc.",629
 "AS10439","CariNet, Inc.",622
 "AS51167","Contabo GmbH",617
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -599,6 +599,7 @@ ASN,Organization,IP_Count
 "AS141140","PT Jinde Grup Indonesia",5
 "AS15108","Allo Communications LLC",5
 "AS151858","INTERDIGI JOINT STOCK COMPANY",5
+"AS16010","Magticom Ltd.",5
 "AS16223","MAXNET TELECOM, LTD",5
 "AS17858","LG POWERCOMM",5
 "AS18229","CtrlS",5
@@ -699,7 +700,6 @@ ASN,Organization,IP_Count
 "AS15735","GO p.l.c.",4
 "AS15802","Emirates Integrated Telecommunications Company PJSC",4
 "AS15924","Vodafone Net Iletisim Hizmetler AS",4
-"AS16010","Magticom Ltd.",4
 "AS18809","Cable Onda",4
 "AS200845","AVATEL TELECOM, SA",4
 "AS20150","anyNode",4
