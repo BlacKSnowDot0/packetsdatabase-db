@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87694
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21929
-"AS398324","Censys, Inc.",13081
-"AS32934","Facebook, Inc.",10466
+"AS398324","Censys, Inc.",13082
+"AS32934","Facebook, Inc.",10554
 "AS396982","Google LLC",10199
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7770
+"AS14061","DigitalOcean, LLC",7771
 "AS16276","OVH SAS",5790
 "AS4134","Chinanet",5006
 "AS6568","Entel S.A. - EntelNet",4537
@@ -39,7 +39,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1124
 "AS201401","NewVM B.V.",1076
 "AS23470","ReliableSite.Net LLC",1012
-"AS13335","Cloudflare, Inc.",991
+"AS13335","Cloudflare, Inc.",994
 "AS208684","BHA CONSEIL SARL",985
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -88,7 +88,7 @@ ASN,Organization,IP_Count
 "AS213613","BOTSHIELD LTD",250
 "AS60223","Netiface Limited",250
 "AS18403","FPT Telecom Company",248
-"AS208843","Alpha Strike Labs GmbH",246
+"AS208843","Alpha Strike Labs GmbH",247
 "AS209272","Alviva Holding Limited",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS701","Verizon Business",220
@@ -99,7 +99,7 @@ ASN,Organization,IP_Count
 "AS7552","Viettel Group",182
 "AS63199","CDS Global Cloud Co., Ltd",172
 "AS401116","Nybula LLC",170
-"AS29484","Ruhr-Universitaet Bochum",163
+"AS29484","Ruhr-Universitaet Bochum",164
 "AS206264","Amarutu Technology Ltd",153
 "AS47105","Vault Dweller OU",141
 "AS50219","LNK SYSTEMS MUNTENIA SRL",133
@@ -279,6 +279,7 @@ ASN,Organization,IP_Count
 "AS2856","British Telecommunications PLC",21
 "AS3320","Deutsche Telekom AG",21
 "AS400536","Nodestop LLC",21
+"AS43641","SOLLUTIUM EU Sp z.o.o.",21
 "AS45758","Triple T Broadband Public Company Limited",21
 "AS46573","LayerHost",21
 "AS4800","PT Aplikanusa Lintasarta",21
@@ -289,7 +290,6 @@ ASN,Organization,IP_Count
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
-"AS43641","SOLLUTIUM EU Sp z.o.o.",20
 "AS11426","Charter Communications Inc",19
 "AS14593","Space Exploration Technologies Corporation",19
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",19
