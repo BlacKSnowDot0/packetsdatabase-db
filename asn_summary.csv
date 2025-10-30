@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87694
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21932
-"AS398324","Censys, Inc.",13091
+"AS398324","Censys, Inc.",13093
 "AS32934","Facebook, Inc.",10808
 "AS396982","Google LLC",10201
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7777
+"AS14061","DigitalOcean, LLC",7778
 "AS16276","OVH SAS",5792
 "AS4134","Chinanet",5006
 "AS6568","Entel S.A. - EntelNet",4537
@@ -546,6 +546,7 @@ ASN,Organization,IP_Count
 "AS16058","Gabon Telecom Internet Network Autonomous System",6
 "AS16611","InfiniaHost.com",6
 "AS17754","Excellmedia",6
+"AS19148","Leaseweb USA, Inc.",6
 "AS198323","TOV Informatsiyni Kirovohrads'ki Systemy",6
 "AS203020","HostRoyale Technologies Pvt Ltd",6
 "AS210538","KEYUBU Internet ve Bilisim Tic. Ltd. Sti.",6
@@ -603,7 +604,6 @@ ASN,Organization,IP_Count
 "AS16223","MAXNET TELECOM, LTD",5
 "AS17858","LG POWERCOMM",5
 "AS18229","CtrlS",5
-"AS19148","Leaseweb USA, Inc.",5
 "AS198983","Joseph Hofmann trading as 'Tornado Datacenter GmbH & Co. KG'",5
 "AS201838","Community Fibre Limited",5
 "AS202468","Noyan Abr Arvan Co. ( Private Joint Stock)",5
