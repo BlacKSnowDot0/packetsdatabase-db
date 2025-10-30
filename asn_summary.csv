@@ -22,7 +22,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2558
 "AS6939","Hurricane Electric LLC",2459
 "AS9808","China Mobile",2077
-"AS202425","IP Volume inc",1724
+"AS202425","IP Volume inc",1725
 "AS214295","SKYNET NETWORK LTD",1631
 "AS0","",1535
 "AS209605","UAB Host Baltic",1516
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",1187
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1169
-"AS36352","HostPapa",1142
+"AS36352","HostPapa",1143
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS174","Cogent Communications",1124
@@ -45,7 +45,7 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",817
-"AS215925","VPSVAULT.HOST LTD",807
+"AS215925","VPSVAULT.HOST LTD",808
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS20052","Arbor Networks, Inc.",686
@@ -118,7 +118,7 @@ ASN,Organization,IP_Count
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",102
 "AS34984","Superonline Iletisim Hizmetleri A.S.",97
 "AS151185","China Telecom",96
-"AS205352","KABELNET LTD",92
+"AS205352","KABELNET LTD",93
 "AS63018","Dedicated.com",92
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS58461","Chinanet",85
@@ -289,6 +289,7 @@ ASN,Organization,IP_Count
 "AS214417","Andrii Hrosh",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS43641","SOLLUTIUM EU Sp z.o.o.",20
+"AS6739","VODAFONE ONO, S.A.",20
 "AS11426","Charter Communications Inc",19
 "AS14593","Space Exploration Technologies Corporation",19
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",19
@@ -317,7 +318,6 @@ ASN,Organization,IP_Count
 "AS400655","NixLabs Networks",18
 "AS40676","Psychz Networks",18
 "AS6697","Republican Unitary Telecommunication Enterprise Beltelecom",18
-"AS6739","VODAFONE ONO, S.A.",18
 "AS12874","Fastweb SpA",17
 "AS136958","China Unicom Guangdong IP network",17
 "AS148981","China Telecom",17
