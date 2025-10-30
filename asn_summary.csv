@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87694
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21934
-"AS398324","Censys, Inc.",13104
+"AS398324","Censys, Inc.",13105
 "AS32934","Facebook, Inc.",11264
-"AS396982","Google LLC",10204
+"AS396982","Google LLC",10206
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7780
 "AS16276","OVH SAS",5792
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4437
 "AS16509","Amazon.com, Inc.",4264
 "AS45102","Alibaba (US) Technology Co., Ltd.",3855
-"AS63949","Akamai Technologies, Inc.",3569
+"AS63949","Akamai Technologies, Inc.",3570
 "AS15169","Google LLC",3345
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3102
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",688
 "AS14618","Amazon.com, Inc.",629
 "AS10439","CariNet, Inc.",622
-"AS51167","Contabo GmbH",618
+"AS51167","Contabo GmbH",619
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",572
 "AS31148","Freenet LTD",558
@@ -117,7 +117,7 @@ ASN,Organization,IP_Count
 "AS47331","TTNet A.S.",103
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",102
 "AS34984","Superonline Iletisim Hizmetleri A.S.",99
-"AS151185","China Telecom",96
+"AS151185","China Telecom",97
 "AS205352","KABELNET LTD",93
 "AS63018","Dedicated.com",92
 "AS210125","PRIAM NET Sh.p.k.",89
@@ -127,8 +127,8 @@ ASN,Organization,IP_Count
 "AS16735","ALGAR TELECOM S/A",81
 "AS28209","Under Servicos de Internet Ltda",79
 "AS5617","Orange Polska Spolka Akcyjna",79
+"AS136435","ELITE COMMUNICATION",78
 "AS200019","ALEXHOST SRL",78
-"AS136435","ELITE COMMUNICATION",77
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS8560","IONOS SE",76
 "AS27882","Telefónica Celular de Bolivia S.A.",75
