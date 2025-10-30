@@ -2,18 +2,18 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87694
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21929
-"AS398324","Censys, Inc.",13083
+"AS398324","Censys, Inc.",13084
 "AS32934","Facebook, Inc.",10786
 "AS396982","Google LLC",10200
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7773
+"AS14061","DigitalOcean, LLC",7774
 "AS16276","OVH SAS",5790
 "AS4134","Chinanet",5006
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4437
-"AS16509","Amazon.com, Inc.",4252
+"AS16509","Amazon.com, Inc.",4256
 "AS45102","Alibaba (US) Technology Co., Ltd.",3854
-"AS63949","Akamai Technologies, Inc.",3568
+"AS63949","Akamai Technologies, Inc.",3569
 "AS15169","Google LLC",3345
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3102
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1310
 "AS36352","HostPapa",1199
-"AS32475","Internap Holding LLC",1189
+"AS32475","Internap Holding LLC",1190
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1170
 "AS399045","DediOutlet, LLC",1142
@@ -55,7 +55,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",572
 "AS31148","Freenet LTD",558
-"AS4837","CHINA UNICOM China169 Backbone",554
+"AS4837","CHINA UNICOM China169 Backbone",555
 "AS401120","cheapy.host LLC",549
 "AS9009","M247 Europe SRL",546
 "AS198953","Proton66 OOO",527
@@ -135,9 +135,9 @@ ASN,Organization,IP_Count
 "AS32475","SingleHop LLC",75
 "AS40021","Nubes, LLC",75
 "AS56046","China Mobile Communications Corporation",74
+"AS199785","Cloud Hosting Solutions, Limited.",72
 "AS271795","SERVITELCONET CIA. LTDA.",72
 "AS31898","Oracle Corporation",72
-"AS199785","Cloud Hosting Solutions, Limited.",71
 "AS3920","ESTOXY OU",71
 "AS11320","LightEdge Solutions",70
 "AS52053","REDHEBERG Association declaree",69
@@ -174,7 +174,7 @@ ASN,Organization,IP_Count
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
 "AS10796","Charter Communications Inc",45
-"AS149746","PT Blip Integrator Provider",44
+"AS149746","PT Blip Integrator Provider",45
 "AS396356","Latitude.sh",44
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
@@ -362,6 +362,7 @@ ASN,Organization,IP_Count
 "AS19901","Brightspeed",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",14
+"AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",14
 "AS27947","Telconet S.A",14
 "AS30600","Metronet",14
 "AS3215","Orange S.A.",14
@@ -388,7 +389,6 @@ ASN,Organization,IP_Count
 "AS12400","Partner Communications Ltd.",12
 "AS134420","Chongqing Telecom",12
 "AS213438","ColocaTel Inc.",12
-"AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",12
 "AS2637","Georgia Institute of Technology",12
 "AS271597","NEW LINK CONNECT",12
 "AS3243","MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.",12
