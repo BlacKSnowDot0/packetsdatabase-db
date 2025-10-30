@@ -3,15 +3,15 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21929
 "AS398324","Censys, Inc.",13083
-"AS32934","Facebook, Inc.",10681
-"AS396982","Google LLC",10199
+"AS32934","Facebook, Inc.",10786
+"AS396982","Google LLC",10200
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7772
+"AS14061","DigitalOcean, LLC",7773
 "AS16276","OVH SAS",5790
 "AS4134","Chinanet",5006
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4437
-"AS16509","Amazon.com, Inc.",4235
+"AS16509","Amazon.com, Inc.",4252
 "AS45102","Alibaba (US) Technology Co., Ltd.",3854
 "AS63949","Akamai Technologies, Inc.",3568
 "AS15169","Google LLC",3345
@@ -31,14 +31,14 @@ ASN,Organization,IP_Count
 "AS215269","LAZYCLOUD LTD",1312
 "AS49870","Alsycon B.V.",1310
 "AS36352","HostPapa",1199
-"AS32475","Internap Holding LLC",1188
+"AS32475","Internap Holding LLC",1189
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1170
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS174","Cogent Communications",1124
 "AS201401","NewVM B.V.",1076
-"AS13335","Cloudflare, Inc.",1018
+"AS13335","Cloudflare, Inc.",1023
 "AS23470","ReliableSite.Net LLC",1012
 "AS208684","BHA CONSEIL SARL",985
 "AS51852","Private Layer INC",907
@@ -48,7 +48,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",808
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
-"AS20052","Arbor Networks, Inc.",687
+"AS20052","Arbor Networks, Inc.",688
 "AS14618","Amazon.com, Inc.",628
 "AS10439","CariNet, Inc.",622
 "AS51167","Contabo GmbH",617
@@ -62,8 +62,8 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",500
 "AS50360","Tamatiya EOOD",492
-"AS51115","HLL LLC",471
-"AS212238","Datacamp Limited",457
+"AS51115","HLL LLC",472
+"AS212238","Datacamp Limited",458
 "AS53667","FranTech Solutions",455
 "AS12876","ONLINE S.A.S.",423
 "AS9829","Bharat Sanchar Nigam Ltd",420
@@ -75,7 +75,7 @@ ASN,Organization,IP_Count
 "AS47890","UNMANAGED LTD",347
 "AS7922","Comcast Cable Communications, LLC",344
 "AS21859","Zenlayer Inc",343
-"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",329
+"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",330
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",315
 "AS214943","Railnet LLC",315
 "AS45899","VNPT Corp",315
