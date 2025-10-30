@@ -3,15 +3,15 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21928
 "AS398324","Censys, Inc.",13077
+"AS32934","Facebook, Inc.",10235
 "AS396982","Google LLC",10197
-"AS32934","Facebook, Inc.",10146
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7770
 "AS16276","OVH SAS",5790
-"AS4134","Chinanet",5005
+"AS4134","Chinanet",5006
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4437
-"AS16509","Amazon.com, Inc.",4195
+"AS16509","Amazon.com, Inc.",4227
 "AS45102","Alibaba (US) Technology Co., Ltd.",3853
 "AS63949","Akamai Technologies, Inc.",3567
 "AS15169","Google LLC",3345
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2077
 "AS202425","IP Volume inc",1725
 "AS214295","SKYNET NETWORK LTD",1631
-"AS0","",1535
+"AS0","",1539
 "AS209605","UAB Host Baltic",1516
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1389
@@ -48,9 +48,9 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",808
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
-"AS20052","Arbor Networks, Inc.",686
+"AS20052","Arbor Networks, Inc.",687
+"AS14618","Amazon.com, Inc.",623
 "AS10439","CariNet, Inc.",622
-"AS14618","Amazon.com, Inc.",620
 "AS51167","Contabo GmbH",617
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",572
@@ -528,6 +528,7 @@ ASN,Organization,IP_Count
 "AS58821","PT Lintas Jaringan Nusantara",7
 "AS63023","GTHost",7
 "AS63838","Hengyang",7
+"AS64236","UnReal Servers, LLC",7
 "AS8764","Telia Lietuva, AB",7
 "AS9541","Cyber Internet Services (Private) Limited",7
 "AS9658","Eastern Telecommunications Philippines, Inc.",7
@@ -582,7 +583,6 @@ ASN,Organization,IP_Count
 "AS56971","CGI GLOBAL LIMITED",6
 "AS58495","PT Parsaoran Global Datatrans",6
 "AS58519","Cloud Computing Corporation",6
-"AS64236","UnReal Servers, LLC",6
 "AS8926","Moldtelecom SA",6
 "AS9873","Lao Telecommunication Public Company",6
 "AS10429","TELEFÔNICA BRASIL S.A",5
