@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2703
 "AS142002","Scloud Pte Ltd",2558
-"AS6939","Hurricane Electric LLC",2459
+"AS6939","Hurricane Electric LLC",2460
 "AS9808","China Mobile",2077
 "AS202425","IP Volume inc",1725
 "AS214295","SKYNET NETWORK LTD",1631
@@ -274,6 +274,7 @@ ASN,Organization,IP_Count
 "AS17561","Larus Limited",21
 "AS17816","China Unicom IP network China169 Guangdong province",21
 "AS210509","Optimum Line for Internet Services Ltd.",21
+"AS214417","Andrii Hrosh",21
 "AS214668","AxusHost B.V.",21
 "AS2856","British Telecommunications PLC",21
 "AS3320","Deutsche Telekom AG",21
@@ -286,7 +287,6 @@ ASN,Organization,IP_Count
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
-"AS214417","Andrii Hrosh",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS43641","SOLLUTIUM EU Sp z.o.o.",20
 "AS6739","VODAFONE ONO, S.A.",20
