@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87694
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21929
-"AS398324","Censys, Inc.",13079
-"AS32934","Facebook, Inc.",10411
+"AS398324","Censys, Inc.",13081
+"AS32934","Facebook, Inc.",10466
 "AS396982","Google LLC",10199
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7770
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2704
 "AS142002","Scloud Pte Ltd",2558
-"AS6939","Hurricane Electric LLC",2463
+"AS6939","Hurricane Electric LLC",2464
 "AS9808","China Mobile",2077
 "AS202425","IP Volume inc",1725
 "AS214295","SKYNET NETWORK LTD",1631
@@ -39,7 +39,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1124
 "AS201401","NewVM B.V.",1076
 "AS23470","ReliableSite.Net LLC",1012
-"AS13335","Cloudflare, Inc.",989
+"AS13335","Cloudflare, Inc.",991
 "AS208684","BHA CONSEIL SARL",985
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS20052","Arbor Networks, Inc.",687
-"AS14618","Amazon.com, Inc.",626
+"AS14618","Amazon.com, Inc.",627
 "AS10439","CariNet, Inc.",622
 "AS51167","Contabo GmbH",617
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -65,8 +65,8 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",471
 "AS212238","Datacamp Limited",457
 "AS53667","FranTech Solutions",455
-"AS12876","ONLINE S.A.S.",422
-"AS9829","Bharat Sanchar Nigam Ltd",419
+"AS12876","ONLINE S.A.S.",423
+"AS9829","Bharat Sanchar Nigam Ltd",420
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -93,7 +93,7 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS701","Verizon Business",220
 "AS14987","Rethem Hosting LLC",215
-"AS141718","haoxiangyun",210
+"AS141718","haoxiangyun",211
 "AS12389","PJSC Rostelecom",190
 "AS12555","Data-center IMAQLIQ Ltd.",189
 "AS7552","Viettel Group",182
