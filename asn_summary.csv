@@ -6,7 +6,7 @@ ASN,Organization,IP_Count
 "AS32934","Facebook, Inc.",10786
 "AS396982","Google LLC",10200
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7774
+"AS14061","DigitalOcean, LLC",7775
 "AS16276","OVH SAS",5790
 "AS4134","Chinanet",5006
 "AS6568","Entel S.A. - EntelNet",4537
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3102
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2704
-"AS142002","Scloud Pte Ltd",2558
+"AS142002","Scloud Pte Ltd",2559
 "AS6939","Hurricane Electric LLC",2464
 "AS9808","China Mobile",2077
 "AS202425","IP Volume inc",1725
@@ -38,8 +38,8 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS174","Cogent Communications",1124
 "AS201401","NewVM B.V.",1076
-"AS13335","Cloudflare, Inc.",1039
-"AS23470","ReliableSite.Net LLC",1012
+"AS13335","Cloudflare, Inc.",1041
+"AS23470","ReliableSite.Net LLC",1013
 "AS208684","BHA CONSEIL SARL",985
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -441,6 +441,7 @@ ASN,Organization,IP_Count
 "AS52468","UFINET PANAMA S.A.",10
 "AS57269","DIGI SPAIN TELECOM S.L.U.",10
 "AS62068","SpectraIP B.V.",10
+"AS9770","LG HelloVision Corp.",10
 "AS9930","TT DOTCOM SDN BHD",10
 "AS12353","Vodafone Portugal - Communicacoes Pessoais S.A.",9
 "AS1267","RIPE Network Coordination Centre",9
@@ -465,7 +466,6 @@ ASN,Organization,IP_Count
 "AS8346","SONATEL-AS Autonomous System",9
 "AS9038","Batelco Jordan",9
 "AS9304","HGC Global Communications Limited",9
-"AS9770","LG HelloVision Corp.",9
 "AS12271","Charter Communications Inc",8
 "AS133982","Excitel Broadband Private Limited",8
 "AS135918","VIET DIGITAL TECHNOLOGY LIABILITY COMPANY",8
