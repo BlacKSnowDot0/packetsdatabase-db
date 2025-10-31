@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87696
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21943
-"AS398324","Censys, Inc.",13151
+"AS398324","Censys, Inc.",13152
 "AS32934","Facebook, Inc.",11264
-"AS396982","Google LLC",10247
+"AS396982","Google LLC",10249
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7797
 "AS16276","OVH SAS",5793
@@ -12,26 +12,26 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4437
 "AS16509","Amazon.com, Inc.",4264
-"AS45102","Alibaba (US) Technology Co., Ltd.",3868
+"AS45102","Alibaba (US) Technology Co., Ltd.",3869
 "AS63949","Akamai Technologies, Inc.",3578
 "AS15169","Google LLC",3345
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3102
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2715
+"AS8075","Microsoft Corporation",2717
 "AS142002","Scloud Pte Ltd",2559
 "AS6939","Hurricane Electric LLC",2496
 "AS9808","China Mobile",2077
 "AS202425","IP Volume inc",1729
 "AS214295","SKYNET NETWORK LTD",1631
-"AS0","",1599
+"AS0","",1602
 "AS209605","UAB Host Baltic",1517
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1394
 "AS49870","Alsycon B.V.",1333
 "AS215269","LAZYCLOUD LTD",1312
 "AS36352","HostPapa",1212
-"AS32475","Internap Holding LLC",1206
+"AS32475","Internap Holding LLC",1207
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1170
 "AS399045","DediOutlet, LLC",1142
@@ -1090,6 +1090,7 @@ ASN,Organization,IP_Count
 "AS18501","CyberCloud Professionals LLC",2
 "AS19429","ETB - Colombia",2
 "AS198227","New Telecom Ltd",2
+"AS198253","Kukushkin Anatoly Valerievich",2
 "AS198381","Star Satellite Communications Company - PJSC",2
 "AS198551","REZOCEAN SAS",2
 "AS19871","Network Solutions, LLC",2
@@ -1792,7 +1793,6 @@ ASN,Organization,IP_Count
 "AS197834","Ucom CJSC",1
 "AS198102","XSTREAM SRL",1
 "AS198154","Pars Abr Toseeh Ertebatat Company",1
-"AS198253","Kukushkin Anatoly Valerievich",1
 "AS198256","Mishkei Shita Communication LTD",1
 "AS198279","Albanian Telecommunications Union SH. P.K.",1
 "AS198371","NINET Company Nis d.o.o.",1
