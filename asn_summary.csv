@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2077
 "AS202425","IP Volume inc",1729
 "AS214295","SKYNET NETWORK LTD",1631
-"AS0","",1589
+"AS0","",1592
 "AS209605","UAB Host Baltic",1517
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1394
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1170
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS174","Cogent Communications",1132
+"AS174","Cogent Communications",1133
 "AS201401","NewVM B.V.",1076
 "AS13335","Cloudflare, Inc.",1042
 "AS23470","ReliableSite.Net LLC",1019
@@ -85,7 +85,7 @@ ASN,Organization,IP_Count
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",284
 "AS48090","TECHOFF SRV LIMITED",254
-"AS213613","BOTSHIELD LTD",252
+"AS213613","BOTSHIELD LTD",253
 "AS60223","Netiface Limited",250
 "AS18403","FPT Telecom Company",248
 "AS208843","Alpha Strike Labs GmbH",248
@@ -632,6 +632,7 @@ ASN,Organization,IP_Count
 "AS28580","CILNET Comunicacao e Informatica LTDA.",5
 "AS28773","Global Technologies of Ukraine LLC",5
 "AS29049","Delta Telecom Ltd",5
+"AS29182","JSC IOT",5
 "AS30722","Vodafone Italia S.p.A.",5
 "AS31133","PJSC MegaFon",5
 "AS328510","Ikeja Wireless (Pty) Ltd",5
@@ -734,7 +735,6 @@ ASN,Organization,IP_Count
 "AS28258","VERO S.A",4
 "AS28753","Leaseweb Deutschland GmbH",4
 "AS28787","Baku Telephone Communication LLC",4
-"AS29182","JSC IOT",4
 "AS29314","VECTRA S.A.",4
 "AS30036","Mediacom Communications Corp",4
 "AS30619","TMCEL - Moçambique Telecom, SA",4
