@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",21936
 "AS398324","Censys, Inc.",13122
 "AS32934","Facebook, Inc.",11264
-"AS396982","Google LLC",10218
+"AS396982","Google LLC",10219
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7782
 "AS16276","OVH SAS",5793
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2077
 "AS202425","IP Volume inc",1728
 "AS214295","SKYNET NETWORK LTD",1631
-"AS0","",1542
+"AS0","",1543
 "AS209605","UAB Host Baltic",1517
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1391
@@ -48,7 +48,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",808
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
-"AS20052","Arbor Networks, Inc.",693
+"AS20052","Arbor Networks, Inc.",694
 "AS14618","Amazon.com, Inc.",630
 "AS10439","CariNet, Inc.",622
 "AS51167","Contabo GmbH",620
@@ -183,9 +183,9 @@ ASN,Organization,IP_Count
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS262378","Compuservice Empreendimentos Ltda",42
 "AS7738","V tal",42
+"AS200514","KnownSRV Ltd.",40
 "AS21928","T-Mobile USA, Inc.",40
 "AS23969","TOT Public Company Limited",40
-"AS200514","KnownSRV Ltd.",39
 "AS27699","TELEFÔNICA BRASIL S.A",39
 "AS26599","TELEFÔNICA BRASIL S.A",38
 "AS30633","Leaseweb USA, Inc.",38
@@ -1124,6 +1124,7 @@ ASN,Organization,IP_Count
 "AS213186","Yanoor Islam Khan",2
 "AS213725","UK-03AI",2
 "AS214309","Aurorix Gaming Solutions Limited",2
+"AS214382","Bulent Aydin trading as Hostlayici",2
 "AS214657","Bls Services Tecnologia em Software Ltda",2
 "AS21479","PJSC Rostelecom",2
 "AS214882","Hadi Santosa",2
@@ -1910,7 +1911,6 @@ ASN,Organization,IP_Count
 "AS21409","Ikoula Net SAS",1
 "AS214305","YUNUS EMRE OZEREN",1
 "AS214364","StreamTech Solutions EOOD",1
-"AS214382","Bulent Aydin trading as Hostlayici",1
 "AS214822","MT FINANCE LLC",1
 "AS214834","Rekade LTD",1
 "AS214902","Philip Fjaera trading as PFWeb Solutions",1
