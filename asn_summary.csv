@@ -1,18 +1,18 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87695
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
-"AS211298","Driftnet Ltd",21939
+"AS211298","Driftnet Ltd",21942
 "AS398324","Censys, Inc.",13136
 "AS32934","Facebook, Inc.",11264
-"AS396982","Google LLC",10233
+"AS396982","Google LLC",10234
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7787
+"AS14061","DigitalOcean, LLC",7788
 "AS16276","OVH SAS",5793
 "AS4134","Chinanet",5007
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4437
 "AS16509","Amazon.com, Inc.",4264
-"AS45102","Alibaba (US) Technology Co., Ltd.",3865
+"AS45102","Alibaba (US) Technology Co., Ltd.",3866
 "AS63949","Akamai Technologies, Inc.",3578
 "AS15169","Google LLC",3345
 "AS398705","Censys, Inc.",3238
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2077
 "AS202425","IP Volume inc",1729
 "AS214295","SKYNET NETWORK LTD",1631
-"AS0","",1571
+"AS0","",1572
 "AS209605","UAB Host Baltic",1517
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1394
@@ -146,8 +146,8 @@ ASN,Organization,IP_Count
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS57588","Hayat for Internet & communication LLC",65
+"AS215590","DpkgSoft International Limited",62
 "AS140717","China Unicom",61
-"AS215590","DpkgSoft International Limited",61
 "AS22773","Cox Communications Inc.",60
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS4812","China Telecom (Group)",60
@@ -266,6 +266,7 @@ ASN,Organization,IP_Count
 "AS213010","Gening Nikita Dmitrievich",22
 "AS24560","Bharti Airtel Limited",22
 "AS43289","Trabia SRL",22
+"AS43641","SOLLUTIUM EU Sp z.o.o.",22
 "AS51430","AltusHost B.V.",22
 "AS58212","dataforest GmbH",22
 "AS63859","PT. Eka Mas Republik",22
@@ -281,7 +282,6 @@ ASN,Organization,IP_Count
 "AS329490","Promethean Consulting Limited",21
 "AS3320","Deutsche Telekom AG",21
 "AS400536","Nodestop LLC",21
-"AS43641","SOLLUTIUM EU Sp z.o.o.",21
 "AS45758","Triple T Broadband Public Company Limited",21
 "AS46573","LayerHost",21
 "AS4800","PT Aplikanusa Lintasarta",21
