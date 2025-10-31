@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87695
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21942
-"AS398324","Censys, Inc.",13137
+"AS398324","Censys, Inc.",13139
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10236
 "AS26210","AXS Bolivia S. A.",7972
@@ -20,18 +20,18 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2714
 "AS142002","Scloud Pte Ltd",2559
-"AS6939","Hurricane Electric LLC",2495
+"AS6939","Hurricane Electric LLC",2496
 "AS9808","China Mobile",2077
 "AS202425","IP Volume inc",1729
 "AS214295","SKYNET NETWORK LTD",1631
-"AS0","",1575
+"AS0","",1576
 "AS209605","UAB Host Baltic",1517
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1394
 "AS49870","Alsycon B.V.",1333
 "AS215269","LAZYCLOUD LTD",1312
 "AS36352","HostPapa",1211
-"AS32475","Internap Holding LLC",1204
+"AS32475","Internap Holding LLC",1205
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1170
 "AS399045","DediOutlet, LLC",1142
@@ -47,7 +47,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",817
 "AS215925","VPSVAULT.HOST LTD",808
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",708
+"AS20052","Arbor Networks, Inc.",709
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS14618","Amazon.com, Inc.",630
 "AS10439","CariNet, Inc.",622
@@ -1268,6 +1268,7 @@ ASN,Organization,IP_Count
 "AS34779","T-2, d.o.o.",2
 "AS35213","TOV ""Kompjuternie Merezhi""",2
 "AS35586","VOLYN OPTICAL NETWORKS LLC",2
+"AS35682","BEST INTERNET SOLUTION XK",2
 "AS35986","Vyve Broadband",2
 "AS36692","Cisco OpenDNS, LLC",2
 "AS36728","Emery Telcom",2
@@ -2513,7 +2514,6 @@ ASN,Organization,IP_Count
 "AS35362","LIMITED LIABILITY COMPANY ""BEST SOLUTIONS""",1
 "AS35394","Cable Aireworld S.A.U.",1
 "AS35654","Cores Networks EOOD",1
-"AS35682","BEST INTERNET SOLUTION XK",1
 "AS35699","Adamo Telecom Iberia S.A.",1
 "AS35795","Vedekon Ltd",1
 "AS3580","Planet Networks",1
