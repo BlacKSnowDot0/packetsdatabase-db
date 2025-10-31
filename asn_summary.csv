@@ -1,10 +1,10 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87695
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
-"AS211298","Driftnet Ltd",21938
-"AS398324","Censys, Inc.",13127
+"AS211298","Driftnet Ltd",21939
+"AS398324","Censys, Inc.",13128
 "AS32934","Facebook, Inc.",11264
-"AS396982","Google LLC",10227
+"AS396982","Google LLC",10228
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7782
 "AS16276","OVH SAS",5793
@@ -22,9 +22,9 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2559
 "AS6939","Hurricane Electric LLC",2488
 "AS9808","China Mobile",2077
-"AS202425","IP Volume inc",1728
+"AS202425","IP Volume inc",1729
 "AS214295","SKYNET NETWORK LTD",1631
-"AS0","",1558
+"AS0","",1560
 "AS209605","UAB Host Baltic",1517
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1393
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",479
 "AS212238","Datacamp Limited",458
 "AS53667","FranTech Solutions",458
-"AS12876","ONLINE S.A.S.",425
+"AS12876","ONLINE S.A.S.",426
 "AS9829","Bharat Sanchar Nigam Ltd",423
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
@@ -299,6 +299,7 @@ ASN,Organization,IP_Count
 "AS22927","Telefonica de Argentina",19
 "AS24348","CERNET2 IX at Tsinghua University",19
 "AS262287","Maxihost LTDA",19
+"AS329009","Spectrum Internet Service Ltd",19
 "AS41745","Baykov Ilya Sergeevich",19
 "AS4816","China Telecom (Group)",19
 "AS49531","""NetCom-R"" LLC",19
@@ -313,7 +314,6 @@ ASN,Organization,IP_Count
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
 "AS24940","Hetzner Online GmbH",18
 "AS30860","Virtual Systems LLC",18
-"AS329009","Spectrum Internet Service Ltd",18
 "AS39603","P4 Sp. z o.o.",18
 "AS400655","NixLabs Networks",18
 "AS40676","Psychz Networks",18
