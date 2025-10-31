@@ -20,11 +20,11 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2709
 "AS142002","Scloud Pte Ltd",2559
-"AS6939","Hurricane Electric LLC",2480
+"AS6939","Hurricane Electric LLC",2484
 "AS9808","China Mobile",2077
 "AS202425","IP Volume inc",1728
 "AS214295","SKYNET NETWORK LTD",1631
-"AS0","",1548
+"AS0","",1549
 "AS209605","UAB Host Baltic",1517
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1391
@@ -99,7 +99,7 @@ ASN,Organization,IP_Count
 "AS7552","Viettel Group",182
 "AS63199","CDS Global Cloud Co., Ltd",172
 "AS401116","Nybula LLC",170
-"AS29484","Ruhr-Universitaet Bochum",165
+"AS29484","Ruhr-Universitaet Bochum",166
 "AS206264","Amarutu Technology Ltd",153
 "AS47105","Vault Dweller OU",141
 "AS50219","LNK SYSTEMS MUNTENIA SRL",133
@@ -749,6 +749,7 @@ ASN,Organization,IP_Count
 "AS400391","Pacific Wyyerd LLC",4
 "AS43754","Asiatech Data Transmission company",4
 "AS44395","Ucom CJSC",4
+"AS44486","Oliver Horscht is trading as ""SYNLINQ""",4
 "AS45284","Wireline Solution India Pvt Ltd.",4
 "AS45609","Bharti Airtel Limited",4
 "AS45700","PT. NAP Info Lintas Nusa",4
@@ -928,7 +929,6 @@ ASN,Organization,IP_Count
 "AS43047","Stream-Network Ltd.",3
 "AS43588","IM Level 7 SRL",3
 "AS43612","Company for communications services A1 Makedonija DOOEL Skopje",3
-"AS44486","Oliver Horscht is trading as ""SYNLINQ""",3
 "AS44866","FOP Fedasiuk Oksana Petrivna",3
 "AS44925","1984 ehf",3
 "AS45544","SUPERDATA-VN",3
