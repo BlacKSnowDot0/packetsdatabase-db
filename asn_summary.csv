@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87695
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21939
-"AS398324","Censys, Inc.",13130
+"AS398324","Censys, Inc.",13132
 "AS32934","Facebook, Inc.",11264
-"AS396982","Google LLC",10230
+"AS396982","Google LLC",10231
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7785
 "AS16276","OVH SAS",5793
@@ -12,26 +12,26 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4437
 "AS16509","Amazon.com, Inc.",4264
-"AS45102","Alibaba (US) Technology Co., Ltd.",3861
-"AS63949","Akamai Technologies, Inc.",3576
+"AS45102","Alibaba (US) Technology Co., Ltd.",3864
+"AS63949","Akamai Technologies, Inc.",3577
 "AS15169","Google LLC",3345
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3102
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2710
+"AS8075","Microsoft Corporation",2712
 "AS142002","Scloud Pte Ltd",2559
-"AS6939","Hurricane Electric LLC",2491
+"AS6939","Hurricane Electric LLC",2493
 "AS9808","China Mobile",2077
 "AS202425","IP Volume inc",1729
 "AS214295","SKYNET NETWORK LTD",1631
-"AS0","",1566
+"AS0","",1569
 "AS209605","UAB Host Baltic",1517
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1394
 "AS49870","Alsycon B.V.",1333
 "AS215269","LAZYCLOUD LTD",1312
-"AS36352","HostPapa",1210
-"AS32475","Internap Holding LLC",1201
+"AS36352","HostPapa",1211
+"AS32475","Internap Holding LLC",1202
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1170
 "AS399045","DediOutlet, LLC",1142
@@ -48,7 +48,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",808
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
-"AS20052","Arbor Networks, Inc.",701
+"AS20052","Arbor Networks, Inc.",703
 "AS14618","Amazon.com, Inc.",630
 "AS10439","CariNet, Inc.",622
 "AS51167","Contabo GmbH",621
@@ -56,15 +56,15 @@ ASN,Organization,IP_Count
 "AS3462","Chunghwa Telecom Co., Ltd.",572
 "AS31148","Freenet LTD",558
 "AS4837","CHINA UNICOM China169 Backbone",558
-"AS401120","cheapy.host LLC",550
+"AS401120","cheapy.host LLC",551
 "AS9009","M247 Europe SRL",547
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",500
 "AS50360","Tamatiya EOOD",492
 "AS51115","HLL LLC",479
+"AS53667","FranTech Solutions",459
 "AS212238","Datacamp Limited",458
-"AS53667","FranTech Solutions",458
 "AS12876","ONLINE S.A.S.",426
 "AS9829","Bharat Sanchar Nigam Ltd",423
 "AS21299","Kar-Tel LLC",406
@@ -278,6 +278,7 @@ ASN,Organization,IP_Count
 "AS214417","Andrii Hrosh",21
 "AS214668","AxusHost B.V.",21
 "AS2856","British Telecommunications PLC",21
+"AS329490","Promethean Consulting Limited",21
 "AS3320","Deutsche Telekom AG",21
 "AS400536","Nodestop LLC",21
 "AS43641","SOLLUTIUM EU Sp z.o.o.",21
@@ -290,7 +291,6 @@ ASN,Organization,IP_Count
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
-"AS329490","Promethean Consulting Limited",20
 "AS11426","Charter Communications Inc",19
 "AS14593","Space Exploration Technologies Corporation",19
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",19
