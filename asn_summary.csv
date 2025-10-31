@@ -1,10 +1,10 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87694
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
-"AS211298","Driftnet Ltd",21935
-"AS398324","Censys, Inc.",13119
+"AS211298","Driftnet Ltd",21936
+"AS398324","Censys, Inc.",13121
 "AS32934","Facebook, Inc.",11264
-"AS396982","Google LLC",10216
+"AS396982","Google LLC",10218
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7781
 "AS16276","OVH SAS",5793
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2708
 "AS142002","Scloud Pte Ltd",2559
-"AS6939","Hurricane Electric LLC",2474
+"AS6939","Hurricane Electric LLC",2476
 "AS9808","China Mobile",2077
 "AS202425","IP Volume inc",1728
 "AS214295","SKYNET NETWORK LTD",1631
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1333
 "AS215269","LAZYCLOUD LTD",1312
 "AS36352","HostPapa",1205
-"AS32475","Internap Holding LLC",1198
+"AS32475","Internap Holding LLC",1199
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1170
 "AS399045","DediOutlet, LLC",1142
@@ -39,7 +39,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1130
 "AS201401","NewVM B.V.",1076
 "AS13335","Cloudflare, Inc.",1042
-"AS23470","ReliableSite.Net LLC",1015
+"AS23470","ReliableSite.Net LLC",1016
 "AS208684","BHA CONSEIL SARL",985
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -85,7 +85,7 @@ ASN,Organization,IP_Count
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",284
 "AS48090","TECHOFF SRV LIMITED",254
-"AS213613","BOTSHIELD LTD",251
+"AS213613","BOTSHIELD LTD",252
 "AS60223","Netiface Limited",250
 "AS18403","FPT Telecom Company",248
 "AS208843","Alpha Strike Labs GmbH",247
@@ -194,10 +194,10 @@ ASN,Organization,IP_Count
 "AS42624","Global-Data System IT Corporation",36
 "AS4538","China Education and Research Network Center",36
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",36
+"AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",36
 "AS20473","The Constant Company, LLC",35
 "AS213790","Limited Network LTD",35
 "AS30083","velia.net",35
-"AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",35
 "AS34665","Petersburg Internet Network ltd.",34
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",34
 "AS8048","CANTV Servicios, Venezuela",34
