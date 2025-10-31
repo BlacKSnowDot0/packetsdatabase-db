@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87695
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21939
-"AS398324","Censys, Inc.",13128
+"AS398324","Censys, Inc.",13129
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10228
 "AS26210","AXS Bolivia S. A.",7972
@@ -18,19 +18,19 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3102
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2709
+"AS8075","Microsoft Corporation",2710
 "AS142002","Scloud Pte Ltd",2559
-"AS6939","Hurricane Electric LLC",2488
+"AS6939","Hurricane Electric LLC",2489
 "AS9808","China Mobile",2077
 "AS202425","IP Volume inc",1729
 "AS214295","SKYNET NETWORK LTD",1631
-"AS0","",1560
+"AS0","",1562
 "AS209605","UAB Host Baltic",1517
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS398722","Censys, Inc.",1393
+"AS398722","Censys, Inc.",1394
 "AS49870","Alsycon B.V.",1333
 "AS215269","LAZYCLOUD LTD",1312
-"AS36352","HostPapa",1208
+"AS36352","HostPapa",1209
 "AS32475","Internap Holding LLC",1200
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1170
@@ -39,7 +39,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1130
 "AS201401","NewVM B.V.",1076
 "AS13335","Cloudflare, Inc.",1042
-"AS23470","ReliableSite.Net LLC",1016
+"AS23470","ReliableSite.Net LLC",1017
 "AS208684","BHA CONSEIL SARL",985
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -48,7 +48,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",808
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
-"AS20052","Arbor Networks, Inc.",698
+"AS20052","Arbor Networks, Inc.",700
 "AS14618","Amazon.com, Inc.",630
 "AS10439","CariNet, Inc.",622
 "AS51167","Contabo GmbH",621
@@ -121,7 +121,7 @@ ASN,Organization,IP_Count
 "AS205352","KABELNET LTD",93
 "AS63018","Dedicated.com",92
 "AS210125","PRIAM NET Sh.p.k.",89
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",85
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",86
 "AS58461","Chinanet",85
 "AS4766","Korea Telecom",83
 "AS16735","ALGAR TELECOM S/A",81
@@ -491,6 +491,7 @@ ASN,Organization,IP_Count
 "AS4761","PT. INDOSAT Tbk",8
 "AS5483","Magyar Telekom plc.",8
 "AS56041","China Mobile Communications Corporation",8
+"AS64236","UnReal Servers, LLC",8
 "AS6698","Virtual Systems LLC",8
 "AS7418","TELEFÓNICA CHILE S.A.",8
 "AS8386","VODAFONE NET ILETISIM HIZMETLERI ANONIM SIRKETI",8
@@ -528,7 +529,6 @@ ASN,Organization,IP_Count
 "AS58821","PT Lintas Jaringan Nusantara",7
 "AS63023","GTHost",7
 "AS63838","Hengyang",7
-"AS64236","UnReal Servers, LLC",7
 "AS8764","Telia Lietuva, AB",7
 "AS9541","Cyber Internet Services (Private) Limited",7
 "AS9658","Eastern Telecommunications Philippines, Inc.",7
