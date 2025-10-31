@@ -24,10 +24,10 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2077
 "AS202425","IP Volume inc",1728
 "AS214295","SKYNET NETWORK LTD",1631
-"AS0","",1549
+"AS0","",1551
 "AS209605","UAB Host Baltic",1517
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS398722","Censys, Inc.",1391
+"AS398722","Censys, Inc.",1392
 "AS49870","Alsycon B.V.",1333
 "AS215269","LAZYCLOUD LTD",1312
 "AS36352","HostPapa",1206
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",695
 "AS14618","Amazon.com, Inc.",630
 "AS10439","CariNet, Inc.",622
-"AS51167","Contabo GmbH",620
+"AS51167","Contabo GmbH",621
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",572
 "AS31148","Freenet LTD",558
@@ -183,7 +183,7 @@ ASN,Organization,IP_Count
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS262378","Compuservice Empreendimentos Ltda",42
 "AS7738","V tal",42
-"AS200514","KnownSRV Ltd.",40
+"AS200514","KnownSRV Ltd.",41
 "AS21928","T-Mobile USA, Inc.",40
 "AS23969","TOT Public Company Limited",40
 "AS27699","TELEFÔNICA BRASIL S.A",39
@@ -820,6 +820,7 @@ ASN,Organization,IP_Count
 "AS141077","RSTNET",3
 "AS141607","PT Gayatri Lintas Nusantara",3
 "AS142468","VANSHIKA ITLAM INDIA PVT LTD",3
+"AS14315","1GSERVERS, LLC",3
 "AS14522","Satnet",3
 "AS147065","Lao telecom construction Co.,Ltd",3
 "AS149402","Diskominfo Pemerintah Kabupaten Probolinggo",3
@@ -1051,7 +1052,6 @@ ASN,Organization,IP_Count
 "AS142527","KKD BROADBAND PRIVATE LIMITED",2
 "AS142594","SpeedyPage Ltd",2
 "AS14291","Antietam Broadband",2
-"AS14315","1GSERVERS, LLC",2
 "AS14543","SRT Communications, Inc.",2
 "AS146966","China Telecom",2
 "AS147106","PT Global Erasiber Teknologi",2
