@@ -1,10 +1,10 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87696
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
-"AS211298","Driftnet Ltd",21942
-"AS398324","Censys, Inc.",13147
+"AS211298","Driftnet Ltd",21943
+"AS398324","Censys, Inc.",13149
 "AS32934","Facebook, Inc.",11264
-"AS396982","Google LLC",10242
+"AS396982","Google LLC",10243
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7796
 "AS16276","OVH SAS",5793
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4437
 "AS16509","Amazon.com, Inc.",4264
-"AS45102","Alibaba (US) Technology Co., Ltd.",3866
+"AS45102","Alibaba (US) Technology Co., Ltd.",3867
 "AS63949","Akamai Technologies, Inc.",3578
 "AS15169","Google LLC",3345
 "AS398705","Censys, Inc.",3238
@@ -39,7 +39,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1132
 "AS201401","NewVM B.V.",1076
 "AS13335","Cloudflare, Inc.",1042
-"AS23470","ReliableSite.Net LLC",1018
+"AS23470","ReliableSite.Net LLC",1019
 "AS208684","BHA CONSEIL SARL",985
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -198,9 +198,9 @@ ASN,Organization,IP_Count
 "AS20473","The Constant Company, LLC",35
 "AS213790","Limited Network LTD",35
 "AS30083","velia.net",35
+"AS8048","CANTV Servicios, Venezuela",35
 "AS34665","Petersburg Internet Network ltd.",34
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",34
-"AS8048","CANTV Servicios, Venezuela",34
 "AS9198","JSC Kazakhtelecom",34
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
