@@ -1,5 +1,5 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87695
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87696
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21942
 "AS398324","Censys, Inc.",13143
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2077
 "AS202425","IP Volume inc",1729
 "AS214295","SKYNET NETWORK LTD",1631
-"AS0","",1583
+"AS0","",1584
 "AS209605","UAB Host Baltic",1517
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1394
@@ -73,8 +73,8 @@ ASN,Organization,IP_Count
 "AS7018","AT&T Enterprises, LLC",373
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS47890","UNMANAGED LTD",348
+"AS21859","Zenlayer Inc",344
 "AS7922","Comcast Cable Communications, LLC",344
-"AS21859","Zenlayer Inc",343
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",333
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",317
 "AS214943","Railnet LLC",315
@@ -102,7 +102,7 @@ ASN,Organization,IP_Count
 "AS29484","Ruhr-Universitaet Bochum",167
 "AS206264","Amarutu Technology Ltd",153
 "AS47105","Vault Dweller OU",141
-"AS50219","LNK SYSTEMS MUNTENIA SRL",133
+"AS50219","LNK SYSTEMS MUNTENIA SRL",134
 "AS42237","w1n ltd",132
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
@@ -336,6 +336,7 @@ ASN,Organization,IP_Count
 "AS24757","EthioNet",16
 "AS24812","NPK Home-Net Ltd.",16
 "AS25198","INTERKVM HOST SRL",16
+"AS30058","FDCservers.net",16
 "AS3257","GTT Communications Inc.",16
 "AS328539","Giga for Telecommunication and Technology Limited",16
 "AS33363","Charter Communications, Inc",16
@@ -355,7 +356,6 @@ ASN,Organization,IP_Count
 "AS28126","BRISANET SERVICOS DE TELECOMUNICACOES LTDA",15
 "AS28201","Companhia Itabirana Telecomunicações Ltda",15
 "AS2914","NTT America, Inc.",15
-"AS30058","FDCservers.net",15
 "AS31113","Artkomm LLC",15
 "AS397283","RocketNode Inc",15
 "AS6849","JSC ""Ukrtelecom""",15
