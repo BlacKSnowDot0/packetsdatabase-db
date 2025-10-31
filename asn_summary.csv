@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87695
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
-"AS211298","Driftnet Ltd",21936
-"AS398324","Censys, Inc.",13125
+"AS211298","Driftnet Ltd",21938
+"AS398324","Censys, Inc.",13127
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10227
 "AS26210","AXS Bolivia S. A.",7972
@@ -13,21 +13,21 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4437
 "AS16509","Amazon.com, Inc.",4264
 "AS45102","Alibaba (US) Technology Co., Ltd.",3861
-"AS63949","Akamai Technologies, Inc.",3575
+"AS63949","Akamai Technologies, Inc.",3576
 "AS15169","Google LLC",3345
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3102
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2709
 "AS142002","Scloud Pte Ltd",2559
-"AS6939","Hurricane Electric LLC",2487
+"AS6939","Hurricane Electric LLC",2488
 "AS9808","China Mobile",2077
 "AS202425","IP Volume inc",1728
 "AS214295","SKYNET NETWORK LTD",1631
-"AS0","",1556
+"AS0","",1558
 "AS209605","UAB Host Baltic",1517
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS398722","Censys, Inc.",1392
+"AS398722","Censys, Inc.",1393
 "AS49870","Alsycon B.V.",1333
 "AS215269","LAZYCLOUD LTD",1312
 "AS36352","HostPapa",1208
@@ -229,6 +229,7 @@ ASN,Organization,IP_Count
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
+"AS6739","VODAFONE ONO, S.A.",27
 "AS1103","SURF B.V.",26
 "AS12912","T-Mobile Polska S.A.",26
 "AS204834","Shabakieh Isfahan Co PJSC",26
@@ -237,7 +238,6 @@ ASN,Organization,IP_Count
 "AS3209","Vodafone GmbH",26
 "AS46475","Limestone Networks, Inc.",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
-"AS6739","VODAFONE ONO, S.A.",26
 "AS53118","NETLINE TELECOM",25
 "AS55836","Reliance Jio Infocomm Limited",25
 "AS58224","Iran Telecommunication Company PJS",25
@@ -853,6 +853,7 @@ ASN,Organization,IP_Count
 "AS211301","Collin Schneeweiss trading as Unesty Company",3
 "AS211826","Istqrar for Servers Services Ltd",3
 "AS213354","INTERNATIONAL HOSTING SOLUTIONS LLP",3
+"AS214382","Bulent Aydin trading as Hostlayici",3
 "AS21499","Host Europe GmbH",3
 "AS21565","Horry Telephone Cooperative, Inc.",3
 "AS23028","Team Cymru Inc.",3
@@ -1124,7 +1125,6 @@ ASN,Organization,IP_Count
 "AS213186","Yanoor Islam Khan",2
 "AS213725","UK-03AI",2
 "AS214309","Aurorix Gaming Solutions Limited",2
-"AS214382","Bulent Aydin trading as Hostlayici",2
 "AS214657","Bls Services Tecnologia em Software Ltda",2
 "AS21479","PJSC Rostelecom",2
 "AS214882","Hadi Santosa",2
