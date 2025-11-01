@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87697
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21943
-"AS398324","Censys, Inc.",13161
+"AS398324","Censys, Inc.",13162
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10259
 "AS26210","AXS Bolivia S. A.",7972
@@ -12,13 +12,13 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4437
 "AS16509","Amazon.com, Inc.",4264
-"AS45102","Alibaba (US) Technology Co., Ltd.",3873
+"AS45102","Alibaba (US) Technology Co., Ltd.",3874
 "AS63949","Akamai Technologies, Inc.",3580
 "AS15169","Google LLC",3345
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3106
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2718
+"AS8075","Microsoft Corporation",2719
 "AS142002","Scloud Pte Ltd",2559
 "AS6939","Hurricane Electric LLC",2496
 "AS9808","China Mobile",2077
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1170
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS174","Cogent Communications",1135
+"AS174","Cogent Communications",1136
 "AS201401","NewVM B.V.",1076
 "AS13335","Cloudflare, Inc.",1042
 "AS23470","ReliableSite.Net LLC",1021
@@ -47,7 +47,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",817
 "AS215925","VPSVAULT.HOST LTD",808
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",714
+"AS20052","Arbor Networks, Inc.",716
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS14618","Amazon.com, Inc.",630
 "AS10439","CariNet, Inc.",622
@@ -289,12 +289,12 @@ ASN,Organization,IP_Count
 "AS9299","Philippine Long Distance Telephone Co.",21
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
+"AS200590","NLS Kazakhstan LLC",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS11426","Charter Communications Inc",19
 "AS14593","Space Exploration Technologies Corporation",19
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",19
-"AS200590","NLS Kazakhstan LLC",19
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",19
 "AS22927","Telefonica de Argentina",19
 "AS24348","CERNET2 IX at Tsinghua University",19
@@ -442,6 +442,7 @@ ASN,Organization,IP_Count
 "AS52468","UFINET PANAMA S.A.",10
 "AS57269","DIGI SPAIN TELECOM S.L.U.",10
 "AS62068","SpectraIP B.V.",10
+"AS9304","HGC Global Communications Limited",10
 "AS9930","TT DOTCOM SDN BHD",10
 "AS12353","Vodafone Portugal - Communicacoes Pessoais S.A.",9
 "AS1267","RIPE Network Coordination Centre",9
@@ -465,7 +466,6 @@ ASN,Organization,IP_Count
 "AS48874","HOSTMAZE INC SRL-D",9
 "AS8346","SONATEL-AS Autonomous System",9
 "AS9038","Batelco Jordan",9
-"AS9304","HGC Global Communications Limited",9
 "AS12271","Charter Communications Inc",8
 "AS133982","Excitel Broadband Private Limited",8
 "AS135918","VIET DIGITAL TECHNOLOGY LIABILITY COMPANY",8
