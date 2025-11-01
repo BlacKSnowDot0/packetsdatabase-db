@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87697
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21943
-"AS398324","Censys, Inc.",13162
+"AS398324","Censys, Inc.",13165
 "AS32934","Facebook, Inc.",11264
-"AS396982","Google LLC",10259
+"AS396982","Google LLC",10264
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7801
 "AS16276","OVH SAS",5793
@@ -12,13 +12,13 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4437
 "AS16509","Amazon.com, Inc.",4264
-"AS45102","Alibaba (US) Technology Co., Ltd.",3874
+"AS45102","Alibaba (US) Technology Co., Ltd.",3875
 "AS63949","Akamai Technologies, Inc.",3580
 "AS15169","Google LLC",3345
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3106
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2720
+"AS8075","Microsoft Corporation",2721
 "AS142002","Scloud Pte Ltd",2559
 "AS6939","Hurricane Electric LLC",2496
 "AS9808","China Mobile",2077
@@ -38,7 +38,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS174","Cogent Communications",1136
 "AS201401","NewVM B.V.",1076
-"AS13335","Cloudflare, Inc.",1042
+"AS13335","Cloudflare, Inc.",1043
 "AS23470","ReliableSite.Net LLC",1021
 "AS208684","BHA CONSEIL SARL",985
 "AS51852","Private Layer INC",907
@@ -47,7 +47,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",817
 "AS215925","VPSVAULT.HOST LTD",808
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",716
+"AS20052","Arbor Networks, Inc.",718
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS14618","Amazon.com, Inc.",630
 "AS10439","CariNet, Inc.",622
@@ -76,7 +76,7 @@ ASN,Organization,IP_Count
 "AS21859","Zenlayer Inc",344
 "AS7922","Comcast Cable Communications, LLC",344
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",333
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",318
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",319
 "AS214943","Railnet LLC",315
 "AS45899","VNPT Corp",315
 "AS24863","LINKdotNET AS number",307
@@ -224,12 +224,12 @@ ASN,Organization,IP_Count
 "AS141679","China Telecom",28
 "AS149705","PT Wijaya Trimitra Indonesia",28
 "AS3269","Telecom Italia S.p.A.",28
+"AS46475","Limestone Networks, Inc.",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS12322","Free SAS",27
 "AS146817","Hubei Feixun Network Co., Ltd",27
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
-"AS46475","Limestone Networks, Inc.",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
 "AS1103","SURF B.V.",26
 "AS12912","T-Mobile Polska S.A.",26
