@@ -2,17 +2,17 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87698
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21948
-"AS398324","Censys, Inc.",13199
+"AS398324","Censys, Inc.",13204
 "AS32934","Facebook, Inc.",11264
-"AS396982","Google LLC",10278
+"AS396982","Google LLC",10281
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7862
+"AS14061","DigitalOcean, LLC",7863
 "AS16276","OVH SAS",5794
 "AS4134","Chinanet",5009
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4437
 "AS16509","Amazon.com, Inc.",4264
-"AS45102","Alibaba (US) Technology Co., Ltd.",3888
+"AS45102","Alibaba (US) Technology Co., Ltd.",3892
 "AS63949","Akamai Technologies, Inc.",3584
 "AS15169","Google LLC",3345
 "AS398705","Censys, Inc.",3238
@@ -39,7 +39,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
 "AS13335","Cloudflare, Inc.",1043
-"AS23470","ReliableSite.Net LLC",1023
+"AS23470","ReliableSite.Net LLC",1024
 "AS208684","BHA CONSEIL SARL",987
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -126,8 +126,8 @@ ASN,Organization,IP_Count
 "AS4766","Korea Telecom",83
 "AS16735","ALGAR TELECOM S/A",81
 "AS5617","Orange Polska Spolka Akcyjna",80
+"AS136435","ELITE COMMUNICATION",79
 "AS28209","Under Servicos de Internet Ltda",79
-"AS136435","ELITE COMMUNICATION",78
 "AS200019","ALEXHOST SRL",78
 "AS40021","Nubes, LLC",77
 "AS199785","Cloud Hosting Solutions, Limited.",76
@@ -161,9 +161,9 @@ ASN,Organization,IP_Count
 "AS18345","Servers Australia Pty. Ltd",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
 "AS213877","u1host ltd",54
+"AS23724","IDC, China Telecommunications Corporation",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS19318","Interserver, Inc",53
-"AS23724","IDC, China Telecommunications Corporation",53
 "AS20115","Charter Communications",51
 "AS210644","AEZA INTERNATIONAL LTD",50
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",49
@@ -201,9 +201,9 @@ ASN,Organization,IP_Count
 "AS30083","velia.net",35
 "AS34665","Petersburg Internet Network ltd.",34
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",34
+"AS6739","VODAFONE ONO, S.A.",34
 "AS9198","JSC Kazakhtelecom",34
 "AS45671","Servers Australia Pty. Ltd",33
-"AS6739","VODAFONE ONO, S.A.",33
 "AS9498","Bharti Airtel Limited",33
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
