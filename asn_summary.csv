@@ -1,12 +1,12 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87698
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
-"AS211298","Driftnet Ltd",21952
-"AS398324","Censys, Inc.",13227
+"AS211298","Driftnet Ltd",21953
+"AS398324","Censys, Inc.",13232
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10288
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7865
+"AS14061","DigitalOcean, LLC",7866
 "AS16276","OVH SAS",5795
 "AS4134","Chinanet",5011
 "AS6568","Entel S.A. - EntelNet",4537
@@ -30,28 +30,28 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1399
 "AS49870","Alsycon B.V.",1335
 "AS215269","LAZYCLOUD LTD",1312
-"AS32475","Internap Holding LLC",1224
-"AS36352","HostPapa",1219
+"AS32475","Internap Holding LLC",1226
+"AS36352","HostPapa",1220
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1170
 "AS399045","DediOutlet, LLC",1142
 "AS174","Cogent Communications",1139
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
-"AS13335","Cloudflare, Inc.",1051
-"AS23470","ReliableSite.Net LLC",1027
+"AS13335","Cloudflare, Inc.",1055
+"AS23470","ReliableSite.Net LLC",1028
 "AS208684","BHA CONSEIL SARL",988
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",817
-"AS215925","VPSVAULT.HOST LTD",808
+"AS215925","VPSVAULT.HOST LTD",809
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",732
+"AS20052","Arbor Networks, Inc.",733
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS14618","Amazon.com, Inc.",631
 "AS51167","Contabo GmbH",630
-"AS10439","CariNet, Inc.",625
+"AS10439","CariNet, Inc.",627
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",572
 "AS4837","CHINA UNICOM China169 Backbone",561
@@ -188,9 +188,9 @@ ASN,Organization,IP_Count
 "AS21928","T-Mobile USA, Inc.",40
 "AS23969","TOT Public Company Limited",40
 "AS27699","TELEFÔNICA BRASIL S.A",39
+"AS6739","VODAFONE ONO, S.A.",39
 "AS26599","TELEFÔNICA BRASIL S.A",38
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",38
-"AS6739","VODAFONE ONO, S.A.",38
 "AS20473","The Constant Company, LLC",37
 "AS8167","V tal",37
 "AS210558","1337 Services GmbH",36
@@ -913,6 +913,7 @@ ASN,Organization,IP_Count
 "AS33616","Co-Mo Comm Inc",3
 "AS35320","Eurotranstelecom Ltd",3
 "AS36884","Wana Corporate",3
+"AS36905","Creolink Communications",3
 "AS36925","MEDITELECOM",3
 "AS37049","South African Digital Villages (Pty) Ltd",3
 "AS37517","CABO VERDE TELECOM, S.A",3
@@ -1273,7 +1274,6 @@ ASN,Organization,IP_Count
 "AS35986","Vyve Broadband",2
 "AS36692","Cisco OpenDNS, LLC",2
 "AS36728","Emery Telcom",2
-"AS36905","Creolink Communications",2
 "AS36907","TV CABO ANGOLA LDA",2
 "AS37284","Aljeel Aljadeed For Technology",2
 "AS37642","Comnet Pty Ltd",2
@@ -1325,6 +1325,7 @@ ASN,Organization,IP_Count
 "AS45595","Pakistan Telecom Company Limited",2
 "AS45773","HEC",2
 "AS46592","Tombigbee Communications, LLC",2
+"AS46606","Unified Layer",2
 "AS4685","Asahi Net",2
 "AS47236","CityLink Ltd",2
 "AS47304","NEF Fonden",2
