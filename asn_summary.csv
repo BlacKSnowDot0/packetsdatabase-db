@@ -1,7 +1,7 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87701
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
-"AS211298","Driftnet Ltd",21955
+"AS211298","Driftnet Ltd",21956
 "AS398324","Censys, Inc.",13248
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10291
@@ -39,7 +39,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
 "AS13335","Cloudflare, Inc.",1061
-"AS23470","ReliableSite.Net LLC",1029
+"AS23470","ReliableSite.Net LLC",1030
 "AS208684","BHA CONSEIL SARL",988
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS14618","Amazon.com, Inc.",631
 "AS51167","Contabo GmbH",631
-"AS10439","CariNet, Inc.",627
+"AS10439","CariNet, Inc.",628
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",572
 "AS4837","CHINA UNICOM China169 Backbone",563
@@ -185,9 +185,9 @@ ASN,Organization,IP_Count
 "AS262378","Compuservice Empreendimentos Ltda",42
 "AS30633","Leaseweb USA, Inc.",42
 "AS7738","V tal",42
+"AS6739","VODAFONE ONO, S.A.",41
 "AS21928","T-Mobile USA, Inc.",40
 "AS23969","TOT Public Company Limited",40
-"AS6739","VODAFONE ONO, S.A.",40
 "AS27699","TELEFÔNICA BRASIL S.A",39
 "AS26599","TELEFÔNICA BRASIL S.A",38
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",38
@@ -231,6 +231,7 @@ ASN,Organization,IP_Count
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
+"AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",27
 "AS1103","SURF B.V.",26
 "AS12912","T-Mobile Polska S.A.",26
 "AS204834","Shabakieh Isfahan Co PJSC",26
@@ -238,7 +239,6 @@ ASN,Organization,IP_Count
 "AS23693","PT. Telekomunikasi Selular",26
 "AS3209","Vodafone GmbH",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
-"AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",26
 "AS53118","NETLINE TELECOM",25
 "AS55836","Reliance Jio Infocomm Limited",25
 "AS55933","Cloudie Limited",25
@@ -262,6 +262,7 @@ ASN,Organization,IP_Count
 "AS13213","UK-2 Limited",22
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",22
 "AS17561","Larus Limited",22
+"AS200590","NLS Kazakhstan LLC",22
 "AS210509","Optimum Line for Internet Services Ltd.",22
 "AS21127","Joint Stock Company TransTeleCom",22
 "AS213010","Gening Nikita Dmitrievich",22
@@ -277,7 +278,6 @@ ASN,Organization,IP_Count
 "AS12479","Orange Espagne SA",21
 "AS138886","PT Data Buana Nusantara",21
 "AS17816","China Unicom IP network China169 Guangdong province",21
-"AS200590","NLS Kazakhstan LLC",21
 "AS214417","Andrii Hrosh",21
 "AS214668","AxusHost B.V.",21
 "AS2856","British Telecommunications PLC",21
