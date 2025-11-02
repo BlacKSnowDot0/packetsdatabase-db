@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",21956
 "AS398324","Censys, Inc.",13249
 "AS32934","Facebook, Inc.",11264
-"AS396982","Google LLC",10291
+"AS396982","Google LLC",10292
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7870
 "AS16276","OVH SAS",5799
@@ -38,7 +38,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
-"AS13335","Cloudflare, Inc.",1061
+"AS13335","Cloudflare, Inc.",1062
 "AS23470","ReliableSite.Net LLC",1030
 "AS208684","BHA CONSEIL SARL",989
 "AS51852","Private Layer INC",907
@@ -84,7 +84,7 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",286
-"AS213613","BOTSHIELD LTD",257
+"AS213613","BOTSHIELD LTD",258
 "AS48090","TECHOFF SRV LIMITED",254
 "AS60223","Netiface Limited",250
 "AS18403","FPT Telecom Company",249
@@ -120,7 +120,7 @@ ASN,Organization,IP_Count
 "AS151185","China Telecom",98
 "AS205352","KABELNET LTD",93
 "AS63018","Dedicated.com",92
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",89
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",90
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS58461","Chinanet",85
 "AS4766","Korea Telecom",83
@@ -759,6 +759,7 @@ ASN,Organization,IP_Count
 "AS45609","Bharti Airtel Limited",4
 "AS45700","PT. NAP Info Lintas Nusa",4
 "AS47165","Omskie kabelnye seti Ltd.",4
+"AS4771","Spark New Zealand Trading Limited",4
 "AS47898","NPK Home-Net Ltd.",4
 "AS4811","China Telecom (Group)",4
 "AS50274","Alfanet LLC",4
@@ -942,7 +943,6 @@ ASN,Organization,IP_Count
 "AS4618","Internet Thailand Company Ltd.",3
 "AS46690","Southern New England Telephone Company and SNET America, Inc.",3
 "AS47154","HUSAM A. H. HIJAZI",3
-"AS4771","Spark New Zealand Trading Limited",3
 "AS4818","DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",3
 "AS48347","JSC Mediasoft ekspert",3
 "AS48411","FOP Samoylenko Oleksandr Volodymirovich",3
