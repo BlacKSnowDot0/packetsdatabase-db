@@ -2,13 +2,13 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87698
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21952
-"AS398324","Censys, Inc.",13223
+"AS398324","Censys, Inc.",13227
 "AS32934","Facebook, Inc.",11264
-"AS396982","Google LLC",10287
+"AS396982","Google LLC",10288
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7865
 "AS16276","OVH SAS",5795
-"AS4134","Chinanet",5010
+"AS4134","Chinanet",5011
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4437
 "AS16509","Amazon.com, Inc.",4264
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2732
 "AS142002","Scloud Pte Ltd",2559
-"AS6939","Hurricane Electric LLC",2503
+"AS6939","Hurricane Electric LLC",2504
 "AS9808","China Mobile",2077
 "AS202425","IP Volume inc",1733
 "AS214295","SKYNET NETWORK LTD",1631
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1399
 "AS49870","Alsycon B.V.",1335
 "AS215269","LAZYCLOUD LTD",1312
-"AS32475","Internap Holding LLC",1223
+"AS32475","Internap Holding LLC",1224
 "AS36352","HostPapa",1219
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1170
@@ -38,20 +38,20 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1139
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
-"AS13335","Cloudflare, Inc.",1049
+"AS13335","Cloudflare, Inc.",1051
 "AS23470","ReliableSite.Net LLC",1027
-"AS208684","BHA CONSEIL SARL",987
+"AS208684","BHA CONSEIL SARL",988
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",817
 "AS215925","VPSVAULT.HOST LTD",808
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",731
+"AS20052","Arbor Networks, Inc.",732
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS14618","Amazon.com, Inc.",631
 "AS51167","Contabo GmbH",630
-"AS10439","CariNet, Inc.",623
+"AS10439","CariNet, Inc.",625
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",572
 "AS4837","CHINA UNICOM China169 Backbone",561
@@ -99,7 +99,7 @@ ASN,Organization,IP_Count
 "AS7552","Viettel Group",182
 "AS63199","CDS Global Cloud Co., Ltd",172
 "AS401116","Nybula LLC",170
-"AS29484","Ruhr-Universitaet Bochum",168
+"AS29484","Ruhr-Universitaet Bochum",169
 "AS206264","Amarutu Technology Ltd",153
 "AS47105","Vault Dweller OU",141
 "AS50219","LNK SYSTEMS MUNTENIA SRL",135
@@ -165,8 +165,8 @@ ASN,Organization,IP_Count
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS19318","Interserver, Inc",53
 "AS20115","Charter Communications",51
+"AS210644","AEZA INTERNATIONAL LTD",51
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",51
-"AS210644","AEZA INTERNATIONAL LTD",50
 "AS6128","Cablevision Systems Corp.",49
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS20001","Charter Communications Inc",48
