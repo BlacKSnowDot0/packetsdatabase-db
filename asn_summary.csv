@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87701
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21955
-"AS398324","Censys, Inc.",13246
+"AS398324","Censys, Inc.",13248
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10291
 "AS26210","AXS Bolivia S. A.",7972
@@ -12,8 +12,8 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4437
 "AS16509","Amazon.com, Inc.",4264
-"AS45102","Alibaba (US) Technology Co., Ltd.",3900
-"AS63949","Akamai Technologies, Inc.",3584
+"AS45102","Alibaba (US) Technology Co., Ltd.",3901
+"AS63949","Akamai Technologies, Inc.",3585
 "AS15169","Google LLC",3345
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3111
@@ -22,7 +22,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2559
 "AS6939","Hurricane Electric LLC",2504
 "AS9808","China Mobile",2078
-"AS202425","IP Volume inc",1733
+"AS202425","IP Volume inc",1734
 "AS214295","SKYNET NETWORK LTD",1631
 "AS0","",1618
 "AS209605","UAB Host Baltic",1519
@@ -38,7 +38,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1139
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
-"AS13335","Cloudflare, Inc.",1060
+"AS13335","Cloudflare, Inc.",1061
 "AS23470","ReliableSite.Net LLC",1029
 "AS208684","BHA CONSEIL SARL",988
 "AS51852","Private Layer INC",907
@@ -167,9 +167,9 @@ ASN,Organization,IP_Count
 "AS20115","Charter Communications",51
 "AS210644","AEZA INTERNATIONAL LTD",51
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",51
+"AS20001","Charter Communications Inc",49
 "AS6128","Cablevision Systems Corp.",49
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
-"AS20001","Charter Communications Inc",48
 "AS266181","GOLDEN LINK",48
 "AS149746","PT Blip Integrator Provider",47
 "AS10796","Charter Communications Inc",46
