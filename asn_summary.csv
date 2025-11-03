@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87707
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21962
-"AS398324","Censys, Inc.",13277
+"AS398324","Censys, Inc.",13278
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10295
 "AS26210","AXS Bolivia S. A.",7972
@@ -38,7 +38,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1141
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
-"AS13335","Cloudflare, Inc.",1070
+"AS13335","Cloudflare, Inc.",1071
 "AS23470","ReliableSite.Net LLC",1031
 "AS208684","BHA CONSEIL SARL",990
 "AS51852","Private Layer INC",907
@@ -84,7 +84,7 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",286
-"AS213613","BOTSHIELD LTD",259
+"AS213613","BOTSHIELD LTD",260
 "AS48090","TECHOFF SRV LIMITED",254
 "AS60223","Netiface Limited",250
 "AS18403","FPT Telecom Company",249
@@ -227,12 +227,12 @@ ASN,Organization,IP_Count
 "AS149705","PT Wijaya Trimitra Indonesia",28
 "AS3269","Telecom Italia S.p.A.",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
+"AS1103","SURF B.V.",27
 "AS12322","Free SAS",27
 "AS146817","Hubei Feixun Network Co., Ltd",27
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
-"AS1103","SURF B.V.",26
 "AS12912","T-Mobile Polska S.A.",26
 "AS204834","Shabakieh Isfahan Co PJSC",26
 "AS2200","Renater",26
@@ -309,6 +309,7 @@ ASN,Organization,IP_Count
 "AS5384","EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",19
 "AS6167","Verizon Business",19
 "AS812","Rogers Communications Canada Inc.",19
+"AS8796","FD-298-8796",19
 "AS11878","tzulo, inc.",18
 "AS17638","ASN for TIANJIN Provincial Net of CT",18
 "AS18049","Taiwan Infrastructure Network Technologie",18
@@ -320,7 +321,6 @@ ASN,Organization,IP_Count
 "AS40676","Psychz Networks",18
 "AS6697","Republican Unitary Telecommunication Enterprise Beltelecom",18
 "AS852","TELUS Communications Inc.",18
-"AS8796","FD-298-8796",18
 "AS12874","Fastweb SpA",17
 "AS136142","Enigma Fiber Pvt Ltd",17
 "AS136958","China Unicom Guangdong IP network",17
