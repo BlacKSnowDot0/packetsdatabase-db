@@ -1,7 +1,7 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87710
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87711
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
-"AS211298","Driftnet Ltd",21962
+"AS211298","Driftnet Ltd",21963
 "AS398324","Censys, Inc.",13290
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10297
@@ -37,8 +37,8 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1143
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
+"AS13335","Cloudflare, Inc.",1076
 "AS201401","NewVM B.V.",1076
-"AS13335","Cloudflare, Inc.",1075
 "AS23470","ReliableSite.Net LLC",1031
 "AS208684","BHA CONSEIL SARL",990
 "AS51852","Private Layer INC",907
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",503
 "AS50360","Tamatiya EOOD",492
-"AS51115","HLL LLC",480
+"AS51115","HLL LLC",481
 "AS53667","FranTech Solutions",465
 "AS212238","Datacamp Limited",459
 "AS12876","ONLINE S.A.S.",438
@@ -213,9 +213,9 @@ ASN,Organization,IP_Count
 "AS4760","PCCW IMS Limited",32
 "AS55990","Huawei Cloud Service data center",32
 "AS5650","Frontier Communications of America, Inc.",32
+"AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",32
 "AS1241","RIPE Network Coordination Centre",31
 "AS44592","SkyLink Data Center BV",31
-"AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",31
 "AS17557","Pakistan Telecommuication company limited",30
 "AS200593","PROSPERO OOO",30
 "AS269193","Iktelecom Ltda",30
