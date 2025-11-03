@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87704
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87707
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21962
-"AS398324","Censys, Inc.",13272
+"AS398324","Censys, Inc.",13274
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10295
 "AS26210","AXS Bolivia S. A.",7972
@@ -40,17 +40,17 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1076
 "AS13335","Cloudflare, Inc.",1070
 "AS23470","ReliableSite.Net LLC",1031
-"AS208684","BHA CONSEIL SARL",989
+"AS208684","BHA CONSEIL SARL",990
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",818
 "AS215925","VPSVAULT.HOST LTD",811
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",739
+"AS20052","Arbor Networks, Inc.",740
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS51167","Contabo GmbH",635
-"AS10439","CariNet, Inc.",633
+"AS10439","CariNet, Inc.",634
 "AS14618","Amazon.com, Inc.",632
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",572
@@ -63,7 +63,7 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",503
 "AS50360","Tamatiya EOOD",492
 "AS51115","HLL LLC",480
-"AS53667","FranTech Solutions",464
+"AS53667","FranTech Solutions",465
 "AS212238","Datacamp Limited",459
 "AS12876","ONLINE S.A.S.",437
 "AS9829","Bharat Sanchar Nigam Ltd",432
@@ -193,10 +193,10 @@ ASN,Organization,IP_Count
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",38
 "AS20473","The Constant Company, LLC",37
 "AS4538","China Education and Research Network Center",37
+"AS4788","TM TECHNOLOGY SERVICES SDN BHD",37
 "AS8167","V tal",37
 "AS210558","1337 Services GmbH",36
 "AS42624","Global-Data System IT Corporation",36
-"AS4788","TM TECHNOLOGY SERVICES SDN BHD",36
 "AS8048","CANTV Servicios, Venezuela",36
 "AS213790","Limited Network LTD",35
 "AS30083","velia.net",35
@@ -601,6 +601,7 @@ ASN,Organization,IP_Count
 "AS136873","MEGADATA-ISP",5
 "AS138109","PT. Rasi Bintang Perkasa",5
 "AS141140","PT Jinde Grup Indonesia",5
+"AS14315","1GSERVERS, LLC",5
 "AS15108","Allo Communications LLC",5
 "AS151858","INTERDIGI JOINT STOCK COMPANY",5
 "AS16010","Magticom Ltd.",5
@@ -698,7 +699,6 @@ ASN,Organization,IP_Count
 "AS141673","PT Mamura Inter Media",4
 "AS141862","AL HUTAIB NETSOL PRIVATE LIMITED",4
 "AS142036","Hosteons Pte. Ltd.",4
-"AS14315","1GSERVERS, LLC",4
 "AS14754","Telgua",4
 "AS14868","Ligga Telecomunicações S.A.",4
 "AS150008","Pioneer Elabs Ltd.",4
