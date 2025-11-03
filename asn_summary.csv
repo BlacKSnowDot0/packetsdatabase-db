@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87702
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87703
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
-"AS211298","Driftnet Ltd",21958
-"AS398324","Censys, Inc.",13256
+"AS211298","Driftnet Ltd",21959
+"AS398324","Censys, Inc.",13259
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10293
 "AS26210","AXS Bolivia S. A.",7972
@@ -47,10 +47,10 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",818
 "AS215925","VPSVAULT.HOST LTD",810
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",737
+"AS20052","Arbor Networks, Inc.",738
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
+"AS51167","Contabo GmbH",634
 "AS10439","CariNet, Inc.",632
-"AS51167","Contabo GmbH",632
 "AS14618","Amazon.com, Inc.",631
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",572
@@ -181,10 +181,10 @@ ASN,Organization,IP_Count
 "AS46844","Sharktech",44
 "AS12816","Leibniz-Rechenzentrum",43
 "AS152194","CTG Server Limited",43
+"AS6739","VODAFONE ONO, S.A.",43
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS262378","Compuservice Empreendimentos Ltda",42
 "AS30633","Leaseweb USA, Inc.",42
-"AS6739","VODAFONE ONO, S.A.",42
 "AS7738","V tal",42
 "AS21928","T-Mobile USA, Inc.",40
 "AS23969","TOT Public Company Limited",40
@@ -205,6 +205,7 @@ ASN,Organization,IP_Count
 "AS9198","JSC Kazakhtelecom",34
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
+"AS1680","Cellcom Fixed Line Communication L.P",32
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",32
@@ -212,7 +213,6 @@ ASN,Organization,IP_Count
 "AS55990","Huawei Cloud Service data center",32
 "AS5650","Frontier Communications of America, Inc.",32
 "AS1241","RIPE Network Coordination Centre",31
-"AS1680","Cellcom Fixed Line Communication L.P",31
 "AS44592","SkyLink Data Center BV",31
 "AS5089","Virgin Media Limited",31
 "AS17557","Pakistan Telecommuication company limited",30
@@ -359,6 +359,7 @@ ASN,Organization,IP_Count
 "AS2914","NTT America, Inc.",15
 "AS31113","Artkomm LLC",15
 "AS397283","RocketNode Inc",15
+"AS5607","Sky UK Limited",15
 "AS6181","Cincinnati Bell Telephone Company LLC",15
 "AS6849","JSC ""Ukrtelecom""",15
 "AS19901","Brightspeed",14
@@ -371,7 +372,6 @@ ASN,Organization,IP_Count
 "AS37457","Telkom SA Ltd.",14
 "AS4808","China Unicom Beijing Province Network",14
 "AS48721","Flyservers S.A.",14
-"AS5607","Sky UK Limited",14
 "AS11232","Midcontinent Communications",13
 "AS11427","Charter Communications Inc",13
 "AS134420","Chongqing Telecom",13
