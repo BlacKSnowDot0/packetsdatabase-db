@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87707
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21962
-"AS398324","Censys, Inc.",13274
+"AS398324","Censys, Inc.",13275
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10295
 "AS26210","AXS Bolivia S. A.",7972
@@ -49,8 +49,8 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",740
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
-"AS51167","Contabo GmbH",635
-"AS10439","CariNet, Inc.",634
+"AS10439","CariNet, Inc.",636
+"AS51167","Contabo GmbH",636
 "AS14618","Amazon.com, Inc.",632
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",572
@@ -404,6 +404,7 @@ ASN,Organization,IP_Count
 "AS8708","RCS & RDS SA",12
 "AS9318","SK Broadband Co Ltd",12
 "AS984","OCTOPUS WEB SOLUTION INC",12
+"AS142032","High Family Technology Co., Limited",11
 "AS17552","TRUE INTERNET CORPORATION CO. LTD.",11
 "AS200651","FlokiNET ehf",11
 "AS205119","TELEKS DOOEL Skopje",11
@@ -425,7 +426,6 @@ ASN,Organization,IP_Count
 "AS9770","LG HelloVision Corp.",11
 "AS11351","Charter Communications Inc",10
 "AS137718","Beijing Volcano Engine Technology Co., Ltd.",10
-"AS142032","High Family Technology Co., Limited",10
 "AS149359","PT Persada Data Multimedia",10
 "AS153443","VPSRE.NET LLC",10
 "AS202520","SkyPass Solutions Sp. z.o.o.",10
