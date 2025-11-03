@@ -1,5 +1,5 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87707
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87708
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21962
 "AS398324","Censys, Inc.",13278
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2733
 "AS142002","Scloud Pte Ltd",2559
-"AS6939","Hurricane Electric LLC",2507
+"AS6939","Hurricane Electric LLC",2508
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1735
 "AS214295","SKYNET NETWORK LTD",1631
@@ -38,7 +38,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1141
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
-"AS13335","Cloudflare, Inc.",1071
+"AS13335","Cloudflare, Inc.",1073
 "AS23470","ReliableSite.Net LLC",1031
 "AS208684","BHA CONSEIL SARL",990
 "AS51852","Private Layer INC",907
@@ -47,7 +47,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",818
 "AS215925","VPSVAULT.HOST LTD",811
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",740
+"AS20052","Arbor Networks, Inc.",741
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS10439","CariNet, Inc.",638
 "AS51167","Contabo GmbH",636
@@ -173,10 +173,10 @@ ASN,Organization,IP_Count
 "AS266181","GOLDEN LINK",48
 "AS149746","PT Blip Integrator Provider",47
 "AS200514","KnownSRV Ltd.",47
+"AS6739","VODAFONE ONO, S.A.",47
 "AS10796","Charter Communications Inc",46
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
-"AS6739","VODAFONE ONO, S.A.",46
 "AS396356","Latitude.sh",44
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
@@ -204,13 +204,13 @@ ASN,Organization,IP_Count
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",34
 "AS9198","JSC Kazakhtelecom",34
 "AS45671","Servers Australia Pty. Ltd",33
+"AS5089","Virgin Media Limited",33
 "AS9498","Bharti Airtel Limited",33
 "AS1680","Cellcom Fixed Line Communication L.P",32
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",32
 "AS4760","PCCW IMS Limited",32
-"AS5089","Virgin Media Limited",32
 "AS55990","Huawei Cloud Service data center",32
 "AS5650","Frontier Communications of America, Inc.",32
 "AS1241","RIPE Network Coordination Centre",31
@@ -239,6 +239,7 @@ ASN,Organization,IP_Count
 "AS23693","PT. Telekomunikasi Selular",26
 "AS3209","Vodafone GmbH",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
+"AS30860","Virtual Systems LLC",25
 "AS53118","NETLINE TELECOM",25
 "AS55836","Reliance Jio Infocomm Limited",25
 "AS55933","Cloudie Limited",25
@@ -250,7 +251,6 @@ ASN,Organization,IP_Count
 "AS197540","netcup GmbH",24
 "AS209","CenturyLink Communications, LLC",24
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",24
-"AS30860","Virtual Systems LLC",24
 "AS36947","Telecom Algeria",24
 "AS4713","NTT Communications Corporation",24
 "AS577","Bell Canada",24
