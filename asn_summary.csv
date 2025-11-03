@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87702
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21958
-"AS398324","Censys, Inc.",13254
+"AS398324","Censys, Inc.",13256
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10293
 "AS26210","AXS Bolivia S. A.",7972
@@ -47,7 +47,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",818
 "AS215925","VPSVAULT.HOST LTD",810
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",736
+"AS20052","Arbor Networks, Inc.",737
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS10439","CariNet, Inc.",632
 "AS51167","Contabo GmbH",632
@@ -76,7 +76,7 @@ ASN,Organization,IP_Count
 "AS7922","Comcast Cable Communications, LLC",345
 "AS21859","Zenlayer Inc",344
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",333
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",319
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",320
 "AS214943","Railnet LLC",315
 "AS45899","VNPT Corp",315
 "AS24863","LINKdotNET AS number",307
@@ -102,7 +102,7 @@ ASN,Organization,IP_Count
 "AS29484","Ruhr-Universitaet Bochum",169
 "AS206264","Amarutu Technology Ltd",153
 "AS47105","Vault Dweller OU",141
-"AS50219","LNK SYSTEMS MUNTENIA SRL",135
+"AS50219","LNK SYSTEMS MUNTENIA SRL",136
 "AS42237","w1n ltd",134
 "AS262551","Farol Telecom",129
 "AS137409","GSL Networks Pty LTD",128
@@ -267,6 +267,7 @@ ASN,Organization,IP_Count
 "AS210509","Optimum Line for Internet Services Ltd.",22
 "AS213010","Gening Nikita Dmitrievich",22
 "AS24560","Bharti Airtel Limited",22
+"AS2856","British Telecommunications PLC",22
 "AS43289","Trabia SRL",22
 "AS43641","SOLLUTIUM EU Sp z.o.o.",22
 "AS51430","AltusHost B.V.",22
@@ -280,7 +281,6 @@ ASN,Organization,IP_Count
 "AS17816","China Unicom IP network China169 Guangdong province",21
 "AS214417","Andrii Hrosh",21
 "AS214668","AxusHost B.V.",21
-"AS2856","British Telecommunications PLC",21
 "AS329490","Promethean Consulting Limited",21
 "AS3320","Deutsche Telekom AG",21
 "AS400536","Nodestop LLC",21
@@ -334,6 +334,7 @@ ASN,Organization,IP_Count
 "AS9269","Hong Kong Broadband Network Ltd",17
 "AS140726","China Unicom",16
 "AS207713","GLOBAL INTERNET SOLUTIONS LLC",16
+"AS24151","China Internet Network Infomation Center",16
 "AS24757","EthioNet",16
 "AS24812","NPK Home-Net Ltd.",16
 "AS25198","INTERKVM HOST SRL",16
@@ -351,7 +352,6 @@ ASN,Organization,IP_Count
 "AS202448","MVPS LTD",15
 "AS211619","MAXKO d.o.o.",15
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",15
-"AS24151","China Internet Network Infomation Center",15
 "AS263767","CORPORACIÓN GALA IT, C.A.",15
 "AS272547","Servicos de Infraestrutura e Datacenter",15
 "AS28126","BRISANET SERVICOS DE TELECOMUNICACOES LTDA",15
