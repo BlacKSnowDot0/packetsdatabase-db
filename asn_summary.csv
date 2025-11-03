@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87711
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21963
-"AS398324","Censys, Inc.",13292
+"AS398324","Censys, Inc.",13294
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10297
 "AS26210","AXS Bolivia S. A.",7972
@@ -12,8 +12,8 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4437
 "AS16509","Amazon.com, Inc.",4264
-"AS45102","Alibaba (US) Technology Co., Ltd.",3903
-"AS63949","Akamai Technologies, Inc.",3587
+"AS45102","Alibaba (US) Technology Co., Ltd.",3904
+"AS63949","Akamai Technologies, Inc.",3588
 "AS15169","Google LLC",3345
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3112
@@ -169,10 +169,10 @@ ASN,Organization,IP_Count
 "AS20115","Charter Communications",52
 "AS210644","AEZA INTERNATIONAL LTD",51
 "AS6128","Cablevision Systems Corp.",50
+"AS6739","VODAFONE ONO, S.A.",49
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS200514","KnownSRV Ltd.",48
 "AS266181","GOLDEN LINK",48
-"AS6739","VODAFONE ONO, S.A.",48
 "AS149746","PT Blip Integrator Provider",47
 "AS10796","Charter Communications Inc",46
 "AS138156","CSNE Co., Ltd.",46
@@ -194,10 +194,10 @@ ASN,Organization,IP_Count
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",38
 "AS20473","The Constant Company, LLC",37
 "AS4538","China Education and Research Network Center",37
+"AS8048","CANTV Servicios, Venezuela",37
 "AS8167","V tal",37
 "AS210558","1337 Services GmbH",36
 "AS42624","Global-Data System IT Corporation",36
-"AS8048","CANTV Servicios, Venezuela",36
 "AS213790","Limited Network LTD",35
 "AS30083","velia.net",35
 "AS34665","Petersburg Internet Network ltd.",34
@@ -1104,6 +1104,7 @@ ASN,Organization,IP_Count
 "AS201409","HOSTSHIELD LTD",2
 "AS202103","Lanet Network Ltd",2
 "AS202561","High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.",2
+"AS202870","Dimensione S.r.l.",2
 "AS203087","PE Fedinyak Sergey Vyacheslavovich",2
 "AS203214","Hulum Almustakbal Company for Communication Engineering and Services Ltd",2
 "AS203622","GSP LLC",2
@@ -1827,7 +1828,6 @@ ASN,Organization,IP_Count
 "AS202719","Pranet s.r.o.",1
 "AS202796","JSR IT B.V.",1
 "AS202838","OOO ""Intercom""",1
-"AS202870","Dimensione S.r.l.",1
 "AS20294","MTN Uganda",1
 "AS202993","Institute of Information Technologies of National Academy of Science Azerbaijan",1
 "AS203003","Magna Capax Finland Oy",1
