@@ -1,10 +1,10 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87701
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
-"AS211298","Driftnet Ltd",21956
-"AS398324","Censys, Inc.",13249
+"AS211298","Driftnet Ltd",21957
+"AS398324","Censys, Inc.",13251
 "AS32934","Facebook, Inc.",11264
-"AS396982","Google LLC",10292
+"AS396982","Google LLC",10293
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7870
 "AS16276","OVH SAS",5799
@@ -38,7 +38,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
-"AS13335","Cloudflare, Inc.",1062
+"AS13335","Cloudflare, Inc.",1063
 "AS23470","ReliableSite.Net LLC",1030
 "AS208684","BHA CONSEIL SARL",989
 "AS51852","Private Layer INC",907
@@ -51,12 +51,12 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS14618","Amazon.com, Inc.",631
 "AS51167","Contabo GmbH",631
-"AS10439","CariNet, Inc.",629
+"AS10439","CariNet, Inc.",630
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",572
 "AS4837","CHINA UNICOM China169 Backbone",563
 "AS31148","Freenet LTD",558
-"AS401120","cheapy.host LLC",552
+"AS401120","cheapy.host LLC",553
 "AS9009","M247 Europe SRL",548
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
@@ -73,8 +73,8 @@ ASN,Organization,IP_Count
 "AS7018","AT&T Enterprises, LLC",375
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS47890","UNMANAGED LTD",348
+"AS7922","Comcast Cable Communications, LLC",345
 "AS21859","Zenlayer Inc",344
-"AS7922","Comcast Cable Communications, LLC",344
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",333
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",319
 "AS214943","Railnet LLC",315
@@ -147,8 +147,8 @@ ASN,Organization,IP_Count
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS57588","Hayat for Internet & communication LLC",65
 "AS215590","DpkgSoft International Limited",62
+"AS22773","Cox Communications Inc.",62
 "AS140717","China Unicom",61
-"AS22773","Cox Communications Inc.",61
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS4812","China Telecom (Group)",60
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",59
@@ -164,9 +164,9 @@ ASN,Organization,IP_Count
 "AS23724","IDC, China Telecommunications Corporation",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS19318","Interserver, Inc",53
+"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",52
 "AS20115","Charter Communications",51
 "AS210644","AEZA INTERNATIONAL LTD",51
-"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",51
 "AS20001","Charter Communications Inc",49
 "AS6128","Cablevision Systems Corp.",49
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
@@ -1056,6 +1056,7 @@ ASN,Organization,IP_Count
 "AS142594","SpeedyPage Ltd",2
 "AS14291","Antietam Broadband",2
 "AS14543","SRT Communications, Inc.",2
+"AS14638","Liberty Communications of Puerto Rico LLC",2
 "AS146966","China Telecom",2
 "AS147106","PT Global Erasiber Teknologi",2
 "AS147180","LR International",2
@@ -1655,7 +1656,6 @@ ASN,Organization,IP_Count
 "AS14371","Paul Bunyan Communications",1
 "AS1448","United Cooperative Services",1
 "AS14615","Comporium, Inc",1
-"AS14638","Liberty Communications of Puerto Rico LLC",1
 "AS147109","PT Internet Keluarga Indonesia",1
 "AS147132","PT Mafianet Akses Media",1
 "AS147133","PT Jafati Mitra Solusindo",1
