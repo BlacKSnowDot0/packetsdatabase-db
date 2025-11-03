@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1399
 "AS49870","Alsycon B.V.",1335
 "AS215269","LAZYCLOUD LTD",1312
-"AS32475","Internap Holding LLC",1229
+"AS32475","Internap Holding LLC",1230
 "AS36352","HostPapa",1221
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1170
@@ -175,11 +175,11 @@ ASN,Organization,IP_Count
 "AS10796","Charter Communications Inc",46
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
-"AS200514","KnownSRV Ltd.",45
+"AS200514","KnownSRV Ltd.",46
+"AS6739","VODAFONE ONO, S.A.",45
 "AS396356","Latitude.sh",44
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
-"AS6739","VODAFONE ONO, S.A.",44
 "AS12816","Leibniz-Rechenzentrum",43
 "AS152194","CTG Server Limited",43
 "AS214497","Whitelabel Solutions, Ltd.",42
@@ -215,11 +215,11 @@ ASN,Organization,IP_Count
 "AS5650","Frontier Communications of America, Inc.",32
 "AS1241","RIPE Network Coordination Centre",31
 "AS44592","SkyLink Data Center BV",31
+"AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",31
 "AS17557","Pakistan Telecommuication company limited",30
 "AS200593","PROSPERO OOO",30
 "AS269193","Iktelecom Ltda",30
 "AS46475","Limestone Networks, Inc.",30
-"AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",30
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
