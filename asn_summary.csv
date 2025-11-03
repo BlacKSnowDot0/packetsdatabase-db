@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87703
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21959
-"AS398324","Censys, Inc.",13264
+"AS398324","Censys, Inc.",13265
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10294
 "AS26210","AXS Bolivia S. A.",7972
@@ -13,14 +13,14 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4437
 "AS16509","Amazon.com, Inc.",4264
 "AS45102","Alibaba (US) Technology Co., Ltd.",3901
-"AS63949","Akamai Technologies, Inc.",3585
+"AS63949","Akamai Technologies, Inc.",3586
 "AS15169","Google LLC",3345
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3112
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2733
 "AS142002","Scloud Pte Ltd",2559
-"AS6939","Hurricane Electric LLC",2505
+"AS6939","Hurricane Electric LLC",2506
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1735
 "AS214295","SKYNET NETWORK LTD",1631
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1399
 "AS49870","Alsycon B.V.",1335
 "AS215269","LAZYCLOUD LTD",1312
-"AS32475","Internap Holding LLC",1230
+"AS32475","Internap Holding LLC",1231
 "AS36352","HostPapa",1221
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1170
@@ -38,7 +38,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
-"AS13335","Cloudflare, Inc.",1069
+"AS13335","Cloudflare, Inc.",1070
 "AS23470","ReliableSite.Net LLC",1031
 "AS208684","BHA CONSEIL SARL",989
 "AS51852","Private Layer INC",907
@@ -133,9 +133,9 @@ ASN,Organization,IP_Count
 "AS8560","IONOS SE",77
 "AS199785","Cloud Hosting Solutions, Limited.",76
 "AS211736","FOP Dmytro Nedilskyi",76
+"AS271795","SERVITELCONET CIA. LTDA.",75
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
-"AS271795","SERVITELCONET CIA. LTDA.",74
 "AS56046","China Mobile Communications Corporation",74
 "AS31898","Oracle Corporation",73
 "AS11320","LightEdge Solutions",72
@@ -176,7 +176,7 @@ ASN,Organization,IP_Count
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
 "AS200514","KnownSRV Ltd.",46
-"AS6739","VODAFONE ONO, S.A.",45
+"AS6739","VODAFONE ONO, S.A.",46
 "AS396356","Latitude.sh",44
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
@@ -764,6 +764,7 @@ ASN,Organization,IP_Count
 "AS4771","Spark New Zealand Trading Limited",4
 "AS47898","NPK Home-Net Ltd.",4
 "AS4811","China Telecom (Group)",4
+"AS48347","JSC Mediasoft ekspert",4
 "AS50274","Alfanet LLC",4
 "AS50576","FREEWAY Plus LLC",4
 "AS51765","Oy Crea Nova Hosting Solution Ltd",4
@@ -945,7 +946,6 @@ ASN,Organization,IP_Count
 "AS46690","Southern New England Telephone Company and SNET America, Inc.",3
 "AS47154","HUSAM A. H. HIJAZI",3
 "AS4818","DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",3
-"AS48347","JSC Mediasoft ekspert",3
 "AS48411","FOP Samoylenko Oleksandr Volodymirovich",3
 "AS48437","PP ""Merezha""",3
 "AS48832","Linkdotnet-Jordan",3
