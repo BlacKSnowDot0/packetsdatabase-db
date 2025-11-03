@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87702
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21958
-"AS398324","Censys, Inc.",13252
+"AS398324","Censys, Inc.",13254
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10293
 "AS26210","AXS Bolivia S. A.",7972
@@ -219,6 +219,7 @@ ASN,Organization,IP_Count
 "AS200593","PROSPERO OOO",30
 "AS269193","Iktelecom Ltda",30
 "AS46475","Limestone Networks, Inc.",30
+"AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",30
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
@@ -226,7 +227,6 @@ ASN,Organization,IP_Count
 "AS149705","PT Wijaya Trimitra Indonesia",28
 "AS3269","Telecom Italia S.p.A.",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
-"AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",28
 "AS12322","Free SAS",27
 "AS146817","Hubei Feixun Network Co., Ltd",27
 "AS34534","FBW NETWORKS SAS",27
@@ -244,20 +244,20 @@ ASN,Organization,IP_Count
 "AS55933","Cloudie Limited",25
 "AS58224","Iran Telecommunication Company PJS",25
 "AS6134","XNNET LLC",25
+"AS141995","Contabo Asia Private Limited",24
 "AS17995","PT iForte Global Internet",24
 "AS18881","TELEFÔNICA BRASIL S.A",24
 "AS197540","netcup GmbH",24
 "AS209","CenturyLink Communications, LLC",24
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",24
+"AS30860","Virtual Systems LLC",24
 "AS36947","Telecom Algeria",24
 "AS4713","NTT Communications Corporation",24
 "AS577","Bell Canada",24
 "AS60068","Datacamp Limited",24
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",24
-"AS141995","Contabo Asia Private Limited",23
 "AS198037","SPACECORE SOLUTION LTD",23
 "AS21127","Joint Stock Company TransTeleCom",23
-"AS30860","Virtual Systems LLC",23
 "AS62240","Clouvider Limited",23
 "AS8193","""Uzbektelekom"" Joint Stock Company",23
 "AS13213","UK-2 Limited",22
@@ -322,6 +322,7 @@ ASN,Organization,IP_Count
 "AS852","TELUS Communications Inc.",18
 "AS8796","FD-298-8796",18
 "AS12874","Fastweb SpA",17
+"AS136142","Enigma Fiber Pvt Ltd",17
 "AS136958","China Unicom Guangdong IP network",17
 "AS148981","China Telecom",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
@@ -331,7 +332,6 @@ ASN,Organization,IP_Count
 "AS50340","JSC Selectel",17
 "AS56630","Melbikomas UAB",17
 "AS9269","Hong Kong Broadband Network Ltd",17
-"AS136142","Enigma Fiber Pvt Ltd",16
 "AS140726","China Unicom",16
 "AS207713","GLOBAL INTERNET SOLUTIONS LLC",16
 "AS24757","EthioNet",16
