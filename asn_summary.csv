@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",21963
 "AS398324","Censys, Inc.",13294
 "AS32934","Facebook, Inc.",11264
-"AS396982","Google LLC",10297
+"AS396982","Google LLC",10298
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7883
 "AS16276","OVH SAS",5799
@@ -30,14 +30,14 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1399
 "AS49870","Alsycon B.V.",1336
 "AS215269","LAZYCLOUD LTD",1312
-"AS32475","Internap Holding LLC",1236
+"AS32475","Internap Holding LLC",1237
 "AS36352","HostPapa",1221
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1170
 "AS174","Cogent Communications",1144
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS13335","Cloudflare, Inc.",1077
+"AS13335","Cloudflare, Inc.",1078
 "AS201401","NewVM B.V.",1076
 "AS23470","ReliableSite.Net LLC",1031
 "AS208684","BHA CONSEIL SARL",990
@@ -241,6 +241,7 @@ ASN,Organization,IP_Count
 "AS3209","Vodafone GmbH",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",25
+"AS36947","Telecom Algeria",25
 "AS53118","NETLINE TELECOM",25
 "AS55836","Reliance Jio Infocomm Limited",25
 "AS55933","Cloudie Limited",25
@@ -251,7 +252,6 @@ ASN,Organization,IP_Count
 "AS18881","TELEFÔNICA BRASIL S.A",24
 "AS197540","netcup GmbH",24
 "AS209","CenturyLink Communications, LLC",24
-"AS36947","Telecom Algeria",24
 "AS4713","NTT Communications Corporation",24
 "AS577","Bell Canada",24
 "AS60068","Datacamp Limited",24
@@ -281,6 +281,7 @@ ASN,Organization,IP_Count
 "AS17816","China Unicom IP network China169 Guangdong province",21
 "AS214417","Andrii Hrosh",21
 "AS214668","AxusHost B.V.",21
+"AS30058","FDCservers.net",21
 "AS329490","Promethean Consulting Limited",21
 "AS3320","Deutsche Telekom AG",21
 "AS400536","Nodestop LLC",21
@@ -293,7 +294,6 @@ ASN,Organization,IP_Count
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
-"AS30058","FDCservers.net",20
 "AS4816","China Telecom (Group)",20
 "AS56067","Metrabyte Co.,Ltd",20
 "AS11426","Charter Communications Inc",19
