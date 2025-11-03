@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87708
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21962
-"AS398324","Censys, Inc.",13288
+"AS398324","Censys, Inc.",13289
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10296
 "AS26210","AXS Bolivia S. A.",7972
@@ -45,7 +45,7 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",818
-"AS215925","VPSVAULT.HOST LTD",811
+"AS215925","VPSVAULT.HOST LTD",812
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",741
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
@@ -65,8 +65,8 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",480
 "AS53667","FranTech Solutions",465
 "AS212238","Datacamp Limited",459
-"AS12876","ONLINE S.A.S.",437
-"AS9829","Bharat Sanchar Nigam Ltd",432
+"AS12876","ONLINE S.A.S.",438
+"AS9829","Bharat Sanchar Nigam Ltd",433
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -84,7 +84,7 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",286
-"AS213613","BOTSHIELD LTD",260
+"AS213613","BOTSHIELD LTD",261
 "AS48090","TECHOFF SRV LIMITED",254
 "AS60223","Netiface Limited",250
 "AS18403","FPT Telecom Company",249
@@ -125,10 +125,10 @@ ASN,Organization,IP_Count
 "AS58461","Chinanet",85
 "AS4766","Korea Telecom",83
 "AS16735","ALGAR TELECOM S/A",81
+"AS28209","Under Servicos de Internet Ltda",80
 "AS40021","Nubes, LLC",80
 "AS5617","Orange Polska Spolka Akcyjna",80
 "AS136435","ELITE COMMUNICATION",79
-"AS28209","Under Servicos de Internet Ltda",79
 "AS200019","ALEXHOST SRL",78
 "AS8560","IONOS SE",77
 "AS199785","Cloud Hosting Solutions, Limited.",76
@@ -168,7 +168,7 @@ ASN,Organization,IP_Count
 "AS20001","Charter Communications Inc",52
 "AS20115","Charter Communications",52
 "AS210644","AEZA INTERNATIONAL LTD",51
-"AS6128","Cablevision Systems Corp.",49
+"AS6128","Cablevision Systems Corp.",50
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS200514","KnownSRV Ltd.",48
 "AS266181","GOLDEN LINK",48
