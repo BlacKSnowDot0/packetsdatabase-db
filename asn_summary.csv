@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87704
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21962
-"AS398324","Censys, Inc.",13269
+"AS398324","Censys, Inc.",13272
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10295
 "AS26210","AXS Bolivia S. A.",7972
@@ -49,9 +49,9 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",739
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
-"AS51167","Contabo GmbH",634
+"AS51167","Contabo GmbH",635
 "AS10439","CariNet, Inc.",633
-"AS14618","Amazon.com, Inc.",631
+"AS14618","Amazon.com, Inc.",632
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",572
 "AS4837","CHINA UNICOM China169 Backbone",563
@@ -64,7 +64,7 @@ ASN,Organization,IP_Count
 "AS50360","Tamatiya EOOD",492
 "AS51115","HLL LLC",480
 "AS53667","FranTech Solutions",464
-"AS212238","Datacamp Limited",458
+"AS212238","Datacamp Limited",459
 "AS12876","ONLINE S.A.S.",437
 "AS9829","Bharat Sanchar Nigam Ltd",432
 "AS21299","Kar-Tel LLC",406
@@ -80,7 +80,7 @@ ASN,Organization,IP_Count
 "AS214943","Railnet LLC",315
 "AS45899","VNPT Corp",315
 "AS24863","LINKdotNET AS number",307
-"AS8151","Uninet S.A. de C.V.",306
+"AS8151","Uninet S.A. de C.V.",307
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",286
@@ -338,6 +338,7 @@ ASN,Organization,IP_Count
 "AS24757","EthioNet",16
 "AS24812","NPK Home-Net Ltd.",16
 "AS25198","INTERKVM HOST SRL",16
+"AS2914","NTT America, Inc.",16
 "AS3257","GTT Communications Inc.",16
 "AS328539","Giga for Telecommunication and Technology Limited",16
 "AS33363","Charter Communications, Inc",16
@@ -356,7 +357,6 @@ ASN,Organization,IP_Count
 "AS272547","Servicos de Infraestrutura e Datacenter",15
 "AS28126","BRISANET SERVICOS DE TELECOMUNICACOES LTDA",15
 "AS28201","Companhia Itabirana Telecomunicações Ltda",15
-"AS2914","NTT America, Inc.",15
 "AS31113","Artkomm LLC",15
 "AS397283","RocketNode Inc",15
 "AS5607","Sky UK Limited",15
@@ -572,6 +572,7 @@ ASN,Organization,IP_Count
 "AS27747","Telecentro S.A.",6
 "AS27983","Red Intercable Digital S.A.",6
 "AS28210","GIGA MAIS FIBRA TELECOMUNICACOES S.A.",6
+"AS30722","Vodafone Italia S.p.A.",6
 "AS33588","Charter Communications",6
 "AS33771","Safaricom Limited",6
 "AS34700","MAXNET TELECOM, LTD",6
@@ -636,7 +637,6 @@ ASN,Organization,IP_Count
 "AS29049","Delta Telecom Ltd",5
 "AS29182","JSC IOT",5
 "AS30036","Mediacom Communications Corp",5
-"AS30722","Vodafone Italia S.p.A.",5
 "AS31133","PJSC MegaFon",5
 "AS328510","Ikeja Wireless (Pty) Ltd",5
 "AS329244","Connect, Surf and Smile Limited",5
