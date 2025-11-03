@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87708
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21962
-"AS398324","Censys, Inc.",13286
+"AS398324","Censys, Inc.",13287
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10296
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7880
+"AS14061","DigitalOcean, LLC",7881
 "AS16276","OVH SAS",5799
 "AS4134","Chinanet",5011
 "AS6568","Entel S.A. - EntelNet",4537
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2734
 "AS142002","Scloud Pte Ltd",2559
-"AS6939","Hurricane Electric LLC",2509
+"AS6939","Hurricane Electric LLC",2510
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1735
 "AS214295","SKYNET NETWORK LTD",1631
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1399
 "AS49870","Alsycon B.V.",1336
 "AS215269","LAZYCLOUD LTD",1312
-"AS32475","Internap Holding LLC",1234
+"AS32475","Internap Holding LLC",1235
 "AS36352","HostPapa",1221
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1170
@@ -70,13 +70,13 @@ ASN,Organization,IP_Count
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS7018","AT&T Enterprises, LLC",375
+"AS7018","AT&T Enterprises, LLC",377
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS47890","UNMANAGED LTD",348
 "AS7922","Comcast Cable Communications, LLC",345
 "AS21859","Zenlayer Inc",344
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",333
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",320
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",321
 "AS214943","Railnet LLC",315
 "AS45899","VNPT Corp",315
 "AS24863","LINKdotNET AS number",307
@@ -104,7 +104,7 @@ ASN,Organization,IP_Count
 "AS47105","Vault Dweller OU",141
 "AS50219","LNK SYSTEMS MUNTENIA SRL",136
 "AS42237","w1n ltd",134
-"AS262551","Farol Telecom",129
+"AS262551","Farol Telecom",130
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
 "AS13238","YANDEX LLC",125
@@ -171,9 +171,9 @@ ASN,Organization,IP_Count
 "AS6128","Cablevision Systems Corp.",49
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
+"AS6739","VODAFONE ONO, S.A.",48
 "AS149746","PT Blip Integrator Provider",47
 "AS200514","KnownSRV Ltd.",47
-"AS6739","VODAFONE ONO, S.A.",47
 "AS10796","Charter Communications Inc",46
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
@@ -460,6 +460,7 @@ ASN,Organization,IP_Count
 "AS214481","Wojciech Czapkowicz",9
 "AS24955","JSC ""Ufanet""",9
 "AS267280","YELLOW CONNECT MULTIMIDIA LTDA ME",9
+"AS38880","Micron21 Datacentre Pty Ltd",9
 "AS400992","ZhouyiSat Communications",9
 "AS40244","Turnkey Internet Inc.",9
 "AS4609","Companhia de Telecomunicacoes de Macau",9
@@ -489,7 +490,6 @@ ASN,Organization,IP_Count
 "AS29302","Hosting Services Inc",8
 "AS328723","Telasera Technologies PTY LTD",8
 "AS38283","CHINANET SiChuan Telecom Internet Data Center",8
-"AS38880","Micron21 Datacentre Pty Ltd",8
 "AS41608","NextGenWebs, S.L.",8
 "AS4761","PT. INDOSAT Tbk",8
 "AS5432","Proximus NV",8
