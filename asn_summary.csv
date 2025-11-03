@@ -4,16 +4,16 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",21963
 "AS398324","Censys, Inc.",13294
 "AS32934","Facebook, Inc.",11264
-"AS396982","Google LLC",10298
+"AS396982","Google LLC",10299
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7883
 "AS16276","OVH SAS",5799
 "AS4134","Chinanet",5011
 "AS6568","Entel S.A. - EntelNet",4537
-"AS58466","CHINANET Guangdong province network",4437
+"AS58466","CHINANET Guangdong province network",4438
 "AS16509","Amazon.com, Inc.",4264
 "AS45102","Alibaba (US) Technology Co., Ltd.",3904
-"AS63949","Akamai Technologies, Inc.",3588
+"AS63949","Akamai Technologies, Inc.",3589
 "AS15169","Google LLC",3345
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3112
@@ -92,8 +92,8 @@ ASN,Organization,IP_Count
 "AS209272","Alviva Holding Limited",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS701","Verizon Business",220
+"AS141718","haoxiangyun",215
 "AS14987","Rethem Hosting LLC",215
-"AS141718","haoxiangyun",214
 "AS12389","PJSC Rostelecom",190
 "AS12555","Data-center IMAQLIQ Ltd.",190
 "AS7552","Viettel Group",182
@@ -169,9 +169,9 @@ ASN,Organization,IP_Count
 "AS20115","Charter Communications",52
 "AS210644","AEZA INTERNATIONAL LTD",51
 "AS6128","Cablevision Systems Corp.",50
+"AS200514","KnownSRV Ltd.",49
 "AS6739","VODAFONE ONO, S.A.",49
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
-"AS200514","KnownSRV Ltd.",48
 "AS266181","GOLDEN LINK",48
 "AS149746","PT Blip Integrator Provider",47
 "AS10796","Charter Communications Inc",46
