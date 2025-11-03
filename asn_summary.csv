@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87707
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21962
-"AS398324","Censys, Inc.",13275
+"AS398324","Censys, Inc.",13276
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10295
 "AS26210","AXS Bolivia S. A.",7972
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4437
 "AS16509","Amazon.com, Inc.",4264
-"AS45102","Alibaba (US) Technology Co., Ltd.",3901
+"AS45102","Alibaba (US) Technology Co., Ltd.",3902
 "AS63949","Akamai Technologies, Inc.",3586
 "AS15169","Google LLC",3345
 "AS398705","Censys, Inc.",3238
@@ -137,8 +137,8 @@ ASN,Organization,IP_Count
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
 "AS56046","China Mobile Communications Corporation",74
+"AS11320","LightEdge Solutions",73
 "AS31898","Oracle Corporation",73
-"AS11320","LightEdge Solutions",72
 "AS3920","ESTOXY OU",71
 "AS52053","REDHEBERG Association declaree",69
 "AS328867","Corebach Backbone SARL",67
@@ -172,10 +172,10 @@ ASN,Organization,IP_Count
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
 "AS149746","PT Blip Integrator Provider",47
+"AS200514","KnownSRV Ltd.",47
 "AS10796","Charter Communications Inc",46
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
-"AS200514","KnownSRV Ltd.",46
 "AS6739","VODAFONE ONO, S.A.",46
 "AS396356","Latitude.sh",44
 "AS42708","GleSYS AB",44
@@ -333,6 +333,7 @@ ASN,Organization,IP_Count
 "AS56630","Melbikomas UAB",17
 "AS9269","Hong Kong Broadband Network Ltd",17
 "AS140726","China Unicom",16
+"AS16591","Google Fiber Inc.",16
 "AS207713","GLOBAL INTERNET SOLUTIONS LLC",16
 "AS24151","China Internet Network Infomation Center",16
 "AS24757","EthioNet",16
@@ -348,7 +349,6 @@ ASN,Organization,IP_Count
 "AS136515","Dasca Cable Services, Inc.",15
 "AS138915","Kaopu Cloud HK Limited",15
 "AS15704","XTRA TELECOM S.A.",15
-"AS16591","Google Fiber Inc.",15
 "AS199414","Noah Kolossa",15
 "AS202448","MVPS LTD",15
 "AS211619","MAXKO d.o.o.",15
@@ -445,6 +445,7 @@ ASN,Organization,IP_Count
 "AS62068","SpectraIP B.V.",10
 "AS9304","HGC Global Communications Limited",10
 "AS9930","TT DOTCOM SDN BHD",10
+"AS12271","Charter Communications Inc",9
 "AS12353","Vodafone Portugal - Communicacoes Pessoais S.A.",9
 "AS1267","RIPE Network Coordination Centre",9
 "AS131596","TBC",9
@@ -467,7 +468,6 @@ ASN,Organization,IP_Count
 "AS64236","UnReal Servers, LLC",9
 "AS8346","SONATEL-AS Autonomous System",9
 "AS9038","Batelco Jordan",9
-"AS12271","Charter Communications Inc",8
 "AS133982","Excitel Broadband Private Limited",8
 "AS135918","VIET DIGITAL TECHNOLOGY LIABILITY COMPANY",8
 "AS138754","Kerala Vision Broad Band Private Limited",8
