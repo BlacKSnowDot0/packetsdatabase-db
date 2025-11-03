@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87708
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21962
-"AS398324","Censys, Inc.",13282
+"AS398324","Censys, Inc.",13283
 "AS32934","Facebook, Inc.",11264
-"AS396982","Google LLC",10295
+"AS396982","Google LLC",10296
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7880
 "AS16276","OVH SAS",5799
@@ -50,7 +50,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",741
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
 "AS10439","CariNet, Inc.",638
-"AS51167","Contabo GmbH",636
+"AS51167","Contabo GmbH",637
 "AS14618","Amazon.com, Inc.",632
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",572
@@ -166,7 +166,7 @@ ASN,Organization,IP_Count
 "AS19318","Interserver, Inc",53
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",53
 "AS20001","Charter Communications Inc",52
-"AS20115","Charter Communications",51
+"AS20115","Charter Communications",52
 "AS210644","AEZA INTERNATIONAL LTD",51
 "AS6128","Cablevision Systems Corp.",49
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
@@ -237,9 +237,10 @@ ASN,Organization,IP_Count
 "AS204834","Shabakieh Isfahan Co PJSC",26
 "AS2200","Renater",26
 "AS23693","PT. Telekomunikasi Selular",26
+"AS30860","Virtual Systems LLC",26
 "AS3209","Vodafone GmbH",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
-"AS30860","Virtual Systems LLC",25
+"AS212913","FOP Hornostay Mykhaylo Ivanovych",25
 "AS53118","NETLINE TELECOM",25
 "AS55836","Reliance Jio Infocomm Limited",25
 "AS55933","Cloudie Limited",25
@@ -250,7 +251,6 @@ ASN,Organization,IP_Count
 "AS18881","TELEFÔNICA BRASIL S.A",24
 "AS197540","netcup GmbH",24
 "AS209","CenturyLink Communications, LLC",24
-"AS212913","FOP Hornostay Mykhaylo Ivanovych",24
 "AS36947","Telecom Algeria",24
 "AS4713","NTT Communications Corporation",24
 "AS577","Bell Canada",24
