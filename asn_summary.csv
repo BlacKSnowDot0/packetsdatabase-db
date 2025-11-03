@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87703
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21959
-"AS398324","Censys, Inc.",13261
+"AS398324","Censys, Inc.",13262
 "AS32934","Facebook, Inc.",11264
-"AS396982","Google LLC",10293
+"AS396982","Google LLC",10294
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7879
 "AS16276","OVH SAS",5799
@@ -22,7 +22,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2559
 "AS6939","Hurricane Electric LLC",2504
 "AS9808","China Mobile",2078
-"AS202425","IP Volume inc",1734
+"AS202425","IP Volume inc",1735
 "AS214295","SKYNET NETWORK LTD",1631
 "AS0","",1618
 "AS209605","UAB Host Baltic",1520
@@ -38,7 +38,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
-"AS13335","Cloudflare, Inc.",1067
+"AS13335","Cloudflare, Inc.",1069
 "AS23470","ReliableSite.Net LLC",1031
 "AS208684","BHA CONSEIL SARL",989
 "AS51852","Private Layer INC",907
@@ -63,10 +63,10 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",503
 "AS50360","Tamatiya EOOD",492
 "AS51115","HLL LLC",480
-"AS53667","FranTech Solutions",463
+"AS53667","FranTech Solutions",464
 "AS212238","Datacamp Limited",458
 "AS12876","ONLINE S.A.S.",436
-"AS9829","Bharat Sanchar Nigam Ltd",430
+"AS9829","Bharat Sanchar Nigam Ltd",431
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -80,7 +80,7 @@ ASN,Organization,IP_Count
 "AS214943","Railnet LLC",315
 "AS45899","VNPT Corp",315
 "AS24863","LINKdotNET AS number",307
-"AS8151","Uninet S.A. de C.V.",305
+"AS8151","Uninet S.A. de C.V.",306
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",286
@@ -165,7 +165,7 @@ ASN,Organization,IP_Count
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS19318","Interserver, Inc",53
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",53
-"AS20001","Charter Communications Inc",51
+"AS20001","Charter Communications Inc",52
 "AS20115","Charter Communications",51
 "AS210644","AEZA INTERNATIONAL LTD",51
 "AS6128","Cablevision Systems Corp.",49
@@ -179,9 +179,9 @@ ASN,Organization,IP_Count
 "AS396356","Latitude.sh",44
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
+"AS6739","VODAFONE ONO, S.A.",44
 "AS12816","Leibniz-Rechenzentrum",43
 "AS152194","CTG Server Limited",43
-"AS6739","VODAFONE ONO, S.A.",43
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS262378","Compuservice Empreendimentos Ltda",42
 "AS30633","Leaseweb USA, Inc.",42
@@ -657,6 +657,7 @@ ASN,Organization,IP_Count
 "AS45305","Lintas Data Prima, PT",5
 "AS45458","ADVANCED WIRELESS NETWORK COMPANY LIMITED",5
 "AS45650","VIA NET COMMUNICATION PUBLIC LIMITED",5
+"AS46606","Unified Layer",5
 "AS4721","JCOM Co., Ltd.",5
 "AS47702","Teleradiocompany Discovery Ltd.",5
 "AS4780","Digital United Inc.",5
@@ -1327,7 +1328,6 @@ ASN,Organization,IP_Count
 "AS45595","Pakistan Telecom Company Limited",2
 "AS45773","HEC",2
 "AS46592","Tombigbee Communications, LLC",2
-"AS46606","Unified Layer",2
 "AS4685","Asahi Net",2
 "AS47236","CityLink Ltd",2
 "AS47304","NEF Fonden",2
