@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87704
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
-"AS211298","Driftnet Ltd",21959
-"AS398324","Censys, Inc.",13268
+"AS211298","Driftnet Ltd",21962
+"AS398324","Censys, Inc.",13269
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10295
 "AS26210","AXS Bolivia S. A.",7972
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2733
 "AS142002","Scloud Pte Ltd",2559
-"AS6939","Hurricane Electric LLC",2506
+"AS6939","Hurricane Electric LLC",2507
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1735
 "AS214295","SKYNET NETWORK LTD",1631
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",480
 "AS53667","FranTech Solutions",464
 "AS212238","Datacamp Limited",458
-"AS12876","ONLINE S.A.S.",436
+"AS12876","ONLINE S.A.S.",437
 "AS9829","Bharat Sanchar Nigam Ltd",432
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
@@ -258,6 +258,7 @@ ASN,Organization,IP_Count
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",24
 "AS198037","SPACECORE SOLUTION LTD",23
 "AS21127","Joint Stock Company TransTeleCom",23
+"AS2856","British Telecommunications PLC",23
 "AS62240","Clouvider Limited",23
 "AS8193","""Uzbektelekom"" Joint Stock Company",23
 "AS13213","UK-2 Limited",22
@@ -267,7 +268,6 @@ ASN,Organization,IP_Count
 "AS210509","Optimum Line for Internet Services Ltd.",22
 "AS213010","Gening Nikita Dmitrievich",22
 "AS24560","Bharti Airtel Limited",22
-"AS2856","British Telecommunications PLC",22
 "AS43289","Trabia SRL",22
 "AS43641","SOLLUTIUM EU Sp z.o.o.",22
 "AS51430","AltusHost B.V.",22
