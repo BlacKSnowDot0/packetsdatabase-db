@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87708
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21962
-"AS398324","Censys, Inc.",13283
+"AS398324","Censys, Inc.",13286
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10296
 "AS26210","AXS Bolivia S. A.",7972
@@ -18,9 +18,9 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3112
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2733
+"AS8075","Microsoft Corporation",2734
 "AS142002","Scloud Pte Ltd",2559
-"AS6939","Hurricane Electric LLC",2508
+"AS6939","Hurricane Electric LLC",2509
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1735
 "AS214295","SKYNET NETWORK LTD",1631
@@ -28,9 +28,9 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1520
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1399
-"AS49870","Alsycon B.V.",1335
+"AS49870","Alsycon B.V.",1336
 "AS215269","LAZYCLOUD LTD",1312
-"AS32475","Internap Holding LLC",1233
+"AS32475","Internap Holding LLC",1234
 "AS36352","HostPapa",1221
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1170
@@ -38,7 +38,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
-"AS13335","Cloudflare, Inc.",1073
+"AS13335","Cloudflare, Inc.",1074
 "AS23470","ReliableSite.Net LLC",1031
 "AS208684","BHA CONSEIL SARL",990
 "AS51852","Private Layer INC",907
@@ -303,6 +303,7 @@ ASN,Organization,IP_Count
 "AS22927","Telefonica de Argentina",19
 "AS24348","CERNET2 IX at Tsinghua University",19
 "AS262287","Maxihost LTDA",19
+"AS30058","FDCservers.net",19
 "AS329009","Spectrum Internet Service Ltd",19
 "AS41745","Baykov Ilya Sergeevich",19
 "AS49531","""NetCom-R"" LLC",19
@@ -315,7 +316,6 @@ ASN,Organization,IP_Count
 "AS18049","Taiwan Infrastructure Network Technologie",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
 "AS24940","Hetzner Online GmbH",18
-"AS30058","FDCservers.net",18
 "AS39603","P4 Sp. z o.o.",18
 "AS400655","NixLabs Networks",18
 "AS40676","Psychz Networks",18
@@ -381,6 +381,7 @@ ASN,Organization,IP_Count
 "AS20011","Dimension Data",13
 "AS213194","Nechaev Dmitry Sergeevich",13
 "AS25369","Hydra Communications Ltd",13
+"AS271597","NEW LINK CONNECT",13
 "AS28840","PJSC ""TATTELECOM""",13
 "AS29465","MTN NIGERIA Communication limited",13
 "AS37105","RAIN GROUP HOLDINGS (PTY) LTD",13
@@ -391,7 +392,6 @@ ASN,Organization,IP_Count
 "AS17639","ComClark Network & Technology Corp",12
 "AS213438","ColocaTel Inc.",12
 "AS2637","Georgia Institute of Technology",12
-"AS271597","NEW LINK CONNECT",12
 "AS3243","MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.",12
 "AS35042","Layer7 Networks GmbH",12
 "AS35297","Dataline LLC",12
