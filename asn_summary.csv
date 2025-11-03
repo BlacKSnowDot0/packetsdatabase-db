@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87709
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21962
-"AS398324","Censys, Inc.",13289
+"AS398324","Censys, Inc.",13290
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10297
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7881
+"AS14061","DigitalOcean, LLC",7882
 "AS16276","OVH SAS",5799
 "AS4134","Chinanet",5011
 "AS6568","Entel S.A. - EntelNet",4537
@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3112
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2734
+"AS8075","Microsoft Corporation",2735
 "AS142002","Scloud Pte Ltd",2559
 "AS6939","Hurricane Electric LLC",2510
 "AS9808","China Mobile",2078
@@ -38,7 +38,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
-"AS13335","Cloudflare, Inc.",1074
+"AS13335","Cloudflare, Inc.",1075
 "AS23470","ReliableSite.Net LLC",1031
 "AS208684","BHA CONSEIL SARL",990
 "AS51852","Private Layer INC",907
@@ -49,8 +49,8 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",741
 "AS211680","NSEC - Sistemas Informaticos, S.A.",707
+"AS51167","Contabo GmbH",639
 "AS10439","CariNet, Inc.",638
-"AS51167","Contabo GmbH",638
 "AS14618","Amazon.com, Inc.",632
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",572
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS53667","FranTech Solutions",465
 "AS212238","Datacamp Limited",459
 "AS12876","ONLINE S.A.S.",438
-"AS9829","Bharat Sanchar Nigam Ltd",433
+"AS9829","Bharat Sanchar Nigam Ltd",434
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -293,6 +293,7 @@ ASN,Organization,IP_Count
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
+"AS30058","FDCservers.net",20
 "AS4816","China Telecom (Group)",20
 "AS56067","Metrabyte Co.,Ltd",20
 "AS11426","Charter Communications Inc",19
@@ -303,7 +304,6 @@ ASN,Organization,IP_Count
 "AS22927","Telefonica de Argentina",19
 "AS24348","CERNET2 IX at Tsinghua University",19
 "AS262287","Maxihost LTDA",19
-"AS30058","FDCservers.net",19
 "AS329009","Spectrum Internet Service Ltd",19
 "AS41745","Baykov Ilya Sergeevich",19
 "AS49531","""NetCom-R"" LLC",19
