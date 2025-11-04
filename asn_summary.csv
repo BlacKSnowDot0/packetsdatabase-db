@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87721
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21967
-"AS398324","Censys, Inc.",13335
+"AS398324","Censys, Inc.",13337
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10307
 "AS26210","AXS Bolivia S. A.",7972
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS36352","HostPapa",1221
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1170
-"AS174","Cogent Communications",1149
+"AS174","Cogent Communications",1150
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS13335","Cloudflare, Inc.",1094
@@ -51,9 +51,9 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
 "AS10439","CariNet, Inc.",642
 "AS51167","Contabo GmbH",642
-"AS14618","Amazon.com, Inc.",635
+"AS14618","Amazon.com, Inc.",636
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS3462","Chunghwa Telecom Co., Ltd.",572
+"AS3462","Chunghwa Telecom Co., Ltd.",573
 "AS4837","CHINA UNICOM China169 Backbone",563
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",553
@@ -610,6 +610,7 @@ ASN,Organization,IP_Count
 "AS16223","MAXNET TELECOM, LTD",5
 "AS17858","LG POWERCOMM",5
 "AS18229","CtrlS",5
+"AS198253","Kukushkin Anatoly Valerievich",5
 "AS198983","Joseph Hofmann trading as 'Tornado Datacenter GmbH & Co. KG'",5
 "AS201838","Community Fibre Limited",5
 "AS202468","Noyan Abr Arvan Co. ( Private Joint Stock)",5
@@ -712,7 +713,6 @@ ASN,Organization,IP_Count
 "AS15802","Emirates Integrated Telecommunications Company PJSC",4
 "AS15924","Vodafone Net Iletisim Hizmetler AS",4
 "AS18809","Cable Onda",4
-"AS198253","Kukushkin Anatoly Valerievich",4
 "AS200845","AVATEL TELECOM, SA",4
 "AS20150","anyNode",4
 "AS203380","DA International Group Ltd.",4
