@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87719
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21966
-"AS398324","Censys, Inc.",13321
+"AS398324","Censys, Inc.",13323
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10305
 "AS26210","AXS Bolivia S. A.",7972
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1399
 "AS49870","Alsycon B.V.",1336
 "AS215269","LAZYCLOUD LTD",1312
-"AS32475","Internap Holding LLC",1249
+"AS32475","Internap Holding LLC",1250
 "AS36352","HostPapa",1221
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1170
@@ -79,7 +79,7 @@ ASN,Organization,IP_Count
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",323
 "AS214943","Railnet LLC",315
 "AS45899","VNPT Corp",315
-"AS8151","Uninet S.A. de C.V.",312
+"AS8151","Uninet S.A. de C.V.",313
 "AS24863","LINKdotNET AS number",307
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
@@ -116,8 +116,8 @@ ASN,Organization,IP_Count
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",104
 "AS47331","TTNet A.S.",103
+"AS34984","Superonline Iletisim Hizmetleri A.S.",102
 "AS151185","China Telecom",101
-"AS34984","Superonline Iletisim Hizmetleri A.S.",101
 "AS205352","KABELNET LTD",93
 "AS63018","Dedicated.com",92
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",90
@@ -190,20 +190,20 @@ ASN,Organization,IP_Count
 "AS23969","TOT Public Company Limited",40
 "AS27699","TELEFÔNICA BRASIL S.A",39
 "AS26599","TELEFÔNICA BRASIL S.A",38
+"AS4538","China Education and Research Network Center",38
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",38
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",38
 "AS20473","The Constant Company, LLC",37
-"AS4538","China Education and Research Network Center",37
 "AS8048","CANTV Servicios, Venezuela",37
 "AS8167","V tal",37
 "AS210558","1337 Services GmbH",36
 "AS42624","Global-Data System IT Corporation",36
 "AS213790","Limited Network LTD",35
 "AS30083","velia.net",35
+"AS5650","Frontier Communications of America, Inc.",35
 "AS34665","Petersburg Internet Network ltd.",34
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",34
 "AS5089","Virgin Media Limited",34
-"AS5650","Frontier Communications of America, Inc.",34
 "AS9198","JSC Kazakhtelecom",34
 "AS1680","Cellcom Fixed Line Communication L.P",33
 "AS45671","Servers Australia Pty. Ltd",33
@@ -663,6 +663,7 @@ ASN,Organization,IP_Count
 "AS45650","VIA NET COMMUNICATION PUBLIC LIMITED",5
 "AS4721","JCOM Co., Ltd.",5
 "AS47702","Teleradiocompany Discovery Ltd.",5
+"AS4771","Spark New Zealand Trading Limited",5
 "AS4780","Digital United Inc.",5
 "AS53062","GGNET TELECOM BACKBONE",5
 "AS53167","SEBRATEL TECNOLOGIA LTDA",5
@@ -763,7 +764,6 @@ ASN,Organization,IP_Count
 "AS45609","Bharti Airtel Limited",4
 "AS45700","PT. NAP Info Lintas Nusa",4
 "AS47165","Omskie kabelnye seti Ltd.",4
-"AS4771","Spark New Zealand Trading Limited",4
 "AS47898","NPK Home-Net Ltd.",4
 "AS4811","China Telecom (Group)",4
 "AS48347","JSC Mediasoft ekspert",4
