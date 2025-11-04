@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2736
 "AS142002","Scloud Pte Ltd",2559
-"AS6939","Hurricane Electric LLC",2513
+"AS6939","Hurricane Electric LLC",2514
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1736
 "AS214295","SKYNET NETWORK LTD",1631
@@ -37,9 +37,9 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1148
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS13335","Cloudflare, Inc.",1086
+"AS13335","Cloudflare, Inc.",1089
 "AS201401","NewVM B.V.",1076
-"AS23470","ReliableSite.Net LLC",1032
+"AS23470","ReliableSite.Net LLC",1034
 "AS208684","BHA CONSEIL SARL",991
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -47,7 +47,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",818
 "AS215925","VPSVAULT.HOST LTD",812
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",744
+"AS20052","Arbor Networks, Inc.",745
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
 "AS51167","Contabo GmbH",641
 "AS10439","CariNet, Inc.",639
@@ -98,8 +98,8 @@ ASN,Organization,IP_Count
 "AS12555","Data-center IMAQLIQ Ltd.",190
 "AS7552","Viettel Group",182
 "AS63199","CDS Global Cloud Co., Ltd",174
+"AS29484","Ruhr-Universitaet Bochum",170
 "AS401116","Nybula LLC",170
-"AS29484","Ruhr-Universitaet Bochum",169
 "AS206264","Amarutu Technology Ltd",153
 "AS47105","Vault Dweller OU",141
 "AS50219","LNK SYSTEMS MUNTENIA SRL",137
@@ -157,10 +157,10 @@ ASN,Organization,IP_Count
 "AS55720","Gigabit Hosting Sdn Bhd",58
 "AS20278","Nexeon Technologies, Inc.",57
 "AS8402","PJSC ""Vimpelcom""",57
+"AS23724","IDC, China Telecommunications Corporation",56
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
-"AS23724","IDC, China Telecommunications Corporation",55
 "AS213877","u1host ltd",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS19318","Interserver, Inc",53
@@ -1267,6 +1267,7 @@ ASN,Organization,IP_Count
 "AS328480","Too Much Wifi",2
 "AS328961","NET99 (PTY) LTD",2
 "AS33070","Rackspace Hosting",2
+"AS33387","Nocix, LLC",2
 "AS33647","Yadkin Valley Telephone",2
 "AS33765","TANZANIA TELECOMMUNICATIONS CO. LTD",2
 "AS34123","Netorn LLC",2
@@ -2497,7 +2498,6 @@ ASN,Organization,IP_Count
 "AS329387","Skylink Networks LTD",1
 "AS3302","Retelit Digital Services S.p.A.",1
 "AS33182","HostDime.com, Inc.",1
-"AS33387","Nocix, LLC",1
 "AS3339","FIBRAWORLD TELECOM S.A.U.",1
 "AS33541","Cable Cable Inc",1
 "AS33548","Unwired Broadband, LLC",1
