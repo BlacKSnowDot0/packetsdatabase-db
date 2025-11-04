@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87718
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21966
-"AS398324","Censys, Inc.",13313
+"AS398324","Censys, Inc.",13315
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10305
 "AS26210","AXS Bolivia S. A.",7972
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1399
 "AS49870","Alsycon B.V.",1336
 "AS215269","LAZYCLOUD LTD",1312
-"AS32475","Internap Holding LLC",1246
+"AS32475","Internap Holding LLC",1247
 "AS36352","HostPapa",1221
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1170
@@ -49,8 +49,8 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",746
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
+"AS51167","Contabo GmbH",642
 "AS10439","CariNet, Inc.",641
-"AS51167","Contabo GmbH",641
 "AS14618","Amazon.com, Inc.",634
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",572
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS53667","FranTech Solutions",467
 "AS212238","Datacamp Limited",459
 "AS12876","ONLINE S.A.S.",440
-"AS9829","Bharat Sanchar Nigam Ltd",434
+"AS9829","Bharat Sanchar Nigam Ltd",435
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
