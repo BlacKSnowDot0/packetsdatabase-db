@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87718
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87719
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21966
-"AS398324","Censys, Inc.",13319
+"AS398324","Censys, Inc.",13320
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10305
 "AS26210","AXS Bolivia S. A.",7972
@@ -39,7 +39,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS13335","Cloudflare, Inc.",1090
 "AS201401","NewVM B.V.",1076
-"AS23470","ReliableSite.Net LLC",1034
+"AS23470","ReliableSite.Net LLC",1035
 "AS208684","BHA CONSEIL SARL",992
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -167,9 +167,9 @@ ASN,Organization,IP_Count
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",53
 "AS20001","Charter Communications Inc",52
 "AS20115","Charter Communications",52
+"AS6739","VODAFONE ONO, S.A.",52
 "AS210644","AEZA INTERNATIONAL LTD",51
 "AS6128","Cablevision Systems Corp.",51
-"AS6739","VODAFONE ONO, S.A.",51
 "AS200514","KnownSRV Ltd.",49
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
@@ -1104,6 +1104,7 @@ ASN,Organization,IP_Count
 "AS201409","HOSTSHIELD LTD",2
 "AS202103","Lanet Network Ltd",2
 "AS202561","High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.",2
+"AS202796","JSR IT B.V.",2
 "AS202870","Dimensione S.r.l.",2
 "AS203087","PE Fedinyak Sergey Vyacheslavovich",2
 "AS203214","Hulum Almustakbal Company for Communication Engineering and Services Ltd",2
@@ -1831,7 +1832,6 @@ ASN,Organization,IP_Count
 "AS202578","""KUBANENERGOSERVICE"" LLC",1
 "AS202700","Individual entrepreneur Kushkhov Azret Ali Alisakhovich",1
 "AS202719","Pranet s.r.o.",1
-"AS202796","JSR IT B.V.",1
 "AS202838","OOO ""Intercom""",1
 "AS20294","MTN Uganda",1
 "AS202993","Institute of Information Technologies of National Academy of Science Azerbaijan",1
