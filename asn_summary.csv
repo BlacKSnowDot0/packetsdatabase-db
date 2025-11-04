@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87721
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21967
-"AS398324","Censys, Inc.",13332
+"AS398324","Censys, Inc.",13335
 "AS32934","Facebook, Inc.",11264
-"AS396982","Google LLC",10306
+"AS396982","Google LLC",10307
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7889
 "AS16276","OVH SAS",5819
@@ -34,10 +34,10 @@ ASN,Organization,IP_Count
 "AS36352","HostPapa",1221
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1170
-"AS174","Cogent Communications",1148
+"AS174","Cogent Communications",1149
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS13335","Cloudflare, Inc.",1093
+"AS13335","Cloudflare, Inc.",1094
 "AS201401","NewVM B.V.",1076
 "AS23470","ReliableSite.Net LLC",1054
 "AS208684","BHA CONSEIL SARL",992
@@ -75,11 +75,11 @@ ASN,Organization,IP_Count
 "AS47890","UNMANAGED LTD",348
 "AS7922","Comcast Cable Communications, LLC",345
 "AS21859","Zenlayer Inc",344
-"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",333
+"AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",334
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",323
 "AS214943","Railnet LLC",315
 "AS45899","VNPT Corp",315
-"AS8151","Uninet S.A. de C.V.",313
+"AS8151","Uninet S.A. de C.V.",314
 "AS24863","LINKdotNET AS number",307
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
@@ -125,10 +125,10 @@ ASN,Organization,IP_Count
 "AS58461","Chinanet",85
 "AS4766","Korea Telecom",83
 "AS16735","ALGAR TELECOM S/A",81
+"AS136435","ELITE COMMUNICATION",80
 "AS28209","Under Servicos de Internet Ltda",80
 "AS40021","Nubes, LLC",80
 "AS5617","Orange Polska Spolka Akcyjna",80
-"AS136435","ELITE COMMUNICATION",79
 "AS200019","ALEXHOST SRL",78
 "AS8560","IONOS SE",78
 "AS199785","Cloud Hosting Solutions, Limited.",76
@@ -1020,6 +1020,7 @@ ASN,Organization,IP_Count
 "AS134863","SP INTERNET TECHNOLOGIES PRIVATE LTD",2
 "AS13490","Buckeye Cablevision, Inc.",2
 "AS135037","Techno Asia Infotech Limited",2
+"AS135411","Red Grapes Pte Ltd",2
 "AS135967","Bach Kim Network solutions Join stock company",2
 "AS136197","Xiong'an, Hebei Province, P.R.China.",2
 "AS136224","City Online Ltd.",2
@@ -1543,7 +1544,6 @@ ASN,Organization,IP_Count
 "AS135234","SHERIE PLEXUS ISP PRIVATE LIMITED",1
 "AS135341","Orange Communication",1
 "AS135392","MillenialHost Limited",1
-"AS135411","Red Grapes Pte Ltd",1
 "AS135449","PT. Broadband Indonesia Pratama",1
 "AS135607","Infinivan Incorporated",1
 "AS135746","Cityline Networks Pvt Ltd",1
@@ -2959,6 +2959,7 @@ ASN,Organization,IP_Count
 "AS9155","Quality Net General Trading & Contracting Company",1
 "AS9232","Cloud Information Technology (Intl) Telecom Group LIMITED",1
 "AS9303","The Digital Lab 2007 Limited",1
+"AS9336","XYZ Telecom Pty Ltd",1
 "AS9371","SAKURA Internet Inc.",1
 "AS9583","Sify Limited",1
 "AS9595","NTT-ME Corporation",1
