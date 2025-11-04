@@ -6,7 +6,7 @@ ASN,Organization,IP_Count
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10305
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7884
+"AS14061","DigitalOcean, LLC",7885
 "AS16276","OVH SAS",5819
 "AS4134","Chinanet",5011
 "AS6568","Entel S.A. - EntelNet",4537
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1399
 "AS49870","Alsycon B.V.",1336
 "AS215269","LAZYCLOUD LTD",1312
-"AS32475","Internap Holding LLC",1242
+"AS32475","Internap Holding LLC",1243
 "AS36352","HostPapa",1221
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1170
@@ -79,7 +79,7 @@ ASN,Organization,IP_Count
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",323
 "AS214943","Railnet LLC",315
 "AS45899","VNPT Corp",315
-"AS8151","Uninet S.A. de C.V.",309
+"AS8151","Uninet S.A. de C.V.",311
 "AS24863","LINKdotNET AS number",307
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
@@ -241,6 +241,7 @@ ASN,Organization,IP_Count
 "AS3209","Vodafone GmbH",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS6134","XNNET LLC",26
+"AS13213","UK-2 Limited",25
 "AS141995","Contabo Asia Private Limited",25
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",25
 "AS36947","Telecom Algeria",25
@@ -248,7 +249,6 @@ ASN,Organization,IP_Count
 "AS55836","Reliance Jio Infocomm Limited",25
 "AS55933","Cloudie Limited",25
 "AS58224","Iran Telecommunication Company PJS",25
-"AS13213","UK-2 Limited",24
 "AS17995","PT iForte Global Internet",24
 "AS18881","TELEFÔNICA BRASIL S.A",24
 "AS197540","netcup GmbH",24
@@ -711,6 +711,7 @@ ASN,Organization,IP_Count
 "AS15802","Emirates Integrated Telecommunications Company PJSC",4
 "AS15924","Vodafone Net Iletisim Hizmetler AS",4
 "AS18809","Cable Onda",4
+"AS198253","Kukushkin Anatoly Valerievich",4
 "AS200845","AVATEL TELECOM, SA",4
 "AS20150","anyNode",4
 "AS203380","DA International Group Ltd.",4
@@ -847,7 +848,6 @@ ASN,Organization,IP_Count
 "AS17931","Netforest,Inc.",3
 "AS19331","Twin Lakes Telephone Cooperative Corporation",3
 "AS196949","Natalia Sergeevna Filicheva",3
-"AS198253","Kukushkin Anatoly Valerievich",3
 "AS199468","GRAIN COMMUNICATIONS LIMITED",3
 "AS200359","Grupo Proveedor tecnologico Universal SL",3
 "AS20055","Wholesail networks LLC",3
@@ -2524,6 +2524,7 @@ ASN,Organization,IP_Count
 "AS35394","Cable Aireworld S.A.U.",1
 "AS35654","Cores Networks EOOD",1
 "AS35699","Adamo Telecom Iberia S.A.",1
+"AS35706","Net at Once Sweden AB",1
 "AS35795","Vedekon Ltd",1
 "AS3580","Planet Networks",1
 "AS35847","Ezee Fiber",1
