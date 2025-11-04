@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS36352","HostPapa",1221
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1170
-"AS174","Cogent Communications",1146
+"AS174","Cogent Communications",1147
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS13335","Cloudflare, Inc.",1083
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",503
 "AS50360","Tamatiya EOOD",492
-"AS51115","HLL LLC",483
+"AS51115","HLL LLC",484
 "AS53667","FranTech Solutions",465
 "AS212238","Datacamp Limited",459
 "AS12876","ONLINE S.A.S.",439
@@ -464,6 +464,7 @@ ASN,Organization,IP_Count
 "AS400992","ZhouyiSat Communications",9
 "AS40244","Turnkey Internet Inc.",9
 "AS4609","Companhia de Telecomunicacoes de Macau",9
+"AS46606","Unified Layer",9
 "AS4847","China Networks Inter-Exchange",9
 "AS48874","HOSTMAZE INC SRL-D",9
 "AS64236","UnReal Servers, LLC",9
@@ -523,7 +524,6 @@ ASN,Organization,IP_Count
 "AS31122","Digiweb ltd",7
 "AS3216","PJSC ""Vimpelcom""",7
 "AS36924","GVA Cote d'Ivoire SAS",7
-"AS46606","Unified Layer",7
 "AS48282","Hosting technology LTD",7
 "AS49505","JSC Selectel",7
 "AS50923","Metroset Ltd.",7
