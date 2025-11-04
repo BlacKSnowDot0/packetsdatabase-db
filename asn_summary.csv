@@ -63,7 +63,7 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",503
 "AS50360","Tamatiya EOOD",492
 "AS51115","HLL LLC",484
-"AS53667","FranTech Solutions",465
+"AS53667","FranTech Solutions",466
 "AS212238","Datacamp Limited",459
 "AS12876","ONLINE S.A.S.",439
 "AS9829","Bharat Sanchar Nigam Ltd",434
@@ -240,6 +240,7 @@ ASN,Organization,IP_Count
 "AS23693","PT. Telekomunikasi Selular",26
 "AS3209","Vodafone GmbH",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
+"AS6134","XNNET LLC",26
 "AS141995","Contabo Asia Private Limited",25
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",25
 "AS36947","Telecom Algeria",25
@@ -247,7 +248,6 @@ ASN,Organization,IP_Count
 "AS55836","Reliance Jio Infocomm Limited",25
 "AS55933","Cloudie Limited",25
 "AS58224","Iran Telecommunication Company PJS",25
-"AS6134","XNNET LLC",25
 "AS17995","PT iForte Global Internet",24
 "AS18881","TELEFÔNICA BRASIL S.A",24
 "AS197540","netcup GmbH",24
@@ -289,13 +289,13 @@ ASN,Organization,IP_Count
 "AS46573","LayerHost",21
 "AS4800","PT Aplikanusa Lintasarta",21
 "AS50887","DC FIBER HOME SRL",21
+"AS56067","Metrabyte Co.,Ltd",21
 "AS9299","Philippine Long Distance Telephone Co.",21
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS4816","China Telecom (Group)",20
-"AS56067","Metrabyte Co.,Ltd",20
 "AS11426","Charter Communications Inc",19
 "AS140061","China Telecom",19
 "AS14593","Space Exploration Technologies Corporation",19
@@ -1869,6 +1869,7 @@ ASN,Organization,IP_Count
 "AS20804","Exatel S.A.",1
 "AS208077","COMPASTELECOM LLP",1
 "AS20836","CDLAN s.r.l.",1
+"AS20853","eTOP sp. z o.o.",1
 "AS20860","IOMART CLOUD SERVICES LIMITED",1
 "AS208677","""Cloud Technologies"" LLC trading as Cloud.ru",1
 "AS20875","JP HT d.d. Mostar",1
