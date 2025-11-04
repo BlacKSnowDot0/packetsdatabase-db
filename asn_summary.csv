@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87721
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21967
-"AS398324","Censys, Inc.",13338
+"AS398324","Censys, Inc.",13339
 "AS32934","Facebook, Inc.",11264
-"AS396982","Google LLC",10307
+"AS396982","Google LLC",10308
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7889
 "AS16276","OVH SAS",5819
@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1150
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS13335","Cloudflare, Inc.",1094
+"AS13335","Cloudflare, Inc.",1096
 "AS201401","NewVM B.V.",1076
 "AS23470","ReliableSite.Net LLC",1054
 "AS208684","BHA CONSEIL SARL",992
@@ -658,6 +658,7 @@ ASN,Organization,IP_Count
 "AS39065","Southern Telecommunication Company Ltd.",5
 "AS39608","Lanet Network Ltd",5
 "AS398025","Cumberland Connect",5
+"AS401152","Ace Data Centers II, L.L.C.",5
 "AS43139","Maximum-Net LLC",5
 "AS45305","Lintas Data Prima, PT",5
 "AS45458","ADVANCED WIRELESS NETWORK COMPANY LIMITED",5
@@ -756,7 +757,6 @@ ASN,Organization,IP_Count
 "AS39891","Saudi Telecom Company JSC",4
 "AS399296","Rackdog, LLC",4
 "AS400391","Pacific Wyyerd LLC",4
-"AS401152","Ace Data Centers II, L.L.C.",4
 "AS43754","Asiatech Data Transmission company",4
 "AS44395","Ucom CJSC",4
 "AS44486","Oliver Horscht is trading as ""SYNLINQ""",4
