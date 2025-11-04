@@ -48,7 +48,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",812
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",744
-"AS211680","NSEC - Sistemas Informaticos, S.A.",707
+"AS211680","NSEC - Sistemas Informaticos, S.A.",729
 "AS51167","Contabo GmbH",641
 "AS10439","CariNet, Inc.",639
 "AS14618","Amazon.com, Inc.",633
@@ -438,6 +438,7 @@ ASN,Organization,IP_Count
 "AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",10
 "AS41420","Xentech B.V.",10
 "AS47524","Turksat Uydu Haberlesme ve Kablo TV Isletme A.S.",10
+"AS4847","China Networks Inter-Exchange",10
 "AS49434","FBW NETWORKS SAS",10
 "AS50304","Blix Solutions AS",10
 "AS52468","UFINET PANAMA S.A.",10
@@ -465,7 +466,6 @@ ASN,Organization,IP_Count
 "AS40244","Turnkey Internet Inc.",9
 "AS4609","Companhia de Telecomunicacoes de Macau",9
 "AS46606","Unified Layer",9
-"AS4847","China Networks Inter-Exchange",9
 "AS48874","HOSTMAZE INC SRL-D",9
 "AS64236","UnReal Servers, LLC",9
 "AS8346","SONATEL-AS Autonomous System",9
