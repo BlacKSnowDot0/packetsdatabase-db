@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87716
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21965
-"AS398324","Censys, Inc.",13309
+"AS398324","Censys, Inc.",13312
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10305
 "AS26210","AXS Bolivia S. A.",7972
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1399
 "AS49870","Alsycon B.V.",1336
 "AS215269","LAZYCLOUD LTD",1312
-"AS32475","Internap Holding LLC",1243
+"AS32475","Internap Holding LLC",1244
 "AS36352","HostPapa",1221
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1170
@@ -79,7 +79,7 @@ ASN,Organization,IP_Count
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",323
 "AS214943","Railnet LLC",315
 "AS45899","VNPT Corp",315
-"AS8151","Uninet S.A. de C.V.",311
+"AS8151","Uninet S.A. de C.V.",312
 "AS24863","LINKdotNET AS number",307
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
@@ -107,8 +107,8 @@ ASN,Organization,IP_Count
 "AS262551","Farol Telecom",130
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
+"AS29066","velia.net Internetdienste GmbH",126
 "AS13238","YANDEX LLC",125
-"AS29066","velia.net Internetdienste GmbH",125
 "AS14956","RouterHosting LLC",122
 "AS36007","Kamatera, Inc.",122
 "AS211298","Constantine Cybersecurity Ltd.",113
@@ -444,6 +444,7 @@ ASN,Organization,IP_Count
 "AS52468","UFINET PANAMA S.A.",10
 "AS57269","DIGI SPAIN TELECOM S.L.U.",10
 "AS62068","SpectraIP B.V.",10
+"AS64236","UnReal Servers, LLC",10
 "AS9304","HGC Global Communications Limited",10
 "AS9930","TT DOTCOM SDN BHD",10
 "AS12271","Charter Communications Inc",9
@@ -467,7 +468,6 @@ ASN,Organization,IP_Count
 "AS4609","Companhia de Telecomunicacoes de Macau",9
 "AS46606","Unified Layer",9
 "AS48874","HOSTMAZE INC SRL-D",9
-"AS64236","UnReal Servers, LLC",9
 "AS8346","SONATEL-AS Autonomous System",9
 "AS9038","Batelco Jordan",9
 "AS133982","Excitel Broadband Private Limited",8
