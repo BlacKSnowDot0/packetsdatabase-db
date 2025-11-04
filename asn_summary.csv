@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1147
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS13335","Cloudflare, Inc.",1083
+"AS13335","Cloudflare, Inc.",1084
 "AS201401","NewVM B.V.",1076
 "AS23470","ReliableSite.Net LLC",1032
 "AS208684","BHA CONSEIL SARL",991
@@ -76,7 +76,7 @@ ASN,Organization,IP_Count
 "AS7922","Comcast Cable Communications, LLC",345
 "AS21859","Zenlayer Inc",344
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",333
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",322
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",323
 "AS214943","Railnet LLC",315
 "AS45899","VNPT Corp",315
 "AS8151","Uninet S.A. de C.V.",309
@@ -256,6 +256,7 @@ ASN,Organization,IP_Count
 "AS577","Bell Canada",24
 "AS60068","Datacamp Limited",24
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",24
+"AS13213","UK-2 Limited",23
 "AS198037","SPACECORE SOLUTION LTD",23
 "AS200590","NLS Kazakhstan LLC",23
 "AS21127","Joint Stock Company TransTeleCom",23
@@ -263,7 +264,6 @@ ASN,Organization,IP_Count
 "AS62240","Clouvider Limited",23
 "AS7303","Telecom Argentina S.A.",23
 "AS8193","""Uzbektelekom"" Joint Stock Company",23
-"AS13213","UK-2 Limited",22
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",22
 "AS17561","Larus Limited",22
 "AS210509","Optimum Line for Internet Services Ltd.",22
@@ -358,6 +358,7 @@ ASN,Organization,IP_Count
 "AS28126","BRISANET SERVICOS DE TELECOMUNICACOES LTDA",15
 "AS28201","Companhia Itabirana Telecomunicações Ltda",15
 "AS31113","Artkomm LLC",15
+"AS3215","Orange S.A.",15
 "AS397283","RocketNode Inc",15
 "AS5607","Sky UK Limited",15
 "AS6181","Cincinnati Bell Telephone Company LLC",15
@@ -367,7 +368,6 @@ ASN,Organization,IP_Count
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",14
 "AS27947","Telconet S.A",14
 "AS30600","Metronet",14
-"AS3215","Orange S.A.",14
 "AS3352","TELEFONICA DE ESPANA S.A.U.",14
 "AS37457","Telkom SA Ltd.",14
 "AS4808","China Unicom Beijing Province Network",14
