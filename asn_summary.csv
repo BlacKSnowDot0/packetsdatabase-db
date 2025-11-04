@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87721
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21967
-"AS398324","Censys, Inc.",13337
+"AS398324","Censys, Inc.",13338
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10307
 "AS26210","AXS Bolivia S. A.",7972
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1399
 "AS49870","Alsycon B.V.",1336
 "AS215269","LAZYCLOUD LTD",1312
-"AS32475","Internap Holding LLC",1250
+"AS32475","Internap Holding LLC",1252
 "AS36352","HostPapa",1221
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1170
@@ -106,8 +106,8 @@ ASN,Organization,IP_Count
 "AS42237","w1n ltd",135
 "AS262551","Farol Telecom",130
 "AS137409","GSL Networks Pty LTD",128
+"AS29066","velia.net Internetdienste GmbH",128
 "AS19905","Neustar Security Services",127
-"AS29066","velia.net Internetdienste GmbH",127
 "AS13238","YANDEX LLC",125
 "AS14956","RouterHosting LLC",122
 "AS36007","Kamatera, Inc.",122
@@ -260,12 +260,12 @@ ASN,Organization,IP_Count
 "AS60068","Datacamp Limited",24
 "AS8193","""Uzbektelekom"" Joint Stock Company",24
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",24
+"AS132203","Shenzhen Tencent Computer Systems Company Limited",23
 "AS198037","SPACECORE SOLUTION LTD",23
 "AS200590","NLS Kazakhstan LLC",23
 "AS21127","Joint Stock Company TransTeleCom",23
 "AS62240","Clouvider Limited",23
 "AS7303","Telecom Argentina S.A.",23
-"AS132203","Shenzhen Tencent Computer Systems Company Limited",22
 "AS17561","Larus Limited",22
 "AS213010","Gening Nikita Dmitrievich",22
 "AS24560","Bharti Airtel Limited",22
