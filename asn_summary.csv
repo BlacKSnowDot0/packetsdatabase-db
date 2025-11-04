@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87719
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21966
-"AS398324","Censys, Inc.",13320
+"AS398324","Censys, Inc.",13321
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10305
 "AS26210","AXS Bolivia S. A.",7972
@@ -30,14 +30,14 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1399
 "AS49870","Alsycon B.V.",1336
 "AS215269","LAZYCLOUD LTD",1312
-"AS32475","Internap Holding LLC",1247
+"AS32475","Internap Holding LLC",1248
 "AS36352","HostPapa",1221
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1170
 "AS174","Cogent Communications",1148
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS13335","Cloudflare, Inc.",1090
+"AS13335","Cloudflare, Inc.",1091
 "AS201401","NewVM B.V.",1076
 "AS23470","ReliableSite.Net LLC",1035
 "AS208684","BHA CONSEIL SARL",992
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS53667","FranTech Solutions",467
 "AS212238","Datacamp Limited",459
 "AS12876","ONLINE S.A.S.",440
-"AS9829","Bharat Sanchar Nigam Ltd",435
+"AS9829","Bharat Sanchar Nigam Ltd",436
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -116,8 +116,8 @@ ASN,Organization,IP_Count
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",104
 "AS47331","TTNet A.S.",103
+"AS151185","China Telecom",101
 "AS34984","Superonline Iletisim Hizmetleri A.S.",101
-"AS151185","China Telecom",100
 "AS205352","KABELNET LTD",93
 "AS63018","Dedicated.com",92
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",90
@@ -578,6 +578,7 @@ ASN,Organization,IP_Count
 "AS34700","MAXNET TELECOM, LTD",6
 "AS35819","Etihad Etisalat, a joint stock company",6
 "AS36873","Airtel Networks Limited",6
+"AS36905","Creolink Communications",6
 "AS37492","Orange Tunisie",6
 "AS39521","TNGNET B.V.",6
 "AS397270","NetInformatik Inc.",6
@@ -647,7 +648,6 @@ ASN,Organization,IP_Count
 "AS33915","Vodafone Libertel B.V.",5
 "AS34343","Eweka Internet Services B.V.",5
 "AS35805","JSC ""Silknet""",5
-"AS36905","Creolink Communications",5
 "AS36914","Kenya Education Network",5
 "AS37061","Safaricom Limited",5
 "AS37337","MUNI S.A",5
