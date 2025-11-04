@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87718
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21966
-"AS398324","Censys, Inc.",13316
+"AS398324","Censys, Inc.",13317
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10305
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7887
-"AS16276","OVH SAS",5819
+"AS16276","OVH SAS",5818
 "AS4134","Chinanet",5011
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4439
@@ -107,7 +107,7 @@ ASN,Organization,IP_Count
 "AS262551","Farol Telecom",130
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
-"AS29066","velia.net Internetdienste GmbH",126
+"AS29066","velia.net Internetdienste GmbH",127
 "AS13238","YANDEX LLC",125
 "AS14956","RouterHosting LLC",122
 "AS36007","Kamatera, Inc.",122
@@ -169,7 +169,7 @@ ASN,Organization,IP_Count
 "AS20115","Charter Communications",52
 "AS210644","AEZA INTERNATIONAL LTD",51
 "AS6128","Cablevision Systems Corp.",51
-"AS6739","VODAFONE ONO, S.A.",50
+"AS6739","VODAFONE ONO, S.A.",51
 "AS200514","KnownSRV Ltd.",49
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
@@ -253,6 +253,7 @@ ASN,Organization,IP_Count
 "AS18881","TELEFÔNICA BRASIL S.A",24
 "AS197540","netcup GmbH",24
 "AS209","CenturyLink Communications, LLC",24
+"AS2856","British Telecommunications PLC",24
 "AS4713","NTT Communications Corporation",24
 "AS577","Bell Canada",24
 "AS60068","Datacamp Limited",24
@@ -262,7 +263,6 @@ ASN,Organization,IP_Count
 "AS200590","NLS Kazakhstan LLC",23
 "AS210509","Optimum Line for Internet Services Ltd.",23
 "AS21127","Joint Stock Company TransTeleCom",23
-"AS2856","British Telecommunications PLC",23
 "AS62240","Clouvider Limited",23
 "AS7303","Telecom Argentina S.A.",23
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",22
@@ -325,6 +325,7 @@ ASN,Organization,IP_Count
 "AS136142","Enigma Fiber Pvt Ltd",17
 "AS136958","China Unicom Guangdong IP network",17
 "AS148981","China Telecom",17
+"AS16591","Google Fiber Inc.",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
 "AS24151","China Internet Network Infomation Center",17
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
@@ -334,7 +335,6 @@ ASN,Organization,IP_Count
 "AS56630","Melbikomas UAB",17
 "AS9269","Hong Kong Broadband Network Ltd",17
 "AS140726","China Unicom",16
-"AS16591","Google Fiber Inc.",16
 "AS207713","GLOBAL INTERNET SOLUTIONS LLC",16
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",16
 "AS24757","EthioNet",16
