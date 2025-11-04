@@ -84,7 +84,7 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",286
-"AS213613","BOTSHIELD LTD",262
+"AS213613","BOTSHIELD LTD",263
 "AS48090","TECHOFF SRV LIMITED",254
 "AS60223","Netiface Limited",250
 "AS18403","FPT Telecom Company",249
@@ -600,6 +600,7 @@ ASN,Organization,IP_Count
 "AS136188","NINGBO, ZHEJIANG Province, P.R.China.",5
 "AS136873","MEGADATA-ISP",5
 "AS138109","PT. Rasi Bintang Perkasa",5
+"AS13977","Consolidated Communications, Inc.",5
 "AS141140","PT Jinde Grup Indonesia",5
 "AS14315","1GSERVERS, LLC",5
 "AS15108","Allo Communications LLC",5
@@ -692,7 +693,6 @@ ASN,Organization,IP_Count
 "AS136121","PT Digital Media Telematika",4
 "AS136280","Costel Networks P Ltd",4
 "AS137453","Orange Communication",4
-"AS13977","Consolidated Communications, Inc.",4
 "AS140791","BKHOST TECHNOLOGY VIETNAM JOINT STOCK COMPANY",4
 "AS14080","Telmex Colombia S.A.",4
 "AS140869","Turing Group Limited",4
