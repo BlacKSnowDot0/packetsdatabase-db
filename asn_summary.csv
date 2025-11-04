@@ -7,7 +7,7 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",10303
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7884
-"AS16276","OVH SAS",5800
+"AS16276","OVH SAS",5819
 "AS4134","Chinanet",5011
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4439
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2735
 "AS142002","Scloud Pte Ltd",2559
-"AS6939","Hurricane Electric LLC",2512
+"AS6939","Hurricane Electric LLC",2513
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1736
 "AS214295","SKYNET NETWORK LTD",1631
@@ -130,7 +130,7 @@ ASN,Organization,IP_Count
 "AS5617","Orange Polska Spolka Akcyjna",80
 "AS136435","ELITE COMMUNICATION",79
 "AS200019","ALEXHOST SRL",78
-"AS8560","IONOS SE",77
+"AS8560","IONOS SE",78
 "AS199785","Cloud Hosting Solutions, Limited.",76
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS271795","SERVITELCONET CIA. LTDA.",75
@@ -269,6 +269,7 @@ ASN,Organization,IP_Count
 "AS210509","Optimum Line for Internet Services Ltd.",22
 "AS213010","Gening Nikita Dmitrievich",22
 "AS24560","Bharti Airtel Limited",22
+"AS30058","FDCservers.net",22
 "AS43289","Trabia SRL",22
 "AS43641","SOLLUTIUM EU Sp z.o.o.",22
 "AS51430","AltusHost B.V.",22
@@ -281,7 +282,6 @@ ASN,Organization,IP_Count
 "AS17816","China Unicom IP network China169 Guangdong province",21
 "AS214417","Andrii Hrosh",21
 "AS214668","AxusHost B.V.",21
-"AS30058","FDCservers.net",21
 "AS329490","Promethean Consulting Limited",21
 "AS3320","Deutsche Telekom AG",21
 "AS400536","Nodestop LLC",21
@@ -2660,6 +2660,7 @@ ASN,Organization,IP_Count
 "AS43865","Intek-M LLC",1
 "AS43940","Drustvo za telekomunikacije ""MTEL"" DOO",1
 "AS44066","firstcolo GmbH",1
+"AS44291","Infomir LLC",1
 "AS44466","Ibertic Soluciones, S.L.",1
 "AS44482","TOV ""TRK Radioservice""",1
 "AS44668","Zubko Volodymyr Viktorovych",1
