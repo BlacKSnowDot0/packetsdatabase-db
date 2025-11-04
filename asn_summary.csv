@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1736
 "AS214295","SKYNET NETWORK LTD",1631
-"AS0","",1619
+"AS0","",1620
 "AS209605","UAB Host Baltic",1520
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1399
@@ -168,7 +168,7 @@ ASN,Organization,IP_Count
 "AS20001","Charter Communications Inc",52
 "AS20115","Charter Communications",52
 "AS210644","AEZA INTERNATIONAL LTD",51
-"AS6128","Cablevision Systems Corp.",50
+"AS6128","Cablevision Systems Corp.",51
 "AS200514","KnownSRV Ltd.",49
 "AS6739","VODAFONE ONO, S.A.",49
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
@@ -261,6 +261,7 @@ ASN,Organization,IP_Count
 "AS21127","Joint Stock Company TransTeleCom",23
 "AS2856","British Telecommunications PLC",23
 "AS62240","Clouvider Limited",23
+"AS7303","Telecom Argentina S.A.",23
 "AS8193","""Uzbektelekom"" Joint Stock Company",23
 "AS13213","UK-2 Limited",22
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",22
@@ -274,7 +275,6 @@ ASN,Organization,IP_Count
 "AS58212","dataforest GmbH",22
 "AS63859","PT. Eka Mas Republik",22
 "AS7029","Windstream Communications LLC",22
-"AS7303","Telecom Argentina S.A.",22
 "AS9123","TimeWeb Ltd.",22
 "AS12479","Orange Espagne SA",21
 "AS138886","PT Data Buana Nusantara",21
