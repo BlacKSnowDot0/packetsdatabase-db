@@ -206,6 +206,7 @@ ASN,Organization,IP_Count
 "AS1680","Cellcom Fixed Line Communication L.P",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS5089","Virgin Media Limited",33
+"AS5650","Frontier Communications of America, Inc.",33
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",33
 "AS9498","Bharti Airtel Limited",33
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",32
@@ -213,7 +214,6 @@ ASN,Organization,IP_Count
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",32
 "AS4760","PCCW IMS Limited",32
 "AS55990","Huawei Cloud Service data center",32
-"AS5650","Frontier Communications of America, Inc.",32
 "AS1241","RIPE Network Coordination Centre",31
 "AS44592","SkyLink Data Center BV",31
 "AS17557","Pakistan Telecommuication company limited",30
@@ -296,6 +296,7 @@ ASN,Organization,IP_Count
 "AS202306","HOSTGLOBAL.PLUS LTD",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS4816","China Telecom (Group)",20
+"AS5384","EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",20
 "AS11426","Charter Communications Inc",19
 "AS140061","China Telecom",19
 "AS14593","Space Exploration Technologies Corporation",19
@@ -307,7 +308,6 @@ ASN,Organization,IP_Count
 "AS329009","Spectrum Internet Service Ltd",19
 "AS41745","Baykov Ilya Sergeevich",19
 "AS49531","""NetCom-R"" LLC",19
-"AS5384","EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",19
 "AS6167","Verizon Business",19
 "AS812","Rogers Communications Canada Inc.",19
 "AS8796","FD-298-8796",19
@@ -345,6 +345,7 @@ ASN,Organization,IP_Count
 "AS328539","Giga for Telecommunication and Technology Limited",16
 "AS33363","Charter Communications, Inc",16
 "AS46261","QuickPacket, LLC",16
+"AS6181","Cincinnati Bell Telephone Company LLC",16
 "AS6597","Coloblox Data Centers Inc",16
 "AS12849","Hot-Net internet services Ltd.",15
 "AS136515","Dasca Cable Services, Inc.",15
@@ -361,7 +362,6 @@ ASN,Organization,IP_Count
 "AS3215","Orange S.A.",15
 "AS397283","RocketNode Inc",15
 "AS5607","Sky UK Limited",15
-"AS6181","Cincinnati Bell Telephone Company LLC",15
 "AS6849","JSC ""Ukrtelecom""",15
 "AS19901","Brightspeed",14
 "AS204104","Giti Secure Cloud LLC",14
@@ -419,6 +419,7 @@ ASN,Organization,IP_Count
 "AS44901","Belcloud LTD",11
 "AS45820","TTSL-ISP DIVISION",11
 "AS46375","Sonic Telecom LLC",11
+"AS4847","China Networks Inter-Exchange",11
 "AS48753","AVA HOST SRL",11
 "AS48925","VibeGAMES B.V.",11
 "AS58563","CHINANET Hubei province network",11
@@ -438,7 +439,6 @@ ASN,Organization,IP_Count
 "AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",10
 "AS41420","Xentech B.V.",10
 "AS47524","Turksat Uydu Haberlesme ve Kablo TV Isletme A.S.",10
-"AS4847","China Networks Inter-Exchange",10
 "AS49434","FBW NETWORKS SAS",10
 "AS50304","Blix Solutions AS",10
 "AS52468","UFINET PANAMA S.A.",10
