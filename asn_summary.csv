@@ -40,14 +40,14 @@ ASN,Organization,IP_Count
 "AS13335","Cloudflare, Inc.",1089
 "AS201401","NewVM B.V.",1076
 "AS23470","ReliableSite.Net LLC",1034
-"AS208684","BHA CONSEIL SARL",991
+"AS208684","BHA CONSEIL SARL",992
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",818
 "AS215925","VPSVAULT.HOST LTD",812
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",745
+"AS20052","Arbor Networks, Inc.",746
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
 "AS51167","Contabo GmbH",641
 "AS10439","CariNet, Inc.",639
@@ -462,6 +462,7 @@ ASN,Organization,IP_Count
 "AS214481","Wojciech Czapkowicz",9
 "AS24955","JSC ""Ufanet""",9
 "AS267280","YELLOW CONNECT MULTIMIDIA LTDA ME",9
+"AS29302","Hosting Services Inc",9
 "AS38880","Micron21 Datacentre Pty Ltd",9
 "AS400992","ZhouyiSat Communications",9
 "AS40244","Turnkey Internet Inc.",9
@@ -488,7 +489,6 @@ ASN,Organization,IP_Count
 "AS266702","MEGALINK S.R.L.",8
 "AS27967","Gobernacion de la Provincia de Buenos Aires",8
 "AS2860","NOS COMUNICACOES, S.A.",8
-"AS29302","Hosting Services Inc",8
 "AS328723","Telasera Technologies PTY LTD",8
 "AS38283","CHINANET SiChuan Telecom Internet Data Center",8
 "AS41608","NextGenWebs, S.L.",8
