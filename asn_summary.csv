@@ -1,12 +1,12 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87721
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
-"AS211298","Driftnet Ltd",21966
-"AS398324","Censys, Inc.",13329
+"AS211298","Driftnet Ltd",21967
+"AS398324","Censys, Inc.",13330
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10306
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7888
+"AS14061","DigitalOcean, LLC",7889
 "AS16276","OVH SAS",5819
 "AS4134","Chinanet",5011
 "AS6568","Entel S.A. - EntelNet",4537
@@ -39,7 +39,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS13335","Cloudflare, Inc.",1092
 "AS201401","NewVM B.V.",1076
-"AS23470","ReliableSite.Net LLC",1035
+"AS23470","ReliableSite.Net LLC",1054
 "AS208684","BHA CONSEIL SARL",992
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",486
 "AS53667","FranTech Solutions",467
 "AS212238","Datacamp Limited",459
-"AS12876","ONLINE S.A.S.",440
+"AS12876","ONLINE S.A.S.",441
 "AS9829","Bharat Sanchar Nigam Ltd",437
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
@@ -163,9 +163,9 @@ ASN,Organization,IP_Count
 "AS206092","Internet Utilities Europe and Asia Limited",55
 "AS213877","u1host ltd",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
+"AS6739","VODAFONE ONO, S.A.",54
 "AS19318","Interserver, Inc",53
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",53
-"AS6739","VODAFONE ONO, S.A.",53
 "AS20001","Charter Communications Inc",52
 "AS20115","Charter Communications",52
 "AS210644","AEZA INTERNATIONAL LTD",51
@@ -254,6 +254,7 @@ ASN,Organization,IP_Count
 "AS18881","TELEFÔNICA BRASIL S.A",24
 "AS197540","netcup GmbH",24
 "AS209","CenturyLink Communications, LLC",24
+"AS210509","Optimum Line for Internet Services Ltd.",24
 "AS4713","NTT Communications Corporation",24
 "AS577","Bell Canada",24
 "AS60068","Datacamp Limited",24
@@ -261,7 +262,6 @@ ASN,Organization,IP_Count
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",24
 "AS198037","SPACECORE SOLUTION LTD",23
 "AS200590","NLS Kazakhstan LLC",23
-"AS210509","Optimum Line for Internet Services Ltd.",23
 "AS21127","Joint Stock Company TransTeleCom",23
 "AS62240","Clouvider Limited",23
 "AS7303","Telecom Argentina S.A.",23
