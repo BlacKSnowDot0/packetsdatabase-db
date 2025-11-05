@@ -13,12 +13,12 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4439
 "AS16509","Amazon.com, Inc.",4264
 "AS45102","Alibaba (US) Technology Co., Ltd.",3910
-"AS63949","Akamai Technologies, Inc.",3596
+"AS63949","Akamai Technologies, Inc.",3597
 "AS15169","Google LLC",3345
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3114
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2737
+"AS8075","Microsoft Corporation",2738
 "AS142002","Scloud Pte Ltd",2559
 "AS6939","Hurricane Electric LLC",2517
 "AS9808","China Mobile",2078
@@ -37,9 +37,9 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1151
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS13335","Cloudflare, Inc.",1103
+"AS13335","Cloudflare, Inc.",1105
 "AS201401","NewVM B.V.",1076
-"AS23470","ReliableSite.Net LLC",1054
+"AS23470","ReliableSite.Net LLC",1055
 "AS208684","BHA CONSEIL SARL",992
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",486
 "AS53667","FranTech Solutions",467
 "AS212238","Datacamp Limited",460
-"AS12876","ONLINE S.A.S.",442
+"AS12876","ONLINE S.A.S.",443
 "AS9829","Bharat Sanchar Nigam Ltd",438
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
@@ -98,7 +98,7 @@ ASN,Organization,IP_Count
 "AS12555","Data-center IMAQLIQ Ltd.",190
 "AS7552","Viettel Group",182
 "AS63199","CDS Global Cloud Co., Ltd",174
-"AS29484","Ruhr-Universitaet Bochum",170
+"AS29484","Ruhr-Universitaet Bochum",171
 "AS401116","Nybula LLC",170
 "AS206264","Amarutu Technology Ltd",153
 "AS47105","Vault Dweller OU",141
@@ -1302,6 +1302,7 @@ ASN,Organization,IP_Count
 "AS399804","Hostodo",2
 "AS399898","Conexon Connect",2
 "AS400136","Volt Broadband",2
+"AS400175","Microtronix ESolutions, LLC",2
 "AS400304","Redoubt Networks",2
 "AS400427","IQ Fiber",2
 "AS41039","Timer, LLC",2
@@ -2601,7 +2602,6 @@ ASN,Organization,IP_Count
 "AS399220","Finger Lakes Communications Group, Inc",1
 "AS399725","ALAWEB Internet Services",1
 "AS399820","Atomic Networks LLC",1
-"AS400175","Microtronix ESolutions, LLC",1
 "AS400220","PearlComm",1
 "AS400387","Flying Bull Internet, LLC",1
 "AS400511","Clearwave Communications",1
