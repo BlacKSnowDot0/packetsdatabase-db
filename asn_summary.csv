@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87723
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
-"AS211298","Driftnet Ltd",21971
-"AS398324","Censys, Inc.",13366
+"AS211298","Driftnet Ltd",21972
+"AS398324","Censys, Inc.",13367
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10311
 "AS26210","AXS Bolivia S. A.",7972
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS36352","HostPapa",1221
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1172
-"AS174","Cogent Communications",1151
+"AS174","Cogent Communications",1152
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS13335","Cloudflare, Inc.",1105
@@ -103,7 +103,7 @@ ASN,Organization,IP_Count
 "AS206264","Amarutu Technology Ltd",153
 "AS47105","Vault Dweller OU",141
 "AS50219","LNK SYSTEMS MUNTENIA SRL",139
-"AS42237","w1n ltd",135
+"AS42237","w1n ltd",136
 "AS262551","Farol Telecom",131
 "AS29066","velia.net Internetdienste GmbH",129
 "AS137409","GSL Networks Pty LTD",128
@@ -231,6 +231,7 @@ ASN,Organization,IP_Count
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS1103","SURF B.V.",27
 "AS146817","Hubei Feixun Network Co., Ltd",27
+"AS2856","British Telecommunications PLC",27
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
@@ -240,7 +241,6 @@ ASN,Organization,IP_Count
 "AS204834","Shabakieh Isfahan Co PJSC",26
 "AS2200","Renater",26
 "AS23693","PT. Telekomunikasi Selular",26
-"AS2856","British Telecommunications PLC",26
 "AS3209","Vodafone GmbH",26
 "AS55933","Cloudie Limited",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
