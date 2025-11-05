@@ -7,7 +7,7 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",10311
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7896
-"AS16276","OVH SAS",5820
+"AS16276","OVH SAS",5821
 "AS4134","Chinanet",5011
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4439
@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1151
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS13335","Cloudflare, Inc.",1100
+"AS13335","Cloudflare, Inc.",1101
 "AS201401","NewVM B.V.",1076
 "AS23470","ReliableSite.Net LLC",1054
 "AS208684","BHA CONSEIL SARL",992
@@ -102,7 +102,7 @@ ASN,Organization,IP_Count
 "AS401116","Nybula LLC",170
 "AS206264","Amarutu Technology Ltd",153
 "AS47105","Vault Dweller OU",141
-"AS50219","LNK SYSTEMS MUNTENIA SRL",138
+"AS50219","LNK SYSTEMS MUNTENIA SRL",139
 "AS42237","w1n ltd",135
 "AS262551","Farol Telecom",131
 "AS29066","velia.net Internetdienste GmbH",129
@@ -146,7 +146,7 @@ ASN,Organization,IP_Count
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS57588","Hayat for Internet & communication LLC",65
-"AS22773","Cox Communications Inc.",63
+"AS22773","Cox Communications Inc.",64
 "AS215590","DpkgSoft International Limited",62
 "AS140717","China Unicom",61
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
@@ -156,10 +156,10 @@ ASN,Organization,IP_Count
 "AS23724","IDC, China Telecommunications Corporation",58
 "AS49544","i3D.net B.V",58
 "AS55720","Gigabit Hosting Sdn Bhd",58
+"AS6739","VODAFONE ONO, S.A.",58
 "AS8402","PJSC ""Vimpelcom""",58
 "AS20278","Nexeon Technologies, Inc.",57
 "AS48090","PPTECHNOLOGY LIMITED",56
-"AS6739","VODAFONE ONO, S.A.",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
 "AS213877","u1host ltd",54
@@ -190,10 +190,10 @@ ASN,Organization,IP_Count
 "AS23969","TOT Public Company Limited",40
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",40
 "AS27699","TELEFÔNICA BRASIL S.A",39
+"AS8048","CANTV Servicios, Venezuela",39
 "AS26599","TELEFÔNICA BRASIL S.A",38
 "AS4538","China Education and Research Network Center",38
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",38
-"AS8048","CANTV Servicios, Venezuela",38
 "AS20473","The Constant Company, LLC",37
 "AS5650","Frontier Communications of America, Inc.",37
 "AS8167","V tal",37
@@ -583,6 +583,7 @@ ASN,Organization,IP_Count
 "AS39521","TNGNET B.V.",6
 "AS397270","NetInformatik Inc.",6
 "AS399765","FasNET Services LLC",6
+"AS401152","Ace Data Centers II, L.L.C.",6
 "AS48642","Joint stock company ""For""",6
 "AS55699","PT. Cemerlang Multimedia",6
 "AS56971","CGI GLOBAL LIMITED",6
@@ -658,7 +659,6 @@ ASN,Organization,IP_Count
 "AS39065","Southern Telecommunication Company Ltd.",5
 "AS39608","Lanet Network Ltd",5
 "AS398025","Cumberland Connect",5
-"AS401152","Ace Data Centers II, L.L.C.",5
 "AS43139","Maximum-Net LLC",5
 "AS45305","Lintas Data Prima, PT",5
 "AS45458","ADVANCED WIRELESS NETWORK COMPANY LIMITED",5
@@ -2561,6 +2561,7 @@ ASN,Organization,IP_Count
 "AS38482","BIZNET",1
 "AS38506","PT Pika Media Komunika",1
 "AS38524","Laxo Global Akses, PT",1
+"AS38584","CubeXS Pvt Ltd",1
 "AS38600","Smart Axiata Co., Ltd.",1
 "AS38673","Korea Cable TV Kwangju Broadcasting",1
 "AS38700","SMILESERV",1
