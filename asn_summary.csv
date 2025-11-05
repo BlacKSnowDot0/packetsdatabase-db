@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4439
 "AS16509","Amazon.com, Inc.",4264
 "AS45102","Alibaba (US) Technology Co., Ltd.",3910
-"AS63949","Akamai Technologies, Inc.",3594
+"AS63949","Akamai Technologies, Inc.",3595
 "AS15169","Google LLC",3345
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3113
@@ -102,7 +102,7 @@ ASN,Organization,IP_Count
 "AS401116","Nybula LLC",170
 "AS206264","Amarutu Technology Ltd",153
 "AS47105","Vault Dweller OU",141
-"AS50219","LNK SYSTEMS MUNTENIA SRL",137
+"AS50219","LNK SYSTEMS MUNTENIA SRL",138
 "AS42237","w1n ltd",135
 "AS262551","Farol Telecom",131
 "AS137409","GSL Networks Pty LTD",128
@@ -129,8 +129,8 @@ ASN,Organization,IP_Count
 "AS28209","Under Servicos de Internet Ltda",80
 "AS40021","Nubes, LLC",80
 "AS5617","Orange Polska Spolka Akcyjna",80
+"AS8560","IONOS SE",79
 "AS200019","ALEXHOST SRL",78
-"AS8560","IONOS SE",78
 "AS199785","Cloud Hosting Solutions, Limited.",77
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS271795","SERVITELCONET CIA. LTDA.",75
@@ -264,12 +264,12 @@ ASN,Organization,IP_Count
 "AS198037","SPACECORE SOLUTION LTD",23
 "AS200590","NLS Kazakhstan LLC",23
 "AS21127","Joint Stock Company TransTeleCom",23
+"AS30058","FDCservers.net",23
 "AS62240","Clouvider Limited",23
 "AS7303","Telecom Argentina S.A.",23
 "AS17561","Larus Limited",22
 "AS213010","Gening Nikita Dmitrievich",22
 "AS24560","Bharti Airtel Limited",22
-"AS30058","FDCservers.net",22
 "AS43289","Trabia SRL",22
 "AS43641","SOLLUTIUM EU Sp z.o.o.",22
 "AS51430","AltusHost B.V.",22
@@ -809,6 +809,7 @@ ASN,Organization,IP_Count
 "AS133278","Dehradun Enet Solutions Private Ltd",3
 "AS134032","INFONET COMM ENTERPRISES",3
 "AS134762","CHINANET Liaoning province Dalian MAN network",3
+"AS135411","Red Grapes Pte Ltd",3
 "AS135882","Spark Online",3
 "AS13720","Daybreak Game Company LLC",3
 "AS137236","TURBOTECH CO., LTD.",3
@@ -1020,7 +1021,6 @@ ASN,Organization,IP_Count
 "AS134863","SP INTERNET TECHNOLOGIES PRIVATE LTD",2
 "AS13490","Buckeye Cablevision, Inc.",2
 "AS135037","Techno Asia Infotech Limited",2
-"AS135411","Red Grapes Pte Ltd",2
 "AS135967","Bach Kim Network solutions Join stock company",2
 "AS136197","Xiong'an, Hebei Province, P.R.China.",2
 "AS136224","City Online Ltd.",2
