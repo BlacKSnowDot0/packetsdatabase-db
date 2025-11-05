@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
 "AS10439","CariNet, Inc.",643
 "AS51167","Contabo GmbH",643
-"AS14618","Amazon.com, Inc.",636
+"AS14618","Amazon.com, Inc.",637
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",573
 "AS4837","CHINA UNICOM China169 Backbone",564
@@ -154,9 +154,9 @@ ASN,Organization,IP_Count
 "AS150263","PT Alnet Telekomunikasi Indonesia",59
 "AS23724","IDC, China Telecommunications Corporation",59
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",59
+"AS6739","VODAFONE ONO, S.A.",59
 "AS49544","i3D.net B.V",58
 "AS55720","Gigabit Hosting Sdn Bhd",58
-"AS6739","VODAFONE ONO, S.A.",58
 "AS8402","PJSC ""Vimpelcom""",58
 "AS20278","Nexeon Technologies, Inc.",57
 "AS48090","PPTECHNOLOGY LIMITED",56
@@ -170,7 +170,7 @@ ASN,Organization,IP_Count
 "AS20115","Charter Communications",52
 "AS210644","AEZA INTERNATIONAL LTD",52
 "AS6128","Cablevision Systems Corp.",51
-"AS200514","KnownSRV Ltd.",49
+"AS200514","KnownSRV Ltd.",50
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
 "AS149746","PT Blip Integrator Provider",47
@@ -205,9 +205,9 @@ ASN,Organization,IP_Count
 "AS34665","Petersburg Internet Network ltd.",34
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",34
 "AS5089","Virgin Media Limited",34
+"AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",34
 "AS9198","JSC Kazakhtelecom",34
 "AS45671","Servers Australia Pty. Ltd",33
-"AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",33
 "AS9498","Bharti Airtel Limited",33
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
@@ -1939,6 +1939,7 @@ ASN,Organization,IP_Count
 "AS215691","AP INTERACTIVE SOLUTIONS SL",1
 "AS215826","Partner Hosting LTD",1
 "AS216135","PEDRERA TELECOM SL",1
+"AS216211","CYBERVERSE LLC",1
 "AS21632","Cybernet1",1
 "AS21766","BEN LOMAND RURAL TELEPHONE COOPERATIVE, INC.",1
 "AS22313","Supercable",1
