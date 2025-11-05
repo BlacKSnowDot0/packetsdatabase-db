@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87723
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21970
-"AS398324","Censys, Inc.",13363
+"AS398324","Censys, Inc.",13364
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10311
 "AS26210","AXS Bolivia S. A.",7972
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",1253
 "AS36352","HostPapa",1221
 "AS204428","SS-Net",1182
-"AS22552","eSited Solutions",1171
+"AS22552","eSited Solutions",1172
 "AS174","Cogent Communications",1151
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
@@ -50,7 +50,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",747
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
 "AS10439","CariNet, Inc.",643
-"AS51167","Contabo GmbH",642
+"AS51167","Contabo GmbH",643
 "AS14618","Amazon.com, Inc.",636
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",573
@@ -76,7 +76,7 @@ ASN,Organization,IP_Count
 "AS7922","Comcast Cable Communications, LLC",345
 "AS21859","Zenlayer Inc",344
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",323
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",324
 "AS214943","Railnet LLC",315
 "AS45899","VNPT Corp",315
 "AS8151","Uninet S.A. de C.V.",315
@@ -201,11 +201,11 @@ ASN,Organization,IP_Count
 "AS42624","Global-Data System IT Corporation",36
 "AS213790","Limited Network LTD",35
 "AS30083","velia.net",35
+"AS1680","Cellcom Fixed Line Communication L.P",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",34
 "AS5089","Virgin Media Limited",34
 "AS9198","JSC Kazakhtelecom",34
-"AS1680","Cellcom Fixed Line Communication L.P",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",33
 "AS9498","Bharti Airtel Limited",33
@@ -1534,6 +1534,7 @@ ASN,Organization,IP_Count
 "AS134674","Tata Play Broadband Private Limited",1
 "AS134756","China Telecom",1
 "AS134768","CHINANET SHAANXI province Cloud Base network",1
+"AS134835","Starry Network Limited",1
 "AS134877","Sri Vari Network Private Limited",1
 "AS134907","Bharat VoIP Communications Pvt Ltd",1
 "AS134911","Sigaram Networks Pvt Ltd",1
