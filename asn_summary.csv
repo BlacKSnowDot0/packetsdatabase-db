@@ -2,17 +2,17 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87721
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21967
-"AS398324","Censys, Inc.",13340
+"AS398324","Censys, Inc.",13344
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10308
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7890
+"AS14061","DigitalOcean, LLC",7896
 "AS16276","OVH SAS",5819
 "AS4134","Chinanet",5011
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4439
 "AS16509","Amazon.com, Inc.",4264
-"AS45102","Alibaba (US) Technology Co., Ltd.",3906
+"AS45102","Alibaba (US) Technology Co., Ltd.",3910
 "AS63949","Akamai Technologies, Inc.",3591
 "AS15169","Google LLC",3345
 "AS398705","Censys, Inc.",3238
@@ -47,9 +47,9 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",819
 "AS215925","VPSVAULT.HOST LTD",812
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",746
+"AS20052","Arbor Networks, Inc.",747
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
-"AS10439","CariNet, Inc.",642
+"AS10439","CariNet, Inc.",643
 "AS51167","Contabo GmbH",642
 "AS14618","Amazon.com, Inc.",636
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -115,8 +115,8 @@ ASN,Organization,IP_Count
 "AS208287","DC Host INC",110
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",104
+"AS34984","Superonline Iletisim Hizmetleri A.S.",103
 "AS47331","TTNet A.S.",103
-"AS34984","Superonline Iletisim Hizmetleri A.S.",102
 "AS151185","China Telecom",101
 "AS205352","KABELNET LTD",93
 "AS63018","Dedicated.com",92
@@ -193,8 +193,8 @@ ASN,Organization,IP_Count
 "AS4538","China Education and Research Network Center",38
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",38
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",38
+"AS8048","CANTV Servicios, Venezuela",38
 "AS20473","The Constant Company, LLC",37
-"AS8048","CANTV Servicios, Venezuela",37
 "AS8167","V tal",37
 "AS210558","1337 Services GmbH",36
 "AS42624","Global-Data System IT Corporation",36
@@ -216,10 +216,10 @@ ASN,Organization,IP_Count
 "AS55990","Huawei Cloud Service data center",32
 "AS1241","RIPE Network Coordination Centre",31
 "AS44592","SkyLink Data Center BV",31
+"AS46475","Limestone Networks, Inc.",31
 "AS17557","Pakistan Telecommuication company limited",30
 "AS200593","PROSPERO OOO",30
 "AS269193","Iktelecom Ltda",30
-"AS46475","Limestone Networks, Inc.",30
 "AS12322","Free SAS",29
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
