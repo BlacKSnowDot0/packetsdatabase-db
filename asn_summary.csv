@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87723
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21972
-"AS398324","Censys, Inc.",13369
+"AS398324","Censys, Inc.",13370
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10311
 "AS26210","AXS Bolivia S. A.",7972
@@ -20,11 +20,11 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2739
 "AS142002","Scloud Pte Ltd",2559
-"AS6939","Hurricane Electric LLC",2519
+"AS6939","Hurricane Electric LLC",2521
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1738
 "AS214295","SKYNET NETWORK LTD",1631
-"AS0","",1624
+"AS0","",1625
 "AS209605","UAB Host Baltic",1520
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1400
@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1152
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS13335","Cloudflare, Inc.",1107
+"AS13335","Cloudflare, Inc.",1108
 "AS201401","NewVM B.V.",1076
 "AS23470","ReliableSite.Net LLC",1055
 "AS208684","BHA CONSEIL SARL",992
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
 "AS51167","Contabo GmbH",644
 "AS10439","CariNet, Inc.",643
-"AS14618","Amazon.com, Inc.",637
+"AS14618","Amazon.com, Inc.",638
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",573
 "AS4837","CHINA UNICOM China169 Backbone",564
@@ -222,11 +222,11 @@ ASN,Organization,IP_Count
 "AS269193","Iktelecom Ltda",30
 "AS12322","Free SAS",29
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",29
+"AS2856","British Telecommunications PLC",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS141679","China Telecom",28
 "AS149705","PT Wijaya Trimitra Indonesia",28
-"AS2856","British Telecommunications PLC",28
 "AS30860","Virtual Systems LLC",28
 "AS3269","Telecom Italia S.p.A.",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
@@ -246,6 +246,7 @@ ASN,Organization,IP_Count
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS6134","XNNET LLC",26
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",25
+"AS24560","Bharti Airtel Limited",25
 "AS36947","Telecom Algeria",25
 "AS53118","NETLINE TELECOM",25
 "AS55836","Reliance Jio Infocomm Limited",25
@@ -270,7 +271,6 @@ ASN,Organization,IP_Count
 "AS17561","Larus Limited",22
 "AS213010","Gening Nikita Dmitrievich",22
 "AS214417","Andrii Hrosh",22
-"AS24560","Bharti Airtel Limited",22
 "AS43289","Trabia SRL",22
 "AS43641","SOLLUTIUM EU Sp z.o.o.",22
 "AS51430","AltusHost B.V.",22
