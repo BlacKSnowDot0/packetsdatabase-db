@@ -1,12 +1,12 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87725
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
-"AS211298","Driftnet Ltd",21974
-"AS398324","Censys, Inc.",13386
+"AS211298","Driftnet Ltd",21975
+"AS398324","Censys, Inc.",13387
 "AS32934","Facebook, Inc.",11264
-"AS396982","Google LLC",10314
+"AS396982","Google LLC",10315
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7901
+"AS14061","DigitalOcean, LLC",7902
 "AS16276","OVH SAS",5821
 "AS4134","Chinanet",5014
 "AS6568","Entel S.A. - EntelNet",4537
@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1152
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS13335","Cloudflare, Inc.",1112
+"AS13335","Cloudflare, Inc.",1113
 "AS201401","NewVM B.V.",1076
 "AS23470","ReliableSite.Net LLC",1055
 "AS208684","BHA CONSEIL SARL",992
@@ -149,9 +149,9 @@ ASN,Organization,IP_Count
 "AS22773","Cox Communications Inc.",64
 "AS215590","DpkgSoft International Limited",62
 "AS140717","China Unicom",61
+"AS150263","PT Alnet Telekomunikasi Indonesia",60
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS4812","China Telecom (Group)",60
-"AS150263","PT Alnet Telekomunikasi Indonesia",59
 "AS23724","IDC, China Telecommunications Corporation",59
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",59
 "AS6739","VODAFONE ONO, S.A.",59
