@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4439
 "AS16509","Amazon.com, Inc.",4264
-"AS45102","Alibaba (US) Technology Co., Ltd.",3911
+"AS45102","Alibaba (US) Technology Co., Ltd.",3917
 "AS63949","Akamai Technologies, Inc.",3597
 "AS15169","Google LLC",3345
 "AS398705","Censys, Inc.",3238
@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1152
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS13335","Cloudflare, Inc.",1106
+"AS13335","Cloudflare, Inc.",1107
 "AS201401","NewVM B.V.",1076
 "AS23470","ReliableSite.Net LLC",1055
 "AS208684","BHA CONSEIL SARL",992
@@ -47,7 +47,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",819
 "AS215925","VPSVAULT.HOST LTD",812
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",748
+"AS20052","Arbor Networks, Inc.",749
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
 "AS51167","Contabo GmbH",644
 "AS10439","CariNet, Inc.",643
@@ -77,9 +77,9 @@ ASN,Organization,IP_Count
 "AS21859","Zenlayer Inc",344
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",324
+"AS8151","Uninet S.A. de C.V.",316
 "AS214943","Railnet LLC",315
 "AS45899","VNPT Corp",315
-"AS8151","Uninet S.A. de C.V.",315
 "AS24863","LINKdotNET AS number",307
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
@@ -169,8 +169,8 @@ ASN,Organization,IP_Count
 "AS20001","Charter Communications Inc",52
 "AS20115","Charter Communications",52
 "AS210644","AEZA INTERNATIONAL LTD",52
+"AS200514","KnownSRV Ltd.",51
 "AS6128","Cablevision Systems Corp.",51
-"AS200514","KnownSRV Ltd.",50
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
 "AS149746","PT Blip Integrator Provider",47
@@ -226,12 +226,12 @@ ASN,Organization,IP_Count
 "AS9931","CAT Telecom Public Company Limited",29
 "AS141679","China Telecom",28
 "AS149705","PT Wijaya Trimitra Indonesia",28
+"AS2856","British Telecommunications PLC",28
 "AS30860","Virtual Systems LLC",28
 "AS3269","Telecom Italia S.p.A.",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS1103","SURF B.V.",27
 "AS146817","Hubei Feixun Network Co., Ltd",27
-"AS2856","British Telecommunications PLC",27
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
@@ -852,6 +852,7 @@ ASN,Organization,IP_Count
 "AS199468","GRAIN COMMUNICATIONS LIMITED",3
 "AS200359","Grupo Proveedor tecnologico Universal SL",3
 "AS20055","Wholesail networks LLC",3
+"AS202796","JSR IT B.V.",3
 "AS203257","Layth Zuhair Zahid",3
 "AS20326","TeraSwitch Networks Inc.",3
 "AS203459","AL-MARAJ AL-ALAMIYA Co",3
@@ -1107,7 +1108,6 @@ ASN,Organization,IP_Count
 "AS201409","HOSTSHIELD LTD",2
 "AS202103","Lanet Network Ltd",2
 "AS202561","High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.",2
-"AS202796","JSR IT B.V.",2
 "AS202870","Dimensione S.r.l.",2
 "AS203087","PE Fedinyak Sergey Vyacheslavovich",2
 "AS203214","Hulum Almustakbal Company for Communication Engineering and Services Ltd",2
@@ -1325,6 +1325,7 @@ ASN,Organization,IP_Count
 "AS44056","Trytek LLC",2
 "AS44143","A1 Srbija d.o.o",2
 "AS44265","Smoltelecom Ltd",2
+"AS44291","Infomir LLC",2
 "AS44327","DELTA COMM LLC",2
 "AS44387","PE Radashevsky Sergiy Oleksandrovich",2
 "AS44391","JSC Elektrosvyaz",2
@@ -2664,7 +2665,6 @@ ASN,Organization,IP_Count
 "AS43865","Intek-M LLC",1
 "AS43940","Drustvo za telekomunikacije ""MTEL"" DOO",1
 "AS44066","firstcolo GmbH",1
-"AS44291","Infomir LLC",1
 "AS44466","Ibertic Soluciones, S.L.",1
 "AS44482","TOV ""TRK Radioservice""",1
 "AS44668","Zubko Volodymyr Viktorovych",1
