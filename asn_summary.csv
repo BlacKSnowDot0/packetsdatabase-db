@@ -1,14 +1,14 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87724
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87725
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21974
-"AS398324","Censys, Inc.",13379
+"AS398324","Censys, Inc.",13380
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10314
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7900
 "AS16276","OVH SAS",5821
-"AS4134","Chinanet",5013
+"AS4134","Chinanet",5014
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4439
 "AS16509","Amazon.com, Inc.",4264
@@ -132,8 +132,8 @@ ASN,Organization,IP_Count
 "AS8560","IONOS SE",79
 "AS199785","Cloud Hosting Solutions, Limited.",78
 "AS200019","ALEXHOST SRL",78
+"AS271795","SERVITELCONET CIA. LTDA.",77
 "AS211736","FOP Dmytro Nedilskyi",76
-"AS271795","SERVITELCONET CIA. LTDA.",76
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
 "AS56046","China Mobile Communications Corporation",74
@@ -169,8 +169,8 @@ ASN,Organization,IP_Count
 "AS20001","Charter Communications Inc",52
 "AS20115","Charter Communications",52
 "AS210644","AEZA INTERNATIONAL LTD",52
+"AS6128","Cablevision Systems Corp.",52
 "AS200514","KnownSRV Ltd.",51
-"AS6128","Cablevision Systems Corp.",51
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
 "AS149746","PT Blip Integrator Provider",47
@@ -355,6 +355,7 @@ ASN,Organization,IP_Count
 "AS202448","MVPS LTD",15
 "AS211619","MAXKO d.o.o.",15
 "AS263767","CORPORACIÓN GALA IT, C.A.",15
+"AS271597","NEW LINK CONNECT",15
 "AS272547","Servicos de Infraestrutura e Datacenter",15
 "AS28126","BRISANET SERVICOS DE TELECOMUNICACOES LTDA",15
 "AS28201","Companhia Itabirana Telecomunicações Ltda",15
@@ -366,7 +367,6 @@ ASN,Organization,IP_Count
 "AS19901","Brightspeed",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",14
-"AS271597","NEW LINK CONNECT",14
 "AS27947","Telconet S.A",14
 "AS30600","Metronet",14
 "AS3352","TELEFONICA DE ESPANA S.A.U.",14
@@ -399,6 +399,7 @@ ASN,Organization,IP_Count
 "AS38264","Wateen Telecom Limited",12
 "AS41075","ATW Internet Kft.",12
 "AS4181","TDS TELECOM",12
+"AS46375","Sonic Telecom LLC",12
 "AS60781","LeaseWeb Netherlands B.V.",12
 "AS62442","Dade Samane Fanava Company (PJS)",12
 "AS8400","TELEKOM SRBIJA a.d.",12
@@ -419,7 +420,6 @@ ASN,Organization,IP_Count
 "AS41436","Kamatera Inc",11
 "AS44901","Belcloud LTD",11
 "AS45820","TTSL-ISP DIVISION",11
-"AS46375","Sonic Telecom LLC",11
 "AS4847","China Networks Inter-Exchange",11
 "AS48753","AVA HOST SRL",11
 "AS48925","VibeGAMES B.V.",11
