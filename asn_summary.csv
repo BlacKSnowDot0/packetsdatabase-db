@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87723
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21972
-"AS398324","Censys, Inc.",13370
+"AS398324","Censys, Inc.",13371
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10311
 "AS26210","AXS Bolivia S. A.",7972
@@ -18,13 +18,13 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3114
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2739
+"AS8075","Microsoft Corporation",2740
 "AS142002","Scloud Pte Ltd",2559
 "AS6939","Hurricane Electric LLC",2521
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1738
 "AS214295","SKYNET NETWORK LTD",1631
-"AS0","",1625
+"AS0","",1626
 "AS209605","UAB Host Baltic",1520
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1400
@@ -245,6 +245,7 @@ ASN,Organization,IP_Count
 "AS55933","Cloudie Limited",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS6134","XNNET LLC",26
+"AS210509","Optimum Line for Internet Services Ltd.",25
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",25
 "AS24560","Bharti Airtel Limited",25
 "AS36947","Telecom Algeria",25
@@ -256,7 +257,6 @@ ASN,Organization,IP_Count
 "AS197540","netcup GmbH",24
 "AS200590","NLS Kazakhstan LLC",24
 "AS209","CenturyLink Communications, LLC",24
-"AS210509","Optimum Line for Internet Services Ltd.",24
 "AS4713","NTT Communications Corporation",24
 "AS577","Bell Canada",24
 "AS60068","Datacamp Limited",24
