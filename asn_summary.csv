@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1152
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS13335","Cloudflare, Inc.",1110
+"AS13335","Cloudflare, Inc.",1111
 "AS201401","NewVM B.V.",1076
 "AS23470","ReliableSite.Net LLC",1055
 "AS208684","BHA CONSEIL SARL",992
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",750
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
-"AS51167","Contabo GmbH",644
+"AS51167","Contabo GmbH",645
 "AS10439","CariNet, Inc.",643
 "AS14618","Amazon.com, Inc.",638
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -105,7 +105,7 @@ ASN,Organization,IP_Count
 "AS50219","LNK SYSTEMS MUNTENIA SRL",139
 "AS42237","w1n ltd",136
 "AS262551","Farol Telecom",131
-"AS29066","velia.net Internetdienste GmbH",130
+"AS29066","velia.net Internetdienste GmbH",131
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
 "AS13238","YANDEX LLC",125
@@ -782,6 +782,7 @@ ASN,Organization,IP_Count
 "AS60404","The Infrastructure Group B.V.",4
 "AS7482","Asia Pacific On-line Service Inc.",4
 "AS8376","Jordan Data Communications Company LLC",4
+"AS8551","Bezeq International Ltd.",4
 "AS8781","Ooredoo Q.S.C.",4
 "AS9260","Multinet Broadband",4
 "AS9335","CAT Telecom Public Company Limited",4
@@ -981,7 +982,6 @@ ASN,Organization,IP_Count
 "AS786","Jisc Services Limited",3
 "AS786","RIPE Network Coordination Centre",3
 "AS8473","Bahnhof AB",3
-"AS8551","Bezeq International Ltd.",3
 "AS8585","Crnogorski Telekom a.d.Podgorica",3
 "AS9329","Sri Lanka Telecom Ltd",3
 "AS9381","HKBN Enterprise Solutions HK Limited",3
