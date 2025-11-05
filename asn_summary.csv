@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87725
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21975
-"AS398324","Censys, Inc.",13387
+"AS398324","Censys, Inc.",13391
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10315
 "AS26210","AXS Bolivia S. A.",7972
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1738
 "AS214295","SKYNET NETWORK LTD",1631
 "AS0","",1627
-"AS209605","UAB Host Baltic",1520
+"AS209605","UAB Host Baltic",1521
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1400
 "AS49870","Alsycon B.V.",1336
@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1152
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS13335","Cloudflare, Inc.",1113
+"AS13335","Cloudflare, Inc.",1114
 "AS201401","NewVM B.V.",1076
 "AS23470","ReliableSite.Net LLC",1055
 "AS208684","BHA CONSEIL SARL",992
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
 "AS51167","Contabo GmbH",645
 "AS10439","CariNet, Inc.",643
-"AS14618","Amazon.com, Inc.",638
+"AS14618","Amazon.com, Inc.",639
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",573
 "AS4837","CHINA UNICOM China169 Backbone",564
@@ -166,10 +166,10 @@ ASN,Organization,IP_Count
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS19318","Interserver, Inc",53
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",53
+"AS6128","Cablevision Systems Corp.",53
 "AS20001","Charter Communications Inc",52
 "AS20115","Charter Communications",52
 "AS210644","AEZA INTERNATIONAL LTD",52
-"AS6128","Cablevision Systems Corp.",52
 "AS200514","KnownSRV Ltd.",51
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
@@ -373,6 +373,7 @@ ASN,Organization,IP_Count
 "AS37457","Telkom SA Ltd.",14
 "AS4808","China Unicom Beijing Province Network",14
 "AS48721","Flyservers S.A.",14
+"AS60781","LeaseWeb Netherlands B.V.",14
 "AS11232","Midcontinent Communications",13
 "AS11427","Charter Communications Inc",13
 "AS134420","Chongqing Telecom",13
@@ -400,7 +401,6 @@ ASN,Organization,IP_Count
 "AS41075","ATW Internet Kft.",12
 "AS4181","TDS TELECOM",12
 "AS46375","Sonic Telecom LLC",12
-"AS60781","LeaseWeb Netherlands B.V.",12
 "AS62442","Dade Samane Fanava Company (PJS)",12
 "AS8400","TELEKOM SRBIJA a.d.",12
 "AS8708","RCS & RDS SA",12
