@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",21970
 "AS398324","Censys, Inc.",13362
 "AS32934","Facebook, Inc.",11264
-"AS396982","Google LLC",10310
+"AS396982","Google LLC",10311
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7896
 "AS16276","OVH SAS",5820
@@ -16,7 +16,7 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3596
 "AS15169","Google LLC",3345
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3113
+"AS51396","Pfcloud UG",3114
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2737
 "AS142002","Scloud Pte Ltd",2559
@@ -195,10 +195,10 @@ ASN,Organization,IP_Count
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",38
 "AS8048","CANTV Servicios, Venezuela",38
 "AS20473","The Constant Company, LLC",37
+"AS5650","Frontier Communications of America, Inc.",37
 "AS8167","V tal",37
 "AS210558","1337 Services GmbH",36
 "AS42624","Global-Data System IT Corporation",36
-"AS5650","Frontier Communications of America, Inc.",36
 "AS213790","Limited Network LTD",35
 "AS30083","velia.net",35
 "AS34665","Petersburg Internet Network ltd.",34
@@ -253,6 +253,7 @@ ASN,Organization,IP_Count
 "AS17995","PT iForte Global Internet",24
 "AS18881","TELEFÔNICA BRASIL S.A",24
 "AS197540","netcup GmbH",24
+"AS200590","NLS Kazakhstan LLC",24
 "AS209","CenturyLink Communications, LLC",24
 "AS210509","Optimum Line for Internet Services Ltd.",24
 "AS4713","NTT Communications Corporation",24
@@ -262,7 +263,6 @@ ASN,Organization,IP_Count
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",24
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",23
 "AS198037","SPACECORE SOLUTION LTD",23
-"AS200590","NLS Kazakhstan LLC",23
 "AS21127","Joint Stock Company TransTeleCom",23
 "AS30058","FDCservers.net",23
 "AS62240","Clouvider Limited",23
