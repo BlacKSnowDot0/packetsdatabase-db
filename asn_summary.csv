@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1152
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS13335","Cloudflare, Inc.",1116
+"AS13335","Cloudflare, Inc.",1117
 "AS201401","NewVM B.V.",1076
 "AS23470","ReliableSite.Net LLC",1056
 "AS208684","BHA CONSEIL SARL",993
@@ -63,7 +63,7 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",503
 "AS50360","Tamatiya EOOD",492
 "AS51115","HLL LLC",487
-"AS53667","FranTech Solutions",467
+"AS53667","FranTech Solutions",468
 "AS212238","Datacamp Limited",460
 "AS12876","ONLINE S.A.S.",445
 "AS9829","Bharat Sanchar Nigam Ltd",440
@@ -168,16 +168,16 @@ ASN,Organization,IP_Count
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",53
 "AS6128","Cablevision Systems Corp.",53
 "AS20001","Charter Communications Inc",52
+"AS200514","KnownSRV Ltd.",52
 "AS20115","Charter Communications",52
 "AS210644","AEZA INTERNATIONAL LTD",52
-"AS200514","KnownSRV Ltd.",51
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
 "AS149746","PT Blip Integrator Provider",47
 "AS10796","Charter Communications Inc",46
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
-"AS12816","Leibniz-Rechenzentrum",44
+"AS12816","Leibniz-Rechenzentrum",45
 "AS396356","Latitude.sh",44
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
@@ -818,6 +818,7 @@ ASN,Organization,IP_Count
 "AS137872","China Mobile Hong Kong Company Limited",3
 "AS137967","Digicon Telecommunication Ltd",3
 "AS138117","PT. Solusindo Basis Teknologi",3
+"AS138195","MOACK.Co.LTD",3
 "AS138871","PT. Trans Indonesia Superkoridor",3
 "AS138995","Antbox Networks Limited",3
 "AS139180","Shandong eshinton Network Technology Co., Ltd.",3
@@ -1038,7 +1039,6 @@ ASN,Organization,IP_Count
 "AS137905","Mangkone Technology Co. Ltd.",2
 "AS138050","Dinas Komunikasi Provins Jawa Barat",2
 "AS138134","PT Tunas Link Indonesia",2
-"AS138195","MOACK.Co.LTD",2
 "AS138842","PT Internetwork Komunikasi Indonesia",2
 "AS139043","WellNetworks (Private) Limited",2
 "AS139409","PT JERNIH MULTI KOMUNIKASI",2
