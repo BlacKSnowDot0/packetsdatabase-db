@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87725
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87726
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21976
-"AS398324","Censys, Inc.",13402
+"AS398324","Censys, Inc.",13404
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10316
 "AS26210","AXS Bolivia S. A.",7972
@@ -20,11 +20,11 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2741
 "AS142002","Scloud Pte Ltd",2559
-"AS6939","Hurricane Electric LLC",2522
+"AS6939","Hurricane Electric LLC",2524
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1739
 "AS214295","SKYNET NETWORK LTD",1631
-"AS0","",1628
+"AS0","",1629
 "AS209605","UAB Host Baltic",1521
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1400
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",503
 "AS50360","Tamatiya EOOD",492
-"AS51115","HLL LLC",486
+"AS51115","HLL LLC",487
 "AS53667","FranTech Solutions",467
 "AS212238","Datacamp Limited",460
 "AS12876","ONLINE S.A.S.",445
@@ -77,7 +77,7 @@ ASN,Organization,IP_Count
 "AS7922","Comcast Cable Communications, LLC",345
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",325
-"AS8151","Uninet S.A. de C.V.",318
+"AS8151","Uninet S.A. de C.V.",319
 "AS214943","Railnet LLC",315
 "AS45899","VNPT Corp",315
 "AS24863","LINKdotNET AS number",307
@@ -573,6 +573,7 @@ ASN,Organization,IP_Count
 "AS27983","Red Intercable Digital S.A.",6
 "AS28210","GIGA MAIS FIBRA TELECOMUNICACOES S.A.",6
 "AS30722","Vodafone Italia S.p.A.",6
+"AS3329","VODAFONE-PANAFON HELLENIC TELECOMMUNICATIONS COMPANY SA",6
 "AS33588","Charter Communications",6
 "AS33771","Safaricom Limited",6
 "AS34700","MAXNET TELECOM, LTD",6
@@ -646,7 +647,6 @@ ASN,Organization,IP_Count
 "AS328510","Ikeja Wireless (Pty) Ltd",5
 "AS329244","Connect, Surf and Smile Limited",5
 "AS3326","PRIVATE JOINT STOCK COMPANY ""DATAGROUP""",5
-"AS3329","VODAFONE-PANAFON HELLENIC TELECOMMUNICATIONS COMPANY SA",5
 "AS33915","Vodafone Libertel B.V.",5
 "AS34343","Eweka Internet Services B.V.",5
 "AS35805","JSC ""Silknet""",5
