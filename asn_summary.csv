@@ -22,7 +22,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2559
 "AS6939","Hurricane Electric LLC",2525
 "AS9808","China Mobile",2078
-"AS202425","IP Volume inc",1739
+"AS202425","IP Volume inc",1740
 "AS214295","SKYNET NETWORK LTD",1631
 "AS0","",1629
 "AS209605","UAB Host Baltic",1521
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",487
 "AS53667","FranTech Solutions",468
 "AS212238","Datacamp Limited",460
-"AS12876","ONLINE S.A.S.",445
+"AS12876","ONLINE S.A.S.",446
 "AS9829","Bharat Sanchar Nigam Ltd",440
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
@@ -104,7 +104,7 @@ ASN,Organization,IP_Count
 "AS47105","Vault Dweller OU",141
 "AS50219","LNK SYSTEMS MUNTENIA SRL",139
 "AS42237","w1n ltd",136
-"AS29066","velia.net Internetdienste GmbH",132
+"AS29066","velia.net Internetdienste GmbH",133
 "AS262551","Farol Telecom",131
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
@@ -149,10 +149,10 @@ ASN,Organization,IP_Count
 "AS22773","Cox Communications Inc.",64
 "AS215590","DpkgSoft International Limited",62
 "AS140717","China Unicom",61
+"AS6739","VODAFONE ONO, S.A.",61
 "AS150263","PT Alnet Telekomunikasi Indonesia",60
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS4812","China Telecom (Group)",60
-"AS6739","VODAFONE ONO, S.A.",60
 "AS23724","IDC, China Telecommunications Corporation",59
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",59
 "AS49544","i3D.net B.V",59
@@ -215,12 +215,12 @@ ASN,Organization,IP_Count
 "AS4760","PCCW IMS Limited",32
 "AS55990","Huawei Cloud Service data center",32
 "AS1241","RIPE Network Coordination Centre",31
+"AS2856","British Telecommunications PLC",31
 "AS44592","SkyLink Data Center BV",31
 "AS46475","Limestone Networks, Inc.",31
 "AS17557","Pakistan Telecommuication company limited",30
 "AS200593","PROSPERO OOO",30
 "AS269193","Iktelecom Ltda",30
-"AS2856","British Telecommunications PLC",30
 "AS12322","Free SAS",29
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
