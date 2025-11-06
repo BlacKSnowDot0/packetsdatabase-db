@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",21982
 "AS398324","Censys, Inc.",13437
 "AS32934","Facebook, Inc.",11264
-"AS396982","Google LLC",10330
+"AS396982","Google LLC",10331
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7913
 "AS16276","OVH SAS",5823
@@ -56,7 +56,7 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",640
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",573
-"AS4837","CHINA UNICOM China169 Backbone",566
+"AS4837","CHINA UNICOM China169 Backbone",567
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",554
 "AS9009","M247 Europe SRL",550
@@ -106,7 +106,7 @@ ASN,Organization,IP_Count
 "AS47105","Vault Dweller OU",141
 "AS50219","LNK SYSTEMS MUNTENIA SRL",139
 "AS29066","velia.net Internetdienste GmbH",138
-"AS42237","w1n ltd",136
+"AS42237","w1n ltd",137
 "AS262551","Farol Telecom",131
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
@@ -146,11 +146,11 @@ ASN,Organization,IP_Count
 "AS834","IPXO LLC",68
 "AS328867","Corebach Backbone SARL",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
+"AS6739","VODAFONE ONO, S.A.",66
 "AS22773","Cox Communications Inc.",65
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS57588","Hayat for Internet & communication LLC",65
-"AS6739","VODAFONE ONO, S.A.",65
 "AS17378","TierPoint, LLC",63
 "AS215590","DpkgSoft International Limited",63
 "AS140717","China Unicom",61
@@ -588,6 +588,7 @@ ASN,Organization,IP_Count
 "AS397270","NetInformatik Inc.",6
 "AS399765","FasNET Services LLC",6
 "AS401152","Ace Data Centers II, L.L.C.",6
+"AS4771","Spark New Zealand Trading Limited",6
 "AS48642","Joint stock company ""For""",6
 "AS55699","PT. Cemerlang Multimedia",6
 "AS56971","CGI GLOBAL LIMITED",6
@@ -668,7 +669,6 @@ ASN,Organization,IP_Count
 "AS45650","VIA NET COMMUNICATION PUBLIC LIMITED",5
 "AS4721","JCOM Co., Ltd.",5
 "AS47702","Teleradiocompany Discovery Ltd.",5
-"AS4771","Spark New Zealand Trading Limited",5
 "AS4780","Digital United Inc.",5
 "AS53062","GGNET TELECOM BACKBONE",5
 "AS53167","SEBRATEL TECNOLOGIA LTDA",5
