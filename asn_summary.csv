@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87726
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
-"AS211298","Driftnet Ltd",21977
-"AS398324","Censys, Inc.",13413
+"AS211298","Driftnet Ltd",21979
+"AS398324","Censys, Inc.",13414
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10322
 "AS26210","AXS Bolivia S. A.",7972
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4439
 "AS16509","Amazon.com, Inc.",4265
 "AS45102","Alibaba (US) Technology Co., Ltd.",3918
-"AS63949","Akamai Technologies, Inc.",3598
+"AS63949","Akamai Technologies, Inc.",3599
 "AS15169","Google LLC",3345
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3115
@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1152
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS13335","Cloudflare, Inc.",1117
+"AS13335","Cloudflare, Inc.",1118
 "AS201401","NewVM B.V.",1076
 "AS23470","ReliableSite.Net LLC",1056
 "AS208684","BHA CONSEIL SARL",993
@@ -47,7 +47,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",819
 "AS215925","VPSVAULT.HOST LTD",812
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",750
+"AS20052","Arbor Networks, Inc.",751
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
 "AS51167","Contabo GmbH",649
 "AS10439","CariNet, Inc.",644
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",489
 "AS53667","FranTech Solutions",468
 "AS212238","Datacamp Limited",460
-"AS12876","ONLINE S.A.S.",446
+"AS12876","ONLINE S.A.S.",447
 "AS9829","Bharat Sanchar Nigam Ltd",441
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
@@ -164,8 +164,8 @@ ASN,Organization,IP_Count
 "AS206092","Internet Utilities Europe and Asia Limited",55
 "AS19318","Interserver, Inc",54
 "AS213877","u1host ltd",54
+"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
-"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",53
 "AS6128","Cablevision Systems Corp.",53
 "AS20001","Charter Communications Inc",52
 "AS200514","KnownSRV Ltd.",52
@@ -855,6 +855,7 @@ ASN,Organization,IP_Count
 "AS200359","Grupo Proveedor tecnologico Universal SL",3
 "AS20055","Wholesail networks LLC",3
 "AS202796","JSR IT B.V.",3
+"AS202870","Dimensione S.r.l.",3
 "AS203257","Layth Zuhair Zahid",3
 "AS20326","TeraSwitch Networks Inc.",3
 "AS203459","AL-MARAJ AL-ALAMIYA Co",3
@@ -1110,7 +1111,6 @@ ASN,Organization,IP_Count
 "AS201409","HOSTSHIELD LTD",2
 "AS202103","Lanet Network Ltd",2
 "AS202561","High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.",2
-"AS202870","Dimensione S.r.l.",2
 "AS203087","PE Fedinyak Sergey Vyacheslavovich",2
 "AS203214","Hulum Almustakbal Company for Communication Engineering and Services Ltd",2
 "AS203622","GSP LLC",2
