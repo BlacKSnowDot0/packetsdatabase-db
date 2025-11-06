@@ -147,7 +147,7 @@ ASN,Organization,IP_Count
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS57588","Hayat for Internet & communication LLC",65
 "AS22773","Cox Communications Inc.",64
-"AS6739","VODAFONE ONO, S.A.",63
+"AS6739","VODAFONE ONO, S.A.",64
 "AS215590","DpkgSoft International Limited",62
 "AS140717","China Unicom",61
 "AS150263","PT Alnet Telekomunikasi Indonesia",60
@@ -295,6 +295,7 @@ ASN,Organization,IP_Count
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
+"AS41745","Baykov Ilya Sergeevich",20
 "AS4816","China Telecom (Group)",20
 "AS5384","EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",20
 "AS8796","FD-298-8796",20
@@ -307,7 +308,6 @@ ASN,Organization,IP_Count
 "AS24348","CERNET2 IX at Tsinghua University",19
 "AS262287","Maxihost LTDA",19
 "AS329009","Spectrum Internet Service Ltd",19
-"AS41745","Baykov Ilya Sergeevich",19
 "AS49531","""NetCom-R"" LLC",19
 "AS6167","Verizon Business",19
 "AS812","Rogers Communications Canada Inc.",19
@@ -924,6 +924,7 @@ ASN,Organization,IP_Count
 "AS3303","Swisscom (Schweiz) AG",3
 "AS33567","Econet Telecom Lesotho (PTY) LTD",3
 "AS33616","Co-Mo Comm Inc",3
+"AS33647","Yadkin Valley Telephone",3
 "AS35320","Eurotranstelecom Ltd",3
 "AS36884","Wana Corporate",3
 "AS36925","MEDITELECOM",3
@@ -1276,7 +1277,6 @@ ASN,Organization,IP_Count
 "AS328961","NET99 (PTY) LTD",2
 "AS33070","Rackspace Hosting",2
 "AS33387","Nocix, LLC",2
-"AS33647","Yadkin Valley Telephone",2
 "AS33765","TANZANIA TELECOMMUNICATIONS CO. LTD",2
 "AS34123","Netorn LLC",2
 "AS34168","PJSC Rostelecom",2
