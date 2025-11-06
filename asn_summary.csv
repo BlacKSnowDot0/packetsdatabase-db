@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87725
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
-"AS211298","Driftnet Ltd",21975
-"AS398324","Censys, Inc.",13397
+"AS211298","Driftnet Ltd",21976
+"AS398324","Censys, Inc.",13402
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10316
 "AS26210","AXS Bolivia S. A.",7972
@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS4134","Chinanet",5014
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4439
-"AS16509","Amazon.com, Inc.",4264
+"AS16509","Amazon.com, Inc.",4265
 "AS45102","Alibaba (US) Technology Co., Ltd.",3917
 "AS63949","Akamai Technologies, Inc.",3598
 "AS15169","Google LLC",3345
@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1152
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS13335","Cloudflare, Inc.",1114
+"AS13335","Cloudflare, Inc.",1115
 "AS201401","NewVM B.V.",1076
 "AS23470","ReliableSite.Net LLC",1056
 "AS208684","BHA CONSEIL SARL",993
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",750
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
-"AS51167","Contabo GmbH",645
+"AS51167","Contabo GmbH",648
 "AS10439","CariNet, Inc.",643
 "AS14618","Amazon.com, Inc.",640
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -152,10 +152,10 @@ ASN,Organization,IP_Count
 "AS150263","PT Alnet Telekomunikasi Indonesia",60
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS4812","China Telecom (Group)",60
+"AS6739","VODAFONE ONO, S.A.",60
 "AS23724","IDC, China Telecommunications Corporation",59
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",59
-"AS6739","VODAFONE ONO, S.A.",59
-"AS49544","i3D.net B.V",58
+"AS49544","i3D.net B.V",59
 "AS55720","Gigabit Hosting Sdn Bhd",58
 "AS8402","PJSC ""Vimpelcom""",58
 "AS20278","Nexeon Technologies, Inc.",57
@@ -257,6 +257,7 @@ ASN,Organization,IP_Count
 "AS197540","netcup GmbH",24
 "AS200590","NLS Kazakhstan LLC",24
 "AS209","CenturyLink Communications, LLC",24
+"AS21127","Joint Stock Company TransTeleCom",24
 "AS30058","FDCservers.net",24
 "AS4713","NTT Communications Corporation",24
 "AS577","Bell Canada",24
@@ -265,7 +266,6 @@ ASN,Organization,IP_Count
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",24
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",23
 "AS198037","SPACECORE SOLUTION LTD",23
-"AS21127","Joint Stock Company TransTeleCom",23
 "AS62240","Clouvider Limited",23
 "AS7303","Telecom Argentina S.A.",23
 "AS17561","Larus Limited",22
@@ -376,6 +376,7 @@ ASN,Organization,IP_Count
 "AS60781","LeaseWeb Netherlands B.V.",14
 "AS11232","Midcontinent Communications",13
 "AS11427","Charter Communications Inc",13
+"AS12400","Partner Communications Ltd.",13
 "AS134420","Chongqing Telecom",13
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",13
 "AS15895","""Kyivstar"" PJSC",13
@@ -389,7 +390,6 @@ ASN,Organization,IP_Count
 "AS38841","kbro CO. Ltd.",13
 "AS53006","ALGAR TELECOM S/A",13
 "AS6327","Shaw Communications Inc.",13
-"AS12400","Partner Communications Ltd.",12
 "AS17639","ComClark Network & Technology Corp",12
 "AS213438","ColocaTel Inc.",12
 "AS2637","Georgia Institute of Technology",12
@@ -468,6 +468,7 @@ ASN,Organization,IP_Count
 "AS40244","Turnkey Internet Inc.",9
 "AS4609","Companhia de Telecomunicacoes de Macau",9
 "AS46606","Unified Layer",9
+"AS48282","Hosting technology LTD",9
 "AS48874","HOSTMAZE INC SRL-D",9
 "AS8346","SONATEL-AS Autonomous System",9
 "AS9038","Batelco Jordan",9
@@ -493,7 +494,6 @@ ASN,Organization,IP_Count
 "AS38283","CHINANET SiChuan Telecom Internet Data Center",8
 "AS41608","NextGenWebs, S.L.",8
 "AS4761","PT. INDOSAT Tbk",8
-"AS48282","Hosting technology LTD",8
 "AS5432","Proximus NV",8
 "AS5483","Magyar Telekom plc.",8
 "AS56041","China Mobile Communications Corporation",8
@@ -2964,6 +2964,7 @@ ASN,Organization,IP_Count
 "AS9303","The Digital Lab 2007 Limited",1
 "AS9336","XYZ Telecom Pty Ltd",1
 "AS9371","SAKURA Internet Inc.",1
+"AS9500","One New Zealand Group Limited",1
 "AS9583","Sify Limited",1
 "AS9595","NTT-ME Corporation",1
 "AS9617","JCOM Co., Ltd.",1
