@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87726
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21976
-"AS398324","Censys, Inc.",13404
+"AS398324","Censys, Inc.",13405
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10316
 "AS26210","AXS Bolivia S. A.",7972
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4439
 "AS16509","Amazon.com, Inc.",4265
-"AS45102","Alibaba (US) Technology Co., Ltd.",3917
+"AS45102","Alibaba (US) Technology Co., Ltd.",3918
 "AS63949","Akamai Technologies, Inc.",3598
 "AS15169","Google LLC",3345
 "AS398705","Censys, Inc.",3238
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2741
 "AS142002","Scloud Pte Ltd",2559
-"AS6939","Hurricane Electric LLC",2524
+"AS6939","Hurricane Electric LLC",2525
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1739
 "AS214295","SKYNET NETWORK LTD",1631
@@ -49,12 +49,12 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",750
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
-"AS51167","Contabo GmbH",648
+"AS51167","Contabo GmbH",649
 "AS10439","CariNet, Inc.",643
 "AS14618","Amazon.com, Inc.",640
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",573
-"AS4837","CHINA UNICOM China169 Backbone",564
+"AS4837","CHINA UNICOM China169 Backbone",565
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",554
 "AS9009","M247 Europe SRL",549
@@ -114,7 +114,7 @@ ASN,Organization,IP_Count
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
-"AS34984","Superonline Iletisim Hizmetleri A.S.",104
+"AS34984","Superonline Iletisim Hizmetleri A.S.",105
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",104
 "AS47331","TTNet A.S.",103
 "AS151185","China Telecom",101
@@ -162,9 +162,9 @@ ASN,Organization,IP_Count
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
+"AS19318","Interserver, Inc",54
 "AS213877","u1host ltd",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
-"AS19318","Interserver, Inc",53
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",53
 "AS6128","Cablevision Systems Corp.",53
 "AS20001","Charter Communications Inc",52
