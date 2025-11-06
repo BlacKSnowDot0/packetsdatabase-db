@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87726
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87728
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21982
-"AS398324","Censys, Inc.",13434
+"AS398324","Censys, Inc.",13435
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10329
 "AS26210","AXS Bolivia S. A.",7972
@@ -13,14 +13,14 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4439
 "AS16509","Amazon.com, Inc.",4265
 "AS396998","Path Network, Inc.",3992
-"AS45102","Alibaba (US) Technology Co., Ltd.",3918
+"AS45102","Alibaba (US) Technology Co., Ltd.",3919
 "AS63949","Akamai Technologies, Inc.",3601
 "AS0","",3549
 "AS15169","Google LLC",3345
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3118
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2743
+"AS8075","Microsoft Corporation",2744
 "AS142002","Scloud Pte Ltd",2559
 "AS6939","Hurricane Electric LLC",2528
 "AS9808","China Mobile",2078
@@ -32,11 +32,11 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1400
 "AS49870","Alsycon B.V.",1337
 "AS215269","LAZYCLOUD LTD",1312
-"AS32475","Internap Holding LLC",1273
+"AS32475","Internap Holding LLC",1274
 "AS36352","HostPapa",1225
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1176
-"AS174","Cogent Communications",1154
+"AS174","Cogent Communications",1155
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS13335","Cloudflare, Inc.",1127
@@ -128,10 +128,10 @@ ASN,Organization,IP_Count
 "AS4766","Korea Telecom",83
 "AS16735","ALGAR TELECOM S/A",81
 "AS40021","Nubes, LLC",81
+"AS8560","IONOS SE",81
 "AS136435","ELITE COMMUNICATION",80
 "AS28209","Under Servicos de Internet Ltda",80
 "AS5617","Orange Polska Spolka Akcyjna",80
-"AS8560","IONOS SE",80
 "AS199785","Cloud Hosting Solutions, Limited.",78
 "AS200019","ALEXHOST SRL",78
 "AS271795","SERVITELCONET CIA. LTDA.",78
@@ -150,7 +150,7 @@ ASN,Organization,IP_Count
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS57588","Hayat for Internet & communication LLC",65
-"AS6739","VODAFONE ONO, S.A.",64
+"AS6739","VODAFONE ONO, S.A.",65
 "AS17378","TierPoint, LLC",63
 "AS215590","DpkgSoft International Limited",63
 "AS140717","China Unicom",61
@@ -203,10 +203,10 @@ ASN,Organization,IP_Count
 "AS8167","V tal",37
 "AS210558","1337 Services GmbH",36
 "AS42624","Global-Data System IT Corporation",36
+"AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",36
 "AS213790","Limited Network LTD",35
 "AS30083","velia.net",35
 "AS5089","Virgin Media Limited",35
-"AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",35
 "AS1680","Cellcom Fixed Line Communication L.P",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",34
