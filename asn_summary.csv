@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87726
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21980
-"AS398324","Censys, Inc.",13424
+"AS398324","Censys, Inc.",13426
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10324
 "AS26210","AXS Bolivia S. A.",7972
@@ -37,14 +37,14 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1154
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS13335","Cloudflare, Inc.",1123
+"AS13335","Cloudflare, Inc.",1125
 "AS201401","NewVM B.V.",1076
 "AS23470","ReliableSite.Net LLC",1057
 "AS208684","BHA CONSEIL SARL",993
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
-"AS208046","ColocationX Ltd.",819
+"AS208046","ColocationX Ltd.",820
 "AS215925","VPSVAULT.HOST LTD",812
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",752
@@ -103,7 +103,7 @@ ASN,Organization,IP_Count
 "AS206264","Amarutu Technology Ltd",153
 "AS47105","Vault Dweller OU",141
 "AS50219","LNK SYSTEMS MUNTENIA SRL",139
-"AS29066","velia.net Internetdienste GmbH",136
+"AS29066","velia.net Internetdienste GmbH",137
 "AS42237","w1n ltd",136
 "AS262551","Farol Telecom",131
 "AS137409","GSL Networks Pty LTD",128
@@ -143,10 +143,10 @@ ASN,Organization,IP_Count
 "AS52053","REDHEBERG Association declaree",69
 "AS328867","Corebach Backbone SARL",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
+"AS22773","Cox Communications Inc.",65
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS57588","Hayat for Internet & communication LLC",65
-"AS22773","Cox Communications Inc.",64
 "AS6739","VODAFONE ONO, S.A.",64
 "AS215590","DpkgSoft International Limited",62
 "AS140717","China Unicom",61
@@ -249,6 +249,7 @@ ASN,Organization,IP_Count
 "AS200590","NLS Kazakhstan LLC",25
 "AS210509","Optimum Line for Internet Services Ltd.",25
 "AS24560","Bharti Airtel Limited",25
+"AS30058","FDCservers.net",25
 "AS36947","Telecom Algeria",25
 "AS53118","NETLINE TELECOM",25
 "AS55836","Reliance Jio Infocomm Limited",25
@@ -258,7 +259,6 @@ ASN,Organization,IP_Count
 "AS197540","netcup GmbH",24
 "AS209","CenturyLink Communications, LLC",24
 "AS21127","Joint Stock Company TransTeleCom",24
-"AS30058","FDCservers.net",24
 "AS4713","NTT Communications Corporation",24
 "AS577","Bell Canada",24
 "AS60068","Datacamp Limited",24
