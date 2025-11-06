@@ -21,9 +21,10 @@ ASN,Organization,IP_Count
 "AS8075","Microsoft Corporation",2742
 "AS142002","Scloud Pte Ltd",2559
 "AS6939","Hurricane Electric LLC",2528
+"AS0","",2313
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1741
-"AS0","",1631
+"AS396998","Path Network, Inc.",1641
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1522
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -59,6 +60,7 @@ ASN,Organization,IP_Count
 "AS401120","cheapy.host LLC",554
 "AS9009","M247 Europe SRL",550
 "AS198953","Proton66 OOO",527
+"AS48925","VibeGAMES B.V.",522
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",503
 "AS50360","Tamatiya EOOD",492
@@ -246,6 +248,7 @@ ASN,Organization,IP_Count
 "AS55933","Cloudie Limited",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS6134","XNNET LLC",26
+"AS17378","TierPoint, LLC",25
 "AS200590","NLS Kazakhstan LLC",25
 "AS210509","Optimum Line for Internet Services Ltd.",25
 "AS24560","Bharti Airtel Limited",25
@@ -277,6 +280,7 @@ ASN,Organization,IP_Count
 "AS58212","dataforest GmbH",22
 "AS63859","PT. Eka Mas Republik",22
 "AS7029","Windstream Communications LLC",22
+"AS834","IPXO LLC",22
 "AS9123","TimeWeb Ltd.",22
 "AS12479","Orange Espagne SA",21
 "AS138886","PT Data Buana Nusantara",21
@@ -424,7 +428,6 @@ ASN,Organization,IP_Count
 "AS44901","Belcloud LTD",11
 "AS45820","TTSL-ISP DIVISION",11
 "AS48753","AVA HOST SRL",11
-"AS48925","VibeGAMES B.V.",11
 "AS58563","CHINANET Hubei province network",11
 "AS9770","LG HelloVision Corp.",11
 "AS11351","Charter Communications Inc",10
@@ -2948,7 +2951,6 @@ ASN,Organization,IP_Count
 "AS8100","QuadraNet Enterprises LLC",1
 "AS8290","Slovanet a.s.",1
 "AS8331","JSC ""ER-Telecom Holding""",1
-"AS834","IPXO LLC",1
 "AS8369","Intersvyaz-2 JSC",1
 "AS8374","Polkomtel Sp. z o.o.",1
 "AS8393","""ASTEL"" JSC",1
