@@ -8,7 +8,7 @@ ASN,Organization,IP_Count
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7907
 "AS16276","OVH SAS",5822
-"AS4134","Chinanet",5014
+"AS4134","Chinanet",5015
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4439
 "AS16509","Amazon.com, Inc.",4265
@@ -57,12 +57,12 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",565
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",554
-"AS9009","M247 Europe SRL",549
+"AS9009","M247 Europe SRL",550
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",503
 "AS50360","Tamatiya EOOD",492
-"AS51115","HLL LLC",488
+"AS51115","HLL LLC",489
 "AS53667","FranTech Solutions",468
 "AS212238","Datacamp Limited",460
 "AS12876","ONLINE S.A.S.",446
@@ -104,7 +104,7 @@ ASN,Organization,IP_Count
 "AS47105","Vault Dweller OU",141
 "AS50219","LNK SYSTEMS MUNTENIA SRL",139
 "AS42237","w1n ltd",136
-"AS29066","velia.net Internetdienste GmbH",134
+"AS29066","velia.net Internetdienste GmbH",135
 "AS262551","Farol Telecom",131
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
@@ -297,6 +297,7 @@ ASN,Organization,IP_Count
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS4816","China Telecom (Group)",20
 "AS5384","EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",20
+"AS8796","FD-298-8796",20
 "AS11426","Charter Communications Inc",19
 "AS140061","China Telecom",19
 "AS14593","Space Exploration Technologies Corporation",19
@@ -310,7 +311,6 @@ ASN,Organization,IP_Count
 "AS49531","""NetCom-R"" LLC",19
 "AS6167","Verizon Business",19
 "AS812","Rogers Communications Canada Inc.",19
-"AS8796","FD-298-8796",19
 "AS11878","tzulo, inc.",18
 "AS17638","ASN for TIANJIN Provincial Net of CT",18
 "AS18049","Taiwan Infrastructure Network Technologie",18
@@ -401,6 +401,7 @@ ASN,Organization,IP_Count
 "AS41075","ATW Internet Kft.",12
 "AS4181","TDS TELECOM",12
 "AS46375","Sonic Telecom LLC",12
+"AS4847","China Networks Inter-Exchange",12
 "AS62442","Dade Samane Fanava Company (PJS)",12
 "AS8400","TELEKOM SRBIJA a.d.",12
 "AS8708","RCS & RDS SA",12
@@ -421,7 +422,6 @@ ASN,Organization,IP_Count
 "AS41436","Kamatera Inc",11
 "AS44901","Belcloud LTD",11
 "AS45820","TTSL-ISP DIVISION",11
-"AS4847","China Networks Inter-Exchange",11
 "AS48753","AVA HOST SRL",11
 "AS48925","VibeGAMES B.V.",11
 "AS58563","CHINANET Hubei province network",11
