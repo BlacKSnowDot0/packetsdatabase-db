@@ -1,10 +1,10 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87726
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
-"AS211298","Driftnet Ltd",21981
-"AS398324","Censys, Inc.",13428
+"AS211298","Driftnet Ltd",21982
+"AS398324","Censys, Inc.",13431
 "AS32934","Facebook, Inc.",11264
-"AS396982","Google LLC",10325
+"AS396982","Google LLC",10328
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7912
 "AS16276","OVH SAS",5823
@@ -12,15 +12,15 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4439
 "AS16509","Amazon.com, Inc.",4265
-"AS396998","Path Network, Inc.",3966
+"AS396998","Path Network, Inc.",3992
 "AS45102","Alibaba (US) Technology Co., Ltd.",3918
-"AS63949","Akamai Technologies, Inc.",3600
-"AS0","",3495
+"AS63949","Akamai Technologies, Inc.",3601
+"AS0","",3548
 "AS15169","Google LLC",3345
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3117
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2742
+"AS8075","Microsoft Corporation",2743
 "AS142002","Scloud Pte Ltd",2559
 "AS6939","Hurricane Electric LLC",2528
 "AS9808","China Mobile",2078
@@ -28,11 +28,11 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1522
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS48925","VibeGAMES B.V.",1409
+"AS48925","VibeGAMES B.V.",1419
 "AS398722","Censys, Inc.",1400
 "AS49870","Alsycon B.V.",1337
 "AS215269","LAZYCLOUD LTD",1312
-"AS32475","Internap Holding LLC",1270
+"AS32475","Internap Holding LLC",1271
 "AS36352","HostPapa",1225
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1176
@@ -41,7 +41,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS13335","Cloudflare, Inc.",1126
 "AS201401","NewVM B.V.",1076
-"AS23470","ReliableSite.Net LLC",1059
+"AS23470","ReliableSite.Net LLC",1072
 "AS208684","BHA CONSEIL SARL",993
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",503
 "AS50360","Tamatiya EOOD",492
 "AS51115","HLL LLC",491
-"AS53667","FranTech Solutions",470
+"AS53667","FranTech Solutions",472
 "AS212238","Datacamp Limited",460
 "AS12876","ONLINE S.A.S.",449
 "AS9829","Bharat Sanchar Nigam Ltd",441
@@ -143,15 +143,15 @@ ASN,Organization,IP_Count
 "AS31898","Oracle Corporation",73
 "AS3920","ESTOXY OU",71
 "AS52053","REDHEBERG Association declaree",69
+"AS834","IPXO LLC",68
 "AS328867","Corebach Backbone SARL",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
-"AS834","IPXO LLC",66
 "AS22773","Cox Communications Inc.",65
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS57588","Hayat for Internet & communication LLC",65
 "AS6739","VODAFONE ONO, S.A.",64
-"AS17378","TierPoint, LLC",62
+"AS17378","TierPoint, LLC",63
 "AS215590","DpkgSoft International Limited",62
 "AS140717","China Unicom",61
 "AS150263","PT Alnet Telekomunikasi Indonesia",60
@@ -205,24 +205,24 @@ ASN,Organization,IP_Count
 "AS42624","Global-Data System IT Corporation",36
 "AS213790","Limited Network LTD",35
 "AS30083","velia.net",35
+"AS5089","Virgin Media Limited",35
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",35
 "AS1680","Cellcom Fixed Line Communication L.P",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",34
-"AS5089","Virgin Media Limited",34
 "AS9198","JSC Kazakhtelecom",34
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
 "AS263355","GTR NET COMUNICACOES EIRELI",32
+"AS2856","British Telecommunications PLC",32
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",32
 "AS4760","PCCW IMS Limited",32
 "AS55990","Huawei Cloud Service data center",32
+"AS12322","Free SAS",31
 "AS1241","RIPE Network Coordination Centre",31
-"AS2856","British Telecommunications PLC",31
 "AS44592","SkyLink Data Center BV",31
 "AS46475","Limestone Networks, Inc.",31
-"AS12322","Free SAS",30
 "AS17557","Pakistan Telecommuication company limited",30
 "AS200593","PROSPERO OOO",30
 "AS269193","Iktelecom Ltda",30
