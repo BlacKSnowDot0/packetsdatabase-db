@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87726
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21980
-"AS398324","Censys, Inc.",13421
+"AS398324","Censys, Inc.",13422
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10323
 "AS26210","AXS Bolivia S. A.",7972
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2742
 "AS142002","Scloud Pte Ltd",2559
-"AS6939","Hurricane Electric LLC",2527
+"AS6939","Hurricane Electric LLC",2528
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1741
 "AS0","",1631
@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1153
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS13335","Cloudflare, Inc.",1119
+"AS13335","Cloudflare, Inc.",1120
 "AS201401","NewVM B.V.",1076
 "AS23470","ReliableSite.Net LLC",1057
 "AS208684","BHA CONSEIL SARL",993
@@ -103,8 +103,8 @@ ASN,Organization,IP_Count
 "AS206264","Amarutu Technology Ltd",153
 "AS47105","Vault Dweller OU",141
 "AS50219","LNK SYSTEMS MUNTENIA SRL",139
+"AS29066","velia.net Internetdienste GmbH",136
 "AS42237","w1n ltd",136
-"AS29066","velia.net Internetdienste GmbH",135
 "AS262551","Farol Telecom",131
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
@@ -1024,6 +1024,7 @@ ASN,Organization,IP_Count
 "AS134375","Fusionnet Web Services Private Limited",2
 "AS134502","Victorians Online",2
 "AS134732","Dot Internet",2
+"AS134835","Starry Network Limited",2
 "AS134863","SP INTERNET TECHNOLOGIES PRIVATE LTD",2
 "AS13490","Buckeye Cablevision, Inc.",2
 "AS135037","Techno Asia Infotech Limited",2
@@ -1539,7 +1540,6 @@ ASN,Organization,IP_Count
 "AS134674","Tata Play Broadband Private Limited",1
 "AS134756","China Telecom",1
 "AS134768","CHINANET SHAANXI province Cloud Base network",1
-"AS134835","Starry Network Limited",1
 "AS134877","Sri Vari Network Private Limited",1
 "AS134907","Bharat VoIP Communications Pvt Ltd",1
 "AS134911","Sigaram Networks Pvt Ltd",1
