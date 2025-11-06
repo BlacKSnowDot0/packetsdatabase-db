@@ -6,7 +6,7 @@ ASN,Organization,IP_Count
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10324
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7911
+"AS14061","DigitalOcean, LLC",7912
 "AS16276","OVH SAS",5823
 "AS4134","Chinanet",5015
 "AS6568","Entel S.A. - EntelNet",4537
@@ -30,10 +30,10 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1400
 "AS49870","Alsycon B.V.",1337
 "AS215269","LAZYCLOUD LTD",1312
-"AS32475","Internap Holding LLC",1269
+"AS32475","Internap Holding LLC",1270
 "AS36352","HostPapa",1225
 "AS204428","SS-Net",1182
-"AS22552","eSited Solutions",1175
+"AS22552","eSited Solutions",1176
 "AS174","Cogent Communications",1154
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
@@ -119,8 +119,8 @@ ASN,Organization,IP_Count
 "AS47331","TTNet A.S.",103
 "AS151185","China Telecom",101
 "AS205352","KABELNET LTD",93
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",92
 "AS63018","Dedicated.com",92
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",91
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS58461","Chinanet",85
 "AS4766","Korea Telecom",83
@@ -189,9 +189,9 @@ ASN,Organization,IP_Count
 "AS21928","T-Mobile USA, Inc.",40
 "AS23969","TOT Public Company Limited",40
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",40
+"AS5650","Frontier Communications of America, Inc.",40
 "AS27699","TELEFÔNICA BRASIL S.A",39
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",39
-"AS5650","Frontier Communications of America, Inc.",39
 "AS8048","CANTV Servicios, Venezuela",39
 "AS26599","TELEFÔNICA BRASIL S.A",38
 "AS4538","China Education and Research Network Center",38
@@ -201,11 +201,11 @@ ASN,Organization,IP_Count
 "AS42624","Global-Data System IT Corporation",36
 "AS213790","Limited Network LTD",35
 "AS30083","velia.net",35
+"AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",35
 "AS1680","Cellcom Fixed Line Communication L.P",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",34
 "AS5089","Virgin Media Limited",34
-"AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",34
 "AS9198","JSC Kazakhtelecom",34
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",33
 "AS45671","Servers Australia Pty. Ltd",33
