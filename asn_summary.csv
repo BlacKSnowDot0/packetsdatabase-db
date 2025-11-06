@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87726
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21977
-"AS398324","Censys, Inc.",13410
+"AS398324","Censys, Inc.",13412
 "AS32934","Facebook, Inc.",11264
-"AS396982","Google LLC",10318
+"AS396982","Google LLC",10320
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7904
+"AS14061","DigitalOcean, LLC",7906
 "AS16276","OVH SAS",5822
 "AS4134","Chinanet",5014
 "AS6568","Entel S.A. - EntelNet",4537
@@ -18,19 +18,19 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3115
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2741
+"AS8075","Microsoft Corporation",2742
 "AS142002","Scloud Pte Ltd",2559
-"AS6939","Hurricane Electric LLC",2525
+"AS6939","Hurricane Electric LLC",2526
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1740
 "AS214295","SKYNET NETWORK LTD",1631
 "AS0","",1630
-"AS209605","UAB Host Baltic",1521
+"AS209605","UAB Host Baltic",1522
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1400
 "AS49870","Alsycon B.V.",1337
 "AS215269","LAZYCLOUD LTD",1312
-"AS32475","Internap Holding LLC",1264
+"AS32475","Internap Holding LLC",1265
 "AS36352","HostPapa",1223
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1172
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS53667","FranTech Solutions",468
 "AS212238","Datacamp Limited",460
 "AS12876","ONLINE S.A.S.",446
-"AS9829","Bharat Sanchar Nigam Ltd",440
+"AS9829","Bharat Sanchar Nigam Ltd",441
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -156,8 +156,8 @@ ASN,Organization,IP_Count
 "AS23724","IDC, China Telecommunications Corporation",59
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",59
 "AS49544","i3D.net B.V",59
+"AS8402","PJSC ""Vimpelcom""",59
 "AS55720","Gigabit Hosting Sdn Bhd",58
-"AS8402","PJSC ""Vimpelcom""",58
 "AS20278","Nexeon Technologies, Inc.",57
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
@@ -207,9 +207,9 @@ ASN,Organization,IP_Count
 "AS5089","Virgin Media Limited",34
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",34
 "AS9198","JSC Kazakhtelecom",34
+"AS263025","ISPTEC Sistemas de Comunicação Eireli",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
-"AS263025","ISPTEC Sistemas de Comunicação Eireli",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",32
 "AS4760","PCCW IMS Limited",32
