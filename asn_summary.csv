@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",21980
 "AS398324","Censys, Inc.",13416
 "AS32934","Facebook, Inc.",11264
-"AS396982","Google LLC",10322
+"AS396982","Google LLC",10323
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7907
 "AS16276","OVH SAS",5822
@@ -22,7 +22,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2559
 "AS6939","Hurricane Electric LLC",2526
 "AS9808","China Mobile",2078
-"AS202425","IP Volume inc",1740
+"AS202425","IP Volume inc",1741
 "AS0","",1631
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1522
@@ -30,14 +30,14 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1400
 "AS49870","Alsycon B.V.",1337
 "AS215269","LAZYCLOUD LTD",1312
-"AS32475","Internap Holding LLC",1265
-"AS36352","HostPapa",1223
+"AS32475","Internap Holding LLC",1267
+"AS36352","HostPapa",1225
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1172
 "AS174","Cogent Communications",1152
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS13335","Cloudflare, Inc.",1118
+"AS13335","Cloudflare, Inc.",1119
 "AS201401","NewVM B.V.",1076
 "AS23470","ReliableSite.Net LLC",1057
 "AS208684","BHA CONSEIL SARL",993
@@ -717,6 +717,7 @@ ASN,Organization,IP_Count
 "AS18809","Cable Onda",4
 "AS200845","AVATEL TELECOM, SA",4
 "AS20150","anyNode",4
+"AS202796","JSR IT B.V.",4
 "AS203380","DA International Group Ltd.",4
 "AS206216","Advin Services LLC",4
 "AS207083","HostSlim B.V.",4
@@ -855,7 +856,6 @@ ASN,Organization,IP_Count
 "AS199468","GRAIN COMMUNICATIONS LIMITED",3
 "AS200359","Grupo Proveedor tecnologico Universal SL",3
 "AS20055","Wholesail networks LLC",3
-"AS202796","JSR IT B.V.",3
 "AS202870","Dimensione S.r.l.",3
 "AS203257","Layth Zuhair Zahid",3
 "AS20326","TeraSwitch Networks Inc.",3
