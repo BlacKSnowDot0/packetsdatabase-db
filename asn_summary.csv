@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87726
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21977
-"AS398324","Censys, Inc.",13407
+"AS398324","Censys, Inc.",13410
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10317
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7903
+"AS14061","DigitalOcean, LLC",7904
 "AS16276","OVH SAS",5822
 "AS4134","Chinanet",5014
 "AS6568","Entel S.A. - EntelNet",4537
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1521
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1400
-"AS49870","Alsycon B.V.",1336
+"AS49870","Alsycon B.V.",1337
 "AS215269","LAZYCLOUD LTD",1312
 "AS32475","Internap Holding LLC",1263
 "AS36352","HostPapa",1223
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",503
 "AS50360","Tamatiya EOOD",492
-"AS51115","HLL LLC",487
+"AS51115","HLL LLC",488
 "AS53667","FranTech Solutions",468
 "AS212238","Datacamp Limited",460
 "AS12876","ONLINE S.A.S.",446
@@ -1141,6 +1141,7 @@ ASN,Organization,IP_Count
 "AS214882","Hadi Santosa",2
 "AS214967","Optibounce, LLC",2
 "AS21497","PrJSC ""VF UKRAINE""",2
+"AS215240","Silent Connection Ltd.",2
 "AS21559","OSNET Wireless",2
 "AS215761","Muhammed Fatih ASAN",2
 "AS216211","CYBERVERSE LLC",2
@@ -1933,7 +1934,6 @@ ASN,Organization,IP_Count
 "AS214918","ESAGAMES HOSTING SHIELD S.R.L.",1
 "AS215026","Alessandro Accorsi trading as Len Service SRL",1
 "AS215114","Philippe Le Bihan",1
-"AS215240","Silent Connection Ltd.",1
 "AS215284","Nest LLC",1
 "AS215476","Inside Network LTD",1
 "AS215481","Bram de Graaf trading as FlexyNode",1
