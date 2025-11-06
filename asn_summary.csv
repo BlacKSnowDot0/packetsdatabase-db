@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",21977
 "AS398324","Censys, Inc.",13413
 "AS32934","Facebook, Inc.",11264
-"AS396982","Google LLC",10321
+"AS396982","Google LLC",10322
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7907
 "AS16276","OVH SAS",5822
@@ -23,8 +23,8 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2526
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1740
+"AS0","",1631
 "AS214295","SKYNET NETWORK LTD",1631
-"AS0","",1630
 "AS209605","UAB Host Baltic",1522
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1400
@@ -104,7 +104,7 @@ ASN,Organization,IP_Count
 "AS47105","Vault Dweller OU",141
 "AS50219","LNK SYSTEMS MUNTENIA SRL",139
 "AS42237","w1n ltd",136
-"AS29066","velia.net Internetdienste GmbH",133
+"AS29066","velia.net Internetdienste GmbH",134
 "AS262551","Farol Telecom",131
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
@@ -132,7 +132,7 @@ ASN,Organization,IP_Count
 "AS8560","IONOS SE",79
 "AS199785","Cloud Hosting Solutions, Limited.",78
 "AS200019","ALEXHOST SRL",78
-"AS271795","SERVITELCONET CIA. LTDA.",77
+"AS271795","SERVITELCONET CIA. LTDA.",78
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
@@ -867,6 +867,7 @@ ASN,Organization,IP_Count
 "AS214382","Bulent Aydin trading as Hostlayici",3
 "AS21499","Host Europe GmbH",3
 "AS21565","Horry Telephone Cooperative, Inc.",3
+"AS216211","CYBERVERSE LLC",3
 "AS23028","Team Cymru Inc.",3
 "AS23650","Chinanet Jiangsu",3
 "AS24165","UNION BROADBAND NETWORK",3
@@ -1144,7 +1145,6 @@ ASN,Organization,IP_Count
 "AS215240","Silent Connection Ltd.",2
 "AS21559","OSNET Wireless",2
 "AS215761","Muhammed Fatih ASAN",2
-"AS216211","CYBERVERSE LLC",2
 "AS22611","InMotion Hosting, Inc.",2
 "AS22646","Hargray Communications Group, Inc.",2
 "AS23106","AMERICAN TOWER DO BRASIL-COMUNICAÇÂO MULTIMÍDIA LT",2
@@ -2938,6 +2938,7 @@ ASN,Organization,IP_Count
 "AS7065","Sonic.net, LLC",1
 "AS7106","Com Net, Inc.",1
 "AS7363","-Reserved AS-",1
+"AS7488","CNServer LLC",1
 "AS7522","STNet, Incorporated",1
 "AS7602","Sai gon Postel Corporation",1
 "AS7679","QTnet,Inc.",1
