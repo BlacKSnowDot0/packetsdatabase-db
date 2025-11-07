@@ -6,7 +6,7 @@ ASN,Organization,IP_Count
 "AS32934","Facebook, Inc.",11763
 "AS396982","Google LLC",10345
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7932
+"AS14061","DigitalOcean, LLC",7933
 "AS16276","OVH SAS",5826
 "AS4134","Chinanet",5016
 "AS6568","Entel S.A. - EntelNet",4537
@@ -56,7 +56,7 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",645
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",573
-"AS4837","CHINA UNICOM China169 Backbone",570
+"AS4837","CHINA UNICOM China169 Backbone",571
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",555
 "AS9009","M247 Europe SRL",551
@@ -78,7 +78,7 @@ ASN,Organization,IP_Count
 "AS21859","Zenlayer Inc",345
 "AS7922","Comcast Cable Communications, LLC",345
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",328
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",329
 "AS8151","Uninet S.A. de C.V.",322
 "AS214943","Railnet LLC",315
 "AS45899","VNPT Corp",315
@@ -103,7 +103,7 @@ ASN,Organization,IP_Count
 "AS29484","Ruhr-Universitaet Bochum",173
 "AS401116","Nybula LLC",170
 "AS206264","Amarutu Technology Ltd",153
-"AS29066","velia.net Internetdienste GmbH",143
+"AS29066","velia.net Internetdienste GmbH",144
 "AS47105","Vault Dweller OU",141
 "AS50219","LNK SYSTEMS MUNTENIA SRL",139
 "AS42237","w1n ltd",137
@@ -153,7 +153,7 @@ ASN,Organization,IP_Count
 "AS57588","Hayat for Internet & communication LLC",65
 "AS17378","TierPoint, LLC",63
 "AS215590","DpkgSoft International Limited",63
-"AS8402","PJSC ""Vimpelcom""",62
+"AS8402","PJSC ""Vimpelcom""",63
 "AS140717","China Unicom",61
 "AS150263","PT Alnet Telekomunikasi Indonesia",60
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
@@ -272,6 +272,7 @@ ASN,Organization,IP_Count
 "AS198037","SPACECORE SOLUTION LTD",23
 "AS62240","Clouvider Limited",23
 "AS7303","Telecom Argentina S.A.",23
+"AS9123","TimeWeb Ltd.",23
 "AS17561","Larus Limited",22
 "AS213010","Gening Nikita Dmitrievich",22
 "AS214417","Andrii Hrosh",22
@@ -282,7 +283,6 @@ ASN,Organization,IP_Count
 "AS58212","dataforest GmbH",22
 "AS63859","PT. Eka Mas Republik",22
 "AS7029","Windstream Communications LLC",22
-"AS9123","TimeWeb Ltd.",22
 "AS12479","Orange Espagne SA",21
 "AS138886","PT Data Buana Nusantara",21
 "AS17816","China Unicom IP network China169 Guangdong province",21
