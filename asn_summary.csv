@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87730
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21986
-"AS398324","Censys, Inc.",13487
+"AS398324","Censys, Inc.",13488
 "AS32934","Facebook, Inc.",11763
 "AS396982","Google LLC",10347
 "AS26210","AXS Bolivia S. A.",7972
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2559
 "AS6939","Hurricane Electric LLC",2533
 "AS9808","China Mobile",2078
-"AS202425","IP Volume inc",1744
+"AS202425","IP Volume inc",1745
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1522
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -204,10 +204,10 @@ ASN,Organization,IP_Count
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",37
 "AS8167","V tal",37
 "AS210558","1337 Services GmbH",36
+"AS263025","ISPTEC Sistemas de Comunicação Eireli",36
 "AS42624","Global-Data System IT Corporation",36
 "AS1680","Cellcom Fixed Line Communication L.P",35
 "AS213790","Limited Network LTD",35
-"AS263025","ISPTEC Sistemas de Comunicação Eireli",35
 "AS30083","velia.net",35
 "AS5089","Virgin Media Limited",35
 "AS34665","Petersburg Internet Network ltd.",34
@@ -2032,6 +2032,7 @@ ASN,Organization,IP_Count
 "AS262616","Virtual Slice Telecom Ltda",1
 "AS262632","Grajaunet Telecomunicacoes Eireli",1
 "AS262671","VERO S.A",1
+"AS262673","VERO S.A",1
 "AS262691","CONECTA LTDA.",1
 "AS262715","Caezar Provedor de Internet EIRELI",1
 "AS262727","AtualNet Provedor de Internet Ltda",1
