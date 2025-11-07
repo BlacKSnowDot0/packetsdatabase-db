@@ -1,12 +1,12 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87728
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87729
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21982
-"AS398324","Censys, Inc.",13437
+"AS398324","Censys, Inc.",13439
 "AS32934","Facebook, Inc.",11264
-"AS396982","Google LLC",10331
+"AS396982","Google LLC",10333
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7913
+"AS14061","DigitalOcean, LLC",7914
 "AS16276","OVH SAS",5823
 "AS4134","Chinanet",5015
 "AS6568","Entel S.A. - EntelNet",4537
@@ -15,14 +15,14 @@ ASN,Organization,IP_Count
 "AS396998","Path Network, Inc.",3992
 "AS45102","Alibaba (US) Technology Co., Ltd.",3919
 "AS63949","Akamai Technologies, Inc.",3601
-"AS0","",3549
+"AS0","",3550
 "AS15169","Google LLC",3345
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3118
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2744
 "AS142002","Scloud Pte Ltd",2559
-"AS6939","Hurricane Electric LLC",2528
+"AS6939","Hurricane Electric LLC",2529
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1741
 "AS214295","SKYNET NETWORK LTD",1631
@@ -36,10 +36,10 @@ ASN,Organization,IP_Count
 "AS36352","HostPapa",1225
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1176
-"AS174","Cogent Communications",1155
+"AS174","Cogent Communications",1156
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS13335","Cloudflare, Inc.",1128
+"AS13335","Cloudflare, Inc.",1129
 "AS23470","ReliableSite.Net LLC",1094
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",993
@@ -51,12 +51,12 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",752
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
-"AS51167","Contabo GmbH",651
+"AS51167","Contabo GmbH",652
 "AS10439","CariNet, Inc.",644
 "AS14618","Amazon.com, Inc.",640
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",573
-"AS4837","CHINA UNICOM China169 Backbone",567
+"AS4837","CHINA UNICOM China169 Backbone",568
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",554
 "AS9009","M247 Europe SRL",550
@@ -104,8 +104,8 @@ ASN,Organization,IP_Count
 "AS401116","Nybula LLC",170
 "AS206264","Amarutu Technology Ltd",153
 "AS47105","Vault Dweller OU",141
+"AS29066","velia.net Internetdienste GmbH",139
 "AS50219","LNK SYSTEMS MUNTENIA SRL",139
-"AS29066","velia.net Internetdienste GmbH",138
 "AS42237","w1n ltd",137
 "AS262551","Farol Telecom",131
 "AS137409","GSL Networks Pty LTD",128
@@ -145,8 +145,8 @@ ASN,Organization,IP_Count
 "AS52053","REDHEBERG Association declaree",69
 "AS834","IPXO LLC",68
 "AS328867","Corebach Backbone SARL",67
+"AS6739","VODAFONE ONO, S.A.",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
-"AS6739","VODAFONE ONO, S.A.",66
 "AS22773","Cox Communications Inc.",65
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
@@ -208,10 +208,10 @@ ASN,Organization,IP_Count
 "AS30083","velia.net",35
 "AS5089","Virgin Media Limited",35
 "AS1680","Cellcom Fixed Line Communication L.P",34
+"AS263025","ISPTEC Sistemas de Comunicação Eireli",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",34
 "AS9198","JSC Kazakhtelecom",34
-"AS263025","ISPTEC Sistemas de Comunicação Eireli",33
 "AS2856","British Telecommunications PLC",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
@@ -244,6 +244,7 @@ ASN,Organization,IP_Count
 "AS12912","T-Mobile Polska S.A.",26
 "AS13213","UK-2 Limited",26
 "AS141995","Contabo Asia Private Limited",26
+"AS210509","Optimum Line for Internet Services Ltd.",26
 "AS2200","Renater",26
 "AS23693","PT. Telekomunikasi Selular",26
 "AS3209","Vodafone GmbH",26
@@ -251,7 +252,6 @@ ASN,Organization,IP_Count
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS6134","XNNET LLC",26
 "AS200590","NLS Kazakhstan LLC",25
-"AS210509","Optimum Line for Internet Services Ltd.",25
 "AS24560","Bharti Airtel Limited",25
 "AS30058","FDCservers.net",25
 "AS36947","Telecom Algeria",25
