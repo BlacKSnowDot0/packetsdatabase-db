@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",21982
 "AS398324","Censys, Inc.",13453
 "AS32934","Facebook, Inc.",11264
-"AS396982","Google LLC",10333
+"AS396982","Google LLC",10334
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7917
 "AS16276","OVH SAS",5823
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS36352","HostPapa",1228
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1176
-"AS174","Cogent Communications",1158
+"AS174","Cogent Communications",1159
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS13335","Cloudflare, Inc.",1135
@@ -46,13 +46,13 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
-"AS208046","ColocationX Ltd.",820
+"AS208046","ColocationX Ltd.",821
 "AS215925","VPSVAULT.HOST LTD",812
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",752
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
 "AS51167","Contabo GmbH",654
-"AS10439","CariNet, Inc.",644
+"AS10439","CariNet, Inc.",645
 "AS14618","Amazon.com, Inc.",640
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",573
@@ -103,8 +103,8 @@ ASN,Organization,IP_Count
 "AS29484","Ruhr-Universitaet Bochum",172
 "AS401116","Nybula LLC",170
 "AS206264","Amarutu Technology Ltd",153
+"AS29066","velia.net Internetdienste GmbH",141
 "AS47105","Vault Dweller OU",141
-"AS29066","velia.net Internetdienste GmbH",140
 "AS50219","LNK SYSTEMS MUNTENIA SRL",139
 "AS42237","w1n ltd",137
 "AS262551","Farol Telecom",131
@@ -627,6 +627,7 @@ ASN,Organization,IP_Count
 "AS212695","Link Telecom Service Ltd",5
 "AS213851","Marcel Hanisch",5
 "AS214209","Internet Magnate (Pty) Ltd",5
+"AS215240","Silent Connection Ltd.",5
 "AS215311","Regxa Company for Information Technology Ltd",5
 "AS215730","H2NEXUS LTD",5
 "AS22612","Namecheap, Inc.",5
@@ -727,9 +728,9 @@ ASN,Organization,IP_Count
 "AS207957","SERV.HOST GROUP LTD",4
 "AS208040","RSS (RAPID SOFTWARE SYSTEMS) CYPRUS LTD",4
 "AS208208","Marco Lingl trading as Cyberse GmbH & Co. KG",4
+"AS211301","Collin Schneeweiss trading as Unesty Company",4
 "AS212042","Istqrar for Servers Services Ltd",4
 "AS21334","One Hungary Ltd.",4
-"AS215240","Silent Connection Ltd.",4
 "AS215439","PLAY2GO INTERNATIONAL LIMITED",4
 "AS216211","CYBERVERSE LLC",4
 "AS22047","VTR BANDA ANCHA S.A.",4
@@ -868,7 +869,6 @@ ASN,Organization,IP_Count
 "AS203542","IT-PROF LLC",3
 "AS204170","Awaser Oman LLC",3
 "AS208583","Baffin Bay Networks AB",3
-"AS211301","Collin Schneeweiss trading as Unesty Company",3
 "AS211826","Istqrar for Servers Services Ltd",3
 "AS213354","INTERNATIONAL HOSTING SOLUTIONS LLP",3
 "AS214382","Bulent Aydin trading as Hostlayici",3
