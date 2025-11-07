@@ -2,16 +2,16 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87729
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21984
-"AS398324","Censys, Inc.",13468
+"AS398324","Censys, Inc.",13469
 "AS32934","Facebook, Inc.",11308
-"AS396982","Google LLC",10341
+"AS396982","Google LLC",10343
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7921
 "AS16276","OVH SAS",5824
 "AS4134","Chinanet",5015
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4439
-"AS16509","Amazon.com, Inc.",4269
+"AS16509","Amazon.com, Inc.",4289
 "AS396998","Path Network, Inc.",3992
 "AS45102","Alibaba (US) Technology Co., Ltd.",3928
 "AS63949","Akamai Technologies, Inc.",3602
@@ -32,8 +32,8 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1400
 "AS49870","Alsycon B.V.",1337
 "AS215269","LAZYCLOUD LTD",1312
-"AS32475","Internap Holding LLC",1279
-"AS36352","HostPapa",1230
+"AS32475","Internap Holding LLC",1280
+"AS36352","HostPapa",1232
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1176
 "AS174","Cogent Communications",1159
@@ -142,7 +142,7 @@ ASN,Organization,IP_Count
 "AS11320","LightEdge Solutions",73
 "AS31898","Oracle Corporation",73
 "AS3920","ESTOXY OU",71
-"AS6739","VODAFONE ONO, S.A.",70
+"AS6739","VODAFONE ONO, S.A.",71
 "AS52053","REDHEBERG Association declaree",69
 "AS834","IPXO LLC",68
 "AS328867","Corebach Backbone SARL",67
@@ -153,8 +153,8 @@ ASN,Organization,IP_Count
 "AS57588","Hayat for Internet & communication LLC",65
 "AS17378","TierPoint, LLC",63
 "AS215590","DpkgSoft International Limited",63
+"AS8402","PJSC ""Vimpelcom""",62
 "AS140717","China Unicom",61
-"AS8402","PJSC ""Vimpelcom""",61
 "AS150263","PT Alnet Telekomunikasi Indonesia",60
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS4812","China Telecom (Group)",60
@@ -170,9 +170,9 @@ ASN,Organization,IP_Count
 "AS19318","Interserver, Inc",54
 "AS213877","u1host ltd",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
+"AS20001","Charter Communications Inc",53
 "AS20115","Charter Communications",53
 "AS6128","Cablevision Systems Corp.",53
-"AS20001","Charter Communications Inc",52
 "AS200514","KnownSRV Ltd.",52
 "AS210644","AEZA INTERNATIONAL LTD",52
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
@@ -561,6 +561,7 @@ ASN,Organization,IP_Count
 "AS212598","SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.",6
 "AS213893","IPTransit Business LTD",6
 "AS214762","Sebastian Stefanek trading as MatHost.eu",6
+"AS215240","Silent Connection Ltd.",6
 "AS216158","Teleport Rus LLC",6
 "AS216300","Closed Joint Stock Company ""AbkhazMedia""",6
 "AS22724","PUNTONET S.A.",6
@@ -628,7 +629,6 @@ ASN,Organization,IP_Count
 "AS212695","Link Telecom Service Ltd",5
 "AS213851","Marcel Hanisch",5
 "AS214209","Internet Magnate (Pty) Ltd",5
-"AS215240","Silent Connection Ltd.",5
 "AS215311","Regxa Company for Information Technology Ltd",5
 "AS215730","H2NEXUS LTD",5
 "AS22612","Namecheap, Inc.",5
@@ -702,6 +702,7 @@ ASN,Organization,IP_Count
 "AS136121","PT Digital Media Telematika",4
 "AS136280","Costel Networks P Ltd",4
 "AS137453","Orange Communication",4
+"AS138195","MOACK.Co.LTD",4
 "AS140791","BKHOST TECHNOLOGY VIETNAM JOINT STOCK COMPANY",4
 "AS14080","Telmex Colombia S.A.",4
 "AS140869","Turing Group Limited",4
@@ -758,6 +759,7 @@ ASN,Organization,IP_Count
 "AS30753","FHU ""COMPOWER"" Dariusz Krocz",4
 "AS3301","Telia Company AB",4
 "AS3356","Level 3 Communications, Inc.",4
+"AS33647","Yadkin Valley Telephone",4
 "AS35104","Jusan Mobile JSC",4
 "AS35916","MULTACOM CORPORATION",4
 "AS36994","Vodacom",4
@@ -826,7 +828,6 @@ ASN,Organization,IP_Count
 "AS137872","China Mobile Hong Kong Company Limited",3
 "AS137967","Digicon Telecommunication Ltd",3
 "AS138117","PT. Solusindo Basis Teknologi",3
-"AS138195","MOACK.Co.LTD",3
 "AS138871","PT. Trans Indonesia Superkoridor",3
 "AS138995","Antbox Networks Limited",3
 "AS139180","Shandong eshinton Network Technology Co., Ltd.",3
@@ -928,7 +929,6 @@ ASN,Organization,IP_Count
 "AS3303","Swisscom (Schweiz) AG",3
 "AS33567","Econet Telecom Lesotho (PTY) LTD",3
 "AS33616","Co-Mo Comm Inc",3
-"AS33647","Yadkin Valley Telephone",3
 "AS35320","Eurotranstelecom Ltd",3
 "AS35682","BEST INTERNET SOLUTION XK",3
 "AS36884","Wana Corporate",3
