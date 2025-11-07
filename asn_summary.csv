@@ -1,19 +1,19 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87729
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87730
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21984
-"AS398324","Censys, Inc.",13471
-"AS32934","Facebook, Inc.",11308
-"AS396982","Google LLC",10343
+"AS398324","Censys, Inc.",13472
+"AS32934","Facebook, Inc.",11330
+"AS396982","Google LLC",10344
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7921
 "AS16276","OVH SAS",5824
 "AS4134","Chinanet",5015
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4439
-"AS16509","Amazon.com, Inc.",4297
+"AS16509","Amazon.com, Inc.",4309
 "AS396998","Path Network, Inc.",3992
-"AS45102","Alibaba (US) Technology Co., Ltd.",3928
+"AS45102","Alibaba (US) Technology Co., Ltd.",3930
 "AS63949","Akamai Technologies, Inc.",3602
 "AS0","",3552
 "AS15169","Google LLC",3345
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1337
 "AS215269","LAZYCLOUD LTD",1312
 "AS32475","Internap Holding LLC",1280
-"AS36352","HostPapa",1232
+"AS36352","HostPapa",1233
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1176
 "AS174","Cogent Communications",1159
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
 "AS51167","Contabo GmbH",654
 "AS10439","CariNet, Inc.",645
-"AS14618","Amazon.com, Inc.",641
+"AS14618","Amazon.com, Inc.",642
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",573
 "AS4837","CHINA UNICOM China169 Backbone",569
@@ -79,7 +79,7 @@ ASN,Organization,IP_Count
 "AS7922","Comcast Cable Communications, LLC",345
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",328
-"AS8151","Uninet S.A. de C.V.",320
+"AS8151","Uninet S.A. de C.V.",321
 "AS214943","Railnet LLC",315
 "AS45899","VNPT Corp",315
 "AS24863","LINKdotNET AS number",307
