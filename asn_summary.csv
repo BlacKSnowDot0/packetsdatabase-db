@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1401
 "AS49870","Alsycon B.V.",1337
 "AS215269","LAZYCLOUD LTD",1312
-"AS32475","Internap Holding LLC",1281
+"AS32475","Internap Holding LLC",1282
 "AS36352","HostPapa",1235
 "AS13335","Cloudflare, Inc.",1223
 "AS204428","SS-Net",1182
@@ -515,6 +515,7 @@ ASN,Organization,IP_Count
 "AS204631","VIVANET GmbH",7
 "AS207506","""NEWNET"" LLC",7
 "AS2119","Telenor Norge AS",7
+"AS215240","Silent Connection Ltd.",7
 "AS215599","Zkillu SAS",7
 "AS215672","MoeChuang Network Limited",7
 "AS24961","WIIT AG",7
@@ -553,6 +554,7 @@ ASN,Organization,IP_Count
 "AS16611","InfiniaHost.com",6
 "AS17754","Excellmedia",6
 "AS198323","TOV Informatsiyni Kirovohrads'ki Systemy",6
+"AS201838","Community Fibre Limited",6
 "AS203020","HostRoyale Technologies Pvt Ltd",6
 "AS210538","KEYUBU Internet ve Bilisim Tic. Ltd. Sti.",6
 "AS21056","Vianova S.p.A",6
@@ -561,7 +563,6 @@ ASN,Organization,IP_Count
 "AS212598","SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.",6
 "AS213893","IPTransit Business LTD",6
 "AS214762","Sebastian Stefanek trading as MatHost.eu",6
-"AS215240","Silent Connection Ltd.",6
 "AS216158","Teleport Rus LLC",6
 "AS216300","Closed Joint Stock Company ""AbkhazMedia""",6
 "AS22724","PUNTONET S.A.",6
@@ -620,7 +621,6 @@ ASN,Organization,IP_Count
 "AS18229","CtrlS",5
 "AS198253","Kukushkin Anatoly Valerievich",5
 "AS198983","Joseph Hofmann trading as 'Tornado Datacenter GmbH & Co. KG'",5
-"AS201838","Community Fibre Limited",5
 "AS202468","Noyan Abr Arvan Co. ( Private Joint Stock)",5
 "AS202796","JSR IT B.V.",5
 "AS20412","Clarity Telecom LLC",5
