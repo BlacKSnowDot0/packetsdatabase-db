@@ -6,19 +6,19 @@ ASN,Organization,IP_Count
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10333
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7916
+"AS14061","DigitalOcean, LLC",7917
 "AS16276","OVH SAS",5823
 "AS4134","Chinanet",5015
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4439
 "AS16509","Amazon.com, Inc.",4265
 "AS396998","Path Network, Inc.",3992
-"AS45102","Alibaba (US) Technology Co., Ltd.",3919
-"AS63949","Akamai Technologies, Inc.",3601
+"AS45102","Alibaba (US) Technology Co., Ltd.",3920
+"AS63949","Akamai Technologies, Inc.",3602
 "AS0","",3550
 "AS15169","Google LLC",3345
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3118
+"AS51396","Pfcloud UG",3119
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2746
 "AS142002","Scloud Pte Ltd",2559
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",752
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
-"AS51167","Contabo GmbH",653
+"AS51167","Contabo GmbH",654
 "AS10439","CariNet, Inc.",644
 "AS14618","Amazon.com, Inc.",640
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -231,12 +231,12 @@ ASN,Organization,IP_Count
 "AS9931","CAT Telecom Public Company Limited",29
 "AS141679","China Telecom",28
 "AS149705","PT Wijaya Trimitra Indonesia",28
+"AS204834","Shabakieh Isfahan Co PJSC",28
 "AS30860","Virtual Systems LLC",28
 "AS3269","Telecom Italia S.p.A.",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS1103","SURF B.V.",27
 "AS146817","Hubei Feixun Network Co., Ltd",27
-"AS204834","Shabakieh Isfahan Co PJSC",27
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",27
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
@@ -247,13 +247,13 @@ ASN,Organization,IP_Count
 "AS210509","Optimum Line for Internet Services Ltd.",26
 "AS2200","Renater",26
 "AS23693","PT. Telekomunikasi Selular",26
+"AS30058","FDCservers.net",26
 "AS3209","Vodafone GmbH",26
 "AS55933","Cloudie Limited",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS6134","XNNET LLC",26
 "AS200590","NLS Kazakhstan LLC",25
 "AS24560","Bharti Airtel Limited",25
-"AS30058","FDCservers.net",25
 "AS36947","Telecom Algeria",25
 "AS53118","NETLINE TELECOM",25
 "AS55836","Reliance Jio Infocomm Limited",25
