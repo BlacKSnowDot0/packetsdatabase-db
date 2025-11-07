@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87730
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21986
-"AS398324","Censys, Inc.",13484
+"AS398324","Censys, Inc.",13485
 "AS32934","Facebook, Inc.",11763
-"AS396982","Google LLC",10345
+"AS396982","Google LLC",10346
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7933
 "AS16276","OVH SAS",5826
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3119
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2747
+"AS8075","Microsoft Corporation",2748
 "AS142002","Scloud Pte Ltd",2559
 "AS6939","Hurricane Electric LLC",2533
 "AS9808","China Mobile",2078
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1401
 "AS49870","Alsycon B.V.",1337
 "AS215269","LAZYCLOUD LTD",1312
-"AS32475","Internap Holding LLC",1280
+"AS32475","Internap Holding LLC",1281
 "AS36352","HostPapa",1235
 "AS13335","Cloudflare, Inc.",1223
 "AS204428","SS-Net",1182
@@ -139,9 +139,9 @@ ASN,Organization,IP_Count
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
 "AS56046","China Mobile Communications Corporation",74
+"AS6739","VODAFONE ONO, S.A.",74
 "AS11320","LightEdge Solutions",73
 "AS31898","Oracle Corporation",73
-"AS6739","VODAFONE ONO, S.A.",73
 "AS3920","ESTOXY OU",71
 "AS52053","REDHEBERG Association declaree",69
 "AS22773","Cox Communications Inc.",68
@@ -238,6 +238,7 @@ ASN,Organization,IP_Count
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS1103","SURF B.V.",27
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",27
+"AS30058","FDCservers.net",27
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
 "AS6134","XNNET LLC",27
@@ -249,7 +250,6 @@ ASN,Organization,IP_Count
 "AS210509","Optimum Line for Internet Services Ltd.",26
 "AS2200","Renater",26
 "AS23693","PT. Telekomunikasi Selular",26
-"AS30058","FDCservers.net",26
 "AS3209","Vodafone GmbH",26
 "AS55933","Cloudie Limited",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
@@ -1219,6 +1219,7 @@ ASN,Organization,IP_Count
 "AS265499","GS Telecomunicações Ltda",2
 "AS265691","WI-NET TELECOM S.A.C.",2
 "AS265787","MERCREDI S.A.",2
+"AS266015","JC2000 Telecomunicações Ltda",2
 "AS266188","bipNET Internet Banda Larga",2
 "AS266253","C A DE SOUZA -­ EPP",2
 "AS266381","Inteligence Net",2
@@ -2178,7 +2179,6 @@ ASN,Organization,IP_Count
 "AS265978","WM TELECOM",1
 "AS265989","NETS TELECOMUNICACOES LTDA",1
 "AS266011","FABLINUXER CONNECT TELECOMUNICAÇÕES",1
-"AS266015","JC2000 Telecomunicações Ltda",1
 "AS266020","Iclick Telecom",1
 "AS266044","Nicnet Telecom Ltda.",1
 "AS266095","SIM TELECOM EIRELI",1
