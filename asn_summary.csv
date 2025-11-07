@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87729
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21984
-"AS398324","Censys, Inc.",13469
+"AS398324","Censys, Inc.",13471
 "AS32934","Facebook, Inc.",11308
 "AS396982","Google LLC",10343
 "AS26210","AXS Bolivia S. A.",7972
@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS4134","Chinanet",5015
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4439
-"AS16509","Amazon.com, Inc.",4289
+"AS16509","Amazon.com, Inc.",4297
 "AS396998","Path Network, Inc.",3992
 "AS45102","Alibaba (US) Technology Co., Ltd.",3928
 "AS63949","Akamai Technologies, Inc.",3602
@@ -22,7 +22,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2746
 "AS142002","Scloud Pte Ltd",2559
-"AS6939","Hurricane Electric LLC",2532
+"AS6939","Hurricane Electric LLC",2533
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1743
 "AS214295","SKYNET NETWORK LTD",1631
@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1176
 "AS174","Cogent Communications",1159
-"AS13335","Cloudflare, Inc.",1142
+"AS13335","Cloudflare, Inc.",1144
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS23470","ReliableSite.Net LLC",1094
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
 "AS51167","Contabo GmbH",654
 "AS10439","CariNet, Inc.",645
-"AS14618","Amazon.com, Inc.",640
+"AS14618","Amazon.com, Inc.",641
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",573
 "AS4837","CHINA UNICOM China169 Backbone",569
@@ -103,7 +103,7 @@ ASN,Organization,IP_Count
 "AS29484","Ruhr-Universitaet Bochum",173
 "AS401116","Nybula LLC",170
 "AS206264","Amarutu Technology Ltd",153
-"AS29066","velia.net Internetdienste GmbH",141
+"AS29066","velia.net Internetdienste GmbH",142
 "AS47105","Vault Dweller OU",141
 "AS50219","LNK SYSTEMS MUNTENIA SRL",139
 "AS42237","w1n ltd",137
@@ -443,6 +443,7 @@ ASN,Organization,IP_Count
 "AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",10
 "AS41420","Xentech B.V.",10
 "AS47524","Turksat Uydu Haberlesme ve Kablo TV Isletme A.S.",10
+"AS48282","Hosting technology LTD",10
 "AS49434","FBW NETWORKS SAS",10
 "AS50304","Blix Solutions AS",10
 "AS52468","UFINET PANAMA S.A.",10
@@ -471,7 +472,6 @@ ASN,Organization,IP_Count
 "AS40244","Turnkey Internet Inc.",9
 "AS4609","Companhia de Telecomunicacoes de Macau",9
 "AS46606","Unified Layer",9
-"AS48282","Hosting technology LTD",9
 "AS48874","HOSTMAZE INC SRL-D",9
 "AS8346","SONATEL-AS Autonomous System",9
 "AS9038","Batelco Jordan",9
