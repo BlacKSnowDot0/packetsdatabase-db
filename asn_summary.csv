@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87730
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21985
-"AS398324","Censys, Inc.",13477
-"AS32934","Facebook, Inc.",11535
+"AS398324","Censys, Inc.",13479
+"AS32934","Facebook, Inc.",11589
 "AS396982","Google LLC",10345
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7928
+"AS14061","DigitalOcean, LLC",7929
 "AS16276","OVH SAS",5825
 "AS4134","Chinanet",5015
 "AS6568","Entel S.A. - EntelNet",4537
@@ -16,7 +16,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",3931
 "AS63949","Akamai Technologies, Inc.",3603
 "AS0","",3552
-"AS15169","Google LLC",3346
+"AS15169","Google LLC",3347
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3119
 "AS213412","ONYPHE SAS",2795
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2559
 "AS6939","Hurricane Electric LLC",2533
 "AS9808","China Mobile",2078
-"AS202425","IP Volume inc",1743
+"AS202425","IP Volume inc",1744
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1522
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -34,8 +34,8 @@ ASN,Organization,IP_Count
 "AS215269","LAZYCLOUD LTD",1312
 "AS32475","Internap Holding LLC",1280
 "AS36352","HostPapa",1234
+"AS13335","Cloudflare, Inc.",1193
 "AS204428","SS-Net",1182
-"AS13335","Cloudflare, Inc.",1179
 "AS22552","eSited Solutions",1176
 "AS174","Cogent Communications",1159
 "AS399045","DediOutlet, LLC",1142
@@ -94,7 +94,7 @@ ASN,Organization,IP_Count
 "AS209272","Alviva Holding Limited",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS701","Verizon Business",220
-"AS141718","haoxiangyun",217
+"AS141718","haoxiangyun",218
 "AS14987","Rethem Hosting LLC",215
 "AS12389","PJSC Rostelecom",190
 "AS12555","Data-center IMAQLIQ Ltd.",190
