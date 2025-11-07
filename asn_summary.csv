@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87730
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21986
-"AS398324","Censys, Inc.",13483
+"AS398324","Censys, Inc.",13484
 "AS32934","Facebook, Inc.",11763
 "AS396982","Google LLC",10345
 "AS26210","AXS Bolivia S. A.",7972
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3119
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2746
+"AS8075","Microsoft Corporation",2747
 "AS142002","Scloud Pte Ltd",2559
 "AS6939","Hurricane Electric LLC",2533
 "AS9808","China Mobile",2078
@@ -88,9 +88,9 @@ ASN,Organization,IP_Count
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",286
 "AS213613","BOTSHIELD LTD",264
 "AS48090","TECHOFF SRV LIMITED",254
+"AS208843","Alpha Strike Labs GmbH",250
 "AS60223","Netiface Limited",250
 "AS18403","FPT Telecom Company",249
-"AS208843","Alpha Strike Labs GmbH",249
 "AS209272","Alviva Holding Limited",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS701","Verizon Business",220
@@ -1407,6 +1407,7 @@ ASN,Organization,IP_Count
 "AS56607","Privately owned entrepreneur Chabanov Andrey Alexandrovich",2
 "AS57043","HOSTKEY B.V.",2
 "AS57494","Adman LLC",2
+"AS58087","Florian Kolb",2
 "AS58291","ColoCenter b.v.",2
 "AS58309","Langate Ltd",2
 "AS58397","PT Infinys System Indonesia",2
@@ -2863,7 +2864,6 @@ ASN,Organization,IP_Count
 "AS57962","LLC "" Ug telekom grup """,1
 "AS58037","""Masterra.ru"" LLC",1
 "AS58061","Scalaxy B.V.",1
-"AS58087","Florian Kolb",1
 "AS58172","FREEDOM TELECOM LLP",1
 "AS58293","ALFA ILETISIM HIZMETLERI PAZARLAMA TICARET A.S.",1
 "AS58314","SvyazResurs-Kuban, LLC",1
