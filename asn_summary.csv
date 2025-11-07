@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",21984
 "AS398324","Censys, Inc.",13468
 "AS32934","Facebook, Inc.",11308
-"AS396982","Google LLC",10339
+"AS396982","Google LLC",10341
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7921
 "AS16276","OVH SAS",5824
@@ -32,13 +32,13 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1400
 "AS49870","Alsycon B.V.",1337
 "AS215269","LAZYCLOUD LTD",1312
-"AS32475","Internap Holding LLC",1278
+"AS32475","Internap Holding LLC",1279
 "AS36352","HostPapa",1230
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1176
 "AS174","Cogent Communications",1159
+"AS13335","Cloudflare, Inc.",1142
 "AS399045","DediOutlet, LLC",1142
-"AS13335","Cloudflare, Inc.",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS23470","ReliableSite.Net LLC",1094
 "AS201401","NewVM B.V.",1076
@@ -78,7 +78,7 @@ ASN,Organization,IP_Count
 "AS21859","Zenlayer Inc",345
 "AS7922","Comcast Cable Communications, LLC",345
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",326
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",328
 "AS8151","Uninet S.A. de C.V.",320
 "AS214943","Railnet LLC",315
 "AS45899","VNPT Corp",315
