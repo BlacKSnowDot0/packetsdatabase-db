@@ -1,12 +1,12 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87730
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
-"AS211298","Driftnet Ltd",21984
+"AS211298","Driftnet Ltd",21985
 "AS398324","Censys, Inc.",13477
-"AS32934","Facebook, Inc.",11504
+"AS32934","Facebook, Inc.",11515
 "AS396982","Google LLC",10345
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7922
+"AS14061","DigitalOcean, LLC",7928
 "AS16276","OVH SAS",5825
 "AS4134","Chinanet",5015
 "AS6568","Entel S.A. - EntelNet",4537
@@ -16,7 +16,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",3931
 "AS63949","Akamai Technologies, Inc.",3603
 "AS0","",3552
-"AS15169","Google LLC",3345
+"AS15169","Google LLC",3346
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3119
 "AS213412","ONYPHE SAS",2795
@@ -35,8 +35,8 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",1280
 "AS36352","HostPapa",1234
 "AS204428","SS-Net",1182
+"AS13335","Cloudflare, Inc.",1178
 "AS22552","eSited Solutions",1176
-"AS13335","Cloudflare, Inc.",1165
 "AS174","Cogent Communications",1159
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
@@ -126,12 +126,12 @@ ASN,Organization,IP_Count
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS58461","Chinanet",85
 "AS4766","Korea Telecom",83
+"AS136435","ELITE COMMUNICATION",81
 "AS16735","ALGAR TELECOM S/A",81
 "AS28209","Under Servicos de Internet Ltda",81
 "AS40021","Nubes, LLC",81
 "AS5617","Orange Polska Spolka Akcyjna",81
 "AS8560","IONOS SE",81
-"AS136435","ELITE COMMUNICATION",80
 "AS199785","Cloud Hosting Solutions, Limited.",78
 "AS200019","ALEXHOST SRL",78
 "AS271795","SERVITELCONET CIA. LTDA.",78
