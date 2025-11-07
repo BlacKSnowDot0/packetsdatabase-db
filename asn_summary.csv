@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87729
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21982
-"AS398324","Censys, Inc.",13451
+"AS398324","Censys, Inc.",13453
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10333
 "AS26210","AXS Bolivia S. A.",7972
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4439
 "AS16509","Amazon.com, Inc.",4265
 "AS396998","Path Network, Inc.",3992
-"AS45102","Alibaba (US) Technology Co., Ltd.",3920
+"AS45102","Alibaba (US) Technology Co., Ltd.",3922
 "AS63949","Akamai Technologies, Inc.",3602
 "AS0","",3552
 "AS15169","Google LLC",3345
@@ -39,7 +39,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1158
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS13335","Cloudflare, Inc.",1133
+"AS13335","Cloudflare, Inc.",1135
 "AS23470","ReliableSite.Net LLC",1094
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",993
@@ -70,7 +70,7 @@ ASN,Organization,IP_Count
 "AS12876","ONLINE S.A.S.",451
 "AS9829","Bharat Sanchar Nigam Ltd",441
 "AS21299","Kar-Tel LLC",406
-"AS24186","RailTel Corporation of India Ltd.",404
+"AS24186","RailTel Corporation of India Ltd.",405
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS7018","AT&T Enterprises, LLC",379
 "AS7713","Telekomunikasi Indonesia (PT)",366
@@ -104,7 +104,7 @@ ASN,Organization,IP_Count
 "AS401116","Nybula LLC",170
 "AS206264","Amarutu Technology Ltd",153
 "AS47105","Vault Dweller OU",141
-"AS29066","velia.net Internetdienste GmbH",139
+"AS29066","velia.net Internetdienste GmbH",140
 "AS50219","LNK SYSTEMS MUNTENIA SRL",139
 "AS42237","w1n ltd",137
 "AS262551","Farol Telecom",131
@@ -193,9 +193,9 @@ ASN,Organization,IP_Count
 "AS21928","T-Mobile USA, Inc.",40
 "AS23969","TOT Public Company Limited",40
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",40
+"AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",40
 "AS5650","Frontier Communications of America, Inc.",40
 "AS27699","TELEFÔNICA BRASIL S.A",39
-"AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",39
 "AS8048","CANTV Servicios, Venezuela",39
 "AS26599","TELEFÔNICA BRASIL S.A",38
 "AS4538","China Education and Research Network Center",38
@@ -205,11 +205,11 @@ ASN,Organization,IP_Count
 "AS42624","Global-Data System IT Corporation",36
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",36
 "AS213790","Limited Network LTD",35
+"AS2856","British Telecommunications PLC",35
 "AS30083","velia.net",35
 "AS5089","Virgin Media Limited",35
 "AS1680","Cellcom Fixed Line Communication L.P",34
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",34
-"AS2856","British Telecommunications PLC",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",34
 "AS9198","JSC Kazakhtelecom",34
