@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87730
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
-"AS211298","Driftnet Ltd",21985
-"AS398324","Censys, Inc.",13481
+"AS211298","Driftnet Ltd",21986
+"AS398324","Censys, Inc.",13483
 "AS32934","Facebook, Inc.",11763
 "AS396982","Google LLC",10345
 "AS26210","AXS Bolivia S. A.",7972
@@ -56,7 +56,7 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",645
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",573
-"AS4837","CHINA UNICOM China169 Backbone",571
+"AS4837","CHINA UNICOM China169 Backbone",572
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",555
 "AS9009","M247 Europe SRL",551
@@ -78,7 +78,7 @@ ASN,Organization,IP_Count
 "AS21859","Zenlayer Inc",345
 "AS7922","Comcast Cable Communications, LLC",345
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",329
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",330
 "AS8151","Uninet S.A. de C.V.",322
 "AS214943","Railnet LLC",315
 "AS45899","VNPT Corp",315
@@ -141,7 +141,7 @@ ASN,Organization,IP_Count
 "AS56046","China Mobile Communications Corporation",74
 "AS11320","LightEdge Solutions",73
 "AS31898","Oracle Corporation",73
-"AS6739","VODAFONE ONO, S.A.",72
+"AS6739","VODAFONE ONO, S.A.",73
 "AS3920","ESTOXY OU",71
 "AS52053","REDHEBERG Association declaree",69
 "AS22773","Cox Communications Inc.",68
