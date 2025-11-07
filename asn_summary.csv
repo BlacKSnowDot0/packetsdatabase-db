@@ -16,7 +16,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",3932
 "AS63949","Akamai Technologies, Inc.",3603
 "AS0","",3552
-"AS15169","Google LLC",3347
+"AS15169","Google LLC",3348
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3119
 "AS213412","ONYPHE SAS",2795
@@ -40,7 +40,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1159
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS23470","ReliableSite.Net LLC",1094
+"AS23470","ReliableSite.Net LLC",1095
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",994
 "AS51852","Private Layer INC",907
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",491
 "AS53667","FranTech Solutions",473
 "AS212238","Datacamp Limited",460
-"AS12876","ONLINE S.A.S.",452
+"AS12876","ONLINE S.A.S.",453
 "AS9829","Bharat Sanchar Nigam Ltd",442
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",405
@@ -173,8 +173,8 @@ ASN,Organization,IP_Count
 "AS6128","Cablevision Systems Corp.",54
 "AS20001","Charter Communications Inc",53
 "AS20115","Charter Communications",53
+"AS210644","AEZA INTERNATIONAL LTD",53
 "AS200514","KnownSRV Ltd.",52
-"AS210644","AEZA INTERNATIONAL LTD",52
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS149746","PT Blip Integrator Provider",48
 "AS266181","GOLDEN LINK",48
@@ -200,11 +200,11 @@ ASN,Organization,IP_Count
 "AS26599","TELEFÔNICA BRASIL S.A",38
 "AS4538","China Education and Research Network Center",38
 "AS20473","The Constant Company, LLC",37
+"AS2856","British Telecommunications PLC",37
+"AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",37
 "AS8167","V tal",37
 "AS210558","1337 Services GmbH",36
-"AS2856","British Telecommunications PLC",36
 "AS42624","Global-Data System IT Corporation",36
-"AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",36
 "AS1680","Cellcom Fixed Line Communication L.P",35
 "AS213790","Limited Network LTD",35
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",35
@@ -245,6 +245,7 @@ ASN,Organization,IP_Count
 "AS12912","T-Mobile Polska S.A.",26
 "AS13213","UK-2 Limited",26
 "AS141995","Contabo Asia Private Limited",26
+"AS200590","NLS Kazakhstan LLC",26
 "AS210509","Optimum Line for Internet Services Ltd.",26
 "AS2200","Renater",26
 "AS23693","PT. Telekomunikasi Selular",26
@@ -253,7 +254,6 @@ ASN,Organization,IP_Count
 "AS55933","Cloudie Limited",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS17995","PT iForte Global Internet",25
-"AS200590","NLS Kazakhstan LLC",25
 "AS24560","Bharti Airtel Limited",25
 "AS36947","Telecom Algeria",25
 "AS53118","NETLINE TELECOM",25
@@ -927,6 +927,7 @@ ASN,Organization,IP_Count
 "AS328073","Ion Telecom and Technology",3
 "AS32809","Dickey Rural Networks",3
 "AS3303","Swisscom (Schweiz) AG",3
+"AS33070","Rackspace Hosting",3
 "AS33567","Econet Telecom Lesotho (PTY) LTD",3
 "AS33616","Co-Mo Comm Inc",3
 "AS35320","Eurotranstelecom Ltd",3
@@ -1280,7 +1281,6 @@ ASN,Organization,IP_Count
 "AS328282","TEOLIS SAU",2
 "AS328480","Too Much Wifi",2
 "AS328961","NET99 (PTY) LTD",2
-"AS33070","Rackspace Hosting",2
 "AS33387","Nocix, LLC",2
 "AS33765","TANZANIA TELECOMMUNICATIONS CO. LTD",2
 "AS34123","Netorn LLC",2
