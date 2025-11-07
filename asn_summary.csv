@@ -1,10 +1,10 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87729
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
-"AS211298","Driftnet Ltd",21982
-"AS398324","Censys, Inc.",13461
+"AS211298","Driftnet Ltd",21983
+"AS398324","Censys, Inc.",13462
 "AS32934","Facebook, Inc.",11264
-"AS396982","Google LLC",10336
+"AS396982","Google LLC",10337
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7919
 "AS16276","OVH SAS",5824
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4439
 "AS16509","Amazon.com, Inc.",4265
 "AS396998","Path Network, Inc.",3992
-"AS45102","Alibaba (US) Technology Co., Ltd.",3925
+"AS45102","Alibaba (US) Technology Co., Ltd.",3928
 "AS63949","Akamai Technologies, Inc.",3602
 "AS0","",3552
 "AS15169","Google LLC",3345
@@ -147,7 +147,7 @@ ASN,Organization,IP_Count
 "AS834","IPXO LLC",68
 "AS328867","Corebach Backbone SARL",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
-"AS22773","Cox Communications Inc.",65
+"AS22773","Cox Communications Inc.",66
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS57588","Hayat for Internet & communication LLC",65
@@ -204,11 +204,11 @@ ASN,Organization,IP_Count
 "AS210558","1337 Services GmbH",36
 "AS42624","Global-Data System IT Corporation",36
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",36
+"AS1680","Cellcom Fixed Line Communication L.P",35
 "AS213790","Limited Network LTD",35
 "AS2856","British Telecommunications PLC",35
 "AS30083","velia.net",35
 "AS5089","Virgin Media Limited",35
-"AS1680","Cellcom Fixed Line Communication L.P",34
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",34
