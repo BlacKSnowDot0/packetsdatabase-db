@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",752
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
 "AS51167","Contabo GmbH",654
-"AS10439","CariNet, Inc.",646
+"AS10439","CariNet, Inc.",647
 "AS14618","Amazon.com, Inc.",645
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",573
@@ -603,6 +603,7 @@ ASN,Organization,IP_Count
 "AS12714","PJSC MegaFon",5
 "AS131267","Star Telecom",5
 "AS13188","CONTENT DELIVERY NETWORK LTD",5
+"AS13430","THE WISP.NET CORP.",5
 "AS13489","EPM Telecomunicaciones S.A. E.S.P.",5
 "AS135357","HONG KONG KOWLOON TELECOMMUNICATIONS CO.,LIMITED",5
 "AS136188","NINGBO, ZHEJIANG Province, P.R.China.",5
@@ -694,7 +695,6 @@ ASN,Organization,IP_Count
 "AS131090","CAT Telecom Public Company Limited",4
 "AS13110","INEA sp. z o.o.",4
 "AS131607","Digidom CableTV Co., LTD.",4
-"AS13430","THE WISP.NET CORP.",4
 "AS135089","China Telecom",4
 "AS135411","Red Grapes Pte Ltd",4
 "AS135905","VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",4
