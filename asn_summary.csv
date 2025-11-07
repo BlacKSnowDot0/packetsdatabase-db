@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87729
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21982
-"AS398324","Censys, Inc.",13439
+"AS398324","Censys, Inc.",13442
 "AS32934","Facebook, Inc.",11264
 "AS396982","Google LLC",10333
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7914
+"AS14061","DigitalOcean, LLC",7915
 "AS16276","OVH SAS",5823
 "AS4134","Chinanet",5015
 "AS6568","Entel S.A. - EntelNet",4537
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3118
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2744
+"AS8075","Microsoft Corporation",2745
 "AS142002","Scloud Pte Ltd",2559
 "AS6939","Hurricane Electric LLC",2529
 "AS9808","China Mobile",2078
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1337
 "AS215269","LAZYCLOUD LTD",1312
 "AS32475","Internap Holding LLC",1274
-"AS36352","HostPapa",1225
+"AS36352","HostPapa",1227
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1176
 "AS174","Cogent Communications",1156
@@ -56,9 +56,9 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",640
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",573
-"AS4837","CHINA UNICOM China169 Backbone",568
+"AS4837","CHINA UNICOM China169 Backbone",569
 "AS31148","Freenet LTD",558
-"AS401120","cheapy.host LLC",554
+"AS401120","cheapy.host LLC",555
 "AS9009","M247 Europe SRL",550
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",491
 "AS53667","FranTech Solutions",472
 "AS212238","Datacamp Limited",460
-"AS12876","ONLINE S.A.S.",449
+"AS12876","ONLINE S.A.S.",451
 "AS9829","Bharat Sanchar Nigam Ltd",441
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",404
@@ -143,9 +143,9 @@ ASN,Organization,IP_Count
 "AS31898","Oracle Corporation",73
 "AS3920","ESTOXY OU",71
 "AS52053","REDHEBERG Association declaree",69
+"AS6739","VODAFONE ONO, S.A.",68
 "AS834","IPXO LLC",68
 "AS328867","Corebach Backbone SARL",67
-"AS6739","VODAFONE ONO, S.A.",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
 "AS22773","Cox Communications Inc.",65
 "AS398101","GoDaddy.com, LLC",65
@@ -166,9 +166,9 @@ ASN,Organization,IP_Count
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
+"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",55
 "AS19318","Interserver, Inc",54
 "AS213877","u1host ltd",54
-"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS6128","Cablevision Systems Corp.",53
 "AS20001","Charter Communications Inc",52
@@ -209,10 +209,10 @@ ASN,Organization,IP_Count
 "AS5089","Virgin Media Limited",35
 "AS1680","Cellcom Fixed Line Communication L.P",34
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",34
+"AS2856","British Telecommunications PLC",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",34
 "AS9198","JSC Kazakhtelecom",34
-"AS2856","British Telecommunications PLC",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
 "AS12322","Free SAS",32
@@ -275,6 +275,7 @@ ASN,Organization,IP_Count
 "AS17561","Larus Limited",22
 "AS213010","Gening Nikita Dmitrievich",22
 "AS214417","Andrii Hrosh",22
+"AS329490","Promethean Consulting Limited",22
 "AS43289","Trabia SRL",22
 "AS43641","SOLLUTIUM EU Sp z.o.o.",22
 "AS51430","AltusHost B.V.",22
@@ -286,7 +287,6 @@ ASN,Organization,IP_Count
 "AS138886","PT Data Buana Nusantara",21
 "AS17816","China Unicom IP network China169 Guangdong province",21
 "AS214668","AxusHost B.V.",21
-"AS329490","Promethean Consulting Limited",21
 "AS3320","Deutsche Telekom AG",21
 "AS400536","Nodestop LLC",21
 "AS45758","Triple T Broadband Public Company Limited",21
@@ -930,6 +930,7 @@ ASN,Organization,IP_Count
 "AS33616","Co-Mo Comm Inc",3
 "AS33647","Yadkin Valley Telephone",3
 "AS35320","Eurotranstelecom Ltd",3
+"AS35682","BEST INTERNET SOLUTION XK",3
 "AS36884","Wana Corporate",3
 "AS36925","MEDITELECOM",3
 "AS37049","South African Digital Villages (Pty) Ltd",3
@@ -1287,7 +1288,6 @@ ASN,Organization,IP_Count
 "AS34779","T-2, d.o.o.",2
 "AS35213","TOV ""Kompjuternie Merezhi""",2
 "AS35586","VOLYN OPTICAL NETWORKS LLC",2
-"AS35682","BEST INTERNET SOLUTION XK",2
 "AS35986","Vyve Broadband",2
 "AS36692","Cisco OpenDNS, LLC",2
 "AS36728","Emery Telcom",2
