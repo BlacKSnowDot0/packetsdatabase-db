@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87729
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21984
-"AS398324","Censys, Inc.",13466
-"AS32934","Facebook, Inc.",11264
+"AS398324","Censys, Inc.",13468
+"AS32934","Facebook, Inc.",11308
 "AS396982","Google LLC",10339
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7921
@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS4134","Chinanet",5015
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4439
-"AS16509","Amazon.com, Inc.",4265
+"AS16509","Amazon.com, Inc.",4269
 "AS396998","Path Network, Inc.",3992
 "AS45102","Alibaba (US) Technology Co., Ltd.",3928
 "AS63949","Akamai Technologies, Inc.",3602
@@ -22,9 +22,9 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2746
 "AS142002","Scloud Pte Ltd",2559
-"AS6939","Hurricane Electric LLC",2531
+"AS6939","Hurricane Electric LLC",2532
 "AS9808","China Mobile",2078
-"AS202425","IP Volume inc",1742
+"AS202425","IP Volume inc",1743
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1522
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -38,7 +38,7 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1176
 "AS174","Cogent Communications",1159
 "AS399045","DediOutlet, LLC",1142
-"AS13335","Cloudflare, Inc.",1138
+"AS13335","Cloudflare, Inc.",1140
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS23470","ReliableSite.Net LLC",1094
 "AS201401","NewVM B.V.",1076
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",503
 "AS50360","Tamatiya EOOD",492
 "AS51115","HLL LLC",491
-"AS53667","FranTech Solutions",472
+"AS53667","FranTech Solutions",473
 "AS212238","Datacamp Limited",460
 "AS12876","ONLINE S.A.S.",452
 "AS9829","Bharat Sanchar Nigam Ltd",441
