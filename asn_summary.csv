@@ -3,10 +3,10 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21989
 "AS398324","Censys, Inc.",13503
-"AS32934","Facebook, Inc.",11763
+"AS32934","Facebook, Inc.",11773
 "AS396982","Google LLC",10354
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7938
+"AS14061","DigitalOcean, LLC",7939
 "AS16276","OVH SAS",5826
 "AS4134","Chinanet",5016
 "AS6568","Entel S.A. - EntelNet",4537
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS215269","LAZYCLOUD LTD",1312
 "AS32475","Internap Holding LLC",1283
 "AS36352","HostPapa",1235
-"AS13335","Cloudflare, Inc.",1224
+"AS13335","Cloudflare, Inc.",1225
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1176
 "AS174","Cogent Communications",1160
@@ -657,6 +657,7 @@ ASN,Organization,IP_Count
 "AS3326","PRIVATE JOINT STOCK COMPANY ""DATAGROUP""",5
 "AS33915","Vodafone Libertel B.V.",5
 "AS34343","Eweka Internet Services B.V.",5
+"AS35682","BEST INTERNET SOLUTION XK",5
 "AS35805","JSC ""Silknet""",5
 "AS36914","Kenya Education Network",5
 "AS37061","Safaricom Limited",5
@@ -761,7 +762,6 @@ ASN,Organization,IP_Count
 "AS3356","Level 3 Communications, Inc.",4
 "AS33647","Yadkin Valley Telephone",4
 "AS35104","Jusan Mobile JSC",4
-"AS35682","BEST INTERNET SOLUTION XK",4
 "AS35916","MULTACOM CORPORATION",4
 "AS36994","Vodacom",4
 "AS39816","Volta Communications Sp.z.o.o.",4
