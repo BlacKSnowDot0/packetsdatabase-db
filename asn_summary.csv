@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87730
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21989
-"AS398324","Censys, Inc.",13505
+"AS398324","Censys, Inc.",13506
 "AS32934","Facebook, Inc.",11832
 "AS396982","Google LLC",10355
 "AS26210","AXS Bolivia S. A.",7972
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",752
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
-"AS51167","Contabo GmbH",658
+"AS51167","Contabo GmbH",659
 "AS10439","CariNet, Inc.",647
 "AS14618","Amazon.com, Inc.",646
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -127,7 +127,7 @@ ASN,Organization,IP_Count
 "AS58461","Chinanet",85
 "AS40021","Nubes, LLC",84
 "AS4766","Korea Telecom",83
-"AS136435","ELITE COMMUNICATION",81
+"AS136435","ELITE COMMUNICATION",82
 "AS16735","ALGAR TELECOM S/A",81
 "AS28209","Under Servicos de Internet Ltda",81
 "AS5617","Orange Polska Spolka Akcyjna",81
@@ -375,7 +375,9 @@ ASN,Organization,IP_Count
 "AS30600","Metronet",14
 "AS3352","TELEFONICA DE ESPANA S.A.U.",14
 "AS37457","Telkom SA Ltd.",14
+"AS46375","Sonic Telecom LLC",14
 "AS4808","China Unicom Beijing Province Network",14
+"AS4847","China Networks Inter-Exchange",14
 "AS48721","Flyservers S.A.",14
 "AS60781","LeaseWeb Netherlands B.V.",14
 "AS11232","Midcontinent Communications",13
@@ -392,8 +394,6 @@ ASN,Organization,IP_Count
 "AS29465","MTN NIGERIA Communication limited",13
 "AS37105","RAIN GROUP HOLDINGS (PTY) LTD",13
 "AS38841","kbro CO. Ltd.",13
-"AS46375","Sonic Telecom LLC",13
-"AS4847","China Networks Inter-Exchange",13
 "AS53006","ALGAR TELECOM S/A",13
 "AS6327","Shaw Communications Inc.",13
 "AS64236","UnReal Servers, LLC",13
@@ -2148,6 +2148,7 @@ ASN,Organization,IP_Count
 "AS264996","SERVLINK TELECOM LTDA - ME",1
 "AS265015","R&R Virtual Informatica",1
 "AS265055","BMI TELECOMUNICAÇÕES LTDA",1
+"AS265062","NETFORCE Telecom",1
 "AS265066","Conect Provedor de Acesso a Internet Ltda Me",1
 "AS265093","MARK SAT ELETROELETRÔNICOS LTDA ME",1
 "AS265144","MCD INFORMATICA E TELECOMUNICACOES LTDA - ME",1
