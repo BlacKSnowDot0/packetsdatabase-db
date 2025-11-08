@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87730
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21986
-"AS398324","Censys, Inc.",13488
+"AS398324","Censys, Inc.",13490
 "AS32934","Facebook, Inc.",11763
-"AS396982","Google LLC",10347
+"AS396982","Google LLC",10349
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7934
 "AS16276","OVH SAS",5826
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2559
 "AS6939","Hurricane Electric LLC",2533
 "AS9808","China Mobile",2078
-"AS202425","IP Volume inc",1745
+"AS202425","IP Volume inc",1746
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1522
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS13335","Cloudflare, Inc.",1223
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1176
-"AS174","Cogent Communications",1159
+"AS174","Cogent Communications",1160
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS23470","ReliableSite.Net LLC",1095
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",752
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
-"AS51167","Contabo GmbH",654
+"AS51167","Contabo GmbH",655
 "AS10439","CariNet, Inc.",647
 "AS14618","Amazon.com, Inc.",645
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -65,9 +65,9 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",503
 "AS50360","Tamatiya EOOD",492
 "AS51115","HLL LLC",491
-"AS53667","FranTech Solutions",473
+"AS53667","FranTech Solutions",475
 "AS212238","Datacamp Limited",460
-"AS12876","ONLINE S.A.S.",453
+"AS12876","ONLINE S.A.S.",454
 "AS9829","Bharat Sanchar Nigam Ltd",443
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",405
@@ -138,8 +138,8 @@ ASN,Organization,IP_Count
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
+"AS6739","VODAFONE ONO, S.A.",75
 "AS56046","China Mobile Communications Corporation",74
-"AS6739","VODAFONE ONO, S.A.",74
 "AS11320","LightEdge Solutions",73
 "AS31898","Oracle Corporation",73
 "AS3920","ESTOXY OU",71
@@ -392,6 +392,7 @@ ASN,Organization,IP_Count
 "AS29465","MTN NIGERIA Communication limited",13
 "AS37105","RAIN GROUP HOLDINGS (PTY) LTD",13
 "AS38841","kbro CO. Ltd.",13
+"AS4847","China Networks Inter-Exchange",13
 "AS53006","ALGAR TELECOM S/A",13
 "AS6327","Shaw Communications Inc.",13
 "AS64236","UnReal Servers, LLC",13
@@ -408,7 +409,6 @@ ASN,Organization,IP_Count
 "AS41436","Kamatera Inc",12
 "AS4181","TDS TELECOM",12
 "AS46375","Sonic Telecom LLC",12
-"AS4847","China Networks Inter-Exchange",12
 "AS62442","Dade Samane Fanava Company (PJS)",12
 "AS8400","TELEKOM SRBIJA a.d.",12
 "AS8708","RCS & RDS SA",12
@@ -650,6 +650,7 @@ ASN,Organization,IP_Count
 "AS29049","Delta Telecom Ltd",5
 "AS29182","JSC IOT",5
 "AS30036","Mediacom Communications Corp",5
+"AS30753","FHU ""COMPOWER"" Dariusz Krocz",5
 "AS31133","PJSC MegaFon",5
 "AS328510","Ikeja Wireless (Pty) Ltd",5
 "AS329244","Connect, Surf and Smile Limited",5
@@ -756,7 +757,6 @@ ASN,Organization,IP_Count
 "AS28787","Baku Telephone Communication LLC",4
 "AS29314","VECTRA S.A.",4
 "AS30619","TMCEL - Moçambique Telecom, SA",4
-"AS30753","FHU ""COMPOWER"" Dariusz Krocz",4
 "AS3301","Telia Company AB",4
 "AS3356","Level 3 Communications, Inc.",4
 "AS33647","Yadkin Valley Telephone",4
@@ -869,9 +869,11 @@ ASN,Organization,IP_Count
 "AS203459","AL-MARAJ AL-ALAMIYA Co",3
 "AS203542","IT-PROF LLC",3
 "AS204170","Awaser Oman LLC",3
+"AS20853","eTOP sp. z o.o.",3
 "AS208583","Baffin Bay Networks AB",3
 "AS211826","Istqrar for Servers Services Ltd",3
 "AS213354","INTERNATIONAL HOSTING SOLUTIONS LLP",3
+"AS214309","Aurorix Gaming Solutions Limited",3
 "AS214382","Bulent Aydin trading as Hostlayici",3
 "AS21499","Host Europe GmbH",3
 "AS21565","Horry Telephone Cooperative, Inc.",3
@@ -1134,7 +1136,6 @@ ASN,Organization,IP_Count
 "AS206476","Neten S.p.A.",2
 "AS206728","Media Land LLC",2
 "AS207802","Provider ""Setka"" LLC",2
-"AS20853","eTOP sp. z o.o.",2
 "AS208592","LLC ""NET SOLUTIONS""",2
 "AS210656","Yandex.Cloud LLC",2
 "AS210819","Netversor GmbH",2
@@ -1145,7 +1146,6 @@ ASN,Organization,IP_Count
 "AS212552","BitCommand LLC",2
 "AS213186","Yanoor Islam Khan",2
 "AS213725","UK-03AI",2
-"AS214309","Aurorix Gaming Solutions Limited",2
 "AS214657","Bls Services Tecnologia em Software Ltda",2
 "AS21479","PJSC Rostelecom",2
 "AS214882","Hadi Santosa",2
