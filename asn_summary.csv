@@ -2,18 +2,18 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87735
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21993
-"AS398324","Censys, Inc.",13521
+"AS398324","Censys, Inc.",13522
 "AS32934","Facebook, Inc.",12479
 "AS396982","Google LLC",10360
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7945
+"AS14061","DigitalOcean, LLC",7946
 "AS16276","OVH SAS",5826
 "AS4134","Chinanet",5017
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4439
 "AS16509","Amazon.com, Inc.",4322
 "AS396998","Path Network, Inc.",3992
-"AS45102","Alibaba (US) Technology Co., Ltd.",3938
+"AS45102","Alibaba (US) Technology Co., Ltd.",3939
 "AS63949","Akamai Technologies, Inc.",3603
 "AS0","",3562
 "AS15169","Google LLC",3362
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS215269","LAZYCLOUD LTD",1312
 "AS32475","Internap Holding LLC",1287
 "AS13335","Cloudflare, Inc.",1256
-"AS36352","HostPapa",1236
+"AS36352","HostPapa",1237
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1176
 "AS174","Cogent Communications",1161
@@ -132,7 +132,7 @@ ASN,Organization,IP_Count
 "AS28209","Under Servicos de Internet Ltda",81
 "AS5617","Orange Polska Spolka Akcyjna",81
 "AS8560","IONOS SE",81
-"AS199785","Cloud Hosting Solutions, Limited.",79
+"AS199785","Cloud Hosting Solutions, Limited.",80
 "AS200019","ALEXHOST SRL",78
 "AS271795","SERVITELCONET CIA. LTDA.",78
 "AS6739","VODAFONE ONO, S.A.",77
@@ -168,10 +168,10 @@ ASN,Organization,IP_Count
 "AS206092","Internet Utilities Europe and Asia Limited",55
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",55
 "AS19318","Interserver, Inc",54
+"AS20001","Charter Communications Inc",54
 "AS213877","u1host ltd",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS6128","Cablevision Systems Corp.",54
-"AS20001","Charter Communications Inc",53
 "AS20115","Charter Communications",53
 "AS210644","AEZA INTERNATIONAL LTD",53
 "AS200514","KnownSRV Ltd.",52
@@ -305,6 +305,7 @@ ASN,Organization,IP_Count
 "AS4816","China Telecom (Group)",20
 "AS5384","EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",20
 "AS11426","Charter Communications Inc",19
+"AS136142","Enigma Fiber Pvt Ltd",19
 "AS140061","China Telecom",19
 "AS14593","Space Exploration Technologies Corporation",19
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",19
@@ -317,7 +318,6 @@ ASN,Organization,IP_Count
 "AS6167","Verizon Business",19
 "AS812","Rogers Communications Canada Inc.",19
 "AS11878","tzulo, inc.",18
-"AS136142","Enigma Fiber Pvt Ltd",18
 "AS16591","Google Fiber Inc.",18
 "AS17638","ASN for TIANJIN Provincial Net of CT",18
 "AS18049","Taiwan Infrastructure Network Technologie",18
@@ -336,6 +336,7 @@ ASN,Organization,IP_Count
 "AS271597","NEW LINK CONNECT",17
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
 "AS30823","aurologic GmbH",17
+"AS3257","GTT Communications Inc.",17
 "AS45117","Ishan's Network",17
 "AS50340","JSC Selectel",17
 "AS56630","Melbikomas UAB",17
@@ -347,7 +348,6 @@ ASN,Organization,IP_Count
 "AS24812","NPK Home-Net Ltd.",16
 "AS25198","INTERKVM HOST SRL",16
 "AS2914","NTT America, Inc.",16
-"AS3257","GTT Communications Inc.",16
 "AS328539","Giga for Telecommunication and Technology Limited",16
 "AS33363","Charter Communications, Inc",16
 "AS46261","QuickPacket, LLC",16
