@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87730
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21989
-"AS398324","Censys, Inc.",13503
-"AS32934","Facebook, Inc.",11773
-"AS396982","Google LLC",10354
+"AS398324","Censys, Inc.",13505
+"AS32934","Facebook, Inc.",11832
+"AS396982","Google LLC",10355
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7939
 "AS16276","OVH SAS",5826
@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS0","",3555
 "AS15169","Google LLC",3351
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3119
+"AS51396","Pfcloud UG",3120
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2749
 "AS142002","Scloud Pte Ltd",2559
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",752
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
-"AS51167","Contabo GmbH",657
+"AS51167","Contabo GmbH",658
 "AS10439","CariNet, Inc.",647
 "AS14618","Amazon.com, Inc.",646
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",491
 "AS53667","FranTech Solutions",476
 "AS212238","Datacamp Limited",461
-"AS12876","ONLINE S.A.S.",455
+"AS12876","ONLINE S.A.S.",457
 "AS9829","Bharat Sanchar Nigam Ltd",443
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",405
@@ -79,7 +79,7 @@ ASN,Organization,IP_Count
 "AS7922","Comcast Cable Communications, LLC",345
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",330
-"AS8151","Uninet S.A. de C.V.",322
+"AS8151","Uninet S.A. de C.V.",323
 "AS214943","Railnet LLC",315
 "AS45899","VNPT Corp",315
 "AS24863","LINKdotNET AS number",307
@@ -125,7 +125,7 @@ ASN,Organization,IP_Count
 "AS63018","Dedicated.com",92
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS58461","Chinanet",85
-"AS40021","Nubes, LLC",83
+"AS40021","Nubes, LLC",84
 "AS4766","Korea Telecom",83
 "AS136435","ELITE COMMUNICATION",81
 "AS16735","ALGAR TELECOM S/A",81
