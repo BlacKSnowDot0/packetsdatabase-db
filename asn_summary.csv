@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4439
 "AS16509","Amazon.com, Inc.",4322
 "AS396998","Path Network, Inc.",3992
-"AS45102","Alibaba (US) Technology Co., Ltd.",3933
+"AS45102","Alibaba (US) Technology Co., Ltd.",3934
 "AS63949","Akamai Technologies, Inc.",3603
 "AS0","",3553
 "AS15169","Google LLC",3348
@@ -22,7 +22,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2748
 "AS142002","Scloud Pte Ltd",2559
-"AS6939","Hurricane Electric LLC",2534
+"AS6939","Hurricane Electric LLC",2535
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1746
 "AS214295","SKYNET NETWORK LTD",1631
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",752
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
-"AS51167","Contabo GmbH",656
+"AS51167","Contabo GmbH",657
 "AS10439","CariNet, Inc.",647
 "AS14618","Amazon.com, Inc.",646
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -2694,6 +2694,7 @@ ASN,Organization,IP_Count
 "AS45804","Meghbela Cable & Broadband Services (P) Ltd",1
 "AS45903","CMC Telecom Infrastructure Company",1
 "AS45942","Sikka Broadband Pvt. Ltd.",1
+"AS4621","Office of Info.Tech. Admin. for Educational Development",1
 "AS46238","WT Services, Inc.",1
 "AS4657","Starhub Ltd.",1
 "AS46785","QUASAR DATA CENTER, LTD.",1
