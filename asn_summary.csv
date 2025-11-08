@@ -8,7 +8,7 @@ ASN,Organization,IP_Count
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7942
 "AS16276","OVH SAS",5826
-"AS4134","Chinanet",5016
+"AS4134","Chinanet",5017
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4439
 "AS16509","Amazon.com, Inc.",4322
@@ -22,7 +22,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2749
 "AS142002","Scloud Pte Ltd",2559
-"AS6939","Hurricane Electric LLC",2536
+"AS6939","Hurricane Electric LLC",2537
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1749
 "AS214295","SKYNET NETWORK LTD",1631
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1401
 "AS49870","Alsycon B.V.",1338
 "AS215269","LAZYCLOUD LTD",1312
-"AS32475","Internap Holding LLC",1285
+"AS32475","Internap Holding LLC",1287
 "AS13335","Cloudflare, Inc.",1255
 "AS36352","HostPapa",1235
 "AS204428","SS-Net",1182
@@ -58,7 +58,7 @@ ASN,Organization,IP_Count
 "AS3462","Chunghwa Telecom Co., Ltd.",573
 "AS4837","CHINA UNICOM China169 Backbone",573
 "AS31148","Freenet LTD",558
-"AS401120","cheapy.host LLC",555
+"AS401120","cheapy.host LLC",556
 "AS9009","M247 Europe SRL",551
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
@@ -268,11 +268,11 @@ ASN,Organization,IP_Count
 "AS60068","Datacamp Limited",24
 "AS8193","""Uzbektelekom"" Joint Stock Company",24
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",24
+"AS9123","TimeWeb Ltd.",24
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",23
 "AS198037","SPACECORE SOLUTION LTD",23
 "AS62240","Clouvider Limited",23
 "AS7303","Telecom Argentina S.A.",23
-"AS9123","TimeWeb Ltd.",23
 "AS17561","Larus Limited",22
 "AS213010","Gening Nikita Dmitrievich",22
 "AS214417","Andrii Hrosh",22
@@ -311,6 +311,7 @@ ASN,Organization,IP_Count
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",19
 "AS22927","Telefonica de Argentina",19
 "AS24348","CERNET2 IX at Tsinghua University",19
+"AS24940","Hetzner Online GmbH",19
 "AS262287","Maxihost LTDA",19
 "AS49531","""NetCom-R"" LLC",19
 "AS6167","Verizon Business",19
@@ -321,7 +322,6 @@ ASN,Organization,IP_Count
 "AS17638","ASN for TIANJIN Provincial Net of CT",18
 "AS18049","Taiwan Infrastructure Network Technologie",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
-"AS24940","Hetzner Online GmbH",18
 "AS39603","P4 Sp. z o.o.",18
 "AS400655","NixLabs Networks",18
 "AS40676","Psychz Networks",18
@@ -1458,6 +1458,7 @@ ASN,Organization,IP_Count
 "AS9105","TalkTalk Communications Limited",2
 "AS9146","BH Telecom d.d. Sarajevo",2
 "AS9319","HCN CHUNGBUK CABLE TV SYSTEMS",2
+"AS9336","XYZ Telecom Pty Ltd",2
 "AS9506","Singapore Telecommunications Ltd, Magix Services",2
 "AS9534","Maxis Broadband Sdn Bhd",2
 "AS963","N963",2
@@ -2973,7 +2974,6 @@ ASN,Organization,IP_Count
 "AS9155","Quality Net General Trading & Contracting Company",1
 "AS9232","Cloud Information Technology (Intl) Telecom Group LIMITED",1
 "AS9303","The Digital Lab 2007 Limited",1
-"AS9336","XYZ Telecom Pty Ltd",1
 "AS9371","SAKURA Internet Inc.",1
 "AS9500","One New Zealand Group Limited",1
 "AS9583","Sify Limited",1
