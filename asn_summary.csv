@@ -3,7 +3,7 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21989
 "AS398324","Censys, Inc.",13506
-"AS32934","Facebook, Inc.",11832
+"AS32934","Facebook, Inc.",12052
 "AS396982","Google LLC",10355
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7940
@@ -13,9 +13,9 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4439
 "AS16509","Amazon.com, Inc.",4322
 "AS396998","Path Network, Inc.",3992
-"AS45102","Alibaba (US) Technology Co., Ltd.",3934
+"AS45102","Alibaba (US) Technology Co., Ltd.",3936
 "AS63949","Akamai Technologies, Inc.",3603
-"AS0","",3555
+"AS0","",3556
 "AS15169","Google LLC",3351
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3120
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",503
 "AS50360","Tamatiya EOOD",492
 "AS51115","HLL LLC",491
-"AS53667","FranTech Solutions",476
+"AS53667","FranTech Solutions",477
 "AS212238","Datacamp Limited",461
 "AS12876","ONLINE S.A.S.",457
 "AS9829","Bharat Sanchar Nigam Ltd",443
@@ -103,7 +103,7 @@ ASN,Organization,IP_Count
 "AS29484","Ruhr-Universitaet Bochum",173
 "AS401116","Nybula LLC",170
 "AS206264","Amarutu Technology Ltd",153
-"AS29066","velia.net Internetdienste GmbH",146
+"AS29066","velia.net Internetdienste GmbH",147
 "AS47105","Vault Dweller OU",141
 "AS50219","LNK SYSTEMS MUNTENIA SRL",139
 "AS42237","w1n ltd",137
@@ -487,6 +487,7 @@ ASN,Organization,IP_Count
 "AS198361","Yaglom Labs Ltd",8
 "AS209956","Telkoturk Iletisim Hizmetleri A.S.",8
 "AS211507","Julian Achter",8
+"AS215240","Silent Connection Ltd.",8
 "AS24086","Viettel Corporation",8
 "AS2516","KDDI CORPORATION",8
 "AS262459","Osirnet Info Telecom Ltda.",8
@@ -515,7 +516,6 @@ ASN,Organization,IP_Count
 "AS204631","VIVANET GmbH",7
 "AS207506","""NEWNET"" LLC",7
 "AS2119","Telenor Norge AS",7
-"AS215240","Silent Connection Ltd.",7
 "AS215599","Zkillu SAS",7
 "AS215672","MoeChuang Network Limited",7
 "AS24961","WIIT AG",7
