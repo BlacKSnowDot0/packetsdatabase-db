@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87730
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21988
-"AS398324","Censys, Inc.",13495
+"AS398324","Censys, Inc.",13496
 "AS32934","Facebook, Inc.",11763
-"AS396982","Google LLC",10350
+"AS396982","Google LLC",10352
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7935
+"AS14061","DigitalOcean, LLC",7936
 "AS16276","OVH SAS",5826
 "AS4134","Chinanet",5016
 "AS6568","Entel S.A. - EntelNet",4537
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2559
 "AS6939","Hurricane Electric LLC",2535
 "AS9808","China Mobile",2078
-"AS202425","IP Volume inc",1746
+"AS202425","IP Volume inc",1747
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1522
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -115,8 +115,8 @@ ASN,Organization,IP_Count
 "AS36007","Kamatera, Inc.",122
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
+"AS34984","Superonline Iletisim Hizmetleri A.S.",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
-"AS34984","Superonline Iletisim Hizmetleri A.S.",106
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",104
 "AS47331","TTNet A.S.",103
 "AS151185","China Telecom",101
@@ -289,6 +289,7 @@ ASN,Organization,IP_Count
 "AS214668","AxusHost B.V.",21
 "AS3320","Deutsche Telekom AG",21
 "AS400536","Nodestop LLC",21
+"AS41745","Baykov Ilya Sergeevich",21
 "AS45758","Triple T Broadband Public Company Limited",21
 "AS46573","LayerHost",21
 "AS4800","PT Aplikanusa Lintasarta",21
@@ -300,7 +301,6 @@ ASN,Organization,IP_Count
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
-"AS41745","Baykov Ilya Sergeevich",20
 "AS4816","China Telecom (Group)",20
 "AS5384","EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",20
 "AS11426","Charter Communications Inc",19
@@ -555,6 +555,7 @@ ASN,Organization,IP_Count
 "AS17754","Excellmedia",6
 "AS198323","TOV Informatsiyni Kirovohrads'ki Systemy",6
 "AS201838","Community Fibre Limited",6
+"AS202796","JSR IT B.V.",6
 "AS203020","HostRoyale Technologies Pvt Ltd",6
 "AS210538","KEYUBU Internet ve Bilisim Tic. Ltd. Sti.",6
 "AS21056","Vianova S.p.A",6
@@ -622,7 +623,6 @@ ASN,Organization,IP_Count
 "AS198253","Kukushkin Anatoly Valerievich",5
 "AS198983","Joseph Hofmann trading as 'Tornado Datacenter GmbH & Co. KG'",5
 "AS202468","Noyan Abr Arvan Co. ( Private Joint Stock)",5
-"AS202796","JSR IT B.V.",5
 "AS20412","Clarity Telecom LLC",5
 "AS206262","TelKos L.L.C",5
 "AS207656","Epinatura LLC",5
@@ -977,6 +977,7 @@ ASN,Organization,IP_Count
 "AS52783","ALCANS TELECOM LTDA",3
 "AS5391","Hrvatski Telekom d.d.",3
 "AS55685","PT Jala Lintas Media",3
+"AS56329","Gigaclear Limited",3
 "AS56400","SPD Chernega Aleksandr Anatolevich",3
 "AS56478","Hyperoptic Ltd",3
 "AS58715","Earth Telecommunication ( pvt ) Limited",3
@@ -1404,7 +1405,6 @@ ASN,Organization,IP_Count
 "AS56040","China Mobile Communications Corporation",2
 "AS5610","O2 Czech Republic, a.s.",2
 "AS56272","Pulse Telesystems Pvt Ltd",2
-"AS56329","Gigaclear Limited",2
 "AS56465","Therecom Ltd",2
 "AS56607","Privately owned entrepreneur Chabanov Andrey Alexandrovich",2
 "AS57043","HOSTKEY B.V.",2
