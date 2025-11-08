@@ -6,7 +6,7 @@ ASN,Organization,IP_Count
 "AS32934","Facebook, Inc.",11832
 "AS396982","Google LLC",10355
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7939
+"AS14061","DigitalOcean, LLC",7940
 "AS16276","OVH SAS",5826
 "AS4134","Chinanet",5016
 "AS6568","Entel S.A. - EntelNet",4537
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS215269","LAZYCLOUD LTD",1312
 "AS32475","Internap Holding LLC",1283
 "AS36352","HostPapa",1235
-"AS13335","Cloudflare, Inc.",1225
+"AS13335","Cloudflare, Inc.",1226
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1176
 "AS174","Cogent Communications",1160
@@ -199,9 +199,9 @@ ASN,Organization,IP_Count
 "AS8048","CANTV Servicios, Venezuela",39
 "AS26599","TELEFÔNICA BRASIL S.A",38
 "AS4538","China Education and Research Network Center",38
+"AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",38
 "AS20473","The Constant Company, LLC",37
 "AS2856","British Telecommunications PLC",37
-"AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",37
 "AS8167","V tal",37
 "AS210558","1337 Services GmbH",36
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",36
@@ -214,11 +214,11 @@ ASN,Organization,IP_Count
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",34
 "AS9198","JSC Kazakhtelecom",34
 "AS45671","Servers Australia Pty. Ltd",33
+"AS46475","Limestone Networks, Inc.",33
 "AS9498","Bharti Airtel Limited",33
 "AS12322","Free SAS",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",32
-"AS46475","Limestone Networks, Inc.",32
 "AS4760","PCCW IMS Limited",32
 "AS55990","Huawei Cloud Service data center",32
 "AS1241","RIPE Network Coordination Centre",31
