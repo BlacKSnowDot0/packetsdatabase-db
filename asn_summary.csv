@@ -1,9 +1,9 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87735
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
-"AS211298","Driftnet Ltd",21991
-"AS398324","Censys, Inc.",13517
-"AS32934","Facebook, Inc.",12457
+"AS211298","Driftnet Ltd",21993
+"AS398324","Censys, Inc.",13519
+"AS32934","Facebook, Inc.",12479
 "AS396982","Google LLC",10357
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7943
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",754
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
-"AS51167","Contabo GmbH",660
+"AS51167","Contabo GmbH",661
 "AS10439","CariNet, Inc.",648
 "AS14618","Amazon.com, Inc.",647
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS50360","Tamatiya EOOD",492
 "AS53667","FranTech Solutions",478
 "AS212238","Datacamp Limited",462
-"AS12876","ONLINE S.A.S.",457
+"AS12876","ONLINE S.A.S.",458
 "AS9829","Bharat Sanchar Nigam Ltd",443
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",405
@@ -132,7 +132,7 @@ ASN,Organization,IP_Count
 "AS28209","Under Servicos de Internet Ltda",81
 "AS5617","Orange Polska Spolka Akcyjna",81
 "AS8560","IONOS SE",81
-"AS199785","Cloud Hosting Solutions, Limited.",78
+"AS199785","Cloud Hosting Solutions, Limited.",79
 "AS200019","ALEXHOST SRL",78
 "AS271795","SERVITELCONET CIA. LTDA.",78
 "AS6739","VODAFONE ONO, S.A.",77
@@ -148,10 +148,10 @@ ASN,Organization,IP_Count
 "AS834","IPXO LLC",68
 "AS328867","Corebach Backbone SARL",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
+"AS215590","DpkgSoft International Limited",65
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS57588","Hayat for Internet & communication LLC",65
-"AS215590","DpkgSoft International Limited",64
 "AS17378","TierPoint, LLC",63
 "AS8402","PJSC ""Vimpelcom""",63
 "AS140717","China Unicom",61
@@ -1569,6 +1569,7 @@ ASN,Organization,IP_Count
 "AS135780","AirFiber Networks Pvt Ltd",1
 "AS135782","Nyak Technologies And Teleservices Pvt Ltd",1
 "AS135818","Green Tech Net Com Pvt Ltd",1
+"AS136052","PT Cloud Hosting Indonesia",1
 "AS136105","CV. ANINDISA KOMPUTINDO PRATAMA",1
 "AS136171","Medha Hosting",1
 "AS136200","CHINANET Guangdong province Foshan MAN network",1
