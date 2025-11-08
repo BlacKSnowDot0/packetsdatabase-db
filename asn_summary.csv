@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87730
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21989
-"AS398324","Censys, Inc.",13506
+"AS398324","Censys, Inc.",13508
 "AS32934","Facebook, Inc.",12052
 "AS396982","Google LLC",10355
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7940
+"AS14061","DigitalOcean, LLC",7941
 "AS16276","OVH SAS",5826
 "AS4134","Chinanet",5016
 "AS6568","Entel S.A. - EntelNet",4537
@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS396998","Path Network, Inc.",3992
 "AS45102","Alibaba (US) Technology Co., Ltd.",3936
 "AS63949","Akamai Technologies, Inc.",3603
-"AS0","",3556
+"AS0","",3558
 "AS15169","Google LLC",3351
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3120
@@ -33,14 +33,14 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1338
 "AS215269","LAZYCLOUD LTD",1312
 "AS32475","Internap Holding LLC",1283
+"AS13335","Cloudflare, Inc.",1238
 "AS36352","HostPapa",1235
-"AS13335","Cloudflare, Inc.",1226
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1176
 "AS174","Cogent Communications",1160
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS23470","ReliableSite.Net LLC",1095
+"AS23470","ReliableSite.Net LLC",1096
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",995
 "AS51852","Private Layer INC",907
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",821
 "AS215925","VPSVAULT.HOST LTD",813
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",752
+"AS20052","Arbor Networks, Inc.",753
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
 "AS51167","Contabo GmbH",659
 "AS10439","CariNet, Inc.",647
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",503
 "AS50360","Tamatiya EOOD",492
 "AS51115","HLL LLC",491
-"AS53667","FranTech Solutions",477
+"AS53667","FranTech Solutions",478
 "AS212238","Datacamp Limited",461
 "AS12876","ONLINE S.A.S.",457
 "AS9829","Bharat Sanchar Nigam Ltd",443
@@ -106,7 +106,7 @@ ASN,Organization,IP_Count
 "AS29066","velia.net Internetdienste GmbH",147
 "AS47105","Vault Dweller OU",141
 "AS50219","LNK SYSTEMS MUNTENIA SRL",139
-"AS42237","w1n ltd",137
+"AS42237","w1n ltd",138
 "AS262551","Farol Telecom",132
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
@@ -609,6 +609,7 @@ ASN,Organization,IP_Count
 "AS13430","THE WISP.NET CORP.",5
 "AS13489","EPM Telecomunicaciones S.A. E.S.P.",5
 "AS135357","HONG KONG KOWLOON TELECOMMUNICATIONS CO.,LIMITED",5
+"AS135411","Red Grapes Pte Ltd",5
 "AS136188","NINGBO, ZHEJIANG Province, P.R.China.",5
 "AS136873","MEGADATA-ISP",5
 "AS138109","PT. Rasi Bintang Perkasa",5
@@ -698,7 +699,6 @@ ASN,Organization,IP_Count
 "AS13110","INEA sp. z o.o.",4
 "AS131607","Digidom CableTV Co., LTD.",4
 "AS135089","China Telecom",4
-"AS135411","Red Grapes Pte Ltd",4
 "AS135905","VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",4
 "AS136009","SpeedNet",4
 "AS136121","PT Digital Media Telematika",4
@@ -1140,6 +1140,7 @@ ASN,Organization,IP_Count
 "AS206728","Media Land LLC",2
 "AS207802","Provider ""Setka"" LLC",2
 "AS208592","LLC ""NET SOLUTIONS""",2
+"AS209737","Meric Internet Teknolojileri A.S.",2
 "AS210656","Yandex.Cloud LLC",2
 "AS210819","Netversor GmbH",2
 "AS211381","Podaon SIA",2
@@ -1900,7 +1901,6 @@ ASN,Organization,IP_Count
 "AS209372","SIA ""Singularity Telecom""",1
 "AS209592","Internet42 LLC",1
 "AS209728","Expert Telecom LLC",1
-"AS209737","Meric Internet Teknolojileri A.S.",1
 "AS209789","Nikolay Olegovich Tokarev",1
 "AS210092","FOP Rabchuk Valentyna Viktorivna",1
 "AS210099","TIGOVA NETWORK LIMITED",1
