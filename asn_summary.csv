@@ -1,12 +1,12 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87730
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
-"AS211298","Driftnet Ltd",21988
-"AS398324","Censys, Inc.",13496
+"AS211298","Driftnet Ltd",21989
+"AS398324","Censys, Inc.",13497
 "AS32934","Facebook, Inc.",11763
-"AS396982","Google LLC",10352
+"AS396982","Google LLC",10353
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7936
+"AS14061","DigitalOcean, LLC",7937
 "AS16276","OVH SAS",5826
 "AS4134","Chinanet",5016
 "AS6568","Entel S.A. - EntelNet",4537
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3119
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2748
+"AS8075","Microsoft Corporation",2749
 "AS142002","Scloud Pte Ltd",2559
 "AS6939","Hurricane Electric LLC",2535
 "AS9808","China Mobile",2078
@@ -151,8 +151,8 @@ ASN,Organization,IP_Count
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS57588","Hayat for Internet & communication LLC",65
+"AS215590","DpkgSoft International Limited",64
 "AS17378","TierPoint, LLC",63
-"AS215590","DpkgSoft International Limited",63
 "AS8402","PJSC ""Vimpelcom""",63
 "AS140717","China Unicom",61
 "AS150263","PT Alnet Telekomunikasi Indonesia",60
@@ -553,6 +553,7 @@ ASN,Organization,IP_Count
 "AS16058","Gabon Telecom Internet Network Autonomous System",6
 "AS16611","InfiniaHost.com",6
 "AS17754","Excellmedia",6
+"AS198253","Kukushkin Anatoly Valerievich",6
 "AS198323","TOV Informatsiyni Kirovohrads'ki Systemy",6
 "AS201838","Community Fibre Limited",6
 "AS202796","JSR IT B.V.",6
@@ -620,7 +621,6 @@ ASN,Organization,IP_Count
 "AS16223","MAXNET TELECOM, LTD",5
 "AS17858","LG POWERCOMM",5
 "AS18229","CtrlS",5
-"AS198253","Kukushkin Anatoly Valerievich",5
 "AS198983","Joseph Hofmann trading as 'Tornado Datacenter GmbH & Co. KG'",5
 "AS202468","Noyan Abr Arvan Co. ( Private Joint Stock)",5
 "AS20412","Clarity Telecom LLC",5
@@ -951,6 +951,7 @@ ASN,Organization,IP_Count
 "AS42772","Unitary enterprise A1",3
 "AS42961","Mobile Telecommunications Company",3
 "AS43047","Stream-Network Ltd.",3
+"AS43350","NForce Entertainment B.V.",3
 "AS43588","IM Level 7 SRL",3
 "AS43612","Company for communications services A1 Makedonija DOOEL Skopje",3
 "AS44866","FOP Fedasiuk Oksana Petrivna",3
@@ -997,6 +998,7 @@ ASN,Organization,IP_Count
 "AS786","RIPE Network Coordination Centre",3
 "AS8473","Bahnhof AB",3
 "AS8585","Crnogorski Telekom a.d.Podgorica",3
+"AS8866","Vivacom Bulgaria EAD",3
 "AS9329","Sri Lanka Telecom Ltd",3
 "AS9381","HKBN Enterprise Solutions HK Limited",3
 "AS10030","Celcom Axiata Berhad",2
@@ -1327,7 +1329,6 @@ ASN,Organization,IP_Count
 "AS42723","TRK Vektor Ltd.",2
 "AS43060","IPLUS LLC",2
 "AS43278","Castles LLC",2
-"AS43350","NForce Entertainment B.V.",2
 "AS43656","KP Intertelecom Ltd",2
 "AS43764","LLC ""Electron-sevlush""",2
 "AS43766","Mobile Telecommunication Company Saudi Arabia Joint-Stock company",2
@@ -1450,7 +1451,6 @@ ASN,Organization,IP_Count
 "AS8595","OOO WestCall Ltd.",2
 "AS8612","Tiscali Italia S.P.A.",2
 "AS8732","JSC Comcor",2
-"AS8866","Vivacom Bulgaria EAD",2
 "AS9050","Orange Romania S.A.",2
 "AS9070","""Cooolbox"" AD",2
 "AS9105","TalkTalk Communications Limited",2
