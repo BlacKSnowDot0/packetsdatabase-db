@@ -6,7 +6,7 @@ ASN,Organization,IP_Count
 "AS32934","Facebook, Inc.",11763
 "AS396982","Google LLC",10354
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7937
+"AS14061","DigitalOcean, LLC",7938
 "AS16276","OVH SAS",5826
 "AS4134","Chinanet",5016
 "AS6568","Entel S.A. - EntelNet",4537
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2559
 "AS6939","Hurricane Electric LLC",2536
 "AS9808","China Mobile",2078
-"AS202425","IP Volume inc",1747
+"AS202425","IP Volume inc",1748
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1522
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -86,7 +86,7 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",286
-"AS213613","BOTSHIELD LTD",264
+"AS213613","BOTSHIELD LTD",265
 "AS48090","TECHOFF SRV LIMITED",254
 "AS208843","Alpha Strike Labs GmbH",250
 "AS60223","Netiface Limited",250
@@ -125,8 +125,8 @@ ASN,Organization,IP_Count
 "AS63018","Dedicated.com",92
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS58461","Chinanet",85
+"AS40021","Nubes, LLC",83
 "AS4766","Korea Telecom",83
-"AS40021","Nubes, LLC",82
 "AS136435","ELITE COMMUNICATION",81
 "AS16735","ALGAR TELECOM S/A",81
 "AS28209","Under Servicos de Internet Ltda",81
@@ -392,6 +392,7 @@ ASN,Organization,IP_Count
 "AS29465","MTN NIGERIA Communication limited",13
 "AS37105","RAIN GROUP HOLDINGS (PTY) LTD",13
 "AS38841","kbro CO. Ltd.",13
+"AS46375","Sonic Telecom LLC",13
 "AS4847","China Networks Inter-Exchange",13
 "AS53006","ALGAR TELECOM S/A",13
 "AS6327","Shaw Communications Inc.",13
@@ -408,7 +409,6 @@ ASN,Organization,IP_Count
 "AS41075","ATW Internet Kft.",12
 "AS41436","Kamatera Inc",12
 "AS4181","TDS TELECOM",12
-"AS46375","Sonic Telecom LLC",12
 "AS48753","AVA HOST SRL",12
 "AS62442","Dade Samane Fanava Company (PJS)",12
 "AS8400","TELEKOM SRBIJA a.d.",12
@@ -1193,6 +1193,7 @@ ASN,Organization,IP_Count
 "AS262557","VIA SUL TELECOMUNICAÇOES LTDA ME",2
 "AS262617","UWBR VOX Telecomunicações S/A",2
 "AS262663","METROFLEX TELECOMUNICACOES LTDA",2
+"AS262673","VERO S.A",2
 "AS262755","AONET SERVIÇOS DE COMUNICACÃO LTDA",2
 "AS262761","Sinal Br Telecom Ltda",2
 "AS262785","GIGA MAIS FIBRA TELECOMUNICACOES S.A. (CLICK)",2
@@ -2033,7 +2034,6 @@ ASN,Organization,IP_Count
 "AS262616","Virtual Slice Telecom Ltda",1
 "AS262632","Grajaunet Telecomunicacoes Eireli",1
 "AS262671","VERO S.A",1
-"AS262673","VERO S.A",1
 "AS262691","CONECTA LTDA.",1
 "AS262715","Caezar Provedor de Internet EIRELI",1
 "AS262727","AtualNet Provedor de Internet Ltda",1
@@ -2786,6 +2786,7 @@ ASN,Organization,IP_Count
 "AS52683","HiperNET Servico de Comunicacao LTDA ME",1
 "AS52694","NEXSUL TELECOM LTDA",1
 "AS52739","PROVEDOR INTERSOUSA LTDA",1
+"AS52771","GIGA BYTE TELECOMUNICACOES LTDA",1
 "AS52778","SANER TELECOM INFORMATICA LTDA ME",1
 "AS52787","MAX TELECOM PROVEDOR DE ACESSO A INTERNET LTDA",1
 "AS52793","Kelvyn Sat Comércio e telecomunicações Ltda",1
