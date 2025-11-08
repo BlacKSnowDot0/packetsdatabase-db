@@ -1,9 +1,9 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87730
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
-"AS211298","Driftnet Ltd",21989
+"AS211298","Driftnet Ltd",21990
 "AS398324","Censys, Inc.",13508
-"AS32934","Facebook, Inc.",12052
+"AS32934","Facebook, Inc.",12151
 "AS396982","Google LLC",10355
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7941
@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS36352","HostPapa",1235
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1176
-"AS174","Cogent Communications",1160
+"AS174","Cogent Communications",1161
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS23470","ReliableSite.Net LLC",1096
@@ -99,8 +99,8 @@ ASN,Organization,IP_Count
 "AS12389","PJSC Rostelecom",190
 "AS12555","Data-center IMAQLIQ Ltd.",190
 "AS7552","Viettel Group",182
+"AS29484","Ruhr-Universitaet Bochum",174
 "AS63199","CDS Global Cloud Co., Ltd",174
-"AS29484","Ruhr-Universitaet Bochum",173
 "AS401116","Nybula LLC",170
 "AS206264","Amarutu Technology Ltd",153
 "AS29066","velia.net Internetdienste GmbH",147
@@ -317,6 +317,7 @@ ASN,Organization,IP_Count
 "AS812","Rogers Communications Canada Inc.",19
 "AS11878","tzulo, inc.",18
 "AS136142","Enigma Fiber Pvt Ltd",18
+"AS16591","Google Fiber Inc.",18
 "AS17638","ASN for TIANJIN Provincial Net of CT",18
 "AS18049","Taiwan Infrastructure Network Technologie",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
@@ -329,7 +330,6 @@ ASN,Organization,IP_Count
 "AS12874","Fastweb SpA",17
 "AS136958","China Unicom Guangdong IP network",17
 "AS148981","China Telecom",17
-"AS16591","Google Fiber Inc.",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",17
 "AS24151","China Internet Network Infomation Center",17
