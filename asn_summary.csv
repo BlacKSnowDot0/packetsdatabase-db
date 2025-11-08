@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87735
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21993
-"AS398324","Censys, Inc.",13522
+"AS398324","Censys, Inc.",13523
 "AS32934","Facebook, Inc.",12479
-"AS396982","Google LLC",10361
+"AS396982","Google LLC",10362
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7946
+"AS14061","DigitalOcean, LLC",7947
 "AS16276","OVH SAS",5826
 "AS4134","Chinanet",5017
 "AS6568","Entel S.A. - EntelNet",4537
@@ -34,13 +34,13 @@ ASN,Organization,IP_Count
 "AS215269","LAZYCLOUD LTD",1312
 "AS32475","Internap Holding LLC",1287
 "AS13335","Cloudflare, Inc.",1256
-"AS36352","HostPapa",1237
+"AS36352","HostPapa",1238
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1176
 "AS174","Cogent Communications",1161
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS23470","ReliableSite.Net LLC",1096
+"AS23470","ReliableSite.Net LLC",1097
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",996
 "AS51852","Private Layer INC",907
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",754
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
-"AS51167","Contabo GmbH",661
+"AS51167","Contabo GmbH",662
 "AS10439","CariNet, Inc.",648
 "AS14618","Amazon.com, Inc.",647
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -63,7 +63,7 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",503
-"AS51115","HLL LLC",494
+"AS51115","HLL LLC",495
 "AS50360","Tamatiya EOOD",492
 "AS53667","FranTech Solutions",478
 "AS212238","Datacamp Limited",462
@@ -198,10 +198,10 @@ ASN,Organization,IP_Count
 "AS27699","TELEFÔNICA BRASIL S.A",39
 "AS8048","CANTV Servicios, Venezuela",39
 "AS26599","TELEFÔNICA BRASIL S.A",38
+"AS2856","British Telecommunications PLC",38
 "AS4538","China Education and Research Network Center",38
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",38
 "AS20473","The Constant Company, LLC",37
-"AS2856","British Telecommunications PLC",37
 "AS8167","V tal",37
 "AS210558","1337 Services GmbH",36
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",36
@@ -241,6 +241,7 @@ ASN,Organization,IP_Count
 "AS30058","FDCservers.net",27
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
+"AS55933","Cloudie Limited",27
 "AS6134","XNNET LLC",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
 "AS12912","T-Mobile Polska S.A.",26
@@ -251,7 +252,6 @@ ASN,Organization,IP_Count
 "AS2200","Renater",26
 "AS23693","PT. Telekomunikasi Selular",26
 "AS3209","Vodafone GmbH",26
-"AS55933","Cloudie Limited",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS17995","PT iForte Global Internet",25
 "AS24560","Bharti Airtel Limited",25
@@ -1536,6 +1536,7 @@ ASN,Organization,IP_Count
 "AS13337","e-vergent.com LLC",1
 "AS133660","PRISAC AVIATION TECHNOLOGIES PRIVATE LIMITED",1
 "AS133684","Sun Broadband And Data Services Pvt Ltd",1
+"AS13370","Ziply Fiber",1
 "AS133720","Zess Networks Private Limited",1
 "AS133770","H M COMMUNICATION",1
 "AS134008","T10 Networks",1
