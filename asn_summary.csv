@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87732
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70572
 "AS211298","Driftnet Ltd",21991
-"AS398324","Censys, Inc.",13511
+"AS398324","Censys, Inc.",13512
 "AS32934","Facebook, Inc.",12249
 "AS396982","Google LLC",10357
 "AS26210","AXS Bolivia S. A.",7972
@@ -13,9 +13,9 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4439
 "AS16509","Amazon.com, Inc.",4322
 "AS396998","Path Network, Inc.",3992
-"AS45102","Alibaba (US) Technology Co., Ltd.",3936
+"AS45102","Alibaba (US) Technology Co., Ltd.",3937
 "AS63949","Akamai Technologies, Inc.",3603
-"AS0","",3558
+"AS0","",3561
 "AS15169","Google LLC",3361
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3120
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",754
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
-"AS51167","Contabo GmbH",659
+"AS51167","Contabo GmbH",660
 "AS10439","CariNet, Inc.",648
 "AS14618","Amazon.com, Inc.",647
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -366,6 +366,7 @@ ASN,Organization,IP_Count
 "AS31113","Artkomm LLC",15
 "AS3215","Orange S.A.",15
 "AS397283","RocketNode Inc",15
+"AS4847","China Networks Inter-Exchange",15
 "AS5607","Sky UK Limited",15
 "AS6849","JSC ""Ukrtelecom""",15
 "AS19901","Brightspeed",14
@@ -377,7 +378,6 @@ ASN,Organization,IP_Count
 "AS37457","Telkom SA Ltd.",14
 "AS46375","Sonic Telecom LLC",14
 "AS4808","China Unicom Beijing Province Network",14
-"AS4847","China Networks Inter-Exchange",14
 "AS48721","Flyservers S.A.",14
 "AS60781","LeaseWeb Netherlands B.V.",14
 "AS11232","Midcontinent Communications",13
