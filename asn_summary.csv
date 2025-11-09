@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87735
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
-"AS211298","Driftnet Ltd",21995
-"AS398324","Censys, Inc.",13539
+"AS211298","Driftnet Ltd",21996
+"AS398324","Censys, Inc.",13542
 "AS32934","Facebook, Inc.",12479
 "AS396982","Google LLC",10369
 "AS26210","AXS Bolivia S. A.",7972
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",756
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
-"AS51167","Contabo GmbH",663
+"AS51167","Contabo GmbH",664
 "AS10439","CariNet, Inc.",649
 "AS14618","Amazon.com, Inc.",647
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -155,7 +155,7 @@ ASN,Organization,IP_Count
 "AS17378","TierPoint, LLC",63
 "AS8402","PJSC ""Vimpelcom""",63
 "AS140717","China Unicom",61
-"AS150263","PT Alnet Telekomunikasi Indonesia",60
+"AS150263","PT Alnet Telekomunikasi Indonesia",61
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS4812","China Telecom (Group)",60
 "AS23724","IDC, China Telecommunications Corporation",59
@@ -196,9 +196,9 @@ ASN,Organization,IP_Count
 "AS23969","TOT Public Company Limited",40
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",40
 "AS27699","TELEFÔNICA BRASIL S.A",39
+"AS2856","British Telecommunications PLC",39
 "AS8048","CANTV Servicios, Venezuela",39
 "AS26599","TELEFÔNICA BRASIL S.A",38
-"AS2856","British Telecommunications PLC",38
 "AS4538","China Education and Research Network Center",38
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",38
 "AS20473","The Constant Company, LLC",37
@@ -288,6 +288,7 @@ ASN,Organization,IP_Count
 "AS138886","PT Data Buana Nusantara",21
 "AS17816","China Unicom IP network China169 Guangdong province",21
 "AS214668","AxusHost B.V.",21
+"AS329009","Spectrum Internet Service Ltd",21
 "AS3320","Deutsche Telekom AG",21
 "AS400536","Nodestop LLC",21
 "AS41745","Baykov Ilya Sergeevich",21
@@ -301,7 +302,6 @@ ASN,Organization,IP_Count
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
-"AS329009","Spectrum Internet Service Ltd",20
 "AS4816","China Telecom (Group)",20
 "AS5384","EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",20
 "AS11426","Charter Communications Inc",19
@@ -432,6 +432,7 @@ ASN,Organization,IP_Count
 "AS58563","CHINANET Hubei province network",11
 "AS9770","LG HelloVision Corp.",11
 "AS11351","Charter Communications Inc",10
+"AS12271","Charter Communications Inc",10
 "AS149359","PT Persada Data Multimedia",10
 "AS153443","VPSRE.NET LLC",10
 "AS202520","SkyPass Solutions Sp. z.o.o.",10
@@ -452,7 +453,6 @@ ASN,Organization,IP_Count
 "AS62068","SpectraIP B.V.",10
 "AS9304","HGC Global Communications Limited",10
 "AS9930","TT DOTCOM SDN BHD",10
-"AS12271","Charter Communications Inc",9
 "AS12353","Vodafone Portugal - Communicacoes Pessoais S.A.",9
 "AS1267","RIPE Network Coordination Centre",9
 "AS131596","TBC",9
