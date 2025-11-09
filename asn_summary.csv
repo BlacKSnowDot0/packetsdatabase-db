@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87735
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",21996
-"AS398324","Censys, Inc.",13544
+"AS398324","Censys, Inc.",13545
 "AS32934","Facebook, Inc.",12479
 "AS396982","Google LLC",10369
 "AS26210","AXS Bolivia S. A.",7972
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",757
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
-"AS51167","Contabo GmbH",664
+"AS51167","Contabo GmbH",665
 "AS10439","CariNet, Inc.",649
 "AS14618","Amazon.com, Inc.",647
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -198,10 +198,10 @@ ASN,Organization,IP_Count
 "AS27699","TELEFÔNICA BRASIL S.A",39
 "AS2856","British Telecommunications PLC",39
 "AS8048","CANTV Servicios, Venezuela",39
+"AS20473","The Constant Company, LLC",38
 "AS26599","TELEFÔNICA BRASIL S.A",38
 "AS4538","China Education and Research Network Center",38
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",38
-"AS20473","The Constant Company, LLC",37
 "AS8167","V tal",37
 "AS210558","1337 Services GmbH",36
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",36
@@ -309,6 +309,7 @@ ASN,Organization,IP_Count
 "AS140061","China Telecom",19
 "AS14593","Space Exploration Technologies Corporation",19
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",19
+"AS16591","Google Fiber Inc.",19
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",19
 "AS22927","Telefonica de Argentina",19
 "AS24348","CERNET2 IX at Tsinghua University",19
@@ -318,7 +319,6 @@ ASN,Organization,IP_Count
 "AS6167","Verizon Business",19
 "AS812","Rogers Communications Canada Inc.",19
 "AS11878","tzulo, inc.",18
-"AS16591","Google Fiber Inc.",18
 "AS17638","ASN for TIANJIN Provincial Net of CT",18
 "AS18049","Taiwan Infrastructure Network Technologie",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
