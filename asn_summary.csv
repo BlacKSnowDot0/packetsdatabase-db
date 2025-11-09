@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87735
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22002
-"AS398324","Censys, Inc.",13562
+"AS398324","Censys, Inc.",13565
 "AS32934","Facebook, Inc.",12479
 "AS396982","Google LLC",10374
 "AS26210","AXS Bolivia S. A.",7972
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1339
 "AS215269","LAZYCLOUD LTD",1312
 "AS32475","Internap Holding LLC",1292
-"AS13335","Cloudflare, Inc.",1265
+"AS13335","Cloudflare, Inc.",1267
 "AS36352","HostPapa",1245
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1177
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",757
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
-"AS51167","Contabo GmbH",667
+"AS51167","Contabo GmbH",669
 "AS10439","CariNet, Inc.",649
 "AS14618","Amazon.com, Inc.",647
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -106,7 +106,7 @@ ASN,Organization,IP_Count
 "AS29066","velia.net Internetdienste GmbH",153
 "AS47105","Vault Dweller OU",141
 "AS50219","LNK SYSTEMS MUNTENIA SRL",140
-"AS42237","w1n ltd",138
+"AS42237","w1n ltd",139
 "AS262551","Farol Telecom",132
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
@@ -214,10 +214,10 @@ ASN,Organization,IP_Count
 "AS34665","Petersburg Internet Network ltd.",34
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",34
 "AS46475","Limestone Networks, Inc.",34
+"AS4760","PCCW IMS Limited",34
 "AS9198","JSC Kazakhtelecom",34
 "AS12322","Free SAS",33
 "AS45671","Servers Australia Pty. Ltd",33
-"AS4760","PCCW IMS Limited",33
 "AS9498","Bharti Airtel Limited",33
 "AS263355","GTR NET COMUNICACOES EIRELI",32
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",32
@@ -656,6 +656,7 @@ ASN,Organization,IP_Count
 "AS328510","Ikeja Wireless (Pty) Ltd",5
 "AS329244","Connect, Surf and Smile Limited",5
 "AS3326","PRIVATE JOINT STOCK COMPANY ""DATAGROUP""",5
+"AS33647","Yadkin Valley Telephone",5
 "AS33915","Vodafone Libertel B.V.",5
 "AS34343","Eweka Internet Services B.V.",5
 "AS35682","BEST INTERNET SOLUTION XK",5
@@ -760,7 +761,6 @@ ASN,Organization,IP_Count
 "AS30619","TMCEL - Moçambique Telecom, SA",4
 "AS3301","Telia Company AB",4
 "AS3356","Level 3 Communications, Inc.",4
-"AS33647","Yadkin Valley Telephone",4
 "AS35104","Jusan Mobile JSC",4
 "AS35916","MULTACOM CORPORATION",4
 "AS36994","Vodacom",4
@@ -1391,6 +1391,7 @@ ASN,Organization,IP_Count
 "AS52444","Pogliotti & Pogliotti Construcciones S.A.",2
 "AS52639","MEGANET RJ INFORMÁTICA E TELECOMUNICAÇÕES LTDA",2
 "AS52752","Vegas Telecom Informática Ltda.",2
+"AS52771","GIGA BYTE TELECOMUNICACOES LTDA",2
 "AS52854","DIGITALSMART TELECOMUNICACOES LTDA",2
 "AS52916","Datanet Provedor de Internet Ltda",2
 "AS52967","NT Brasil Tecnologia Ltda. ME",2
@@ -2796,7 +2797,6 @@ ASN,Organization,IP_Count
 "AS52683","HiperNET Servico de Comunicacao LTDA ME",1
 "AS52694","NEXSUL TELECOM LTDA",1
 "AS52739","PROVEDOR INTERSOUSA LTDA",1
-"AS52771","GIGA BYTE TELECOMUNICACOES LTDA",1
 "AS52778","SANER TELECOM INFORMATICA LTDA ME",1
 "AS52787","MAX TELECOM PROVEDOR DE ACESSO A INTERNET LTDA",1
 "AS52793","Kelvyn Sat Comércio e telecomunicações Ltda",1
