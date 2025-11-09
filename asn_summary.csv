@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87735
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",21999
-"AS398324","Censys, Inc.",13555
+"AS398324","Censys, Inc.",13556
 "AS32934","Facebook, Inc.",12479
 "AS396982","Google LLC",10370
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7956
+"AS14061","DigitalOcean, LLC",7957
 "AS16276","OVH SAS",5829
 "AS4134","Chinanet",5017
 "AS6568","Entel S.A. - EntelNet",4537
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS215269","LAZYCLOUD LTD",1312
 "AS32475","Internap Holding LLC",1290
 "AS13335","Cloudflare, Inc.",1262
-"AS36352","HostPapa",1241
+"AS36352","HostPapa",1242
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1177
 "AS174","Cogent Communications",1163
@@ -167,12 +167,12 @@ ASN,Organization,IP_Count
 "AS18345","Servers Australia Pty. Ltd",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",55
+"AS6128","Cablevision Systems Corp.",55
 "AS19318","Interserver, Inc",54
 "AS20001","Charter Communications Inc",54
 "AS20115","Charter Communications",54
 "AS213877","u1host ltd",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
-"AS6128","Cablevision Systems Corp.",54
 "AS210644","AEZA INTERNATIONAL LTD",53
 "AS200514","KnownSRV Ltd.",52
 "AS149746","PT Blip Integrator Provider",49
@@ -390,6 +390,7 @@ ASN,Organization,IP_Count
 "AS17621","China Unicom Shanghai network",13
 "AS20011","Dimension Data",13
 "AS213194","Nechaev Dmitry Sergeevich",13
+"AS215240","Silent Connection Ltd.",13
 "AS25369","Hydra Communications Ltd",13
 "AS28840","PJSC ""TATTELECOM""",13
 "AS29465","MTN NIGERIA Communication limited",13
@@ -401,7 +402,6 @@ ASN,Organization,IP_Count
 "AS17639","ComClark Network & Technology Corp",12
 "AS2116","GLOBALCONNECT AS",12
 "AS213438","ColocaTel Inc.",12
-"AS215240","Silent Connection Ltd.",12
 "AS2637","Georgia Institute of Technology",12
 "AS3243","MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.",12
 "AS35042","Layer7 Networks GmbH",12
