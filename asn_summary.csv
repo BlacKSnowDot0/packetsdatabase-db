@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87735
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",21999
-"AS398324","Censys, Inc.",13551
+"AS398324","Censys, Inc.",13553
 "AS32934","Facebook, Inc.",12479
 "AS396982","Google LLC",10370
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7955
+"AS14061","DigitalOcean, LLC",7956
 "AS16276","OVH SAS",5829
 "AS4134","Chinanet",5017
 "AS6568","Entel S.A. - EntelNet",4537
@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS36352","HostPapa",1241
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1177
-"AS174","Cogent Communications",1162
+"AS174","Cogent Communications",1163
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS23470","ReliableSite.Net LLC",1097
@@ -75,7 +75,7 @@ ASN,Organization,IP_Count
 "AS7018","AT&T Enterprises, LLC",381
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS47890","UNMANAGED LTD",348
-"AS21859","Zenlayer Inc",345
+"AS21859","Zenlayer Inc",346
 "AS7922","Comcast Cable Communications, LLC",345
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",332
@@ -115,7 +115,7 @@ ASN,Organization,IP_Count
 "AS36007","Kamatera, Inc.",122
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
-"AS34984","Superonline Iletisim Hizmetleri A.S.",108
+"AS34984","Superonline Iletisim Hizmetleri A.S.",109
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",105
 "AS47331","TTNet A.S.",103
@@ -135,7 +135,7 @@ ASN,Organization,IP_Count
 "AS199785","Cloud Hosting Solutions, Limited.",80
 "AS200019","ALEXHOST SRL",78
 "AS271795","SERVITELCONET CIA. LTDA.",78
-"AS6739","VODAFONE ONO, S.A.",77
+"AS6739","VODAFONE ONO, S.A.",78
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
@@ -2138,6 +2138,7 @@ ASN,Organization,IP_Count
 "AS264631","RED PARAGUAYA DE TELECOMUNICACIONES SA",1
 "AS264637","Blue Consulting Group, S. A.",1
 "AS264668","NEDETEL S.A.",1
+"AS264754","SWISSNET S.R.L.",1
 "AS264770","Leonir Remussi (KDMNET)",1
 "AS264778","TotalCom Venezuela C.A.",1
 "AS264780","HomeNet LTDA",1
@@ -2346,6 +2347,7 @@ ASN,Organization,IP_Count
 "AS270669","ATTENTO NET TELECOM",1
 "AS270674","WebFiber Telecom",1
 "AS270738","R&R comercio de informartica e equipamentos LTDA",1
+"AS270791","icaro oliveira neder informática",1
 "AS270834","3D COIMBRA TELECOMUNICACOES EIRELI",1
 "AS270890","INFOTEC NETWORKS DE COSTA RICA",1
 "AS270943","FIBINET NETWORKS TELECOMUNICACOES LTDA",1
