@@ -10,7 +10,7 @@ ASN,Organization,IP_Count
 "AS16276","OVH SAS",5829
 "AS4134","Chinanet",5017
 "AS6568","Entel S.A. - EntelNet",4537
-"AS58466","CHINANET Guangdong province network",4439
+"AS58466","CHINANET Guangdong province network",4440
 "AS16509","Amazon.com, Inc.",4322
 "AS396998","Path Network, Inc.",3992
 "AS45102","Alibaba (US) Technology Co., Ltd.",3941
@@ -40,7 +40,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1163
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS23470","ReliableSite.Net LLC",1097
+"AS23470","ReliableSite.Net LLC",1098
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",997
 "AS51852","Private Layer INC",907
@@ -2986,5 +2986,6 @@ ASN,Organization,IP_Count
 "AS9583","Sify Limited",1
 "AS9595","NTT-ME Corporation",1
 "AS9617","JCOM Co., Ltd.",1
+"AS9845","LG HelloVision Corp.",1
 "AS9891","CS Loxinfo Public Company Limited",1
 "AS9924","Taiwan Fixed Network, Telco and Network Service Provider.",1
