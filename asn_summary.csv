@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87735
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",21999
-"AS398324","Censys, Inc.",13556
+"AS398324","Censys, Inc.",13558
 "AS32934","Facebook, Inc.",12479
-"AS396982","Google LLC",10370
+"AS396982","Google LLC",10371
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7957
 "AS16276","OVH SAS",5829
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2559
 "AS6939","Hurricane Electric LLC",2547
 "AS9808","China Mobile",2078
-"AS202425","IP Volume inc",1749
+"AS202425","IP Volume inc",1750
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1523
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1402
 "AS49870","Alsycon B.V.",1339
 "AS215269","LAZYCLOUD LTD",1312
-"AS32475","Internap Holding LLC",1290
+"AS32475","Internap Holding LLC",1291
 "AS13335","Cloudflare, Inc.",1262
 "AS36352","HostPapa",1242
 "AS204428","SS-Net",1182
@@ -238,6 +238,7 @@ ASN,Organization,IP_Count
 "AS3269","Telecom Italia S.p.A.",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS1103","SURF B.V.",27
+"AS141995","Contabo Asia Private Limited",27
 "AS200590","NLS Kazakhstan LLC",27
 "AS30058","FDCservers.net",27
 "AS34534","FBW NETWORKS SAS",27
@@ -247,7 +248,6 @@ ASN,Organization,IP_Count
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
 "AS12912","T-Mobile Polska S.A.",26
 "AS13213","UK-2 Limited",26
-"AS141995","Contabo Asia Private Limited",26
 "AS210509","Optimum Line for Internet Services Ltd.",26
 "AS2200","Renater",26
 "AS23693","PT. Telekomunikasi Selular",26
@@ -565,6 +565,7 @@ ASN,Organization,IP_Count
 "AS212374","Virtuozzo International GmbH",6
 "AS212598","SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.",6
 "AS213893","IPTransit Business LTD",6
+"AS214209","Internet Magnate (Pty) Ltd",6
 "AS214762","Sebastian Stefanek trading as MatHost.eu",6
 "AS216158","Teleport Rus LLC",6
 "AS216300","Closed Joint Stock Company ""AbkhazMedia""",6
@@ -630,7 +631,6 @@ ASN,Organization,IP_Count
 "AS21246","IPKO Telecommunications LLC",5
 "AS212695","Link Telecom Service Ltd",5
 "AS213851","Marcel Hanisch",5
-"AS214209","Internet Magnate (Pty) Ltd",5
 "AS215311","Regxa Company for Information Technology Ltd",5
 "AS215730","H2NEXUS LTD",5
 "AS22612","Namecheap, Inc.",5
@@ -768,6 +768,7 @@ ASN,Organization,IP_Count
 "AS39891","Saudi Telecom Company JSC",4
 "AS399296","Rackdog, LLC",4
 "AS400391","Pacific Wyyerd LLC",4
+"AS43612","Company for communications services A1 Makedonija DOOEL Skopje",4
 "AS43754","Asiatech Data Transmission company",4
 "AS44395","Ucom CJSC",4
 "AS44486","Oliver Horscht is trading as ""SYNLINQ""",4
@@ -953,7 +954,6 @@ ASN,Organization,IP_Count
 "AS43047","Stream-Network Ltd.",3
 "AS43350","NForce Entertainment B.V.",3
 "AS43588","IM Level 7 SRL",3
-"AS43612","Company for communications services A1 Makedonija DOOEL Skopje",3
 "AS44866","FOP Fedasiuk Oksana Petrivna",3
 "AS44925","1984 ehf",3
 "AS45544","SUPERDATA-VN",3
