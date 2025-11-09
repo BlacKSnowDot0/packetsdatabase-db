@@ -1,7 +1,7 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87735
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
-"AS211298","Driftnet Ltd",21994
+"AS211298","Driftnet Ltd",21995
 "AS398324","Censys, Inc.",13531
 "AS32934","Facebook, Inc.",12479
 "AS396982","Google LLC",10367
@@ -15,14 +15,14 @@ ASN,Organization,IP_Count
 "AS396998","Path Network, Inc.",3992
 "AS45102","Alibaba (US) Technology Co., Ltd.",3939
 "AS63949","Akamai Technologies, Inc.",3603
-"AS0","",3562
+"AS0","",3564
 "AS15169","Google LLC",3362
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3121
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2751
 "AS142002","Scloud Pte Ltd",2559
-"AS6939","Hurricane Electric LLC",2541
+"AS6939","Hurricane Electric LLC",2543
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1749
 "AS214295","SKYNET NETWORK LTD",1631
@@ -33,10 +33,10 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1338
 "AS215269","LAZYCLOUD LTD",1312
 "AS32475","Internap Holding LLC",1287
-"AS13335","Cloudflare, Inc.",1257
+"AS13335","Cloudflare, Inc.",1258
 "AS36352","HostPapa",1238
 "AS204428","SS-Net",1182
-"AS22552","eSited Solutions",1176
+"AS22552","eSited Solutions",1177
 "AS174","Cogent Communications",1162
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
@@ -63,7 +63,7 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",503
-"AS51115","HLL LLC",495
+"AS51115","HLL LLC",496
 "AS50360","Tamatiya EOOD",492
 "AS53667","FranTech Solutions",478
 "AS212238","Datacamp Limited",463
@@ -88,7 +88,7 @@ ASN,Organization,IP_Count
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",286
 "AS213613","BOTSHIELD LTD",265
 "AS48090","TECHOFF SRV LIMITED",254
-"AS208843","Alpha Strike Labs GmbH",252
+"AS208843","Alpha Strike Labs GmbH",253
 "AS60223","Netiface Limited",250
 "AS18403","FPT Telecom Company",249
 "AS209272","Alviva Holding Limited",230
@@ -124,14 +124,14 @@ ASN,Organization,IP_Count
 "AS205352","KABELNET LTD",93
 "AS63018","Dedicated.com",92
 "AS210125","PRIAM NET Sh.p.k.",89
+"AS40021","Nubes, LLC",85
 "AS58461","Chinanet",85
-"AS40021","Nubes, LLC",84
 "AS4766","Korea Telecom",83
 "AS136435","ELITE COMMUNICATION",82
+"AS8560","IONOS SE",82
 "AS16735","ALGAR TELECOM S/A",81
 "AS28209","Under Servicos de Internet Ltda",81
 "AS5617","Orange Polska Spolka Akcyjna",81
-"AS8560","IONOS SE",81
 "AS199785","Cloud Hosting Solutions, Limited.",80
 "AS200019","ALEXHOST SRL",78
 "AS271795","SERVITELCONET CIA. LTDA.",78
@@ -238,6 +238,7 @@ ASN,Organization,IP_Count
 "AS3269","Telecom Italia S.p.A.",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS1103","SURF B.V.",27
+"AS200590","NLS Kazakhstan LLC",27
 "AS30058","FDCservers.net",27
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
@@ -247,7 +248,6 @@ ASN,Organization,IP_Count
 "AS12912","T-Mobile Polska S.A.",26
 "AS13213","UK-2 Limited",26
 "AS141995","Contabo Asia Private Limited",26
-"AS200590","NLS Kazakhstan LLC",26
 "AS210509","Optimum Line for Internet Services Ltd.",26
 "AS2200","Renater",26
 "AS23693","PT. Telekomunikasi Selular",26
@@ -380,6 +380,7 @@ ASN,Organization,IP_Count
 "AS4808","China Unicom Beijing Province Network",14
 "AS48721","Flyservers S.A.",14
 "AS60781","LeaseWeb Netherlands B.V.",14
+"AS64236","UnReal Servers, LLC",14
 "AS11232","Midcontinent Communications",13
 "AS11427","Charter Communications Inc",13
 "AS12400","Partner Communications Ltd.",13
@@ -397,7 +398,6 @@ ASN,Organization,IP_Count
 "AS48753","AVA HOST SRL",13
 "AS53006","ALGAR TELECOM S/A",13
 "AS6327","Shaw Communications Inc.",13
-"AS64236","UnReal Servers, LLC",13
 "AS17639","ComClark Network & Technology Corp",12
 "AS2116","GLOBALCONNECT AS",12
 "AS213438","ColocaTel Inc.",12
@@ -1036,6 +1036,7 @@ ASN,Organization,IP_Count
 "AS134375","Fusionnet Web Services Private Limited",2
 "AS134502","Victorians Online",2
 "AS134732","Dot Internet",2
+"AS134768","CHINANET SHAANXI province Cloud Base network",2
 "AS134835","Starry Network Limited",2
 "AS134863","SP INTERNET TECHNOLOGIES PRIVATE LTD",2
 "AS13490","Buckeye Cablevision, Inc.",2
@@ -1551,7 +1552,6 @@ ASN,Organization,IP_Count
 "AS134601","Microlink Technology",1
 "AS134674","Tata Play Broadband Private Limited",1
 "AS134756","China Telecom",1
-"AS134768","CHINANET SHAANXI province Cloud Base network",1
 "AS134877","Sri Vari Network Private Limited",1
 "AS134907","Bharat VoIP Communications Pvt Ltd",1
 "AS134911","Sigaram Networks Pvt Ltd",1
