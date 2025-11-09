@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87735
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",21996
-"AS398324","Censys, Inc.",13543
+"AS398324","Censys, Inc.",13544
 "AS32934","Facebook, Inc.",12479
 "AS396982","Google LLC",10369
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7952
+"AS14061","DigitalOcean, LLC",7953
 "AS16276","OVH SAS",5827
 "AS4134","Chinanet",5017
 "AS6568","Entel S.A. - EntelNet",4537
@@ -15,14 +15,14 @@ ASN,Organization,IP_Count
 "AS396998","Path Network, Inc.",3992
 "AS45102","Alibaba (US) Technology Co., Ltd.",3940
 "AS63949","Akamai Technologies, Inc.",3603
-"AS0","",3565
+"AS0","",3568
 "AS15169","Google LLC",3362
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3121
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2751
 "AS142002","Scloud Pte Ltd",2559
-"AS6939","Hurricane Electric LLC",2545
+"AS6939","Hurricane Electric LLC",2546
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1749
 "AS214295","SKYNET NETWORK LTD",1631
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",821
 "AS215925","VPSVAULT.HOST LTD",813
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",756
+"AS20052","Arbor Networks, Inc.",757
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
 "AS51167","Contabo GmbH",664
 "AS10439","CariNet, Inc.",649
@@ -78,7 +78,7 @@ ASN,Organization,IP_Count
 "AS21859","Zenlayer Inc",345
 "AS7922","Comcast Cable Communications, LLC",345
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",330
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",331
 "AS8151","Uninet S.A. de C.V.",325
 "AS214943","Railnet LLC",315
 "AS45899","VNPT Corp",315
@@ -189,9 +189,9 @@ ASN,Organization,IP_Count
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS262378","Compuservice Empreendimentos Ltda",42
 "AS30633","Leaseweb USA, Inc.",42
+"AS5650","Frontier Communications of America, Inc.",42
 "AS7738","V tal",42
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",41
-"AS5650","Frontier Communications of America, Inc.",41
 "AS21928","T-Mobile USA, Inc.",40
 "AS23969","TOT Public Company Limited",40
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",40
