@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87735
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22000
-"AS398324","Censys, Inc.",13561
+"AS398324","Censys, Inc.",13562
 "AS32934","Facebook, Inc.",12479
-"AS396982","Google LLC",10373
+"AS396982","Google LLC",10374
 "AS26210","AXS Bolivia S. A.",7972
 "AS14061","DigitalOcean, LLC",7960
 "AS16276","OVH SAS",5829
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4440
 "AS16509","Amazon.com, Inc.",4322
 "AS396998","Path Network, Inc.",3992
-"AS45102","Alibaba (US) Technology Co., Ltd.",3941
+"AS45102","Alibaba (US) Technology Co., Ltd.",3943
 "AS63949","Akamai Technologies, Inc.",3603
 "AS0","",3573
 "AS15169","Google LLC",3362
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1339
 "AS215269","LAZYCLOUD LTD",1312
 "AS32475","Internap Holding LLC",1292
-"AS13335","Cloudflare, Inc.",1264
+"AS13335","Cloudflare, Inc.",1265
 "AS36352","HostPapa",1245
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1177
@@ -164,11 +164,11 @@ ASN,Organization,IP_Count
 "AS55720","Gigabit Hosting Sdn Bhd",59
 "AS20278","Nexeon Technologies, Inc.",57
 "AS48090","PPTECHNOLOGY LIMITED",56
+"AS6128","Cablevision Systems Corp.",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS20115","Charter Communications",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",55
-"AS6128","Cablevision Systems Corp.",55
 "AS19318","Interserver, Inc",54
 "AS20001","Charter Communications Inc",54
 "AS213877","u1host ltd",54
@@ -487,6 +487,7 @@ ASN,Organization,IP_Count
 "AS18209","Atria Convergence Technologies Pvt. Ltd.,",8
 "AS18986","Calligo (Canada) Inc.",8
 "AS198361","Yaglom Labs Ltd",8
+"AS202796","JSR IT B.V.",8
 "AS209956","Telkoturk Iletisim Hizmetleri A.S.",8
 "AS211507","Julian Achter",8
 "AS24086","Viettel Corporation",8
@@ -513,7 +514,6 @@ ASN,Organization,IP_Count
 "AS153096","PT High Speed Connection Network",7
 "AS17762","Tata Teleservices (Maharashtra) Ltd",7
 "AS19148","Leaseweb USA, Inc.",7
-"AS202796","JSR IT B.V.",7
 "AS203684","Imen Sanat Novin Alighapoo Private Joint Stock Company",7
 "AS204044","PACKET STAR NETWORKS LIMITED",7
 "AS204631","VIVANET GmbH",7
@@ -1423,6 +1423,7 @@ ASN,Organization,IP_Count
 "AS58485","WIFIAN ID",2
 "AS58504","Techminds Network Pvt. Ltd.",2
 "AS58800","ACE IT Networks Limited",2
+"AS59134","PT. Datacomm Diangraha",2
 "AS59165","Auspice Infratel Pvt. Ltd.",2
 "AS59187","NEEVAI SUPERCLOUD PVT LTD",2
 "AS59930","Telegram Messenger Inc",2
@@ -2888,7 +2889,6 @@ ASN,Organization,IP_Count
 "AS58768","Daffodil Online Ltd.",1
 "AS58895","E Bone Network (Pvt.) Limited",1
 "AS58945","Virgo Communication Ltd",1
-"AS59134","PT. Datacomm Diangraha",1
 "AS59150","PT Rtiga Global Media",1
 "AS59257","CMPak Limited",1
 "AS59282","PT Giga Patra Multimedia",1
