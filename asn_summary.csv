@@ -4,9 +4,9 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",21999
 "AS398324","Censys, Inc.",13558
 "AS32934","Facebook, Inc.",12479
-"AS396982","Google LLC",10371
+"AS396982","Google LLC",10372
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7957
+"AS14061","DigitalOcean, LLC",7958
 "AS16276","OVH SAS",5829
 "AS4134","Chinanet",5017
 "AS6568","Entel S.A. - EntelNet",4537
@@ -15,12 +15,12 @@ ASN,Organization,IP_Count
 "AS396998","Path Network, Inc.",3992
 "AS45102","Alibaba (US) Technology Co., Ltd.",3941
 "AS63949","Akamai Technologies, Inc.",3603
-"AS0","",3571
+"AS0","",3572
 "AS15169","Google LLC",3362
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3121
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2752
+"AS8075","Microsoft Corporation",2753
 "AS142002","Scloud Pte Ltd",2559
 "AS6939","Hurricane Electric LLC",2548
 "AS9808","China Mobile",2078
@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS36352","HostPapa",1243
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1177
-"AS174","Cogent Communications",1164
+"AS174","Cogent Communications",1165
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS23470","ReliableSite.Net LLC",1098
@@ -87,8 +87,8 @@ ASN,Organization,IP_Count
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",286
 "AS213613","BOTSHIELD LTD",265
+"AS208843","Alpha Strike Labs GmbH",254
 "AS48090","TECHOFF SRV LIMITED",254
-"AS208843","Alpha Strike Labs GmbH",253
 "AS60223","Netiface Limited",250
 "AS18403","FPT Telecom Company",249
 "AS209272","Alviva Holding Limited",230
@@ -419,6 +419,7 @@ ASN,Organization,IP_Count
 "AS137718","Beijing Volcano Engine Technology Co., Ltd.",11
 "AS142032","High Family Technology Co., Limited",11
 "AS17552","TRUE INTERNET CORPORATION CO. LTD.",11
+"AS197309","RS-Media LLC",11
 "AS200651","FlokiNET ehf",11
 "AS205119","TELEKS DOOEL Skopje",11
 "AS206804","EstNOC OY",11
@@ -435,7 +436,6 @@ ASN,Organization,IP_Count
 "AS12271","Charter Communications Inc",10
 "AS149359","PT Persada Data Multimedia",10
 "AS153443","VPSRE.NET LLC",10
-"AS197309","RS-Media LLC",10
 "AS202520","SkyPass Solutions Sp. z.o.o.",10
 "AS24835","Vodafone Data - Egypt",10
 "AS25019","Saudi Telecom Company JSC",10
