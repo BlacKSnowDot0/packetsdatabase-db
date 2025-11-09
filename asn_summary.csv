@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87735
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",21995
-"AS398324","Censys, Inc.",13531
+"AS398324","Censys, Inc.",13532
 "AS32934","Facebook, Inc.",12479
 "AS396982","Google LLC",10367
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7948
+"AS14061","DigitalOcean, LLC",7949
 "AS16276","OVH SAS",5826
 "AS4134","Chinanet",5017
 "AS6568","Entel S.A. - EntelNet",4537
@@ -33,8 +33,8 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1338
 "AS215269","LAZYCLOUD LTD",1312
 "AS32475","Internap Holding LLC",1287
-"AS13335","Cloudflare, Inc.",1258
-"AS36352","HostPapa",1238
+"AS13335","Cloudflare, Inc.",1259
+"AS36352","HostPapa",1239
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1177
 "AS174","Cogent Communications",1162
@@ -42,7 +42,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS23470","ReliableSite.Net LLC",1097
 "AS201401","NewVM B.V.",1076
-"AS208684","BHA CONSEIL SARL",996
+"AS208684","BHA CONSEIL SARL",997
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -225,8 +225,8 @@ ASN,Organization,IP_Count
 "AS44592","SkyLink Data Center BV",31
 "AS17557","Pakistan Telecommuication company limited",30
 "AS200593","PROSPERO OOO",30
+"AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",30
 "AS269193","Iktelecom Ltda",30
-"AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS141679","China Telecom",28
