@@ -6,7 +6,7 @@ ASN,Organization,IP_Count
 "AS32934","Facebook, Inc.",12479
 "AS396982","Google LLC",10369
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7951
+"AS14061","DigitalOcean, LLC",7952
 "AS16276","OVH SAS",5827
 "AS4134","Chinanet",5017
 "AS6568","Entel S.A. - EntelNet",4537
@@ -65,10 +65,10 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",503
 "AS51115","HLL LLC",497
 "AS50360","Tamatiya EOOD",492
-"AS53667","FranTech Solutions",478
+"AS53667","FranTech Solutions",479
 "AS212238","Datacamp Limited",463
 "AS12876","ONLINE S.A.S.",458
-"AS9829","Bharat Sanchar Nigam Ltd",444
+"AS9829","Bharat Sanchar Nigam Ltd",445
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",405
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -504,6 +504,7 @@ ASN,Organization,IP_Count
 "AS6698","Virtual Systems LLC",8
 "AS7418","TELEFÓNICA CHILE S.A.",8
 "AS8386","VODAFONE NET ILETISIM HIZMETLERI ANONIM SIRKETI",8
+"AS11172","Alestra, S. de R.L. de C.V.",7
 "AS1221","Telstra Limited",7
 "AS133661","Netplus Broadband Services Private Limited",7
 "AS135478","PT. Cyberindo Aditama",7
@@ -542,7 +543,6 @@ ASN,Organization,IP_Count
 "AS9541","Cyber Internet Services (Private) Limited",7
 "AS9658","Eastern Telecommunications Philippines, Inc.",7
 "AS9981","Saero Network Service LTD",7
-"AS11172","Alestra, S. de R.L. de C.V.",6
 "AS11562","Net Uno, C.A.",6
 "AS1257","Tele2 Sverige AB",6
 "AS132116","Ani Network Pvt Ltd",6
