@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS215269","LAZYCLOUD LTD",1312
 "AS32475","Internap Holding LLC",1292
 "AS13335","Cloudflare, Inc.",1262
-"AS36352","HostPapa",1244
+"AS36352","HostPapa",1245
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1177
 "AS174","Cogent Communications",1165
@@ -304,6 +304,7 @@ ASN,Organization,IP_Count
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS4816","China Telecom (Group)",20
 "AS5384","EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",20
+"AS812","Rogers Communications Canada Inc.",20
 "AS11426","Charter Communications Inc",19
 "AS136142","Enigma Fiber Pvt Ltd",19
 "AS140061","China Telecom",19
@@ -317,7 +318,6 @@ ASN,Organization,IP_Count
 "AS262287","Maxihost LTDA",19
 "AS49531","""NetCom-R"" LLC",19
 "AS6167","Verizon Business",19
-"AS812","Rogers Communications Canada Inc.",19
 "AS11878","tzulo, inc.",18
 "AS17638","ASN for TIANJIN Provincial Net of CT",18
 "AS18049","Taiwan Infrastructure Network Technologie",18
@@ -400,6 +400,7 @@ ASN,Organization,IP_Count
 "AS53006","ALGAR TELECOM S/A",13
 "AS6327","Shaw Communications Inc.",13
 "AS17639","ComClark Network & Technology Corp",12
+"AS197309","RS-Media LLC",12
 "AS2116","GLOBALCONNECT AS",12
 "AS213438","ColocaTel Inc.",12
 "AS2637","Georgia Institute of Technology",12
@@ -419,7 +420,6 @@ ASN,Organization,IP_Count
 "AS137718","Beijing Volcano Engine Technology Co., Ltd.",11
 "AS142032","High Family Technology Co., Limited",11
 "AS17552","TRUE INTERNET CORPORATION CO. LTD.",11
-"AS197309","RS-Media LLC",11
 "AS200651","FlokiNET ehf",11
 "AS205119","TELEKS DOOEL Skopje",11
 "AS206804","EstNOC OY",11
@@ -1182,6 +1182,7 @@ ASN,Organization,IP_Count
 "AS24550","Websurfer Nepal Communication System Pvt. Ltd",2
 "AS24739","JSC ""Severen-Telecom""",2
 "AS24945","Telecommunication Company Vinteleport Ltd.",2
+"AS25144","""Telekomunikacije Republike Srpske"" akcionarsko drustvo Banja Luka",2
 "AS25159","PJSC MegaFon",2
 "AS2519","ARTERIA Networks Corporation",2
 "AS25553","TRK Gluhov Ltd.",2
@@ -1993,7 +1994,6 @@ ASN,Organization,IP_Count
 "AS24768","ALMOUROLTEC SERVICOS DE INFORMATICA E INTERNET LDA",1
 "AS24872","MAGNUS NG LLC",1
 "AS25106","Mobile TeleSystems JLLC",1
-"AS25144","""Telekomunikacije Republike Srpske"" akcionarsko drustvo Banja Luka",1
 "AS25229","Limited Liability Company ""KYIVSKI TELEKOMUNIKATSIYNI MEREZHI""",1
 "AS25310","Vodafone Limited",1
 "AS25403","Firm Delta PE",1
