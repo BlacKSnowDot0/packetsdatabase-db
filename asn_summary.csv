@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87744
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22005
-"AS398324","Censys, Inc.",13617
+"AS398324","Censys, Inc.",13618
 "AS32934","Facebook, Inc.",12479
 "AS396982","Google LLC",10376
 "AS14061","DigitalOcean, LLC",7976
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",759
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
 "AS51167","Contabo GmbH",670
-"AS10439","CariNet, Inc.",652
+"AS10439","CariNet, Inc.",654
 "AS14618","Amazon.com, Inc.",647
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS4837","CHINA UNICOM China169 Backbone",576
@@ -126,7 +126,7 @@ ASN,Organization,IP_Count
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS40021","Nubes, LLC",87
 "AS58461","Chinanet",85
-"AS8560","IONOS SE",84
+"AS8560","IONOS SE",85
 "AS4766","Korea Telecom",83
 "AS136435","ELITE COMMUNICATION",82
 "AS199785","Cloud Hosting Solutions, Limited.",82
@@ -198,11 +198,11 @@ ASN,Organization,IP_Count
 "AS2856","British Telecommunications PLC",40
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",40
 "AS27699","TELEFÔNICA BRASIL S.A",39
+"AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",39
 "AS8048","CANTV Servicios, Venezuela",39
 "AS20473","The Constant Company, LLC",38
 "AS26599","TELEFÔNICA BRASIL S.A",38
 "AS4538","China Education and Research Network Center",38
-"AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",38
 "AS8167","V tal",37
 "AS210558","1337 Services GmbH",36
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",36
@@ -268,13 +268,13 @@ ASN,Organization,IP_Count
 "AS577","Bell Canada",24
 "AS60068","Datacamp Limited",24
 "AS8193","""Uzbektelekom"" Joint Stock Company",24
+"AS8796","FD-298-8796",24
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",24
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",23
 "AS198037","SPACECORE SOLUTION LTD",23
 "AS329490","Promethean Consulting Limited",23
 "AS62240","Clouvider Limited",23
 "AS7303","Telecom Argentina S.A.",23
-"AS8796","FD-298-8796",23
 "AS17561","Larus Limited",22
 "AS197309","RS-Media LLC",22
 "AS213010","Gening Nikita Dmitrievich",22
