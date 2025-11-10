@@ -1,5 +1,5 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87740
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87741
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22003
 "AS398324","Censys, Inc.",13606
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS215269","LAZYCLOUD LTD",1312
 "AS32475","Internap Holding LLC",1292
 "AS13335","Cloudflare, Inc.",1273
-"AS36352","HostPapa",1247
+"AS36352","HostPapa",1248
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1177
 "AS174","Cogent Communications",1167
@@ -86,8 +86,8 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",286
-"AS213613","BOTSHIELD LTD",265
-"AS208843","Alpha Strike Labs GmbH",256
+"AS213613","BOTSHIELD LTD",266
+"AS208843","Alpha Strike Labs GmbH",257
 "AS48090","TECHOFF SRV LIMITED",254
 "AS60223","Netiface Limited",250
 "AS18403","FPT Telecom Company",249
@@ -230,6 +230,7 @@ ASN,Organization,IP_Count
 "AS269193","Iktelecom Ltda",30
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
+"AS1103","SURF B.V.",28
 "AS141679","China Telecom",28
 "AS146817","Hubei Feixun Network Co., Ltd",28
 "AS149705","PT Wijaya Trimitra Indonesia",28
@@ -240,7 +241,6 @@ ASN,Organization,IP_Count
 "AS30860","Virtual Systems LLC",28
 "AS3269","Telecom Italia S.p.A.",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
-"AS1103","SURF B.V.",27
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
 "AS55933","Cloudie Limited",27
@@ -347,6 +347,7 @@ ASN,Organization,IP_Count
 "AS140726","China Unicom",16
 "AS207713","GLOBAL INTERNET SOLUTIONS LLC",16
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",16
+"AS215240","Silent Connection Ltd.",16
 "AS24812","NPK Home-Net Ltd.",16
 "AS25198","INTERKVM HOST SRL",16
 "AS2914","NTT America, Inc.",16
@@ -362,7 +363,6 @@ ASN,Organization,IP_Count
 "AS199414","Noah Kolossa",15
 "AS202448","MVPS LTD",15
 "AS211619","MAXKO d.o.o.",15
-"AS215240","Silent Connection Ltd.",15
 "AS263767","CORPORACIÓN GALA IT, C.A.",15
 "AS272547","Servicos de Infraestrutura e Datacenter",15
 "AS28126","BRISANET SERVICOS DE TELECOMUNICACOES LTDA",15
