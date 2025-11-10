@@ -1,12 +1,12 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87740
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
-"AS211298","Driftnet Ltd",22002
-"AS398324","Censys, Inc.",13602
+"AS211298","Driftnet Ltd",22003
+"AS398324","Censys, Inc.",13604
 "AS32934","Facebook, Inc.",12479
 "AS396982","Google LLC",10376
+"AS14061","DigitalOcean, LLC",7972
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7971
 "AS16276","OVH SAS",5830
 "AS4134","Chinanet",5017
 "AS6568","Entel S.A. - EntelNet",4537
@@ -22,7 +22,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2756
 "AS142002","Scloud Pte Ltd",2559
-"AS6939","Hurricane Electric LLC",2551
+"AS6939","Hurricane Electric LLC",2552
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1751
 "AS214295","SKYNET NETWORK LTD",1631
@@ -92,8 +92,8 @@ ASN,Organization,IP_Count
 "AS60223","Netiface Limited",250
 "AS18403","FPT Telecom Company",249
 "AS209272","Alviva Holding Limited",230
+"AS141718","haoxiangyun",222
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
-"AS141718","haoxiangyun",221
 "AS701","Verizon Business",220
 "AS14987","Rethem Hosting LLC",215
 "AS12555","Data-center IMAQLIQ Ltd.",192
@@ -163,12 +163,12 @@ ASN,Organization,IP_Count
 "AS49544","i3D.net B.V",59
 "AS55720","Gigabit Hosting Sdn Bhd",59
 "AS20278","Nexeon Technologies, Inc.",57
+"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",56
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS6128","Cablevision Systems Corp.",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS20115","Charter Communications",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
-"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",55
 "AS19318","Interserver, Inc",54
 "AS20001","Charter Communications Inc",54
 "AS210644","AEZA INTERNATIONAL LTD",54
@@ -207,11 +207,11 @@ ASN,Organization,IP_Count
 "AS210558","1337 Services GmbH",36
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",36
 "AS42624","Global-Data System IT Corporation",36
+"AS12322","Free SAS",35
 "AS1680","Cellcom Fixed Line Communication L.P",35
 "AS213790","Limited Network LTD",35
 "AS30083","velia.net",35
 "AS5089","Virgin Media Limited",35
-"AS12322","Free SAS",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",34
 "AS46475","Limestone Networks, Inc.",34
@@ -298,6 +298,7 @@ ASN,Organization,IP_Count
 "AS4800","PT Aplikanusa Lintasarta",21
 "AS50887","DC FIBER HOME SRL",21
 "AS56067","Metrabyte Co.,Ltd",21
+"AS812","Rogers Communications Canada Inc.",21
 "AS9299","Philippine Long Distance Telephone Co.",21
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
@@ -305,7 +306,6 @@ ASN,Organization,IP_Count
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS4816","China Telecom (Group)",20
 "AS5384","EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",20
-"AS812","Rogers Communications Canada Inc.",20
 "AS11426","Charter Communications Inc",19
 "AS136142","Enigma Fiber Pvt Ltd",19
 "AS140061","China Telecom",19
