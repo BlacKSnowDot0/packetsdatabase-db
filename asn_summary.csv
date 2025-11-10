@@ -20,11 +20,11 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3123
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2755
+"AS8075","Microsoft Corporation",2756
 "AS142002","Scloud Pte Ltd",2559
 "AS6939","Hurricane Electric LLC",2550
 "AS9808","China Mobile",2078
-"AS202425","IP Volume inc",1750
+"AS202425","IP Volume inc",1751
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1524
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",758
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
 "AS51167","Contabo GmbH",670
-"AS10439","CariNet, Inc.",650
+"AS10439","CariNet, Inc.",651
 "AS14618","Amazon.com, Inc.",647
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS4837","CHINA UNICOM China169 Backbone",576
@@ -2959,6 +2959,7 @@ ASN,Organization,IP_Count
 "AS7049","Silica Networks Argentina S.A.",1
 "AS7065","Sonic.net, LLC",1
 "AS7106","Com Net, Inc.",1
+"AS7195","EDGEUNO S.A.S",1
 "AS7363","-Reserved AS-",1
 "AS7488","CNServer LLC",1
 "AS7522","STNet, Incorporated",1
