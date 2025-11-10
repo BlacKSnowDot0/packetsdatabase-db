@@ -6,7 +6,7 @@ ASN,Organization,IP_Count
 "AS32934","Facebook, Inc.",12479
 "AS396982","Google LLC",10376
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7970
+"AS14061","DigitalOcean, LLC",7971
 "AS16276","OVH SAS",5830
 "AS4134","Chinanet",5017
 "AS6568","Entel S.A. - EntelNet",4537
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1339
 "AS215269","LAZYCLOUD LTD",1312
 "AS32475","Internap Holding LLC",1292
-"AS13335","Cloudflare, Inc.",1270
+"AS13335","Cloudflare, Inc.",1271
 "AS36352","HostPapa",1247
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1177
@@ -1043,6 +1043,7 @@ ASN,Organization,IP_Count
 "AS13490","Buckeye Cablevision, Inc.",2
 "AS135037","Techno Asia Infotech Limited",2
 "AS135967","Bach Kim Network solutions Join stock company",2
+"AS136052","PT Cloud Hosting Indonesia",2
 "AS136197","Xiong'an, Hebei Province, P.R.China.",2
 "AS136224","City Online Ltd.",2
 "AS136258","BrainStorm Network, Inc",2
@@ -1576,7 +1577,6 @@ ASN,Organization,IP_Count
 "AS135780","AirFiber Networks Pvt Ltd",1
 "AS135782","Nyak Technologies And Teleservices Pvt Ltd",1
 "AS135818","Green Tech Net Com Pvt Ltd",1
-"AS136052","PT Cloud Hosting Indonesia",1
 "AS136105","CV. ANINDISA KOMPUTINDO PRATAMA",1
 "AS136171","Medha Hosting",1
 "AS136200","CHINANET Guangdong province Foshan MAN network",1
