@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87741
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87742
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
-"AS211298","Driftnet Ltd",22003
+"AS211298","Driftnet Ltd",22005
 "AS398324","Censys, Inc.",13613
 "AS32934","Facebook, Inc.",12479
 "AS396982","Google LLC",10376
-"AS14061","DigitalOcean, LLC",7974
+"AS14061","DigitalOcean, LLC",7976
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5830
 "AS4134","Chinanet",5017
@@ -22,7 +22,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2756
 "AS142002","Scloud Pte Ltd",2559
-"AS6939","Hurricane Electric LLC",2552
+"AS6939","Hurricane Electric LLC",2553
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1751
 "AS214295","SKYNET NETWORK LTD",1631
@@ -66,8 +66,8 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",498
 "AS50360","Tamatiya EOOD",492
 "AS53667","FranTech Solutions",480
+"AS12876","ONLINE S.A.S.",464
 "AS212238","Datacamp Limited",463
-"AS12876","ONLINE S.A.S.",461
 "AS9829","Bharat Sanchar Nigam Ltd",449
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",405
@@ -137,9 +137,9 @@ ASN,Organization,IP_Count
 "AS200019","ALEXHOST SRL",78
 "AS271795","SERVITELCONET CIA. LTDA.",78
 "AS211736","FOP Dmytro Nedilskyi",76
+"AS11320","LightEdge Solutions",75
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
-"AS11320","LightEdge Solutions",74
 "AS56046","China Mobile Communications Corporation",74
 "AS31898","Oracle Corporation",73
 "AS3920","ESTOXY OU",71
