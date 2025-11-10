@@ -7,7 +7,7 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",10376
 "AS14061","DigitalOcean, LLC",7976
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5830
+"AS16276","OVH SAS",5831
 "AS4134","Chinanet",5017
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4440
@@ -32,8 +32,8 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1404
 "AS49870","Alsycon B.V.",1342
 "AS215269","LAZYCLOUD LTD",1312
-"AS32475","Internap Holding LLC",1296
-"AS13335","Cloudflare, Inc.",1273
+"AS32475","Internap Holding LLC",1297
+"AS13335","Cloudflare, Inc.",1274
 "AS36352","HostPapa",1249
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1177
@@ -79,7 +79,7 @@ ASN,Organization,IP_Count
 "AS7922","Comcast Cable Communications, LLC",345
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",335
-"AS8151","Uninet S.A. de C.V.",326
+"AS8151","Uninet S.A. de C.V.",327
 "AS214943","Railnet LLC",315
 "AS45899","VNPT Corp",315
 "AS24863","LINKdotNET AS number",307
@@ -114,8 +114,8 @@ ASN,Organization,IP_Count
 "AS14956","RouterHosting LLC",126
 "AS36007","Kamatera, Inc.",122
 "AS211298","Constantine Cybersecurity Ltd.",113
+"AS34984","Superonline Iletisim Hizmetleri A.S.",112
 "AS208287","DC Host INC",110
-"AS34984","Superonline Iletisim Hizmetleri A.S.",110
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",105
 "AS47331","TTNet A.S.",103
@@ -983,6 +983,7 @@ ASN,Organization,IP_Count
 "AS56329","Gigaclear Limited",3
 "AS56400","SPD Chernega Aleksandr Anatolevich",3
 "AS56478","Hyperoptic Ltd",3
+"AS57043","HOSTKEY B.V.",3
 "AS58715","Earth Telecommunication ( pvt ) Limited",3
 "AS59497","Buknet LLC",3
 "AS6057","Administracion Nacional de Telecomunicaciones",3
@@ -1417,7 +1418,6 @@ ASN,Organization,IP_Count
 "AS56272","Pulse Telesystems Pvt Ltd",2
 "AS56465","Therecom Ltd",2
 "AS56607","Privately owned entrepreneur Chabanov Andrey Alexandrovich",2
-"AS57043","HOSTKEY B.V.",2
 "AS57494","Adman LLC",2
 "AS58087","Florian Kolb",2
 "AS58291","ColoCenter b.v.",2
