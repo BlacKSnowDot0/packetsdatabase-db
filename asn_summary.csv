@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87740
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22003
-"AS398324","Censys, Inc.",13605
+"AS398324","Censys, Inc.",13606
 "AS32934","Facebook, Inc.",12479
 "AS396982","Google LLC",10376
 "AS14061","DigitalOcean, LLC",7972
@@ -30,14 +30,14 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1419
 "AS398722","Censys, Inc.",1404
-"AS49870","Alsycon B.V.",1340
+"AS49870","Alsycon B.V.",1342
 "AS215269","LAZYCLOUD LTD",1312
 "AS32475","Internap Holding LLC",1292
 "AS13335","Cloudflare, Inc.",1273
 "AS36352","HostPapa",1247
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1177
-"AS174","Cogent Communications",1166
+"AS174","Cogent Communications",1167
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS23470","ReliableSite.Net LLC",1098
@@ -794,6 +794,7 @@ ASN,Organization,IP_Count
 "AS59142","Pemerintah Kota Batam",4
 "AS60404","The Infrastructure Group B.V.",4
 "AS7482","Asia Pacific On-line Service Inc.",4
+"AS7545","TPG Internet Pty Ltd",4
 "AS8376","Jordan Data Communications Company LLC",4
 "AS8551","Bezeq International Ltd.",4
 "AS8781","Ooredoo Q.S.C.",4
@@ -993,7 +994,6 @@ ASN,Organization,IP_Count
 "AS6821","Makedonski Telekom AD-Skopje",3
 "AS6848","Telenet BV",3
 "AS7122","Bell Canada",3
-"AS7545","TPG Internet Pty Ltd",3
 "AS7643","Vietnam Posts and Telecommunications (VNPT)",3
 "AS786","Jisc Services Limited",3
 "AS786","RIPE Network Coordination Centre",3
