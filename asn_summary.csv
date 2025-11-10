@@ -26,14 +26,14 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1751
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1524
+"AS209605","UAB Host Baltic",1525
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1419
 "AS398722","Censys, Inc.",1404
 "AS49870","Alsycon B.V.",1340
 "AS215269","LAZYCLOUD LTD",1312
 "AS32475","Internap Holding LLC",1292
-"AS13335","Cloudflare, Inc.",1271
+"AS13335","Cloudflare, Inc.",1272
 "AS36352","HostPapa",1247
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1177
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",821
 "AS215925","VPSVAULT.HOST LTD",815
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",758
+"AS20052","Arbor Networks, Inc.",759
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
 "AS51167","Contabo GmbH",670
 "AS10439","CariNet, Inc.",651
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS50360","Tamatiya EOOD",492
 "AS53667","FranTech Solutions",480
 "AS212238","Datacamp Limited",463
-"AS12876","ONLINE S.A.S.",460
+"AS12876","ONLINE S.A.S.",461
 "AS9829","Bharat Sanchar Nigam Ltd",449
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",405
@@ -87,7 +87,7 @@ ASN,Organization,IP_Count
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",286
 "AS213613","BOTSHIELD LTD",265
-"AS208843","Alpha Strike Labs GmbH",255
+"AS208843","Alpha Strike Labs GmbH",256
 "AS48090","TECHOFF SRV LIMITED",254
 "AS60223","Netiface Limited",250
 "AS18403","FPT Telecom Company",249
@@ -133,9 +133,9 @@ ASN,Organization,IP_Count
 "AS16735","ALGAR TELECOM S/A",81
 "AS28209","Under Servicos de Internet Ltda",81
 "AS5617","Orange Polska Spolka Akcyjna",81
+"AS6739","VODAFONE ONO, S.A.",79
 "AS200019","ALEXHOST SRL",78
 "AS271795","SERVITELCONET CIA. LTDA.",78
-"AS6739","VODAFONE ONO, S.A.",78
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
@@ -336,6 +336,7 @@ ASN,Organization,IP_Count
 "AS148981","China Telecom",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
 "AS24151","China Internet Network Infomation Center",17
+"AS24757","EthioNet",17
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
 "AS30823","aurologic GmbH",17
 "AS3257","GTT Communications Inc.",17
@@ -346,7 +347,6 @@ ASN,Organization,IP_Count
 "AS140726","China Unicom",16
 "AS207713","GLOBAL INTERNET SOLUTIONS LLC",16
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",16
-"AS24757","EthioNet",16
 "AS24812","NPK Home-Net Ltd.",16
 "AS25198","INTERKVM HOST SRL",16
 "AS2914","NTT America, Inc.",16
@@ -605,6 +605,7 @@ ASN,Organization,IP_Count
 "AS10429","TELEFÔNICA BRASIL S.A",5
 "AS11492","CABLE ONE, INC.",5
 "AS12714","PJSC MegaFon",5
+"AS131090","CAT Telecom Public Company Limited",5
 "AS131267","Star Telecom",5
 "AS13188","CONTENT DELIVERY NETWORK LTD",5
 "AS13430","THE WISP.NET CORP.",5
@@ -698,7 +699,6 @@ ASN,Organization,IP_Count
 "AS9674","Far EastTone Telecommunication Co., Ltd.",5
 "AS11888","Television Internacional, S.A. de C.V.",4
 "AS12430","VODAFONE ESPANA S.A.U.",4
-"AS131090","CAT Telecom Public Company Limited",4
 "AS13110","INEA sp. z o.o.",4
 "AS131607","Digidom CableTV Co., LTD.",4
 "AS135089","China Telecom",4
