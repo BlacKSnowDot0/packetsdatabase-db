@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4440
 "AS16509","Amazon.com, Inc.",4322
 "AS396998","Path Network, Inc.",3992
-"AS45102","Alibaba (US) Technology Co., Ltd.",3945
+"AS45102","Alibaba (US) Technology Co., Ltd.",3948
 "AS63949","Akamai Technologies, Inc.",3604
 "AS0","",3576
 "AS15169","Google LLC",3362
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1750
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1523
+"AS209605","UAB Host Baltic",1524
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1419
 "AS398722","Censys, Inc.",1403
@@ -233,13 +233,13 @@ ASN,Organization,IP_Count
 "AS141679","China Telecom",28
 "AS146817","Hubei Feixun Network Co., Ltd",28
 "AS149705","PT Wijaya Trimitra Indonesia",28
+"AS200590","NLS Kazakhstan LLC",28
 "AS204834","Shabakieh Isfahan Co PJSC",28
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",28
 "AS30860","Virtual Systems LLC",28
 "AS3269","Telecom Italia S.p.A.",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS1103","SURF B.V.",27
-"AS200590","NLS Kazakhstan LLC",27
 "AS30058","FDCservers.net",27
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
@@ -678,6 +678,7 @@ ASN,Organization,IP_Count
 "AS4721","JCOM Co., Ltd.",5
 "AS47702","Teleradiocompany Discovery Ltd.",5
 "AS4780","Digital United Inc.",5
+"AS4811","China Telecom (Group)",5
 "AS53062","GGNET TELECOM BACKBONE",5
 "AS53167","SEBRATEL TECNOLOGIA LTDA",5
 "AS5410","Bouygues Telecom SA",5
@@ -778,7 +779,6 @@ ASN,Organization,IP_Count
 "AS46690","Southern New England Telephone Company and SNET America, Inc.",4
 "AS47165","Omskie kabelnye seti Ltd.",4
 "AS47898","NPK Home-Net Ltd.",4
-"AS4811","China Telecom (Group)",4
 "AS48347","JSC Mediasoft ekspert",4
 "AS50274","Alfanet LLC",4
 "AS50576","FREEWAY Plus LLC",4
