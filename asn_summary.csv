@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87745
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22005
-"AS398324","Censys, Inc.",13619
+"AS398324","Censys, Inc.",13620
 "AS32934","Facebook, Inc.",12479
 "AS396982","Google LLC",10376
 "AS14061","DigitalOcean, LLC",7976
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2559
 "AS6939","Hurricane Electric LLC",2553
 "AS9808","China Mobile",2078
-"AS202425","IP Volume inc",1751
+"AS202425","IP Volume inc",1753
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1525
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",759
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
-"AS51167","Contabo GmbH",671
+"AS51167","Contabo GmbH",672
 "AS10439","CariNet, Inc.",654
 "AS14618","Amazon.com, Inc.",647
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -63,10 +63,10 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",503
-"AS51115","HLL LLC",498
+"AS51115","HLL LLC",499
 "AS50360","Tamatiya EOOD",492
-"AS53667","FranTech Solutions",481
-"AS12876","ONLINE S.A.S.",464
+"AS53667","FranTech Solutions",482
+"AS12876","ONLINE S.A.S.",465
 "AS212238","Datacamp Limited",463
 "AS9829","Bharat Sanchar Nigam Ltd",449
 "AS21299","Kar-Tel LLC",406
@@ -86,13 +86,13 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",286
-"AS213613","BOTSHIELD LTD",266
+"AS213613","BOTSHIELD LTD",267
 "AS208843","Alpha Strike Labs GmbH",258
 "AS48090","TECHOFF SRV LIMITED",254
 "AS60223","Netiface Limited",250
 "AS18403","FPT Telecom Company",249
 "AS209272","Alviva Holding Limited",230
-"AS141718","haoxiangyun",222
+"AS141718","haoxiangyun",223
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS701","Verizon Business",220
 "AS14987","Rethem Hosting LLC",215
@@ -279,6 +279,7 @@ ASN,Organization,IP_Count
 "AS197309","RS-Media LLC",22
 "AS213010","Gening Nikita Dmitrievich",22
 "AS214417","Andrii Hrosh",22
+"AS329009","Spectrum Internet Service Ltd",22
 "AS43289","Trabia SRL",22
 "AS43641","SOLLUTIUM EU Sp z.o.o.",22
 "AS51430","AltusHost B.V.",22
@@ -289,7 +290,6 @@ ASN,Organization,IP_Count
 "AS138886","PT Data Buana Nusantara",21
 "AS17816","China Unicom IP network China169 Guangdong province",21
 "AS214668","AxusHost B.V.",21
-"AS329009","Spectrum Internet Service Ltd",21
 "AS3320","Deutsche Telekom AG",21
 "AS400536","Nodestop LLC",21
 "AS41745","Baykov Ilya Sergeevich",21
