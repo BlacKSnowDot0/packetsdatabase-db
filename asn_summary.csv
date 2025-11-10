@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87740
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22002
-"AS398324","Censys, Inc.",13600
+"AS398324","Censys, Inc.",13602
 "AS32934","Facebook, Inc.",12479
 "AS396982","Google LLC",10376
 "AS26210","AXS Bolivia S. A.",7972
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1340
 "AS215269","LAZYCLOUD LTD",1312
 "AS32475","Internap Holding LLC",1292
-"AS13335","Cloudflare, Inc.",1272
+"AS13335","Cloudflare, Inc.",1273
 "AS36352","HostPapa",1247
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1177
@@ -78,7 +78,7 @@ ASN,Organization,IP_Count
 "AS21859","Zenlayer Inc",346
 "AS7922","Comcast Cable Communications, LLC",345
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",334
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",335
 "AS8151","Uninet S.A. de C.V.",326
 "AS214943","Railnet LLC",315
 "AS45899","VNPT Corp",315
@@ -99,7 +99,7 @@ ASN,Organization,IP_Count
 "AS12555","Data-center IMAQLIQ Ltd.",192
 "AS12389","PJSC Rostelecom",190
 "AS7552","Viettel Group",182
-"AS29484","Ruhr-Universitaet Bochum",175
+"AS29484","Ruhr-Universitaet Bochum",176
 "AS63199","CDS Global Cloud Co., Ltd",174
 "AS401116","Nybula LLC",170
 "AS29066","velia.net Internetdienste GmbH",154
@@ -175,7 +175,7 @@ ASN,Organization,IP_Count
 "AS213877","u1host ltd",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS200514","KnownSRV Ltd.",53
-"AS149746","PT Blip Integrator Provider",49
+"AS149746","PT Blip Integrator Provider",50
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
 "AS10796","Charter Communications Inc",46
@@ -211,12 +211,12 @@ ASN,Organization,IP_Count
 "AS213790","Limited Network LTD",35
 "AS30083","velia.net",35
 "AS5089","Virgin Media Limited",35
+"AS12322","Free SAS",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",34
 "AS46475","Limestone Networks, Inc.",34
 "AS4760","PCCW IMS Limited",34
 "AS9198","JSC Kazakhtelecom",34
-"AS12322","Free SAS",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
 "AS263355","GTR NET COMUNICACOES EIRELI",32
@@ -236,11 +236,11 @@ ASN,Organization,IP_Count
 "AS200590","NLS Kazakhstan LLC",28
 "AS204834","Shabakieh Isfahan Co PJSC",28
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",28
+"AS30058","FDCservers.net",28
 "AS30860","Virtual Systems LLC",28
 "AS3269","Telecom Italia S.p.A.",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS1103","SURF B.V.",27
-"AS30058","FDCservers.net",27
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
 "AS55933","Cloudie Limited",27
