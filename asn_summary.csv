@@ -2,11 +2,11 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87737
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22002
-"AS398324","Censys, Inc.",13594
+"AS398324","Censys, Inc.",13595
 "AS32934","Facebook, Inc.",12479
 "AS396982","Google LLC",10375
 "AS26210","AXS Bolivia S. A.",7972
-"AS14061","DigitalOcean, LLC",7969
+"AS14061","DigitalOcean, LLC",7970
 "AS16276","OVH SAS",5829
 "AS4134","Chinanet",5017
 "AS6568","Entel S.A. - EntelNet",4537
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS215269","LAZYCLOUD LTD",1312
 "AS32475","Internap Holding LLC",1292
 "AS13335","Cloudflare, Inc.",1270
-"AS36352","HostPapa",1246
+"AS36352","HostPapa",1247
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1177
 "AS174","Cogent Communications",1166
@@ -102,8 +102,8 @@ ASN,Organization,IP_Count
 "AS29484","Ruhr-Universitaet Bochum",175
 "AS63199","CDS Global Cloud Co., Ltd",174
 "AS401116","Nybula LLC",170
+"AS29066","velia.net Internetdienste GmbH",154
 "AS206264","Amarutu Technology Ltd",153
-"AS29066","velia.net Internetdienste GmbH",153
 "AS47105","Vault Dweller OU",141
 "AS50219","LNK SYSTEMS MUNTENIA SRL",140
 "AS42237","w1n ltd",139
@@ -1477,6 +1477,7 @@ ASN,Organization,IP_Count
 "AS10075","Fiber@Home Global Limited",1
 "AS10242","US Internet Corp",1
 "AS10279","West Carolina Communications, LLC",1
+"AS10299","EMPRESAS MUNICIPALES DE CALI E.I.C.E. E.S.P.",1
 "AS10396","DATACOM CARIBE, INC.",1
 "AS10474","Dimension Data",1
 "AS10617","SION S.A",1
