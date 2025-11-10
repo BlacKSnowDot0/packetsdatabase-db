@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87741
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22003
-"AS398324","Censys, Inc.",13610
+"AS398324","Censys, Inc.",13613
 "AS32934","Facebook, Inc.",12479
 "AS396982","Google LLC",10376
-"AS14061","DigitalOcean, LLC",7973
+"AS14061","DigitalOcean, LLC",7974
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5830
 "AS4134","Chinanet",5017
@@ -32,12 +32,12 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1404
 "AS49870","Alsycon B.V.",1342
 "AS215269","LAZYCLOUD LTD",1312
-"AS32475","Internap Holding LLC",1294
+"AS32475","Internap Holding LLC",1295
 "AS13335","Cloudflare, Inc.",1273
 "AS36352","HostPapa",1249
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1177
-"AS174","Cogent Communications",1167
+"AS174","Cogent Communications",1168
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS23470","ReliableSite.Net LLC",1098
@@ -405,6 +405,7 @@ ASN,Organization,IP_Count
 "AS17639","ComClark Network & Technology Corp",12
 "AS2116","GLOBALCONNECT AS",12
 "AS213438","ColocaTel Inc.",12
+"AS215762","Bullet Group LTD",12
 "AS2637","Georgia Institute of Technology",12
 "AS35042","Layer7 Networks GmbH",12
 "AS35297","Dataline LLC",12
@@ -423,7 +424,6 @@ ASN,Organization,IP_Count
 "AS200651","FlokiNET ehf",11
 "AS205119","TELEKS DOOEL Skopje",11
 "AS206804","EstNOC OY",11
-"AS215762","Bullet Group LTD",11
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
 "AS24547","China Mobile",11
 "AS37611","Afrihost (Pty) Ltd",11
