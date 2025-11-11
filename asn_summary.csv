@@ -7,7 +7,7 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",10381
 "AS14061","DigitalOcean, LLC",7983
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5833
+"AS16276","OVH SAS",5834
 "AS4134","Chinanet",5022
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4440
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS215269","LAZYCLOUD LTD",1312
 "AS32475","Internap Holding LLC",1311
 "AS13335","Cloudflare, Inc.",1279
-"AS36352","HostPapa",1254
+"AS36352","HostPapa",1255
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1178
 "AS174","Cogent Communications",1175
@@ -47,7 +47,7 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",823
-"AS215925","VPSVAULT.HOST LTD",817
+"AS215925","VPSVAULT.HOST LTD",818
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",760
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
@@ -78,7 +78,7 @@ ASN,Organization,IP_Count
 "AS21859","Zenlayer Inc",346
 "AS7922","Comcast Cable Communications, LLC",345
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",335
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",336
 "AS8151","Uninet S.A. de C.V.",333
 "AS214943","Railnet LLC",315
 "AS45899","VNPT Corp",315
@@ -86,7 +86,7 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",286
-"AS213613","BOTSHIELD LTD",268
+"AS213613","BOTSHIELD LTD",269
 "AS208843","Alpha Strike Labs GmbH",261
 "AS48090","TECHOFF SRV LIMITED",254
 "AS60223","Netiface Limited",250
@@ -304,6 +304,7 @@ ASN,Organization,IP_Count
 "AS16591","Google Fiber Inc.",20
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
+"AS215240","Silent Connection Ltd.",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS4816","China Telecom (Group)",20
 "AS5384","EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",20
@@ -314,7 +315,6 @@ ASN,Organization,IP_Count
 "AS14593","Space Exploration Technologies Corporation",19
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",19
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",19
-"AS215240","Silent Connection Ltd.",19
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",19
 "AS22927","Telefonica de Argentina",19
 "AS24348","CERNET2 IX at Tsinghua University",19
