@@ -2,13 +2,13 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87747
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22009
-"AS398324","Censys, Inc.",13642
+"AS398324","Censys, Inc.",13643
 "AS32934","Facebook, Inc.",12479
-"AS396982","Google LLC",10378
+"AS396982","Google LLC",10379
 "AS14061","DigitalOcean, LLC",7981
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5832
-"AS4134","Chinanet",5020
+"AS4134","Chinanet",5021
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4440
 "AS16509","Amazon.com, Inc.",4322
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1405
 "AS49870","Alsycon B.V.",1342
 "AS215269","LAZYCLOUD LTD",1312
-"AS32475","Internap Holding LLC",1305
+"AS32475","Internap Holding LLC",1306
 "AS13335","Cloudflare, Inc.",1279
 "AS36352","HostPapa",1253
 "AS204428","SS-Net",1182
@@ -68,7 +68,7 @@ ASN,Organization,IP_Count
 "AS53667","FranTech Solutions",483
 "AS12876","ONLINE S.A.S.",467
 "AS212238","Datacamp Limited",463
-"AS9829","Bharat Sanchar Nigam Ltd",449
+"AS9829","Bharat Sanchar Nigam Ltd",450
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",405
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -863,6 +863,7 @@ ASN,Organization,IP_Count
 "AS17511","OPTAGE Inc.",3
 "AS17665","ONEOTT INTERTAINMENT LIMITED",3
 "AS17931","Netforest,Inc.",3
+"AS18779","EGIHosting",3
 "AS19331","Twin Lakes Telephone Cooperative Corporation",3
 "AS196949","Natalia Sergeevna Filicheva",3
 "AS199468","GRAIN COMMUNICATIONS LIMITED",3
@@ -1117,7 +1118,6 @@ ASN,Organization,IP_Count
 "AS18103","Neuviz Net",2
 "AS18233","Philippine Telelgraph & Telephone",2
 "AS18501","CyberCloud Professionals LLC",2
-"AS18779","EGIHosting",2
 "AS19108","Suddenlink Communications",2
 "AS19429","ETB - Colombia",2
 "AS198227","New Telecom Ltd",2
