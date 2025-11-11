@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS48925","VibeGAMES B.V.",1419
 "AS398722","Censys, Inc.",1405
 "AS49870","Alsycon B.V.",1343
-"AS32475","Internap Holding LLC",1315
+"AS32475","Internap Holding LLC",1316
 "AS215269","LAZYCLOUD LTD",1312
 "AS13335","Cloudflare, Inc.",1282
 "AS36352","HostPapa",1256
@@ -68,7 +68,7 @@ ASN,Organization,IP_Count
 "AS53667","FranTech Solutions",483
 "AS12876","ONLINE S.A.S.",469
 "AS212238","Datacamp Limited",463
-"AS9829","Bharat Sanchar Nigam Ltd",452
+"AS9829","Bharat Sanchar Nigam Ltd",453
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",405
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -600,6 +600,7 @@ ASN,Organization,IP_Count
 "AS56971","CGI GLOBAL LIMITED",6
 "AS58495","PT Parsaoran Global Datatrans",6
 "AS58519","Cloud Computing Corporation",6
+"AS8551","Bezeq International Ltd.",6
 "AS8926","Moldtelecom SA",6
 "AS9873","Lao Telecommunication Public Company",6
 "AS10429","TELEFÔNICA BRASIL S.A",5
@@ -696,7 +697,6 @@ ASN,Organization,IP_Count
 "AS6830","Liberty Global B.V.",5
 "AS8345","JSC ""ER-Telecom Holding""",5
 "AS8359","MTS PJSC",5
-"AS8551","Bezeq International Ltd.",5
 "AS8648","dogado GmbH",5
 "AS9674","Far EastTone Telecommunication Co., Ltd.",5
 "AS11888","Television Internacional, S.A. de C.V.",4
