@@ -1,5 +1,5 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87747
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87748
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22010
 "AS398324","Censys, Inc.",13654
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1405
 "AS49870","Alsycon B.V.",1342
 "AS215269","LAZYCLOUD LTD",1312
-"AS32475","Internap Holding LLC",1308
+"AS32475","Internap Holding LLC",1309
 "AS13335","Cloudflare, Inc.",1279
 "AS36352","HostPapa",1254
 "AS204428","SS-Net",1182
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
 "AS51167","Contabo GmbH",676
 "AS10439","CariNet, Inc.",657
-"AS14618","Amazon.com, Inc.",649
+"AS14618","Amazon.com, Inc.",650
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",577
 "AS4837","CHINA UNICOM China169 Backbone",576
@@ -229,6 +229,7 @@ ASN,Organization,IP_Count
 "AS200593","PROSPERO OOO",30
 "AS269193","Iktelecom Ltda",30
 "AS30058","FDCservers.net",30
+"AS200590","NLS Kazakhstan LLC",29
 "AS204834","Shabakieh Isfahan Co PJSC",29
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
@@ -237,7 +238,6 @@ ASN,Organization,IP_Count
 "AS141679","China Telecom",28
 "AS146817","Hubei Feixun Network Co., Ltd",28
 "AS149705","PT Wijaya Trimitra Indonesia",28
-"AS200590","NLS Kazakhstan LLC",28
 "AS30860","Virtual Systems LLC",28
 "AS3269","Telecom Italia S.p.A.",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
@@ -479,6 +479,7 @@ ASN,Organization,IP_Count
 "AS48874","HOSTMAZE INC SRL-D",9
 "AS8346","SONATEL-AS Autonomous System",9
 "AS9038","Batelco Jordan",9
+"AS11172","Alestra, S. de R.L. de C.V.",8
 "AS133982","Excitel Broadband Private Limited",8
 "AS135918","VIET DIGITAL TECHNOLOGY LIABILITY COMPANY",8
 "AS138754","Kerala Vision Broad Band Private Limited",8
@@ -505,7 +506,6 @@ ASN,Organization,IP_Count
 "AS6698","Virtual Systems LLC",8
 "AS7418","TELEFÓNICA CHILE S.A.",8
 "AS8386","VODAFONE NET ILETISIM HIZMETLERI ANONIM SIRKETI",8
-"AS11172","Alestra, S. de R.L. de C.V.",7
 "AS1221","Telstra Limited",7
 "AS133661","Netplus Broadband Services Private Limited",7
 "AS135478","PT. Cyberindo Aditama",7
