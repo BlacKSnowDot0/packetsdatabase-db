@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87746
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22006
-"AS398324","Censys, Inc.",13627
+"AS398324","Censys, Inc.",13629
 "AS32934","Facebook, Inc.",12479
 "AS396982","Google LLC",10377
-"AS14061","DigitalOcean, LLC",7977
+"AS14061","DigitalOcean, LLC",7979
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5832
 "AS4134","Chinanet",5019
@@ -20,9 +20,9 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3124
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2759
+"AS8075","Microsoft Corporation",2760
 "AS142002","Scloud Pte Ltd",2559
-"AS6939","Hurricane Electric LLC",2555
+"AS6939","Hurricane Electric LLC",2556
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1753
 "AS214295","SKYNET NETWORK LTD",1631
@@ -32,9 +32,9 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1405
 "AS49870","Alsycon B.V.",1342
 "AS215269","LAZYCLOUD LTD",1312
-"AS32475","Internap Holding LLC",1301
+"AS32475","Internap Holding LLC",1302
 "AS13335","Cloudflare, Inc.",1275
-"AS36352","HostPapa",1250
+"AS36352","HostPapa",1251
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1178
 "AS174","Cogent Communications",1171
@@ -46,12 +46,12 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
-"AS208046","ColocationX Ltd.",821
+"AS208046","ColocationX Ltd.",822
 "AS215925","VPSVAULT.HOST LTD",816
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",759
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
-"AS51167","Contabo GmbH",672
+"AS51167","Contabo GmbH",673
 "AS10439","CariNet, Inc.",655
 "AS14618","Amazon.com, Inc.",647
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -87,7 +87,7 @@ ASN,Organization,IP_Count
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",286
 "AS213613","BOTSHIELD LTD",267
-"AS208843","Alpha Strike Labs GmbH",258
+"AS208843","Alpha Strike Labs GmbH",259
 "AS48090","TECHOFF SRV LIMITED",254
 "AS60223","Netiface Limited",250
 "AS18403","FPT Telecom Company",249
@@ -308,6 +308,7 @@ ASN,Organization,IP_Count
 "AS4816","China Telecom (Group)",20
 "AS5384","EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",20
 "AS11426","Charter Communications Inc",19
+"AS12874","Fastweb SpA",19
 "AS136142","Enigma Fiber Pvt Ltd",19
 "AS140061","China Telecom",19
 "AS14593","Space Exploration Technologies Corporation",19
@@ -321,7 +322,6 @@ ASN,Organization,IP_Count
 "AS49531","""NetCom-R"" LLC",19
 "AS6167","Verizon Business",19
 "AS11878","tzulo, inc.",18
-"AS12874","Fastweb SpA",18
 "AS17638","ASN for TIANJIN Provincial Net of CT",18
 "AS18049","Taiwan Infrastructure Network Technologie",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
