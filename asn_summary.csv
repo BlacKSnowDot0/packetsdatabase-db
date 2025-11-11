@@ -7,7 +7,7 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",10380
 "AS14061","DigitalOcean, LLC",7982
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5832
+"AS16276","OVH SAS",5833
 "AS4134","Chinanet",5022
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4440
@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS396998","Path Network, Inc.",3992
 "AS45102","Alibaba (US) Technology Co., Ltd.",3952
 "AS63949","Akamai Technologies, Inc.",3605
-"AS0","",3580
+"AS0","",3581
 "AS15169","Google LLC",3362
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3124
@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS36352","HostPapa",1253
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1178
-"AS174","Cogent Communications",1172
+"AS174","Cogent Communications",1173
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS23470","ReliableSite.Net LLC",1100
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",760
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
 "AS51167","Contabo GmbH",674
-"AS10439","CariNet, Inc.",656
+"AS10439","CariNet, Inc.",657
 "AS14618","Amazon.com, Inc.",649
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",577
@@ -102,7 +102,7 @@ ASN,Organization,IP_Count
 "AS29484","Ruhr-Universitaet Bochum",177
 "AS63199","CDS Global Cloud Co., Ltd",174
 "AS401116","Nybula LLC",170
-"AS29066","velia.net Internetdienste GmbH",156
+"AS29066","velia.net Internetdienste GmbH",157
 "AS206264","Amarutu Technology Ltd",153
 "AS47105","Vault Dweller OU",141
 "AS50219","LNK SYSTEMS MUNTENIA SRL",141
@@ -228,6 +228,7 @@ ASN,Organization,IP_Count
 "AS17557","Pakistan Telecommuication company limited",30
 "AS200593","PROSPERO OOO",30
 "AS269193","Iktelecom Ltda",30
+"AS204834","Shabakieh Isfahan Co PJSC",29
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",29
 "AS30058","FDCservers.net",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
@@ -237,7 +238,6 @@ ASN,Organization,IP_Count
 "AS146817","Hubei Feixun Network Co., Ltd",28
 "AS149705","PT Wijaya Trimitra Indonesia",28
 "AS200590","NLS Kazakhstan LLC",28
-"AS204834","Shabakieh Isfahan Co PJSC",28
 "AS30860","Virtual Systems LLC",28
 "AS3269","Telecom Italia S.p.A.",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
