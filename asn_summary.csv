@@ -105,8 +105,8 @@ ASN,Organization,IP_Count
 "AS29066","velia.net Internetdienste GmbH",156
 "AS206264","Amarutu Technology Ltd",153
 "AS47105","Vault Dweller OU",141
+"AS50219","LNK SYSTEMS MUNTENIA SRL",141
 "AS42237","w1n ltd",140
-"AS50219","LNK SYSTEMS MUNTENIA SRL",140
 "AS262551","Farol Telecom",133
 "AS137409","GSL Networks Pty LTD",128
 "AS14956","RouterHosting LLC",127
@@ -179,9 +179,9 @@ ASN,Organization,IP_Count
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
 "AS10796","Charter Communications Inc",46
+"AS12816","Leibniz-Rechenzentrum",46
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
-"AS12816","Leibniz-Rechenzentrum",45
 "AS30633","Leaseweb USA, Inc.",44
 "AS396356","Latitude.sh",44
 "AS42708","GleSYS AB",44
@@ -229,6 +229,7 @@ ASN,Organization,IP_Count
 "AS200593","PROSPERO OOO",30
 "AS269193","Iktelecom Ltda",30
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",29
+"AS30058","FDCservers.net",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS1103","SURF B.V.",28
@@ -237,7 +238,6 @@ ASN,Organization,IP_Count
 "AS149705","PT Wijaya Trimitra Indonesia",28
 "AS200590","NLS Kazakhstan LLC",28
 "AS204834","Shabakieh Isfahan Co PJSC",28
-"AS30058","FDCservers.net",28
 "AS30860","Virtual Systems LLC",28
 "AS3269","Telecom Italia S.p.A.",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
@@ -419,6 +419,7 @@ ASN,Organization,IP_Count
 "AS8708","RCS & RDS SA",12
 "AS9318","SK Broadband Co Ltd",12
 "AS984","OCTOPUS WEB SOLUTION INC",12
+"AS11351","Charter Communications Inc",11
 "AS142032","High Family Technology Co., Limited",11
 "AS17552","TRUE INTERNET CORPORATION CO. LTD.",11
 "AS200651","FlokiNET ehf",11
@@ -434,7 +435,6 @@ ASN,Organization,IP_Count
 "AS48282","Hosting technology LTD",11
 "AS58563","CHINANET Hubei province network",11
 "AS9770","LG HelloVision Corp.",11
-"AS11351","Charter Communications Inc",10
 "AS12271","Charter Communications Inc",10
 "AS149359","PT Persada Data Multimedia",10
 "AS153443","VPSRE.NET LLC",10
