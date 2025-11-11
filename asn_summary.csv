@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87748
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22012
-"AS398324","Censys, Inc.",13660
+"AS398324","Censys, Inc.",13661
 "AS32934","Facebook, Inc.",12479
 "AS396982","Google LLC",10383
-"AS14061","DigitalOcean, LLC",7983
+"AS14061","DigitalOcean, LLC",7984
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5835
 "AS4134","Chinanet",5022
@@ -13,12 +13,12 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4440
 "AS16509","Amazon.com, Inc.",4322
 "AS396998","Path Network, Inc.",3992
-"AS45102","Alibaba (US) Technology Co., Ltd.",3952
+"AS45102","Alibaba (US) Technology Co., Ltd.",3953
 "AS63949","Akamai Technologies, Inc.",3605
 "AS0","",3584
 "AS15169","Google LLC",3362
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3127
+"AS51396","Pfcloud UG",3128
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2763
 "AS6939","Hurricane Electric LLC",2563
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1343
 "AS32475","Internap Holding LLC",1313
 "AS215269","LAZYCLOUD LTD",1312
-"AS13335","Cloudflare, Inc.",1280
+"AS13335","Cloudflare, Inc.",1281
 "AS36352","HostPapa",1255
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1178
@@ -52,8 +52,8 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",761
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
 "AS51167","Contabo GmbH",678
-"AS10439","CariNet, Inc.",657
-"AS14618","Amazon.com, Inc.",650
+"AS10439","CariNet, Inc.",658
+"AS14618","Amazon.com, Inc.",651
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",577
 "AS4837","CHINA UNICOM China169 Backbone",576
@@ -92,7 +92,7 @@ ASN,Organization,IP_Count
 "AS60223","Netiface Limited",250
 "AS18403","FPT Telecom Company",249
 "AS209272","Alviva Holding Limited",230
-"AS141718","haoxiangyun",227
+"AS141718","haoxiangyun",228
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS701","Verizon Business",220
 "AS14987","Rethem Hosting LLC",215
@@ -167,10 +167,10 @@ ASN,Organization,IP_Count
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS6128","Cablevision Systems Corp.",56
 "AS18345","Servers Australia Pty. Ltd",55
+"AS20001","Charter Communications Inc",55
 "AS20115","Charter Communications",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
 "AS19318","Interserver, Inc",54
-"AS20001","Charter Communications Inc",54
 "AS210644","AEZA INTERNATIONAL LTD",54
 "AS213877","u1host ltd",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
@@ -327,6 +327,7 @@ ASN,Organization,IP_Count
 "AS18049","Taiwan Infrastructure Network Technologie",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
 "AS271597","NEW LINK CONNECT",18
+"AS3257","GTT Communications Inc.",18
 "AS39603","P4 Sp. z o.o.",18
 "AS400655","NixLabs Networks",18
 "AS40676","Psychz Networks",18
@@ -340,7 +341,6 @@ ASN,Organization,IP_Count
 "AS24757","EthioNet",17
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
 "AS30823","aurologic GmbH",17
-"AS3257","GTT Communications Inc.",17
 "AS45117","Ishan's Network",17
 "AS50340","JSC Selectel",17
 "AS56630","Melbikomas UAB",17
