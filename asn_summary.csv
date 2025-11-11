@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87747
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22009
-"AS398324","Censys, Inc.",13634
+"AS398324","Censys, Inc.",13638
 "AS32934","Facebook, Inc.",12479
 "AS396982","Google LLC",10377
 "AS14061","DigitalOcean, LLC",7980
@@ -15,14 +15,14 @@ ASN,Organization,IP_Count
 "AS396998","Path Network, Inc.",3992
 "AS45102","Alibaba (US) Technology Co., Ltd.",3950
 "AS63949","Akamai Technologies, Inc.",3604
-"AS0","",3579
+"AS0","",3580
 "AS15169","Google LLC",3362
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3124
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2761
 "AS142002","Scloud Pte Ltd",2559
-"AS6939","Hurricane Electric LLC",2556
+"AS6939","Hurricane Electric LLC",2557
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1753
 "AS214295","SKYNET NETWORK LTD",1631
@@ -118,7 +118,7 @@ ASN,Organization,IP_Count
 "AS208287","DC Host INC",110
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",105
-"AS47331","TTNet A.S.",103
+"AS47331","TTNet A.S.",104
 "AS151185","China Telecom",102
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",95
 "AS205352","KABELNET LTD",93
@@ -1269,6 +1269,7 @@ ASN,Organization,IP_Count
 "AS28419","Señal Interactiva, S.A De C.V",2
 "AS28423","Truxgo S. de R.L de C.V",2
 "AS28458","IENTC S DE RL DE CV",2
+"AS28546","Servnet Mexico, S.A. de C.V.",2
 "AS28590","Directnet Prestacao de Servicos Ltda.",2
 "AS28638","BRASIL TECPAR | AMIGO | AVATO",2
 "AS28656","BTT TELECOMUNICACOES S.A.",2
@@ -2449,7 +2450,6 @@ ASN,Organization,IP_Count
 "AS28432","Telecable del Mineral, S. A. de C.V.",1
 "AS28509","Cablemas Telecomunicaciones SA de CV",1
 "AS28534","Mexico Red de Telecomunicaciones, S. de R.L. de C.V.",1
-"AS28546","Servnet Mexico, S.A. de C.V.",1
 "AS28584","Defferrari Solucoes em Internet Ltda",1
 "AS28598","DB3 SERVICOS DE TELECOMUNICACOES S.A",1
 "AS28606","ITM Tecnologia de Redes",1
