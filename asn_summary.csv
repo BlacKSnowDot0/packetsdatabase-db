@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS396998","Path Network, Inc.",3992
 "AS45102","Alibaba (US) Technology Co., Ltd.",3950
 "AS63949","Akamai Technologies, Inc.",3604
-"AS0","",3578
+"AS0","",3579
 "AS15169","Google LLC",3362
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3124
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",822
 "AS215925","VPSVAULT.HOST LTD",816
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",759
+"AS20052","Arbor Networks, Inc.",760
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
 "AS51167","Contabo GmbH",673
 "AS10439","CariNet, Inc.",655
@@ -325,6 +325,7 @@ ASN,Organization,IP_Count
 "AS17638","ASN for TIANJIN Provincial Net of CT",18
 "AS18049","Taiwan Infrastructure Network Technologie",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
+"AS215240","Silent Connection Ltd.",18
 "AS271597","NEW LINK CONNECT",18
 "AS39603","P4 Sp. z o.o.",18
 "AS400655","NixLabs Networks",18
@@ -335,7 +336,6 @@ ASN,Organization,IP_Count
 "AS136958","China Unicom Guangdong IP network",17
 "AS148981","China Telecom",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
-"AS215240","Silent Connection Ltd.",17
 "AS24151","China Internet Network Infomation Center",17
 "AS24757","EthioNet",17
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
