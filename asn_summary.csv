@@ -2,13 +2,13 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87747
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22009
-"AS398324","Censys, Inc.",13640
+"AS398324","Censys, Inc.",13642
 "AS32934","Facebook, Inc.",12479
-"AS396982","Google LLC",10377
-"AS14061","DigitalOcean, LLC",7980
+"AS396982","Google LLC",10378
+"AS14061","DigitalOcean, LLC",7981
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5832
-"AS4134","Chinanet",5019
+"AS4134","Chinanet",5020
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4440
 "AS16509","Amazon.com, Inc.",4322
@@ -22,7 +22,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2761
 "AS142002","Scloud Pte Ltd",2559
-"AS6939","Hurricane Electric LLC",2557
+"AS6939","Hurricane Electric LLC",2558
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1753
 "AS214295","SKYNET NETWORK LTD",1631
@@ -32,8 +32,8 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1405
 "AS49870","Alsycon B.V.",1342
 "AS215269","LAZYCLOUD LTD",1312
-"AS32475","Internap Holding LLC",1304
-"AS13335","Cloudflare, Inc.",1278
+"AS32475","Internap Holding LLC",1305
+"AS13335","Cloudflare, Inc.",1279
 "AS36352","HostPapa",1253
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1178
@@ -51,9 +51,9 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",760
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
-"AS51167","Contabo GmbH",673
-"AS10439","CariNet, Inc.",655
-"AS14618","Amazon.com, Inc.",647
+"AS51167","Contabo GmbH",674
+"AS10439","CariNet, Inc.",656
+"AS14618","Amazon.com, Inc.",649
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",576
 "AS4837","CHINA UNICOM China169 Backbone",576
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",503
 "AS51115","HLL LLC",502
 "AS50360","Tamatiya EOOD",492
-"AS53667","FranTech Solutions",482
+"AS53667","FranTech Solutions",483
 "AS12876","ONLINE S.A.S.",467
 "AS212238","Datacamp Limited",463
 "AS9829","Bharat Sanchar Nigam Ltd",449
@@ -79,7 +79,7 @@ ASN,Organization,IP_Count
 "AS7922","Comcast Cable Communications, LLC",345
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",335
-"AS8151","Uninet S.A. de C.V.",332
+"AS8151","Uninet S.A. de C.V.",333
 "AS214943","Railnet LLC",315
 "AS45899","VNPT Corp",315
 "AS24863","LINKdotNET AS number",307
@@ -375,6 +375,7 @@ ASN,Organization,IP_Count
 "AS5607","Sky UK Limited",15
 "AS64236","UnReal Servers, LLC",15
 "AS6849","JSC ""Ukrtelecom""",15
+"AS11232","Midcontinent Communications",14
 "AS12400","Partner Communications Ltd.",14
 "AS19901","Brightspeed",14
 "AS204104","Giti Secure Cloud LLC",14
@@ -385,7 +386,6 @@ ASN,Organization,IP_Count
 "AS4808","China Unicom Beijing Province Network",14
 "AS48721","Flyservers S.A.",14
 "AS60781","LeaseWeb Netherlands B.V.",14
-"AS11232","Midcontinent Communications",13
 "AS11427","Charter Communications Inc",13
 "AS134420","Chongqing Telecom",13
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",13
