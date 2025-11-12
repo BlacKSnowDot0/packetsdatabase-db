@@ -4,8 +4,8 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22019
 "AS398324","Censys, Inc.",13699
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10391
-"AS14061","DigitalOcean, LLC",7995
+"AS396982","Google LLC",10392
+"AS14061","DigitalOcean, LLC",7996
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5837
 "AS4134","Chinanet",5024
@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS0","",3588
 "AS15169","Google LLC",3364
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3137
+"AS51396","Pfcloud UG",3138
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2763
 "AS6939","Hurricane Electric LLC",2567
@@ -40,7 +40,7 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1179
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS23470","ReliableSite.Net LLC",1103
+"AS23470","ReliableSite.Net LLC",1124
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",1000
 "AS51852","Private Layer INC",907
@@ -56,7 +56,7 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",655
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",578
-"AS4837","CHINA UNICOM China169 Backbone",576
+"AS4837","CHINA UNICOM China169 Backbone",577
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS9009","M247 Europe SRL",553
@@ -188,9 +188,9 @@ ASN,Organization,IP_Count
 "AS46844","Sharktech",44
 "AS5650","Frontier Communications of America, Inc.",44
 "AS152194","CTG Server Limited",43
+"AS2856","British Telecommunications PLC",43
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS262378","Compuservice Empreendimentos Ltda",42
-"AS2856","British Telecommunications PLC",42
 "AS7738","V tal",42
 "AS141995","Contabo Asia Private Limited",41
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",41
@@ -356,6 +356,7 @@ ASN,Organization,IP_Count
 "AS328539","Giga for Telecommunication and Technology Limited",16
 "AS33363","Charter Communications, Inc",16
 "AS46261","QuickPacket, LLC",16
+"AS48753","AVA HOST SRL",16
 "AS6597","Coloblox Data Centers Inc",16
 "AS12849","Hot-Net internet services Ltd.",15
 "AS136515","Dasca Cable Services, Inc.",15
@@ -371,7 +372,6 @@ ASN,Organization,IP_Count
 "AS31113","Artkomm LLC",15
 "AS397283","RocketNode Inc",15
 "AS46375","Sonic Telecom LLC",15
-"AS48753","AVA HOST SRL",15
 "AS5607","Sky UK Limited",15
 "AS64236","UnReal Servers, LLC",15
 "AS6849","JSC ""Ukrtelecom""",15
