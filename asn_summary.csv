@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87748
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22014
-"AS398324","Censys, Inc.",13671
+"AS398324","Censys, Inc.",13673
 "AS32934","Facebook, Inc.",12479
 "AS396982","Google LLC",10389
 "AS14061","DigitalOcean, LLC",7993
@@ -10,7 +10,7 @@ ASN,Organization,IP_Count
 "AS16276","OVH SAS",5835
 "AS4134","Chinanet",5023
 "AS6568","Entel S.A. - EntelNet",4537
-"AS58466","CHINANET Guangdong province network",4442
+"AS58466","CHINANET Guangdong province network",4443
 "AS16509","Amazon.com, Inc.",4322
 "AS396998","Path Network, Inc.",3992
 "AS45102","Alibaba (US) Technology Co., Ltd.",3955
@@ -376,6 +376,7 @@ ASN,Organization,IP_Count
 "AS64236","UnReal Servers, LLC",15
 "AS6849","JSC ""Ukrtelecom""",15
 "AS11232","Midcontinent Communications",14
+"AS11427","Charter Communications Inc",14
 "AS12400","Partner Communications Ltd.",14
 "AS19901","Brightspeed",14
 "AS204104","Giti Secure Cloud LLC",14
@@ -386,7 +387,6 @@ ASN,Organization,IP_Count
 "AS4808","China Unicom Beijing Province Network",14
 "AS48721","Flyservers S.A.",14
 "AS60781","LeaseWeb Netherlands B.V.",14
-"AS11427","Charter Communications Inc",13
 "AS134420","Chongqing Telecom",13
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",13
 "AS15895","""Kyivstar"" PJSC",13
@@ -1330,6 +1330,7 @@ ASN,Organization,IP_Count
 "AS400175","Microtronix ESolutions, LLC",2
 "AS400304","Redoubt Networks",2
 "AS400427","IQ Fiber",2
+"AS400529","Infraly, LLC",2
 "AS41039","Timer, LLC",2
 "AS41350","JSC ""BANK FORWARD""",2
 "AS42066","PE ""NIKA KTB""",2
@@ -2631,7 +2632,6 @@ ASN,Organization,IP_Count
 "AS400220","PearlComm",1
 "AS400387","Flying Bull Internet, LLC",1
 "AS400511","Clearwave Communications",1
-"AS400529","Infraly, LLC",1
 "AS400589","LTC Connect",1
 "AS400619","AROSSCLOUD INC.",1
 "AS400633","Peoples Rural Telephone Cooperative Corporation, Inc.",1
