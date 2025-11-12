@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87748
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
-"AS211298","Driftnet Ltd",22013
-"AS398324","Censys, Inc.",13667
+"AS211298","Driftnet Ltd",22014
+"AS398324","Censys, Inc.",13670
 "AS32934","Facebook, Inc.",12479
-"AS396982","Google LLC",10386
-"AS14061","DigitalOcean, LLC",7986
+"AS396982","Google LLC",10388
+"AS14061","DigitalOcean, LLC",7992
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5835
 "AS4134","Chinanet",5023
@@ -13,15 +13,15 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4442
 "AS16509","Amazon.com, Inc.",4322
 "AS396998","Path Network, Inc.",3992
-"AS45102","Alibaba (US) Technology Co., Ltd.",3953
+"AS45102","Alibaba (US) Technology Co., Ltd.",3954
 "AS63949","Akamai Technologies, Inc.",3606
 "AS0","",3585
-"AS15169","Google LLC",3362
+"AS15169","Google LLC",3363
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3128
+"AS51396","Pfcloud UG",3130
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2763
-"AS6939","Hurricane Electric LLC",2564
+"AS6939","Hurricane Electric LLC",2565
 "AS142002","Scloud Pte Ltd",2559
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1755
@@ -33,14 +33,14 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1343
 "AS32475","Internap Holding LLC",1318
 "AS215269","LAZYCLOUD LTD",1312
-"AS13335","Cloudflare, Inc.",1283
+"AS13335","Cloudflare, Inc.",1307
 "AS36352","HostPapa",1256
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1179
 "AS174","Cogent Communications",1178
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS23470","ReliableSite.Net LLC",1101
+"AS23470","ReliableSite.Net LLC",1102
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",999
 "AS51852","Private Layer INC",907
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",761
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
-"AS51167","Contabo GmbH",679
+"AS51167","Contabo GmbH",681
 "AS10439","CariNet, Inc.",658
 "AS14618","Amazon.com, Inc.",652
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",504
 "AS201814","MEVSPACE sp. z o.o.",503
 "AS50360","Tamatiya EOOD",492
-"AS53667","FranTech Solutions",483
+"AS53667","FranTech Solutions",484
 "AS12876","ONLINE S.A.S.",469
 "AS212238","Datacamp Limited",463
 "AS9829","Bharat Sanchar Nigam Ltd",454
@@ -217,10 +217,10 @@ ASN,Organization,IP_Count
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",34
 "AS4760","PCCW IMS Limited",34
 "AS9198","JSC Kazakhtelecom",34
+"AS38623","VIETTEL (CAMBODIA) PTE., LTD",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
 "AS263355","GTR NET COMUNICACOES EIRELI",32
-"AS38623","VIETTEL (CAMBODIA) PTE., LTD",32
 "AS55990","Huawei Cloud Service data center",32
 "AS1241","RIPE Network Coordination Centre",31
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",31
@@ -1163,6 +1163,7 @@ ASN,Organization,IP_Count
 "AS21497","PrJSC ""VF UKRAINE""",2
 "AS21559","OSNET Wireless",2
 "AS215761","Muhammed Fatih ASAN",2
+"AS216071","SERVERS TECH FZCO",2
 "AS22611","InMotion Hosting, Inc.",2
 "AS22646","Hargray Communications Group, Inc.",2
 "AS23106","AMERICAN TOWER DO BRASIL-COMUNICAÇÂO MULTIMÍDIA LT",2
@@ -1963,7 +1964,6 @@ ASN,Organization,IP_Count
 "AS215623","OOO ""LUGALINK""",1
 "AS215691","AP INTERACTIVE SOLUTIONS SL",1
 "AS215826","Partner Hosting LTD",1
-"AS216071","SERVERS TECH FZCO",1
 "AS216135","PEDRERA TELECOM SL",1
 "AS21632","Cybernet1",1
 "AS21766","BEN LOMAND RURAL TELEPHONE COOPERATIVE, INC.",1
