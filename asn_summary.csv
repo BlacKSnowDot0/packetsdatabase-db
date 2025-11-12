@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87748
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22013
-"AS398324","Censys, Inc.",13663
+"AS398324","Censys, Inc.",13667
 "AS32934","Facebook, Inc.",12479
-"AS396982","Google LLC",10385
-"AS14061","DigitalOcean, LLC",7985
+"AS396982","Google LLC",10386
+"AS14061","DigitalOcean, LLC",7986
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5835
 "AS4134","Chinanet",5023
@@ -14,14 +14,14 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4322
 "AS396998","Path Network, Inc.",3992
 "AS45102","Alibaba (US) Technology Co., Ltd.",3953
-"AS63949","Akamai Technologies, Inc.",3605
+"AS63949","Akamai Technologies, Inc.",3606
 "AS0","",3585
 "AS15169","Google LLC",3362
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3128
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2763
-"AS6939","Hurricane Electric LLC",2563
+"AS6939","Hurricane Electric LLC",2564
 "AS142002","Scloud Pte Ltd",2559
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1755
@@ -31,13 +31,13 @@ ASN,Organization,IP_Count
 "AS48925","VibeGAMES B.V.",1419
 "AS398722","Censys, Inc.",1405
 "AS49870","Alsycon B.V.",1343
-"AS32475","Internap Holding LLC",1317
+"AS32475","Internap Holding LLC",1318
 "AS215269","LAZYCLOUD LTD",1312
-"AS13335","Cloudflare, Inc.",1282
+"AS13335","Cloudflare, Inc.",1283
 "AS36352","HostPapa",1256
 "AS204428","SS-Net",1182
-"AS22552","eSited Solutions",1178
-"AS174","Cogent Communications",1176
+"AS22552","eSited Solutions",1179
+"AS174","Cogent Communications",1178
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS23470","ReliableSite.Net LLC",1101
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",761
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
-"AS51167","Contabo GmbH",678
+"AS51167","Contabo GmbH",679
 "AS10439","CariNet, Inc.",658
 "AS14618","Amazon.com, Inc.",652
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -68,7 +68,7 @@ ASN,Organization,IP_Count
 "AS53667","FranTech Solutions",483
 "AS12876","ONLINE S.A.S.",469
 "AS212238","Datacamp Limited",463
-"AS9829","Bharat Sanchar Nigam Ltd",453
+"AS9829","Bharat Sanchar Nigam Ltd",454
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",405
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
