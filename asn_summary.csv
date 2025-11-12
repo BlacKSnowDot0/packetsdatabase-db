@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22019
 "AS398324","Censys, Inc.",13696
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10390
+"AS396982","Google LLC",10391
 "AS14061","DigitalOcean, LLC",7995
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5836
@@ -18,13 +18,13 @@ ASN,Organization,IP_Count
 "AS0","",3586
 "AS15169","Google LLC",3364
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3136
+"AS51396","Pfcloud UG",3137
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2763
 "AS6939","Hurricane Electric LLC",2567
 "AS142002","Scloud Pte Ltd",2559
 "AS9808","China Mobile",2078
-"AS202425","IP Volume inc",1758
+"AS202425","IP Volume inc",1759
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1526
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",503
 "AS50360","Tamatiya EOOD",492
 "AS53667","FranTech Solutions",485
-"AS12876","ONLINE S.A.S.",473
+"AS12876","ONLINE S.A.S.",474
 "AS212238","Datacamp Limited",463
 "AS9829","Bharat Sanchar Nigam Ltd",457
 "AS21299","Kar-Tel LLC",406
@@ -104,9 +104,9 @@ ASN,Organization,IP_Count
 "AS401116","Nybula LLC",170
 "AS29066","velia.net Internetdienste GmbH",164
 "AS206264","Amarutu Technology Ltd",153
+"AS42237","w1n ltd",141
 "AS47105","Vault Dweller OU",141
 "AS50219","LNK SYSTEMS MUNTENIA SRL",141
-"AS42237","w1n ltd",140
 "AS262551","Farol Telecom",133
 "AS137409","GSL Networks Pty LTD",128
 "AS14956","RouterHosting LLC",128
@@ -213,11 +213,11 @@ ASN,Organization,IP_Count
 "AS5089","Virgin Media Limited",36
 "AS213790","Limited Network LTD",35
 "AS30083","velia.net",35
+"AS30058","FDCservers.net",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",34
 "AS4760","PCCW IMS Limited",34
 "AS9198","JSC Kazakhtelecom",34
-"AS30058","FDCservers.net",33
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
