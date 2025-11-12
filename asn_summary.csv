@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",13699
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10392
-"AS14061","DigitalOcean, LLC",7996
+"AS14061","DigitalOcean, LLC",7997
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5837
 "AS4134","Chinanet",5024
@@ -85,7 +85,7 @@ ASN,Organization,IP_Count
 "AS24863","LINKdotNET AS number",307
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
-"AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",287
+"AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",288
 "AS213613","BOTSHIELD LTD",270
 "AS208843","Alpha Strike Labs GmbH",262
 "AS48090","TECHOFF SRV LIMITED",254
@@ -182,11 +182,11 @@ ASN,Organization,IP_Count
 "AS10796","Charter Communications Inc",46
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
+"AS5650","Frontier Communications of America, Inc.",45
 "AS30633","Leaseweb USA, Inc.",44
 "AS396356","Latitude.sh",44
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
-"AS5650","Frontier Communications of America, Inc.",44
 "AS152194","CTG Server Limited",43
 "AS2856","British Telecommunications PLC",43
 "AS214497","Whitelabel Solutions, Ltd.",42
@@ -230,8 +230,8 @@ ASN,Organization,IP_Count
 "AS200590","NLS Kazakhstan LLC",30
 "AS200593","PROSPERO OOO",30
 "AS204834","Shabakieh Isfahan Co PJSC",30
+"AS212913","FOP Hornostay Mykhaylo Ivanovych",30
 "AS269193","Iktelecom Ltda",30
-"AS212913","FOP Hornostay Mykhaylo Ivanovych",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS1103","SURF B.V.",28
