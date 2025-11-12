@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",13693
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10390
-"AS14061","DigitalOcean, LLC",7994
+"AS14061","DigitalOcean, LLC",7995
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5836
 "AS4134","Chinanet",5024
@@ -68,7 +68,7 @@ ASN,Organization,IP_Count
 "AS53667","FranTech Solutions",484
 "AS12876","ONLINE S.A.S.",472
 "AS212238","Datacamp Limited",463
-"AS9829","Bharat Sanchar Nigam Ltd",456
+"AS9829","Bharat Sanchar Nigam Ltd",457
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",405
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -209,10 +209,10 @@ ASN,Organization,IP_Count
 "AS1680","Cellcom Fixed Line Communication L.P",36
 "AS210558","1337 Services GmbH",36
 "AS42624","Global-Data System IT Corporation",36
+"AS46475","Limestone Networks, Inc.",36
 "AS5089","Virgin Media Limited",36
 "AS213790","Limited Network LTD",35
 "AS30083","velia.net",35
-"AS46475","Limestone Networks, Inc.",35
 "AS34665","Petersburg Internet Network ltd.",34
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",34
 "AS4760","PCCW IMS Limited",34
@@ -948,6 +948,7 @@ ASN,Organization,IP_Count
 "AS37517","CABO VERDE TELECOM, S.A",3
 "AS37671","3S INF",3
 "AS399244","AME Hosting LLC",3
+"AS400529","Infraly, LLC",3
 "AS40065","CNSERVERS LLC",3
 "AS41704","JSC ""Ufanet""",3
 "AS41743","OPTIMASET Ltd.",3
@@ -1330,7 +1331,6 @@ ASN,Organization,IP_Count
 "AS400175","Microtronix ESolutions, LLC",2
 "AS400304","Redoubt Networks",2
 "AS400427","IQ Fiber",2
-"AS400529","Infraly, LLC",2
 "AS41039","Timer, LLC",2
 "AS41350","JSC ""BANK FORWARD""",2
 "AS42066","PE ""NIKA KTB""",2
