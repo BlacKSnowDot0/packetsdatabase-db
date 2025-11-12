@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87749
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22019
-"AS398324","Censys, Inc.",13693
+"AS398324","Censys, Inc.",13694
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10390
 "AS14061","DigitalOcean, LLC",7995
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1526
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS48925","VibeGAMES B.V.",1419
+"AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1405
 "AS49870","Alsycon B.V.",1343
 "AS32475","Internap Holding LLC",1322
@@ -86,7 +86,7 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",287
-"AS213613","BOTSHIELD LTD",269
+"AS213613","BOTSHIELD LTD",270
 "AS208843","Alpha Strike Labs GmbH",262
 "AS48090","TECHOFF SRV LIMITED",254
 "AS60223","Netiface Limited",250
@@ -754,6 +754,7 @@ ASN,Organization,IP_Count
 "AS262916","Mega Cable, S.A. de C.V.",4
 "AS265379","JULIO CESAR DAS NEVES - ME",4
 "AS265586","INBTEL, S.A. DE C.V.",4
+"AS266015","JC2000 Telecomunicações Ltda",4
 "AS266541","ItaNet - Provedor de Internet",4
 "AS26727","Brandenburg Telephone Company",4
 "AS269820","FULL DATA COMUNICACIONES C.A.",4
@@ -900,7 +901,6 @@ ASN,Organization,IP_Count
 "AS264221","ONLINE NORTE TELECOM LTDA",3
 "AS265523","Sierra Madre Internet SA de CV",3
 "AS265744","COOPERATIVA DE PROVISIÓN DE SERVICIOS PÚBLICOS DE FREYRE LTDA.",3
-"AS266015","JC2000 Telecomunicações Ltda",3
 "AS266092","R. COSTA DO NASCIMENTO",3
 "AS267450","oliveira & sousa comunicações Ltda",3
 "AS268323","AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA",3
@@ -1779,6 +1779,7 @@ ASN,Organization,IP_Count
 "AS16342","Toya sp.z.o.o",1
 "AS16345","PJSC ""Vimpelcom""",1
 "AS16863","Home Telephone Company, Inc.",1
+"AS17014","North Atlantic Networks, LLC",1
 "AS17035","NBCUniversal",1
 "AS17211","Grafton Technologies, Inc.",1
 "AS17293","VTX Communications LLC",1
