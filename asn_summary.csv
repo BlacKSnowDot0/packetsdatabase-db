@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87748
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22014
-"AS398324","Censys, Inc.",13670
+"AS398324","Censys, Inc.",13671
 "AS32934","Facebook, Inc.",12479
-"AS396982","Google LLC",10388
-"AS14061","DigitalOcean, LLC",7992
+"AS396982","Google LLC",10389
+"AS14061","DigitalOcean, LLC",7993
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5835
 "AS4134","Chinanet",5023
@@ -51,11 +51,11 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",761
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
-"AS51167","Contabo GmbH",681
+"AS51167","Contabo GmbH",682
 "AS10439","CariNet, Inc.",658
 "AS14618","Amazon.com, Inc.",652
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS3462","Chunghwa Telecom Co., Ltd.",577
+"AS3462","Chunghwa Telecom Co., Ltd.",578
 "AS4837","CHINA UNICOM China169 Backbone",576
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
@@ -68,7 +68,7 @@ ASN,Organization,IP_Count
 "AS53667","FranTech Solutions",484
 "AS12876","ONLINE S.A.S.",469
 "AS212238","Datacamp Limited",463
-"AS9829","Bharat Sanchar Nigam Ltd",454
+"AS9829","Bharat Sanchar Nigam Ltd",455
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",405
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -102,7 +102,7 @@ ASN,Organization,IP_Count
 "AS29484","Ruhr-Universitaet Bochum",177
 "AS63199","CDS Global Cloud Co., Ltd",174
 "AS401116","Nybula LLC",170
-"AS29066","velia.net Internetdienste GmbH",159
+"AS29066","velia.net Internetdienste GmbH",160
 "AS206264","Amarutu Technology Ltd",153
 "AS47105","Vault Dweller OU",141
 "AS50219","LNK SYSTEMS MUNTENIA SRL",141
@@ -280,6 +280,7 @@ ASN,Organization,IP_Count
 "AS213010","Gening Nikita Dmitrievich",22
 "AS214417","Andrii Hrosh",22
 "AS329009","Spectrum Internet Service Ltd",22
+"AS41745","Baykov Ilya Sergeevich",22
 "AS43289","Trabia SRL",22
 "AS43641","SOLLUTIUM EU Sp z.o.o.",22
 "AS51430","AltusHost B.V.",22
@@ -293,7 +294,6 @@ ASN,Organization,IP_Count
 "AS215240","Silent Connection Ltd.",21
 "AS3320","Deutsche Telekom AG",21
 "AS400536","Nodestop LLC",21
-"AS41745","Baykov Ilya Sergeevich",21
 "AS45758","Triple T Broadband Public Company Limited",21
 "AS46573","LayerHost",21
 "AS4800","PT Aplikanusa Lintasarta",21
