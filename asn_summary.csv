@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",1318
 "AS215269","LAZYCLOUD LTD",1312
 "AS13335","Cloudflare, Inc.",1310
-"AS36352","HostPapa",1258
+"AS36352","HostPapa",1259
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1179
 "AS174","Cogent Communications",1178
@@ -59,7 +59,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",576
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS9009","M247 Europe SRL",552
+"AS9009","M247 Europe SRL",553
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS51115","HLL LLC",504
@@ -760,6 +760,7 @@ ASN,Organization,IP_Count
 "AS27651","ENTEL CHILE S.A.",4
 "AS28146","MHNET TELECOM",4
 "AS28258","VERO S.A",4
+"AS28546","Servnet Mexico, S.A. de C.V.",4
 "AS28753","Leaseweb Deutschland GmbH",4
 "AS28787","Baku Telephone Communication LLC",4
 "AS29314","VECTRA S.A.",4
@@ -918,7 +919,6 @@ ASN,Organization,IP_Count
 "AS28198","SEMPRE TELECOMUNICACOES LTDA",3
 "AS28202","Rede Brasileira de Comunicacao S/A",3
 "AS28220","CABO SERVICOS DE TELECOMUNICACOES LTDA",3
-"AS28546","Servnet Mexico, S.A. de C.V.",3
 "AS28548","Cablevisión, S.A. de C.V.",3
 "AS28885","Oman Telecommunications Company (S.A.O.G)",3
 "AS29447","SCALEWAY S.A.S.",3
