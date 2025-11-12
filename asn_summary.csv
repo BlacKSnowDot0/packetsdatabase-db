@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4443
 "AS16509","Amazon.com, Inc.",4343
 "AS396998","Path Network, Inc.",3992
-"AS45102","Alibaba (US) Technology Co., Ltd.",3956
+"AS45102","Alibaba (US) Technology Co., Ltd.",3962
 "AS63949","Akamai Technologies, Inc.",3608
 "AS0","",3586
 "AS15169","Google LLC",3364
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS48925","VibeGAMES B.V.",1419
 "AS398722","Censys, Inc.",1405
 "AS49870","Alsycon B.V.",1343
-"AS32475","Internap Holding LLC",1321
+"AS32475","Internap Holding LLC",1322
 "AS215269","LAZYCLOUD LTD",1312
 "AS13335","Cloudflare, Inc.",1311
 "AS36352","HostPapa",1261
@@ -274,6 +274,7 @@ ASN,Organization,IP_Count
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",23
 "AS198037","SPACECORE SOLUTION LTD",23
 "AS56067","Metrabyte Co.,Ltd",23
+"AS58212","dataforest GmbH",23
 "AS62240","Clouvider Limited",23
 "AS7303","Telecom Argentina S.A.",23
 "AS17561","Larus Limited",22
@@ -286,7 +287,6 @@ ASN,Organization,IP_Count
 "AS43289","Trabia SRL",22
 "AS43641","SOLLUTIUM EU Sp z.o.o.",22
 "AS51430","AltusHost B.V.",22
-"AS58212","dataforest GmbH",22
 "AS63859","PT. Eka Mas Republik",22
 "AS7029","Windstream Communications LLC",22
 "AS12479","Orange Espagne SA",21
