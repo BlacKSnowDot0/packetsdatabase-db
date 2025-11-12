@@ -1,7 +1,7 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87749
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
-"AS211298","Driftnet Ltd",22018
+"AS211298","Driftnet Ltd",22019
 "AS398324","Censys, Inc.",13691
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10390
@@ -321,6 +321,7 @@ ASN,Organization,IP_Count
 "AS24348","CERNET2 IX at Tsinghua University",19
 "AS262287","Maxihost LTDA",19
 "AS3257","GTT Communications Inc.",19
+"AS40676","Psychz Networks",19
 "AS49531","""NetCom-R"" LLC",19
 "AS6167","Verizon Business",19
 "AS11878","tzulo, inc.",18
@@ -331,7 +332,6 @@ ASN,Organization,IP_Count
 "AS271597","NEW LINK CONNECT",18
 "AS39603","P4 Sp. z o.o.",18
 "AS400655","NixLabs Networks",18
-"AS40676","Psychz Networks",18
 "AS6181","Cincinnati Bell Telephone Company LLC",18
 "AS6697","Republican Unitary Telecommunication Enterprise Beltelecom",18
 "AS852","TELUS Communications Inc.",18
