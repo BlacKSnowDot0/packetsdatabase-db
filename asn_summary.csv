@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4443
 "AS16509","Amazon.com, Inc.",4343
 "AS396998","Path Network, Inc.",3992
-"AS45102","Alibaba (US) Technology Co., Ltd.",3955
+"AS45102","Alibaba (US) Technology Co., Ltd.",3956
 "AS63949","Akamai Technologies, Inc.",3607
 "AS0","",3586
 "AS15169","Google LLC",3364
@@ -36,8 +36,8 @@ ASN,Organization,IP_Count
 "AS13335","Cloudflare, Inc.",1311
 "AS36352","HostPapa",1259
 "AS204428","SS-Net",1182
+"AS174","Cogent Communications",1179
 "AS22552","eSited Solutions",1179
-"AS174","Cogent Communications",1178
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS23470","ReliableSite.Net LLC",1102
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",762
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
-"AS51167","Contabo GmbH",682
+"AS51167","Contabo GmbH",683
 "AS10439","CariNet, Inc.",659
 "AS14618","Amazon.com, Inc.",654
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",503
 "AS50360","Tamatiya EOOD",492
 "AS53667","FranTech Solutions",484
-"AS12876","ONLINE S.A.S.",471
+"AS12876","ONLINE S.A.S.",472
 "AS212238","Datacamp Limited",463
 "AS9829","Bharat Sanchar Nigam Ltd",456
 "AS21299","Kar-Tel LLC",406
@@ -154,7 +154,7 @@ ASN,Organization,IP_Count
 "AS57588","Hayat for Internet & communication LLC",65
 "AS8402","PJSC ""Vimpelcom""",64
 "AS17378","TierPoint, LLC",63
-"AS23724","IDC, China Telecommunications Corporation",62
+"AS23724","IDC, China Telecommunications Corporation",63
 "AS140717","China Unicom",61
 "AS150263","PT Alnet Telekomunikasi Indonesia",61
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
@@ -305,6 +305,7 @@ ASN,Organization,IP_Count
 "AS16591","Google Fiber Inc.",20
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
+"AS24940","Hetzner Online GmbH",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS4816","China Telecom (Group)",20
 "AS5384","EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",20
@@ -318,7 +319,6 @@ ASN,Organization,IP_Count
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",19
 "AS22927","Telefonica de Argentina",19
 "AS24348","CERNET2 IX at Tsinghua University",19
-"AS24940","Hetzner Online GmbH",19
 "AS262287","Maxihost LTDA",19
 "AS3257","GTT Communications Inc.",19
 "AS49531","""NetCom-R"" LLC",19
@@ -403,6 +403,7 @@ ASN,Organization,IP_Count
 "AS6327","Shaw Communications Inc.",13
 "AS137718","Beijing Volcano Engine Technology Co., Ltd.",12
 "AS17639","ComClark Network & Technology Corp",12
+"AS202520","SkyPass Solutions Sp. z.o.o.",12
 "AS2116","GLOBALCONNECT AS",12
 "AS213438","ColocaTel Inc.",12
 "AS215762","Bullet Group LTD",12
@@ -423,7 +424,6 @@ ASN,Organization,IP_Count
 "AS142032","High Family Technology Co., Limited",11
 "AS17552","TRUE INTERNET CORPORATION CO. LTD.",11
 "AS200651","FlokiNET ehf",11
-"AS202520","SkyPass Solutions Sp. z.o.o.",11
 "AS202796","JSR IT B.V.",11
 "AS205119","TELEKS DOOEL Skopje",11
 "AS206804","EstNOC OY",11
