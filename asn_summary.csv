@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",13699
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10393
-"AS14061","DigitalOcean, LLC",7998
+"AS14061","DigitalOcean, LLC",7999
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5837
 "AS4134","Chinanet",5024
@@ -1006,6 +1006,7 @@ ASN,Organization,IP_Count
 "AS786","RIPE Network Coordination Centre",3
 "AS8473","Bahnhof AB",3
 "AS8585","Crnogorski Telekom a.d.Podgorica",3
+"AS8612","Tiscali Italia S.P.A.",3
 "AS8866","Vivacom Bulgaria EAD",3
 "AS9329","Sri Lanka Telecom Ltd",3
 "AS9381","HKBN Enterprise Solutions HK Limited",3
@@ -1465,7 +1466,6 @@ ASN,Organization,IP_Count
 "AS8462","Tarr Kft.",2
 "AS855","Bell Canada",2
 "AS8595","OOO WestCall Ltd.",2
-"AS8612","Tiscali Italia S.P.A.",2
 "AS8732","JSC Comcor",2
 "AS9050","Orange Romania S.A.",2
 "AS9070","""Cooolbox"" AD",2
