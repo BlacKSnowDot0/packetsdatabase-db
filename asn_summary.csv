@@ -24,14 +24,14 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2567
 "AS142002","Scloud Pte Ltd",2559
 "AS9808","China Mobile",2078
-"AS202425","IP Volume inc",1756
+"AS202425","IP Volume inc",1757
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1526
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1405
 "AS49870","Alsycon B.V.",1343
-"AS32475","Internap Holding LLC",1323
+"AS32475","Internap Holding LLC",1324
 "AS215269","LAZYCLOUD LTD",1312
 "AS13335","Cloudflare, Inc.",1311
 "AS36352","HostPapa",1261
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",763
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
-"AS51167","Contabo GmbH",683
+"AS51167","Contabo GmbH",685
 "AS10439","CariNet, Inc.",660
 "AS14618","Amazon.com, Inc.",655
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",504
 "AS201814","MEVSPACE sp. z o.o.",503
 "AS50360","Tamatiya EOOD",492
-"AS53667","FranTech Solutions",484
+"AS53667","FranTech Solutions",485
 "AS12876","ONLINE S.A.S.",472
 "AS212238","Datacamp Limited",463
 "AS9829","Bharat Sanchar Nigam Ltd",457
@@ -102,14 +102,14 @@ ASN,Organization,IP_Count
 "AS29484","Ruhr-Universitaet Bochum",178
 "AS63199","CDS Global Cloud Co., Ltd",174
 "AS401116","Nybula LLC",170
-"AS29066","velia.net Internetdienste GmbH",163
+"AS29066","velia.net Internetdienste GmbH",164
 "AS206264","Amarutu Technology Ltd",153
 "AS47105","Vault Dweller OU",141
 "AS50219","LNK SYSTEMS MUNTENIA SRL",141
 "AS42237","w1n ltd",140
 "AS262551","Farol Telecom",133
 "AS137409","GSL Networks Pty LTD",128
-"AS14956","RouterHosting LLC",127
+"AS14956","RouterHosting LLC",128
 "AS19905","Neustar Security Services",127
 "AS13238","YANDEX LLC",126
 "AS36007","Kamatera, Inc.",122
@@ -178,8 +178,8 @@ ASN,Organization,IP_Count
 "AS149746","PT Blip Integrator Provider",50
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
+"AS12816","Leibniz-Rechenzentrum",47
 "AS10796","Charter Communications Inc",46
-"AS12816","Leibniz-Rechenzentrum",46
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
 "AS30633","Leaseweb USA, Inc.",44
@@ -338,6 +338,7 @@ ASN,Organization,IP_Count
 "AS136958","China Unicom Guangdong IP network",17
 "AS148981","China Telecom",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
+"AS207713","GLOBAL INTERNET SOLUTIONS LLC",17
 "AS24151","China Internet Network Infomation Center",17
 "AS24757","EthioNet",17
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
@@ -347,7 +348,6 @@ ASN,Organization,IP_Count
 "AS56630","Melbikomas UAB",17
 "AS9269","Hong Kong Broadband Network Ltd",17
 "AS140726","China Unicom",16
-"AS207713","GLOBAL INTERNET SOLUTIONS LLC",16
 "AS24812","NPK Home-Net Ltd.",16
 "AS25198","INTERKVM HOST SRL",16
 "AS2914","NTT America, Inc.",16
