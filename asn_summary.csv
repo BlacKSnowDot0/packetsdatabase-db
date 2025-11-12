@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87749
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22018
-"AS398324","Censys, Inc.",13690
+"AS398324","Censys, Inc.",13691
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10390
 "AS14061","DigitalOcean, LLC",7994
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3136
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2763
-"AS6939","Hurricane Electric LLC",2566
+"AS6939","Hurricane Electric LLC",2567
 "AS142002","Scloud Pte Ltd",2559
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1756
@@ -87,7 +87,7 @@ ASN,Organization,IP_Count
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",287
 "AS213613","BOTSHIELD LTD",269
-"AS208843","Alpha Strike Labs GmbH",261
+"AS208843","Alpha Strike Labs GmbH",262
 "AS48090","TECHOFF SRV LIMITED",254
 "AS60223","Netiface Limited",250
 "AS18403","FPT Telecom Company",249
@@ -114,7 +114,7 @@ ASN,Organization,IP_Count
 "AS13238","YANDEX LLC",126
 "AS36007","Kamatera, Inc.",122
 "AS211298","Constantine Cybersecurity Ltd.",113
-"AS34984","Superonline Iletisim Hizmetleri A.S.",112
+"AS34984","Superonline Iletisim Hizmetleri A.S.",113
 "AS208287","DC Host INC",110
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",105
@@ -192,10 +192,10 @@ ASN,Organization,IP_Count
 "AS262378","Compuservice Empreendimentos Ltda",42
 "AS7738","V tal",42
 "AS141995","Contabo Asia Private Limited",41
+"AS2856","British Telecommunications PLC",41
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",41
 "AS21928","T-Mobile USA, Inc.",40
 "AS23969","TOT Public Company Limited",40
-"AS2856","British Telecommunications PLC",40
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",40
 "AS20473","The Constant Company, LLC",39
 "AS27699","TELEFÔNICA BRASIL S.A",39
@@ -222,9 +222,9 @@ ASN,Organization,IP_Count
 "AS9498","Bharti Airtel Limited",33
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
+"AS30058","FDCservers.net",32
 "AS55990","Huawei Cloud Service data center",32
 "AS1241","RIPE Network Coordination Centre",31
-"AS30058","FDCservers.net",31
 "AS44592","SkyLink Data Center BV",31
 "AS17557","Pakistan Telecommuication company limited",30
 "AS200593","PROSPERO OOO",30
@@ -256,13 +256,13 @@ ASN,Organization,IP_Count
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS8796","FD-298-8796",26
 "AS17995","PT iForte Global Internet",25
+"AS18881","TELEFÔNICA BRASIL S.A",25
 "AS21127","Joint Stock Company TransTeleCom",25
 "AS24560","Bharti Airtel Limited",25
 "AS36947","Telecom Algeria",25
 "AS55836","Reliance Jio Infocomm Limited",25
 "AS58224","Iran Telecommunication Company PJS",25
 "AS9123","TimeWeb Ltd.",25
-"AS18881","TELEFÔNICA BRASIL S.A",24
 "AS197540","netcup GmbH",24
 "AS209","CenturyLink Communications, LLC",24
 "AS329490","Promethean Consulting Limited",24
