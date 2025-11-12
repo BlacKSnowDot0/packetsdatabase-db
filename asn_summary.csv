@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87748
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22015
-"AS398324","Censys, Inc.",13681
-"AS32934","Facebook, Inc.",12479
+"AS398324","Censys, Inc.",13682
+"AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10390
 "AS14061","DigitalOcean, LLC",7994
 "AS26210","AXS Bolivia S. A.",7972
@@ -11,11 +11,11 @@ ASN,Organization,IP_Count
 "AS4134","Chinanet",5024
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4443
-"AS16509","Amazon.com, Inc.",4330
+"AS16509","Amazon.com, Inc.",4343
 "AS396998","Path Network, Inc.",3992
 "AS45102","Alibaba (US) Technology Co., Ltd.",3955
 "AS63949","Akamai Technologies, Inc.",3607
-"AS0","",3585
+"AS0","",3586
 "AS15169","Google LLC",3363
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3134
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1343
 "AS32475","Internap Holding LLC",1318
 "AS215269","LAZYCLOUD LTD",1312
-"AS13335","Cloudflare, Inc.",1308
+"AS13335","Cloudflare, Inc.",1310
 "AS36352","HostPapa",1258
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1179
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",762
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
 "AS51167","Contabo GmbH",682
-"AS10439","CariNet, Inc.",658
+"AS10439","CariNet, Inc.",659
 "AS14618","Amazon.com, Inc.",653
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",578
@@ -171,10 +171,10 @@ ASN,Organization,IP_Count
 "AS20115","Charter Communications",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
 "AS19318","Interserver, Inc",54
+"AS200514","KnownSRV Ltd.",54
 "AS210644","AEZA INTERNATIONAL LTD",54
 "AS213877","u1host ltd",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
-"AS200514","KnownSRV Ltd.",53
 "AS149746","PT Blip Integrator Provider",50
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
@@ -224,12 +224,12 @@ ASN,Organization,IP_Count
 "AS263355","GTR NET COMUNICACOES EIRELI",32
 "AS55990","Huawei Cloud Service data center",32
 "AS1241","RIPE Network Coordination Centre",31
+"AS30058","FDCservers.net",31
 "AS44592","SkyLink Data Center BV",31
 "AS17557","Pakistan Telecommuication company limited",30
 "AS200593","PROSPERO OOO",30
 "AS204834","Shabakieh Isfahan Co PJSC",30
 "AS269193","Iktelecom Ltda",30
-"AS30058","FDCservers.net",30
 "AS200590","NLS Kazakhstan LLC",29
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
@@ -279,6 +279,7 @@ ASN,Organization,IP_Count
 "AS197309","RS-Media LLC",22
 "AS213010","Gening Nikita Dmitrievich",22
 "AS214417","Andrii Hrosh",22
+"AS215240","Silent Connection Ltd.",22
 "AS329009","Spectrum Internet Service Ltd",22
 "AS41745","Baykov Ilya Sergeevich",22
 "AS43289","Trabia SRL",22
@@ -291,7 +292,6 @@ ASN,Organization,IP_Count
 "AS138886","PT Data Buana Nusantara",21
 "AS17816","China Unicom IP network China169 Guangdong province",21
 "AS214668","AxusHost B.V.",21
-"AS215240","Silent Connection Ltd.",21
 "AS3320","Deutsche Telekom AG",21
 "AS400536","Nodestop LLC",21
 "AS45758","Triple T Broadband Public Company Limited",21
@@ -424,6 +424,7 @@ ASN,Organization,IP_Count
 "AS17552","TRUE INTERNET CORPORATION CO. LTD.",11
 "AS200651","FlokiNET ehf",11
 "AS202520","SkyPass Solutions Sp. z.o.o.",11
+"AS202796","JSR IT B.V.",11
 "AS205119","TELEKS DOOEL Skopje",11
 "AS206804","EstNOC OY",11
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
@@ -438,7 +439,6 @@ ASN,Organization,IP_Count
 "AS12271","Charter Communications Inc",10
 "AS149359","PT Persada Data Multimedia",10
 "AS153443","VPSRE.NET LLC",10
-"AS202796","JSR IT B.V.",10
 "AS24835","Vodafone Data - Egypt",10
 "AS25019","Saudi Telecom Company JSC",10
 "AS264628","CORPORACION FIBEX TELECOM, C.A.",10
