@@ -4,8 +4,8 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22020
 "AS398324","Censys, Inc.",13699
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10392
-"AS14061","DigitalOcean, LLC",7997
+"AS396982","Google LLC",10393
+"AS14061","DigitalOcean, LLC",7998
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5837
 "AS4134","Chinanet",5024
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4343
 "AS396998","Path Network, Inc.",3992
 "AS45102","Alibaba (US) Technology Co., Ltd.",3963
-"AS63949","Akamai Technologies, Inc.",3608
+"AS63949","Akamai Technologies, Inc.",3609
 "AS0","",3588
 "AS15169","Google LLC",3364
 "AS398705","Censys, Inc.",3238
@@ -31,8 +31,8 @@ ASN,Organization,IP_Count
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1405
 "AS49870","Alsycon B.V.",1343
-"AS32475","Internap Holding LLC",1325
-"AS13335","Cloudflare, Inc.",1312
+"AS32475","Internap Holding LLC",1326
+"AS13335","Cloudflare, Inc.",1313
 "AS215269","LAZYCLOUD LTD",1312
 "AS36352","HostPapa",1262
 "AS204428","SS-Net",1182
@@ -157,9 +157,9 @@ ASN,Organization,IP_Count
 "AS23724","IDC, China Telecommunications Corporation",63
 "AS140717","China Unicom",61
 "AS150263","PT Alnet Telekomunikasi Indonesia",61
+"AS55720","Gigabit Hosting Sdn Bhd",61
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS4812","China Telecom (Group)",60
-"AS55720","Gigabit Hosting Sdn Bhd",60
 "AS6128","Cablevision Systems Corp.",60
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",59
 "AS49544","i3D.net B.V",59
@@ -649,6 +649,7 @@ ASN,Organization,IP_Count
 "AS268482","Connect Telecomunicações LTDA",5
 "AS271188","VOCALNET TELECOMUNICAÇÕES EIRELI - ME",5
 "AS271874","SERVITRACTOR S.A.",5
+"AS28546","Servnet Mexico, S.A. de C.V.",5
 "AS28580","CILNET Comunicacao e Informatica LTDA.",5
 "AS28773","Global Technologies of Ukraine LLC",5
 "AS29049","Delta Telecom Ltd",5
@@ -762,7 +763,6 @@ ASN,Organization,IP_Count
 "AS27651","ENTEL CHILE S.A.",4
 "AS28146","MHNET TELECOM",4
 "AS28258","VERO S.A",4
-"AS28546","Servnet Mexico, S.A. de C.V.",4
 "AS28753","Leaseweb Deutschland GmbH",4
 "AS28787","Baku Telephone Communication LLC",4
 "AS29314","VECTRA S.A.",4
