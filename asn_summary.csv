@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3134
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2763
-"AS6939","Hurricane Electric LLC",2565
+"AS6939","Hurricane Electric LLC",2566
 "AS142002","Scloud Pte Ltd",2559
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1756
@@ -209,10 +209,10 @@ ASN,Organization,IP_Count
 "AS1680","Cellcom Fixed Line Communication L.P",36
 "AS210558","1337 Services GmbH",36
 "AS42624","Global-Data System IT Corporation",36
+"AS5089","Virgin Media Limited",36
 "AS213790","Limited Network LTD",35
 "AS30083","velia.net",35
 "AS46475","Limestone Networks, Inc.",35
-"AS5089","Virgin Media Limited",35
 "AS34665","Petersburg Internet Network ltd.",34
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",34
 "AS4760","PCCW IMS Limited",34
@@ -320,6 +320,7 @@ ASN,Organization,IP_Count
 "AS24348","CERNET2 IX at Tsinghua University",19
 "AS24940","Hetzner Online GmbH",19
 "AS262287","Maxihost LTDA",19
+"AS3257","GTT Communications Inc.",19
 "AS49531","""NetCom-R"" LLC",19
 "AS6167","Verizon Business",19
 "AS11878","tzulo, inc.",18
@@ -328,7 +329,6 @@ ASN,Organization,IP_Count
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",18
 "AS271597","NEW LINK CONNECT",18
-"AS3257","GTT Communications Inc.",18
 "AS39603","P4 Sp. z o.o.",18
 "AS400655","NixLabs Networks",18
 "AS40676","Psychz Networks",18
