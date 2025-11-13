@@ -59,7 +59,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",577
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS9009","M247 Europe SRL",554
+"AS9009","M247 Europe SRL",555
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS51115","HLL LLC",509
@@ -420,6 +420,7 @@ ASN,Organization,IP_Count
 "AS8400","TELEKOM SRBIJA a.d.",12
 "AS8708","RCS & RDS SA",12
 "AS9318","SK Broadband Co Ltd",12
+"AS9770","LG HelloVision Corp.",12
 "AS984","OCTOPUS WEB SOLUTION INC",12
 "AS11351","Charter Communications Inc",11
 "AS142032","High Family Technology Co., Limited",11
@@ -435,7 +436,6 @@ ASN,Organization,IP_Count
 "AS45820","TTSL-ISP DIVISION",11
 "AS48282","Hosting technology LTD",11
 "AS58563","CHINANET Hubei province network",11
-"AS9770","LG HelloVision Corp.",11
 "AS12271","Charter Communications Inc",10
 "AS1267","RIPE Network Coordination Centre",10
 "AS149359","PT Persada Data Multimedia",10
