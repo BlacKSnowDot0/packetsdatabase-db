@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87750
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22020
-"AS398324","Censys, Inc.",13701
+"AS398324","Censys, Inc.",13706
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10396
-"AS14061","DigitalOcean, LLC",7999
+"AS14061","DigitalOcean, LLC",8000
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5837
 "AS4134","Chinanet",5024
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3138
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2763
+"AS8075","Microsoft Corporation",2764
 "AS6939","Hurricane Electric LLC",2567
 "AS142002","Scloud Pte Ltd",2559
 "AS9808","China Mobile",2078
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1405
 "AS49870","Alsycon B.V.",1343
 "AS32475","Internap Holding LLC",1328
-"AS13335","Cloudflare, Inc.",1315
+"AS13335","Cloudflare, Inc.",1317
 "AS215269","LAZYCLOUD LTD",1312
 "AS36352","HostPapa",1262
 "AS204428","SS-Net",1182
@@ -40,7 +40,7 @@ ASN,Organization,IP_Count
 "AS22552","eSited Solutions",1179
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS23470","ReliableSite.Net LLC",1124
+"AS23470","ReliableSite.Net LLC",1125
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",1000
 "AS51852","Private Layer INC",907
@@ -62,8 +62,8 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",553
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
+"AS201814","MEVSPACE sp. z o.o.",504
 "AS51115","HLL LLC",504
-"AS201814","MEVSPACE sp. z o.o.",503
 "AS50360","Tamatiya EOOD",492
 "AS53667","FranTech Solutions",486
 "AS12876","ONLINE S.A.S.",474
@@ -87,7 +87,7 @@ ASN,Organization,IP_Count
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",288
 "AS213613","BOTSHIELD LTD",270
-"AS208843","Alpha Strike Labs GmbH",262
+"AS208843","Alpha Strike Labs GmbH",263
 "AS48090","TECHOFF SRV LIMITED",254
 "AS60223","Netiface Limited",250
 "AS18403","FPT Telecom Company",249
@@ -102,7 +102,7 @@ ASN,Organization,IP_Count
 "AS29484","Ruhr-Universitaet Bochum",178
 "AS63199","CDS Global Cloud Co., Ltd",174
 "AS401116","Nybula LLC",170
-"AS29066","velia.net Internetdienste GmbH",164
+"AS29066","velia.net Internetdienste GmbH",165
 "AS206264","Amarutu Technology Ltd",153
 "AS42237","w1n ltd",141
 "AS47105","Vault Dweller OU",141
@@ -201,9 +201,9 @@ ASN,Organization,IP_Count
 "AS27699","TELEFÔNICA BRASIL S.A",39
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",39
 "AS8048","CANTV Servicios, Venezuela",39
+"AS263025","ISPTEC Sistemas de Comunicação Eireli",38
 "AS26599","TELEFÔNICA BRASIL S.A",38
 "AS4538","China Education and Research Network Center",38
-"AS263025","ISPTEC Sistemas de Comunicação Eireli",37
 "AS8167","V tal",37
 "AS12322","Free SAS",36
 "AS1680","Cellcom Fixed Line Communication L.P",36
