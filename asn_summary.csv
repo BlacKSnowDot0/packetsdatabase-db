@@ -31,10 +31,10 @@ ASN,Organization,IP_Count
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1405
 "AS49870","Alsycon B.V.",1343
-"AS32475","Internap Holding LLC",1332
-"AS13335","Cloudflare, Inc.",1319
+"AS32475","Internap Holding LLC",1333
+"AS13335","Cloudflare, Inc.",1320
 "AS215269","LAZYCLOUD LTD",1312
-"AS36352","HostPapa",1263
+"AS36352","HostPapa",1264
 "AS174","Cogent Communications",1182
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1179
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",764
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
 "AS51167","Contabo GmbH",688
-"AS10439","CariNet, Inc.",660
+"AS10439","CariNet, Inc.",661
 "AS14618","Amazon.com, Inc.",656
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",578
@@ -63,9 +63,9 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS51115","HLL LLC",506
-"AS201814","MEVSPACE sp. z o.o.",504
+"AS201814","MEVSPACE sp. z o.o.",505
 "AS50360","Tamatiya EOOD",492
-"AS53667","FranTech Solutions",486
+"AS53667","FranTech Solutions",487
 "AS12876","ONLINE S.A.S.",476
 "AS212238","Datacamp Limited",463
 "AS9829","Bharat Sanchar Nigam Ltd",457
@@ -99,10 +99,10 @@ ASN,Organization,IP_Count
 "AS12555","Data-center IMAQLIQ Ltd.",192
 "AS12389","PJSC Rostelecom",190
 "AS7552","Viettel Group",182
-"AS29484","Ruhr-Universitaet Bochum",178
+"AS29484","Ruhr-Universitaet Bochum",179
 "AS63199","CDS Global Cloud Co., Ltd",176
 "AS401116","Nybula LLC",170
-"AS29066","velia.net Internetdienste GmbH",166
+"AS29066","velia.net Internetdienste GmbH",168
 "AS206264","Amarutu Technology Ltd",153
 "AS42237","w1n ltd",141
 "AS47105","Vault Dweller OU",141
@@ -122,18 +122,18 @@ ASN,Organization,IP_Count
 "AS151185","China Telecom",103
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",95
 "AS205352","KABELNET LTD",93
+"AS40021","Nubes, LLC",92
 "AS63018","Dedicated.com",92
-"AS40021","Nubes, LLC",91
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS8560","IONOS SE",86
 "AS58461","Chinanet",85
 "AS136435","ELITE COMMUNICATION",84
 "AS199785","Cloud Hosting Solutions, Limited.",84
 "AS4766","Korea Telecom",83
+"AS6739","VODAFONE ONO, S.A.",82
 "AS16735","ALGAR TELECOM S/A",81
 "AS28209","Under Servicos de Internet Ltda",81
 "AS5617","Orange Polska Spolka Akcyjna",81
-"AS6739","VODAFONE ONO, S.A.",81
 "AS200019","ALEXHOST SRL",78
 "AS271795","SERVITELCONET CIA. LTDA.",78
 "AS11320","LightEdge Solutions",77
@@ -389,6 +389,7 @@ ASN,Organization,IP_Count
 "AS48721","Flyservers S.A.",14
 "AS60781","LeaseWeb Netherlands B.V.",14
 "AS134420","Chongqing Telecom",13
+"AS137718","Beijing Volcano Engine Technology Co., Ltd.",13
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",13
 "AS15895","""Kyivstar"" PJSC",13
 "AS17621","China Unicom Shanghai network",13
@@ -402,7 +403,6 @@ ASN,Organization,IP_Count
 "AS38841","kbro CO. Ltd.",13
 "AS53006","ALGAR TELECOM S/A",13
 "AS6327","Shaw Communications Inc.",13
-"AS137718","Beijing Volcano Engine Technology Co., Ltd.",12
 "AS17639","ComClark Network & Technology Corp",12
 "AS202520","SkyPass Solutions Sp. z.o.o.",12
 "AS202796","JSR IT B.V.",12
@@ -582,6 +582,7 @@ ASN,Organization,IP_Count
 "AS27747","Telecentro S.A.",6
 "AS27983","Red Intercable Digital S.A.",6
 "AS28210","GIGA MAIS FIBRA TELECOMUNICACOES S.A.",6
+"AS28546","Servnet Mexico, S.A. de C.V.",6
 "AS30722","Vodafone Italia S.p.A.",6
 "AS33588","Charter Communications",6
 "AS33771","Safaricom Limited",6
@@ -650,7 +651,6 @@ ASN,Organization,IP_Count
 "AS268482","Connect Telecomunicações LTDA",5
 "AS271188","VOCALNET TELECOMUNICAÇÕES EIRELI - ME",5
 "AS271874","SERVITRACTOR S.A.",5
-"AS28546","Servnet Mexico, S.A. de C.V.",5
 "AS28580","CILNET Comunicacao e Informatica LTDA.",5
 "AS28773","Global Technologies of Ukraine LLC",5
 "AS29049","Delta Telecom Ltd",5
