@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87751
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22020
-"AS398324","Censys, Inc.",13724
+"AS398324","Censys, Inc.",13726
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10397
 "AS14061","DigitalOcean, LLC",8002
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1405
 "AS49870","Alsycon B.V.",1343
-"AS32475","Internap Holding LLC",1331
+"AS32475","Internap Holding LLC",1332
 "AS13335","Cloudflare, Inc.",1319
 "AS215269","LAZYCLOUD LTD",1312
 "AS36352","HostPapa",1263
@@ -299,6 +299,7 @@ ASN,Organization,IP_Count
 "AS46573","LayerHost",21
 "AS4800","PT Aplikanusa Lintasarta",21
 "AS50887","DC FIBER HOME SRL",21
+"AS5384","EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",21
 "AS812","Rogers Communications Canada Inc.",21
 "AS9299","Philippine Long Distance Telephone Co.",21
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
@@ -308,7 +309,6 @@ ASN,Organization,IP_Count
 "AS24940","Hetzner Online GmbH",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS4816","China Telecom (Group)",20
-"AS5384","EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",20
 "AS11426","Charter Communications Inc",19
 "AS12874","Fastweb SpA",19
 "AS136142","Enigma Fiber Pvt Ltd",19
@@ -1756,6 +1756,7 @@ ASN,Organization,IP_Count
 "AS151529","PT Jaringan Fiberone Indonesia",1
 "AS151538","PT Flashnet Inovasi Teknologi",1
 "AS151540","PT Digital Netcom Solution",1
+"AS151544","PDWNet",1
 "AS151577","PT Geka Solusi Utama",1
 "AS151600","PT Inti Data Guna",1
 "AS151844","INetwork Pvt. Ltd.",1
