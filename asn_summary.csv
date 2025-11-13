@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87752
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22021
-"AS398324","Censys, Inc.",13731
+"AS398324","Censys, Inc.",13733
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10397
 "AS14061","DigitalOcean, LLC",8002
@@ -20,8 +20,8 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3138
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2767
-"AS6939","Hurricane Electric LLC",2569
+"AS8075","Microsoft Corporation",2768
+"AS6939","Hurricane Electric LLC",2570
 "AS142002","Scloud Pte Ltd",2559
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1762
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1406
 "AS49870","Alsycon B.V.",1343
-"AS32475","Internap Holding LLC",1334
+"AS32475","Internap Holding LLC",1335
 "AS13335","Cloudflare, Inc.",1320
 "AS215269","LAZYCLOUD LTD",1312
 "AS36352","HostPapa",1264
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",554
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
-"AS51115","HLL LLC",506
+"AS51115","HLL LLC",507
 "AS201814","MEVSPACE sp. z o.o.",505
 "AS50360","Tamatiya EOOD",492
 "AS53667","FranTech Solutions",487
@@ -437,6 +437,7 @@ ASN,Organization,IP_Count
 "AS58563","CHINANET Hubei province network",11
 "AS9770","LG HelloVision Corp.",11
 "AS12271","Charter Communications Inc",10
+"AS1267","RIPE Network Coordination Centre",10
 "AS149359","PT Persada Data Multimedia",10
 "AS153443","VPSRE.NET LLC",10
 "AS24835","Vodafone Data - Egypt",10
@@ -456,7 +457,6 @@ ASN,Organization,IP_Count
 "AS9304","HGC Global Communications Limited",10
 "AS9930","TT DOTCOM SDN BHD",10
 "AS12353","Vodafone Portugal - Communicacoes Pessoais S.A.",9
-"AS1267","RIPE Network Coordination Centre",9
 "AS131596","TBC",9
 "AS133481","ADVANCED WIRELESS NETWORK COMPANY LIMITED",9
 "AS135059","Lao Asia Pacific Satellite Co., Ltd.",9
