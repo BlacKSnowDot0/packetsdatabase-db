@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87750
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22020
-"AS398324","Censys, Inc.",13700
+"AS398324","Censys, Inc.",13701
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10393
+"AS396982","Google LLC",10396
 "AS14061","DigitalOcean, LLC",7999
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5837
@@ -14,8 +14,8 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4343
 "AS396998","Path Network, Inc.",3992
 "AS45102","Alibaba (US) Technology Co., Ltd.",3963
-"AS63949","Akamai Technologies, Inc.",3609
-"AS0","",3588
+"AS63949","Akamai Technologies, Inc.",3610
+"AS0","",3589
 "AS15169","Google LLC",3364
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3138
@@ -31,8 +31,8 @@ ASN,Organization,IP_Count
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1405
 "AS49870","Alsycon B.V.",1343
-"AS32475","Internap Holding LLC",1326
-"AS13335","Cloudflare, Inc.",1314
+"AS32475","Internap Holding LLC",1328
+"AS13335","Cloudflare, Inc.",1315
 "AS215269","LAZYCLOUD LTD",1312
 "AS36352","HostPapa",1262
 "AS204428","SS-Net",1182
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
 "AS51167","Contabo GmbH",686
 "AS10439","CariNet, Inc.",660
-"AS14618","Amazon.com, Inc.",655
+"AS14618","Amazon.com, Inc.",656
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",578
 "AS4837","CHINA UNICOM China169 Backbone",577
@@ -143,7 +143,7 @@ ASN,Organization,IP_Count
 "AS56046","China Mobile Communications Corporation",74
 "AS31898","Oracle Corporation",73
 "AS3920","ESTOXY OU",71
-"AS22773","Cox Communications Inc.",69
+"AS22773","Cox Communications Inc.",70
 "AS52053","REDHEBERG Association declaree",69
 "AS834","IPXO LLC",68
 "AS328867","Corebach Backbone SARL",67
@@ -273,6 +273,7 @@ ASN,Organization,IP_Count
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",24
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",23
 "AS198037","SPACECORE SOLUTION LTD",23
+"AS329009","Spectrum Internet Service Ltd",23
 "AS56067","Metrabyte Co.,Ltd",23
 "AS58212","dataforest GmbH",23
 "AS62240","Clouvider Limited",23
@@ -282,7 +283,6 @@ ASN,Organization,IP_Count
 "AS213010","Gening Nikita Dmitrievich",22
 "AS214417","Andrii Hrosh",22
 "AS215240","Silent Connection Ltd.",22
-"AS329009","Spectrum Internet Service Ltd",22
 "AS41745","Baykov Ilya Sergeevich",22
 "AS43289","Trabia SRL",22
 "AS43641","SOLLUTIUM EU Sp z.o.o.",22
@@ -380,6 +380,7 @@ ASN,Organization,IP_Count
 "AS12400","Partner Communications Ltd.",14
 "AS19901","Brightspeed",14
 "AS204104","Giti Secure Cloud LLC",14
+"AS215762","Bullet Group LTD",14
 "AS27947","Telconet S.A",14
 "AS30600","Metronet",14
 "AS3352","TELEFONICA DE ESPANA S.A.U.",14
@@ -393,7 +394,6 @@ ASN,Organization,IP_Count
 "AS17621","China Unicom Shanghai network",13
 "AS20011","Dimension Data",13
 "AS213194","Nechaev Dmitry Sergeevich",13
-"AS215762","Bullet Group LTD",13
 "AS25369","Hydra Communications Ltd",13
 "AS28840","PJSC ""TATTELECOM""",13
 "AS29465","MTN NIGERIA Communication limited",13
@@ -1156,6 +1156,7 @@ ASN,Organization,IP_Count
 "AS211381","Podaon SIA",2
 "AS211860","Nerushenko Vyacheslav Nikolaevich",2
 "AS211895","Serverius Holding B.V.",2
+"AS212047","Civo LTD",2
 "AS212118","Malakhovskyi Hennadii",2
 "AS212552","BitCommand LLC",2
 "AS213186","Yanoor Islam Khan",2
@@ -1197,6 +1198,7 @@ ASN,Organization,IP_Count
 "AS25553","TRK Gluhov Ltd.",2
 "AS2561","Egyptian Universities Network (EUN)",2
 "AS25820","IT7 Networks Inc",2
+"AS26141","CubePath",2
 "AS262191","COLUMBUS NETWORKS COLOMBIA",2
 "AS262197","MILLICOM CABLE COSTA RICA S.A.",2
 "AS262273","I T Tecnologia e Informação Ltda",2
@@ -1933,7 +1935,6 @@ ASN,Organization,IP_Count
 "AS211448","WEBCONEX SAS",1
 "AS211621","West-TV LLC",1
 "AS21183","Vodafone Albania Sh.A.",1
-"AS212047","Civo LTD",1
 "AS212271","Cinzia Tocci trading as C1V",1
 "AS212317","Hetzner Online GmbH",1
 "AS212463","FOP Polischyk O.V",1
@@ -2016,7 +2017,6 @@ ASN,Organization,IP_Count
 "AS25921","LUS Fiber",1
 "AS26042","FiberState, LLC",1
 "AS2609","Tunisia BackBone AS",1
-"AS26141","CubePath",1
 "AS262161","COTES Ltda.",1
 "AS262207","Corporacion de Internet, Sociedad Anonima.",1
 "AS26223","Silver Star Communications",1
