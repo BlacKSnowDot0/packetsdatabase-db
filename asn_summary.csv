@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87751
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22020
-"AS398324","Censys, Inc.",13721
+"AS398324","Censys, Inc.",13722
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10397
 "AS14061","DigitalOcean, LLC",8002
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1405
 "AS49870","Alsycon B.V.",1343
-"AS32475","Internap Holding LLC",1330
+"AS32475","Internap Holding LLC",1331
 "AS13335","Cloudflare, Inc.",1319
 "AS215269","LAZYCLOUD LTD",1312
 "AS36352","HostPapa",1263
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",824
 "AS215925","VPSVAULT.HOST LTD",820
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",763
+"AS20052","Arbor Networks, Inc.",764
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
 "AS51167","Contabo GmbH",688
 "AS10439","CariNet, Inc.",660
@@ -971,6 +971,7 @@ ASN,Organization,IP_Count
 "AS4618","Internet Thailand Company Ltd.",3
 "AS47154","HUSAM A. H. HIJAZI",3
 "AS4818","DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",3
+"AS48314","Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG",3
 "AS48411","FOP Samoylenko Oleksandr Volodymirovich",3
 "AS48437","PP ""Merezha""",3
 "AS48832","Linkdotnet-Jordan",3
@@ -1377,7 +1378,6 @@ ASN,Organization,IP_Count
 "AS4787","PT Cyberindo Aditama",2
 "AS48004","PE Tsibrankov Konstantin Igorevich",2
 "AS4804","SingTel Optus Pty Ltd",2
-"AS48314","Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG",2
 "AS48678","PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi",2
 "AS48728","Vodafone Qatar P.Q.S.C",2
 "AS48847","WAVES S.A.L",2
