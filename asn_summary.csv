@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87751
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22020
-"AS398324","Censys, Inc.",13710
+"AS398324","Censys, Inc.",13713
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10397
-"AS14061","DigitalOcean, LLC",8001
+"AS14061","DigitalOcean, LLC",8002
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5837
 "AS4134","Chinanet",5024
@@ -356,6 +356,7 @@ ASN,Organization,IP_Count
 "AS328539","Giga for Telecommunication and Technology Limited",16
 "AS33363","Charter Communications, Inc",16
 "AS46261","QuickPacket, LLC",16
+"AS46375","Sonic Telecom LLC",16
 "AS48753","AVA HOST SRL",16
 "AS6597","Coloblox Data Centers Inc",16
 "AS12849","Hot-Net internet services Ltd.",15
@@ -371,7 +372,6 @@ ASN,Organization,IP_Count
 "AS28201","Companhia Itabirana Telecomunicações Ltda",15
 "AS31113","Artkomm LLC",15
 "AS397283","RocketNode Inc",15
-"AS46375","Sonic Telecom LLC",15
 "AS5607","Sky UK Limited",15
 "AS64236","UnReal Servers, LLC",15
 "AS6849","JSC ""Ukrtelecom""",15
