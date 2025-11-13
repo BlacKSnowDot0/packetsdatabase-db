@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87751
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22020
-"AS398324","Censys, Inc.",13713
+"AS398324","Censys, Inc.",13714
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10397
 "AS14061","DigitalOcean, LLC",8002
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5837
+"AS16276","OVH SAS",5838
 "AS4134","Chinanet",5024
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4444
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",763
 "AS211680","NSEC - Sistemas Informaticos, S.A.",729
-"AS51167","Contabo GmbH",687
+"AS51167","Contabo GmbH",688
 "AS10439","CariNet, Inc.",660
 "AS14618","Amazon.com, Inc.",656
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -2215,6 +2215,7 @@ ASN,Organization,IP_Count
 "AS266232","JOSIANE P DE ALMEIDA MATURANA PROVEDORES - ME",1
 "AS266300","FUSAO TELECOM LTDA. - ME",1
 "AS266304","Plig Telecom LTDA",1
+"AS266438","GNS FIBRA",1
 "AS266471","Silva Oliveira Serviços de Informatica Ltda ME",1
 "AS266493","R. L. HOFFMANN",1
 "AS266525","Eurocorp Vialux Internet Eireli",1
@@ -2304,6 +2305,7 @@ ASN,Organization,IP_Count
 "AS269035","David Martins Ferreira Telecomunicação - ME",1
 "AS269036","ATEX NET TELECOMUNICACOES LTDA",1
 "AS269046","First Telecom LTDA",1
+"AS269076","L DA COSTA SILVA COMUNICACOES",1
 "AS269096","NORTH TELECOMUNICACOES EIRELI",1
 "AS269182","PLUGAR TELECOM",1
 "AS269220","Vamos Internet Telecom Ltda",1
