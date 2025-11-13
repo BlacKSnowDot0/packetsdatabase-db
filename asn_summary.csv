@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87752
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22021
-"AS398324","Censys, Inc.",13738
+"AS398324","Censys, Inc.",13739
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10399
-"AS14061","DigitalOcean, LLC",8003
+"AS14061","DigitalOcean, LLC",8004
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5839
 "AS4134","Chinanet",5025
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1406
 "AS49870","Alsycon B.V.",1343
-"AS32475","Internap Holding LLC",1337
+"AS32475","Internap Holding LLC",1338
 "AS13335","Cloudflare, Inc.",1322
 "AS215269","LAZYCLOUD LTD",1312
 "AS36352","HostPapa",1264
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",505
 "AS50360","Tamatiya EOOD",492
 "AS53667","FranTech Solutions",487
-"AS12876","ONLINE S.A.S.",477
+"AS12876","ONLINE S.A.S.",478
 "AS212238","Datacamp Limited",463
 "AS9829","Bharat Sanchar Nigam Ltd",457
 "AS21299","Kar-Tel LLC",406
@@ -204,9 +204,9 @@ ASN,Organization,IP_Count
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",38
 "AS26599","TELEFÔNICA BRASIL S.A",38
 "AS4538","China Education and Research Network Center",38
+"AS1680","Cellcom Fixed Line Communication L.P",37
 "AS8167","V tal",37
 "AS12322","Free SAS",36
-"AS1680","Cellcom Fixed Line Communication L.P",36
 "AS210558","1337 Services GmbH",36
 "AS42624","Global-Data System IT Corporation",36
 "AS46475","Limestone Networks, Inc.",36
