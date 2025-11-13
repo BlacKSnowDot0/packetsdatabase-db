@@ -13,9 +13,9 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4444
 "AS16509","Amazon.com, Inc.",4343
 "AS396998","Path Network, Inc.",3992
-"AS45102","Alibaba (US) Technology Co., Ltd.",3965
+"AS45102","Alibaba (US) Technology Co., Ltd.",3967
 "AS63949","Akamai Technologies, Inc.",3611
-"AS0","",3590
+"AS0","",3591
 "AS15169","Google LLC",3364
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3138
@@ -68,7 +68,7 @@ ASN,Organization,IP_Count
 "AS53667","FranTech Solutions",487
 "AS12876","ONLINE S.A.S.",478
 "AS212238","Datacamp Limited",463
-"AS9829","Bharat Sanchar Nigam Ltd",457
+"AS9829","Bharat Sanchar Nigam Ltd",458
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",405
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -265,6 +265,7 @@ ASN,Organization,IP_Count
 "AS9123","TimeWeb Ltd.",25
 "AS197540","netcup GmbH",24
 "AS209","CenturyLink Communications, LLC",24
+"AS214417","Andrii Hrosh",24
 "AS215240","Silent Connection Ltd.",24
 "AS329490","Promethean Consulting Limited",24
 "AS4713","NTT Communications Corporation",24
@@ -274,7 +275,6 @@ ASN,Organization,IP_Count
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",24
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",23
 "AS198037","SPACECORE SOLUTION LTD",23
-"AS214417","Andrii Hrosh",23
 "AS329009","Spectrum Internet Service Ltd",23
 "AS56067","Metrabyte Co.,Ltd",23
 "AS58212","dataforest GmbH",23
