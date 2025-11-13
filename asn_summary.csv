@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS396998","Path Network, Inc.",3992
 "AS45102","Alibaba (US) Technology Co., Ltd.",3963
 "AS63949","Akamai Technologies, Inc.",3610
-"AS0","",3589
+"AS0","",3590
 "AS15169","Google LLC",3364
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3138
@@ -32,11 +32,11 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1405
 "AS49870","Alsycon B.V.",1343
 "AS32475","Internap Holding LLC",1330
-"AS13335","Cloudflare, Inc.",1318
+"AS13335","Cloudflare, Inc.",1319
 "AS215269","LAZYCLOUD LTD",1312
 "AS36352","HostPapa",1263
+"AS174","Cogent Communications",1182
 "AS204428","SS-Net",1182
-"AS174","Cogent Communications",1181
 "AS22552","eSited Solutions",1179
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
@@ -62,8 +62,8 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",553
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
+"AS51115","HLL LLC",505
 "AS201814","MEVSPACE sp. z o.o.",504
-"AS51115","HLL LLC",504
 "AS50360","Tamatiya EOOD",492
 "AS53667","FranTech Solutions",486
 "AS12876","ONLINE S.A.S.",475
@@ -100,7 +100,7 @@ ASN,Organization,IP_Count
 "AS12389","PJSC Rostelecom",190
 "AS7552","Viettel Group",182
 "AS29484","Ruhr-Universitaet Bochum",178
-"AS63199","CDS Global Cloud Co., Ltd",175
+"AS63199","CDS Global Cloud Co., Ltd",176
 "AS401116","Nybula LLC",170
 "AS29066","velia.net Internetdienste GmbH",165
 "AS206264","Amarutu Technology Ltd",153
@@ -182,7 +182,7 @@ ASN,Organization,IP_Count
 "AS10796","Charter Communications Inc",46
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
-"AS5650","Frontier Communications of America, Inc.",45
+"AS5650","Frontier Communications of America, Inc.",46
 "AS30633","Leaseweb USA, Inc.",44
 "AS396356","Latitude.sh",44
 "AS42708","GleSYS AB",44
@@ -273,6 +273,7 @@ ASN,Organization,IP_Count
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",24
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",23
 "AS198037","SPACECORE SOLUTION LTD",23
+"AS215240","Silent Connection Ltd.",23
 "AS329009","Spectrum Internet Service Ltd",23
 "AS56067","Metrabyte Co.,Ltd",23
 "AS58212","dataforest GmbH",23
@@ -282,7 +283,6 @@ ASN,Organization,IP_Count
 "AS197309","RS-Media LLC",22
 "AS213010","Gening Nikita Dmitrievich",22
 "AS214417","Andrii Hrosh",22
-"AS215240","Silent Connection Ltd.",22
 "AS41745","Baykov Ilya Sergeevich",22
 "AS43289","Trabia SRL",22
 "AS43641","SOLLUTIUM EU Sp z.o.o.",22
