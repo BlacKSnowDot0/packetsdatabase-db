@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87756
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22030
-"AS398324","Censys, Inc.",13795
+"AS398324","Censys, Inc.",13798
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10408
 "AS14061","DigitalOcean, LLC",8023
@@ -30,11 +30,11 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1408
-"AS32475","Internap Holding LLC",1362
+"AS32475","Internap Holding LLC",1363
 "AS49870","Alsycon B.V.",1343
 "AS13335","Cloudflare, Inc.",1333
 "AS215269","LAZYCLOUD LTD",1312
-"AS36352","HostPapa",1281
+"AS36352","HostPapa",1282
 "AS174","Cogent Communications",1185
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1180
@@ -147,8 +147,8 @@ ASN,Organization,IP_Count
 "AS52053","REDHEBERG Association declaree",69
 "AS834","IPXO LLC",68
 "AS328867","Corebach Backbone SARL",67
+"AS8402","PJSC ""Vimpelcom""",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
-"AS8402","PJSC ""Vimpelcom""",66
 "AS215590","DpkgSoft International Limited",65
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
@@ -308,6 +308,7 @@ ASN,Organization,IP_Count
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",20
+"AS271597","NEW LINK CONNECT",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS4816","China Telecom (Group)",20
 "AS11426","Charter Communications Inc",19
@@ -320,7 +321,6 @@ ASN,Organization,IP_Count
 "AS22927","Telefonica de Argentina",19
 "AS24348","CERNET2 IX at Tsinghua University",19
 "AS262287","Maxihost LTDA",19
-"AS271597","NEW LINK CONNECT",19
 "AS3257","GTT Communications Inc.",19
 "AS40676","Psychz Networks",19
 "AS49531","""NetCom-R"" LLC",19
