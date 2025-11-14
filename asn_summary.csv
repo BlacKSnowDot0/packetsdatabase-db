@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87756
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22028
-"AS398324","Censys, Inc.",13782
+"AS398324","Censys, Inc.",13783
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10407
 "AS14061","DigitalOcean, LLC",8021
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3141
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2773
-"AS6939","Hurricane Electric LLC",2576
+"AS6939","Hurricane Electric LLC",2577
 "AS142002","Scloud Pte Ltd",2560
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1764
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1408
-"AS32475","Internap Holding LLC",1355
+"AS32475","Internap Holding LLC",1356
 "AS49870","Alsycon B.V.",1343
 "AS13335","Cloudflare, Inc.",1331
 "AS215269","LAZYCLOUD LTD",1312
@@ -259,6 +259,7 @@ ASN,Organization,IP_Count
 "AS18881","TELEFÔNICA BRASIL S.A",25
 "AS21127","Joint Stock Company TransTeleCom",25
 "AS214417","Andrii Hrosh",25
+"AS215240","Silent Connection Ltd.",25
 "AS24560","Bharti Airtel Limited",25
 "AS36947","Telecom Algeria",25
 "AS55836","Reliance Jio Infocomm Limited",25
@@ -266,7 +267,6 @@ ASN,Organization,IP_Count
 "AS9123","TimeWeb Ltd.",25
 "AS197540","netcup GmbH",24
 "AS209","CenturyLink Communications, LLC",24
-"AS215240","Silent Connection Ltd.",24
 "AS329009","Spectrum Internet Service Ltd",24
 "AS329490","Promethean Consulting Limited",24
 "AS4713","NTT Communications Corporation",24
@@ -599,6 +599,7 @@ ASN,Organization,IP_Count
 "AS4771","Spark New Zealand Trading Limited",6
 "AS48642","Joint stock company ""For""",6
 "AS55699","PT. Cemerlang Multimedia",6
+"AS56694","LLC Smart Ape",6
 "AS56971","CGI GLOBAL LIMITED",6
 "AS58495","PT Parsaoran Global Datatrans",6
 "AS58519","Cloud Computing Corporation",6
@@ -690,7 +691,6 @@ ASN,Organization,IP_Count
 "AS56044","China Mobile Communications Corporation",5
 "AS56047","China Mobile Communications Corporation",5
 "AS56246","PT Sumber Data Indonesia",5
-"AS56694","LLC Smart Ape",5
 "AS58118","SC ADINET-Com SRL",5
 "AS58898","Rainbow communications India Pvt Ltd",5
 "AS59441","NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)",5
