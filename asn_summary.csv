@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",13782
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10407
-"AS14061","DigitalOcean, LLC",8014
+"AS14061","DigitalOcean, LLC",8021
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5842
 "AS4134","Chinanet",5026
@@ -30,11 +30,11 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1408
-"AS32475","Internap Holding LLC",1354
+"AS32475","Internap Holding LLC",1355
 "AS49870","Alsycon B.V.",1343
 "AS13335","Cloudflare, Inc.",1331
 "AS215269","LAZYCLOUD LTD",1312
-"AS36352","HostPapa",1274
+"AS36352","HostPapa",1275
 "AS174","Cogent Communications",1184
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1180
@@ -104,7 +104,7 @@ ASN,Organization,IP_Count
 "AS29066","velia.net Internetdienste GmbH",170
 "AS401116","Nybula LLC",170
 "AS206264","Amarutu Technology Ltd",153
-"AS50219","LNK SYSTEMS MUNTENIA SRL",144
+"AS50219","LNK SYSTEMS MUNTENIA SRL",145
 "AS42237","w1n ltd",142
 "AS47105","Vault Dweller OU",141
 "AS262551","Farol Telecom",135
