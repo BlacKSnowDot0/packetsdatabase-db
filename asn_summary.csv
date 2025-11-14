@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87756
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22028
-"AS398324","Censys, Inc.",13788
+"AS398324","Censys, Inc.",13789
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10407
 "AS14061","DigitalOcean, LLC",8021
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1408
-"AS32475","Internap Holding LLC",1358
+"AS32475","Internap Holding LLC",1359
 "AS49870","Alsycon B.V.",1343
 "AS13335","Cloudflare, Inc.",1332
 "AS215269","LAZYCLOUD LTD",1312
@@ -328,6 +328,7 @@ ASN,Organization,IP_Count
 "AS17638","ASN for TIANJIN Provincial Net of CT",18
 "AS18049","Taiwan Infrastructure Network Technologie",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
+"AS207713","GLOBAL INTERNET SOLUTIONS LLC",18
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",18
 "AS271597","NEW LINK CONNECT",18
 "AS39603","P4 Sp. z o.o.",18
@@ -339,7 +340,6 @@ ASN,Organization,IP_Count
 "AS136958","China Unicom Guangdong IP network",17
 "AS148981","China Telecom",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
-"AS207713","GLOBAL INTERNET SOLUTIONS LLC",17
 "AS24151","China Internet Network Infomation Center",17
 "AS24757","EthioNet",17
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
