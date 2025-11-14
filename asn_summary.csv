@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1343
 "AS13335","Cloudflare, Inc.",1332
 "AS215269","LAZYCLOUD LTD",1312
-"AS36352","HostPapa",1276
+"AS36352","HostPapa",1277
 "AS174","Cogent Communications",1184
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1180
@@ -249,6 +249,7 @@ ASN,Organization,IP_Count
 "AS12912","T-Mobile Polska S.A.",26
 "AS13213","UK-2 Limited",26
 "AS210509","Optimum Line for Internet Services Ltd.",26
+"AS215240","Silent Connection Ltd.",26
 "AS2200","Renater",26
 "AS23693","PT. Telekomunikasi Selular",26
 "AS3209","Vodafone GmbH",26
@@ -259,7 +260,6 @@ ASN,Organization,IP_Count
 "AS18881","TELEFÔNICA BRASIL S.A",25
 "AS21127","Joint Stock Company TransTeleCom",25
 "AS214417","Andrii Hrosh",25
-"AS215240","Silent Connection Ltd.",25
 "AS24560","Bharti Airtel Limited",25
 "AS36947","Telecom Algeria",25
 "AS55836","Reliance Jio Infocomm Limited",25
