@@ -7,7 +7,7 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",10407
 "AS14061","DigitalOcean, LLC",8021
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5842
+"AS16276","OVH SAS",5843
 "AS4134","Chinanet",5026
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4445
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1408
-"AS32475","Internap Holding LLC",1356
+"AS32475","Internap Holding LLC",1357
 "AS49870","Alsycon B.V.",1343
 "AS13335","Cloudflare, Inc.",1331
 "AS215269","LAZYCLOUD LTD",1312
@@ -49,9 +49,9 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",824
 "AS215925","VPSVAULT.HOST LTD",820
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",765
+"AS20052","Arbor Networks, Inc.",766
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
-"AS51167","Contabo GmbH",697
+"AS51167","Contabo GmbH",698
 "AS10439","CariNet, Inc.",662
 "AS14618","Amazon.com, Inc.",656
 "AS211849","Kakharov Orinbassar Maratuly",596
