@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",13826
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10415
-"AS14061","DigitalOcean, LLC",8036
+"AS14061","DigitalOcean, LLC",8037
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5878
 "AS4134","Chinanet",5028
@@ -887,6 +887,7 @@ ASN,Organization,IP_Count
 "AS213354","INTERNATIONAL HOSTING SOLUTIONS LLP",3
 "AS214382","Bulent Aydin trading as Hostlayici",3
 "AS21499","Host Europe GmbH",3
+"AS214996","netcup GmbH",3
 "AS21565","Horry Telephone Cooperative, Inc.",3
 "AS23028","Team Cymru Inc.",3
 "AS23650","Chinanet Jiangsu",3
@@ -1169,7 +1170,6 @@ ASN,Organization,IP_Count
 "AS214882","Hadi Santosa",2
 "AS214967","Optibounce, LLC",2
 "AS21497","PrJSC ""VF UKRAINE""",2
-"AS214996","netcup GmbH",2
 "AS21559","OSNET Wireless",2
 "AS215761","Muhammed Fatih ASAN",2
 "AS216071","SERVERS TECH FZCO",2
