@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87757
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22039
-"AS398324","Censys, Inc.",13828
+"AS398324","Censys, Inc.",13829
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10416
-"AS14061","DigitalOcean, LLC",8037
+"AS396982","Google LLC",10417
+"AS14061","DigitalOcean, LLC",8038
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5878
 "AS4134","Chinanet",5028
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS51167","Contabo GmbH",700
 "AS10439","CariNet, Inc.",665
-"AS14618","Amazon.com, Inc.",656
+"AS14618","Amazon.com, Inc.",657
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",578
 "AS4837","CHINA UNICOM China169 Backbone",577
@@ -79,7 +79,7 @@ ASN,Organization,IP_Count
 "AS7922","Comcast Cable Communications, LLC",345
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",344
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
-"AS8151","Uninet S.A. de C.V.",333
+"AS8151","Uninet S.A. de C.V.",334
 "AS214943","Railnet LLC",315
 "AS45899","VNPT Corp",315
 "AS24863","LINKdotNET AS number",307
@@ -215,11 +215,11 @@ ASN,Organization,IP_Count
 "AS30083","velia.net",35
 "AS30058","FDCservers.net",34
 "AS34665","Petersburg Internet Network ltd.",34
+"AS38623","VIETTEL (CAMBODIA) PTE., LTD",34
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",34
 "AS4760","PCCW IMS Limited",34
 "AS9198","JSC Kazakhtelecom",34
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",33
-"AS38623","VIETTEL (CAMBODIA) PTE., LTD",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
 "AS200590","NLS Kazakhstan LLC",32
