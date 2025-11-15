@@ -5,10 +5,10 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",13809
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10412
-"AS14061","DigitalOcean, LLC",8029
+"AS14061","DigitalOcean, LLC",8030
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5845
-"AS4134","Chinanet",5026
+"AS4134","Chinanet",5027
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4445
 "AS16509","Amazon.com, Inc.",4343
@@ -101,7 +101,7 @@ ASN,Organization,IP_Count
 "AS7552","Viettel Group",182
 "AS29484","Ruhr-Universitaet Bochum",180
 "AS63199","CDS Global Cloud Co., Ltd",176
-"AS29066","velia.net Internetdienste GmbH",171
+"AS29066","velia.net Internetdienste GmbH",172
 "AS401116","Nybula LLC",170
 "AS206264","Amarutu Technology Ltd",153
 "AS50219","LNK SYSTEMS MUNTENIA SRL",147
@@ -895,6 +895,7 @@ ASN,Organization,IP_Count
 "AS262469","WISP ICONECTA SERVICOS DE REDE LTDA",3
 "AS262907","BRASIL TECNOLOGIA E PARTICIPACOES S/A",3
 "AS263478","DUFIBRANET TELECOM LTDA",3
+"AS263627","Wnetsistem Comercio e Servicos de Informatica Ltda",3
 "AS263652","FAXT Telecomunicações Ltda.",3
 "AS263703","VIGINET C.A",3
 "AS263903","INFORBARRA TELECOM",3
@@ -1223,7 +1224,6 @@ ASN,Organization,IP_Count
 "AS263442","GIALES FISCHER GRUTZMANN & CIA LTDA",2
 "AS263481","Nova Serv de Com Multimidia Ltda",2
 "AS263567","LOViZ Servico",2
-"AS263627","Wnetsistem Comercio e Servicos de Informatica Ltda",2
 "AS263634","TACNET TELECOM",2
 "AS263636","CALLNET TELECOM",2
 "AS263792","IN.PLANET S. A",2
