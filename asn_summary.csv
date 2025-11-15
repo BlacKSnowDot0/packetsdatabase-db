@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87757
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22039
-"AS398324","Censys, Inc.",13826
+"AS398324","Censys, Inc.",13828
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10415
+"AS396982","Google LLC",10416
 "AS14061","DigitalOcean, LLC",8037
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5878
@@ -105,7 +105,7 @@ ASN,Organization,IP_Count
 "AS401116","Nybula LLC",170
 "AS206264","Amarutu Technology Ltd",153
 "AS50219","LNK SYSTEMS MUNTENIA SRL",147
-"AS42237","w1n ltd",142
+"AS42237","w1n ltd",143
 "AS47105","Vault Dweller OU",141
 "AS262551","Farol Telecom",135
 "AS137409","GSL Networks Pty LTD",128
@@ -129,9 +129,9 @@ ASN,Organization,IP_Count
 "AS136435","ELITE COMMUNICATION",85
 "AS199785","Cloud Hosting Solutions, Limited.",85
 "AS58461","Chinanet",85
+"AS6739","VODAFONE ONO, S.A.",84
 "AS28209","Under Servicos de Internet Ltda",83
 "AS4766","Korea Telecom",83
-"AS6739","VODAFONE ONO, S.A.",83
 "AS16735","ALGAR TELECOM S/A",81
 "AS5617","Orange Polska Spolka Akcyjna",81
 "AS200019","ALEXHOST SRL",78
@@ -365,6 +365,7 @@ ASN,Organization,IP_Count
 "AS15704","XTRA TELECOM S.A.",15
 "AS199414","Noah Kolossa",15
 "AS202448","MVPS LTD",15
+"AS202796","JSR IT B.V.",15
 "AS211619","MAXKO d.o.o.",15
 "AS263767","CORPORACIÓN GALA IT, C.A.",15
 "AS272547","Servicos de Infraestrutura e Datacenter",15
@@ -380,7 +381,6 @@ ASN,Organization,IP_Count
 "AS12400","Partner Communications Ltd.",14
 "AS19901","Brightspeed",14
 "AS20011","Dimension Data",14
-"AS202796","JSR IT B.V.",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS215762","Bullet Group LTD",14
 "AS27947","Telconet S.A",14
