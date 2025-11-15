@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87756
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22032
-"AS398324","Censys, Inc.",13808
+"AS398324","Censys, Inc.",13809
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10412
 "AS14061","DigitalOcean, LLC",8029
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4445
 "AS16509","Amazon.com, Inc.",4343
 "AS396998","Path Network, Inc.",3992
-"AS45102","Alibaba (US) Technology Co., Ltd.",3974
+"AS45102","Alibaba (US) Technology Co., Ltd.",3975
 "AS63949","Akamai Technologies, Inc.",3613
 "AS0","",3595
 "AS15169","Google LLC",3364
@@ -1256,6 +1256,7 @@ ASN,Organization,IP_Count
 "AS268401","NETSTART MULTIMIDIA E COMUNICACAO LTDA",2
 "AS268437","BRAXTEL TELECOM E TI",2
 "AS268671","RLNET PROVEDOR",2
+"AS269076","L DA COSTA SILVA COMUNICACOES",2
 "AS269597","STALKER ENGENHARIA EIRELI",2
 "AS269931","WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L",2
 "AS270161","Cablevision Red, S.A de C.V.",2
@@ -2308,7 +2309,6 @@ ASN,Organization,IP_Count
 "AS269035","David Martins Ferreira Telecomunicação - ME",1
 "AS269036","ATEX NET TELECOMUNICACOES LTDA",1
 "AS269046","First Telecom LTDA",1
-"AS269076","L DA COSTA SILVA COMUNICACOES",1
 "AS269096","NORTH TELECOMUNICACOES EIRELI",1
 "AS269182","PLUGAR TELECOM",1
 "AS269220","Vamos Internet Telecom Ltda",1
