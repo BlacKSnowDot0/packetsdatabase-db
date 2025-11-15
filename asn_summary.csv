@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87757
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22039
-"AS398324","Censys, Inc.",13832
+"AS398324","Censys, Inc.",13833
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10418
-"AS14061","DigitalOcean, LLC",8038
+"AS14061","DigitalOcean, LLC",8039
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5878
 "AS4134","Chinanet",5028
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1408
-"AS32475","Internap Holding LLC",1367
+"AS32475","Internap Holding LLC",1368
 "AS49870","Alsycon B.V.",1362
 "AS13335","Cloudflare, Inc.",1335
 "AS215269","LAZYCLOUD LTD",1312
@@ -199,9 +199,9 @@ ASN,Organization,IP_Count
 "AS21928","T-Mobile USA, Inc.",40
 "AS23969","TOT Public Company Limited",40
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",40
+"AS263025","ISPTEC Sistemas de Comunicação Eireli",39
 "AS27699","TELEFÔNICA BRASIL S.A",39
 "AS8048","CANTV Servicios, Venezuela",39
-"AS263025","ISPTEC Sistemas de Comunicação Eireli",38
 "AS26599","TELEFÔNICA BRASIL S.A",38
 "AS4538","China Education and Research Network Center",38
 "AS12322","Free SAS",37
@@ -438,6 +438,7 @@ ASN,Organization,IP_Count
 "AS58563","CHINANET Hubei province network",11
 "AS12271","Charter Communications Inc",10
 "AS1267","RIPE Network Coordination Centre",10
+"AS135059","Lao Asia Pacific Satellite Co., Ltd.",10
 "AS149359","PT Persada Data Multimedia",10
 "AS153443","VPSRE.NET LLC",10
 "AS24835","Vodafone Data - Egypt",10
@@ -460,7 +461,6 @@ ASN,Organization,IP_Count
 "AS12353","Vodafone Portugal - Communicacoes Pessoais S.A.",9
 "AS131596","TBC",9
 "AS133481","ADVANCED WIRELESS NETWORK COMPANY LIMITED",9
-"AS135059","Lao Asia Pacific Satellite Co., Ltd.",9
 "AS138089","PT.Global Media Data Prima",9
 "AS139994","PT XL Axiata Tbk",9
 "AS17451","BIZNET NETWORKS",9
