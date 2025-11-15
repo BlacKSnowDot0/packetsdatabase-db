@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87757
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22040
-"AS398324","Censys, Inc.",13836
+"AS398324","Censys, Inc.",13838
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10418
+"AS396982","Google LLC",10419
 "AS14061","DigitalOcean, LLC",8040
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5878
@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS396998","Path Network, Inc.",3992
 "AS45102","Alibaba (US) Technology Co., Ltd.",3983
 "AS63949","Akamai Technologies, Inc.",3614
-"AS0","",3596
+"AS0","",3597
 "AS15169","Google LLC",3364
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3150
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1408
 "AS32475","Internap Holding LLC",1369
 "AS49870","Alsycon B.V.",1362
-"AS13335","Cloudflare, Inc.",1336
+"AS13335","Cloudflare, Inc.",1337
 "AS215269","LAZYCLOUD LTD",1312
 "AS36352","HostPapa",1286
 "AS174","Cogent Communications",1187
@@ -191,10 +191,10 @@ ASN,Organization,IP_Count
 "AS141995","Contabo Asia Private Limited",43
 "AS152194","CTG Server Limited",43
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",43
+"AS20473","The Constant Company, LLC",42
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS262378","Compuservice Empreendimentos Ltda",42
 "AS7738","V tal",42
-"AS20473","The Constant Company, LLC",41
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",41
 "AS21928","T-Mobile USA, Inc.",40
 "AS23969","TOT Public Company Limited",40
@@ -986,6 +986,7 @@ ASN,Organization,IP_Count
 "AS51742","FOP Molochko Nina Vasilievna,",3
 "AS52041","Scaleblade, Ltd.",3
 "AS52436","Cable Televisora Color",3
+"AS52771","GIGA BYTE TELECOMUNICACOES LTDA",3
 "AS52783","ALCANS TELECOM LTDA",3
 "AS5391","Hrvatski Telekom d.d.",3
 "AS55685","PT Jala Lintas Media",3
@@ -1406,7 +1407,6 @@ ASN,Organization,IP_Count
 "AS52444","Pogliotti & Pogliotti Construcciones S.A.",2
 "AS52639","MEGANET RJ INFORMÁTICA E TELECOMUNICAÇÕES LTDA",2
 "AS52752","Vegas Telecom Informática Ltda.",2
-"AS52771","GIGA BYTE TELECOMUNICACOES LTDA",2
 "AS52854","DIGITALSMART TELECOMUNICACOES LTDA",2
 "AS52916","Datanet Provedor de Internet Ltda",2
 "AS52967","NT Brasil Tecnologia Ltda. ME",2
