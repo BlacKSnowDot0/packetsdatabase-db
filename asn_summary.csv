@@ -1,13 +1,13 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87756
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
-"AS211298","Driftnet Ltd",22030
+"AS211298","Driftnet Ltd",22031
 "AS398324","Censys, Inc.",13803
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10409
-"AS14061","DigitalOcean, LLC",8023
+"AS396982","Google LLC",10410
+"AS14061","DigitalOcean, LLC",8024
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5843
+"AS16276","OVH SAS",5844
 "AS4134","Chinanet",5026
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4445
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3145
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2775
-"AS6939","Hurricane Electric LLC",2577
+"AS6939","Hurricane Electric LLC",2578
 "AS142002","Scloud Pte Ltd",2560
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1764
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1408
-"AS32475","Internap Holding LLC",1365
+"AS32475","Internap Holding LLC",1366
 "AS49870","Alsycon B.V.",1362
 "AS13335","Cloudflare, Inc.",1333
 "AS215269","LAZYCLOUD LTD",1312
@@ -85,7 +85,7 @@ ASN,Organization,IP_Count
 "AS24863","LINKdotNET AS number",307
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
-"AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",290
+"AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",291
 "AS213613","BOTSHIELD LTD",271
 "AS208843","Alpha Strike Labs GmbH",268
 "AS48090","TECHOFF SRV LIMITED",254
@@ -194,11 +194,11 @@ ASN,Organization,IP_Count
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS262378","Compuservice Empreendimentos Ltda",42
 "AS7738","V tal",42
+"AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",41
 "AS20473","The Constant Company, LLC",40
 "AS21928","T-Mobile USA, Inc.",40
 "AS23969","TOT Public Company Limited",40
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",40
-"AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",40
 "AS27699","TELEFÔNICA BRASIL S.A",39
 "AS8048","CANTV Servicios, Venezuela",39
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",38
@@ -256,6 +256,7 @@ ASN,Organization,IP_Count
 "AS53118","NETLINE TELECOM",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS8796","FD-298-8796",26
+"AS9123","TimeWeb Ltd.",26
 "AS17995","PT iForte Global Internet",25
 "AS18881","TELEFÔNICA BRASIL S.A",25
 "AS21127","Joint Stock Company TransTeleCom",25
@@ -264,7 +265,6 @@ ASN,Organization,IP_Count
 "AS36947","Telecom Algeria",25
 "AS55836","Reliance Jio Infocomm Limited",25
 "AS58224","Iran Telecommunication Company PJS",25
-"AS9123","TimeWeb Ltd.",25
 "AS197540","netcup GmbH",24
 "AS209","CenturyLink Communications, LLC",24
 "AS329009","Spectrum Internet Service Ltd",24
@@ -568,6 +568,7 @@ ASN,Organization,IP_Count
 "AS212598","SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.",6
 "AS213893","IPTransit Business LTD",6
 "AS214209","Internet Magnate (Pty) Ltd",6
+"AS214309","Aurorix Gaming Solutions Limited",6
 "AS214762","Sebastian Stefanek trading as MatHost.eu",6
 "AS216158","Teleport Rus LLC",6
 "AS216300","Closed Joint Stock Company ""AbkhazMedia""",6
@@ -632,13 +633,13 @@ ASN,Organization,IP_Count
 "AS18229","CtrlS",5
 "AS198983","Joseph Hofmann trading as 'Tornado Datacenter GmbH & Co. KG'",5
 "AS202468","Noyan Abr Arvan Co. ( Private Joint Stock)",5
+"AS202870","Dimensione S.r.l.",5
 "AS20412","Clarity Telecom LLC",5
 "AS206262","TelKos L.L.C",5
 "AS207656","Epinatura LLC",5
 "AS21246","IPKO Telecommunications LLC",5
 "AS212695","Link Telecom Service Ltd",5
 "AS213851","Marcel Hanisch",5
-"AS214309","Aurorix Gaming Solutions Limited",5
 "AS215311","Regxa Company for Information Technology Ltd",5
 "AS215730","H2NEXUS LTD",5
 "AS22612","Namecheap, Inc.",5
@@ -649,6 +650,7 @@ ASN,Organization,IP_Count
 "AS26383","Baxet Group Inc.",5
 "AS264323","OXMAN TECNOLOGIA LTDA",5
 "AS265702","AZUL NETWORKS S.R.L",5
+"AS266015","JC2000 Telecomunicações Ltda",5
 "AS267684","VISIONMAGICA SOCIEDAD ANONIMA",5
 "AS267784","Flyservers S.A.",5
 "AS268482","Connect Telecomunicações LTDA",5
@@ -734,7 +736,6 @@ ASN,Organization,IP_Count
 "AS18809","Cable Onda",4
 "AS200845","AVATEL TELECOM, SA",4
 "AS20150","anyNode",4
-"AS202870","Dimensione S.r.l.",4
 "AS203380","DA International Group Ltd.",4
 "AS203459","AL-MARAJ AL-ALAMIYA Co",4
 "AS206216","Advin Services LLC",4
@@ -758,7 +759,6 @@ ASN,Organization,IP_Count
 "AS262916","Mega Cable, S.A. de C.V.",4
 "AS265379","JULIO CESAR DAS NEVES - ME",4
 "AS265586","INBTEL, S.A. DE C.V.",4
-"AS266015","JC2000 Telecomunicações Ltda",4
 "AS266541","ItaNet - Provedor de Internet",4
 "AS26727","Brandenburg Telephone Company",4
 "AS269820","FULL DATA COMUNICACIONES C.A.",4
