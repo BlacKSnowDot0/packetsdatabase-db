@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87757
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22039
-"AS398324","Censys, Inc.",13833
+"AS398324","Censys, Inc.",13834
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10418
 "AS14061","DigitalOcean, LLC",8040
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4446
 "AS16509","Amazon.com, Inc.",4343
 "AS396998","Path Network, Inc.",3992
-"AS45102","Alibaba (US) Technology Co., Ltd.",3982
+"AS45102","Alibaba (US) Technology Co., Ltd.",3983
 "AS63949","Akamai Technologies, Inc.",3614
 "AS0","",3596
 "AS15169","Google LLC",3364
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1408
-"AS32475","Internap Holding LLC",1368
+"AS32475","Internap Holding LLC",1369
 "AS49870","Alsycon B.V.",1362
 "AS13335","Cloudflare, Inc.",1335
 "AS215269","LAZYCLOUD LTD",1312
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",505
 "AS50360","Tamatiya EOOD",492
 "AS53667","FranTech Solutions",491
-"AS12876","ONLINE S.A.S.",487
+"AS12876","ONLINE S.A.S.",488
 "AS212238","Datacamp Limited",463
 "AS9829","Bharat Sanchar Nigam Ltd",460
 "AS21299","Kar-Tel LLC",406
@@ -101,7 +101,7 @@ ASN,Organization,IP_Count
 "AS7552","Viettel Group",182
 "AS29484","Ruhr-Universitaet Bochum",181
 "AS63199","CDS Global Cloud Co., Ltd",176
-"AS29066","velia.net Internetdienste GmbH",173
+"AS29066","velia.net Internetdienste GmbH",174
 "AS401116","Nybula LLC",170
 "AS206264","Amarutu Technology Ltd",153
 "AS50219","LNK SYSTEMS MUNTENIA SRL",147
@@ -121,7 +121,7 @@ ASN,Organization,IP_Count
 "AS47331","TTNet A.S.",104
 "AS151185","China Telecom",103
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",97
-"AS40021","Nubes, LLC",94
+"AS40021","Nubes, LLC",95
 "AS205352","KABELNET LTD",93
 "AS63018","Dedicated.com",92
 "AS210125","PRIAM NET Sh.p.k.",89
@@ -311,6 +311,7 @@ ASN,Organization,IP_Count
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS4816","China Telecom (Group)",20
+"AS4847","China Networks Inter-Exchange",20
 "AS11426","Charter Communications Inc",19
 "AS12874","Fastweb SpA",19
 "AS136142","Enigma Fiber Pvt Ltd",19
@@ -323,7 +324,6 @@ ASN,Organization,IP_Count
 "AS262287","Maxihost LTDA",19
 "AS3257","GTT Communications Inc.",19
 "AS40676","Psychz Networks",19
-"AS4847","China Networks Inter-Exchange",19
 "AS49531","""NetCom-R"" LLC",19
 "AS6167","Verizon Business",19
 "AS11878","tzulo, inc.",18
