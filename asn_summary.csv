@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",13833
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10418
-"AS14061","DigitalOcean, LLC",8039
+"AS14061","DigitalOcean, LLC",8040
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5878
 "AS4134","Chinanet",5028
@@ -107,7 +107,7 @@ ASN,Organization,IP_Count
 "AS50219","LNK SYSTEMS MUNTENIA SRL",147
 "AS42237","w1n ltd",143
 "AS47105","Vault Dweller OU",141
-"AS262551","Farol Telecom",135
+"AS262551","Farol Telecom",137
 "AS137409","GSL Networks Pty LTD",128
 "AS14956","RouterHosting LLC",128
 "AS13238","YANDEX LLC",127
@@ -142,7 +142,7 @@ ASN,Organization,IP_Count
 "AS32475","SingleHop LLC",75
 "AS56046","China Mobile Communications Corporation",74
 "AS31898","Oracle Corporation",73
-"AS3920","ESTOXY OU",72
+"AS3920","ESTOXY OU",73
 "AS22773","Cox Communications Inc.",70
 "AS52053","REDHEBERG Association declaree",69
 "AS834","IPXO LLC",68
@@ -323,6 +323,7 @@ ASN,Organization,IP_Count
 "AS262287","Maxihost LTDA",19
 "AS3257","GTT Communications Inc.",19
 "AS40676","Psychz Networks",19
+"AS4847","China Networks Inter-Exchange",19
 "AS49531","""NetCom-R"" LLC",19
 "AS6167","Verizon Business",19
 "AS11878","tzulo, inc.",18
@@ -334,7 +335,6 @@ ASN,Organization,IP_Count
 "AS2914","NTT America, Inc.",18
 "AS39603","P4 Sp. z o.o.",18
 "AS400655","NixLabs Networks",18
-"AS4847","China Networks Inter-Exchange",18
 "AS6181","Cincinnati Bell Telephone Company LLC",18
 "AS6697","Republican Unitary Telecommunication Enterprise Beltelecom",18
 "AS852","TELUS Communications Inc.",18
