@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87757
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22039
-"AS398324","Censys, Inc.",13835
+"AS398324","Censys, Inc.",13836
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10418
 "AS14061","DigitalOcean, LLC",8040
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3150
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2779
+"AS8075","Microsoft Corporation",2780
 "AS6939","Hurricane Electric LLC",2583
 "AS142002","Scloud Pte Ltd",2560
 "AS9808","China Mobile",2078
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",768
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
-"AS51167","Contabo GmbH",700
+"AS51167","Contabo GmbH",701
 "AS10439","CariNet, Inc.",665
 "AS14618","Amazon.com, Inc.",658
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -129,7 +129,7 @@ ASN,Organization,IP_Count
 "AS136435","ELITE COMMUNICATION",85
 "AS199785","Cloud Hosting Solutions, Limited.",85
 "AS58461","Chinanet",85
-"AS6739","VODAFONE ONO, S.A.",84
+"AS6739","VODAFONE ONO, S.A.",85
 "AS28209","Under Servicos de Internet Ltda",83
 "AS4766","Korea Telecom",83
 "AS16735","ALGAR TELECOM S/A",81
@@ -194,8 +194,8 @@ ASN,Organization,IP_Count
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS262378","Compuservice Empreendimentos Ltda",42
 "AS7738","V tal",42
+"AS20473","The Constant Company, LLC",41
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",41
-"AS20473","The Constant Company, LLC",40
 "AS21928","T-Mobile USA, Inc.",40
 "AS23969","TOT Public Company Limited",40
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",40
@@ -244,6 +244,7 @@ ASN,Organization,IP_Count
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
+"AS53118","NETLINE TELECOM",27
 "AS55933","Cloudie Limited",27
 "AS6134","XNNET LLC",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
@@ -253,7 +254,6 @@ ASN,Organization,IP_Count
 "AS2200","Renater",26
 "AS23693","PT. Telekomunikasi Selular",26
 "AS3209","Vodafone GmbH",26
-"AS53118","NETLINE TELECOM",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS8796","FD-298-8796",26
 "AS9123","TimeWeb Ltd.",26
@@ -781,6 +781,7 @@ ASN,Organization,IP_Count
 "AS39891","Saudi Telecom Company JSC",4
 "AS399296","Rackdog, LLC",4
 "AS400391","Pacific Wyyerd LLC",4
+"AS400529","Infraly, LLC",4
 "AS43612","Company for communications services A1 Makedonija DOOEL Skopje",4
 "AS43754","Asiatech Data Transmission company",4
 "AS44395","Ucom CJSC",4
@@ -952,7 +953,6 @@ ASN,Organization,IP_Count
 "AS37517","CABO VERDE TELECOM, S.A",3
 "AS37671","3S INF",3
 "AS399244","AME Hosting LLC",3
-"AS400529","Infraly, LLC",3
 "AS40065","CNSERVERS LLC",3
 "AS41704","JSC ""Ufanet""",3
 "AS41743","OPTIMASET Ltd.",3
