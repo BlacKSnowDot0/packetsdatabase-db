@@ -113,7 +113,7 @@ ASN,Organization,IP_Count
 "AS13238","YANDEX LLC",127
 "AS19905","Neustar Security Services",127
 "AS36007","Kamatera, Inc.",122
-"AS34984","Superonline Iletisim Hizmetleri A.S.",120
+"AS34984","Superonline Iletisim Hizmetleri A.S.",121
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
@@ -379,6 +379,7 @@ ASN,Organization,IP_Count
 "AS11427","Charter Communications Inc",14
 "AS12400","Partner Communications Ltd.",14
 "AS19901","Brightspeed",14
+"AS20011","Dimension Data",14
 "AS202796","JSR IT B.V.",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS215762","Bullet Group LTD",14
@@ -395,7 +396,6 @@ ASN,Organization,IP_Count
 "AS15895","""Kyivstar"" PJSC",13
 "AS17621","China Unicom Shanghai network",13
 "AS17639","ComClark Network & Technology Corp",13
-"AS20011","Dimension Data",13
 "AS213194","Nechaev Dmitry Sergeevich",13
 "AS25369","Hydra Communications Ltd",13
 "AS28840","PJSC ""TATTELECOM""",13
