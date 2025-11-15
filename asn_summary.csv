@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1408
-"AS32475","Internap Holding LLC",1369
+"AS32475","Internap Holding LLC",1370
 "AS49870","Alsycon B.V.",1362
 "AS13335","Cloudflare, Inc.",1337
 "AS215269","LAZYCLOUD LTD",1312
@@ -198,8 +198,8 @@ ASN,Organization,IP_Count
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",41
 "AS21928","T-Mobile USA, Inc.",40
 "AS23969","TOT Public Company Limited",40
+"AS263025","ISPTEC Sistemas de Comunicação Eireli",40
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",40
-"AS263025","ISPTEC Sistemas de Comunicação Eireli",39
 "AS27699","TELEFÔNICA BRASIL S.A",39
 "AS8048","CANTV Servicios, Venezuela",39
 "AS26599","TELEFÔNICA BRASIL S.A",38
@@ -1139,6 +1139,7 @@ ASN,Organization,IP_Count
 "AS199995","Omega Telecom LLC",2
 "AS201409","HOSTSHIELD LTD",2
 "AS202103","Lanet Network Ltd",2
+"AS202422","G-Core Labs S.A.",2
 "AS202561","High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.",2
 "AS203087","PE Fedinyak Sergey Vyacheslavovich",2
 "AS203214","Hulum Almustakbal Company for Communication Engineering and Services Ltd",2
@@ -1865,7 +1866,6 @@ ASN,Organization,IP_Count
 "AS201776","Miranda-Media Ltd",1
 "AS20205","Amplex Electric, Inc.",1
 "AS202279","GYN DNR KOMTEL",1
-"AS202422","G-Core Labs S.A.",1
 "AS202513","Gestioniza Infraestructuras S.L.",1
 "AS202578","""KUBANENERGOSERVICE"" LLC",1
 "AS202700","Individual entrepreneur Kushkhov Azret Ali Alisakhovich",1
