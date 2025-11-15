@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87757
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22038
-"AS398324","Censys, Inc.",13819
+"AS398324","Censys, Inc.",13820
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10415
-"AS14061","DigitalOcean, LLC",8034
+"AS14061","DigitalOcean, LLC",8035
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5878
 "AS4134","Chinanet",5027
@@ -14,14 +14,14 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4343
 "AS396998","Path Network, Inc.",3992
 "AS45102","Alibaba (US) Technology Co., Ltd.",3981
-"AS63949","Akamai Technologies, Inc.",3613
+"AS63949","Akamai Technologies, Inc.",3614
 "AS0","",3595
 "AS15169","Google LLC",3364
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3148
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2777
-"AS6939","Hurricane Electric LLC",2581
+"AS6939","Hurricane Electric LLC",2582
 "AS142002","Scloud Pte Ltd",2560
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1764
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS13335","Cloudflare, Inc.",1334
 "AS215269","LAZYCLOUD LTD",1312
 "AS36352","HostPapa",1285
-"AS174","Cogent Communications",1186
+"AS174","Cogent Communications",1187
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1180
 "AS399045","DediOutlet, LLC",1142
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",768
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS51167","Contabo GmbH",700
-"AS10439","CariNet, Inc.",664
+"AS10439","CariNet, Inc.",665
 "AS14618","Amazon.com, Inc.",656
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",578
@@ -150,10 +150,10 @@ ASN,Organization,IP_Count
 "AS8402","PJSC ""Vimpelcom""",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
 "AS215590","DpkgSoft International Limited",65
+"AS23724","IDC, China Telecommunications Corporation",65
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS57588","Hayat for Internet & communication LLC",65
-"AS23724","IDC, China Telecommunications Corporation",64
 "AS17378","TierPoint, LLC",63
 "AS55720","Gigabit Hosting Sdn Bhd",63
 "AS150263","PT Alnet Telekomunikasi Indonesia",62
@@ -230,10 +230,10 @@ ASN,Organization,IP_Count
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",31
 "AS44592","SkyLink Data Center BV",31
 "AS146817","Hubei Feixun Network Co., Ltd",30
+"AS149705","PT Wijaya Trimitra Indonesia",30
 "AS17557","Pakistan Telecommuication company limited",30
 "AS200593","PROSPERO OOO",30
 "AS204834","Shabakieh Isfahan Co PJSC",30
-"AS149705","PT Wijaya Trimitra Indonesia",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS1103","SURF B.V.",28
