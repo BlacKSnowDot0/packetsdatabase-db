@@ -7,7 +7,7 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",10414
 "AS14061","DigitalOcean, LLC",8031
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5845
+"AS16276","OVH SAS",5878
 "AS4134","Chinanet",5027
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4445
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3148
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2776
-"AS6939","Hurricane Electric LLC",2578
+"AS6939","Hurricane Electric LLC",2579
 "AS142002","Scloud Pte Ltd",2560
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1764
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",505
 "AS50360","Tamatiya EOOD",492
 "AS53667","FranTech Solutions",489
-"AS12876","ONLINE S.A.S.",485
+"AS12876","ONLINE S.A.S.",486
 "AS212238","Datacamp Limited",463
 "AS9829","Bharat Sanchar Nigam Ltd",460
 "AS21299","Kar-Tel LLC",406
@@ -113,7 +113,7 @@ ASN,Organization,IP_Count
 "AS13238","YANDEX LLC",127
 "AS19905","Neustar Security Services",127
 "AS36007","Kamatera, Inc.",122
-"AS34984","Superonline Iletisim Hizmetleri A.S.",119
+"AS34984","Superonline Iletisim Hizmetleri A.S.",120
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
@@ -164,9 +164,9 @@ ASN,Organization,IP_Count
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",59
 "AS49544","i3D.net B.V",59
 "AS20278","Nexeon Technologies, Inc.",57
+"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",57
 "AS20001","Charter Communications Inc",56
 "AS20115","Charter Communications",56
-"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",56
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
