@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87756
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22032
-"AS398324","Censys, Inc.",13809
+"AS398324","Censys, Inc.",13810
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10412
 "AS14061","DigitalOcean, LLC",8030
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4445
 "AS16509","Amazon.com, Inc.",4343
 "AS396998","Path Network, Inc.",3992
-"AS45102","Alibaba (US) Technology Co., Ltd.",3975
+"AS45102","Alibaba (US) Technology Co., Ltd.",3977
 "AS63949","Akamai Technologies, Inc.",3613
 "AS0","",3595
 "AS15169","Google LLC",3364
@@ -180,10 +180,10 @@ ASN,Organization,IP_Count
 "AS266181","GOLDEN LINK",48
 "AS5650","Frontier Communications of America, Inc.",48
 "AS12816","Leibniz-Rechenzentrum",47
+"AS2856","British Telecommunications PLC",47
 "AS10796","Charter Communications Inc",46
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
-"AS2856","British Telecommunications PLC",46
 "AS30633","Leaseweb USA, Inc.",44
 "AS396356","Latitude.sh",44
 "AS42708","GleSYS AB",44
@@ -238,10 +238,10 @@ ASN,Organization,IP_Count
 "AS9931","CAT Telecom Public Company Limited",29
 "AS1103","SURF B.V.",28
 "AS141679","China Telecom",28
+"AS215240","Silent Connection Ltd.",28
 "AS30860","Virtual Systems LLC",28
 "AS3269","Telecom Italia S.p.A.",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
-"AS215240","Silent Connection Ltd.",27
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
 "AS55933","Cloudie Limited",27
