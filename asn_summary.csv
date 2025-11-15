@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87756
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22032
-"AS398324","Censys, Inc.",13807
+"AS398324","Censys, Inc.",13808
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10411
+"AS396982","Google LLC",10412
 "AS14061","DigitalOcean, LLC",8028
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5845
@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS0","",3595
 "AS15169","Google LLC",3364
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3147
+"AS51396","Pfcloud UG",3148
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2776
 "AS6939","Hurricane Electric LLC",2578
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",824
 "AS215925","VPSVAULT.HOST LTD",821
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",767
+"AS20052","Arbor Networks, Inc.",768
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS51167","Contabo GmbH",700
 "AS10439","CariNet, Inc.",664
@@ -68,7 +68,7 @@ ASN,Organization,IP_Count
 "AS53667","FranTech Solutions",488
 "AS12876","ONLINE S.A.S.",485
 "AS212238","Datacamp Limited",463
-"AS9829","Bharat Sanchar Nigam Ltd",459
+"AS9829","Bharat Sanchar Nigam Ltd",460
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",405
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -142,7 +142,7 @@ ASN,Organization,IP_Count
 "AS32475","SingleHop LLC",75
 "AS56046","China Mobile Communications Corporation",74
 "AS31898","Oracle Corporation",73
-"AS3920","ESTOXY OU",71
+"AS3920","ESTOXY OU",72
 "AS22773","Cox Communications Inc.",70
 "AS52053","REDHEBERG Association declaree",69
 "AS834","IPXO LLC",68
