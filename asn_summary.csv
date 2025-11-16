@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",13863
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10424
-"AS14061","DigitalOcean, LLC",8045
+"AS14061","DigitalOcean, LLC",8047
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5881
 "AS4134","Chinanet",5029
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1764
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1529
+"AS209605","UAB Host Baltic",1530
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1408
@@ -104,12 +104,12 @@ ASN,Organization,IP_Count
 "AS29066","velia.net Internetdienste GmbH",175
 "AS401116","Nybula LLC",170
 "AS206264","Amarutu Technology Ltd",153
-"AS50219","LNK SYSTEMS MUNTENIA SRL",147
+"AS50219","LNK SYSTEMS MUNTENIA SRL",148
 "AS42237","w1n ltd",143
 "AS47105","Vault Dweller OU",141
 "AS262551","Farol Telecom",137
+"AS14956","RouterHosting LLC",129
 "AS137409","GSL Networks Pty LTD",128
-"AS14956","RouterHosting LLC",128
 "AS13238","YANDEX LLC",127
 "AS19905","Neustar Security Services",127
 "AS34984","Superonline Iletisim Hizmetleri A.S.",124
@@ -125,7 +125,7 @@ ASN,Organization,IP_Count
 "AS205352","KABELNET LTD",93
 "AS63018","Dedicated.com",92
 "AS210125","PRIAM NET Sh.p.k.",89
-"AS6739","VODAFONE ONO, S.A.",87
+"AS6739","VODAFONE ONO, S.A.",88
 "AS8560","IONOS SE",87
 "AS136435","ELITE COMMUNICATION",85
 "AS199785","Cloud Hosting Solutions, Limited.",85
