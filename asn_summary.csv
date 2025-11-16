@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87757
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22040
-"AS398324","Censys, Inc.",13849
+"AS398324","Censys, Inc.",13854
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10423
 "AS14061","DigitalOcean, LLC",8043
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS13335","Cloudflare, Inc.",1338
 "AS215269","LAZYCLOUD LTD",1312
 "AS36352","HostPapa",1286
-"AS174","Cogent Communications",1187
+"AS174","Cogent Communications",1188
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1181
 "AS399045","DediOutlet, LLC",1142
@@ -64,11 +64,11 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",511
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",505
+"AS53667","FranTech Solutions",493
 "AS50360","Tamatiya EOOD",492
-"AS53667","FranTech Solutions",492
 "AS12876","ONLINE S.A.S.",488
 "AS212238","Datacamp Limited",463
-"AS9829","Bharat Sanchar Nigam Ltd",460
+"AS9829","Bharat Sanchar Nigam Ltd",461
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",405
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -87,7 +87,7 @@ ASN,Organization,IP_Count
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",291
 "AS213613","BOTSHIELD LTD",273
-"AS208843","Alpha Strike Labs GmbH",270
+"AS208843","Alpha Strike Labs GmbH",271
 "AS48090","TECHOFF SRV LIMITED",254
 "AS18403","FPT Telecom Company",251
 "AS60223","Netiface Limited",250
@@ -125,11 +125,11 @@ ASN,Organization,IP_Count
 "AS205352","KABELNET LTD",93
 "AS63018","Dedicated.com",92
 "AS210125","PRIAM NET Sh.p.k.",89
+"AS6739","VODAFONE ONO, S.A.",87
 "AS8560","IONOS SE",87
 "AS136435","ELITE COMMUNICATION",85
 "AS199785","Cloud Hosting Solutions, Limited.",85
 "AS58461","Chinanet",85
-"AS6739","VODAFONE ONO, S.A.",85
 "AS28209","Under Servicos de Internet Ltda",83
 "AS4766","Korea Telecom",83
 "AS16735","ALGAR TELECOM S/A",81
@@ -176,7 +176,7 @@ ASN,Organization,IP_Count
 "AS213877","u1host ltd",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS149746","PT Blip Integrator Provider",52
-"AS5650","Frontier Communications of America, Inc.",49
+"AS5650","Frontier Communications of America, Inc.",50
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
 "AS2856","British Telecommunications PLC",48
