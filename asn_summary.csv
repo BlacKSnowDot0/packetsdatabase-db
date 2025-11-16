@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87757
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22041
-"AS398324","Censys, Inc.",13862
+"AS398324","Censys, Inc.",13863
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10424
 "AS14061","DigitalOcean, LLC",8045
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5880
+"AS16276","OVH SAS",5881
 "AS4134","Chinanet",5029
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4446
@@ -170,8 +170,8 @@ ASN,Organization,IP_Count
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS19318","Interserver, Inc",55
+"AS200514","KnownSRV Ltd.",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
-"AS200514","KnownSRV Ltd.",54
 "AS210644","AEZA INTERNATIONAL LTD",54
 "AS213877","u1host ltd",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
@@ -219,10 +219,10 @@ ASN,Organization,IP_Count
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",34
 "AS4760","PCCW IMS Limited",34
 "AS9198","JSC Kazakhtelecom",34
+"AS200590","NLS Kazakhstan LLC",33
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
-"AS200590","NLS Kazakhstan LLC",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
 "AS269193","Iktelecom Ltda",32
 "AS55990","Huawei Cloud Service data center",32
@@ -256,6 +256,7 @@ ASN,Organization,IP_Count
 "AS2200","Renater",26
 "AS23693","PT. Telekomunikasi Selular",26
 "AS3209","Vodafone GmbH",26
+"AS329009","Spectrum Internet Service Ltd",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS8796","FD-298-8796",26
 "AS9123","TimeWeb Ltd.",26
@@ -263,7 +264,6 @@ ASN,Organization,IP_Count
 "AS18881","TELEFÔNICA BRASIL S.A",25
 "AS21127","Joint Stock Company TransTeleCom",25
 "AS24560","Bharti Airtel Limited",25
-"AS329009","Spectrum Internet Service Ltd",25
 "AS36947","Telecom Algeria",25
 "AS55836","Reliance Jio Infocomm Limited",25
 "AS58224","Iran Telecommunication Company PJS",25
@@ -494,6 +494,7 @@ ASN,Organization,IP_Count
 "AS211507","Julian Achter",8
 "AS24086","Viettel Corporation",8
 "AS2516","KDDI CORPORATION",8
+"AS2527","Sony Network Communications Inc.",8
 "AS262459","Osirnet Info Telecom Ltda.",8
 "AS27967","Gobernacion de la Provincia de Buenos Aires",8
 "AS2860","NOS COMUNICACOES, S.A.",8
@@ -523,7 +524,6 @@ ASN,Organization,IP_Count
 "AS215599","Zkillu SAS",7
 "AS215672","MoeChuang Network Limited",7
 "AS24961","WIIT AG",7
-"AS2527","Sony Network Communications Inc.",7
 "AS25490","PJSC Rostelecom",7
 "AS263238","Eliana Vanessa Morocho Oña",7
 "AS267507","SRX TECNOLOGIA DA INFORMACAO LTDA",7
@@ -883,6 +883,7 @@ ASN,Organization,IP_Count
 "AS20326","TeraSwitch Networks Inc.",3
 "AS203542","IT-PROF LLC",3
 "AS204170","Awaser Oman LLC",3
+"AS20454","SECURED SERVERS LLC",3
 "AS20853","eTOP sp. z o.o.",3
 "AS208583","Baffin Bay Networks AB",3
 "AS211826","Istqrar for Servers Services Ltd",3
@@ -1148,7 +1149,6 @@ ASN,Organization,IP_Count
 "AS203811","AL-MARAJ AL-ALAMIYA Co",2
 "AS204102","LLC SmartGrupp",2
 "AS204281","NETX - NG LTD",2
-"AS20454","SECURED SERVERS LLC",2
 "AS204914","LABIXE LTD",2
 "AS205090","FIRST SERVER LIMITED",2
 "AS206119","Veganet Teknolojileri ve Hizmetleri LTD STI",2
