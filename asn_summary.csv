@@ -4,16 +4,16 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22042
 "AS398324","Censys, Inc.",13870
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10425
-"AS14061","DigitalOcean, LLC",8053
+"AS396982","Google LLC",10426
+"AS14061","DigitalOcean, LLC",8054
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5881
 "AS4134","Chinanet",5029
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4446
 "AS16509","Amazon.com, Inc.",4345
+"AS45102","Alibaba (US) Technology Co., Ltd.",3993
 "AS396998","Path Network, Inc.",3992
-"AS45102","Alibaba (US) Technology Co., Ltd.",3990
 "AS63949","Akamai Technologies, Inc.",3614
 "AS0","",3602
 "AS15169","Google LLC",3364
@@ -30,12 +30,12 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1408
-"AS32475","Internap Holding LLC",1374
+"AS32475","Internap Holding LLC",1375
 "AS49870","Alsycon B.V.",1362
 "AS13335","Cloudflare, Inc.",1342
 "AS215269","LAZYCLOUD LTD",1312
 "AS36352","HostPapa",1288
-"AS174","Cogent Communications",1189
+"AS174","Cogent Communications",1190
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1181
 "AS399045","DediOutlet, LLC",1142
@@ -204,9 +204,9 @@ ASN,Organization,IP_Count
 "AS8048","CANTV Servicios, Venezuela",39
 "AS26599","TELEFÔNICA BRASIL S.A",38
 "AS4538","China Education and Research Network Center",38
+"AS5089","Virgin Media Limited",38
 "AS12322","Free SAS",37
 "AS1680","Cellcom Fixed Line Communication L.P",37
-"AS5089","Virgin Media Limited",37
 "AS8167","V tal",37
 "AS210558","1337 Services GmbH",36
 "AS42624","Global-Data System IT Corporation",36
