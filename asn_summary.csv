@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22041
 "AS398324","Censys, Inc.",13866
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10424
+"AS396982","Google LLC",10425
 "AS14061","DigitalOcean, LLC",8047
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5881
@@ -13,12 +13,12 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4446
 "AS16509","Amazon.com, Inc.",4345
 "AS396998","Path Network, Inc.",3992
-"AS45102","Alibaba (US) Technology Co., Ltd.",3987
+"AS45102","Alibaba (US) Technology Co., Ltd.",3988
 "AS63949","Akamai Technologies, Inc.",3614
 "AS0","",3601
 "AS15169","Google LLC",3364
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3154
+"AS51396","Pfcloud UG",3155
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2782
 "AS6939","Hurricane Electric LLC",2590
@@ -108,7 +108,7 @@ ASN,Organization,IP_Count
 "AS42237","w1n ltd",143
 "AS47105","Vault Dweller OU",141
 "AS262551","Farol Telecom",137
-"AS14956","RouterHosting LLC",129
+"AS14956","RouterHosting LLC",130
 "AS137409","GSL Networks Pty LTD",128
 "AS13238","YANDEX LLC",127
 "AS19905","Neustar Security Services",127
@@ -410,6 +410,7 @@ ASN,Organization,IP_Count
 "AS2116","GLOBALCONNECT AS",12
 "AS213438","ColocaTel Inc.",12
 "AS2637","Georgia Institute of Technology",12
+"AS28546","Servnet Mexico, S.A. de C.V.",12
 "AS35042","Layer7 Networks GmbH",12
 "AS35297","Dataline LLC",12
 "AS36992","ETISALAT MISR",12
@@ -431,7 +432,6 @@ ASN,Organization,IP_Count
 "AS206804","EstNOC OY",11
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
 "AS24547","China Mobile",11
-"AS28546","Servnet Mexico, S.A. de C.V.",11
 "AS37611","Afrihost (Pty) Ltd",11
 "AS39351","31173 Services AB",11
 "AS44901","Belcloud LTD",11
