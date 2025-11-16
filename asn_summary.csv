@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1408
 "AS32475","Internap Holding LLC",1372
 "AS49870","Alsycon B.V.",1362
-"AS13335","Cloudflare, Inc.",1337
+"AS13335","Cloudflare, Inc.",1338
 "AS215269","LAZYCLOUD LTD",1312
 "AS36352","HostPapa",1286
 "AS174","Cogent Communications",1187
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",824
 "AS215925","VPSVAULT.HOST LTD",822
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",769
+"AS20052","Arbor Networks, Inc.",770
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS51167","Contabo GmbH",702
 "AS10439","CariNet, Inc.",666
@@ -118,7 +118,7 @@ ASN,Organization,IP_Count
 "AS208287","DC Host INC",110
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",106
-"AS151185","China Telecom",104
+"AS151185","China Telecom",105
 "AS47331","TTNet A.S.",104
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",97
 "AS40021","Nubes, LLC",96
@@ -251,6 +251,7 @@ ASN,Organization,IP_Count
 "AS12912","T-Mobile Polska S.A.",26
 "AS13213","UK-2 Limited",26
 "AS210509","Optimum Line for Internet Services Ltd.",26
+"AS214417","Andrii Hrosh",26
 "AS2200","Renater",26
 "AS23693","PT. Telekomunikasi Selular",26
 "AS3209","Vodafone GmbH",26
@@ -260,7 +261,6 @@ ASN,Organization,IP_Count
 "AS17995","PT iForte Global Internet",25
 "AS18881","TELEFÔNICA BRASIL S.A",25
 "AS21127","Joint Stock Company TransTeleCom",25
-"AS214417","Andrii Hrosh",25
 "AS24560","Bharti Airtel Limited",25
 "AS36947","Telecom Algeria",25
 "AS55836","Reliance Jio Infocomm Limited",25
