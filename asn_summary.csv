@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87757
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70574
 "AS211298","Driftnet Ltd",22040
-"AS398324","Censys, Inc.",13855
+"AS398324","Censys, Inc.",13857
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10423
 "AS14061","DigitalOcean, LLC",8044
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3151
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2781
-"AS6939","Hurricane Electric LLC",2587
+"AS6939","Hurricane Electric LLC",2588
 "AS142002","Scloud Pte Ltd",2560
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1764
@@ -42,7 +42,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS23470","ReliableSite.Net LLC",1130
 "AS201401","NewVM B.V.",1076
-"AS208684","BHA CONSEIL SARL",1000
+"AS208684","BHA CONSEIL SARL",1002
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",505
 "AS53667","FranTech Solutions",493
 "AS50360","Tamatiya EOOD",492
-"AS12876","ONLINE S.A.S.",488
+"AS12876","ONLINE S.A.S.",489
 "AS212238","Datacamp Limited",463
 "AS9829","Bharat Sanchar Nigam Ltd",462
 "AS21299","Kar-Tel LLC",406
@@ -101,7 +101,7 @@ ASN,Organization,IP_Count
 "AS7552","Viettel Group",182
 "AS29484","Ruhr-Universitaet Bochum",181
 "AS63199","CDS Global Cloud Co., Ltd",176
-"AS29066","velia.net Internetdienste GmbH",174
+"AS29066","velia.net Internetdienste GmbH",175
 "AS401116","Nybula LLC",170
 "AS206264","Amarutu Technology Ltd",153
 "AS50219","LNK SYSTEMS MUNTENIA SRL",147
@@ -696,6 +696,7 @@ ASN,Organization,IP_Count
 "AS56044","China Mobile Communications Corporation",5
 "AS56047","China Mobile Communications Corporation",5
 "AS56246","PT Sumber Data Indonesia",5
+"AS56329","Gigaclear Limited",5
 "AS58118","SC ADINET-Com SRL",5
 "AS58898","Rainbow communications India Pvt Ltd",5
 "AS59441","NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)",5
@@ -736,6 +737,7 @@ ASN,Organization,IP_Count
 "AS15802","Emirates Integrated Telecommunications Company PJSC",4
 "AS15924","Vodafone Net Iletisim Hizmetler AS",4
 "AS18809","Cable Onda",4
+"AS198154","Pars Abr Toseeh Ertebatat Company",4
 "AS200845","AVATEL TELECOM, SA",4
 "AS20150","anyNode",4
 "AS203380","DA International Group Ltd.",4
@@ -802,7 +804,6 @@ ASN,Organization,IP_Count
 "AS53449","OEC Fiber",4
 "AS5416","BEYON B.S.C.",4
 "AS5603","Telekom Slovenije, d.d.",4
-"AS56329","Gigaclear Limited",4
 "AS58369","PT. Fiber Networks Indonesia",4
 "AS59142","Pemerintah Kota Batam",4
 "AS60404","The Infrastructure Group B.V.",4
@@ -875,7 +876,6 @@ ASN,Organization,IP_Count
 "AS18779","EGIHosting",3
 "AS19331","Twin Lakes Telephone Cooperative Corporation",3
 "AS196949","Natalia Sergeevna Filicheva",3
-"AS198154","Pars Abr Toseeh Ertebatat Company",3
 "AS199468","GRAIN COMMUNICATIONS LIMITED",3
 "AS200359","Grupo Proveedor tecnologico Universal SL",3
 "AS20055","Wholesail networks LLC",3
