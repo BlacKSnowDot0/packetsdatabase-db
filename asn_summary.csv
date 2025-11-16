@@ -7,7 +7,7 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",10423
 "AS14061","DigitalOcean, LLC",8045
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5879
+"AS16276","OVH SAS",5880
 "AS4134","Chinanet",5028
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4446
@@ -235,6 +235,7 @@ ASN,Organization,IP_Count
 "AS200593","PROSPERO OOO",30
 "AS204834","Shabakieh Isfahan Co PJSC",30
 "AS215240","Silent Connection Ltd.",30
+"AS43641","SOLLUTIUM EU Sp z.o.o.",30
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS1103","SURF B.V.",28
@@ -285,7 +286,6 @@ ASN,Organization,IP_Count
 "AS213010","Gening Nikita Dmitrievich",22
 "AS41745","Baykov Ilya Sergeevich",22
 "AS43289","Trabia SRL",22
-"AS43641","SOLLUTIUM EU Sp z.o.o.",22
 "AS51430","AltusHost B.V.",22
 "AS5384","EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",22
 "AS63859","PT. Eka Mas Republik",22
