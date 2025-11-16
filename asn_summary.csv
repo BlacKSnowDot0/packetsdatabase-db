@@ -1,10 +1,10 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87757
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70575
-"AS211298","Driftnet Ltd",22042
+"AS211298","Driftnet Ltd",22043
 "AS398324","Censys, Inc.",13872
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10427
+"AS396982","Google LLC",10428
 "AS14061","DigitalOcean, LLC",8054
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5881
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1408
-"AS32475","Internap Holding LLC",1375
+"AS32475","Internap Holding LLC",1376
 "AS49870","Alsycon B.V.",1362
 "AS13335","Cloudflare, Inc.",1343
 "AS215269","LAZYCLOUD LTD",1312
@@ -74,7 +74,7 @@ ASN,Organization,IP_Count
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS7018","AT&T Enterprises, LLC",384
 "AS7713","Telekomunikasi Indonesia (PT)",366
-"AS21859","Zenlayer Inc",353
+"AS21859","Zenlayer Inc",357
 "AS47890","UNMANAGED LTD",348
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",345
 "AS7922","Comcast Cable Communications, LLC",345
@@ -161,9 +161,9 @@ ASN,Organization,IP_Count
 "AS6128","Cablevision Systems Corp.",61
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS4812","China Telecom (Group)",60
+"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",59
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",59
 "AS49544","i3D.net B.V",59
-"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",58
 "AS20115","Charter Communications",57
 "AS20278","Nexeon Technologies, Inc.",57
 "AS20001","Charter Communications Inc",56
@@ -659,6 +659,7 @@ ASN,Organization,IP_Count
 "AS268482","Connect Telecomunicações LTDA",5
 "AS271188","VOCALNET TELECOMUNICAÇÕES EIRELI - ME",5
 "AS271874","SERVITRACTOR S.A.",5
+"AS272928","P&C ON LINE S.R.L. (NETWAY INTERNET)",5
 "AS28580","CILNET Comunicacao e Informatica LTDA.",5
 "AS28773","Global Technologies of Ukraine LLC",5
 "AS29049","Delta Telecom Ltd",5
@@ -768,7 +769,6 @@ ASN,Organization,IP_Count
 "AS26727","Brandenburg Telephone Company",4
 "AS269820","FULL DATA COMUNICACIONES C.A.",4
 "AS270814","ZAAZ PROVEDOR DE INTERNET E TELECOMUNICACOES LTDA",4
-"AS272928","P&C ON LINE S.R.L. (NETWAY INTERNET)",4
 "AS27651","ENTEL CHILE S.A.",4
 "AS28146","MHNET TELECOM",4
 "AS28258","VERO S.A",4
