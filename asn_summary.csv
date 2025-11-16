@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3154
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2782
-"AS6939","Hurricane Electric LLC",2588
+"AS6939","Hurricane Electric LLC",2590
 "AS142002","Scloud Pte Ltd",2560
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1764
@@ -68,7 +68,7 @@ ASN,Organization,IP_Count
 "AS50360","Tamatiya EOOD",492
 "AS12876","ONLINE S.A.S.",489
 "AS212238","Datacamp Limited",463
-"AS9829","Bharat Sanchar Nigam Ltd",462
+"AS9829","Bharat Sanchar Nigam Ltd",463
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",405
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -76,8 +76,8 @@ ASN,Organization,IP_Count
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS47890","UNMANAGED LTD",348
 "AS21859","Zenlayer Inc",347
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",345
 "AS7922","Comcast Cable Communications, LLC",345
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",344
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS8151","Uninet S.A. de C.V.",334
 "AS214943","Railnet LLC",315
@@ -100,8 +100,8 @@ ASN,Organization,IP_Count
 "AS12389","PJSC Rostelecom",190
 "AS29484","Ruhr-Universitaet Bochum",182
 "AS7552","Viettel Group",182
+"AS29066","velia.net Internetdienste GmbH",176
 "AS63199","CDS Global Cloud Co., Ltd",176
-"AS29066","velia.net Internetdienste GmbH",175
 "AS401116","Nybula LLC",170
 "AS206264","Amarutu Technology Ltd",153
 "AS50219","LNK SYSTEMS MUNTENIA SRL",148
@@ -158,9 +158,9 @@ ASN,Organization,IP_Count
 "AS17378","TierPoint, LLC",63
 "AS55720","Gigabit Hosting Sdn Bhd",63
 "AS140717","China Unicom",61
+"AS6128","Cablevision Systems Corp.",61
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS4812","China Telecom (Group)",60
-"AS6128","Cablevision Systems Corp.",60
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",59
 "AS49544","i3D.net B.V",59
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",58
@@ -223,13 +223,13 @@ ASN,Organization,IP_Count
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
+"AS215240","Silent Connection Ltd.",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
 "AS269193","Iktelecom Ltda",32
 "AS55990","Huawei Cloud Service data center",32
 "AS1241","RIPE Network Coordination Centre",31
 "AS17557","Pakistan Telecommuication company limited",31
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",31
-"AS215240","Silent Connection Ltd.",31
 "AS44592","SkyLink Data Center BV",31
 "AS146817","Hubei Feixun Network Co., Ltd",30
 "AS149705","PT Wijaya Trimitra Indonesia",30
@@ -243,11 +243,11 @@ ASN,Organization,IP_Count
 "AS30860","Virtual Systems LLC",28
 "AS3269","Telecom Italia S.p.A.",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
+"AS6134","XNNET LLC",28
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
 "AS53118","NETLINE TELECOM",27
 "AS55933","Cloudie Limited",27
-"AS6134","XNNET LLC",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
 "AS12912","T-Mobile Polska S.A.",26
 "AS13213","UK-2 Limited",26
