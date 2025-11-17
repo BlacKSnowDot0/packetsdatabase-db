@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87758
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70575
 "AS211298","Driftnet Ltd",22046
-"AS398324","Censys, Inc.",13890
+"AS398324","Censys, Inc.",13893
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10431
+"AS396982","Google LLC",10432
 "AS14061","DigitalOcean, LLC",8057
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5883
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3159
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2784
+"AS8075","Microsoft Corporation",2785
 "AS6939","Hurricane Electric LLC",2596
 "AS142002","Scloud Pte Ltd",2560
 "AS9808","China Mobile",2078
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1411
-"AS32475","Internap Holding LLC",1380
+"AS32475","Internap Holding LLC",1381
 "AS49870","Alsycon B.V.",1362
 "AS13335","Cloudflare, Inc.",1345
 "AS36352","HostPapa",1335
@@ -86,7 +86,7 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",291
-"AS208843","Alpha Strike Labs GmbH",274
+"AS208843","Alpha Strike Labs GmbH",275
 "AS213613","BOTSHIELD LTD",274
 "AS48090","TECHOFF SRV LIMITED",254
 "AS18403","FPT Telecom Company",252
@@ -126,17 +126,17 @@ ASN,Organization,IP_Count
 "AS63018","Dedicated.com",92
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS6739","VODAFONE ONO, S.A.",89
+"AS199785","Cloud Hosting Solutions, Limited.",87
 "AS8560","IONOS SE",87
 "AS136435","ELITE COMMUNICATION",86
-"AS199785","Cloud Hosting Solutions, Limited.",86
 "AS58461","Chinanet",85
 "AS28209","Under Servicos de Internet Ltda",83
 "AS4766","Korea Telecom",83
 "AS16735","ALGAR TELECOM S/A",81
 "AS5617","Orange Polska Spolka Akcyjna",81
+"AS271795","SERVITELCONET CIA. LTDA.",79
 "AS11320","LightEdge Solutions",78
 "AS200019","ALEXHOST SRL",78
-"AS271795","SERVITELCONET CIA. LTDA.",78
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
@@ -189,8 +189,8 @@ ASN,Organization,IP_Count
 "AS396356","Latitude.sh",44
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
+"AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",44
 "AS152194","CTG Server Limited",43
-"AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",43
 "AS20473","The Constant Company, LLC",42
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS262378","Compuservice Empreendimentos Ltda",42
