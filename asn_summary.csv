@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3616
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3166
+"AS51396","Pfcloud UG",3167
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2786
 "AS6939","Hurricane Electric LLC",2599
@@ -38,7 +38,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1191
 "AS22552","eSited Solutions",1183
 "AS204428","SS-Net",1182
-"AS23470","ReliableSite.Net LLC",1148
+"AS23470","ReliableSite.Net LLC",1168
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
-"AS208046","ColocationX Ltd.",824
+"AS208046","ColocationX Ltd.",825
 "AS215925","VPSVAULT.HOST LTD",823
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",773
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",505
 "AS53667","FranTech Solutions",495
-"AS12876","ONLINE S.A.S.",492
+"AS12876","ONLINE S.A.S.",493
 "AS50360","Tamatiya EOOD",492
 "AS9829","Bharat Sanchar Nigam Ltd",469
 "AS212238","Datacamp Limited",463
@@ -216,11 +216,11 @@ ASN,Organization,IP_Count
 "AS30058","FDCservers.net",35
 "AS30083","velia.net",35
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",35
+"AS200590","NLS Kazakhstan LLC",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",34
 "AS4760","PCCW IMS Limited",34
 "AS9198","JSC Kazakhtelecom",34
-"AS200590","NLS Kazakhstan LLC",33
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
@@ -1508,6 +1508,7 @@ ASN,Organization,IP_Count
 "AS11650","Pioneer Long Distance Inc.",1
 "AS11816","SERVICIO DI TELECOMUNICACION DI ARUBA (SETAR) N.V.",1
 "AS11830","Instituto Costarricense de Electricidad y Telecom.",1
+"AS11961","Mid-Rivers Telephone Cooperative",1
 "AS12042","Consolidated Communications, Inc.",1
 "AS12097","Massillon Cable Communications",1
 "AS12119","ITV-3",1
