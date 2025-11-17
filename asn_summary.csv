@@ -5,9 +5,9 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",13915
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10437
-"AS14061","DigitalOcean, LLC",8062
+"AS14061","DigitalOcean, LLC",8064
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5885
+"AS16276","OVH SAS",5886
 "AS4134","Chinanet",5030
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4447
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1412
-"AS32475","Internap Holding LLC",1385
+"AS32475","Internap Holding LLC",1386
 "AS49870","Alsycon B.V.",1362
 "AS13335","Cloudflare, Inc.",1346
 "AS36352","HostPapa",1335
@@ -38,7 +38,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1192
 "AS22552","eSited Solutions",1183
 "AS204428","SS-Net",1182
-"AS23470","ReliableSite.Net LLC",1168
+"AS23470","ReliableSite.Net LLC",1169
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
@@ -55,13 +55,13 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",670
 "AS14618","Amazon.com, Inc.",661
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS4837","CHINA UNICOM China169 Backbone",579
+"AS4837","CHINA UNICOM China169 Backbone",580
 "AS3462","Chunghwa Telecom Co., Ltd.",578
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS9009","M247 Europe SRL",556
 "AS198953","Proton66 OOO",527
-"AS51115","HLL LLC",512
+"AS51115","HLL LLC",513
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",505
 "AS53667","FranTech Solutions",495
@@ -93,8 +93,8 @@ ASN,Organization,IP_Count
 "AS60223","Netiface Limited",250
 "AS141718","haoxiangyun",233
 "AS209272","Alviva Holding Limited",230
+"AS701","Verizon Business",223
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
-"AS701","Verizon Business",222
 "AS14987","Rethem Hosting LLC",215
 "AS12555","Data-center IMAQLIQ Ltd.",192
 "AS12389","PJSC Rostelecom",190
