@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87758
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70575
 "AS211298","Driftnet Ltd",22048
-"AS398324","Censys, Inc.",13901
+"AS398324","Censys, Inc.",13902
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10432
 "AS14061","DigitalOcean, LLC",8059
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS51167","Contabo GmbH",705
 "AS10439","CariNet, Inc.",670
-"AS14618","Amazon.com, Inc.",659
+"AS14618","Amazon.com, Inc.",660
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS4837","CHINA UNICOM China169 Backbone",579
 "AS3462","Chunghwa Telecom Co., Ltd.",578
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS53667","FranTech Solutions",495
 "AS12876","ONLINE S.A.S.",492
 "AS50360","Tamatiya EOOD",492
-"AS9829","Bharat Sanchar Nigam Ltd",467
+"AS9829","Bharat Sanchar Nigam Ltd",468
 "AS212238","Datacamp Limited",463
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",405
@@ -140,7 +140,7 @@ ASN,Organization,IP_Count
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
-"AS3920","ESTOXY OU",74
+"AS3920","ESTOXY OU",75
 "AS56046","China Mobile Communications Corporation",74
 "AS31898","Oracle Corporation",73
 "AS22773","Cox Communications Inc.",70
@@ -332,6 +332,7 @@ ASN,Organization,IP_Count
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
 "AS207713","GLOBAL INTERNET SOLUTIONS LLC",18
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",18
+"AS24151","China Internet Network Infomation Center",18
 "AS2914","NTT America, Inc.",18
 "AS39603","P4 Sp. z o.o.",18
 "AS400655","NixLabs Networks",18
@@ -341,7 +342,6 @@ ASN,Organization,IP_Count
 "AS136958","China Unicom Guangdong IP network",17
 "AS148981","China Telecom",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
-"AS24151","China Internet Network Infomation Center",17
 "AS24757","EthioNet",17
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
 "AS30823","aurologic GmbH",17
