@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87757
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87758
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70575
 "AS211298","Driftnet Ltd",22043
-"AS398324","Censys, Inc.",13881
+"AS398324","Censys, Inc.",13884
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10429
 "AS14061","DigitalOcean, LLC",8055
@@ -18,10 +18,10 @@ ASN,Organization,IP_Count
 "AS0","",3602
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3157
+"AS51396","Pfcloud UG",3158
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2783
-"AS6939","Hurricane Electric LLC",2590
+"AS6939","Hurricane Electric LLC",2594
 "AS142002","Scloud Pte Ltd",2560
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1764
@@ -34,13 +34,13 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1362
 "AS13335","Cloudflare, Inc.",1343
 "AS215269","LAZYCLOUD LTD",1312
-"AS36352","HostPapa",1289
+"AS36352","HostPapa",1290
 "AS174","Cogent Communications",1190
 "AS204428","SS-Net",1182
 "AS22552","eSited Solutions",1182
+"AS23470","ReliableSite.Net LLC",1147
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS23470","ReliableSite.Net LLC",1133
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",1003
 "AS51852","Private Layer INC",907
@@ -52,8 +52,8 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",771
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS51167","Contabo GmbH",703
-"AS10439","CariNet, Inc.",666
-"AS14618","Amazon.com, Inc.",658
+"AS10439","CariNet, Inc.",667
+"AS14618","Amazon.com, Inc.",659
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS4837","CHINA UNICOM China169 Backbone",579
 "AS3462","Chunghwa Telecom Co., Ltd.",578
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS53667","FranTech Solutions",494
 "AS50360","Tamatiya EOOD",492
 "AS12876","ONLINE S.A.S.",490
-"AS9829","Bharat Sanchar Nigam Ltd",464
+"AS9829","Bharat Sanchar Nigam Ltd",465
 "AS212238","Datacamp Limited",463
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",405
@@ -86,8 +86,8 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",291
+"AS208843","Alpha Strike Labs GmbH",273
 "AS213613","BOTSHIELD LTD",273
-"AS208843","Alpha Strike Labs GmbH",272
 "AS48090","TECHOFF SRV LIMITED",254
 "AS18403","FPT Telecom Company",252
 "AS60223","Netiface Limited",250
@@ -105,7 +105,7 @@ ASN,Organization,IP_Count
 "AS401116","Nybula LLC",170
 "AS206264","Amarutu Technology Ltd",153
 "AS50219","LNK SYSTEMS MUNTENIA SRL",148
-"AS42237","w1n ltd",143
+"AS42237","w1n ltd",144
 "AS47105","Vault Dweller OU",141
 "AS262551","Farol Telecom",137
 "AS14956","RouterHosting LLC",130
@@ -154,9 +154,9 @@ ASN,Organization,IP_Count
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS57588","Hayat for Internet & communication LLC",65
+"AS55720","Gigabit Hosting Sdn Bhd",64
 "AS150263","PT Alnet Telekomunikasi Indonesia",63
 "AS17378","TierPoint, LLC",63
-"AS55720","Gigabit Hosting Sdn Bhd",63
 "AS140717","China Unicom",61
 "AS6128","Cablevision Systems Corp.",61
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
@@ -220,10 +220,10 @@ ASN,Organization,IP_Count
 "AS4760","PCCW IMS Limited",34
 "AS9198","JSC Kazakhtelecom",34
 "AS200590","NLS Kazakhstan LLC",33
+"AS215240","Silent Connection Ltd.",33
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
-"AS215240","Silent Connection Ltd.",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
 "AS269193","Iktelecom Ltda",32
 "AS44592","SkyLink Data Center BV",32
@@ -521,6 +521,7 @@ ASN,Organization,IP_Count
 "AS204631","VIVANET GmbH",7
 "AS207506","""NEWNET"" LLC",7
 "AS2119","Telenor Norge AS",7
+"AS214309","Aurorix Gaming Solutions Limited",7
 "AS215599","Zkillu SAS",7
 "AS215672","MoeChuang Network Limited",7
 "AS24961","WIIT AG",7
@@ -570,7 +571,6 @@ ASN,Organization,IP_Count
 "AS212598","SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.",6
 "AS213893","IPTransit Business LTD",6
 "AS214209","Internet Magnate (Pty) Ltd",6
-"AS214309","Aurorix Gaming Solutions Limited",6
 "AS214762","Sebastian Stefanek trading as MatHost.eu",6
 "AS216158","Teleport Rus LLC",6
 "AS216300","Closed Joint Stock Company ""AbkhazMedia""",6
