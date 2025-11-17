@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87758
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70575
 "AS211298","Driftnet Ltd",22051
-"AS398324","Censys, Inc.",13913
+"AS398324","Censys, Inc.",13914
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10435
-"AS14061","DigitalOcean, LLC",8060
+"AS396982","Google LLC",10436
+"AS14061","DigitalOcean, LLC",8062
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5885
 "AS4134","Chinanet",5029
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3167
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2787
+"AS8075","Microsoft Corporation",2788
 "AS6939","Hurricane Electric LLC",2599
 "AS142002","Scloud Pte Ltd",2560
 "AS9808","China Mobile",2078
@@ -75,8 +75,8 @@ ASN,Organization,IP_Count
 "AS7018","AT&T Enterprises, LLC",384
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS21859","Zenlayer Inc",358
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",348
 "AS47890","UNMANAGED LTD",348
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",347
 "AS7922","Comcast Cable Communications, LLC",345
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS8151","Uninet S.A. de C.V.",335
@@ -107,7 +107,7 @@ ASN,Organization,IP_Count
 "AS50219","LNK SYSTEMS MUNTENIA SRL",152
 "AS42237","w1n ltd",144
 "AS47105","Vault Dweller OU",141
-"AS262551","Farol Telecom",137
+"AS262551","Farol Telecom",138
 "AS14956","RouterHosting LLC",130
 "AS137409","GSL Networks Pty LTD",128
 "AS13238","YANDEX LLC",127
