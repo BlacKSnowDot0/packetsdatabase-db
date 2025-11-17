@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",3996
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3616
-"AS0","",3606
+"AS0","",3608
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3164
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1764
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1531
+"AS209605","UAB Host Baltic",1532
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1411
@@ -76,7 +76,7 @@ ASN,Organization,IP_Count
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS21859","Zenlayer Inc",358
 "AS47890","UNMANAGED LTD",348
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",346
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",347
 "AS7922","Comcast Cable Communications, LLC",345
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS8151","Uninet S.A. de C.V.",335
@@ -351,6 +351,7 @@ ASN,Organization,IP_Count
 "AS56630","Melbikomas UAB",17
 "AS9269","Hong Kong Broadband Network Ltd",17
 "AS140726","China Unicom",16
+"AS202796","JSR IT B.V.",16
 "AS24812","NPK Home-Net Ltd.",16
 "AS25198","INTERKVM HOST SRL",16
 "AS3215","Orange S.A.",16
@@ -365,7 +366,6 @@ ASN,Organization,IP_Count
 "AS15704","XTRA TELECOM S.A.",15
 "AS199414","Noah Kolossa",15
 "AS202448","MVPS LTD",15
-"AS202796","JSR IT B.V.",15
 "AS211619","MAXKO d.o.o.",15
 "AS215762","Bullet Group LTD",15
 "AS263767","CORPORACIÓN GALA IT, C.A.",15
@@ -564,6 +564,7 @@ ASN,Organization,IP_Count
 "AS198253","Kukushkin Anatoly Valerievich",6
 "AS198323","TOV Informatsiyni Kirovohrads'ki Systemy",6
 "AS201838","Community Fibre Limited",6
+"AS202870","Dimensione S.r.l.",6
 "AS203020","HostRoyale Technologies Pvt Ltd",6
 "AS210538","KEYUBU Internet ve Bilisim Tic. Ltd. Sti.",6
 "AS21056","Vianova S.p.A",6
@@ -639,7 +640,6 @@ ASN,Organization,IP_Count
 "AS18229","CtrlS",5
 "AS198983","Joseph Hofmann trading as 'Tornado Datacenter GmbH & Co. KG'",5
 "AS202468","Noyan Abr Arvan Co. ( Private Joint Stock)",5
-"AS202870","Dimensione S.r.l.",5
 "AS20412","Clarity Telecom LLC",5
 "AS206262","TelKos L.L.C",5
 "AS207656","Epinatura LLC",5
