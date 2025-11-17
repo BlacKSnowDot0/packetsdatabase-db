@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87758
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70575
 "AS211298","Driftnet Ltd",22048
-"AS398324","Censys, Inc.",13904
+"AS398324","Censys, Inc.",13906
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10432
 "AS14061","DigitalOcean, LLC",8059
@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",3996
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3616
-"AS0","",3608
+"AS0","",3610
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3164
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1411
-"AS32475","Internap Holding LLC",1381
+"AS32475","Internap Holding LLC",1382
 "AS49870","Alsycon B.V.",1362
 "AS13335","Cloudflare, Inc.",1345
 "AS36352","HostPapa",1335
@@ -177,9 +177,9 @@ ASN,Organization,IP_Count
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS149746","PT Blip Integrator Provider",53
 "AS5650","Frontier Communications of America, Inc.",53
+"AS2856","British Telecommunications PLC",49
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
-"AS2856","British Telecommunications PLC",48
 "AS12816","Leibniz-Rechenzentrum",47
 "AS10796","Charter Communications Inc",46
 "AS138156","CSNE Co., Ltd.",46
