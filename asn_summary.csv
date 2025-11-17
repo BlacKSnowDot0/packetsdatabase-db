@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87758
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70575
 "AS211298","Driftnet Ltd",22043
-"AS398324","Censys, Inc.",13884
+"AS398324","Censys, Inc.",13885
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10430
+"AS396982","Google LLC",10431
 "AS14061","DigitalOcean, LLC",8055
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5881
@@ -86,8 +86,8 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",291
+"AS213613","BOTSHIELD LTD",274
 "AS208843","Alpha Strike Labs GmbH",273
-"AS213613","BOTSHIELD LTD",273
 "AS48090","TECHOFF SRV LIMITED",254
 "AS18403","FPT Telecom Company",252
 "AS60223","Netiface Limited",250
@@ -100,7 +100,7 @@ ASN,Organization,IP_Count
 "AS12389","PJSC Rostelecom",190
 "AS29484","Ruhr-Universitaet Bochum",182
 "AS7552","Viettel Group",182
-"AS29066","velia.net Internetdienste GmbH",177
+"AS29066","velia.net Internetdienste GmbH",178
 "AS63199","CDS Global Cloud Co., Ltd",176
 "AS401116","Nybula LLC",170
 "AS206264","Amarutu Technology Ltd",153
@@ -120,7 +120,7 @@ ASN,Organization,IP_Count
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",106
 "AS47331","TTNet A.S.",104
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",98
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",99
 "AS40021","Nubes, LLC",96
 "AS205352","KABELNET LTD",93
 "AS63018","Dedicated.com",92
@@ -249,6 +249,7 @@ ASN,Organization,IP_Count
 "AS53118","NETLINE TELECOM",27
 "AS55933","Cloudie Limited",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
+"AS9123","TimeWeb Ltd.",27
 "AS12912","T-Mobile Polska S.A.",26
 "AS13213","UK-2 Limited",26
 "AS210509","Optimum Line for Internet Services Ltd.",26
@@ -259,7 +260,6 @@ ASN,Organization,IP_Count
 "AS329009","Spectrum Internet Service Ltd",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS8796","FD-298-8796",26
-"AS9123","TimeWeb Ltd.",26
 "AS17995","PT iForte Global Internet",25
 "AS18881","TELEFÔNICA BRASIL S.A",25
 "AS21127","Joint Stock Company TransTeleCom",25
