@@ -18,9 +18,9 @@ ASN,Organization,IP_Count
 "AS0","",3606
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3161
+"AS51396","Pfcloud UG",3162
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2785
+"AS8075","Microsoft Corporation",2786
 "AS6939","Hurricane Electric LLC",2597
 "AS142002","Scloud Pte Ltd",2560
 "AS9808","China Mobile",2078
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",824
 "AS215925","VPSVAULT.HOST LTD",823
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",772
+"AS20052","Arbor Networks, Inc.",773
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS51167","Contabo GmbH",705
 "AS10439","CariNet, Inc.",670
@@ -2517,6 +2517,7 @@ ASN,Organization,IP_Count
 "AS3253","PJSC ""Vimpelcom""",1
 "AS3261","LLC ""FTICOM""",1
 "AS327804","Municipal Network Services",1
+"AS327813","VIDOLU Group Pty Ltd-Web4Africa",1
 "AS327872","IBITS Internet (pty) Ltd",1
 "AS327934","SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)",1
 "AS328122","Business Connexion (PTY) LTD",1
