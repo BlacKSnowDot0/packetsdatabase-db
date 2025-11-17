@@ -20,8 +20,8 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3158
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2783
-"AS6939","Hurricane Electric LLC",2594
+"AS8075","Microsoft Corporation",2784
+"AS6939","Hurricane Electric LLC",2595
 "AS142002","Scloud Pte Ltd",2560
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1764
@@ -91,7 +91,7 @@ ASN,Organization,IP_Count
 "AS48090","TECHOFF SRV LIMITED",254
 "AS18403","FPT Telecom Company",252
 "AS60223","Netiface Limited",250
-"AS141718","haoxiangyun",232
+"AS141718","haoxiangyun",233
 "AS209272","Alviva Holding Limited",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS701","Verizon Business",222
@@ -100,7 +100,7 @@ ASN,Organization,IP_Count
 "AS12389","PJSC Rostelecom",190
 "AS29484","Ruhr-Universitaet Bochum",182
 "AS7552","Viettel Group",182
-"AS29066","velia.net Internetdienste GmbH",179
+"AS29066","velia.net Internetdienste GmbH",180
 "AS63199","CDS Global Cloud Co., Ltd",176
 "AS401116","Nybula LLC",170
 "AS206264","Amarutu Technology Ltd",153
@@ -207,10 +207,10 @@ ASN,Organization,IP_Count
 "AS5089","Virgin Media Limited",38
 "AS12322","Free SAS",37
 "AS1680","Cellcom Fixed Line Communication L.P",37
+"AS46475","Limestone Networks, Inc.",37
 "AS8167","V tal",37
 "AS210558","1337 Services GmbH",36
 "AS42624","Global-Data System IT Corporation",36
-"AS46475","Limestone Networks, Inc.",36
 "AS213790","Limited Network LTD",35
 "AS215240","Silent Connection Ltd.",35
 "AS30083","velia.net",35
