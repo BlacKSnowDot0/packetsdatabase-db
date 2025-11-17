@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87758
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70575
 "AS211298","Driftnet Ltd",22048
-"AS398324","Censys, Inc.",13902
+"AS398324","Censys, Inc.",13903
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10432
 "AS14061","DigitalOcean, LLC",8059
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3162
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2786
-"AS6939","Hurricane Electric LLC",2598
+"AS6939","Hurricane Electric LLC",2599
 "AS142002","Scloud Pte Ltd",2560
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1764
@@ -126,7 +126,7 @@ ASN,Organization,IP_Count
 "AS63018","Dedicated.com",92
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS6739","VODAFONE ONO, S.A.",89
-"AS199785","Cloud Hosting Solutions, Limited.",87
+"AS199785","Cloud Hosting Solutions, Limited.",88
 "AS8560","IONOS SE",87
 "AS136435","ELITE COMMUNICATION",86
 "AS58461","Chinanet",85
@@ -210,9 +210,9 @@ ASN,Organization,IP_Count
 "AS46475","Limestone Networks, Inc.",37
 "AS8167","V tal",37
 "AS210558","1337 Services GmbH",36
+"AS215240","Silent Connection Ltd.",36
 "AS42624","Global-Data System IT Corporation",36
 "AS213790","Limited Network LTD",35
-"AS215240","Silent Connection Ltd.",35
 "AS30058","FDCservers.net",35
 "AS30083","velia.net",35
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",35
