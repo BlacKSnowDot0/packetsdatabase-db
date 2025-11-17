@@ -1,7 +1,7 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87758
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70575
-"AS211298","Driftnet Ltd",22045
+"AS211298","Driftnet Ltd",22046
 "AS398324","Censys, Inc.",13886
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10431
@@ -36,8 +36,8 @@ ASN,Organization,IP_Count
 "AS36352","HostPapa",1335
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1190
+"AS22552","eSited Solutions",1183
 "AS204428","SS-Net",1182
-"AS22552","eSited Solutions",1182
 "AS23470","ReliableSite.Net LLC",1147
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
@@ -64,7 +64,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",512
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",505
-"AS53667","FranTech Solutions",494
+"AS53667","FranTech Solutions",495
 "AS50360","Tamatiya EOOD",492
 "AS12876","ONLINE S.A.S.",491
 "AS9829","Bharat Sanchar Nigam Ltd",465
@@ -100,11 +100,11 @@ ASN,Organization,IP_Count
 "AS12389","PJSC Rostelecom",190
 "AS29484","Ruhr-Universitaet Bochum",182
 "AS7552","Viettel Group",182
-"AS29066","velia.net Internetdienste GmbH",178
+"AS29066","velia.net Internetdienste GmbH",179
 "AS63199","CDS Global Cloud Co., Ltd",176
 "AS401116","Nybula LLC",170
 "AS206264","Amarutu Technology Ltd",153
-"AS50219","LNK SYSTEMS MUNTENIA SRL",148
+"AS50219","LNK SYSTEMS MUNTENIA SRL",149
 "AS42237","w1n ltd",144
 "AS47105","Vault Dweller OU",141
 "AS262551","Farol Telecom",137
@@ -212,9 +212,9 @@ ASN,Organization,IP_Count
 "AS42624","Global-Data System IT Corporation",36
 "AS46475","Limestone Networks, Inc.",36
 "AS213790","Limited Network LTD",35
+"AS215240","Silent Connection Ltd.",35
 "AS30083","velia.net",35
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",35
-"AS215240","Silent Connection Ltd.",34
 "AS30058","FDCservers.net",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",34
