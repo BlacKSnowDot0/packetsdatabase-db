@@ -2,13 +2,13 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87758
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70575
 "AS211298","Driftnet Ltd",22051
-"AS398324","Censys, Inc.",13914
+"AS398324","Censys, Inc.",13915
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10437
 "AS14061","DigitalOcean, LLC",8062
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5885
-"AS4134","Chinanet",5029
+"AS4134","Chinanet",5030
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4447
 "AS16509","Amazon.com, Inc.",4345
@@ -98,9 +98,9 @@ ASN,Organization,IP_Count
 "AS14987","Rethem Hosting LLC",215
 "AS12555","Data-center IMAQLIQ Ltd.",192
 "AS12389","PJSC Rostelecom",190
+"AS29066","velia.net Internetdienste GmbH",187
 "AS29484","Ruhr-Universitaet Bochum",183
 "AS7552","Viettel Group",182
-"AS29066","velia.net Internetdienste GmbH",180
 "AS63199","CDS Global Cloud Co., Ltd",176
 "AS401116","Nybula LLC",170
 "AS206264","Amarutu Technology Ltd",153
@@ -159,9 +159,9 @@ ASN,Organization,IP_Count
 "AS17378","TierPoint, LLC",63
 "AS140717","China Unicom",61
 "AS6128","Cablevision Systems Corp.",61
+"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",60
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS4812","China Telecom (Group)",60
-"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",59
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",59
 "AS49544","i3D.net B.V",59
 "AS20115","Charter Communications",57
@@ -551,6 +551,7 @@ ASN,Organization,IP_Count
 "AS1257","Tele2 Sverige AB",6
 "AS132116","Ani Network Pvt Ltd",6
 "AS135523","Multinet Broadband",6
+"AS135905","VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",6
 "AS135953","Vietnam Online Network Solution Joint Stock Compnay",6
 "AS13977","Consolidated Communications, Inc.",6
 "AS13999","Mega Cable, S.A. de C.V.",6
@@ -625,7 +626,6 @@ ASN,Organization,IP_Count
 "AS13489","EPM Telecomunicaciones S.A. E.S.P.",5
 "AS135357","HONG KONG KOWLOON TELECOMMUNICATIONS CO.,LIMITED",5
 "AS135411","Red Grapes Pte Ltd",5
-"AS135905","VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",5
 "AS136188","NINGBO, ZHEJIANG Province, P.R.China.",5
 "AS136873","MEGADATA-ISP",5
 "AS138109","PT. Rasi Bintang Perkasa",5
