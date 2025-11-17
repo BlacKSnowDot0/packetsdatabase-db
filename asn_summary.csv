@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87758
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70575
 "AS211298","Driftnet Ltd",22046
-"AS398324","Censys, Inc.",13886
+"AS398324","Censys, Inc.",13887
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10431
 "AS14061","DigitalOcean, LLC",8056
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5881
+"AS16276","OVH SAS",5882
 "AS4134","Chinanet",5029
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4446
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",772
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
-"AS51167","Contabo GmbH",703
+"AS51167","Contabo GmbH",704
 "AS10439","CariNet, Inc.",669
 "AS14618","Amazon.com, Inc.",659
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS53667","FranTech Solutions",495
 "AS50360","Tamatiya EOOD",492
 "AS12876","ONLINE S.A.S.",491
-"AS9829","Bharat Sanchar Nigam Ltd",465
+"AS9829","Bharat Sanchar Nigam Ltd",466
 "AS212238","Datacamp Limited",463
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",405
@@ -104,7 +104,7 @@ ASN,Organization,IP_Count
 "AS63199","CDS Global Cloud Co., Ltd",176
 "AS401116","Nybula LLC",170
 "AS206264","Amarutu Technology Ltd",153
-"AS50219","LNK SYSTEMS MUNTENIA SRL",149
+"AS50219","LNK SYSTEMS MUNTENIA SRL",150
 "AS42237","w1n ltd",144
 "AS47105","Vault Dweller OU",141
 "AS262551","Farol Telecom",137
@@ -399,6 +399,7 @@ ASN,Organization,IP_Count
 "AS17639","ComClark Network & Technology Corp",13
 "AS213194","Nechaev Dmitry Sergeevich",13
 "AS25369","Hydra Communications Ltd",13
+"AS28546","Servnet Mexico, S.A. de C.V.",13
 "AS28840","PJSC ""TATTELECOM""",13
 "AS29465","MTN NIGERIA Communication limited",13
 "AS3243","MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.",13
@@ -410,7 +411,6 @@ ASN,Organization,IP_Count
 "AS2116","GLOBALCONNECT AS",12
 "AS213438","ColocaTel Inc.",12
 "AS2637","Georgia Institute of Technology",12
-"AS28546","Servnet Mexico, S.A. de C.V.",12
 "AS35042","Layer7 Networks GmbH",12
 "AS35297","Dataline LLC",12
 "AS36992","ETISALAT MISR",12
