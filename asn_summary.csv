@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87757
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70575
 "AS211298","Driftnet Ltd",22043
-"AS398324","Censys, Inc.",13877
+"AS398324","Censys, Inc.",13881
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10428
+"AS396982","Google LLC",10429
 "AS14061","DigitalOcean, LLC",8055
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5881
@@ -12,13 +12,13 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4446
 "AS16509","Amazon.com, Inc.",4345
-"AS45102","Alibaba (US) Technology Co., Ltd.",3994
+"AS45102","Alibaba (US) Technology Co., Ltd.",3995
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3614
 "AS0","",3602
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3156
+"AS51396","Pfcloud UG",3157
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2783
 "AS6939","Hurricane Electric LLC",2590
@@ -29,7 +29,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1530
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
-"AS398722","Censys, Inc.",1408
+"AS398722","Censys, Inc.",1409
 "AS32475","Internap Holding LLC",1378
 "AS49870","Alsycon B.V.",1362
 "AS13335","Cloudflare, Inc.",1343
@@ -37,10 +37,10 @@ ASN,Organization,IP_Count
 "AS36352","HostPapa",1289
 "AS174","Cogent Communications",1190
 "AS204428","SS-Net",1182
-"AS22552","eSited Solutions",1181
+"AS22552","eSited Solutions",1182
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS23470","ReliableSite.Net LLC",1132
+"AS23470","ReliableSite.Net LLC",1133
 "AS201401","NewVM B.V.",1076
 "AS208684","BHA CONSEIL SARL",1003
 "AS51852","Private Layer INC",907
@@ -64,7 +64,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",512
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",505
-"AS53667","FranTech Solutions",493
+"AS53667","FranTech Solutions",494
 "AS50360","Tamatiya EOOD",492
 "AS12876","ONLINE S.A.S.",490
 "AS9829","Bharat Sanchar Nigam Ltd",464
@@ -176,7 +176,7 @@ ASN,Organization,IP_Count
 "AS213877","u1host ltd",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS149746","PT Blip Integrator Provider",53
-"AS5650","Frontier Communications of America, Inc.",51
+"AS5650","Frontier Communications of America, Inc.",53
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
 "AS2856","British Telecommunications PLC",48
