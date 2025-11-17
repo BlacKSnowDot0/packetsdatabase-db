@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87758
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70575
 "AS211298","Driftnet Ltd",22046
-"AS398324","Censys, Inc.",13889
+"AS398324","Censys, Inc.",13890
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10431
-"AS14061","DigitalOcean, LLC",8056
+"AS14061","DigitalOcean, LLC",8057
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5883
 "AS4134","Chinanet",5029
@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS0","",3604
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3158
+"AS51396","Pfcloud UG",3159
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2784
 "AS6939","Hurricane Electric LLC",2596
@@ -29,8 +29,8 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1531
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
-"AS398722","Censys, Inc.",1410
-"AS32475","Internap Holding LLC",1379
+"AS398722","Censys, Inc.",1411
+"AS32475","Internap Holding LLC",1380
 "AS49870","Alsycon B.V.",1362
 "AS13335","Cloudflare, Inc.",1345
 "AS36352","HostPapa",1335
@@ -112,7 +112,7 @@ ASN,Organization,IP_Count
 "AS137409","GSL Networks Pty LTD",128
 "AS13238","YANDEX LLC",127
 "AS19905","Neustar Security Services",127
-"AS34984","Superonline Iletisim Hizmetleri A.S.",124
+"AS34984","Superonline Iletisim Hizmetleri A.S.",125
 "AS36007","Kamatera, Inc.",122
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
@@ -120,7 +120,7 @@ ASN,Organization,IP_Count
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",106
 "AS47331","TTNet A.S.",104
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",99
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",100
 "AS40021","Nubes, LLC",96
 "AS205352","KABELNET LTD",93
 "AS63018","Dedicated.com",92
@@ -581,6 +581,7 @@ ASN,Organization,IP_Count
 "AS25513","PJSC Moscow city telephone network",6
 "AS262262","METRONET",6
 "AS262773","PROXXIMA TELECOMUNICACOES LTDA",6
+"AS266015","JC2000 Telecomunicações Ltda",6
 "AS268976","Weclix Telecom S/A",6
 "AS272928","P&C ON LINE S.R.L. (NETWAY INTERNET)",6
 "AS273683","ALLREDE TELECOM LTDA",6
@@ -655,7 +656,6 @@ ASN,Organization,IP_Count
 "AS26383","Baxet Group Inc.",5
 "AS264323","OXMAN TECNOLOGIA LTDA",5
 "AS265702","AZUL NETWORKS S.R.L",5
-"AS266015","JC2000 Telecomunicações Ltda",5
 "AS267684","VISIONMAGICA SOCIEDAD ANONIMA",5
 "AS267784","Flyservers S.A.",5
 "AS268482","Connect Telecomunicações LTDA",5
