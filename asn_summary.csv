@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87758
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70575
 "AS211298","Driftnet Ltd",22045
-"AS398324","Censys, Inc.",13885
+"AS398324","Censys, Inc.",13886
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10431
 "AS14061","DigitalOcean, LLC",8055
@@ -14,8 +14,8 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4345
 "AS45102","Alibaba (US) Technology Co., Ltd.",3995
 "AS396998","Path Network, Inc.",3992
-"AS63949","Akamai Technologies, Inc.",3614
-"AS0","",3602
+"AS63949","Akamai Technologies, Inc.",3616
+"AS0","",3604
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3158
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1764
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1530
+"AS209605","UAB Host Baltic",1531
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1410
@@ -86,8 +86,8 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",291
+"AS208843","Alpha Strike Labs GmbH",274
 "AS213613","BOTSHIELD LTD",274
-"AS208843","Alpha Strike Labs GmbH",273
 "AS48090","TECHOFF SRV LIMITED",254
 "AS18403","FPT Telecom Company",252
 "AS60223","Netiface Limited",250
@@ -125,7 +125,7 @@ ASN,Organization,IP_Count
 "AS205352","KABELNET LTD",93
 "AS63018","Dedicated.com",92
 "AS210125","PRIAM NET Sh.p.k.",89
-"AS6739","VODAFONE ONO, S.A.",88
+"AS6739","VODAFONE ONO, S.A.",89
 "AS8560","IONOS SE",87
 "AS136435","ELITE COMMUNICATION",86
 "AS199785","Cloud Hosting Solutions, Limited.",86
@@ -284,6 +284,7 @@ ASN,Organization,IP_Count
 "AS7303","Telecom Argentina S.A.",23
 "AS17561","Larus Limited",22
 "AS213010","Gening Nikita Dmitrievich",22
+"AS271597","NEW LINK CONNECT",22
 "AS41745","Baykov Ilya Sergeevich",22
 "AS43289","Trabia SRL",22
 "AS51430","AltusHost B.V.",22
@@ -295,7 +296,6 @@ ASN,Organization,IP_Count
 "AS17816","China Unicom IP network China169 Guangdong province",21
 "AS214668","AxusHost B.V.",21
 "AS24940","Hetzner Online GmbH",21
-"AS271597","NEW LINK CONNECT",21
 "AS3320","Deutsche Telekom AG",21
 "AS400536","Nodestop LLC",21
 "AS45758","Triple T Broadband Public Company Limited",21
