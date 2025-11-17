@@ -2,23 +2,23 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87758
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70575
 "AS211298","Driftnet Ltd",22048
-"AS398324","Censys, Inc.",13897
+"AS398324","Censys, Inc.",13898
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10432
-"AS14061","DigitalOcean, LLC",8058
+"AS14061","DigitalOcean, LLC",8059
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5883
 "AS4134","Chinanet",5029
 "AS6568","Entel S.A. - EntelNet",4537
-"AS58466","CHINANET Guangdong province network",4446
+"AS58466","CHINANET Guangdong province network",4447
 "AS16509","Amazon.com, Inc.",4345
 "AS45102","Alibaba (US) Technology Co., Ltd.",3995
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3616
-"AS0","",3604
+"AS0","",3606
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3160
+"AS51396","Pfcloud UG",3161
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2785
 "AS6939","Hurricane Electric LLC",2597
@@ -301,6 +301,7 @@ ASN,Organization,IP_Count
 "AS45758","Triple T Broadband Public Company Limited",21
 "AS46573","LayerHost",21
 "AS4800","PT Aplikanusa Lintasarta",21
+"AS4847","China Networks Inter-Exchange",21
 "AS50887","DC FIBER HOME SRL",21
 "AS812","Rogers Communications Canada Inc.",21
 "AS9299","Philippine Long Distance Telephone Co.",21
@@ -311,7 +312,6 @@ ASN,Organization,IP_Count
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS4816","China Telecom (Group)",20
-"AS4847","China Networks Inter-Exchange",20
 "AS11426","Charter Communications Inc",19
 "AS12874","Fastweb SpA",19
 "AS136142","Enigma Fiber Pvt Ltd",19
@@ -508,6 +508,7 @@ ASN,Organization,IP_Count
 "AS6698","Virtual Systems LLC",8
 "AS7418","TELEFÓNICA CHILE S.A.",8
 "AS8386","VODAFONE NET ILETISIM HIZMETLERI ANONIM SIRKETI",8
+"AS9541","Cyber Internet Services (Private) Limited",8
 "AS1221","Telstra Limited",7
 "AS133661","Netplus Broadband Services Private Limited",7
 "AS135478","PT. Cyberindo Aditama",7
@@ -544,7 +545,6 @@ ASN,Organization,IP_Count
 "AS63838","Hengyang",7
 "AS8551","Bezeq International Ltd.",7
 "AS8764","Telia Lietuva, AB",7
-"AS9541","Cyber Internet Services (Private) Limited",7
 "AS9658","Eastern Telecommunications Philippines, Inc.",7
 "AS9981","Saero Network Service LTD",7
 "AS11562","Net Uno, C.A.",6
