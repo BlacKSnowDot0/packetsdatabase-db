@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87762
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70575
 "AS211298","Driftnet Ltd",22052
-"AS398324","Censys, Inc.",13921
+"AS398324","Censys, Inc.",13922
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10439
-"AS14061","DigitalOcean, LLC",8066
+"AS396982","Google LLC",10440
+"AS14061","DigitalOcean, LLC",8067
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5888
 "AS4134","Chinanet",5031
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3169
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2789
-"AS6939","Hurricane Electric LLC",2600
+"AS6939","Hurricane Electric LLC",2601
 "AS142002","Scloud Pte Ltd",2560
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1764
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1412
-"AS32475","Internap Holding LLC",1388
+"AS32475","Internap Holding LLC",1389
 "AS49870","Alsycon B.V.",1362
 "AS13335","Cloudflare, Inc.",1346
 "AS36352","HostPapa",1336
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",825
 "AS215925","VPSVAULT.HOST LTD",823
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",773
+"AS20052","Arbor Networks, Inc.",774
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS51167","Contabo GmbH",707
 "AS10439","CariNet, Inc.",671
@@ -61,7 +61,7 @@ ASN,Organization,IP_Count
 "AS401120","cheapy.host LLC",557
 "AS9009","M247 Europe SRL",556
 "AS198953","Proton66 OOO",527
-"AS51115","HLL LLC",513
+"AS51115","HLL LLC",514
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",505
 "AS53667","FranTech Solutions",497
@@ -108,7 +108,7 @@ ASN,Organization,IP_Count
 "AS42237","w1n ltd",144
 "AS47105","Vault Dweller OU",141
 "AS262551","Farol Telecom",138
-"AS14956","RouterHosting LLC",130
+"AS14956","RouterHosting LLC",131
 "AS137409","GSL Networks Pty LTD",128
 "AS13238","YANDEX LLC",127
 "AS19905","Neustar Security Services",127
@@ -116,7 +116,7 @@ ASN,Organization,IP_Count
 "AS36007","Kamatera, Inc.",122
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
-"AS151185","China Telecom",106
+"AS151185","China Telecom",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",106
 "AS47331","TTNet A.S.",104
@@ -191,10 +191,10 @@ ASN,Organization,IP_Count
 "AS46844","Sharktech",44
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",44
 "AS152194","CTG Server Limited",43
+"AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",43
 "AS20473","The Constant Company, LLC",42
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS262378","Compuservice Empreendimentos Ltda",42
-"AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",42
 "AS7738","V tal",42
 "AS21928","T-Mobile USA, Inc.",40
 "AS23969","TOT Public Company Limited",40
@@ -211,9 +211,9 @@ ASN,Organization,IP_Count
 "AS46475","Limestone Networks, Inc.",37
 "AS8167","V tal",37
 "AS210558","1337 Services GmbH",36
+"AS30058","FDCservers.net",36
 "AS42624","Global-Data System IT Corporation",36
 "AS213790","Limited Network LTD",35
-"AS30058","FDCservers.net",35
 "AS30083","velia.net",35
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",35
 "AS200590","NLS Kazakhstan LLC",34
@@ -287,6 +287,7 @@ ASN,Organization,IP_Count
 "AS271597","NEW LINK CONNECT",22
 "AS41745","Baykov Ilya Sergeevich",22
 "AS43289","Trabia SRL",22
+"AS4847","China Networks Inter-Exchange",22
 "AS51430","AltusHost B.V.",22
 "AS5384","EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",22
 "AS63859","PT. Eka Mas Republik",22
@@ -301,7 +302,6 @@ ASN,Organization,IP_Count
 "AS45758","Triple T Broadband Public Company Limited",21
 "AS46573","LayerHost",21
 "AS4800","PT Aplikanusa Lintasarta",21
-"AS4847","China Networks Inter-Exchange",21
 "AS50887","DC FIBER HOME SRL",21
 "AS812","Rogers Communications Canada Inc.",21
 "AS9299","Philippine Long Distance Telephone Co.",21
