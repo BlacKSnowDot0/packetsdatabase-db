@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87762
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70575
 "AS211298","Driftnet Ltd",22058
-"AS398324","Censys, Inc.",13944
+"AS398324","Censys, Inc.",13945
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10442
-"AS14061","DigitalOcean, LLC",8073
+"AS396982","Google LLC",10443
+"AS14061","DigitalOcean, LLC",8074
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5891
 "AS4134","Chinanet",5032
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4345
 "AS45102","Alibaba (US) Technology Co., Ltd.",4002
 "AS396998","Path Network, Inc.",3992
-"AS0","",3623
+"AS0","",3624
 "AS63949","Akamai Technologies, Inc.",3617
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",505
 "AS53667","FranTech Solutions",497
-"AS12876","ONLINE S.A.S.",495
+"AS12876","ONLINE S.A.S.",496
 "AS50360","Tamatiya EOOD",492
 "AS9829","Bharat Sanchar Nigam Ltd",469
 "AS212238","Datacamp Limited",463
@@ -244,11 +244,11 @@ ASN,Organization,IP_Count
 "AS30860","Virtual Systems LLC",28
 "AS3269","Telecom Italia S.p.A.",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
+"AS55933","Cloudie Limited",28
 "AS210509","Optimum Line for Internet Services Ltd.",27
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
 "AS53118","NETLINE TELECOM",27
-"AS55933","Cloudie Limited",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
 "AS9123","TimeWeb Ltd.",27
 "AS12912","T-Mobile Polska S.A.",26
