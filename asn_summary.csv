@@ -1,24 +1,24 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87762
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70575
-"AS211298","Driftnet Ltd",22058
-"AS398324","Censys, Inc.",13954
+"AS211298","Driftnet Ltd",22059
+"AS398324","Censys, Inc.",13958
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10444
-"AS14061","DigitalOcean, LLC",8076
+"AS14061","DigitalOcean, LLC",8080
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5891
+"AS16276","OVH SAS",5892
 "AS4134","Chinanet",5032
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4447
 "AS16509","Amazon.com, Inc.",4345
 "AS45102","Alibaba (US) Technology Co., Ltd.",4002
 "AS396998","Path Network, Inc.",3992
-"AS0","",3624
+"AS0","",3625
 "AS63949","Akamai Technologies, Inc.",3617
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3173
+"AS51396","Pfcloud UG",3174
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2791
 "AS6939","Hurricane Electric LLC",2605
@@ -30,15 +30,15 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1412
-"AS32475","Internap Holding LLC",1399
+"AS32475","Internap Holding LLC",1401
 "AS49870","Alsycon B.V.",1363
-"AS13335","Cloudflare, Inc.",1347
+"AS13335","Cloudflare, Inc.",1348
 "AS36352","HostPapa",1336
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1193
 "AS22552","eSited Solutions",1184
 "AS204428","SS-Net",1182
-"AS23470","ReliableSite.Net LLC",1171
+"AS23470","ReliableSite.Net LLC",1172
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",826
 "AS215925","VPSVAULT.HOST LTD",824
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",774
+"AS20052","Arbor Networks, Inc.",775
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS51167","Contabo GmbH",709
 "AS10439","CariNet, Inc.",673
@@ -64,7 +64,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",518
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",505
-"AS12876","ONLINE S.A.S.",497
+"AS12876","ONLINE S.A.S.",498
 "AS53667","FranTech Solutions",497
 "AS50360","Tamatiya EOOD",492
 "AS9829","Bharat Sanchar Nigam Ltd",469
@@ -86,7 +86,7 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",291
-"AS208843","Alpha Strike Labs GmbH",278
+"AS208843","Alpha Strike Labs GmbH",279
 "AS213613","BOTSHIELD LTD",276
 "AS48090","TECHOFF SRV LIMITED",255
 "AS18403","FPT Telecom Company",254
@@ -98,7 +98,7 @@ ASN,Organization,IP_Count
 "AS14987","Rethem Hosting LLC",215
 "AS12555","Data-center IMAQLIQ Ltd.",192
 "AS12389","PJSC Rostelecom",191
-"AS29066","velia.net Internetdienste GmbH",188
+"AS29066","velia.net Internetdienste GmbH",189
 "AS29484","Ruhr-Universitaet Bochum",184
 "AS7552","Viettel Group",182
 "AS63199","CDS Global Cloud Co., Ltd",176
@@ -143,7 +143,7 @@ ASN,Organization,IP_Count
 "AS32475","SingleHop LLC",75
 "AS56046","China Mobile Communications Corporation",74
 "AS31898","Oracle Corporation",73
-"AS22773","Cox Communications Inc.",71
+"AS22773","Cox Communications Inc.",72
 "AS52053","REDHEBERG Association declaree",69
 "AS834","IPXO LLC",68
 "AS8402","PJSC ""Vimpelcom""",68
@@ -280,6 +280,7 @@ ASN,Organization,IP_Count
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",24
 "AS197309","RS-Media LLC",23
 "AS198037","SPACECORE SOLUTION LTD",23
+"AS4847","China Networks Inter-Exchange",23
 "AS62240","Clouvider Limited",23
 "AS7303","Telecom Argentina S.A.",23
 "AS17561","Larus Limited",22
@@ -287,7 +288,6 @@ ASN,Organization,IP_Count
 "AS271597","NEW LINK CONNECT",22
 "AS41745","Baykov Ilya Sergeevich",22
 "AS43289","Trabia SRL",22
-"AS4847","China Networks Inter-Exchange",22
 "AS51430","AltusHost B.V.",22
 "AS5384","EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",22
 "AS63859","PT. Eka Mas Republik",22
