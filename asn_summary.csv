@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87762
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70575
 "AS211298","Driftnet Ltd",22053
-"AS398324","Censys, Inc.",13927
+"AS398324","Censys, Inc.",13929
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10440
 "AS14061","DigitalOcean, LLC",8069
@@ -153,9 +153,9 @@ ASN,Organization,IP_Count
 "AS23724","IDC, China Telecommunications Corporation",65
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
+"AS55720","Gigabit Hosting Sdn Bhd",65
 "AS57588","Hayat for Internet & communication LLC",65
-"AS55720","Gigabit Hosting Sdn Bhd",64
-"AS150263","PT Alnet Telekomunikasi Indonesia",63
+"AS150263","PT Alnet Telekomunikasi Indonesia",64
 "AS17378","TierPoint, LLC",63
 "AS140717","China Unicom",61
 "AS6128","Cablevision Systems Corp.",61
@@ -342,6 +342,7 @@ ASN,Organization,IP_Count
 "AS136958","China Unicom Guangdong IP network",17
 "AS148981","China Telecom",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
+"AS202796","JSR IT B.V.",17
 "AS24757","EthioNet",17
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
 "AS30823","aurologic GmbH",17
@@ -351,7 +352,6 @@ ASN,Organization,IP_Count
 "AS56630","Melbikomas UAB",17
 "AS9269","Hong Kong Broadband Network Ltd",17
 "AS140726","China Unicom",16
-"AS202796","JSR IT B.V.",16
 "AS24812","NPK Home-Net Ltd.",16
 "AS25198","INTERKVM HOST SRL",16
 "AS3215","Orange S.A.",16
