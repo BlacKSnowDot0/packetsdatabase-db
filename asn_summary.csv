@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87762
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70575
 "AS211298","Driftnet Ltd",22058
-"AS398324","Censys, Inc.",13946
+"AS398324","Censys, Inc.",13948
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10443
+"AS396982","Google LLC",10444
 "AS14061","DigitalOcean, LLC",8074
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5891
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1412
-"AS32475","Internap Holding LLC",1396
+"AS32475","Internap Holding LLC",1397
 "AS49870","Alsycon B.V.",1363
 "AS13335","Cloudflare, Inc.",1347
 "AS36352","HostPapa",1336
@@ -55,7 +55,7 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",673
 "AS14618","Amazon.com, Inc.",662
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS4837","CHINA UNICOM China169 Backbone",581
+"AS4837","CHINA UNICOM China169 Backbone",582
 "AS3462","Chunghwa Telecom Co., Ltd.",579
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
@@ -116,15 +116,15 @@ ASN,Organization,IP_Count
 "AS36007","Kamatera, Inc.",122
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
-"AS151185","China Telecom",107
+"AS151185","China Telecom",108
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",106
 "AS47331","TTNet A.S.",104
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",100
 "AS40021","Nubes, LLC",97
 "AS205352","KABELNET LTD",93
+"AS6739","VODAFONE ONO, S.A.",93
 "AS63018","Dedicated.com",92
-"AS6739","VODAFONE ONO, S.A.",92
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS199785","Cloud Hosting Solutions, Limited.",88
 "AS8560","IONOS SE",88
@@ -143,7 +143,7 @@ ASN,Organization,IP_Count
 "AS32475","SingleHop LLC",75
 "AS56046","China Mobile Communications Corporation",74
 "AS31898","Oracle Corporation",73
-"AS22773","Cox Communications Inc.",70
+"AS22773","Cox Communications Inc.",71
 "AS52053","REDHEBERG Association declaree",69
 "AS834","IPXO LLC",68
 "AS8402","PJSC ""Vimpelcom""",68
