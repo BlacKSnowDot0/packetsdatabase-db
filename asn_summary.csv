@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87762
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70575
 "AS211298","Driftnet Ltd",22058
-"AS398324","Censys, Inc.",13953
+"AS398324","Censys, Inc.",13954
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10444
 "AS14061","DigitalOcean, LLC",8076
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",774
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
-"AS51167","Contabo GmbH",708
+"AS51167","Contabo GmbH",709
 "AS10439","CariNet, Inc.",673
 "AS14618","Amazon.com, Inc.",662
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -112,7 +112,7 @@ ASN,Organization,IP_Count
 "AS137409","GSL Networks Pty LTD",128
 "AS13238","YANDEX LLC",127
 "AS19905","Neustar Security Services",127
-"AS34984","Superonline Iletisim Hizmetleri A.S.",126
+"AS34984","Superonline Iletisim Hizmetleri A.S.",127
 "AS36007","Kamatera, Inc.",122
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
@@ -246,6 +246,7 @@ ASN,Organization,IP_Count
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS55933","Cloudie Limited",28
 "AS210509","Optimum Line for Internet Services Ltd.",27
+"AS329009","Spectrum Internet Service Ltd",27
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
 "AS53118","NETLINE TELECOM",27
@@ -258,7 +259,6 @@ ASN,Organization,IP_Count
 "AS2200","Renater",26
 "AS23693","PT. Telekomunikasi Selular",26
 "AS3209","Vodafone GmbH",26
-"AS329009","Spectrum Internet Service Ltd",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS8796","FD-298-8796",26
 "AS18881","TELEFÔNICA BRASIL S.A",25
