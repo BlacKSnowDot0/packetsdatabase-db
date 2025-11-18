@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87762
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70575
 "AS211298","Driftnet Ltd",22059
-"AS398324","Censys, Inc.",13963
+"AS398324","Censys, Inc.",13964
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10444
 "AS14061","DigitalOcean, LLC",8080
@@ -306,6 +306,7 @@ ASN,Organization,IP_Count
 "AS812","Rogers Communications Canada Inc.",21
 "AS9299","Philippine Long Distance Telephone Co.",21
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
+"AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",20
 "AS16591","Google Fiber Inc.",20
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
@@ -317,7 +318,6 @@ ASN,Organization,IP_Count
 "AS136142","Enigma Fiber Pvt Ltd",19
 "AS140061","China Telecom",19
 "AS14593","Space Exploration Technologies Corporation",19
-"AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",19
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",19
 "AS22927","Telefonica de Argentina",19
 "AS24348","CERNET2 IX at Tsinghua University",19
@@ -425,6 +425,7 @@ ASN,Organization,IP_Count
 "AS9770","LG HelloVision Corp.",12
 "AS984","OCTOPUS WEB SOLUTION INC",12
 "AS11351","Charter Communications Inc",11
+"AS135059","Lao Asia Pacific Satellite Co., Ltd.",11
 "AS142032","High Family Technology Co., Limited",11
 "AS17552","TRUE INTERNET CORPORATION CO. LTD.",11
 "AS200651","FlokiNET ehf",11
@@ -439,7 +440,6 @@ ASN,Organization,IP_Count
 "AS58563","CHINANET Hubei province network",11
 "AS12271","Charter Communications Inc",10
 "AS1267","RIPE Network Coordination Centre",10
-"AS135059","Lao Asia Pacific Satellite Co., Ltd.",10
 "AS149359","PT Persada Data Multimedia",10
 "AS153443","VPSRE.NET LLC",10
 "AS24835","Vodafone Data - Egypt",10
@@ -805,6 +805,7 @@ ASN,Organization,IP_Count
 "AS5416","BEYON B.S.C.",4
 "AS5603","Telekom Slovenije, d.d.",4
 "AS58369","PT. Fiber Networks Indonesia",4
+"AS59134","PT. Datacomm Diangraha",4
 "AS59142","Pemerintah Kota Batam",4
 "AS60404","The Infrastructure Group B.V.",4
 "AS7482","Asia Pacific On-line Service Inc.",4
@@ -996,7 +997,6 @@ ASN,Organization,IP_Count
 "AS56478","Hyperoptic Ltd",3
 "AS57043","HOSTKEY B.V.",3
 "AS58715","Earth Telecommunication ( pvt ) Limited",3
-"AS59134","PT. Datacomm Diangraha",3
 "AS59497","Buknet LLC",3
 "AS6057","Administracion Nacional de Telecomunicaciones",3
 "AS61317","Hivelocity Inc",3
