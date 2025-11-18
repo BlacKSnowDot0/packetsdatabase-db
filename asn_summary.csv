@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87762
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70575
 "AS211298","Driftnet Ltd",22054
-"AS398324","Censys, Inc.",13932
+"AS398324","Censys, Inc.",13933
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10441
-"AS14061","DigitalOcean, LLC",8071
+"AS396982","Google LLC",10442
+"AS14061","DigitalOcean, LLC",8072
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5891
 "AS4134","Chinanet",5031
@@ -30,8 +30,8 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1412
-"AS32475","Internap Holding LLC",1392
-"AS49870","Alsycon B.V.",1362
+"AS32475","Internap Holding LLC",1393
+"AS49870","Alsycon B.V.",1363
 "AS13335","Cloudflare, Inc.",1346
 "AS36352","HostPapa",1336
 "AS215269","LAZYCLOUD LTD",1312
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",774
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS51167","Contabo GmbH",707
-"AS10439","CariNet, Inc.",671
+"AS10439","CariNet, Inc.",672
 "AS14618","Amazon.com, Inc.",662
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS4837","CHINA UNICOM China169 Backbone",581
@@ -89,7 +89,7 @@ ASN,Organization,IP_Count
 "AS208843","Alpha Strike Labs GmbH",277
 "AS213613","BOTSHIELD LTD",275
 "AS48090","TECHOFF SRV LIMITED",255
-"AS18403","FPT Telecom Company",253
+"AS18403","FPT Telecom Company",254
 "AS60223","Netiface Limited",250
 "AS141718","haoxiangyun",234
 "AS209272","Alviva Holding Limited",230
