@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87762
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70575
 "AS211298","Driftnet Ltd",22054
-"AS398324","Censys, Inc.",13930
+"AS398324","Censys, Inc.",13932
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10440
-"AS14061","DigitalOcean, LLC",8070
+"AS14061","DigitalOcean, LLC",8071
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5891
 "AS4134","Chinanet",5031
@@ -38,7 +38,7 @@ ASN,Organization,IP_Count
 "AS174","Cogent Communications",1192
 "AS22552","eSited Solutions",1183
 "AS204428","SS-Net",1182
-"AS23470","ReliableSite.Net LLC",1169
+"AS23470","ReliableSite.Net LLC",1170
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1076
@@ -372,6 +372,7 @@ ASN,Organization,IP_Count
 "AS272547","Servicos de Infraestrutura e Datacenter",15
 "AS28126","BRISANET SERVICOS DE TELECOMUNICACOES LTDA",15
 "AS28201","Companhia Itabirana Telecomunicações Ltda",15
+"AS28546","Servnet Mexico, S.A. de C.V.",15
 "AS31113","Artkomm LLC",15
 "AS397283","RocketNode Inc",15
 "AS5607","Sky UK Limited",15
@@ -384,7 +385,6 @@ ASN,Organization,IP_Count
 "AS20011","Dimension Data",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS27947","Telconet S.A",14
-"AS28546","Servnet Mexico, S.A. de C.V.",14
 "AS30600","Metronet",14
 "AS3352","TELEFONICA DE ESPANA S.A.U.",14
 "AS37457","Telkom SA Ltd.",14
@@ -540,6 +540,7 @@ ASN,Organization,IP_Count
 "AS50923","Metroset Ltd.",7
 "AS55423","JasTel Network",7
 "AS56005","Zhengzhou Fastidc Technology Co.,Ltd.",7
+"AS56694","LLC Smart Ape",7
 "AS58821","PT Lintas Jaringan Nusantara",7
 "AS63023","GTHost",7
 "AS63838","Hengyang",7
@@ -610,7 +611,6 @@ ASN,Organization,IP_Count
 "AS48314","Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG",6
 "AS48642","Joint stock company ""For""",6
 "AS55699","PT. Cemerlang Multimedia",6
-"AS56694","LLC Smart Ape",6
 "AS56971","CGI GLOBAL LIMITED",6
 "AS58495","PT Parsaoran Global Datatrans",6
 "AS58519","Cloud Computing Corporation",6
