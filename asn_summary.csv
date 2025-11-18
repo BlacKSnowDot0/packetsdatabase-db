@@ -1,14 +1,14 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87758
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87759
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70575
-"AS211298","Driftnet Ltd",22051
-"AS398324","Censys, Inc.",13915
+"AS211298","Driftnet Ltd",22052
+"AS398324","Censys, Inc.",13919
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10437
+"AS396982","Google LLC",10439
 "AS14061","DigitalOcean, LLC",8064
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5886
-"AS4134","Chinanet",5030
+"AS4134","Chinanet",5031
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4447
 "AS16509","Amazon.com, Inc.",4345
@@ -18,9 +18,9 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3616
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3168
+"AS51396","Pfcloud UG",3169
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2788
+"AS8075","Microsoft Corporation",2789
 "AS6939","Hurricane Electric LLC",2599
 "AS142002","Scloud Pte Ltd",2560
 "AS9808","China Mobile",2078
@@ -30,10 +30,10 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1412
-"AS32475","Internap Holding LLC",1386
+"AS32475","Internap Holding LLC",1387
 "AS49870","Alsycon B.V.",1362
 "AS13335","Cloudflare, Inc.",1346
-"AS36352","HostPapa",1335
+"AS36352","HostPapa",1336
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1192
 "AS22552","eSited Solutions",1183
@@ -64,7 +64,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",513
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",505
-"AS53667","FranTech Solutions",495
+"AS53667","FranTech Solutions",496
 "AS12876","ONLINE S.A.S.",493
 "AS50360","Tamatiya EOOD",492
 "AS9829","Bharat Sanchar Nigam Ltd",469
@@ -134,7 +134,7 @@ ASN,Organization,IP_Count
 "AS28209","Under Servicos de Internet Ltda",83
 "AS16735","ALGAR TELECOM S/A",81
 "AS5617","Orange Polska Spolka Akcyjna",81
-"AS11320","LightEdge Solutions",79
+"AS11320","LightEdge Solutions",80
 "AS271795","SERVITELCONET CIA. LTDA.",79
 "AS200019","ALEXHOST SRL",78
 "AS211736","FOP Dmytro Nedilskyi",76
@@ -177,7 +177,7 @@ ASN,Organization,IP_Count
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS5650","Frontier Communications of America, Inc.",54
 "AS149746","PT Blip Integrator Provider",53
-"AS2856","British Telecommunications PLC",50
+"AS2856","British Telecommunications PLC",51
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
 "AS12816","Leibniz-Rechenzentrum",47
@@ -202,12 +202,12 @@ ASN,Organization,IP_Count
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",40
 "AS27699","TELEFÔNICA BRASIL S.A",39
 "AS8048","CANTV Servicios, Venezuela",39
+"AS215240","Silent Connection Ltd.",38
 "AS26599","TELEFÔNICA BRASIL S.A",38
 "AS4538","China Education and Research Network Center",38
 "AS5089","Virgin Media Limited",38
 "AS12322","Free SAS",37
 "AS1680","Cellcom Fixed Line Communication L.P",37
-"AS215240","Silent Connection Ltd.",37
 "AS46475","Limestone Networks, Inc.",37
 "AS8167","V tal",37
 "AS210558","1337 Services GmbH",36
