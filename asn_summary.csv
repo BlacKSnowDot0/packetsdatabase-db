@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87762
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70575
 "AS211298","Driftnet Ltd",22054
-"AS398324","Censys, Inc.",13934
+"AS398324","Censys, Inc.",13936
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10442
 "AS14061","DigitalOcean, LLC",8072
@@ -18,13 +18,13 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3617
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3170
+"AS51396","Pfcloud UG",3171
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2790
 "AS6939","Hurricane Electric LLC",2603
 "AS142002","Scloud Pte Ltd",2560
 "AS9808","China Mobile",2078
-"AS202425","IP Volume inc",1764
+"AS202425","IP Volume inc",1765
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1532
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -150,10 +150,10 @@ ASN,Organization,IP_Count
 "AS328867","Corebach Backbone SARL",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
 "AS215590","DpkgSoft International Limited",66
+"AS55720","Gigabit Hosting Sdn Bhd",66
 "AS23724","IDC, China Telecommunications Corporation",65
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
-"AS55720","Gigabit Hosting Sdn Bhd",65
 "AS57588","Hayat for Internet & communication LLC",65
 "AS150263","PT Alnet Telekomunikasi Indonesia",64
 "AS17378","TierPoint, LLC",63
@@ -2518,6 +2518,7 @@ ASN,Organization,IP_Count
 "AS3249","Telia Eesti AS",1
 "AS3253","PJSC ""Vimpelcom""",1
 "AS3261","LLC ""FTICOM""",1
+"AS32613","Leaseweb Canada Inc.",1
 "AS327804","Municipal Network Services",1
 "AS327813","VIDOLU Group Pty Ltd-Web4Africa",1
 "AS327872","IBITS Internet (pty) Ltd",1
