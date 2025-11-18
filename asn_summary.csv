@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",13924
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10440
-"AS14061","DigitalOcean, LLC",8067
+"AS14061","DigitalOcean, LLC",8068
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5889
 "AS4134","Chinanet",5031
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3169
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2789
+"AS8075","Microsoft Corporation",2790
 "AS6939","Hurricane Electric LLC",2602
 "AS142002","Scloud Pte Ltd",2560
 "AS9808","China Mobile",2078
@@ -91,7 +91,7 @@ ASN,Organization,IP_Count
 "AS48090","TECHOFF SRV LIMITED",255
 "AS18403","FPT Telecom Company",253
 "AS60223","Netiface Limited",250
-"AS141718","haoxiangyun",233
+"AS141718","haoxiangyun",234
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",223
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
@@ -224,12 +224,12 @@ ASN,Organization,IP_Count
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
+"AS149705","PT Wijaya Trimitra Indonesia",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
 "AS269193","Iktelecom Ltda",32
 "AS44592","SkyLink Data Center BV",32
 "AS55990","Huawei Cloud Service data center",32
 "AS1241","RIPE Network Coordination Centre",31
-"AS149705","PT Wijaya Trimitra Indonesia",31
 "AS17557","Pakistan Telecommuication company limited",31
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",31
 "AS1103","SURF B.V.",30
