@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87762
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70575
 "AS211298","Driftnet Ltd",22058
-"AS398324","Censys, Inc.",13949
+"AS398324","Censys, Inc.",13951
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10444
-"AS14061","DigitalOcean, LLC",8075
+"AS14061","DigitalOcean, LLC",8076
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5891
 "AS4134","Chinanet",5032
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1412
-"AS32475","Internap Holding LLC",1398
+"AS32475","Internap Holding LLC",1399
 "AS49870","Alsycon B.V.",1363
 "AS13335","Cloudflare, Inc.",1347
 "AS36352","HostPapa",1336
@@ -168,11 +168,11 @@ ASN,Organization,IP_Count
 "AS20278","Nexeon Technologies, Inc.",57
 "AS20001","Charter Communications Inc",56
 "AS200514","KnownSRV Ltd.",56
+"AS210644","AEZA INTERNATIONAL LTD",56
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS19318","Interserver, Inc",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
-"AS210644","AEZA INTERNATIONAL LTD",55
 "AS213877","u1host ltd",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS5650","Frontier Communications of America, Inc.",54
@@ -209,9 +209,9 @@ ASN,Organization,IP_Count
 "AS5089","Virgin Media Limited",38
 "AS12322","Free SAS",37
 "AS1680","Cellcom Fixed Line Communication L.P",37
+"AS30058","FDCservers.net",37
 "AS8167","V tal",37
 "AS210558","1337 Services GmbH",36
-"AS30058","FDCservers.net",36
 "AS42624","Global-Data System IT Corporation",36
 "AS213790","Limited Network LTD",35
 "AS30083","velia.net",35
