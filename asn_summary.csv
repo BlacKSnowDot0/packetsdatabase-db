@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4345
 "AS45102","Alibaba (US) Technology Co., Ltd.",4002
 "AS396998","Path Network, Inc.",3992
-"AS0","",3626
+"AS0","",3627
 "AS63949","Akamai Technologies, Inc.",3617
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",505
 "AS12876","ONLINE S.A.S.",498
-"AS53667","FranTech Solutions",497
+"AS53667","FranTech Solutions",498
 "AS50360","Tamatiya EOOD",492
 "AS9829","Bharat Sanchar Nigam Ltd",471
 "AS212238","Datacamp Limited",463
@@ -407,6 +407,7 @@ ASN,Organization,IP_Count
 "AS38841","kbro CO. Ltd.",13
 "AS48282","Hosting technology LTD",13
 "AS53006","ALGAR TELECOM S/A",13
+"AS11351","Charter Communications Inc",12
 "AS202520","SkyPass Solutions Sp. z.o.o.",12
 "AS2116","GLOBALCONNECT AS",12
 "AS213438","ColocaTel Inc.",12
@@ -424,7 +425,6 @@ ASN,Organization,IP_Count
 "AS9318","SK Broadband Co Ltd",12
 "AS9770","LG HelloVision Corp.",12
 "AS984","OCTOPUS WEB SOLUTION INC",12
-"AS11351","Charter Communications Inc",11
 "AS135059","Lao Asia Pacific Satellite Co., Ltd.",11
 "AS142032","High Family Technology Co., Limited",11
 "AS17552","TRUE INTERNET CORPORATION CO. LTD.",11
