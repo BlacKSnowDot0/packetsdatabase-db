@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87764
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22061
-"AS398324","Censys, Inc.",14009
+"AS211298","Driftnet Ltd",22062
+"AS398324","Censys, Inc.",14010
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10453
 "AS14061","DigitalOcean, LLC",8097
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4447
 "AS16509","Amazon.com, Inc.",4345
-"AS45102","Alibaba (US) Technology Co., Ltd.",4011
+"AS45102","Alibaba (US) Technology Co., Ltd.",4012
 "AS396998","Path Network, Inc.",3992
 "AS0","",3631
 "AS63949","Akamai Technologies, Inc.",3619
@@ -108,7 +108,7 @@ ASN,Organization,IP_Count
 "AS42237","w1n ltd",145
 "AS47105","Vault Dweller OU",141
 "AS262551","Farol Telecom",139
-"AS14956","RouterHosting LLC",131
+"AS14956","RouterHosting LLC",132
 "AS137409","GSL Networks Pty LTD",128
 "AS13238","YANDEX LLC",127
 "AS19905","Neustar Security Services",127
@@ -122,7 +122,7 @@ ASN,Organization,IP_Count
 "AS47331","TTNet A.S.",104
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",100
 "AS40021","Nubes, LLC",97
-"AS6739","VODAFONE ONO, S.A.",94
+"AS6739","VODAFONE ONO, S.A.",95
 "AS205352","KABELNET LTD",93
 "AS63018","Dedicated.com",92
 "AS210125","PRIAM NET Sh.p.k.",89
@@ -1128,6 +1128,7 @@ ASN,Organization,IP_Count
 "AS17622","China Unicom Guangzhou network",2
 "AS17623","China Unicom Shenzen network",2
 "AS17813","Mahanagar Telephone Nigam Limited",2
+"AS17839","LG HelloVision Corp.",2
 "AS18001","Dialog Axiata Plc",2
 "AS18103","Neuviz Net",2
 "AS18233","Philippine Telelgraph & Telephone",2
@@ -1802,7 +1803,6 @@ ASN,Organization,IP_Count
 "AS17547","M1 NET LTD",1
 "AS17577","LG HelloVision Corp.",1
 "AS17670","PT. MNC Kabel Mediacom",1
-"AS17839","LG HelloVision Corp.",1
 "AS17917","Quadrant Televentures Limited",1
 "AS18004","PT WIRELESS INDONESIA ( WIN )",1
 "AS18013","ASLINE LIMITED",1
