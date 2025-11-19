@@ -1,18 +1,18 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87764
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22060
+"AS211298","Driftnet Ltd",22061
 "AS398324","Censys, Inc.",14004
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10452
 "AS14061","DigitalOcean, LLC",8095
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5895
+"AS16276","OVH SAS",5896
 "AS4134","Chinanet",5032
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4447
 "AS16509","Amazon.com, Inc.",4345
-"AS45102","Alibaba (US) Technology Co., Ltd.",4010
+"AS45102","Alibaba (US) Technology Co., Ltd.",4011
 "AS396998","Path Network, Inc.",3992
 "AS0","",3631
 "AS63949","Akamai Technologies, Inc.",3619
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1412
 "AS32475","Internap Holding LLC",1405
 "AS49870","Alsycon B.V.",1363
-"AS13335","Cloudflare, Inc.",1352
+"AS13335","Cloudflare, Inc.",1353
 "AS36352","HostPapa",1336
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1195
@@ -56,7 +56,7 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",664
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS4837","CHINA UNICOM China169 Backbone",584
-"AS3462","Chunghwa Telecom Co., Ltd.",579
+"AS3462","Chunghwa Telecom Co., Ltd.",580
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS9009","M247 Europe SRL",557
@@ -532,6 +532,7 @@ ASN,Organization,IP_Count
 "AS24961","WIIT AG",7
 "AS25490","PJSC Rostelecom",7
 "AS263238","Eliana Vanessa Morocho Oña",7
+"AS266015","JC2000 Telecomunicações Ltda",7
 "AS267507","SRX TECNOLOGIA DA INFORMACAO LTDA",7
 "AS269003","KIMNET SOLUCOES",7
 "AS272928","P&C ON LINE S.R.L. (NETWAY INTERNET)",7
@@ -587,7 +588,6 @@ ASN,Organization,IP_Count
 "AS25513","PJSC Moscow city telephone network",6
 "AS262262","METRONET",6
 "AS262773","PROXXIMA TELECOMUNICACOES LTDA",6
-"AS266015","JC2000 Telecomunicações Ltda",6
 "AS268976","Weclix Telecom S/A",6
 "AS273683","ALLREDE TELECOM LTDA",6
 "AS27747","Telecentro S.A.",6
