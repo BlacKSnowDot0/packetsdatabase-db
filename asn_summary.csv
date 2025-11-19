@@ -64,7 +64,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",518
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",505
-"AS12876","ONLINE S.A.S.",502
+"AS12876","ONLINE S.A.S.",503
 "AS53667","FranTech Solutions",498
 "AS50360","Tamatiya EOOD",492
 "AS9829","Bharat Sanchar Nigam Ltd",473
@@ -164,8 +164,8 @@ ASN,Organization,IP_Count
 "AS4812","China Telecom (Group)",60
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",59
 "AS49544","i3D.net B.V",59
+"AS200514","KnownSRV Ltd.",58
 "AS20115","Charter Communications",58
-"AS200514","KnownSRV Ltd.",57
 "AS20278","Nexeon Technologies, Inc.",57
 "AS20001","Charter Communications Inc",56
 "AS210644","AEZA INTERNATIONAL LTD",56
@@ -3012,5 +3012,6 @@ ASN,Organization,IP_Count
 "AS9583","Sify Limited",1
 "AS9595","NTT-ME Corporation",1
 "AS9617","JCOM Co., Ltd.",1
+"AS9790","Two Degrees Mobile Limited",1
 "AS9891","CS Loxinfo Public Company Limited",1
 "AS9924","Taiwan Fixed Network, Telco and Network Service Provider.",1
