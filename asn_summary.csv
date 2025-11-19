@@ -2,17 +2,17 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87764
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22060
-"AS398324","Censys, Inc.",14001
+"AS398324","Censys, Inc.",14003
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10452
 "AS14061","DigitalOcean, LLC",8095
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5894
+"AS16276","OVH SAS",5895
 "AS4134","Chinanet",5032
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4447
 "AS16509","Amazon.com, Inc.",4345
-"AS45102","Alibaba (US) Technology Co., Ltd.",4009
+"AS45102","Alibaba (US) Technology Co., Ltd.",4010
 "AS396998","Path Network, Inc.",3992
 "AS0","",3631
 "AS63949","Akamai Technologies, Inc.",3619
@@ -157,15 +157,15 @@ ASN,Organization,IP_Count
 "AS57588","Hayat for Internet & communication LLC",65
 "AS150263","PT Alnet Telekomunikasi Indonesia",64
 "AS17378","TierPoint, LLC",63
+"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",62
 "AS140717","China Unicom",61
-"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",61
 "AS6128","Cablevision Systems Corp.",61
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS4812","China Telecom (Group)",60
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",59
 "AS49544","i3D.net B.V",59
+"AS20115","Charter Communications",58
 "AS200514","KnownSRV Ltd.",57
-"AS20115","Charter Communications",57
 "AS20278","Nexeon Technologies, Inc.",57
 "AS20001","Charter Communications Inc",56
 "AS210644","AEZA INTERNATIONAL LTD",56
@@ -515,6 +515,7 @@ ASN,Organization,IP_Count
 "AS1221","Telstra Limited",7
 "AS133661","Netplus Broadband Services Private Limited",7
 "AS135478","PT. Cyberindo Aditama",7
+"AS13977","Consolidated Communications, Inc.",7
 "AS141433","Netcom Internet Service",7
 "AS149360","PT Indo Telemedia Solusi",7
 "AS153096","PT High Speed Connection Network",7
@@ -557,7 +558,6 @@ ASN,Organization,IP_Count
 "AS135523","Multinet Broadband",6
 "AS135905","VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",6
 "AS135953","Vietnam Online Network Solution Joint Stock Compnay",6
-"AS13977","Consolidated Communications, Inc.",6
 "AS13999","Mega Cable, S.A. de C.V.",6
 "AS141167","AgotoZ HK Limited",6
 "AS149078","VPSMMO TECHNOLOGY COMPANY LIMITED",6
