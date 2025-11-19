@@ -35,8 +35,8 @@ ASN,Organization,IP_Count
 "AS13335","Cloudflare, Inc.",1353
 "AS36352","HostPapa",1336
 "AS215269","LAZYCLOUD LTD",1312
+"AS23470","ReliableSite.Net LLC",1213
 "AS174","Cogent Communications",1195
-"AS23470","ReliableSite.Net LLC",1191
 "AS22552","eSited Solutions",1184
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
@@ -449,6 +449,7 @@ ASN,Organization,IP_Count
 "AS36903","Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",10
 "AS37705","TOPNET",10
 "AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",10
+"AS400992","ZhouyiSat Communications",10
 "AS41420","Xentech B.V.",10
 "AS47524","Turksat Uydu Haberlesme ve Kablo TV Isletme A.S.",10
 "AS49434","FBW NETWORKS SAS",10
@@ -473,7 +474,6 @@ ASN,Organization,IP_Count
 "AS267280","YELLOW CONNECT MULTIMIDIA LTDA ME",9
 "AS29302","Hosting Services Inc",9
 "AS38880","Micron21 Datacentre Pty Ltd",9
-"AS400992","ZhouyiSat Communications",9
 "AS40244","Turnkey Internet Inc.",9
 "AS4609","Companhia de Telecomunicacoes de Macau",9
 "AS46606","Unified Layer",9
