@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",13989
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10452
-"AS14061","DigitalOcean, LLC",8093
+"AS14061","DigitalOcean, LLC",8094
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5893
 "AS4134","Chinanet",5032
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS12876","ONLINE S.A.S.",499
 "AS53667","FranTech Solutions",498
 "AS50360","Tamatiya EOOD",492
-"AS9829","Bharat Sanchar Nigam Ltd",471
+"AS9829","Bharat Sanchar Nigam Ltd",472
 "AS212238","Datacamp Limited",463
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",405
@@ -999,6 +999,7 @@ ASN,Organization,IP_Count
 "AS58715","Earth Telecommunication ( pvt ) Limited",3
 "AS59497","Buknet LLC",3
 "AS6057","Administracion Nacional de Telecomunicaciones",3
+"AS61112","AKILE LTD",3
 "AS61317","Hivelocity Inc",3
 "AS61908","Nova Net Telecomunicações Ltda",3
 "AS63139","BEDGE CO LIMITED",3
@@ -1450,7 +1451,6 @@ ASN,Organization,IP_Count
 "AS60522","KomMITT-Ratingen GmbH",2
 "AS60631","Pars Parva System LLC",2
 "AS6079","RCN",2
-"AS61112","AKILE LTD",2
 "AS6147","Telefonica del Peru S.A.A.",2
 "AS61844","America-NET Ltda.",2
 "AS61877","SELECT TELECOM E REDES LTDA",2
