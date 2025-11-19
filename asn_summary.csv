@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87764
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22060
-"AS398324","Censys, Inc.",13994
+"AS398324","Censys, Inc.",13995
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10452
 "AS14061","DigitalOcean, LLC",8095
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3178
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2792
-"AS6939","Hurricane Electric LLC",2608
+"AS6939","Hurricane Electric LLC",2610
 "AS142002","Scloud Pte Ltd",2560
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1767
@@ -98,7 +98,7 @@ ASN,Organization,IP_Count
 "AS14987","Rethem Hosting LLC",215
 "AS12555","Data-center IMAQLIQ Ltd.",192
 "AS12389","PJSC Rostelecom",191
-"AS29066","velia.net Internetdienste GmbH",190
+"AS29066","velia.net Internetdienste GmbH",191
 "AS29484","Ruhr-Universitaet Bochum",185
 "AS7552","Viettel Group",182
 "AS63199","CDS Global Cloud Co., Ltd",176
@@ -122,8 +122,8 @@ ASN,Organization,IP_Count
 "AS47331","TTNet A.S.",104
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",100
 "AS40021","Nubes, LLC",97
+"AS6739","VODAFONE ONO, S.A.",94
 "AS205352","KABELNET LTD",93
-"AS6739","VODAFONE ONO, S.A.",93
 "AS63018","Dedicated.com",92
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS8560","IONOS SE",89
@@ -230,10 +230,10 @@ ASN,Organization,IP_Count
 "AS44592","SkyLink Data Center BV",32
 "AS55990","Huawei Cloud Service data center",32
 "AS1241","RIPE Network Coordination Centre",31
+"AS146817","Hubei Feixun Network Co., Ltd",31
 "AS17557","Pakistan Telecommuication company limited",31
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",31
 "AS1103","SURF B.V.",30
-"AS146817","Hubei Feixun Network Co., Ltd",30
 "AS200593","PROSPERO OOO",30
 "AS204834","Shabakieh Isfahan Co PJSC",30
 "AS43641","SOLLUTIUM EU Sp z.o.o.",30
@@ -280,12 +280,12 @@ ASN,Organization,IP_Count
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",24
 "AS197309","RS-Media LLC",23
 "AS198037","SPACECORE SOLUTION LTD",23
+"AS271597","NEW LINK CONNECT",23
 "AS4847","China Networks Inter-Exchange",23
 "AS62240","Clouvider Limited",23
 "AS7303","Telecom Argentina S.A.",23
 "AS17561","Larus Limited",22
 "AS213010","Gening Nikita Dmitrievich",22
-"AS271597","NEW LINK CONNECT",22
 "AS41745","Baykov Ilya Sergeevich",22
 "AS43289","Trabia SRL",22
 "AS51430","AltusHost B.V.",22
@@ -781,6 +781,7 @@ ASN,Organization,IP_Count
 "AS35104","Jusan Mobile JSC",4
 "AS35916","MULTACOM CORPORATION",4
 "AS36994","Vodacom",4
+"AS395570","Beanfield Technologies Inc.",4
 "AS39816","Volta Communications Sp.z.o.o.",4
 "AS39891","Saudi Telecom Company JSC",4
 "AS399296","Rackdog, LLC",4
@@ -1335,7 +1336,6 @@ ASN,Organization,IP_Count
 "AS39421","Sapinet SAS",2
 "AS395201","Allnodes Inc",2
 "AS395379","SCI REMC",2
-"AS395570","Beanfield Technologies Inc.",2
 "AS395839","HOSTKEY",2
 "AS398991","X99",2
 "AS399065","Dixie EPA",2
