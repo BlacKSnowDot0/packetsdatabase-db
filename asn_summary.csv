@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14011
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10453
-"AS14061","DigitalOcean, LLC",8098
+"AS14061","DigitalOcean, LLC",8100
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5897
 "AS4134","Chinanet",5032
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS13335","Cloudflare, Inc.",1353
 "AS36352","HostPapa",1336
 "AS215269","LAZYCLOUD LTD",1312
-"AS23470","ReliableSite.Net LLC",1214
+"AS23470","ReliableSite.Net LLC",1216
 "AS174","Cogent Communications",1195
 "AS22552","eSited Solutions",1184
 "AS204428","SS-Net",1182
@@ -319,6 +319,7 @@ ASN,Organization,IP_Count
 "AS136142","Enigma Fiber Pvt Ltd",19
 "AS140061","China Telecom",19
 "AS14593","Space Exploration Technologies Corporation",19
+"AS202796","JSR IT B.V.",19
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",19
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",19
 "AS22927","Telefonica de Argentina",19
@@ -330,7 +331,6 @@ ASN,Organization,IP_Count
 "AS11878","tzulo, inc.",18
 "AS17638","ASN for TIANJIN Provincial Net of CT",18
 "AS18049","Taiwan Infrastructure Network Technologie",18
-"AS202796","JSR IT B.V.",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
 "AS207713","GLOBAL INTERNET SOLUTIONS LLC",18
 "AS24151","China Internet Network Infomation Center",18
