@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87763
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87764
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22059
-"AS398324","Censys, Inc.",13989
+"AS211298","Driftnet Ltd",22060
+"AS398324","Censys, Inc.",13990
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10452
-"AS14061","DigitalOcean, LLC",8094
+"AS14061","DigitalOcean, LLC",8095
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5893
 "AS4134","Chinanet",5032
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS13335","Cloudflare, Inc.",1350
 "AS36352","HostPapa",1336
 "AS215269","LAZYCLOUD LTD",1312
-"AS174","Cogent Communications",1194
+"AS174","Cogent Communications",1195
 "AS22552","eSited Solutions",1184
 "AS204428","SS-Net",1182
 "AS23470","ReliableSite.Net LLC",1175
@@ -64,7 +64,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",518
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",505
-"AS12876","ONLINE S.A.S.",500
+"AS12876","ONLINE S.A.S.",501
 "AS53667","FranTech Solutions",498
 "AS50360","Tamatiya EOOD",492
 "AS9829","Bharat Sanchar Nigam Ltd",472
@@ -2726,6 +2726,7 @@ ASN,Organization,IP_Count
 "AS45804","Meghbela Cable & Broadband Services (P) Ltd",1
 "AS45903","CMC Telecom Infrastructure Company",1
 "AS45942","Sikka Broadband Pvt. Ltd.",1
+"AS45974","NHNCLOUD",1
 "AS4621","Office of Info.Tech. Admin. for Educational Development",1
 "AS46238","WT Services, Inc.",1
 "AS4657","Starhub Ltd.",1
