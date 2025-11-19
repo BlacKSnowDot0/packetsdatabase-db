@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87764
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22060
-"AS398324","Censys, Inc.",13998
+"AS398324","Censys, Inc.",14001
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10452
 "AS14061","DigitalOcean, LLC",8095
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS12876","ONLINE S.A.S.",502
 "AS53667","FranTech Solutions",498
 "AS50360","Tamatiya EOOD",492
-"AS9829","Bharat Sanchar Nigam Ltd",472
+"AS9829","Bharat Sanchar Nigam Ltd",473
 "AS212238","Datacamp Limited",463
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
@@ -200,9 +200,9 @@ ASN,Organization,IP_Count
 "AS21928","T-Mobile USA, Inc.",40
 "AS23969","TOT Public Company Limited",40
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",40
+"AS30058","FDCservers.net",40
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",40
 "AS27699","TELEFÔNICA BRASIL S.A",39
-"AS30058","FDCservers.net",39
 "AS46475","Limestone Networks, Inc.",39
 "AS8048","CANTV Servicios, Venezuela",39
 "AS26599","TELEFÔNICA BRASIL S.A",38
@@ -265,6 +265,7 @@ ASN,Organization,IP_Count
 "AS21127","Joint Stock Company TransTeleCom",25
 "AS24560","Bharti Airtel Limited",25
 "AS36947","Telecom Algeria",25
+"AS4847","China Networks Inter-Exchange",25
 "AS55836","Reliance Jio Infocomm Limited",25
 "AS56067","Metrabyte Co.,Ltd",25
 "AS58224","Iran Telecommunication Company PJS",25
@@ -281,7 +282,6 @@ ASN,Organization,IP_Count
 "AS197309","RS-Media LLC",23
 "AS198037","SPACECORE SOLUTION LTD",23
 "AS271597","NEW LINK CONNECT",23
-"AS4847","China Networks Inter-Exchange",23
 "AS62240","Clouvider Limited",23
 "AS7303","Telecom Argentina S.A.",23
 "AS17561","Larus Limited",22
