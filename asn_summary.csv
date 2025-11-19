@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87764
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22061
-"AS398324","Censys, Inc.",14004
+"AS398324","Censys, Inc.",14005
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10452
-"AS14061","DigitalOcean, LLC",8096
+"AS396982","Google LLC",10453
+"AS14061","DigitalOcean, LLC",8097
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5896
 "AS4134","Chinanet",5032
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
-"AS208046","ColocationX Ltd.",826
+"AS208046","ColocationX Ltd.",827
 "AS215925","VPSVAULT.HOST LTD",825
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",777
@@ -697,6 +697,7 @@ ASN,Organization,IP_Count
 "AS53062","GGNET TELECOM BACKBONE",5
 "AS53167","SEBRATEL TECNOLOGIA LTDA",5
 "AS5410","Bouygues Telecom SA",5
+"AS5603","Telekom Slovenije, d.d.",5
 "AS56044","China Mobile Communications Corporation",5
 "AS56047","China Mobile Communications Corporation",5
 "AS56246","PT Sumber Data Indonesia",5
@@ -804,7 +805,6 @@ ASN,Organization,IP_Count
 "AS52941","SPACE NETWORK",4
 "AS53449","OEC Fiber",4
 "AS5416","BEYON B.S.C.",4
-"AS5603","Telekom Slovenije, d.d.",4
 "AS58369","PT. Fiber Networks Indonesia",4
 "AS59134","PT. Datacomm Diangraha",4
 "AS59142","Pemerintah Kota Batam",4
