@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87763
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22059
-"AS398324","Censys, Inc.",13986
+"AS398324","Censys, Inc.",13989
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10451
-"AS14061","DigitalOcean, LLC",8091
+"AS396982","Google LLC",10452
+"AS14061","DigitalOcean, LLC",8092
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5893
 "AS4134","Chinanet",5032
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3178
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2792
-"AS6939","Hurricane Electric LLC",2607
+"AS6939","Hurricane Electric LLC",2608
 "AS142002","Scloud Pte Ltd",2560
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1767
@@ -164,10 +164,10 @@ ASN,Organization,IP_Count
 "AS4812","China Telecom (Group)",60
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",59
 "AS49544","i3D.net B.V",59
+"AS200514","KnownSRV Ltd.",57
 "AS20115","Charter Communications",57
 "AS20278","Nexeon Technologies, Inc.",57
 "AS20001","Charter Communications Inc",56
-"AS200514","KnownSRV Ltd.",56
 "AS210644","AEZA INTERNATIONAL LTD",56
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
@@ -187,11 +187,11 @@ ASN,Organization,IP_Count
 "AS30633","Leaseweb USA, Inc.",46
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",45
 "AS141995","Contabo Asia Private Limited",44
+"AS215240","Silent Connection Ltd.",44
 "AS396356","Latitude.sh",44
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
 "AS152194","CTG Server Limited",43
-"AS215240","Silent Connection Ltd.",43
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",43
 "AS20473","The Constant Company, LLC",42
 "AS214497","Whitelabel Solutions, Ltd.",42
