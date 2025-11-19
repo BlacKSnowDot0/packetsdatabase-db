@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",13989
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10452
-"AS14061","DigitalOcean, LLC",8092
+"AS14061","DigitalOcean, LLC",8093
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5893
 "AS4134","Chinanet",5032
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1412
-"AS32475","Internap Holding LLC",1402
+"AS32475","Internap Holding LLC",1403
 "AS49870","Alsycon B.V.",1363
 "AS13335","Cloudflare, Inc.",1350
 "AS36352","HostPapa",1336
@@ -99,7 +99,7 @@ ASN,Organization,IP_Count
 "AS12555","Data-center IMAQLIQ Ltd.",192
 "AS12389","PJSC Rostelecom",191
 "AS29066","velia.net Internetdienste GmbH",190
-"AS29484","Ruhr-Universitaet Bochum",184
+"AS29484","Ruhr-Universitaet Bochum",185
 "AS7552","Viettel Group",182
 "AS63199","CDS Global Cloud Co., Ltd",176
 "AS401116","Nybula LLC",170
@@ -1322,6 +1322,7 @@ ASN,Organization,IP_Count
 "AS36692","Cisco OpenDNS, LLC",2
 "AS36728","Emery Telcom",2
 "AS36907","TV CABO ANGOLA LDA",2
+"AS37168","Cell C (Pty) Ltd",2
 "AS37284","Aljeel Aljadeed For Technology",2
 "AS37642","Comnet Pty Ltd",2
 "AS37693","OOREDOO TUNISIE SA",2
@@ -2587,7 +2588,6 @@ ASN,Organization,IP_Count
 "AS37081","Movicel Telecomunicacoes S.A.",1
 "AS37144","Unified Payment Services Limited",1
 "AS37148","Globacom Limited",1
-"AS37168","Cell C (Pty) Ltd",1
 "AS37182","Tanzania Education And Research Network",1
 "AS37334","JASCO CONVERGED SOLUTIONS (Pty) Ltd",1
 "AS37340","SPECTRANET LIMITED",1
