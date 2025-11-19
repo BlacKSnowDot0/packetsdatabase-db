@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22059
 "AS398324","Censys, Inc.",13982
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10448
+"AS396982","Google LLC",10449
 "AS14061","DigitalOcean, LLC",8090
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5892
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4447
 "AS16509","Amazon.com, Inc.",4345
-"AS45102","Alibaba (US) Technology Co., Ltd.",4002
+"AS45102","Alibaba (US) Technology Co., Ltd.",4003
 "AS396998","Path Network, Inc.",3992
 "AS0","",3629
 "AS63949","Akamai Technologies, Inc.",3617
@@ -509,6 +509,7 @@ ASN,Organization,IP_Count
 "AS6698","Virtual Systems LLC",8
 "AS7418","TELEFÓNICA CHILE S.A.",8
 "AS8386","VODAFONE NET ILETISIM HIZMETLERI ANONIM SIRKETI",8
+"AS8551","Bezeq International Ltd.",8
 "AS9541","Cyber Internet Services (Private) Limited",8
 "AS1221","Telstra Limited",7
 "AS133661","Netplus Broadband Services Private Limited",7
@@ -547,7 +548,6 @@ ASN,Organization,IP_Count
 "AS58821","PT Lintas Jaringan Nusantara",7
 "AS63023","GTHost",7
 "AS63838","Hengyang",7
-"AS8551","Bezeq International Ltd.",7
 "AS8764","Telia Lietuva, AB",7
 "AS9658","Eastern Telecommunications Philippines, Inc.",7
 "AS9981","Saero Network Service LTD",7
