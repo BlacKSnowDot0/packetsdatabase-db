@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87765
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22066
-"AS398324","Censys, Inc.",14029
+"AS398324","Censys, Inc.",14030
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10460
 "AS14061","DigitalOcean, LLC",8110
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3181
 "AS8075","Microsoft Corporation",2796
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2615
+"AS6939","Hurricane Electric LLC",2616
 "AS142002","Scloud Pte Ltd",2560
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1768
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS12876","ONLINE S.A.S.",505
 "AS201814","MEVSPACE sp. z o.o.",505
-"AS53667","FranTech Solutions",498
+"AS53667","FranTech Solutions",499
 "AS50360","Tamatiya EOOD",492
 "AS9829","Bharat Sanchar Nigam Ltd",475
 "AS212238","Datacamp Limited",463
@@ -350,6 +350,7 @@ ASN,Organization,IP_Count
 "AS45117","Ishan's Network",17
 "AS46375","Sonic Telecom LLC",17
 "AS50340","JSC Selectel",17
+"AS5607","Sky UK Limited",17
 "AS56630","Melbikomas UAB",17
 "AS9269","Hong Kong Broadband Network Ltd",17
 "AS140726","China Unicom",16
@@ -360,7 +361,6 @@ ASN,Organization,IP_Count
 "AS33363","Charter Communications, Inc",16
 "AS46261","QuickPacket, LLC",16
 "AS48753","AVA HOST SRL",16
-"AS5607","Sky UK Limited",16
 "AS6597","Coloblox Data Centers Inc",16
 "AS12849","Hot-Net internet services Ltd.",15
 "AS136515","Dasca Cable Services, Inc.",15
