@@ -2,19 +2,19 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87765
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22069
-"AS398324","Censys, Inc.",14034
+"AS398324","Censys, Inc.",14035
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10460
 "AS14061","DigitalOcean, LLC",8112
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5899
+"AS16276","OVH SAS",5900
 "AS4134","Chinanet",5032
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4448
 "AS16509","Amazon.com, Inc.",4345
 "AS45102","Alibaba (US) Technology Co., Ltd.",4017
 "AS396998","Path Network, Inc.",3992
-"AS0","",3634
+"AS0","",3635
 "AS63949","Akamai Technologies, Inc.",3621
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
@@ -61,7 +61,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",558
 "AS401120","cheapy.host LLC",557
 "AS198953","Proton66 OOO",527
-"AS51115","HLL LLC",521
+"AS51115","HLL LLC",522
 "AS140292","China Telecom",509
 "AS12876","ONLINE S.A.S.",506
 "AS201814","MEVSPACE sp. z o.o.",505
@@ -366,6 +366,7 @@ ASN,Organization,IP_Count
 "AS136515","Dasca Cable Services, Inc.",15
 "AS138915","Kaopu Cloud HK Limited",15
 "AS15704","XTRA TELECOM S.A.",15
+"AS19901","Brightspeed",15
 "AS199414","Noah Kolossa",15
 "AS202448","MVPS LTD",15
 "AS211619","MAXKO d.o.o.",15
@@ -382,7 +383,6 @@ ASN,Organization,IP_Count
 "AS11232","Midcontinent Communications",14
 "AS11427","Charter Communications Inc",14
 "AS12400","Partner Communications Ltd.",14
-"AS19901","Brightspeed",14
 "AS20011","Dimension Data",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS27947","Telconet S.A",14
@@ -459,6 +459,7 @@ ASN,Organization,IP_Count
 "AS62068","SpectraIP B.V.",10
 "AS9304","HGC Global Communications Limited",10
 "AS9930","TT DOTCOM SDN BHD",10
+"AS1221","Telstra Limited",9
 "AS12353","Vodafone Portugal - Communicacoes Pessoais S.A.",9
 "AS131596","TBC",9
 "AS133481","ADVANCED WIRELESS NETWORK COMPANY LIMITED",9
@@ -481,7 +482,6 @@ ASN,Organization,IP_Count
 "AS8346","SONATEL-AS Autonomous System",9
 "AS9038","Batelco Jordan",9
 "AS11172","Alestra, S. de R.L. de C.V.",8
-"AS1221","Telstra Limited",8
 "AS133982","Excitel Broadband Private Limited",8
 "AS135918","VIET DIGITAL TECHNOLOGY LIABILITY COMPANY",8
 "AS138754","Kerala Vision Broad Band Private Limited",8
