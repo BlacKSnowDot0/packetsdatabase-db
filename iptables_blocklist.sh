@@ -1,5 +1,21 @@
 #!/bin/bash
 # This script will add all IPs from the list to your iptables DROP chain.
+iptables -A INPUT -s 142.111.244.35 -j DROP
+iptables -A INPUT -s 45.166.100.18 -j DROP
+iptables -A INPUT -s 162.142.125.243 -j DROP
+iptables -A INPUT -s 162.142.125.241 -j DROP
+iptables -A INPUT -s 162.142.125.251 -j DROP
+iptables -A INPUT -s 204.76.203.52 -j DROP
+iptables -A INPUT -s 94.251.77.40 -j DROP
+iptables -A INPUT -s 5.182.17.111 -j DROP
+iptables -A INPUT -s 86.54.31.42 -j DROP
+iptables -A INPUT -s 94.141.185.194 -j DROP
+iptables -A INPUT -s 48.216.243.225 -j DROP
+iptables -A INPUT -s 43.242.247.122 -j DROP
+iptables -A INPUT -s 47.153.184.75 -j DROP
+iptables -A INPUT -s 20.127.201.239 -j DROP
+iptables -A INPUT -s 64.62.156.112 -j DROP
+iptables -A INPUT -s 192.159.99.95 -j DROP
 iptables -A INPUT -s 156.238.253.198 -j DROP
 iptables -A INPUT -s 92.204.255.106 -j DROP
 iptables -A INPUT -s 161.97.140.5 -j DROP
@@ -96940,8 +96956,8 @@ iptables -A INPUT -s 152.32.141.217 -j DROP
 iptables -A INPUT -s 193.141.60.118 -j DROP
 iptables -A INPUT -s 193.141.60.118 -j DROP
 iptables -A INPUT -s 165.154.51.90 -j DROP
-iptables -A INPUT -s 167.94.138.195 -j DROP
 iptables -A INPUT -s 178.128.253.94 -j DROP
+iptables -A INPUT -s 167.94.138.195 -j DROP
 iptables -A INPUT -s 149.34.245.204 -j DROP
 iptables -A INPUT -s 165.154.173.226 -j DROP
 iptables -A INPUT -s 152.32.129.154 -j DROP
@@ -96960,8 +96976,8 @@ iptables -A INPUT -s 85.203.15.180 -j DROP
 iptables -A INPUT -s 193.141.60.118 -j DROP
 iptables -A INPUT -s 193.141.60.118 -j DROP
 iptables -A INPUT -s 149.34.245.204 -j DROP
-iptables -A INPUT -s 165.154.173.226 -j DROP
 iptables -A INPUT -s 162.142.125.255 -j DROP
+iptables -A INPUT -s 165.154.173.226 -j DROP
 iptables -A INPUT -s 152.32.129.154 -j DROP
 iptables -A INPUT -s 152.32.141.217 -j DROP
 iptables -A INPUT -s 200.105.196.189 -j DROP
@@ -97948,8 +97964,8 @@ iptables -A INPUT -s 118.193.36.63 -j DROP
 iptables -A INPUT -s 185.247.137.24 -j DROP
 iptables -A INPUT -s 165.154.11.48 -j DROP
 iptables -A INPUT -s 199.45.155.94 -j DROP
-iptables -A INPUT -s 181.115.190.30 -j DROP
 iptables -A INPUT -s 162.142.125.242 -j DROP
+iptables -A INPUT -s 181.115.190.30 -j DROP
 iptables -A INPUT -s 152.32.134.166 -j DROP
 iptables -A INPUT -s 71.6.199.23 -j DROP
 iptables -A INPUT -s 193.141.60.118 -j DROP
