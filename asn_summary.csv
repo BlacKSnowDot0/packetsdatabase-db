@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87765
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22069
-"AS398324","Censys, Inc.",14035
+"AS398324","Censys, Inc.",14036
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10460
+"AS396982","Google LLC",10461
 "AS14061","DigitalOcean, LLC",8112
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5900
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4448
 "AS16509","Amazon.com, Inc.",4345
-"AS45102","Alibaba (US) Technology Co., Ltd.",4017
+"AS45102","Alibaba (US) Technology Co., Ltd.",4019
 "AS396998","Path Network, Inc.",3992
 "AS0","",3635
 "AS63949","Akamai Technologies, Inc.",3621
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1412
 "AS32475","Internap Holding LLC",1405
 "AS49870","Alsycon B.V.",1363
-"AS13335","Cloudflare, Inc.",1353
+"AS13335","Cloudflare, Inc.",1354
 "AS36352","HostPapa",1338
 "AS215269","LAZYCLOUD LTD",1312
 "AS23470","ReliableSite.Net LLC",1217
@@ -145,8 +145,8 @@ ASN,Organization,IP_Count
 "AS22773","Cox Communications Inc.",73
 "AS31898","Oracle Corporation",73
 "AS52053","REDHEBERG Association declaree",69
+"AS8402","PJSC ""Vimpelcom""",69
 "AS834","IPXO LLC",68
-"AS8402","PJSC ""Vimpelcom""",68
 "AS23724","IDC, China Telecommunications Corporation",67
 "AS328867","Corebach Backbone SARL",67
 "AS55720","Gigabit Hosting Sdn Bhd",67
