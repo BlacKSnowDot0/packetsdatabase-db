@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2615
 "AS142002","Scloud Pte Ltd",2560
 "AS9808","China Mobile",2078
-"AS202425","IP Volume inc",1767
+"AS202425","IP Volume inc",1768
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1532
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -101,7 +101,7 @@ ASN,Organization,IP_Count
 "AS12389","PJSC Rostelecom",191
 "AS29484","Ruhr-Universitaet Bochum",186
 "AS7552","Viettel Group",182
-"AS63199","CDS Global Cloud Co., Ltd",176
+"AS63199","CDS Global Cloud Co., Ltd",177
 "AS401116","Nybula LLC",170
 "AS206264","Amarutu Technology Ltd",153
 "AS50219","LNK SYSTEMS MUNTENIA SRL",153
@@ -1473,6 +1473,7 @@ ASN,Organization,IP_Count
 "AS719","RIPE Network Coordination Centre",2
 "AS7377","University of California, San Diego",2
 "AS7459","Grande Communications Networks, LLC",2
+"AS7488","CNServer LLC",2
 "AS8047","GENERAL COMMUNICATION, INC.",2
 "AS8053","IFX Networks Venezuela C.A.",2
 "AS8220","COLT Technology Services Group Limited",2
@@ -1588,6 +1589,7 @@ ASN,Organization,IP_Count
 "AS135061","China Unicom Guangdong IP network",1
 "AS135131","BROTHERS ONLINE",1
 "AS135234","SHERIE PLEXUS ISP PRIVATE LIMITED",1
+"AS135290","Server & Networking Co.,Ltd.",1
 "AS135341","Orange Communication",1
 "AS135392","MillenialHost Limited",1
 "AS135449","PT. Broadband Indonesia Pratama",1
@@ -2982,7 +2984,6 @@ ASN,Organization,IP_Count
 "AS7106","Com Net, Inc.",1
 "AS7195","EDGEUNO S.A.S",1
 "AS7363","-Reserved AS-",1
-"AS7488","CNServer LLC",1
 "AS7522","STNet, Incorporated",1
 "AS7602","Sai gon Postel Corporation",1
 "AS7679","QTnet,Inc.",1
