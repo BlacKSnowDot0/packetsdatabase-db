@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",1405
 "AS49870","Alsycon B.V.",1363
 "AS13335","Cloudflare, Inc.",1354
-"AS36352","HostPapa",1338
+"AS36352","HostPapa",1339
 "AS215269","LAZYCLOUD LTD",1312
 "AS23470","ReliableSite.Net LLC",1217
 "AS174","Cogent Communications",1199
@@ -272,6 +272,7 @@ ASN,Organization,IP_Count
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",24
 "AS197540","netcup GmbH",24
 "AS209","CenturyLink Communications, LLC",24
+"AS271597","NEW LINK CONNECT",24
 "AS329490","Promethean Consulting Limited",24
 "AS4713","NTT Communications Corporation",24
 "AS577","Bell Canada",24
@@ -281,7 +282,6 @@ ASN,Organization,IP_Count
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",24
 "AS197309","RS-Media LLC",23
 "AS198037","SPACECORE SOLUTION LTD",23
-"AS271597","NEW LINK CONNECT",23
 "AS62240","Clouvider Limited",23
 "AS7303","Telecom Argentina S.A.",23
 "AS17561","Larus Limited",22
@@ -310,6 +310,7 @@ ASN,Organization,IP_Count
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",20
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
+"AS202796","JSR IT B.V.",20
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",20
 "AS24348","CERNET2 IX at Tsinghua University",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
@@ -319,7 +320,6 @@ ASN,Organization,IP_Count
 "AS136142","Enigma Fiber Pvt Ltd",19
 "AS140061","China Telecom",19
 "AS14593","Space Exploration Technologies Corporation",19
-"AS202796","JSR IT B.V.",19
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",19
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",19
 "AS22927","Telefonica de Argentina",19
