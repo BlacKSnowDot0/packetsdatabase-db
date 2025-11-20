@@ -12,13 +12,13 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4447
 "AS16509","Amazon.com, Inc.",4345
-"AS45102","Alibaba (US) Technology Co., Ltd.",4014
+"AS45102","Alibaba (US) Technology Co., Ltd.",4015
 "AS396998","Path Network, Inc.",3992
 "AS0","",3632
 "AS63949","Akamai Technologies, Inc.",3619
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3180
+"AS51396","Pfcloud UG",3181
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2794
 "AS6939","Hurricane Electric LLC",2612
@@ -360,6 +360,7 @@ ASN,Organization,IP_Count
 "AS33363","Charter Communications, Inc",16
 "AS46261","QuickPacket, LLC",16
 "AS48753","AVA HOST SRL",16
+"AS5607","Sky UK Limited",16
 "AS6597","Coloblox Data Centers Inc",16
 "AS12849","Hot-Net internet services Ltd.",15
 "AS136515","Dasca Cable Services, Inc.",15
@@ -375,7 +376,6 @@ ASN,Organization,IP_Count
 "AS28201","Companhia Itabirana Telecomunicações Ltda",15
 "AS31113","Artkomm LLC",15
 "AS397283","RocketNode Inc",15
-"AS5607","Sky UK Limited",15
 "AS6327","Shaw Communications Inc.",15
 "AS64236","UnReal Servers, LLC",15
 "AS6849","JSC ""Ukrtelecom""",15
