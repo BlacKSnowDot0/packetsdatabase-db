@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87764
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22064
-"AS398324","Censys, Inc.",14018
+"AS398324","Censys, Inc.",14019
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10456
 "AS14061","DigitalOcean, LLC",8107
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3179
 "AS213412","ONYPHE SAS",2795
 "AS8075","Microsoft Corporation",2794
-"AS6939","Hurricane Electric LLC",2611
+"AS6939","Hurricane Electric LLC",2612
 "AS142002","Scloud Pte Ltd",2560
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1767
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",779
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS51167","Contabo GmbH",713
-"AS10439","CariNet, Inc.",673
+"AS10439","CariNet, Inc.",674
 "AS14618","Amazon.com, Inc.",664
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS4837","CHINA UNICOM China169 Backbone",584
@@ -96,8 +96,8 @@ ASN,Organization,IP_Count
 "AS701","Verizon Business",223
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
+"AS29066","velia.net Internetdienste GmbH",193
 "AS12555","Data-center IMAQLIQ Ltd.",192
-"AS29066","velia.net Internetdienste GmbH",192
 "AS12389","PJSC Rostelecom",191
 "AS29484","Ruhr-Universitaet Bochum",185
 "AS7552","Viettel Group",182
@@ -123,10 +123,10 @@ ASN,Organization,IP_Count
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",100
 "AS40021","Nubes, LLC",97
 "AS6739","VODAFONE ONO, S.A.",96
+"AS8560","IONOS SE",95
 "AS205352","KABELNET LTD",93
 "AS63018","Dedicated.com",92
 "AS210125","PRIAM NET Sh.p.k.",89
-"AS8560","IONOS SE",89
 "AS199785","Cloud Hosting Solutions, Limited.",88
 "AS136435","ELITE COMMUNICATION",86
 "AS58461","Chinanet",85
@@ -178,8 +178,8 @@ ASN,Organization,IP_Count
 "AS213877","u1host ltd",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS149746","PT Blip Integrator Provider",53
+"AS12816","Leibniz-Rechenzentrum",49
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
-"AS12816","Leibniz-Rechenzentrum",48
 "AS266181","GOLDEN LINK",48
 "AS10796","Charter Communications Inc",46
 "AS138156","CSNE Co., Ltd.",46
