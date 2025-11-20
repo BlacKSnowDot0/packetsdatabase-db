@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14025
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10460
-"AS14061","DigitalOcean, LLC",8109
+"AS14061","DigitalOcean, LLC",8110
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5899
 "AS4134","Chinanet",5032
@@ -75,7 +75,7 @@ ASN,Organization,IP_Count
 "AS7018","AT&T Enterprises, LLC",384
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS21859","Zenlayer Inc",359
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",350
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",351
 "AS47890","UNMANAGED LTD",348
 "AS7922","Comcast Cable Communications, LLC",345
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
@@ -96,7 +96,7 @@ ASN,Organization,IP_Count
 "AS701","Verizon Business",223
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
-"AS29066","velia.net Internetdienste GmbH",193
+"AS29066","velia.net Internetdienste GmbH",194
 "AS12555","Data-center IMAQLIQ Ltd.",192
 "AS12389","PJSC Rostelecom",191
 "AS29484","Ruhr-Universitaet Bochum",186
@@ -167,10 +167,10 @@ ASN,Organization,IP_Count
 "AS49544","i3D.net B.V",59
 "AS200514","KnownSRV Ltd.",58
 "AS20278","Nexeon Technologies, Inc.",57
+"AS5650","Frontier Communications of America, Inc.",57
 "AS20001","Charter Communications Inc",56
 "AS210644","AEZA INTERNATIONAL LTD",56
 "AS48090","PPTECHNOLOGY LIMITED",56
-"AS5650","Frontier Communications of America, Inc.",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS19318","Interserver, Inc",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
