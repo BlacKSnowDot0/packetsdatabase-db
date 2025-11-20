@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87764
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22062
-"AS398324","Censys, Inc.",14011
+"AS398324","Censys, Inc.",14012
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10453
-"AS14061","DigitalOcean, LLC",8100
+"AS396982","Google LLC",10454
+"AS14061","DigitalOcean, LLC",8105
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5897
 "AS4134","Chinanet",5032
@@ -49,9 +49,9 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",827
 "AS215925","VPSVAULT.HOST LTD",825
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",777
+"AS20052","Arbor Networks, Inc.",778
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
-"AS51167","Contabo GmbH",709
+"AS51167","Contabo GmbH",712
 "AS10439","CariNet, Inc.",673
 "AS14618","Amazon.com, Inc.",664
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -64,7 +64,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",518
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",505
-"AS12876","ONLINE S.A.S.",503
+"AS12876","ONLINE S.A.S.",504
 "AS53667","FranTech Solutions",498
 "AS50360","Tamatiya EOOD",492
 "AS9829","Bharat Sanchar Nigam Ltd",473
@@ -97,15 +97,15 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS12555","Data-center IMAQLIQ Ltd.",192
+"AS29066","velia.net Internetdienste GmbH",192
 "AS12389","PJSC Rostelecom",191
-"AS29066","velia.net Internetdienste GmbH",191
 "AS29484","Ruhr-Universitaet Bochum",185
 "AS7552","Viettel Group",182
 "AS63199","CDS Global Cloud Co., Ltd",176
 "AS401116","Nybula LLC",170
 "AS206264","Amarutu Technology Ltd",153
 "AS50219","LNK SYSTEMS MUNTENIA SRL",152
-"AS42237","w1n ltd",145
+"AS42237","w1n ltd",146
 "AS47105","Vault Dweller OU",141
 "AS262551","Farol Telecom",139
 "AS14956","RouterHosting LLC",132
@@ -252,6 +252,7 @@ ASN,Organization,IP_Count
 "AS3786","LG DACOM Corporation",27
 "AS53118","NETLINE TELECOM",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
+"AS8796","FD-298-8796",27
 "AS9123","TimeWeb Ltd.",27
 "AS12912","T-Mobile Polska S.A.",26
 "AS13213","UK-2 Limited",26
@@ -260,7 +261,6 @@ ASN,Organization,IP_Count
 "AS23693","PT. Telekomunikasi Selular",26
 "AS3209","Vodafone GmbH",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
-"AS8796","FD-298-8796",26
 "AS18881","TELEFÔNICA BRASIL S.A",25
 "AS21127","Joint Stock Company TransTeleCom",25
 "AS24560","Bharti Airtel Limited",25
