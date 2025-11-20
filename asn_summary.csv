@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87764
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22062
-"AS398324","Censys, Inc.",14015
+"AS398324","Censys, Inc.",14016
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10454
+"AS396982","Google LLC",10455
 "AS14061","DigitalOcean, LLC",8105
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5897
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",1405
 "AS49870","Alsycon B.V.",1363
 "AS13335","Cloudflare, Inc.",1353
-"AS36352","HostPapa",1336
+"AS36352","HostPapa",1337
 "AS215269","LAZYCLOUD LTD",1312
 "AS23470","ReliableSite.Net LLC",1216
 "AS174","Cogent Communications",1196
@@ -41,7 +41,7 @@ ASN,Organization,IP_Count
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS201401","NewVM B.V.",1076
+"AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1005
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -107,7 +107,7 @@ ASN,Organization,IP_Count
 "AS50219","LNK SYSTEMS MUNTENIA SRL",152
 "AS42237","w1n ltd",146
 "AS47105","Vault Dweller OU",141
-"AS262551","Farol Telecom",139
+"AS262551","Farol Telecom",140
 "AS14956","RouterHosting LLC",132
 "AS137409","GSL Networks Pty LTD",128
 "AS13238","YANDEX LLC",127
@@ -122,7 +122,7 @@ ASN,Organization,IP_Count
 "AS47331","TTNet A.S.",104
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",100
 "AS40021","Nubes, LLC",97
-"AS6739","VODAFONE ONO, S.A.",95
+"AS6739","VODAFONE ONO, S.A.",96
 "AS205352","KABELNET LTD",93
 "AS63018","Dedicated.com",92
 "AS210125","PRIAM NET Sh.p.k.",89
@@ -170,12 +170,12 @@ ASN,Organization,IP_Count
 "AS20001","Charter Communications Inc",56
 "AS210644","AEZA INTERNATIONAL LTD",56
 "AS48090","PPTECHNOLOGY LIMITED",56
+"AS5650","Frontier Communications of America, Inc.",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS19318","Interserver, Inc",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
-"AS5650","Frontier Communications of America, Inc.",55
+"AS2856","British Telecommunications PLC",55
 "AS213877","u1host ltd",54
-"AS2856","British Telecommunications PLC",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS149746","PT Blip Integrator Provider",53
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
@@ -185,10 +185,10 @@ ASN,Organization,IP_Count
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
 "AS30633","Leaseweb USA, Inc.",46
+"AS215240","Silent Connection Ltd.",45
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",45
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",45
 "AS141995","Contabo Asia Private Limited",44
-"AS215240","Silent Connection Ltd.",44
 "AS396356","Latitude.sh",44
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
@@ -390,6 +390,7 @@ ASN,Organization,IP_Count
 "AS3352","TELEFONICA DE ESPANA S.A.U.",14
 "AS37457","Telkom SA Ltd.",14
 "AS4808","China Unicom Beijing Province Network",14
+"AS48282","Hosting technology LTD",14
 "AS48721","Flyservers S.A.",14
 "AS60781","LeaseWeb Netherlands B.V.",14
 "AS134420","Chongqing Telecom",13
@@ -405,7 +406,6 @@ ASN,Organization,IP_Count
 "AS3243","MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.",13
 "AS37105","RAIN GROUP HOLDINGS (PTY) LTD",13
 "AS38841","kbro CO. Ltd.",13
-"AS48282","Hosting technology LTD",13
 "AS53006","ALGAR TELECOM S/A",13
 "AS11351","Charter Communications Inc",12
 "AS202520","SkyPass Solutions Sp. z.o.o.",12
