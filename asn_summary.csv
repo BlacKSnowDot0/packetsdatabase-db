@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87765
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22071
-"AS398324","Censys, Inc.",14042
+"AS398324","Censys, Inc.",14043
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10461
+"AS396982","Google LLC",10462
 "AS14061","DigitalOcean, LLC",8115
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5901
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4345
 "AS45102","Alibaba (US) Technology Co., Ltd.",4022
 "AS396998","Path Network, Inc.",3992
-"AS0","",3636
+"AS0","",3637
 "AS63949","Akamai Technologies, Inc.",3621
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
@@ -55,7 +55,7 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",676
 "AS14618","Amazon.com, Inc.",665
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS4837","CHINA UNICOM China169 Backbone",584
+"AS4837","CHINA UNICOM China169 Backbone",585
 "AS3462","Chunghwa Telecom Co., Ltd.",581
 "AS31148","Freenet LTD",558
 "AS9009","M247 Europe SRL",558
@@ -68,7 +68,7 @@ ASN,Organization,IP_Count
 "AS53667","FranTech Solutions",499
 "AS50360","Tamatiya EOOD",492
 "AS9829","Bharat Sanchar Nigam Ltd",476
-"AS212238","Datacamp Limited",463
+"AS212238","Datacamp Limited",464
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -180,8 +180,8 @@ ASN,Organization,IP_Count
 "AS149746","PT Blip Integrator Provider",53
 "AS12816","Leibniz-Rechenzentrum",49
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
+"AS215240","Silent Connection Ltd.",48
 "AS266181","GOLDEN LINK",48
-"AS215240","Silent Connection Ltd.",47
 "AS10796","Charter Communications Inc",46
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
