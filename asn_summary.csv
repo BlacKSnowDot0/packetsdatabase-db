@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87764
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22062
-"AS398324","Censys, Inc.",14016
+"AS211298","Driftnet Ltd",22064
+"AS398324","Censys, Inc.",14018
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10456
 "AS14061","DigitalOcean, LLC",8107
@@ -91,7 +91,7 @@ ASN,Organization,IP_Count
 "AS18403","FPT Telecom Company",255
 "AS48090","TECHOFF SRV LIMITED",255
 "AS60223","Netiface Limited",250
-"AS141718","haoxiangyun",236
+"AS141718","haoxiangyun",237
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",223
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
@@ -1314,6 +1314,7 @@ ASN,Organization,IP_Count
 "AS328282","TEOLIS SAU",2
 "AS328480","Too Much Wifi",2
 "AS328961","NET99 (PTY) LTD",2
+"AS329263","Libyan Spider for IT LTD.",2
 "AS33387","Nocix, LLC",2
 "AS33765","TANZANIA TELECOMMUNICATIONS CO. LTD",2
 "AS34123","Netorn LLC",2
@@ -2540,7 +2541,6 @@ ASN,Organization,IP_Count
 "AS329082","Connect Services Liberia, LLC",1
 "AS329192","Optinode Group LLP",1
 "AS329219","Fenix S.L.",1
-"AS329263","Libyan Spider for IT LTD.",1
 "AS329360","iiNet Connect Pty Ltd",1
 "AS329387","Skylink Networks LTD",1
 "AS3302","Retelit Digital Services S.p.A.",1
