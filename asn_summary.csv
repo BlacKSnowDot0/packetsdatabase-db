@@ -1,5 +1,5 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87764
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87765
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22065
 "AS398324","Censys, Inc.",14021
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4345
 "AS45102","Alibaba (US) Technology Co., Ltd.",4015
 "AS396998","Path Network, Inc.",3992
-"AS0","",3632
+"AS0","",3633
 "AS63949","Akamai Technologies, Inc.",3619
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
@@ -212,8 +212,8 @@ ASN,Organization,IP_Count
 "AS1680","Cellcom Fixed Line Communication L.P",37
 "AS210558","1337 Services GmbH",37
 "AS8167","V tal",37
+"AS200590","NLS Kazakhstan LLC",36
 "AS42624","Global-Data System IT Corporation",36
-"AS200590","NLS Kazakhstan LLC",35
 "AS213790","Limited Network LTD",35
 "AS30083","velia.net",35
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",35
@@ -713,6 +713,7 @@ ASN,Organization,IP_Count
 "AS8345","JSC ""ER-Telecom Holding""",5
 "AS8359","MTS PJSC",5
 "AS8648","dogado GmbH",5
+"AS9416","Hoshin Multimedia Center Inc.",5
 "AS9674","Far EastTone Telecommunication Co., Ltd.",5
 "AS11888","Television Internacional, S.A. de C.V.",4
 "AS12430","VODAFONE ESPANA S.A.U.",4
@@ -816,7 +817,6 @@ ASN,Organization,IP_Count
 "AS8781","Ooredoo Q.S.C.",4
 "AS9260","Multinet Broadband",4
 "AS9335","CAT Telecom Public Company Limited",4
-"AS9416","Hoshin Multimedia Center Inc.",4
 "AS979","NetLab Global",4
 "AS9922","New Kaohsiung Broadband LTD.",4
 "AS10001","Mics Network Corporation",3
