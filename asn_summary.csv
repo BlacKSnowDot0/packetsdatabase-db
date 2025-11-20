@@ -4,10 +4,10 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22062
 "AS398324","Censys, Inc.",14016
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10455
-"AS14061","DigitalOcean, LLC",8105
+"AS396982","Google LLC",10456
+"AS14061","DigitalOcean, LLC",8107
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5897
+"AS16276","OVH SAS",5898
 "AS4134","Chinanet",5032
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4447
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",827
 "AS215925","VPSVAULT.HOST LTD",825
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",778
+"AS20052","Arbor Networks, Inc.",779
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS51167","Contabo GmbH",713
 "AS10439","CariNet, Inc.",673
@@ -91,7 +91,7 @@ ASN,Organization,IP_Count
 "AS18403","FPT Telecom Company",255
 "AS48090","TECHOFF SRV LIMITED",255
 "AS60223","Netiface Limited",250
-"AS141718","haoxiangyun",235
+"AS141718","haoxiangyun",236
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",223
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
@@ -162,10 +162,10 @@ ASN,Organization,IP_Count
 "AS6128","Cablevision Systems Corp.",61
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS4812","China Telecom (Group)",60
+"AS20115","Charter Communications",59
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",59
 "AS49544","i3D.net B.V",59
 "AS200514","KnownSRV Ltd.",58
-"AS20115","Charter Communications",58
 "AS20278","Nexeon Technologies, Inc.",57
 "AS20001","Charter Communications Inc",56
 "AS210644","AEZA INTERNATIONAL LTD",56
