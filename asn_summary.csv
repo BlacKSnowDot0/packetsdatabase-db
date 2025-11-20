@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87765
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22065
-"AS398324","Censys, Inc.",14022
+"AS398324","Censys, Inc.",14023
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10460
 "AS14061","DigitalOcean, LLC",8109
@@ -142,8 +142,8 @@ ASN,Organization,IP_Count
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
 "AS56046","China Mobile Communications Corporation",74
+"AS22773","Cox Communications Inc.",73
 "AS31898","Oracle Corporation",73
-"AS22773","Cox Communications Inc.",72
 "AS52053","REDHEBERG Association declaree",69
 "AS834","IPXO LLC",68
 "AS8402","PJSC ""Vimpelcom""",68
@@ -261,11 +261,11 @@ ASN,Organization,IP_Count
 "AS2200","Renater",26
 "AS23693","PT. Telekomunikasi Selular",26
 "AS3209","Vodafone GmbH",26
+"AS4847","China Networks Inter-Exchange",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS18881","TELEFÔNICA BRASIL S.A",25
 "AS24560","Bharti Airtel Limited",25
 "AS36947","Telecom Algeria",25
-"AS4847","China Networks Inter-Exchange",25
 "AS55836","Reliance Jio Infocomm Limited",25
 "AS56067","Metrabyte Co.,Ltd",25
 "AS58224","Iran Telecommunication Company PJS",25
