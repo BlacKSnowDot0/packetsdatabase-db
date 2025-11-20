@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87765
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22071
-"AS398324","Censys, Inc.",14040
+"AS398324","Censys, Inc.",14042
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10461
-"AS14061","DigitalOcean, LLC",8113
+"AS14061","DigitalOcean, LLC",8114
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5900
 "AS4134","Chinanet",5032
@@ -30,10 +30,10 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1412
-"AS32475","Internap Holding LLC",1405
+"AS32475","Internap Holding LLC",1406
 "AS49870","Alsycon B.V.",1363
 "AS13335","Cloudflare, Inc.",1354
-"AS36352","HostPapa",1339
+"AS36352","HostPapa",1340
 "AS215269","LAZYCLOUD LTD",1312
 "AS23470","ReliableSite.Net LLC",1217
 "AS174","Cogent Communications",1200
@@ -108,7 +108,7 @@ ASN,Organization,IP_Count
 "AS42237","w1n ltd",146
 "AS47105","Vault Dweller OU",141
 "AS262551","Farol Telecom",140
-"AS14956","RouterHosting LLC",132
+"AS14956","RouterHosting LLC",133
 "AS137409","GSL Networks Pty LTD",128
 "AS13238","YANDEX LLC",127
 "AS19905","Neustar Security Services",127
@@ -181,10 +181,10 @@ ASN,Organization,IP_Count
 "AS12816","Leibniz-Rechenzentrum",49
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
+"AS215240","Silent Connection Ltd.",47
 "AS10796","Charter Communications Inc",46
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
-"AS215240","Silent Connection Ltd.",46
 "AS30633","Leaseweb USA, Inc.",46
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",45
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",45
