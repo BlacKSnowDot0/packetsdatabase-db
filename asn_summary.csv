@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87765
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22069
-"AS398324","Censys, Inc.",14033
+"AS398324","Censys, Inc.",14034
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10460
 "AS14061","DigitalOcean, LLC",8112
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4448
 "AS16509","Amazon.com, Inc.",4345
-"AS45102","Alibaba (US) Technology Co., Ltd.",4015
+"AS45102","Alibaba (US) Technology Co., Ltd.",4017
 "AS396998","Path Network, Inc.",3992
 "AS0","",3634
 "AS63949","Akamai Technologies, Inc.",3621
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2616
 "AS142002","Scloud Pte Ltd",2560
 "AS9808","China Mobile",2078
-"AS202425","IP Volume inc",1768
+"AS202425","IP Volume inc",1769
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1532
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",779
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS51167","Contabo GmbH",716
-"AS10439","CariNet, Inc.",675
+"AS10439","CariNet, Inc.",676
 "AS14618","Amazon.com, Inc.",665
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS4837","CHINA UNICOM China169 Backbone",584
@@ -63,7 +63,7 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS51115","HLL LLC",521
 "AS140292","China Telecom",509
-"AS12876","ONLINE S.A.S.",505
+"AS12876","ONLINE S.A.S.",506
 "AS201814","MEVSPACE sp. z o.o.",505
 "AS53667","FranTech Solutions",499
 "AS50360","Tamatiya EOOD",492
@@ -87,7 +87,7 @@ ASN,Organization,IP_Count
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",291
 "AS208843","Alpha Strike Labs GmbH",280
-"AS213613","BOTSHIELD LTD",277
+"AS213613","BOTSHIELD LTD",278
 "AS18403","FPT Telecom Company",255
 "AS48090","TECHOFF SRV LIMITED",255
 "AS60223","Netiface Limited",250
@@ -294,6 +294,7 @@ ASN,Organization,IP_Count
 "AS7029","Windstream Communications LLC",22
 "AS12479","Orange Espagne SA",21
 "AS138886","PT Data Buana Nusantara",21
+"AS16591","Google Fiber Inc.",21
 "AS17816","China Unicom IP network China169 Guangdong province",21
 "AS214668","AxusHost B.V.",21
 "AS24940","Hetzner Online GmbH",21
@@ -307,7 +308,6 @@ ASN,Organization,IP_Count
 "AS9299","Philippine Long Distance Telephone Co.",21
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",20
-"AS16591","Google Fiber Inc.",20
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",20
