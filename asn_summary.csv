@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87765
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22065
-"AS398324","Censys, Inc.",14025
+"AS211298","Driftnet Ltd",22066
+"AS398324","Censys, Inc.",14026
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10460
 "AS14061","DigitalOcean, LLC",8110
@@ -19,8 +19,8 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3181
+"AS8075","Microsoft Corporation",2796
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2795
 "AS6939","Hurricane Electric LLC",2614
 "AS142002","Scloud Pte Ltd",2560
 "AS9808","China Mobile",2078
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS36352","HostPapa",1338
 "AS215269","LAZYCLOUD LTD",1312
 "AS23470","ReliableSite.Net LLC",1216
-"AS174","Cogent Communications",1196
+"AS174","Cogent Communications",1197
 "AS22552","eSited Solutions",1184
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
@@ -167,9 +167,9 @@ ASN,Organization,IP_Count
 "AS49544","i3D.net B.V",59
 "AS200514","KnownSRV Ltd.",58
 "AS20278","Nexeon Technologies, Inc.",57
+"AS210644","AEZA INTERNATIONAL LTD",57
 "AS5650","Frontier Communications of America, Inc.",57
 "AS20001","Charter Communications Inc",56
-"AS210644","AEZA INTERNATIONAL LTD",56
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS19318","Interserver, Inc",55
@@ -930,6 +930,7 @@ ASN,Organization,IP_Count
 "AS28198","SEMPRE TELECOMUNICACOES LTDA",3
 "AS28202","Rede Brasileira de Comunicacao S/A",3
 "AS28220","CABO SERVICOS DE TELECOMUNICACOES LTDA",3
+"AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",3
 "AS28548","Cablevisión, S.A. de C.V.",3
 "AS28885","Oman Telecommunications Company (S.A.O.G)",3
 "AS29447","SCALEWAY S.A.S.",3
@@ -1281,7 +1282,6 @@ ASN,Organization,IP_Count
 "AS28158","Ampernet Telecomunicações Ltda",2
 "AS28166","Telecom South America S/A",2
 "AS28169","BITCOM PROVEDOR DE SERVICOS DE INTERNET LTDA",2
-"AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",2
 "AS28270","Videomar Rede Nordeste S/A",2
 "AS28292","ENGEPLUS INFORMATICA LTDA",2
 "AS28317","NAVEGALO S.A.",2
