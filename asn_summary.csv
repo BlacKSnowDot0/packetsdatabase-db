@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87765
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22065
-"AS398324","Censys, Inc.",14023
+"AS398324","Censys, Inc.",14025
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10460
 "AS14061","DigitalOcean, LLC",8109
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS12876","ONLINE S.A.S.",504
 "AS53667","FranTech Solutions",498
 "AS50360","Tamatiya EOOD",492
-"AS9829","Bharat Sanchar Nigam Ltd",473
+"AS9829","Bharat Sanchar Nigam Ltd",474
 "AS212238","Datacamp Limited",463
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
@@ -99,12 +99,12 @@ ASN,Organization,IP_Count
 "AS29066","velia.net Internetdienste GmbH",193
 "AS12555","Data-center IMAQLIQ Ltd.",192
 "AS12389","PJSC Rostelecom",191
-"AS29484","Ruhr-Universitaet Bochum",185
+"AS29484","Ruhr-Universitaet Bochum",186
 "AS7552","Viettel Group",182
 "AS63199","CDS Global Cloud Co., Ltd",176
 "AS401116","Nybula LLC",170
 "AS206264","Amarutu Technology Ltd",153
-"AS50219","LNK SYSTEMS MUNTENIA SRL",152
+"AS50219","LNK SYSTEMS MUNTENIA SRL",153
 "AS42237","w1n ltd",146
 "AS47105","Vault Dweller OU",141
 "AS262551","Farol Telecom",140
@@ -128,7 +128,7 @@ ASN,Organization,IP_Count
 "AS63018","Dedicated.com",92
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS199785","Cloud Hosting Solutions, Limited.",88
-"AS136435","ELITE COMMUNICATION",86
+"AS136435","ELITE COMMUNICATION",87
 "AS58461","Chinanet",85
 "AS28209","Under Servicos de Internet Ltda",84
 "AS4766","Korea Telecom",84
