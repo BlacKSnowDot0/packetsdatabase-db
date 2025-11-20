@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14021
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10458
-"AS14061","DigitalOcean, LLC",8108
+"AS14061","DigitalOcean, LLC",8109
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5899
 "AS4134","Chinanet",5032
@@ -20,8 +20,8 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3181
 "AS213412","ONYPHE SAS",2795
-"AS8075","Microsoft Corporation",2794
-"AS6939","Hurricane Electric LLC",2612
+"AS8075","Microsoft Corporation",2795
+"AS6939","Hurricane Electric LLC",2613
 "AS142002","Scloud Pte Ltd",2560
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1767
@@ -87,7 +87,7 @@ ASN,Organization,IP_Count
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",291
 "AS208843","Alpha Strike Labs GmbH",280
-"AS213613","BOTSHIELD LTD",276
+"AS213613","BOTSHIELD LTD",277
 "AS18403","FPT Telecom Company",255
 "AS48090","TECHOFF SRV LIMITED",255
 "AS60223","Netiface Limited",250
@@ -406,6 +406,7 @@ ASN,Organization,IP_Count
 "AS3243","MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.",13
 "AS37105","RAIN GROUP HOLDINGS (PTY) LTD",13
 "AS38841","kbro CO. Ltd.",13
+"AS39351","31173 Services AB",13
 "AS53006","ALGAR TELECOM S/A",13
 "AS11351","Charter Communications Inc",12
 "AS202520","SkyPass Solutions Sp. z.o.o.",12
@@ -416,7 +417,6 @@ ASN,Organization,IP_Count
 "AS35297","Dataline LLC",12
 "AS36992","ETISALAT MISR",12
 "AS38264","Wateen Telecom Limited",12
-"AS39351","31173 Services AB",12
 "AS41075","ATW Internet Kft.",12
 "AS41436","Kamatera Inc",12
 "AS4181","TDS TELECOM",12
