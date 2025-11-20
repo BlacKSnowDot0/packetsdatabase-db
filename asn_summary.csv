@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14040
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10461
-"AS14061","DigitalOcean, LLC",8112
+"AS14061","DigitalOcean, LLC",8113
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5900
 "AS4134","Chinanet",5032
@@ -237,6 +237,7 @@ ASN,Organization,IP_Count
 "AS200593","PROSPERO OOO",30
 "AS204834","Shabakieh Isfahan Co PJSC",30
 "AS43641","SOLLUTIUM EU Sp z.o.o.",30
+"AS55933","Cloudie Limited",29
 "AS6134","XNNET LLC",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
@@ -244,7 +245,6 @@ ASN,Organization,IP_Count
 "AS30860","Virtual Systems LLC",28
 "AS3269","Telecom Italia S.p.A.",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
-"AS55933","Cloudie Limited",28
 "AS210509","Optimum Line for Internet Services Ltd.",27
 "AS214417","Andrii Hrosh",27
 "AS329009","Spectrum Internet Service Ltd",27
@@ -639,6 +639,7 @@ ASN,Organization,IP_Count
 "AS16223","MAXNET TELECOM, LTD",5
 "AS17858","LG POWERCOMM",5
 "AS18229","CtrlS",5
+"AS18779","EGIHosting",5
 "AS18809","Cable Onda",5
 "AS198983","Joseph Hofmann trading as 'Tornado Datacenter GmbH & Co. KG'",5
 "AS202468","Noyan Abr Arvan Co. ( Private Joint Stock)",5
@@ -742,7 +743,6 @@ ASN,Organization,IP_Count
 "AS15735","GO p.l.c.",4
 "AS15802","Emirates Integrated Telecommunications Company PJSC",4
 "AS15924","Vodafone Net Iletisim Hizmetler AS",4
-"AS18779","EGIHosting",4
 "AS200845","AVATEL TELECOM, SA",4
 "AS20150","anyNode",4
 "AS203380","DA International Group Ltd.",4
