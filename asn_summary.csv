@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14042
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10461
-"AS14061","DigitalOcean, LLC",8114
+"AS14061","DigitalOcean, LLC",8115
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5900
 "AS4134","Chinanet",5032
@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3621
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3185
+"AS51396","Pfcloud UG",3186
 "AS8075","Microsoft Corporation",2797
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2616
@@ -106,8 +106,8 @@ ASN,Organization,IP_Count
 "AS206264","Amarutu Technology Ltd",153
 "AS50219","LNK SYSTEMS MUNTENIA SRL",153
 "AS42237","w1n ltd",146
+"AS262551","Farol Telecom",141
 "AS47105","Vault Dweller OU",141
-"AS262551","Farol Telecom",140
 "AS14956","RouterHosting LLC",133
 "AS137409","GSL Networks Pty LTD",128
 "AS13238","YANDEX LLC",127
