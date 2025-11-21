@@ -63,7 +63,7 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS51115","HLL LLC",523
 "AS140292","China Telecom",509
-"AS12876","ONLINE S.A.S.",507
+"AS12876","ONLINE S.A.S.",508
 "AS201814","MEVSPACE sp. z o.o.",505
 "AS53667","FranTech Solutions",502
 "AS50360","Tamatiya EOOD",492
@@ -627,6 +627,7 @@ ASN,Organization,IP_Count
 "AS131090","CAT Telecom Public Company Limited",5
 "AS131267","Star Telecom",5
 "AS13188","CONTENT DELIVERY NETWORK LTD",5
+"AS13285","TalkTalk Communications Limited",5
 "AS13430","THE WISP.NET CORP.",5
 "AS13489","EPM Telecomunicaciones S.A. E.S.P.",5
 "AS135357","HONG KONG KOWLOON TELECOMMUNICATIONS CO.,LIMITED",5
@@ -720,7 +721,6 @@ ASN,Organization,IP_Count
 "AS12430","VODAFONE ESPANA S.A.U.",4
 "AS13110","INEA sp. z o.o.",4
 "AS131607","Digidom CableTV Co., LTD.",4
-"AS13285","TalkTalk Communications Limited",4
 "AS135089","China Telecom",4
 "AS136009","SpeedNet",4
 "AS136121","PT Digital Media Telematika",4
