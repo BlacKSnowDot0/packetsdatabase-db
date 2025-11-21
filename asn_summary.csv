@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87766
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22074
-"AS398324","Censys, Inc.",14062
+"AS398324","Censys, Inc.",14064
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10468
-"AS14061","DigitalOcean, LLC",8118
+"AS396982","Google LLC",10469
+"AS14061","DigitalOcean, LLC",8119
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5902
+"AS16276","OVH SAS",5903
 "AS4134","Chinanet",5034
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4448
@@ -99,7 +99,7 @@ ASN,Organization,IP_Count
 "AS29066","velia.net Internetdienste GmbH",196
 "AS12555","Data-center IMAQLIQ Ltd.",192
 "AS12389","PJSC Rostelecom",191
-"AS29484","Ruhr-Universitaet Bochum",186
+"AS29484","Ruhr-Universitaet Bochum",187
 "AS7552","Viettel Group",182
 "AS63199","CDS Global Cloud Co., Ltd",177
 "AS401116","Nybula LLC",170
@@ -242,11 +242,11 @@ ASN,Organization,IP_Count
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS141679","China Telecom",28
+"AS214417","Andrii Hrosh",28
 "AS30860","Virtual Systems LLC",28
 "AS3269","Telecom Italia S.p.A.",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS210509","Optimum Line for Internet Services Ltd.",27
-"AS214417","Andrii Hrosh",27
 "AS329009","Spectrum Internet Service Ltd",27
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
