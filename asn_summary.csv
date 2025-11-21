@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87768
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22078
-"AS398324","Censys, Inc.",14077
+"AS398324","Censys, Inc.",14079
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10471
 "AS14061","DigitalOcean, LLC",8129
@@ -14,11 +14,11 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4345
 "AS45102","Alibaba (US) Technology Co., Ltd.",4023
 "AS396998","Path Network, Inc.",3992
-"AS0","",3642
+"AS0","",3643
 "AS63949","Akamai Technologies, Inc.",3623
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3187
+"AS51396","Pfcloud UG",3188
 "AS8075","Microsoft Corporation",2801
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2622
@@ -80,7 +80,7 @@ ASN,Organization,IP_Count
 "AS7922","Comcast Cable Communications, LLC",345
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS8151","Uninet S.A. de C.V.",335
-"AS214943","Railnet LLC",315
+"AS214943","Railnet LLC",316
 "AS45899","VNPT Corp",315
 "AS24863","LINKdotNET AS number",307
 "AS9341","PT Indonesia Comnets Plus",297
@@ -166,7 +166,7 @@ ASN,Organization,IP_Count
 "AS20115","Charter Communications",59
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",59
 "AS49544","i3D.net B.V",59
-"AS5650","Frontier Communications of America, Inc.",58
+"AS5650","Frontier Communications of America, Inc.",59
 "AS20278","Nexeon Technologies, Inc.",57
 "AS210644","AEZA INTERNATIONAL LTD",57
 "AS20001","Charter Communications Inc",56
@@ -236,8 +236,8 @@ ASN,Organization,IP_Count
 "AS1103","SURF B.V.",30
 "AS200593","PROSPERO OOO",30
 "AS204834","Shabakieh Isfahan Co PJSC",30
+"AS214417","Andrii Hrosh",30
 "AS43641","SOLLUTIUM EU Sp z.o.o.",30
-"AS214417","Andrii Hrosh",29
 "AS55933","Cloudie Limited",29
 "AS6134","XNNET LLC",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
