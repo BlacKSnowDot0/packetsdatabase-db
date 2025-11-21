@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87766
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22073
-"AS398324","Censys, Inc.",14052
+"AS398324","Censys, Inc.",14057
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10464
+"AS396982","Google LLC",10465
 "AS14061","DigitalOcean, LLC",8117
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5901
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS51167","Contabo GmbH",717
 "AS10439","CariNet, Inc.",676
-"AS14618","Amazon.com, Inc.",665
+"AS14618","Amazon.com, Inc.",666
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS4837","CHINA UNICOM China169 Backbone",585
 "AS3462","Chunghwa Telecom Co., Ltd.",581
@@ -170,11 +170,11 @@ ASN,Organization,IP_Count
 "AS20278","Nexeon Technologies, Inc.",57
 "AS210644","AEZA INTERNATIONAL LTD",57
 "AS20001","Charter Communications Inc",56
+"AS2856","British Telecommunications PLC",56
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS19318","Interserver, Inc",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
-"AS2856","British Telecommunications PLC",55
 "AS213877","u1host ltd",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS149746","PT Blip Integrator Provider",53
@@ -621,6 +621,7 @@ ASN,Organization,IP_Count
 "AS9873","Lao Telecommunication Public Company",6
 "AS10429","TELEFÔNICA BRASIL S.A",5
 "AS11492","CABLE ONE, INC.",5
+"AS11888","Television Internacional, S.A. de C.V.",5
 "AS12714","PJSC MegaFon",5
 "AS131090","CAT Telecom Public Company Limited",5
 "AS131267","Star Telecom",5
@@ -716,7 +717,6 @@ ASN,Organization,IP_Count
 "AS8648","dogado GmbH",5
 "AS9416","Hoshin Multimedia Center Inc.",5
 "AS9674","Far EastTone Telecommunication Co., Ltd.",5
-"AS11888","Television Internacional, S.A. de C.V.",4
 "AS12430","VODAFONE ESPANA S.A.U.",4
 "AS13110","INEA sp. z o.o.",4
 "AS131607","Digidom CableTV Co., LTD.",4
