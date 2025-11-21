@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22073
 "AS398324","Censys, Inc.",14057
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10465
+"AS396982","Google LLC",10466
 "AS14061","DigitalOcean, LLC",8117
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5901
@@ -14,8 +14,8 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4345
 "AS45102","Alibaba (US) Technology Co., Ltd.",4023
 "AS396998","Path Network, Inc.",3992
-"AS0","",3637
-"AS63949","Akamai Technologies, Inc.",3621
+"AS0","",3638
+"AS63949","Akamai Technologies, Inc.",3622
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3186
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",1406
 "AS49870","Alsycon B.V.",1363
 "AS13335","Cloudflare, Inc.",1354
-"AS36352","HostPapa",1341
+"AS36352","HostPapa",1349
 "AS215269","LAZYCLOUD LTD",1312
 "AS23470","ReliableSite.Net LLC",1227
 "AS174","Cogent Communications",1201
@@ -522,6 +522,7 @@ ASN,Organization,IP_Count
 "AS17762","Tata Teleservices (Maharashtra) Ltd",7
 "AS19148","Leaseweb USA, Inc.",7
 "AS198154","Pars Abr Toseeh Ertebatat Company",7
+"AS202870","Dimensione S.r.l.",7
 "AS203684","Imen Sanat Novin Alighapoo Private Joint Stock Company",7
 "AS204044","PACKET STAR NETWORKS LIMITED",7
 "AS204631","VIVANET GmbH",7
@@ -570,7 +571,6 @@ ASN,Organization,IP_Count
 "AS198253","Kukushkin Anatoly Valerievich",6
 "AS198323","TOV Informatsiyni Kirovohrads'ki Systemy",6
 "AS201838","Community Fibre Limited",6
-"AS202870","Dimensione S.r.l.",6
 "AS203020","HostRoyale Technologies Pvt Ltd",6
 "AS210538","KEYUBU Internet ve Bilisim Tic. Ltd. Sti.",6
 "AS21056","Vianova S.p.A",6
