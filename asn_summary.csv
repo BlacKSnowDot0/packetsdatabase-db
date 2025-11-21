@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87767
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22074
-"AS398324","Censys, Inc.",14067
+"AS211298","Driftnet Ltd",22078
+"AS398324","Censys, Inc.",14068
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10470
-"AS14061","DigitalOcean, LLC",8120
+"AS14061","DigitalOcean, LLC",8121
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5904
 "AS4134","Chinanet",5034
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS51167","Contabo GmbH",717
 "AS10439","CariNet, Inc.",678
-"AS14618","Amazon.com, Inc.",666
+"AS14618","Amazon.com, Inc.",667
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS4837","CHINA UNICOM China169 Backbone",585
 "AS3462","Chunghwa Telecom Co., Ltd.",581
@@ -242,11 +242,11 @@ ASN,Organization,IP_Count
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS141679","China Telecom",28
+"AS210509","Optimum Line for Internet Services Ltd.",28
 "AS214417","Andrii Hrosh",28
 "AS30860","Virtual Systems LLC",28
 "AS3269","Telecom Italia S.p.A.",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
-"AS210509","Optimum Line for Internet Services Ltd.",27
 "AS329009","Spectrum Internet Service Ltd",27
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
