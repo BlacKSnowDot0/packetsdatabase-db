@@ -1,18 +1,18 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87765
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22071
-"AS398324","Censys, Inc.",14043
+"AS211298","Driftnet Ltd",22072
+"AS398324","Censys, Inc.",14044
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10462
-"AS14061","DigitalOcean, LLC",8115
+"AS14061","DigitalOcean, LLC",8116
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5901
 "AS4134","Chinanet",5032
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4448
 "AS16509","Amazon.com, Inc.",4345
-"AS45102","Alibaba (US) Technology Co., Ltd.",4022
+"AS45102","Alibaba (US) Technology Co., Ltd.",4023
 "AS396998","Path Network, Inc.",3992
 "AS0","",3637
 "AS63949","Akamai Technologies, Inc.",3621
@@ -26,16 +26,16 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1769
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1532
+"AS209605","UAB Host Baltic",1533
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1412
 "AS32475","Internap Holding LLC",1406
 "AS49870","Alsycon B.V.",1363
 "AS13335","Cloudflare, Inc.",1354
-"AS36352","HostPapa",1340
+"AS36352","HostPapa",1341
 "AS215269","LAZYCLOUD LTD",1312
-"AS23470","ReliableSite.Net LLC",1217
+"AS23470","ReliableSite.Net LLC",1222
 "AS174","Cogent Communications",1200
 "AS22552","eSited Solutions",1184
 "AS204428","SS-Net",1182
@@ -75,7 +75,7 @@ ASN,Organization,IP_Count
 "AS7018","AT&T Enterprises, LLC",384
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS21859","Zenlayer Inc",360
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",352
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",353
 "AS47890","UNMANAGED LTD",348
 "AS7922","Comcast Cable Communications, LLC",345
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
@@ -144,8 +144,8 @@ ASN,Organization,IP_Count
 "AS56046","China Mobile Communications Corporation",74
 "AS22773","Cox Communications Inc.",73
 "AS31898","Oracle Corporation",73
+"AS8402","PJSC ""Vimpelcom""",70
 "AS52053","REDHEBERG Association declaree",69
-"AS8402","PJSC ""Vimpelcom""",69
 "AS834","IPXO LLC",68
 "AS23724","IDC, China Telecommunications Corporation",67
 "AS328867","Corebach Backbone SARL",67
@@ -611,6 +611,7 @@ ASN,Organization,IP_Count
 "AS48314","Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG",6
 "AS48642","Joint stock company ""For""",6
 "AS55699","PT. Cemerlang Multimedia",6
+"AS5603","Telekom Slovenije, d.d.",6
 "AS56971","CGI GLOBAL LIMITED",6
 "AS58495","PT Parsaoran Global Datatrans",6
 "AS58519","Cloud Computing Corporation",6
@@ -699,7 +700,6 @@ ASN,Organization,IP_Count
 "AS53062","GGNET TELECOM BACKBONE",5
 "AS53167","SEBRATEL TECNOLOGIA LTDA",5
 "AS5410","Bouygues Telecom SA",5
-"AS5603","Telekom Slovenije, d.d.",5
 "AS56044","China Mobile Communications Corporation",5
 "AS56047","China Mobile Communications Corporation",5
 "AS56246","PT Sumber Data Indonesia",5
