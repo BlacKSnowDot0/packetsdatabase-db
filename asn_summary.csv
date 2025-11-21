@@ -21,12 +21,12 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3186
 "AS8075","Microsoft Corporation",2799
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2616
+"AS6939","Hurricane Electric LLC",2617
 "AS142002","Scloud Pte Ltd",2560
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1769
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1533
+"AS209605","UAB Host Baltic",1534
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1412
@@ -87,7 +87,7 @@ ASN,Organization,IP_Count
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",291
 "AS208843","Alpha Strike Labs GmbH",280
-"AS213613","BOTSHIELD LTD",278
+"AS213613","BOTSHIELD LTD",279
 "AS18403","FPT Telecom Company",255
 "AS48090","TECHOFF SRV LIMITED",255
 "AS60223","Netiface Limited",250
@@ -198,10 +198,10 @@ ASN,Organization,IP_Count
 "AS262378","Compuservice Empreendimentos Ltda",42
 "AS30058","FDCservers.net",42
 "AS7738","V tal",42
+"AS4788","TM TECHNOLOGY SERVICES SDN BHD",41
 "AS21928","T-Mobile USA, Inc.",40
 "AS23969","TOT Public Company Limited",40
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",40
-"AS4788","TM TECHNOLOGY SERVICES SDN BHD",40
 "AS27699","TELEFÔNICA BRASIL S.A",39
 "AS46475","Limestone Networks, Inc.",39
 "AS8048","CANTV Servicios, Venezuela",39
@@ -334,6 +334,7 @@ ASN,Organization,IP_Count
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
 "AS207713","GLOBAL INTERNET SOLUTIONS LLC",18
 "AS24151","China Internet Network Infomation Center",18
+"AS28546","Servnet Mexico, S.A. de C.V.",18
 "AS2914","NTT America, Inc.",18
 "AS39603","P4 Sp. z o.o.",18
 "AS400655","NixLabs Networks",18
@@ -345,7 +346,6 @@ ASN,Organization,IP_Count
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
 "AS24757","EthioNet",17
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
-"AS28546","Servnet Mexico, S.A. de C.V.",17
 "AS30823","aurologic GmbH",17
 "AS45117","Ishan's Network",17
 "AS46375","Sonic Telecom LLC",17
