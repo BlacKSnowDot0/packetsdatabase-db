@@ -1,10 +1,10 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87766
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87767
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22074
-"AS398324","Censys, Inc.",14066
+"AS398324","Censys, Inc.",14067
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10469
+"AS396982","Google LLC",10470
 "AS14061","DigitalOcean, LLC",8120
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5904
@@ -15,10 +15,10 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",4023
 "AS396998","Path Network, Inc.",3992
 "AS0","",3639
-"AS63949","Akamai Technologies, Inc.",3622
+"AS63949","Akamai Technologies, Inc.",3623
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3186
+"AS51396","Pfcloud UG",3187
 "AS8075","Microsoft Corporation",2800
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2620
@@ -96,7 +96,7 @@ ASN,Organization,IP_Count
 "AS701","Verizon Business",223
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
-"AS29066","velia.net Internetdienste GmbH",196
+"AS29066","velia.net Internetdienste GmbH",197
 "AS12555","Data-center IMAQLIQ Ltd.",192
 "AS12389","PJSC Rostelecom",191
 "AS29484","Ruhr-Universitaet Bochum",187
@@ -106,7 +106,7 @@ ASN,Organization,IP_Count
 "AS50219","LNK SYSTEMS MUNTENIA SRL",154
 "AS206264","Amarutu Technology Ltd",153
 "AS42237","w1n ltd",147
-"AS262551","Farol Telecom",142
+"AS262551","Farol Telecom",143
 "AS47105","Vault Dweller OU",141
 "AS14956","RouterHosting LLC",133
 "AS13238","YANDEX LLC",128
@@ -150,9 +150,9 @@ ASN,Organization,IP_Count
 "AS834","IPXO LLC",68
 "AS328867","Corebach Backbone SARL",67
 "AS55720","Gigabit Hosting Sdn Bhd",67
+"AS150263","PT Alnet Telekomunikasi Indonesia",66
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
 "AS215590","DpkgSoft International Limited",66
-"AS150263","PT Alnet Telekomunikasi Indonesia",65
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS57588","Hayat for Internet & communication LLC",65
