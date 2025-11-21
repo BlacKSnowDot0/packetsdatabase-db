@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87766
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22074
-"AS398324","Censys, Inc.",14064
+"AS398324","Censys, Inc.",14065
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10469
 "AS14061","DigitalOcean, LLC",8119
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5903
+"AS16276","OVH SAS",5904
 "AS4134","Chinanet",5034
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4449
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",780
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS51167","Contabo GmbH",717
-"AS10439","CariNet, Inc.",677
+"AS10439","CariNet, Inc.",678
 "AS14618","Amazon.com, Inc.",666
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS4837","CHINA UNICOM China169 Backbone",585
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS12876","ONLINE S.A.S.",507
 "AS201814","MEVSPACE sp. z o.o.",505
-"AS53667","FranTech Solutions",501
+"AS53667","FranTech Solutions",502
 "AS50360","Tamatiya EOOD",492
 "AS9829","Bharat Sanchar Nigam Ltd",476
 "AS212238","Datacamp Limited",464
@@ -105,7 +105,7 @@ ASN,Organization,IP_Count
 "AS401116","Nybula LLC",170
 "AS50219","LNK SYSTEMS MUNTENIA SRL",154
 "AS206264","Amarutu Technology Ltd",153
-"AS42237","w1n ltd",146
+"AS42237","w1n ltd",147
 "AS262551","Farol Telecom",142
 "AS47105","Vault Dweller OU",141
 "AS14956","RouterHosting LLC",133
@@ -152,10 +152,10 @@ ASN,Organization,IP_Count
 "AS55720","Gigabit Hosting Sdn Bhd",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
 "AS215590","DpkgSoft International Limited",66
+"AS150263","PT Alnet Telekomunikasi Indonesia",65
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS57588","Hayat for Internet & communication LLC",65
-"AS150263","PT Alnet Telekomunikasi Indonesia",64
 "AS17378","TierPoint, LLC",63
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",62
 "AS140717","China Unicom",61
