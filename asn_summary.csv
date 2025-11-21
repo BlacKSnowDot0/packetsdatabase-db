@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22078
 "AS398324","Censys, Inc.",14081
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10472
+"AS396982","Google LLC",10473
 "AS14061","DigitalOcean, LLC",8129
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5905
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4345
 "AS45102","Alibaba (US) Technology Co., Ltd.",4023
 "AS396998","Path Network, Inc.",3992
-"AS0","",3643
+"AS0","",3645
 "AS63949","Akamai Technologies, Inc.",3623
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS51167","Contabo GmbH",717
 "AS10439","CariNet, Inc.",678
-"AS14618","Amazon.com, Inc.",667
+"AS14618","Amazon.com, Inc.",668
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS4837","CHINA UNICOM China169 Backbone",585
 "AS3462","Chunghwa Telecom Co., Ltd.",581
@@ -101,7 +101,7 @@ ASN,Organization,IP_Count
 "AS12389","PJSC Rostelecom",191
 "AS29484","Ruhr-Universitaet Bochum",187
 "AS7552","Viettel Group",182
-"AS63199","CDS Global Cloud Co., Ltd",177
+"AS63199","CDS Global Cloud Co., Ltd",178
 "AS401116","Nybula LLC",170
 "AS50219","LNK SYSTEMS MUNTENIA SRL",155
 "AS206264","Amarutu Technology Ltd",153
