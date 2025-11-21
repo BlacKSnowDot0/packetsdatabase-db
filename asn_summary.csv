@@ -1,10 +1,10 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87766
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22073
-"AS398324","Censys, Inc.",14060
+"AS211298","Driftnet Ltd",22074
+"AS398324","Censys, Inc.",14061
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10466
+"AS396982","Google LLC",10468
 "AS14061","DigitalOcean, LLC",8118
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5902
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",1406
 "AS49870","Alsycon B.V.",1363
 "AS13335","Cloudflare, Inc.",1354
-"AS36352","HostPapa",1349
+"AS36352","HostPapa",1350
 "AS215269","LAZYCLOUD LTD",1312
 "AS23470","ReliableSite.Net LLC",1227
 "AS174","Cogent Communications",1201
@@ -63,7 +63,7 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS51115","HLL LLC",523
 "AS140292","China Telecom",509
-"AS12876","ONLINE S.A.S.",506
+"AS12876","ONLINE S.A.S.",507
 "AS201814","MEVSPACE sp. z o.o.",505
 "AS53667","FranTech Solutions",501
 "AS50360","Tamatiya EOOD",492
@@ -103,8 +103,8 @@ ASN,Organization,IP_Count
 "AS7552","Viettel Group",182
 "AS63199","CDS Global Cloud Co., Ltd",177
 "AS401116","Nybula LLC",170
+"AS50219","LNK SYSTEMS MUNTENIA SRL",154
 "AS206264","Amarutu Technology Ltd",153
-"AS50219","LNK SYSTEMS MUNTENIA SRL",153
 "AS42237","w1n ltd",146
 "AS262551","Farol Telecom",141
 "AS47105","Vault Dweller OU",141
@@ -146,8 +146,8 @@ ASN,Organization,IP_Count
 "AS31898","Oracle Corporation",73
 "AS8402","PJSC ""Vimpelcom""",71
 "AS52053","REDHEBERG Association declaree",69
+"AS23724","IDC, China Telecommunications Corporation",68
 "AS834","IPXO LLC",68
-"AS23724","IDC, China Telecommunications Corporation",67
 "AS328867","Corebach Backbone SARL",67
 "AS55720","Gigabit Hosting Sdn Bhd",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
@@ -250,6 +250,7 @@ ASN,Organization,IP_Count
 "AS329009","Spectrum Internet Service Ltd",27
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
+"AS4847","China Networks Inter-Exchange",27
 "AS53118","NETLINE TELECOM",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
 "AS8796","FD-298-8796",27
@@ -261,7 +262,6 @@ ASN,Organization,IP_Count
 "AS2200","Renater",26
 "AS23693","PT. Telekomunikasi Selular",26
 "AS3209","Vodafone GmbH",26
-"AS4847","China Networks Inter-Exchange",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS18881","TELEFÔNICA BRASIL S.A",25
 "AS24560","Bharti Airtel Limited",25
