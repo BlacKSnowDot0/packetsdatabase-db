@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4345
 "AS45102","Alibaba (US) Technology Co., Ltd.",4023
 "AS396998","Path Network, Inc.",3992
-"AS0","",3641
+"AS0","",3642
 "AS63949","Akamai Technologies, Inc.",3623
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
@@ -354,6 +354,7 @@ ASN,Organization,IP_Count
 "AS56630","Melbikomas UAB",17
 "AS9269","Hong Kong Broadband Network Ltd",17
 "AS140726","China Unicom",16
+"AS215762","Bullet Group LTD",16
 "AS24812","NPK Home-Net Ltd.",16
 "AS25198","INTERKVM HOST SRL",16
 "AS3215","Orange S.A.",16
@@ -370,7 +371,6 @@ ASN,Organization,IP_Count
 "AS199414","Noah Kolossa",15
 "AS202448","MVPS LTD",15
 "AS211619","MAXKO d.o.o.",15
-"AS215762","Bullet Group LTD",15
 "AS263767","CORPORACIÓN GALA IT, C.A.",15
 "AS272547","Servicos de Infraestrutura e Datacenter",15
 "AS28126","BRISANET SERVICOS DE TELECOMUNICACOES LTDA",15
