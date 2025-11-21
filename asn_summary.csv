@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87767
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22078
-"AS398324","Censys, Inc.",14069
+"AS398324","Censys, Inc.",14070
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10470
-"AS14061","DigitalOcean, LLC",8121
+"AS396982","Google LLC",10471
+"AS14061","DigitalOcean, LLC",8128
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5904
 "AS4134","Chinanet",5034
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",505
 "AS53667","FranTech Solutions",502
 "AS50360","Tamatiya EOOD",492
-"AS9829","Bharat Sanchar Nigam Ltd",476
+"AS9829","Bharat Sanchar Nigam Ltd",477
 "AS212238","Datacamp Limited",464
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
@@ -178,8 +178,8 @@ ASN,Organization,IP_Count
 "AS213877","u1host ltd",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS149746","PT Blip Integrator Provider",53
+"AS215240","Silent Connection Ltd.",50
 "AS12816","Leibniz-Rechenzentrum",49
-"AS215240","Silent Connection Ltd.",49
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
 "AS10796","Charter Communications Inc",46
@@ -980,6 +980,7 @@ ASN,Organization,IP_Count
 "AS45916","Gujarat Telelink Pvt Ltd",3
 "AS4618","Internet Thailand Company Ltd.",3
 "AS47154","HUSAM A. H. HIJAZI",3
+"AS4804","SingTel Optus Pty Ltd",3
 "AS4818","DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",3
 "AS48411","FOP Samoylenko Oleksandr Volodymirovich",3
 "AS48437","PP ""Merezha""",3
@@ -1389,7 +1390,6 @@ ASN,Organization,IP_Count
 "AS4773","M1 LIMITED",2
 "AS4787","PT Cyberindo Aditama",2
 "AS48004","PE Tsibrankov Konstantin Igorevich",2
-"AS4804","SingTel Optus Pty Ltd",2
 "AS48678","PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi",2
 "AS48728","Vodafone Qatar P.Q.S.C",2
 "AS48847","WAVES S.A.L",2
