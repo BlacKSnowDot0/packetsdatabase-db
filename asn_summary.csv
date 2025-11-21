@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87769
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22079
-"AS398324","Censys, Inc.",14083
+"AS398324","Censys, Inc.",14085
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10473
 "AS14061","DigitalOcean, LLC",8129
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4450
 "AS16509","Amazon.com, Inc.",4345
-"AS45102","Alibaba (US) Technology Co., Ltd.",4023
+"AS45102","Alibaba (US) Technology Co., Ltd.",4024
 "AS396998","Path Network, Inc.",3992
 "AS0","",3647
 "AS63949","Akamai Technologies, Inc.",3623
@@ -125,8 +125,8 @@ ASN,Organization,IP_Count
 "AS40021","Nubes, LLC",97
 "AS8560","IONOS SE",95
 "AS205352","KABELNET LTD",93
+"AS199785","Cloud Hosting Solutions, Limited.",92
 "AS63018","Dedicated.com",92
-"AS199785","Cloud Hosting Solutions, Limited.",91
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS136435","ELITE COMMUNICATION",87
 "AS58461","Chinanet",85
