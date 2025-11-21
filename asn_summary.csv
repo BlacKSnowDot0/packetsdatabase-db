@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87767
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87768
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22078
-"AS398324","Censys, Inc.",14074
+"AS398324","Censys, Inc.",14075
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10471
 "AS14061","DigitalOcean, LLC",8128
@@ -178,7 +178,7 @@ ASN,Organization,IP_Count
 "AS213877","u1host ltd",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS149746","PT Blip Integrator Provider",53
-"AS215240","Silent Connection Ltd.",50
+"AS215240","Silent Connection Ltd.",51
 "AS12816","Leibniz-Rechenzentrum",49
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
@@ -1128,6 +1128,7 @@ ASN,Organization,IP_Count
 "AS16960","Cablevision Red, S.A de C.V.",2
 "AS17421","Mobile Business Group",2
 "AS17465","Asianet Satellite Communications Pvt Ltd",2
+"AS17577","LG HelloVision Corp.",2
 "AS1759","Telia Finland Oyj",2
 "AS17622","China Unicom Guangzhou network",2
 "AS17623","China Unicom Shenzen network",2
@@ -1804,7 +1805,6 @@ ASN,Organization,IP_Count
 "AS17426","Primesoftex Ltd",1
 "AS17506","ARTERIA Networks Corporation",1
 "AS17547","M1 NET LTD",1
-"AS17577","LG HelloVision Corp.",1
 "AS17670","PT. MNC Kabel Mediacom",1
 "AS17917","Quadrant Televentures Limited",1
 "AS18004","PT WIRELESS INDONESIA ( WIN )",1
