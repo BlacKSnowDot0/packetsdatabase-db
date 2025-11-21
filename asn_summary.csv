@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87767
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22078
-"AS398324","Censys, Inc.",14070
+"AS398324","Censys, Inc.",14074
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10471
 "AS14061","DigitalOcean, LLC",8128
@@ -21,10 +21,10 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3187
 "AS8075","Microsoft Corporation",2801
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2621
+"AS6939","Hurricane Electric LLC",2622
 "AS142002","Scloud Pte Ltd",2560
 "AS9808","China Mobile",2078
-"AS202425","IP Volume inc",1769
+"AS202425","IP Volume inc",1770
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1535
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -296,6 +296,7 @@ ASN,Organization,IP_Count
 "AS138886","PT Data Buana Nusantara",21
 "AS16591","Google Fiber Inc.",21
 "AS17816","China Unicom IP network China169 Guangdong province",21
+"AS202796","JSR IT B.V.",21
 "AS214668","AxusHost B.V.",21
 "AS24940","Hetzner Online GmbH",21
 "AS3320","Deutsche Telekom AG",21
@@ -310,7 +311,6 @@ ASN,Organization,IP_Count
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",20
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
-"AS202796","JSR IT B.V.",20
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",20
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",20
 "AS24348","CERNET2 IX at Tsinghua University",20
