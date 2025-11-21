@@ -32,8 +32,8 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1413
 "AS32475","Internap Holding LLC",1406
 "AS49870","Alsycon B.V.",1363
+"AS36352","HostPapa",1358
 "AS13335","Cloudflare, Inc.",1354
-"AS36352","HostPapa",1350
 "AS215269","LAZYCLOUD LTD",1312
 "AS23470","ReliableSite.Net LLC",1227
 "AS174","Cogent Communications",1202
@@ -198,10 +198,10 @@ ASN,Organization,IP_Count
 "AS262378","Compuservice Empreendimentos Ltda",42
 "AS30058","FDCservers.net",42
 "AS7738","V tal",42
+"AS263025","ISPTEC Sistemas de Comunicação Eireli",41
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",41
 "AS21928","T-Mobile USA, Inc.",40
 "AS23969","TOT Public Company Limited",40
-"AS263025","ISPTEC Sistemas de Comunicação Eireli",40
 "AS27699","TELEFÔNICA BRASIL S.A",39
 "AS46475","Limestone Networks, Inc.",39
 "AS8048","CANTV Servicios, Venezuela",39
@@ -469,6 +469,7 @@ ASN,Organization,IP_Count
 "AS17676","SoftBank Corp.",9
 "AS212504","AdKyNet SAS",9
 "AS213520","Senko Digital Ltd",9
+"AS214309","Aurorix Gaming Solutions Limited",9
 "AS214481","Wojciech Czapkowicz",9
 "AS24955","JSC ""Ufanet""",9
 "AS266702","MEGALINK S.R.L.",9
@@ -493,7 +494,6 @@ ASN,Organization,IP_Count
 "AS198361","Yaglom Labs Ltd",8
 "AS209956","Telkoturk Iletisim Hizmetleri A.S.",8
 "AS211507","Julian Achter",8
-"AS214309","Aurorix Gaming Solutions Limited",8
 "AS24086","Viettel Corporation",8
 "AS2516","KDDI CORPORATION",8
 "AS2527","Sony Network Communications Inc.",8
@@ -617,6 +617,7 @@ ASN,Organization,IP_Count
 "AS56971","CGI GLOBAL LIMITED",6
 "AS58495","PT Parsaoran Global Datatrans",6
 "AS58519","Cloud Computing Corporation",6
+"AS6830","Liberty Global B.V.",6
 "AS8926","Moldtelecom SA",6
 "AS9873","Lao Telecommunication Public Company",6
 "AS10429","TELEFÔNICA BRASIL S.A",5
@@ -711,7 +712,6 @@ ASN,Organization,IP_Count
 "AS61135","COMNET BILGI ILETISIM TEKNOLOJILERI TICARET A.S.",5
 "AS61461","Airtek Solutions C.A.",5
 "AS63526","Systems Solutions & development Technologies Limited",5
-"AS6830","Liberty Global B.V.",5
 "AS8345","JSC ""ER-Telecom Holding""",5
 "AS8359","MTS PJSC",5
 "AS8648","dogado GmbH",5
