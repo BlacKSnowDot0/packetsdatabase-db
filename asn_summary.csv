@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87766
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22072
-"AS398324","Censys, Inc.",14049
+"AS211298","Driftnet Ltd",22073
+"AS398324","Censys, Inc.",14050
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10463
 "AS14061","DigitalOcean, LLC",8117
@@ -19,14 +19,14 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3186
-"AS8075","Microsoft Corporation",2799
+"AS8075","Microsoft Corporation",2800
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2617
+"AS6939","Hurricane Electric LLC",2618
 "AS142002","Scloud Pte Ltd",2560
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1769
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1534
+"AS209605","UAB Host Baltic",1535
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1412
@@ -96,7 +96,7 @@ ASN,Organization,IP_Count
 "AS701","Verizon Business",223
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
-"AS29066","velia.net Internetdienste GmbH",195
+"AS29066","velia.net Internetdienste GmbH",196
 "AS12555","Data-center IMAQLIQ Ltd.",192
 "AS12389","PJSC Rostelecom",191
 "AS29484","Ruhr-Universitaet Bochum",186
@@ -566,6 +566,7 @@ ASN,Organization,IP_Count
 "AS16058","Gabon Telecom Internet Network Autonomous System",6
 "AS16611","InfiniaHost.com",6
 "AS17754","Excellmedia",6
+"AS18779","EGIHosting",6
 "AS198253","Kukushkin Anatoly Valerievich",6
 "AS198323","TOV Informatsiyni Kirovohrads'ki Systemy",6
 "AS201838","Community Fibre Limited",6
@@ -588,6 +589,7 @@ ASN,Organization,IP_Count
 "AS25513","PJSC Moscow city telephone network",6
 "AS262262","METRONET",6
 "AS262773","PROXXIMA TELECOMUNICACOES LTDA",6
+"AS264323","OXMAN TECNOLOGIA LTDA",6
 "AS268976","Weclix Telecom S/A",6
 "AS273683","ALLREDE TELECOM LTDA",6
 "AS27747","Telecentro S.A.",6
@@ -640,7 +642,6 @@ ASN,Organization,IP_Count
 "AS16223","MAXNET TELECOM, LTD",5
 "AS17858","LG POWERCOMM",5
 "AS18229","CtrlS",5
-"AS18779","EGIHosting",5
 "AS18809","Cable Onda",5
 "AS198983","Joseph Hofmann trading as 'Tornado Datacenter GmbH & Co. KG'",5
 "AS202468","Noyan Abr Arvan Co. ( Private Joint Stock)",5
@@ -658,7 +659,6 @@ ASN,Organization,IP_Count
 "AS25084","Politechnika Czestochowska",5
 "AS263569","DIRECT WIFI TELECOM LTDA",5
 "AS26383","Baxet Group Inc.",5
-"AS264323","OXMAN TECNOLOGIA LTDA",5
 "AS265702","AZUL NETWORKS S.R.L",5
 "AS267684","VISIONMAGICA SOCIEDAD ANONIMA",5
 "AS267784","Flyservers S.A.",5
