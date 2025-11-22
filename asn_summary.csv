@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87769
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22079
-"AS398324","Censys, Inc.",14103
+"AS398324","Censys, Inc.",14104
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10484
+"AS396982","Google LLC",10486
 "AS14061","DigitalOcean, LLC",8131
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5908
@@ -167,9 +167,9 @@ ASN,Organization,IP_Count
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",59
 "AS49544","i3D.net B.V",59
 "AS5650","Frontier Communications of America, Inc.",59
+"AS2856","British Telecommunications PLC",58
 "AS20278","Nexeon Technologies, Inc.",57
 "AS210644","AEZA INTERNATIONAL LTD",57
-"AS2856","British Telecommunications PLC",57
 "AS19318","Interserver, Inc",56
 "AS20001","Charter Communications Inc",56
 "AS48090","PPTECHNOLOGY LIMITED",56
@@ -709,6 +709,7 @@ ASN,Organization,IP_Count
 "AS56329","Gigaclear Limited",5
 "AS58118","SC ADINET-Com SRL",5
 "AS58898","Rainbow communications India Pvt Ltd",5
+"AS59134","PT. Datacomm Diangraha",5
 "AS59441","NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)",5
 "AS61135","COMNET BILGI ILETISIM TEKNOLOJILERI TICARET A.S.",5
 "AS61461","Airtek Solutions C.A.",5
@@ -810,7 +811,6 @@ ASN,Organization,IP_Count
 "AS53449","OEC Fiber",4
 "AS5416","BEYON B.S.C.",4
 "AS58369","PT. Fiber Networks Indonesia",4
-"AS59134","PT. Datacomm Diangraha",4
 "AS59142","Pemerintah Kota Batam",4
 "AS60404","The Infrastructure Group B.V.",4
 "AS7482","Asia Pacific On-line Service Inc.",4
