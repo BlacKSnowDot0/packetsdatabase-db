@@ -2,26 +2,26 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87769
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22079
-"AS398324","Censys, Inc.",14085
+"AS398324","Censys, Inc.",14090
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10473
+"AS396982","Google LLC",10480
 "AS14061","DigitalOcean, LLC",8129
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5906
+"AS16276","OVH SAS",5907
 "AS4134","Chinanet",5034
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4450
 "AS16509","Amazon.com, Inc.",4345
 "AS45102","Alibaba (US) Technology Co., Ltd.",4024
 "AS396998","Path Network, Inc.",3992
-"AS0","",3647
+"AS0","",3650
 "AS63949","Akamai Technologies, Inc.",3623
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3189
 "AS8075","Microsoft Corporation",2801
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2622
+"AS6939","Hurricane Electric LLC",2624
 "AS142002","Scloud Pte Ltd",2560
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1770
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS36352","HostPapa",1358
 "AS13335","Cloudflare, Inc.",1354
 "AS215269","LAZYCLOUD LTD",1312
-"AS23470","ReliableSite.Net LLC",1228
+"AS23470","ReliableSite.Net LLC",1230
 "AS174","Cogent Communications",1202
 "AS22552","eSited Solutions",1184
 "AS204428","SS-Net",1182
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS12876","ONLINE S.A.S.",508
 "AS201814","MEVSPACE sp. z o.o.",505
-"AS53667","FranTech Solutions",502
+"AS53667","FranTech Solutions",503
 "AS50360","Tamatiya EOOD",492
 "AS9829","Bharat Sanchar Nigam Ltd",477
 "AS212238","Datacamp Limited",464
@@ -75,7 +75,7 @@ ASN,Organization,IP_Count
 "AS7018","AT&T Enterprises, LLC",384
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS21859","Zenlayer Inc",360
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",353
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",354
 "AS47890","UNMANAGED LTD",348
 "AS7922","Comcast Cable Communications, LLC",345
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
@@ -222,9 +222,9 @@ ASN,Organization,IP_Count
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",34
 "AS4760","PCCW IMS Limited",34
 "AS9198","JSC Kazakhtelecom",34
+"AS146817","Hubei Feixun Network Co., Ltd",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
-"AS146817","Hubei Feixun Network Co., Ltd",32
 "AS149705","PT Wijaya Trimitra Indonesia",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
 "AS269193","Iktelecom Ltda",32
@@ -248,6 +248,7 @@ ASN,Organization,IP_Count
 "AS3269","Telecom Italia S.p.A.",28
 "AS4847","China Networks Inter-Exchange",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
+"AS21127","Joint Stock Company TransTeleCom",27
 "AS329009","Spectrum Internet Service Ltd",27
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
@@ -258,7 +259,6 @@ ASN,Organization,IP_Count
 "AS12912","T-Mobile Polska S.A.",26
 "AS13213","UK-2 Limited",26
 "AS17995","PT iForte Global Internet",26
-"AS21127","Joint Stock Company TransTeleCom",26
 "AS2200","Renater",26
 "AS23693","PT. Telekomunikasi Selular",26
 "AS3209","Vodafone GmbH",26
@@ -389,6 +389,7 @@ ASN,Organization,IP_Count
 "AS30600","Metronet",14
 "AS3352","TELEFONICA DE ESPANA S.A.U.",14
 "AS37457","Telkom SA Ltd.",14
+"AS39351","31173 Services AB",14
 "AS4808","China Unicom Beijing Province Network",14
 "AS48282","Hosting technology LTD",14
 "AS48721","Flyservers S.A.",14
@@ -406,7 +407,6 @@ ASN,Organization,IP_Count
 "AS3243","MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.",13
 "AS37105","RAIN GROUP HOLDINGS (PTY) LTD",13
 "AS38841","kbro CO. Ltd.",13
-"AS39351","31173 Services AB",13
 "AS53006","ALGAR TELECOM S/A",13
 "AS11351","Charter Communications Inc",12
 "AS202520","SkyPass Solutions Sp. z.o.o.",12
@@ -752,6 +752,7 @@ ASN,Organization,IP_Count
 "AS207957","SERV.HOST GROUP LTD",4
 "AS208040","RSS (RAPID SOFTWARE SYSTEMS) CYPRUS LTD",4
 "AS208208","Marco Lingl trading as Cyberse GmbH & Co. KG",4
+"AS20853","eTOP sp. z o.o.",4
 "AS211301","Collin Schneeweiss trading as Unesty Company",4
 "AS212042","Istqrar for Servers Services Ltd",4
 "AS21334","One Hungary Ltd.",4
@@ -886,7 +887,6 @@ ASN,Organization,IP_Count
 "AS203542","IT-PROF LLC",3
 "AS204170","Awaser Oman LLC",3
 "AS20454","SECURED SERVERS LLC",3
-"AS20853","eTOP sp. z o.o.",3
 "AS208583","Baffin Bay Networks AB",3
 "AS211826","Istqrar for Servers Services Ltd",3
 "AS213354","INTERNATIONAL HOSTING SOLUTIONS LLP",3
@@ -2416,6 +2416,7 @@ ASN,Organization,IP_Count
 "AS272112","TELECABLE DOMINICANO, S.A.",1
 "AS272120","SERVICIOS INTERCONEXION INALAMBRICA ATENEA SRL",1
 "AS272137","CONEXION COMERCIALIZACION DE SERVICIOS DE TELECOMUNICACIONES EMPALMERIA Y CONSTR",1
+"AS272162","Fibra Minas",1
 "AS272174","JONATAN F DA SILVA SERVICOS - ME",1
 "AS272605","G4 SOLUCOES EM INTERNET E MULTIMIDIA LTDA",1
 "AS272744","DC INTERNET EIRELI",1
