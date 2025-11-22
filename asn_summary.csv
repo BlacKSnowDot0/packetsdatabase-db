@@ -1,13 +1,13 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87769
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22079
+"AS211298","Driftnet Ltd",22080
 "AS398324","Censys, Inc.",14112
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10490
+"AS396982","Google LLC",10491
 "AS14061","DigitalOcean, LLC",8131
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5909
+"AS16276","OVH SAS",5911
 "AS4134","Chinanet",5034
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4450
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1364
 "AS13335","Cloudflare, Inc.",1354
 "AS215269","LAZYCLOUD LTD",1312
-"AS23470","ReliableSite.Net LLC",1230
+"AS23470","ReliableSite.Net LLC",1240
 "AS174","Cogent Communications",1203
 "AS22552","eSited Solutions",1184
 "AS204428","SS-Net",1182
@@ -96,7 +96,7 @@ ASN,Organization,IP_Count
 "AS701","Verizon Business",223
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
-"AS29066","velia.net Internetdienste GmbH",199
+"AS29066","velia.net Internetdienste GmbH",200
 "AS12555","Data-center IMAQLIQ Ltd.",193
 "AS12389","PJSC Rostelecom",191
 "AS29484","Ruhr-Universitaet Bochum",188
@@ -862,6 +862,7 @@ ASN,Organization,IP_Count
 "AS142468","VANSHIKA ITLAM INDIA PVT LTD",3
 "AS14522","Satnet",3
 "AS147065","Lao telecom construction Co.,Ltd",3
+"AS147293","NEAROUTE LIMITED",3
 "AS149402","Diskominfo Pemerintah Kabupaten Probolinggo",3
 "AS149672","PT Aktech Digital Solutions",3
 "AS152769","PT Gopal Network Solusindo",3
@@ -1103,7 +1104,6 @@ ASN,Organization,IP_Count
 "AS146966","China Telecom",2
 "AS147106","PT Global Erasiber Teknologi",2
 "AS147180","LR International",2
-"AS147293","NEAROUTE LIMITED",2
 "AS149319","PT Trisna Mega Abadi",2
 "AS149883","PT Tekling Media Telematika",2
 "AS150208","PT Internusa Duta Makmur",2
