@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87769
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22079
-"AS398324","Censys, Inc.",14101
+"AS398324","Censys, Inc.",14103
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10483
-"AS14061","DigitalOcean, LLC",8130
+"AS396982","Google LLC",10484
+"AS14061","DigitalOcean, LLC",8131
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5908
 "AS4134","Chinanet",5034
@@ -148,9 +148,9 @@ ASN,Organization,IP_Count
 "AS52053","REDHEBERG Association declaree",69
 "AS23724","IDC, China Telecommunications Corporation",68
 "AS834","IPXO LLC",68
+"AS150263","PT Alnet Telekomunikasi Indonesia",67
 "AS328867","Corebach Backbone SARL",67
 "AS55720","Gigabit Hosting Sdn Bhd",67
-"AS150263","PT Alnet Telekomunikasi Indonesia",66
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
 "AS215590","DpkgSoft International Limited",66
 "AS398101","GoDaddy.com, LLC",65
@@ -186,8 +186,8 @@ ASN,Organization,IP_Count
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
 "AS30633","Leaseweb USA, Inc.",46
+"AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",46
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",46
-"AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",45
 "AS141995","Contabo Asia Private Limited",44
 "AS396356","Latitude.sh",44
 "AS42708","GleSYS AB",44
