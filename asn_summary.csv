@@ -35,8 +35,8 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1364
 "AS13335","Cloudflare, Inc.",1354
 "AS215269","LAZYCLOUD LTD",1312
-"AS23470","ReliableSite.Net LLC",1251
-"AS174","Cogent Communications",1205
+"AS23470","ReliableSite.Net LLC",1271
+"AS174","Cogent Communications",1206
 "AS22552","eSited Solutions",1184
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
@@ -47,7 +47,7 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",828
-"AS215925","VPSVAULT.HOST LTD",826
+"AS215925","VPSVAULT.HOST LTD",827
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",782
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
@@ -189,11 +189,11 @@ ASN,Organization,IP_Count
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",46
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",46
 "AS141995","Contabo Asia Private Limited",44
+"AS30058","FDCservers.net",44
 "AS396356","Latitude.sh",44
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
 "AS152194","CTG Server Limited",43
-"AS30058","FDCservers.net",43
 "AS20473","The Constant Company, LLC",42
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS262378","Compuservice Empreendimentos Ltda",42
@@ -417,6 +417,7 @@ ASN,Organization,IP_Count
 "AS35297","Dataline LLC",12
 "AS36992","ETISALAT MISR",12
 "AS38264","Wateen Telecom Limited",12
+"AS400992","ZhouyiSat Communications",12
 "AS41075","ATW Internet Kft.",12
 "AS41436","Kamatera Inc",12
 "AS4181","TDS TELECOM",12
@@ -435,7 +436,6 @@ ASN,Organization,IP_Count
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
 "AS24547","China Mobile",11
 "AS37611","Afrihost (Pty) Ltd",11
-"AS400992","ZhouyiSat Communications",11
 "AS44901","Belcloud LTD",11
 "AS45820","TTSL-ISP DIVISION",11
 "AS58563","CHINANET Hubei province network",11
