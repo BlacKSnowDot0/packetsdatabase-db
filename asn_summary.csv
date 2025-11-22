@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22079
 "AS398324","Censys, Inc.",14094
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10480
+"AS396982","Google LLC",10481
 "AS14061","DigitalOcean, LLC",8129
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5907
@@ -14,14 +14,14 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4345
 "AS45102","Alibaba (US) Technology Co., Ltd.",4024
 "AS396998","Path Network, Inc.",3992
-"AS0","",3651
+"AS0","",3656
 "AS63949","Akamai Technologies, Inc.",3623
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3189
-"AS8075","Microsoft Corporation",2801
+"AS51396","Pfcloud UG",3190
+"AS8075","Microsoft Corporation",2802
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2625
+"AS6939","Hurricane Electric LLC",2626
 "AS142002","Scloud Pte Ltd",2560
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1770
@@ -498,6 +498,7 @@ ASN,Organization,IP_Count
 "AS2516","KDDI CORPORATION",8
 "AS2527","Sony Network Communications Inc.",8
 "AS262459","Osirnet Info Telecom Ltda.",8
+"AS266015","JC2000 Telecomunicações Ltda",8
 "AS27967","Gobernacion de la Provincia de Buenos Aires",8
 "AS2860","NOS COMUNICACOES, S.A.",8
 "AS328723","Telasera Technologies PTY LTD",8
@@ -533,7 +534,6 @@ ASN,Organization,IP_Count
 "AS24961","WIIT AG",7
 "AS25490","PJSC Rostelecom",7
 "AS263238","Eliana Vanessa Morocho Oña",7
-"AS266015","JC2000 Telecomunicações Ltda",7
 "AS267507","SRX TECNOLOGIA DA INFORMACAO LTDA",7
 "AS269003","KIMNET SOLUCOES",7
 "AS272928","P&C ON LINE S.R.L. (NETWAY INTERNET)",7
@@ -756,6 +756,7 @@ ASN,Organization,IP_Count
 "AS211301","Collin Schneeweiss trading as Unesty Company",4
 "AS212042","Istqrar for Servers Services Ltd",4
 "AS21334","One Hungary Ltd.",4
+"AS214996","netcup GmbH",4
 "AS215439","PLAY2GO INTERNATIONAL LIMITED",4
 "AS216211","CYBERVERSE LLC",4
 "AS22047","VTR BANDA ANCHA S.A.",4
@@ -892,7 +893,6 @@ ASN,Organization,IP_Count
 "AS213354","INTERNATIONAL HOSTING SOLUTIONS LLP",3
 "AS214382","Bulent Aydin trading as Hostlayici",3
 "AS21499","Host Europe GmbH",3
-"AS214996","netcup GmbH",3
 "AS21565","Horry Telephone Cooperative, Inc.",3
 "AS216071","SERVERS TECH FZCO",3
 "AS23028","Team Cymru Inc.",3
@@ -1324,6 +1324,7 @@ ASN,Organization,IP_Count
 "AS34296","Millenicom Telekomunikasyon Hizmetleri Anonim Sirketi",2
 "AS34779","T-2, d.o.o.",2
 "AS35213","TOV ""Kompjuternie Merezhi""",2
+"AS35278","SPRINTHOST.RU LLC",2
 "AS35586","VOLYN OPTICAL NETWORKS LLC",2
 "AS35986","Vyve Broadband",2
 "AS36692","Cisco OpenDNS, LLC",2
@@ -2571,7 +2572,6 @@ ASN,Organization,IP_Count
 "AS35004","Branch Enterprise ""Netgroup-Service""",1
 "AS35047","Abissnet sh.a.",1
 "AS35125","PJSC Rostelecom",1
-"AS35278","SPRINTHOST.RU LLC",1
 "AS35298","PJSC MegaFon",1
 "AS35346","SC ITNS.NET SRL",1
 "AS35362","LIMITED LIABILITY COMPANY ""BEST SOLUTIONS""",1
