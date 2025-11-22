@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87769
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22081
-"AS398324","Censys, Inc.",14123
+"AS398324","Censys, Inc.",14124
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10492
 "AS14061","DigitalOcean, LLC",8137
@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3624
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3194
+"AS51396","Pfcloud UG",3195
 "AS8075","Microsoft Corporation",2807
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2627
@@ -29,10 +29,10 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1535
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
+"AS23470","ReliableSite.Net LLC",1421
 "AS398722","Censys, Inc.",1414
 "AS32475","Internap Holding LLC",1408
-"AS23470","ReliableSite.Net LLC",1387
-"AS36352","HostPapa",1370
+"AS36352","HostPapa",1371
 "AS49870","Alsycon B.V.",1364
 "AS13335","Cloudflare, Inc.",1354
 "AS215269","LAZYCLOUD LTD",1312
@@ -378,6 +378,7 @@ ASN,Organization,IP_Count
 "AS31113","Artkomm LLC",15
 "AS397283","RocketNode Inc",15
 "AS48282","Hosting technology LTD",15
+"AS60781","LeaseWeb Netherlands B.V.",15
 "AS6327","Shaw Communications Inc.",15
 "AS64236","UnReal Servers, LLC",15
 "AS6849","JSC ""Ukrtelecom""",15
@@ -393,7 +394,6 @@ ASN,Organization,IP_Count
 "AS39351","31173 Services AB",14
 "AS4808","China Unicom Beijing Province Network",14
 "AS48721","Flyservers S.A.",14
-"AS60781","LeaseWeb Netherlands B.V.",14
 "AS134420","Chongqing Telecom",13
 "AS137718","Beijing Volcano Engine Technology Co., Ltd.",13
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",13
@@ -1276,6 +1276,7 @@ ASN,Organization,IP_Count
 "AS271187","Garbin Center Informatica Ltda Me",2
 "AS271907","COLNETWORK C.A.",2
 "AS27202","City of Bardstown, Kentucky",2
+"AS272162","Fibra Minas",2
 "AS272786","X99 INTERNET LTDA.",2
 "AS27323","Wowrack.com",2
 "AS27693","NipBr - NipCable do Brasil Telecom LTDA",2
@@ -2418,7 +2419,6 @@ ASN,Organization,IP_Count
 "AS272112","TELECABLE DOMINICANO, S.A.",1
 "AS272120","SERVICIOS INTERCONEXION INALAMBRICA ATENEA SRL",1
 "AS272137","CONEXION COMERCIALIZACION DE SERVICIOS DE TELECOMUNICACIONES EMPALMERIA Y CONSTR",1
-"AS272162","Fibra Minas",1
 "AS272174","JONATAN F DA SILVA SERVICOS - ME",1
 "AS272605","G4 SOLUCOES EM INTERNET E MULTIMIDIA LTDA",1
 "AS272744","DC INTERNET EIRELI",1
