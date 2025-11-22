@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87769
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22079
-"AS398324","Censys, Inc.",14094
+"AS398324","Censys, Inc.",14095
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10481
+"AS396982","Google LLC",10482
 "AS14061","DigitalOcean, LLC",8129
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5907
@@ -14,11 +14,11 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4345
 "AS45102","Alibaba (US) Technology Co., Ltd.",4024
 "AS396998","Path Network, Inc.",3992
-"AS0","",3656
+"AS0","",3658
 "AS63949","Akamai Technologies, Inc.",3623
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3190
+"AS51396","Pfcloud UG",3191
 "AS8075","Microsoft Corporation",2802
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2626
@@ -347,6 +347,7 @@ ASN,Organization,IP_Count
 "AS24757","EthioNet",17
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
 "AS30823","aurologic GmbH",17
+"AS33363","Charter Communications, Inc",17
 "AS45117","Ishan's Network",17
 "AS46375","Sonic Telecom LLC",17
 "AS50340","JSC Selectel",17
@@ -359,7 +360,6 @@ ASN,Organization,IP_Count
 "AS25198","INTERKVM HOST SRL",16
 "AS3215","Orange S.A.",16
 "AS328539","Giga for Telecommunication and Technology Limited",16
-"AS33363","Charter Communications, Inc",16
 "AS46261","QuickPacket, LLC",16
 "AS48753","AVA HOST SRL",16
 "AS6597","Coloblox Data Centers Inc",16
