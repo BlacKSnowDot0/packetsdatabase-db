@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87769
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22081
-"AS398324","Censys, Inc.",14124
+"AS398324","Censys, Inc.",14125
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10493
-"AS14061","DigitalOcean, LLC",8137
+"AS14061","DigitalOcean, LLC",8141
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5914
 "AS4134","Chinanet",5034
@@ -18,21 +18,21 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3624
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3195
+"AS51396","Pfcloud UG",3196
 "AS8075","Microsoft Corporation",2807
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2627
-"AS142002","Scloud Pte Ltd",2560
+"AS142002","Scloud Pte Ltd",2561
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1773
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1535
 "AS43260","DGN TEKNOLOJI A.S.",1447
+"AS23470","ReliableSite.Net LLC",1439
 "AS48925","VibeGAMES B.V.",1424
-"AS23470","ReliableSite.Net LLC",1421
 "AS398722","Censys, Inc.",1414
 "AS32475","Internap Holding LLC",1408
-"AS36352","HostPapa",1371
+"AS36352","HostPapa",1372
 "AS49870","Alsycon B.V.",1364
 "AS13335","Cloudflare, Inc.",1354
 "AS215269","LAZYCLOUD LTD",1312
@@ -205,12 +205,12 @@ ASN,Organization,IP_Count
 "AS27699","TELEFÔNICA BRASIL S.A",39
 "AS46475","Limestone Networks, Inc.",39
 "AS8048","CANTV Servicios, Venezuela",39
+"AS200590","NLS Kazakhstan LLC",38
 "AS26599","TELEFÔNICA BRASIL S.A",38
 "AS4538","China Education and Research Network Center",38
 "AS5089","Virgin Media Limited",38
 "AS12322","Free SAS",37
 "AS1680","Cellcom Fixed Line Communication L.P",37
-"AS200590","NLS Kazakhstan LLC",37
 "AS210558","1337 Services GmbH",37
 "AS8167","V tal",37
 "AS42624","Global-Data System IT Corporation",36
