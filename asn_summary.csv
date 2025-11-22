@@ -5,14 +5,14 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14119
 "AS32934","Facebook, Inc.",12500
 "AS396982","Google LLC",10491
-"AS14061","DigitalOcean, LLC",8133
+"AS14061","DigitalOcean, LLC",8135
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5911
+"AS16276","OVH SAS",5912
 "AS4134","Chinanet",5034
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4450
 "AS16509","Amazon.com, Inc.",4346
-"AS45102","Alibaba (US) Technology Co., Ltd.",4024
+"AS45102","Alibaba (US) Technology Co., Ltd.",4025
 "AS396998","Path Network, Inc.",3992
 "AS0","",3660
 "AS63949","Akamai Technologies, Inc.",3624
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1414
 "AS32475","Internap Holding LLC",1408
-"AS36352","HostPapa",1369
+"AS36352","HostPapa",1370
 "AS49870","Alsycon B.V.",1364
 "AS13335","Cloudflare, Inc.",1354
 "AS215269","LAZYCLOUD LTD",1312
@@ -61,7 +61,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",558
 "AS401120","cheapy.host LLC",557
 "AS198953","Proton66 OOO",527
-"AS51115","HLL LLC",523
+"AS51115","HLL LLC",524
 "AS12876","ONLINE S.A.S.",511
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",505
