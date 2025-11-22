@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS401120","cheapy.host LLC",557
 "AS198953","Proton66 OOO",527
 "AS51115","HLL LLC",523
-"AS12876","ONLINE S.A.S.",510
+"AS12876","ONLINE S.A.S.",511
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",505
 "AS53667","FranTech Solutions",503
@@ -178,7 +178,7 @@ ASN,Organization,IP_Count
 "AS213877","u1host ltd",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS149746","PT Blip Integrator Provider",53
-"AS215240","Silent Connection Ltd.",51
+"AS215240","Silent Connection Ltd.",52
 "AS12816","Leibniz-Rechenzentrum",49
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
@@ -377,6 +377,7 @@ ASN,Organization,IP_Count
 "AS28201","Companhia Itabirana Telecomunicações Ltda",15
 "AS31113","Artkomm LLC",15
 "AS397283","RocketNode Inc",15
+"AS48282","Hosting technology LTD",15
 "AS6327","Shaw Communications Inc.",15
 "AS64236","UnReal Servers, LLC",15
 "AS6849","JSC ""Ukrtelecom""",15
@@ -391,7 +392,6 @@ ASN,Organization,IP_Count
 "AS37457","Telkom SA Ltd.",14
 "AS39351","31173 Services AB",14
 "AS4808","China Unicom Beijing Province Network",14
-"AS48282","Hosting technology LTD",14
 "AS48721","Flyservers S.A.",14
 "AS60781","LeaseWeb Netherlands B.V.",14
 "AS134420","Chongqing Telecom",13
