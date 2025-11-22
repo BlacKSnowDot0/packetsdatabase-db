@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3624
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3196
+"AS51396","Pfcloud UG",3198
 "AS8075","Microsoft Corporation",2807
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2627
@@ -105,7 +105,7 @@ ASN,Organization,IP_Count
 "AS401116","Nybula LLC",170
 "AS50219","LNK SYSTEMS MUNTENIA SRL",156
 "AS206264","Amarutu Technology Ltd",153
-"AS42237","w1n ltd",147
+"AS42237","w1n ltd",148
 "AS262551","Farol Telecom",144
 "AS47105","Vault Dweller OU",141
 "AS14956","RouterHosting LLC",133
@@ -614,6 +614,7 @@ ASN,Organization,IP_Count
 "AS48642","Joint stock company ""For""",6
 "AS55699","PT. Cemerlang Multimedia",6
 "AS5603","Telekom Slovenije, d.d.",6
+"AS56047","China Mobile Communications Corporation",6
 "AS56971","CGI GLOBAL LIMITED",6
 "AS58495","PT Parsaoran Global Datatrans",6
 "AS58519","Cloud Computing Corporation",6
@@ -705,7 +706,6 @@ ASN,Organization,IP_Count
 "AS53167","SEBRATEL TECNOLOGIA LTDA",5
 "AS5410","Bouygues Telecom SA",5
 "AS56044","China Mobile Communications Corporation",5
-"AS56047","China Mobile Communications Corporation",5
 "AS56246","PT Sumber Data Indonesia",5
 "AS56329","Gigaclear Limited",5
 "AS58118","SC ADINET-Com SRL",5
