@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3192
-"AS8075","Microsoft Corporation",2803
+"AS8075","Microsoft Corporation",2804
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2627
 "AS142002","Scloud Pte Ltd",2560
@@ -97,9 +97,9 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS29066","velia.net Internetdienste GmbH",199
-"AS12555","Data-center IMAQLIQ Ltd.",192
+"AS12555","Data-center IMAQLIQ Ltd.",193
 "AS12389","PJSC Rostelecom",191
-"AS29484","Ruhr-Universitaet Bochum",187
+"AS29484","Ruhr-Universitaet Bochum",188
 "AS7552","Viettel Group",182
 "AS63199","CDS Global Cloud Co., Ltd",179
 "AS401116","Nybula LLC",170
@@ -435,6 +435,7 @@ ASN,Organization,IP_Count
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
 "AS24547","China Mobile",11
 "AS37611","Afrihost (Pty) Ltd",11
+"AS400992","ZhouyiSat Communications",11
 "AS44901","Belcloud LTD",11
 "AS45820","TTSL-ISP DIVISION",11
 "AS58563","CHINANET Hubei province network",11
@@ -449,7 +450,6 @@ ASN,Organization,IP_Count
 "AS36903","Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",10
 "AS37705","TOPNET",10
 "AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",10
-"AS400992","ZhouyiSat Communications",10
 "AS41420","Xentech B.V.",10
 "AS47524","Turksat Uydu Haberlesme ve Kablo TV Isletme A.S.",10
 "AS49434","FBW NETWORKS SAS",10
@@ -648,6 +648,7 @@ ASN,Organization,IP_Count
 "AS18809","Cable Onda",5
 "AS198983","Joseph Hofmann trading as 'Tornado Datacenter GmbH & Co. KG'",5
 "AS202468","Noyan Abr Arvan Co. ( Private Joint Stock)",5
+"AS203459","AL-MARAJ AL-ALAMIYA Co",5
 "AS20412","Clarity Telecom LLC",5
 "AS206262","TelKos L.L.C",5
 "AS207656","Epinatura LLC",5
@@ -747,7 +748,6 @@ ASN,Organization,IP_Count
 "AS200845","AVATEL TELECOM, SA",4
 "AS20150","anyNode",4
 "AS203380","DA International Group Ltd.",4
-"AS203459","AL-MARAJ AL-ALAMIYA Co",4
 "AS206216","Advin Services LLC",4
 "AS207083","HostSlim B.V.",4
 "AS207957","SERV.HOST GROUP LTD",4
@@ -810,6 +810,7 @@ ASN,Organization,IP_Count
 "AS52941","SPACE NETWORK",4
 "AS53449","OEC Fiber",4
 "AS5416","BEYON B.S.C.",4
+"AS57043","HOSTKEY B.V.",4
 "AS58369","PT. Fiber Networks Indonesia",4
 "AS59142","Pemerintah Kota Batam",4
 "AS60404","The Infrastructure Group B.V.",4
@@ -999,7 +1000,6 @@ ASN,Organization,IP_Count
 "AS55685","PT Jala Lintas Media",3
 "AS56400","SPD Chernega Aleksandr Anatolevich",3
 "AS56478","Hyperoptic Ltd",3
-"AS57043","HOSTKEY B.V.",3
 "AS58715","Earth Telecommunication ( pvt ) Limited",3
 "AS59497","Buknet LLC",3
 "AS6057","Administracion Nacional de Telecomunicaciones",3
