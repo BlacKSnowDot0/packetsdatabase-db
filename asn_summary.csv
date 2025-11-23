@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14157
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10496
-"AS14061","DigitalOcean, LLC",8147
+"AS14061","DigitalOcean, LLC",8148
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5916
 "AS4134","Chinanet",5036
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",783
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
-"AS51167","Contabo GmbH",722
+"AS51167","Contabo GmbH",723
 "AS10439","CariNet, Inc.",681
 "AS14618","Amazon.com, Inc.",670
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -86,8 +86,8 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",292
+"AS208843","Alpha Strike Labs GmbH",281
 "AS213613","BOTSHIELD LTD",281
-"AS208843","Alpha Strike Labs GmbH",280
 "AS18403","FPT Telecom Company",256
 "AS48090","TECHOFF SRV LIMITED",255
 "AS60223","Netiface Limited",250
@@ -144,7 +144,7 @@ ASN,Organization,IP_Count
 "AS56046","China Mobile Communications Corporation",74
 "AS22773","Cox Communications Inc.",73
 "AS31898","Oracle Corporation",73
-"AS8402","PJSC ""Vimpelcom""",72
+"AS8402","PJSC ""Vimpelcom""",73
 "AS52053","REDHEBERG Association declaree",69
 "AS23724","IDC, China Telecommunications Corporation",68
 "AS834","IPXO LLC",68
@@ -298,6 +298,7 @@ ASN,Organization,IP_Count
 "AS16591","Google Fiber Inc.",21
 "AS17816","China Unicom IP network China169 Guangdong province",21
 "AS202796","JSR IT B.V.",21
+"AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",21
 "AS214668","AxusHost B.V.",21
 "AS24940","Hetzner Online GmbH",21
 "AS3320","Deutsche Telekom AG",21
@@ -312,7 +313,6 @@ ASN,Organization,IP_Count
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",20
-"AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",20
 "AS24348","CERNET2 IX at Tsinghua University",20
 "AS28546","Servnet Mexico, S.A. de C.V.",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
