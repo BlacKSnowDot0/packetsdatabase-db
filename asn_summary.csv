@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87769
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22083
-"AS398324","Censys, Inc.",14130
+"AS398324","Censys, Inc.",14133
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10494
+"AS396982","Google LLC",10495
 "AS14061","DigitalOcean, LLC",8141
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5915
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1774
 "AS214295","SKYNET NETWORK LTD",1631
-"AS23470","ReliableSite.Net LLC",1574
+"AS23470","ReliableSite.Net LLC",1591
 "AS209605","UAB Host Baltic",1535
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
@@ -75,7 +75,7 @@ ASN,Organization,IP_Count
 "AS7018","AT&T Enterprises, LLC",384
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS21859","Zenlayer Inc",360
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",355
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",356
 "AS47890","UNMANAGED LTD",348
 "AS7922","Comcast Cable Communications, LLC",345
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
@@ -239,7 +239,7 @@ ASN,Organization,IP_Count
 "AS204834","Shabakieh Isfahan Co PJSC",30
 "AS214417","Andrii Hrosh",30
 "AS43641","SOLLUTIUM EU Sp z.o.o.",30
-"AS55933","Cloudie Limited",29
+"AS55933","Cloudie Limited",30
 "AS6134","XNNET LLC",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
@@ -1137,6 +1137,7 @@ ASN,Organization,IP_Count
 "AS18001","Dialog Axiata Plc",2
 "AS18103","Neuviz Net",2
 "AS18233","Philippine Telelgraph & Telephone",2
+"AS18318","LG HelloVision Corp.",2
 "AS18501","CyberCloud Professionals LLC",2
 "AS19108","Suddenlink Communications",2
 "AS19429","ETB - Colombia",2
@@ -1300,6 +1301,7 @@ ASN,Organization,IP_Count
 "AS29456","PJSC Rostelecom",2
 "AS30844","Liquid Telecommunications Ltd",2
 "AS30936","RENET COM Ltd.",2
+"AS31012","A1 Hrvatska d.o.o.",2
 "AS31034","Aruba S.p.A.",2
 "AS31115","INTRED S.P.A.",2
 "AS31143","COSMOS TV JLLC",2
@@ -1821,7 +1823,6 @@ ASN,Organization,IP_Count
 "AS18187","WifiCity, Inc",1
 "AS18281","Tokoname New-TV Corporation",1
 "AS18282","Tonami System Solutions Co., Ltd.",1
-"AS18318","LG HelloVision Corp.",1
 "AS18412","Far EastTone Telecommunication Co., Ltd.",1
 "AS18419","DaDa Broadband LTD.",1
 "AS18429","Extra-Lan Technologies Co., LTD",1
@@ -2509,7 +2510,6 @@ ASN,Organization,IP_Count
 "AS30881","MTS PJSC",1
 "AS30985","IKATEL SA",1
 "AS30992","MTN Network Solutions (Cameroon)",1
-"AS31012","A1 Hrvatska d.o.o.",1
 "AS31204","ORANGE MOLDOVA S.A.",1
 "AS31213","PJSC MegaFon",1
 "AS31214","TIS Dialog LLC",1
