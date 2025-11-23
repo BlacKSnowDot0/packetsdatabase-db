@@ -1,10 +1,10 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87771
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22087
-"AS398324","Censys, Inc.",14164
+"AS211298","Driftnet Ltd",22089
+"AS398324","Censys, Inc.",14165
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10498
+"AS396982","Google LLC",10499
 "AS14061","DigitalOcean, LLC",8158
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5919
@@ -129,8 +129,8 @@ ASN,Organization,IP_Count
 "AS63018","Dedicated.com",92
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS136435","ELITE COMMUNICATION",87
+"AS28209","Under Servicos de Internet Ltda",85
 "AS58461","Chinanet",85
-"AS28209","Under Servicos de Internet Ltda",84
 "AS4766","Korea Telecom",84
 "AS11320","LightEdge Solutions",81
 "AS16735","ALGAR TELECOM S/A",81
@@ -198,9 +198,9 @@ ASN,Organization,IP_Count
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS262378","Compuservice Empreendimentos Ltda",42
 "AS7738","V tal",42
+"AS21928","T-Mobile USA, Inc.",41
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",41
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",41
-"AS21928","T-Mobile USA, Inc.",40
 "AS23969","TOT Public Company Limited",40
 "AS43641","SOLLUTIUM EU Sp z.o.o.",40
 "AS27699","TELEFÔNICA BRASIL S.A",39
@@ -214,9 +214,9 @@ ASN,Organization,IP_Count
 "AS1680","Cellcom Fixed Line Communication L.P",37
 "AS210558","1337 Services GmbH",37
 "AS8167","V tal",37
+"AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",36
 "AS42624","Global-Data System IT Corporation",36
 "AS213790","Limited Network LTD",35
-"AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",35
 "AS30083","velia.net",35
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",35
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",35
@@ -2621,6 +2621,7 @@ ASN,Organization,IP_Count
 "AS38673","Korea Cable TV Kwangju Broadcasting",1
 "AS38700","SMILESERV",1
 "AS38713","Satcomm (Pvt.) Ltd.",1
+"AS38732","CMC Telecom Infrastructure Company",1
 "AS38758","PT. HIPERNET INDODATA",1
 "AS38778","PT. Dutakom Wibawa Putra",1
 "AS38794","United Information Highway Co.,Ltd.",1
