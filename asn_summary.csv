@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87771
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22089
-"AS398324","Censys, Inc.",14165
+"AS398324","Censys, Inc.",14166
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10499
+"AS396982","Google LLC",10500
 "AS14061","DigitalOcean, LLC",8158
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5919
@@ -97,7 +97,7 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS29066","velia.net Internetdienste GmbH",204
-"AS12389","PJSC Rostelecom",195
+"AS12389","PJSC Rostelecom",196
 "AS12555","Data-center IMAQLIQ Ltd.",193
 "AS29484","Ruhr-Universitaet Bochum",189
 "AS7552","Viettel Group",182
@@ -2589,6 +2589,7 @@ ASN,Organization,IP_Count
 "AS36149","Hawaiian Telcom Services Company, Inc.",1
 "AS36351","SoftLayer Technologies Inc.",1
 "AS36374","Stellar Association, LLC",1
+"AS36375","University of Michigan",1
 "AS36445","Coextro",1
 "AS37002","Reunicable SAS",1
 "AS37053","RSAWEB (PTY) LTD",1
