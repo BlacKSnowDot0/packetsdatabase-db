@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3200
 "AS8075","Microsoft Corporation",2808
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2628
+"AS6939","Hurricane Electric LLC",2629
 "AS142002","Scloud Pte Ltd",2561
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1775
@@ -60,7 +60,7 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS9009","M247 Europe SRL",558
 "AS401120","cheapy.host LLC",557
-"AS51115","HLL LLC",528
+"AS51115","HLL LLC",529
 "AS198953","Proton66 OOO",527
 "AS12876","ONLINE S.A.S.",514
 "AS140292","China Telecom",509
@@ -182,13 +182,13 @@ ASN,Organization,IP_Count
 "AS12816","Leibniz-Rechenzentrum",49
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
+"AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",47
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",47
 "AS10796","Charter Communications Inc",46
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
 "AS30058","FDCservers.net",46
 "AS30633","Leaseweb USA, Inc.",46
-"AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",46
 "AS141995","Contabo Asia Private Limited",44
 "AS396356","Latitude.sh",44
 "AS42708","GleSYS AB",44
@@ -202,14 +202,15 @@ ASN,Organization,IP_Count
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",41
 "AS21928","T-Mobile USA, Inc.",40
 "AS23969","TOT Public Company Limited",40
+"AS43641","SOLLUTIUM EU Sp z.o.o.",40
 "AS27699","TELEFÔNICA BRASIL S.A",39
 "AS46475","Limestone Networks, Inc.",39
 "AS8048","CANTV Servicios, Venezuela",39
+"AS12322","Free SAS",38
 "AS200590","NLS Kazakhstan LLC",38
 "AS26599","TELEFÔNICA BRASIL S.A",38
 "AS4538","China Education and Research Network Center",38
 "AS5089","Virgin Media Limited",38
-"AS12322","Free SAS",37
 "AS1680","Cellcom Fixed Line Communication L.P",37
 "AS210558","1337 Services GmbH",37
 "AS8167","V tal",37
@@ -238,7 +239,6 @@ ASN,Organization,IP_Count
 "AS200593","PROSPERO OOO",30
 "AS204834","Shabakieh Isfahan Co PJSC",30
 "AS214417","Andrii Hrosh",30
-"AS43641","SOLLUTIUM EU Sp z.o.o.",30
 "AS55933","Cloudie Limited",30
 "AS6134","XNNET LLC",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
@@ -439,6 +439,7 @@ ASN,Organization,IP_Count
 "AS44901","Belcloud LTD",11
 "AS45820","TTSL-ISP DIVISION",11
 "AS58563","CHINANET Hubei province network",11
+"AS1221","Telstra Limited",10
 "AS12271","Charter Communications Inc",10
 "AS1267","RIPE Network Coordination Centre",10
 "AS149359","PT Persada Data Multimedia",10
@@ -460,7 +461,6 @@ ASN,Organization,IP_Count
 "AS62068","SpectraIP B.V.",10
 "AS9304","HGC Global Communications Limited",10
 "AS9930","TT DOTCOM SDN BHD",10
-"AS1221","Telstra Limited",9
 "AS12353","Vodafone Portugal - Communicacoes Pessoais S.A.",9
 "AS131596","TBC",9
 "AS133481","ADVANCED WIRELESS NETWORK COMPANY LIMITED",9
