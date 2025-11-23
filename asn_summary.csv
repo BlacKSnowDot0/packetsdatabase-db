@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87769
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22086
-"AS398324","Censys, Inc.",14154
+"AS211298","Driftnet Ltd",22087
+"AS398324","Censys, Inc.",14157
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10496
 "AS14061","DigitalOcean, LLC",8147
@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3625
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3202
+"AS51396","Pfcloud UG",3203
 "AS8075","Microsoft Corporation",2809
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2631
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1364
 "AS13335","Cloudflare, Inc.",1354
 "AS215269","LAZYCLOUD LTD",1312
-"AS174","Cogent Communications",1206
+"AS174","Cogent Communications",1207
 "AS22552","eSited Solutions",1184
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS51167","Contabo GmbH",722
 "AS10439","CariNet, Inc.",681
-"AS14618","Amazon.com, Inc.",668
+"AS14618","Amazon.com, Inc.",670
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS4837","CHINA UNICOM China169 Backbone",585
 "AS3462","Chunghwa Telecom Co., Ltd.",581
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",505
 "AS53667","FranTech Solutions",503
 "AS50360","Tamatiya EOOD",492
-"AS9829","Bharat Sanchar Nigam Ltd",479
+"AS9829","Bharat Sanchar Nigam Ltd",480
 "AS212238","Datacamp Limited",465
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
@@ -103,7 +103,7 @@ ASN,Organization,IP_Count
 "AS7552","Viettel Group",182
 "AS63199","CDS Global Cloud Co., Ltd",179
 "AS401116","Nybula LLC",170
-"AS50219","LNK SYSTEMS MUNTENIA SRL",156
+"AS50219","LNK SYSTEMS MUNTENIA SRL",157
 "AS206264","Amarutu Technology Ltd",153
 "AS42237","w1n ltd",148
 "AS262551","Farol Telecom",144
@@ -160,10 +160,10 @@ ASN,Organization,IP_Count
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",63
 "AS140717","China Unicom",61
 "AS200514","KnownSRV Ltd.",61
+"AS5650","Frontier Communications of America, Inc.",61
 "AS6128","Cablevision Systems Corp.",61
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS4812","China Telecom (Group)",60
-"AS5650","Frontier Communications of America, Inc.",60
 "AS20115","Charter Communications",59
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",59
 "AS49544","i3D.net B.V",59
