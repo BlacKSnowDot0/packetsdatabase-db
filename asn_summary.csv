@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87769
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22087
-"AS398324","Censys, Inc.",14157
+"AS398324","Censys, Inc.",14158
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10496
 "AS14061","DigitalOcean, LLC",8148
@@ -762,6 +762,7 @@ ASN,Organization,IP_Count
 "AS216211","CYBERVERSE LLC",4
 "AS22047","VTR BANDA ANCHA S.A.",4
 "AS22418","Cologuard",4
+"AS23028","Team Cymru Inc.",4
 "AS23674","Nayatel (Pvt) Ltd",4
 "AS2514","NTT PC Communications, Inc.",4
 "AS25472","Nova Telecommunications & Media Single Member S.A",4
@@ -897,7 +898,6 @@ ASN,Organization,IP_Count
 "AS21499","Host Europe GmbH",3
 "AS21565","Horry Telephone Cooperative, Inc.",3
 "AS216071","SERVERS TECH FZCO",3
-"AS23028","Team Cymru Inc.",3
 "AS23650","Chinanet Jiangsu",3
 "AS24165","UNION BROADBAND NETWORK",3
 "AS25082","Viner Telecom LLC",3
