@@ -2,17 +2,17 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87769
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22083
-"AS398324","Censys, Inc.",14133
+"AS398324","Censys, Inc.",14135
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10495
 "AS14061","DigitalOcean, LLC",8141
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5915
+"AS16276","OVH SAS",5916
 "AS4134","Chinanet",5035
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4451
 "AS16509","Amazon.com, Inc.",4347
-"AS45102","Alibaba (US) Technology Co., Ltd.",4027
+"AS45102","Alibaba (US) Technology Co., Ltd.",4028
 "AS396998","Path Network, Inc.",3992
 "AS0","",3660
 "AS63949","Akamai Technologies, Inc.",3624
@@ -67,8 +67,8 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",505
 "AS53667","FranTech Solutions",503
 "AS50360","Tamatiya EOOD",492
-"AS9829","Bharat Sanchar Nigam Ltd",478
-"AS212238","Datacamp Limited",464
+"AS9829","Bharat Sanchar Nigam Ltd",479
+"AS212238","Datacamp Limited",465
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -314,6 +314,7 @@ ASN,Organization,IP_Count
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",20
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",20
 "AS24348","CERNET2 IX at Tsinghua University",20
+"AS28546","Servnet Mexico, S.A. de C.V.",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS4816","China Telecom (Group)",20
 "AS11426","Charter Communications Inc",19
@@ -324,7 +325,6 @@ ASN,Organization,IP_Count
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",19
 "AS22927","Telefonica de Argentina",19
 "AS262287","Maxihost LTDA",19
-"AS28546","Servnet Mexico, S.A. de C.V.",19
 "AS3257","GTT Communications Inc.",19
 "AS40676","Psychz Networks",19
 "AS49531","""NetCom-R"" LLC",19
