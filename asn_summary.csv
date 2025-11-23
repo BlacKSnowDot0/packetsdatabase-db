@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87769
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22087
-"AS398324","Censys, Inc.",14162
+"AS398324","Censys, Inc.",14163
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10497
-"AS14061","DigitalOcean, LLC",8156
+"AS14061","DigitalOcean, LLC",8157
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5917
 "AS4134","Chinanet",5036
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1416
 "AS32475","Internap Holding LLC",1409
-"AS36352","HostPapa",1375
+"AS36352","HostPapa",1376
 "AS49870","Alsycon B.V.",1364
 "AS13335","Cloudflare, Inc.",1354
 "AS215269","LAZYCLOUD LTD",1312
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS401120","cheapy.host LLC",557
 "AS51115","HLL LLC",529
 "AS198953","Proton66 OOO",527
-"AS12876","ONLINE S.A.S.",516
+"AS12876","ONLINE S.A.S.",517
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",505
 "AS53667","FranTech Solutions",503
