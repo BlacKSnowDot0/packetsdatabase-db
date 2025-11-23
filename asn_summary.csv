@@ -5,9 +5,9 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14158
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10496
-"AS14061","DigitalOcean, LLC",8148
+"AS14061","DigitalOcean, LLC",8154
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5916
+"AS16276","OVH SAS",5917
 "AS4134","Chinanet",5036
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4451
@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3625
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3203
+"AS51396","Pfcloud UG",3204
 "AS8075","Microsoft Corporation",2809
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2631
@@ -284,6 +284,7 @@ ASN,Organization,IP_Count
 "AS198037","SPACECORE SOLUTION LTD",23
 "AS62240","Clouvider Limited",23
 "AS7303","Telecom Argentina S.A.",23
+"AS16591","Google Fiber Inc.",22
 "AS17561","Larus Limited",22
 "AS213010","Gening Nikita Dmitrievich",22
 "AS41745","Baykov Ilya Sergeevich",22
@@ -295,7 +296,6 @@ ASN,Organization,IP_Count
 "AS12479","Orange Espagne SA",21
 "AS138886","PT Data Buana Nusantara",21
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",21
-"AS16591","Google Fiber Inc.",21
 "AS17816","China Unicom IP network China169 Guangdong province",21
 "AS202796","JSR IT B.V.",21
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",21
