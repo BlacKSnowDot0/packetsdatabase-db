@@ -2,17 +2,17 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87769
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22086
-"AS398324","Censys, Inc.",14138
+"AS398324","Censys, Inc.",14140
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10495
-"AS14061","DigitalOcean, LLC",8142
+"AS14061","DigitalOcean, LLC",8143
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5916
 "AS4134","Chinanet",5036
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4451
 "AS16509","Amazon.com, Inc.",4347
-"AS45102","Alibaba (US) Technology Co., Ltd.",4028
+"AS45102","Alibaba (US) Technology Co., Ltd.",4029
 "AS396998","Path Network, Inc.",3992
 "AS0","",3661
 "AS63949","Akamai Technologies, Inc.",3625
@@ -60,8 +60,8 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS9009","M247 Europe SRL",558
 "AS401120","cheapy.host LLC",557
+"AS51115","HLL LLC",528
 "AS198953","Proton66 OOO",527
-"AS51115","HLL LLC",527
 "AS12876","ONLINE S.A.S.",514
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",505
@@ -96,7 +96,7 @@ ASN,Organization,IP_Count
 "AS701","Verizon Business",223
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
-"AS29066","velia.net Internetdienste GmbH",202
+"AS29066","velia.net Internetdienste GmbH",203
 "AS12555","Data-center IMAQLIQ Ltd.",193
 "AS12389","PJSC Rostelecom",192
 "AS29484","Ruhr-Universitaet Bochum",188
