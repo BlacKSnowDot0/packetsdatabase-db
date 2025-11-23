@@ -2,23 +2,23 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87769
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22082
-"AS398324","Censys, Inc.",14127
+"AS398324","Censys, Inc.",14129
 "AS32934","Facebook, Inc.",12500
-"AS396982","Google LLC",10493
+"AS396982","Google LLC",10494
 "AS14061","DigitalOcean, LLC",8141
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5914
 "AS4134","Chinanet",5034
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4451
-"AS16509","Amazon.com, Inc.",4346
+"AS16509","Amazon.com, Inc.",4347
 "AS45102","Alibaba (US) Technology Co., Ltd.",4027
 "AS396998","Path Network, Inc.",3992
 "AS0","",3660
 "AS63949","Akamai Technologies, Inc.",3624
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3198
+"AS51396","Pfcloud UG",3199
 "AS8075","Microsoft Corporation",2808
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2627
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS23470","ReliableSite.Net LLC",1440
 "AS48925","VibeGAMES B.V.",1424
-"AS398722","Censys, Inc.",1414
+"AS398722","Censys, Inc.",1415
 "AS32475","Internap Holding LLC",1409
 "AS36352","HostPapa",1373
 "AS49870","Alsycon B.V.",1364
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",782
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
-"AS51167","Contabo GmbH",719
+"AS51167","Contabo GmbH",721
 "AS10439","CariNet, Inc.",678
 "AS14618","Amazon.com, Inc.",668
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -61,8 +61,8 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",558
 "AS401120","cheapy.host LLC",557
 "AS198953","Proton66 OOO",527
-"AS51115","HLL LLC",525
-"AS12876","ONLINE S.A.S.",511
+"AS51115","HLL LLC",526
+"AS12876","ONLINE S.A.S.",512
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",505
 "AS53667","FranTech Solutions",503
@@ -120,8 +120,8 @@ ASN,Organization,IP_Count
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",106
 "AS47331","TTNet A.S.",104
+"AS6739","VODAFONE ONO, S.A.",102
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",101
-"AS6739","VODAFONE ONO, S.A.",101
 "AS40021","Nubes, LLC",97
 "AS8560","IONOS SE",95
 "AS205352","KABELNET LTD",93
@@ -266,6 +266,7 @@ ASN,Organization,IP_Count
 "AS18881","TELEFÔNICA BRASIL S.A",25
 "AS24560","Bharti Airtel Limited",25
 "AS271597","NEW LINK CONNECT",25
+"AS329490","Promethean Consulting Limited",25
 "AS36947","Telecom Algeria",25
 "AS55836","Reliance Jio Infocomm Limited",25
 "AS56067","Metrabyte Co.,Ltd",25
@@ -273,7 +274,6 @@ ASN,Organization,IP_Count
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",24
 "AS197540","netcup GmbH",24
 "AS209","CenturyLink Communications, LLC",24
-"AS329490","Promethean Consulting Limited",24
 "AS4713","NTT Communications Corporation",24
 "AS577","Bell Canada",24
 "AS58212","dataforest GmbH",24
@@ -294,6 +294,7 @@ ASN,Organization,IP_Count
 "AS7029","Windstream Communications LLC",22
 "AS12479","Orange Espagne SA",21
 "AS138886","PT Data Buana Nusantara",21
+"AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",21
 "AS16591","Google Fiber Inc.",21
 "AS17816","China Unicom IP network China169 Guangdong province",21
 "AS202796","JSR IT B.V.",21
@@ -308,7 +309,6 @@ ASN,Organization,IP_Count
 "AS812","Rogers Communications Canada Inc.",21
 "AS9299","Philippine Long Distance Telephone Co.",21
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
-"AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",20
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",20
@@ -443,6 +443,7 @@ ASN,Organization,IP_Count
 "AS1267","RIPE Network Coordination Centre",10
 "AS149359","PT Persada Data Multimedia",10
 "AS153443","VPSRE.NET LLC",10
+"AS214309","Aurorix Gaming Solutions Limited",10
 "AS24835","Vodafone Data - Egypt",10
 "AS25019","Saudi Telecom Company JSC",10
 "AS264628","CORPORACION FIBEX TELECOM, C.A.",10
@@ -469,7 +470,6 @@ ASN,Organization,IP_Count
 "AS17676","SoftBank Corp.",9
 "AS212504","AdKyNet SAS",9
 "AS213520","Senko Digital Ltd",9
-"AS214309","Aurorix Gaming Solutions Limited",9
 "AS214481","Wojciech Czapkowicz",9
 "AS24955","JSC ""Ufanet""",9
 "AS266702","MEGALINK S.R.L.",9
