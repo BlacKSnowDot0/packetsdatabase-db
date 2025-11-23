@@ -4,8 +4,8 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22086
 "AS398324","Censys, Inc.",14141
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10495
-"AS14061","DigitalOcean, LLC",8143
+"AS396982","Google LLC",10496
+"AS14061","DigitalOcean, LLC",8144
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5916
 "AS4134","Chinanet",5036
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3200
 "AS8075","Microsoft Corporation",2808
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2629
+"AS6939","Hurricane Electric LLC",2630
 "AS142002","Scloud Pte Ltd",2561
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1775
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",783
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS51167","Contabo GmbH",722
-"AS10439","CariNet, Inc.",679
+"AS10439","CariNet, Inc.",680
 "AS14618","Amazon.com, Inc.",668
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS4837","CHINA UNICOM China169 Backbone",585
@@ -97,8 +97,8 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS29066","velia.net Internetdienste GmbH",203
+"AS12389","PJSC Rostelecom",193
 "AS12555","Data-center IMAQLIQ Ltd.",193
-"AS12389","PJSC Rostelecom",192
 "AS29484","Ruhr-Universitaet Bochum",188
 "AS7552","Viettel Group",182
 "AS63199","CDS Global Cloud Co., Ltd",179
@@ -120,7 +120,7 @@ ASN,Organization,IP_Count
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",106
 "AS47331","TTNet A.S.",104
-"AS6739","VODAFONE ONO, S.A.",103
+"AS6739","VODAFONE ONO, S.A.",104
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",101
 "AS40021","Nubes, LLC",97
 "AS8560","IONOS SE",95
