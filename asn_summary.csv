@@ -5,12 +5,12 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14167
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10500
-"AS14061","DigitalOcean, LLC",8159
+"AS14061","DigitalOcean, LLC",8160
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5920
 "AS4134","Chinanet",5036
 "AS6568","Entel S.A. - EntelNet",4537
-"AS58466","CHINANET Guangdong province network",4451
+"AS58466","CHINANET Guangdong province network",4452
 "AS16509","Amazon.com, Inc.",4347
 "AS45102","Alibaba (US) Technology Co., Ltd.",4029
 "AS396998","Path Network, Inc.",3992
@@ -1331,6 +1331,7 @@ ASN,Organization,IP_Count
 "AS35278","SPRINTHOST.RU LLC",2
 "AS35586","VOLYN OPTICAL NETWORKS LLC",2
 "AS35986","Vyve Broadband",2
+"AS36375","University of Michigan",2
 "AS36692","Cisco OpenDNS, LLC",2
 "AS36728","Emery Telcom",2
 "AS36907","TV CABO ANGOLA LDA",2
@@ -2468,6 +2469,7 @@ ASN,Organization,IP_Count
 "AS28247","Intercampo Empreendimentos Tecnológicos Ltda",1
 "AS28249","EMPRESA EDITORA A TARDE S.A.",1
 "AS28252","WorldNet Telecom Comercio e Serviços de Telecomuni",1
+"AS28260","ALTA REDE CORPORATE NETWORK TELECOM LTDA - EPP",1
 "AS28277","VMAX DIGITAL DO BRASIL LTDA",1
 "AS2828","Verizon Business",1
 "AS28294","GIGA MAIS FIBRA TELECOMUNICACOES S.A. (BS COSTA)",1
@@ -2589,7 +2591,6 @@ ASN,Organization,IP_Count
 "AS36149","Hawaiian Telcom Services Company, Inc.",1
 "AS36351","SoftLayer Technologies Inc.",1
 "AS36374","Stellar Association, LLC",1
-"AS36375","University of Michigan",1
 "AS36445","Coextro",1
 "AS37002","Reunicable SAS",1
 "AS37053","RSAWEB (PTY) LTD",1
