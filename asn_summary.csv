@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87769
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22086
-"AS398324","Censys, Inc.",14145
+"AS398324","Censys, Inc.",14147
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10496
-"AS14061","DigitalOcean, LLC",8144
+"AS14061","DigitalOcean, LLC",8145
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5916
 "AS4134","Chinanet",5036
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3201
 "AS8075","Microsoft Corporation",2808
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2630
+"AS6939","Hurricane Electric LLC",2631
 "AS142002","Scloud Pte Ltd",2561
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1775
@@ -99,7 +99,7 @@ ASN,Organization,IP_Count
 "AS29066","velia.net Internetdienste GmbH",203
 "AS12389","PJSC Rostelecom",193
 "AS12555","Data-center IMAQLIQ Ltd.",193
-"AS29484","Ruhr-Universitaet Bochum",188
+"AS29484","Ruhr-Universitaet Bochum",189
 "AS7552","Viettel Group",182
 "AS63199","CDS Global Cloud Co., Ltd",179
 "AS401116","Nybula LLC",170
@@ -172,10 +172,10 @@ ASN,Organization,IP_Count
 "AS2856","British Telecommunications PLC",58
 "AS20278","Nexeon Technologies, Inc.",57
 "AS20001","Charter Communications Inc",56
+"AS215240","Silent Connection Ltd.",56
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
-"AS215240","Silent Connection Ltd.",55
 "AS213877","u1host ltd",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS149746","PT Blip Integrator Provider",53
