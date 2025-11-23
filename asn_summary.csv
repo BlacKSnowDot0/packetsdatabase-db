@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22087
 "AS398324","Censys, Inc.",14159
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10496
+"AS396982","Google LLC",10497
 "AS14061","DigitalOcean, LLC",8155
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5917
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3204
 "AS8075","Microsoft Corporation",2809
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2631
+"AS6939","Hurricane Electric LLC",2632
 "AS142002","Scloud Pte Ltd",2561
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1775
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",505
 "AS53667","FranTech Solutions",503
 "AS50360","Tamatiya EOOD",492
-"AS9829","Bharat Sanchar Nigam Ltd",480
+"AS9829","Bharat Sanchar Nigam Ltd",481
 "AS212238","Datacamp Limited",465
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
@@ -96,7 +96,7 @@ ASN,Organization,IP_Count
 "AS701","Verizon Business",223
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
-"AS29066","velia.net Internetdienste GmbH",203
+"AS29066","velia.net Internetdienste GmbH",204
 "AS12389","PJSC Rostelecom",194
 "AS12555","Data-center IMAQLIQ Ltd.",193
 "AS29484","Ruhr-Universitaet Bochum",189
@@ -427,6 +427,7 @@ ASN,Organization,IP_Count
 "AS9318","SK Broadband Co Ltd",12
 "AS9770","LG HelloVision Corp.",12
 "AS984","OCTOPUS WEB SOLUTION INC",12
+"AS1267","RIPE Network Coordination Centre",11
 "AS135059","Lao Asia Pacific Satellite Co., Ltd.",11
 "AS142032","High Family Technology Co., Limited",11
 "AS17552","TRUE INTERNET CORPORATION CO. LTD.",11
@@ -441,7 +442,6 @@ ASN,Organization,IP_Count
 "AS58563","CHINANET Hubei province network",11
 "AS1221","Telstra Limited",10
 "AS12271","Charter Communications Inc",10
-"AS1267","RIPE Network Coordination Centre",10
 "AS149359","PT Persada Data Multimedia",10
 "AS153443","VPSRE.NET LLC",10
 "AS214309","Aurorix Gaming Solutions Limited",10
