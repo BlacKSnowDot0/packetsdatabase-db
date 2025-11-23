@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87769
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22086
-"AS398324","Censys, Inc.",14140
+"AS398324","Censys, Inc.",14141
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10495
 "AS14061","DigitalOcean, LLC",8143
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",783
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS51167","Contabo GmbH",722
-"AS10439","CariNet, Inc.",678
+"AS10439","CariNet, Inc.",679
 "AS14618","Amazon.com, Inc.",668
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS4837","CHINA UNICOM China169 Backbone",585
@@ -215,10 +215,10 @@ ASN,Organization,IP_Count
 "AS8167","V tal",37
 "AS42624","Global-Data System IT Corporation",36
 "AS213790","Limited Network LTD",35
+"AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",35
 "AS30083","velia.net",35
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",35
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",35
-"AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS4760","PCCW IMS Limited",34
 "AS9198","JSC Kazakhtelecom",34
@@ -522,6 +522,7 @@ ASN,Organization,IP_Count
 "AS149360","PT Indo Telemedia Solusi",7
 "AS153096","PT High Speed Connection Network",7
 "AS17762","Tata Teleservices (Maharashtra) Ltd",7
+"AS18779","EGIHosting",7
 "AS19148","Leaseweb USA, Inc.",7
 "AS198154","Pars Abr Toseeh Ertebatat Company",7
 "AS202870","Dimensione S.r.l.",7
@@ -569,7 +570,6 @@ ASN,Organization,IP_Count
 "AS16058","Gabon Telecom Internet Network Autonomous System",6
 "AS16611","InfiniaHost.com",6
 "AS17754","Excellmedia",6
-"AS18779","EGIHosting",6
 "AS198253","Kukushkin Anatoly Valerievich",6
 "AS198323","TOV Informatsiyni Kirovohrads'ki Systemy",6
 "AS201838","Community Fibre Limited",6
