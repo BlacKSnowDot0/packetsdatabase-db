@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14167
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10500
-"AS14061","DigitalOcean, LLC",8158
+"AS14061","DigitalOcean, LLC",8159
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5920
 "AS4134","Chinanet",5036
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3206
-"AS8075","Microsoft Corporation",2809
+"AS8075","Microsoft Corporation",2810
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2632
 "AS142002","Scloud Pte Ltd",2562
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1417
 "AS32475","Internap Holding LLC",1409
 "AS36352","HostPapa",1377
-"AS49870","Alsycon B.V.",1364
+"AS49870","Alsycon B.V.",1365
 "AS13335","Cloudflare, Inc.",1355
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1208
@@ -57,7 +57,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS4837","CHINA UNICOM China169 Backbone",585
 "AS3462","Chunghwa Telecom Co., Ltd.",582
-"AS9009","M247 Europe SRL",559
+"AS9009","M247 Europe SRL",560
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS51115","HLL LLC",529
@@ -97,7 +97,7 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS29066","velia.net Internetdienste GmbH",204
-"AS12389","PJSC Rostelecom",196
+"AS12389","PJSC Rostelecom",197
 "AS12555","Data-center IMAQLIQ Ltd.",193
 "AS29484","Ruhr-Universitaet Bochum",189
 "AS7552","Viettel Group",182
@@ -947,6 +947,7 @@ ASN,Organization,IP_Count
 "AS31208","PJSC MegaFon",3
 "AS31252","StarNet Solutii SRL",3
 "AS31261","PJSC MegaFon",3
+"AS32613","Leaseweb Canada Inc.",3
 "AS327724","National Information Technology Authority Uganda",3
 "AS328073","Ion Telecom and Technology",3
 "AS32809","Dickey Rural Networks",3
@@ -1312,7 +1313,6 @@ ASN,Organization,IP_Count
 "AS3212","Telemach Slovenija d.o.o.",2
 "AS32329","Another Corporate ISP, LLC",2
 "AS32489","Amanah Tech Inc.",2
-"AS32613","Leaseweb Canada Inc.",2
 "AS3262","SAREnet, S.A.",2
 "AS327693","Echotel Pty Ltd",2
 "AS327754","RMS Powertronics CC",2
