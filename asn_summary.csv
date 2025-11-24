@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87778
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22097
-"AS398324","Censys, Inc.",14205
+"AS398324","Censys, Inc.",14208
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10506
 "AS14061","DigitalOcean, LLC",8168
@@ -240,11 +240,11 @@ ASN,Organization,IP_Count
 "AS204834","Shabakieh Isfahan Co PJSC",30
 "AS214417","Andrii Hrosh",30
 "AS55933","Cloudie Limited",30
+"AS210509","Optimum Line for Internet Services Ltd.",29
 "AS6134","XNNET LLC",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS141679","China Telecom",28
-"AS210509","Optimum Line for Internet Services Ltd.",28
 "AS30860","Virtual Systems LLC",28
 "AS3269","Telecom Italia S.p.A.",28
 "AS4847","China Networks Inter-Exchange",28
@@ -895,6 +895,7 @@ ASN,Organization,IP_Count
 "AS20454","SECURED SERVERS LLC",3
 "AS208583","Baffin Bay Networks AB",3
 "AS211826","Istqrar for Servers Services Ltd",3
+"AS212552","BitCommand LLC",3
 "AS213354","INTERNATIONAL HOSTING SOLUTIONS LLP",3
 "AS214382","Bulent Aydin trading as Hostlayici",3
 "AS21499","Host Europe GmbH",3
@@ -1177,7 +1178,6 @@ ASN,Organization,IP_Count
 "AS211895","Serverius Holding B.V.",2
 "AS212047","Civo LTD",2
 "AS212118","Malakhovskyi Hennadii",2
-"AS212552","BitCommand LLC",2
 "AS213186","Yanoor Islam Khan",2
 "AS213725","UK-03AI",2
 "AS214657","Bls Services Tecnologia em Software Ltda",2
