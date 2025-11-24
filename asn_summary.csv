@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87778
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22098
-"AS398324","Censys, Inc.",14221
+"AS398324","Censys, Inc.",14222
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10510
 "AS14061","DigitalOcean, LLC",8172
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1418
-"AS32475","Internap Holding LLC",1414
+"AS32475","Internap Holding LLC",1415
 "AS36352","HostPapa",1383
 "AS49870","Alsycon B.V.",1365
 "AS13335","Cloudflare, Inc.",1357
@@ -427,6 +427,7 @@ ASN,Organization,IP_Count
 "AS8708","RCS & RDS SA",12
 "AS9318","SK Broadband Co Ltd",12
 "AS984","OCTOPUS WEB SOLUTION INC",12
+"AS1221","Telstra Limited",11
 "AS1267","RIPE Network Coordination Centre",11
 "AS135059","Lao Asia Pacific Satellite Co., Ltd.",11
 "AS142032","High Family Technology Co., Limited",11
@@ -441,7 +442,6 @@ ASN,Organization,IP_Count
 "AS44901","Belcloud LTD",11
 "AS45820","TTSL-ISP DIVISION",11
 "AS58563","CHINANET Hubei province network",11
-"AS1221","Telstra Limited",10
 "AS12271","Charter Communications Inc",10
 "AS149359","PT Persada Data Multimedia",10
 "AS153443","VPSRE.NET LLC",10
