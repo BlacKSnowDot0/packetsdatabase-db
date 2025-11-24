@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87773
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22093
-"AS398324","Censys, Inc.",14182
+"AS398324","Censys, Inc.",14183
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10502
 "AS14061","DigitalOcean, LLC",8164
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4452
 "AS16509","Amazon.com, Inc.",4347
-"AS45102","Alibaba (US) Technology Co., Ltd.",4029
+"AS45102","Alibaba (US) Technology Co., Ltd.",4030
 "AS396998","Path Network, Inc.",3992
 "AS0","",3663
 "AS63949","Akamai Technologies, Inc.",3625
@@ -142,9 +142,9 @@ ASN,Organization,IP_Count
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
 "AS56046","China Mobile Communications Corporation",74
+"AS8402","PJSC ""Vimpelcom""",74
 "AS22773","Cox Communications Inc.",73
 "AS31898","Oracle Corporation",73
-"AS8402","PJSC ""Vimpelcom""",73
 "AS52053","REDHEBERG Association declaree",69
 "AS23724","IDC, China Telecommunications Corporation",68
 "AS834","IPXO LLC",68
@@ -182,7 +182,7 @@ ASN,Organization,IP_Count
 "AS12816","Leibniz-Rechenzentrum",49
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
-"AS30058","FDCservers.net",47
+"AS30058","FDCservers.net",48
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",47
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",47
 "AS10796","Charter Communications Inc",46
