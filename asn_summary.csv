@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87776
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22094
-"AS398324","Censys, Inc.",14192
+"AS398324","Censys, Inc.",14193
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10506
 "AS14061","DigitalOcean, LLC",8165
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3208
 "AS8075","Microsoft Corporation",2811
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2636
+"AS6939","Hurricane Electric LLC",2637
 "AS142002","Scloud Pte Ltd",2562
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1779
@@ -99,7 +99,7 @@ ASN,Organization,IP_Count
 "AS29066","velia.net Internetdienste GmbH",205
 "AS12389","PJSC Rostelecom",200
 "AS12555","Data-center IMAQLIQ Ltd.",193
-"AS29484","Ruhr-Universitaet Bochum",189
+"AS29484","Ruhr-Universitaet Bochum",190
 "AS7552","Viettel Group",182
 "AS63199","CDS Global Cloud Co., Ltd",179
 "AS401116","Nybula LLC",170
@@ -1317,6 +1317,7 @@ ASN,Organization,IP_Count
 "AS3262","SAREnet, S.A.",2
 "AS327693","Echotel Pty Ltd",2
 "AS327754","RMS Powertronics CC",2
+"AS327813","VIDOLU Group Pty Ltd-Web4Africa",2
 "AS327901","Level 7 Wireless (Pty) Ltd",2
 "AS328282","TEOLIS SAU",2
 "AS328480","Too Much Wifi",2
@@ -2532,7 +2533,6 @@ ASN,Organization,IP_Count
 "AS3253","PJSC ""Vimpelcom""",1
 "AS3261","LLC ""FTICOM""",1
 "AS327804","Municipal Network Services",1
-"AS327813","VIDOLU Group Pty Ltd-Web4Africa",1
 "AS327872","IBITS Internet (pty) Ltd",1
 "AS327934","SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)",1
 "AS328122","Business Connexion (PTY) LTD",1
