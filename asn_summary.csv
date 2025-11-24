@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87778
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22097
-"AS398324","Censys, Inc.",14203
+"AS398324","Censys, Inc.",14205
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10506
 "AS14061","DigitalOcean, LLC",8168
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1418
 "AS32475","Internap Holding LLC",1412
-"AS36352","HostPapa",1382
+"AS36352","HostPapa",1383
 "AS49870","Alsycon B.V.",1365
 "AS13335","Cloudflare, Inc.",1355
 "AS215269","LAZYCLOUD LTD",1312
@@ -47,7 +47,7 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",831
-"AS215925","VPSVAULT.HOST LTD",827
+"AS215925","VPSVAULT.HOST LTD",828
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",787
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
@@ -121,7 +121,7 @@ ASN,Organization,IP_Count
 "AS6739","VODAFONE ONO, S.A.",106
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",106
 "AS47331","TTNet A.S.",104
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",101
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",102
 "AS40021","Nubes, LLC",97
 "AS8560","IONOS SE",95
 "AS199785","Cloud Hosting Solutions, Limited.",93
@@ -286,6 +286,7 @@ ASN,Organization,IP_Count
 "AS7303","Telecom Argentina S.A.",23
 "AS16591","Google Fiber Inc.",22
 "AS17561","Larus Limited",22
+"AS202796","JSR IT B.V.",22
 "AS213010","Gening Nikita Dmitrievich",22
 "AS41745","Baykov Ilya Sergeevich",22
 "AS43289","Trabia SRL",22
@@ -297,7 +298,6 @@ ASN,Organization,IP_Count
 "AS138886","PT Data Buana Nusantara",21
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",21
 "AS17816","China Unicom IP network China169 Guangdong province",21
-"AS202796","JSR IT B.V.",21
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",21
 "AS214668","AxusHost B.V.",21
 "AS24940","Hetzner Online GmbH",21
