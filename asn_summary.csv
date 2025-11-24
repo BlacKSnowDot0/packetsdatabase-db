@@ -2,17 +2,17 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87778
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22097
-"AS398324","Censys, Inc.",14215
+"AS398324","Censys, Inc.",14216
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10508
-"AS14061","DigitalOcean, LLC",8171
+"AS396982","Google LLC",10509
+"AS14061","DigitalOcean, LLC",8172
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5923
 "AS4134","Chinanet",5037
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4452
 "AS16509","Amazon.com, Inc.",4347
-"AS45102","Alibaba (US) Technology Co., Ltd.",4034
+"AS45102","Alibaba (US) Technology Co., Ltd.",4035
 "AS396998","Path Network, Inc.",3992
 "AS0","",3664
 "AS63949","Akamai Technologies, Inc.",3625
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1781
 "AS214295","SKYNET NETWORK LTD",1631
-"AS23470","ReliableSite.Net LLC",1617
+"AS23470","ReliableSite.Net LLC",1618
 "AS209605","UAB Host Baltic",1536
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
@@ -141,8 +141,8 @@ ASN,Organization,IP_Count
 "AS3920","ESTOXY OU",76
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
+"AS8402","PJSC ""Vimpelcom""",75
 "AS56046","China Mobile Communications Corporation",74
-"AS8402","PJSC ""Vimpelcom""",74
 "AS22773","Cox Communications Inc.",73
 "AS31898","Oracle Corporation",73
 "AS23724","IDC, China Telecommunications Corporation",69
@@ -165,11 +165,11 @@ ASN,Organization,IP_Count
 "AS6128","Cablevision Systems Corp.",61
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS4812","China Telecom (Group)",60
+"AS19318","Interserver, Inc",59
 "AS20115","Charter Communications",59
 "AS2856","British Telecommunications PLC",59
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",59
 "AS49544","i3D.net B.V",59
-"AS19318","Interserver, Inc",58
 "AS210644","AEZA INTERNATIONAL LTD",58
 "AS20278","Nexeon Technologies, Inc.",57
 "AS20001","Charter Communications Inc",56
@@ -500,6 +500,7 @@ ASN,Organization,IP_Count
 "AS2527","Sony Network Communications Inc.",8
 "AS262459","Osirnet Info Telecom Ltda.",8
 "AS266015","JC2000 Telecomunicações Ltda",8
+"AS272928","P&C ON LINE S.R.L. (NETWAY INTERNET)",8
 "AS27967","Gobernacion de la Provincia de Buenos Aires",8
 "AS2860","NOS COMUNICACOES, S.A.",8
 "AS328723","Telasera Technologies PTY LTD",8
@@ -540,7 +541,6 @@ ASN,Organization,IP_Count
 "AS263238","Eliana Vanessa Morocho Oña",7
 "AS267507","SRX TECNOLOGIA DA INFORMACAO LTDA",7
 "AS269003","KIMNET SOLUCOES",7
-"AS272928","P&C ON LINE S.R.L. (NETWAY INTERNET)",7
 "AS27831","Colombia Móvil",7
 "AS31042","Serbia BroadBand-Srpske Kablovske mreze d.o.o.",7
 "AS31122","Digiweb ltd",7
