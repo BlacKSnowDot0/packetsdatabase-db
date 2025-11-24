@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87778
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22097
-"AS398324","Censys, Inc.",14209
+"AS398324","Censys, Inc.",14212
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10506
+"AS396982","Google LLC",10507
 "AS14061","DigitalOcean, LLC",8171
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5923
@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3625
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3210
+"AS51396","Pfcloud UG",3211
 "AS8075","Microsoft Corporation",2811
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2640
@@ -160,8 +160,8 @@ ASN,Organization,IP_Count
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",63
 "AS5650","Frontier Communications of America, Inc.",63
 "AS200514","KnownSRV Ltd.",62
+"AS215240","Silent Connection Ltd.",62
 "AS140717","China Unicom",61
-"AS215240","Silent Connection Ltd.",61
 "AS6128","Cablevision Systems Corp.",61
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS4812","China Telecom (Group)",60
