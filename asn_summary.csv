@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22093
 "AS398324","Censys, Inc.",14188
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10502
+"AS396982","Google LLC",10503
 "AS14061","DigitalOcean, LLC",8164
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5922
@@ -12,16 +12,16 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4452
 "AS16509","Amazon.com, Inc.",4347
-"AS45102","Alibaba (US) Technology Co., Ltd.",4030
+"AS45102","Alibaba (US) Technology Co., Ltd.",4032
 "AS396998","Path Network, Inc.",3992
 "AS0","",3663
 "AS63949","Akamai Technologies, Inc.",3625
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3208
-"AS8075","Microsoft Corporation",2810
+"AS8075","Microsoft Corporation",2811
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2635
+"AS6939","Hurricane Electric LLC",2636
 "AS142002","Scloud Pte Ltd",2562
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1778
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1535
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
-"AS398722","Censys, Inc.",1417
+"AS398722","Censys, Inc.",1418
 "AS32475","Internap Holding LLC",1409
 "AS36352","HostPapa",1379
 "AS49870","Alsycon B.V.",1365
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
-"AS208046","ColocationX Ltd.",829
+"AS208046","ColocationX Ltd.",830
 "AS215925","VPSVAULT.HOST LTD",827
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",786
@@ -75,7 +75,7 @@ ASN,Organization,IP_Count
 "AS7018","AT&T Enterprises, LLC",384
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS21859","Zenlayer Inc",361
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",358
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",359
 "AS47890","UNMANAGED LTD",348
 "AS7922","Comcast Cable Communications, LLC",345
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
@@ -1138,6 +1138,7 @@ ASN,Organization,IP_Count
 "AS17839","LG HelloVision Corp.",2
 "AS18001","Dialog Axiata Plc",2
 "AS18103","Neuviz Net",2
+"AS18126","Chubu Telecommunications Company, Inc.",2
 "AS18233","Philippine Telelgraph & Telephone",2
 "AS18501","CyberCloud Professionals LLC",2
 "AS19108","Suddenlink Communications",2
@@ -1820,7 +1821,6 @@ ASN,Organization,IP_Count
 "AS18046","DongFong Technology Co. Ltd.",1
 "AS18081","Kintetsu Cable Network Co., Ltd.",1
 "AS18106","Viewqwest Pte Ltd",1
-"AS18126","Chubu Telecommunications Company, Inc.",1
 "AS18182","Sony Network Taiwan Limited",1
 "AS18187","WifiCity, Inc",1
 "AS18281","Tokoname New-TV Corporation",1
