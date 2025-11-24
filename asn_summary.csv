@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14209
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10506
-"AS14061","DigitalOcean, LLC",8168
+"AS14061","DigitalOcean, LLC",8171
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5923
 "AS4134","Chinanet",5037
@@ -18,20 +18,20 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3625
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3208
+"AS51396","Pfcloud UG",3210
 "AS8075","Microsoft Corporation",2811
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2640
-"AS142002","Scloud Pte Ltd",2562
+"AS142002","Scloud Pte Ltd",2563
 "AS9808","China Mobile",2078
-"AS202425","IP Volume inc",1780
+"AS202425","IP Volume inc",1781
 "AS214295","SKYNET NETWORK LTD",1631
-"AS23470","ReliableSite.Net LLC",1595
+"AS23470","ReliableSite.Net LLC",1617
 "AS209605","UAB Host Baltic",1536
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1418
-"AS32475","Internap Holding LLC",1412
+"AS32475","Internap Holding LLC",1413
 "AS36352","HostPapa",1383
 "AS49870","Alsycon B.V.",1365
 "AS13335","Cloudflare, Inc.",1355
@@ -127,8 +127,8 @@ ASN,Organization,IP_Count
 "AS199785","Cloud Hosting Solutions, Limited.",93
 "AS205352","KABELNET LTD",93
 "AS63018","Dedicated.com",92
+"AS136435","ELITE COMMUNICATION",89
 "AS210125","PRIAM NET Sh.p.k.",89
-"AS136435","ELITE COMMUNICATION",88
 "AS28209","Under Servicos de Internet Ltda",86
 "AS58461","Chinanet",85
 "AS4766","Korea Telecom",84
