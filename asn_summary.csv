@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87773
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87774
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22093
-"AS398324","Censys, Inc.",14183
+"AS398324","Censys, Inc.",14186
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10502
 "AS14061","DigitalOcean, LLC",8164
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",506
 "AS53667","FranTech Solutions",504
 "AS50360","Tamatiya EOOD",492
-"AS9829","Bharat Sanchar Nigam Ltd",482
+"AS9829","Bharat Sanchar Nigam Ltd",483
 "AS212238","Datacamp Limited",465
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
@@ -881,6 +881,7 @@ ASN,Organization,IP_Count
 "AS17511","OPTAGE Inc.",3
 "AS17665","ONEOTT INTERTAINMENT LIMITED",3
 "AS17931","Netforest,Inc.",3
+"AS18318","LG HelloVision Corp.",3
 "AS19331","Twin Lakes Telephone Cooperative Corporation",3
 "AS196949","Natalia Sergeevna Filicheva",3
 "AS199468","GRAIN COMMUNICATIONS LIMITED",3
@@ -1138,7 +1139,6 @@ ASN,Organization,IP_Count
 "AS18001","Dialog Axiata Plc",2
 "AS18103","Neuviz Net",2
 "AS18233","Philippine Telelgraph & Telephone",2
-"AS18318","LG HelloVision Corp.",2
 "AS18501","CyberCloud Professionals LLC",2
 "AS19108","Suddenlink Communications",2
 "AS19429","ETB - Colombia",2
