@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87778
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22097
-"AS398324","Censys, Inc.",14217
+"AS398324","Censys, Inc.",14218
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10509
+"AS396982","Google LLC",10510
 "AS14061","DigitalOcean, LLC",8172
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5923
@@ -19,12 +19,12 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3212
-"AS8075","Microsoft Corporation",2812
+"AS8075","Microsoft Corporation",2813
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2640
 "AS142002","Scloud Pte Ltd",2563
 "AS9808","China Mobile",2078
-"AS202425","IP Volume inc",1781
+"AS202425","IP Volume inc",1782
 "AS214295","SKYNET NETWORK LTD",1631
 "AS23470","ReliableSite.Net LLC",1618
 "AS209605","UAB Host Baltic",1536
@@ -2944,6 +2944,7 @@ ASN,Organization,IP_Count
 "AS60822","Wispone S.R.L.",1
 "AS60849","iLevant FZE",1
 "AS61163","Global Technologies of Ukraine LLC",1
+"AS61173","Green Web Samaneh Novin PJSC",1
 "AS61512","GIG@NET SOCIEDAD ANONIMA",1
 "AS61579","Pgnet Provedor",1
 "AS61583","WDS TELECOM LTDA. ME",1
