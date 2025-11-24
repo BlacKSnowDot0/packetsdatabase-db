@@ -31,8 +31,8 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1418
-"AS32475","Internap Holding LLC",1409
-"AS36352","HostPapa",1379
+"AS32475","Internap Holding LLC",1410
+"AS36352","HostPapa",1380
 "AS49870","Alsycon B.V.",1365
 "AS13335","Cloudflare, Inc.",1355
 "AS215269","LAZYCLOUD LTD",1312
@@ -49,14 +49,14 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",831
 "AS215925","VPSVAULT.HOST LTD",827
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",786
+"AS20052","Arbor Networks, Inc.",787
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS51167","Contabo GmbH",726
-"AS10439","CariNet, Inc.",682
+"AS10439","CariNet, Inc.",683
 "AS14618","Amazon.com, Inc.",670
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS4837","CHINA UNICOM China169 Backbone",585
-"AS3462","Chunghwa Telecom Co., Ltd.",582
+"AS3462","Chunghwa Telecom Co., Ltd.",583
 "AS9009","M247 Europe SRL",561
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
@@ -408,6 +408,7 @@ ASN,Organization,IP_Count
 "AS37105","RAIN GROUP HOLDINGS (PTY) LTD",13
 "AS38841","kbro CO. Ltd.",13
 "AS53006","ALGAR TELECOM S/A",13
+"AS9770","LG HelloVision Corp.",13
 "AS11351","Charter Communications Inc",12
 "AS202520","SkyPass Solutions Sp. z.o.o.",12
 "AS2116","GLOBALCONNECT AS",12
@@ -425,7 +426,6 @@ ASN,Organization,IP_Count
 "AS8400","TELEKOM SRBIJA a.d.",12
 "AS8708","RCS & RDS SA",12
 "AS9318","SK Broadband Co Ltd",12
-"AS9770","LG HelloVision Corp.",12
 "AS984","OCTOPUS WEB SOLUTION INC",12
 "AS1267","RIPE Network Coordination Centre",11
 "AS135059","Lao Asia Pacific Satellite Co., Ltd.",11
