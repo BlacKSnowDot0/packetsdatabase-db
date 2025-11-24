@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1365
 "AS13335","Cloudflare, Inc.",1355
 "AS215269","LAZYCLOUD LTD",1312
-"AS174","Cogent Communications",1208
+"AS174","Cogent Communications",1209
 "AS22552","eSited Solutions",1184
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",787
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS51167","Contabo GmbH",726
-"AS10439","CariNet, Inc.",683
+"AS10439","CariNet, Inc.",684
 "AS14618","Amazon.com, Inc.",670
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS4837","CHINA UNICOM China169 Backbone",585
@@ -132,7 +132,7 @@ ASN,Organization,IP_Count
 "AS28209","Under Servicos de Internet Ltda",86
 "AS58461","Chinanet",85
 "AS4766","Korea Telecom",84
-"AS11320","LightEdge Solutions",81
+"AS11320","LightEdge Solutions",82
 "AS16735","ALGAR TELECOM S/A",81
 "AS5617","Orange Polska Spolka Akcyjna",81
 "AS271795","SERVITELCONET CIA. LTDA.",79
@@ -515,6 +515,7 @@ ASN,Organization,IP_Count
 "AS8386","VODAFONE NET ILETISIM HIZMETLERI ANONIM SIRKETI",8
 "AS8551","Bezeq International Ltd.",8
 "AS9541","Cyber Internet Services (Private) Limited",8
+"AS1257","Tele2 Sverige AB",7
 "AS133661","Netplus Broadband Services Private Limited",7
 "AS135478","PT. Cyberindo Aditama",7
 "AS13977","Consolidated Communications, Inc.",7
@@ -558,7 +559,6 @@ ASN,Organization,IP_Count
 "AS9658","Eastern Telecommunications Philippines, Inc.",7
 "AS9981","Saero Network Service LTD",7
 "AS11562","Net Uno, C.A.",6
-"AS1257","Tele2 Sverige AB",6
 "AS132116","Ani Network Pvt Ltd",6
 "AS135523","Multinet Broadband",6
 "AS135905","VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",6
@@ -1051,6 +1051,7 @@ ASN,Organization,IP_Count
 "AS131706","PT SELARAS CITRA TERABIT",2
 "AS131717","PT Citra Jelajah Informatika",2
 "AS132199","Globe Telecom Inc.",2
+"AS132525","China Mobile Communications Corporation",2
 "AS132768","Five network Broadband Solution Pvt Ltd",2
 "AS132787","Micronova Network Solutions Pvt. Ltd",2
 "AS133676","Precious netcom pvt ltd",2
@@ -1558,7 +1559,6 @@ ASN,Organization,IP_Count
 "AS132250","Office of Info.Tech. Admin. for Educational Development",1
 "AS132372","GB Network Solutions Sdn. Bhd.",1
 "AS132453","TRIPLE PLAY BROADBAND PRIVATE LIMITED",1
-"AS132525","China Mobile Communications Corporation",1
 "AS13257","PJSC ""Vimpelcom""",1
 "AS132608","Mango Teleservices Limited (ISP)",1
 "AS132649","PT Adau Putra Network",1
