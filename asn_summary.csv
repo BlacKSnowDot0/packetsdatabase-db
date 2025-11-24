@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1418
-"AS32475","Internap Holding LLC",1411
+"AS32475","Internap Holding LLC",1412
 "AS36352","HostPapa",1382
 "AS49870","Alsycon B.V.",1365
 "AS13335","Cloudflare, Inc.",1355
@@ -180,9 +180,9 @@ ASN,Organization,IP_Count
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS149746","PT Blip Integrator Provider",53
 "AS12816","Leibniz-Rechenzentrum",49
+"AS30058","FDCservers.net",49
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
-"AS30058","FDCservers.net",48
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",47
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",47
 "AS10796","Charter Communications Inc",46
@@ -779,6 +779,7 @@ ASN,Organization,IP_Count
 "AS27651","ENTEL CHILE S.A.",4
 "AS28146","MHNET TELECOM",4
 "AS28258","VERO S.A",4
+"AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",4
 "AS28753","Leaseweb Deutschland GmbH",4
 "AS28787","Baku Telephone Communication LLC",4
 "AS29314","VECTRA S.A.",4
@@ -934,7 +935,6 @@ ASN,Organization,IP_Count
 "AS28198","SEMPRE TELECOMUNICACOES LTDA",3
 "AS28202","Rede Brasileira de Comunicacao S/A",3
 "AS28220","CABO SERVICOS DE TELECOMUNICACOES LTDA",3
-"AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",3
 "AS28548","Cablevisión, S.A. de C.V.",3
 "AS28885","Oman Telecommunications Company (S.A.O.G)",3
 "AS29447","SCALEWAY S.A.S.",3
