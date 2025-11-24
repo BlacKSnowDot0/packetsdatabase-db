@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87773
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22092
-"AS398324","Censys, Inc.",14179
+"AS211298","Driftnet Ltd",22093
+"AS398324","Censys, Inc.",14182
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10502
-"AS14061","DigitalOcean, LLC",8163
+"AS14061","DigitalOcean, LLC",8164
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5922
 "AS4134","Chinanet",5037
@@ -14,11 +14,11 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4347
 "AS45102","Alibaba (US) Technology Co., Ltd.",4029
 "AS396998","Path Network, Inc.",3992
-"AS0","",3662
+"AS0","",3663
 "AS63949","Akamai Technologies, Inc.",3625
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3207
+"AS51396","Pfcloud UG",3208
 "AS8075","Microsoft Corporation",2810
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2635
@@ -26,13 +26,13 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1777
 "AS214295","SKYNET NETWORK LTD",1631
-"AS23470","ReliableSite.Net LLC",1593
+"AS23470","ReliableSite.Net LLC",1594
 "AS209605","UAB Host Baltic",1535
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1417
 "AS32475","Internap Holding LLC",1409
-"AS36352","HostPapa",1378
+"AS36352","HostPapa",1379
 "AS49870","Alsycon B.V.",1365
 "AS13335","Cloudflare, Inc.",1355
 "AS215269","LAZYCLOUD LTD",1312
@@ -49,10 +49,10 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",829
 "AS215925","VPSVAULT.HOST LTD",827
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",785
+"AS20052","Arbor Networks, Inc.",786
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS51167","Contabo GmbH",725
-"AS10439","CariNet, Inc.",681
+"AS10439","CariNet, Inc.",682
 "AS14618","Amazon.com, Inc.",670
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS4837","CHINA UNICOM China169 Backbone",585
@@ -182,12 +182,12 @@ ASN,Organization,IP_Count
 "AS12816","Leibniz-Rechenzentrum",49
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
+"AS30058","FDCservers.net",47
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",47
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",47
 "AS10796","Charter Communications Inc",46
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
-"AS30058","FDCservers.net",46
 "AS30633","Leaseweb USA, Inc.",46
 "AS141995","Contabo Asia Private Limited",44
 "AS396356","Latitude.sh",44
