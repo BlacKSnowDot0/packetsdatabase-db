@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87778
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22097
-"AS398324","Censys, Inc.",14216
+"AS398324","Censys, Inc.",14217
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10509
 "AS14061","DigitalOcean, LLC",8172
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3212
-"AS8075","Microsoft Corporation",2811
+"AS8075","Microsoft Corporation",2812
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2640
 "AS142002","Scloud Pte Ltd",2563
@@ -31,10 +31,10 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1418
-"AS32475","Internap Holding LLC",1413
+"AS32475","Internap Holding LLC",1414
 "AS36352","HostPapa",1383
 "AS49870","Alsycon B.V.",1365
-"AS13335","Cloudflare, Inc.",1356
+"AS13335","Cloudflare, Inc.",1357
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1211
 "AS22552","eSited Solutions",1184
@@ -86,8 +86,8 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",292
+"AS208843","Alpha Strike Labs GmbH",282
 "AS213613","BOTSHIELD LTD",282
-"AS208843","Alpha Strike Labs GmbH",281
 "AS48090","TECHOFF SRV LIMITED",260
 "AS18403","FPT Telecom Company",256
 "AS60223","Netiface Limited",250
@@ -2605,6 +2605,7 @@ ASN,Organization,IP_Count
 "AS37451","CONGO TELECOM",1
 "AS37529","Gestora de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial",1
 "AS37550","Airtel Congo S.A",1
+"AS37649","SAGA AFRICA HOLDINGS LIMITED",1
 "AS37678","BOTSWANA FIBRE NETWORKS (Proprietary) Limited",1
 "AS37680","Cool Ideas Service Provider (Pty) Ltd",1
 "AS38001","NewMedia Express Pte Ltd",1
