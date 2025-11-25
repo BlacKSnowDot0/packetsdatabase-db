@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87779
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22099
-"AS398324","Censys, Inc.",14252
+"AS398324","Censys, Inc.",14253
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10516
-"AS14061","DigitalOcean, LLC",8176
+"AS14061","DigitalOcean, LLC",8178
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5936
 "AS4134","Chinanet",5037
@@ -15,17 +15,17 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",4041
 "AS396998","Path Network, Inc.",3992
 "AS0","",3666
-"AS63949","Akamai Technologies, Inc.",3628
+"AS63949","Akamai Technologies, Inc.",3629
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3214
-"AS8075","Microsoft Corporation",2818
+"AS8075","Microsoft Corporation",2819
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2645
 "AS142002","Scloud Pte Ltd",2563
 "AS9808","China Mobile",2078
 "AS23470","ReliableSite.Net LLC",1808
-"AS202425","IP Volume inc",1788
+"AS202425","IP Volume inc",1789
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1536
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -414,6 +414,7 @@ ASN,Organization,IP_Count
 "AS202520","SkyPass Solutions Sp. z.o.o.",12
 "AS2116","GLOBALCONNECT AS",12
 "AS213438","ColocaTel Inc.",12
+"AS214309","Aurorix Gaming Solutions Limited",12
 "AS2637","Georgia Institute of Technology",12
 "AS35042","Layer7 Networks GmbH",12
 "AS35297","Dataline LLC",12
@@ -436,7 +437,6 @@ ASN,Organization,IP_Count
 "AS205119","TELEKS DOOEL Skopje",11
 "AS206804","EstNOC OY",11
 "AS20853","eTOP sp. z o.o.",11
-"AS214309","Aurorix Gaming Solutions Limited",11
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
 "AS24547","China Mobile",11
 "AS37611","Afrihost (Pty) Ltd",11
