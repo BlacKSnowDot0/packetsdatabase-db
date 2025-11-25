@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87779
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22098
-"AS398324","Censys, Inc.",14250
+"AS211298","Driftnet Ltd",22099
+"AS398324","Censys, Inc.",14252
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10515
 "AS14061","DigitalOcean, LLC",8175
@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",4041
 "AS396998","Path Network, Inc.",3992
 "AS0","",3666
-"AS63949","Akamai Technologies, Inc.",3627
+"AS63949","Akamai Technologies, Inc.",3628
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3214
@@ -24,14 +24,14 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2645
 "AS142002","Scloud Pte Ltd",2563
 "AS9808","China Mobile",2078
-"AS202425","IP Volume inc",1786
+"AS202425","IP Volume inc",1787
 "AS23470","ReliableSite.Net LLC",1772
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1536
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
+"AS32475","Internap Holding LLC",1418
 "AS398722","Censys, Inc.",1418
-"AS32475","Internap Holding LLC",1417
 "AS36352","HostPapa",1388
 "AS49870","Alsycon B.V.",1366
 "AS13335","Cloudflare, Inc.",1359
@@ -282,11 +282,11 @@ ASN,Organization,IP_Count
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",24
 "AS197309","RS-Media LLC",23
 "AS198037","SPACECORE SOLUTION LTD",23
+"AS202796","JSR IT B.V.",23
 "AS62240","Clouvider Limited",23
 "AS7303","Telecom Argentina S.A.",23
 "AS16591","Google Fiber Inc.",22
 "AS17561","Larus Limited",22
-"AS202796","JSR IT B.V.",22
 "AS213010","Gening Nikita Dmitrievich",22
 "AS24940","Hetzner Online GmbH",22
 "AS41745","Baykov Ilya Sergeevich",22
@@ -410,6 +410,7 @@ ASN,Organization,IP_Count
 "AS53006","ALGAR TELECOM S/A",13
 "AS9770","LG HelloVision Corp.",13
 "AS11351","Charter Communications Inc",12
+"AS1221","Telstra Limited",12
 "AS202520","SkyPass Solutions Sp. z.o.o.",12
 "AS2116","GLOBALCONNECT AS",12
 "AS213438","ColocaTel Inc.",12
@@ -427,7 +428,6 @@ ASN,Organization,IP_Count
 "AS8708","RCS & RDS SA",12
 "AS9318","SK Broadband Co Ltd",12
 "AS984","OCTOPUS WEB SOLUTION INC",12
-"AS1221","Telstra Limited",11
 "AS1267","RIPE Network Coordination Centre",11
 "AS135059","Lao Asia Pacific Satellite Co., Ltd.",11
 "AS142032","High Family Technology Co., Limited",11
@@ -435,6 +435,7 @@ ASN,Organization,IP_Count
 "AS200651","FlokiNET ehf",11
 "AS205119","TELEKS DOOEL Skopje",11
 "AS206804","EstNOC OY",11
+"AS20853","eTOP sp. z o.o.",11
 "AS214309","Aurorix Gaming Solutions Limited",11
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
 "AS24547","China Mobile",11
@@ -492,7 +493,6 @@ ASN,Organization,IP_Count
 "AS18209","Atria Convergence Technologies Pvt. Ltd.,",8
 "AS18986","Calligo (Canada) Inc.",8
 "AS198361","Yaglom Labs Ltd",8
-"AS20853","eTOP sp. z o.o.",8
 "AS209956","Telkoturk Iletisim Hizmetleri A.S.",8
 "AS211507","Julian Achter",8
 "AS24086","Viettel Corporation",8
