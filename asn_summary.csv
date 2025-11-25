@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87779
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22098
-"AS398324","Censys, Inc.",14248
+"AS398324","Censys, Inc.",14250
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10515
-"AS14061","DigitalOcean, LLC",8173
+"AS14061","DigitalOcean, LLC",8175
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5936
 "AS4134","Chinanet",5037
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2563
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1786
-"AS23470","ReliableSite.Net LLC",1755
+"AS23470","ReliableSite.Net LLC",1772
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1536
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS51167","Contabo GmbH",728
 "AS10439","CariNet, Inc.",685
-"AS14618","Amazon.com, Inc.",672
+"AS14618","Amazon.com, Inc.",673
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS4837","CHINA UNICOM China169 Backbone",586
 "AS3462","Chunghwa Telecom Co., Ltd.",583
@@ -62,12 +62,12 @@ ASN,Organization,IP_Count
 "AS401120","cheapy.host LLC",557
 "AS51115","HLL LLC",532
 "AS198953","Proton66 OOO",527
-"AS12876","ONLINE S.A.S.",523
+"AS12876","ONLINE S.A.S.",524
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",508
 "AS53667","FranTech Solutions",505
 "AS50360","Tamatiya EOOD",492
-"AS9829","Bharat Sanchar Nigam Ltd",487
+"AS9829","Bharat Sanchar Nigam Ltd",488
 "AS212238","Datacamp Limited",465
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
@@ -96,7 +96,7 @@ ASN,Organization,IP_Count
 "AS701","Verizon Business",223
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
-"AS29066","velia.net Internetdienste GmbH",208
+"AS29066","velia.net Internetdienste GmbH",209
 "AS12389","PJSC Rostelecom",201
 "AS12555","Data-center IMAQLIQ Ltd.",193
 "AS29484","Ruhr-Universitaet Bochum",191
