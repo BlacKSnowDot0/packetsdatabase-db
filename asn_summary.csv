@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87779
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22098
-"AS398324","Censys, Inc.",14233
+"AS398324","Censys, Inc.",14234
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10513
 "AS14061","DigitalOcean, LLC",8173
@@ -12,19 +12,19 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4452
 "AS16509","Amazon.com, Inc.",4347
-"AS45102","Alibaba (US) Technology Co., Ltd.",4039
+"AS45102","Alibaba (US) Technology Co., Ltd.",4040
 "AS396998","Path Network, Inc.",3992
 "AS0","",3665
 "AS63949","Akamai Technologies, Inc.",3626
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3213
-"AS8075","Microsoft Corporation",2815
+"AS8075","Microsoft Corporation",2816
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2642
+"AS6939","Hurricane Electric LLC",2643
 "AS142002","Scloud Pte Ltd",2563
 "AS9808","China Mobile",2078
-"AS202425","IP Volume inc",1783
+"AS202425","IP Volume inc",1784
 "AS23470","ReliableSite.Net LLC",1675
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1536
@@ -156,8 +156,8 @@ ASN,Organization,IP_Count
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS57588","Hayat for Internet & communication LLC",65
+"AS215240","Silent Connection Ltd.",64
 "AS17378","TierPoint, LLC",63
-"AS215240","Silent Connection Ltd.",63
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",63
 "AS5650","Frontier Communications of America, Inc.",63
 "AS200514","KnownSRV Ltd.",62
