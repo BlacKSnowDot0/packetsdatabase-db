@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4452
 "AS16509","Amazon.com, Inc.",4347
-"AS45102","Alibaba (US) Technology Co., Ltd.",4042
+"AS45102","Alibaba (US) Technology Co., Ltd.",4044
 "AS396998","Path Network, Inc.",3992
 "AS0","",3666
 "AS63949","Akamai Technologies, Inc.",3629
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1366
 "AS13335","Cloudflare, Inc.",1359
 "AS215269","LAZYCLOUD LTD",1312
-"AS174","Cogent Communications",1211
+"AS174","Cogent Communications",1212
 "AS22552","eSited Solutions",1184
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
@@ -109,9 +109,9 @@ ASN,Organization,IP_Count
 "AS262551","Farol Telecom",145
 "AS47105","Vault Dweller OU",141
 "AS14956","RouterHosting LLC",134
+"AS34984","Superonline Iletisim Hizmetleri A.S.",129
 "AS13238","YANDEX LLC",128
 "AS137409","GSL Networks Pty LTD",128
-"AS34984","Superonline Iletisim Hizmetleri A.S.",128
 "AS19905","Neustar Security Services",127
 "AS36007","Kamatera, Inc.",122
 "AS151185","China Telecom",113
@@ -495,6 +495,7 @@ ASN,Organization,IP_Count
 "AS198361","Yaglom Labs Ltd",8
 "AS209956","Telkoturk Iletisim Hizmetleri A.S.",8
 "AS211507","Julian Achter",8
+"AS214209","Internet Magnate (Pty) Ltd",8
 "AS24086","Viettel Corporation",8
 "AS2516","KDDI CORPORATION",8
 "AS2527","Sony Network Communications Inc.",8
@@ -533,7 +534,6 @@ ASN,Organization,IP_Count
 "AS204631","VIVANET GmbH",7
 "AS207506","""NEWNET"" LLC",7
 "AS2119","Telenor Norge AS",7
-"AS214209","Internet Magnate (Pty) Ltd",7
 "AS215599","Zkillu SAS",7
 "AS215672","MoeChuang Network Limited",7
 "AS24961","WIIT AG",7
@@ -620,6 +620,7 @@ ASN,Organization,IP_Count
 "AS56971","CGI GLOBAL LIMITED",6
 "AS58495","PT Parsaoran Global Datatrans",6
 "AS58519","Cloud Computing Corporation",6
+"AS59134","PT. Datacomm Diangraha",6
 "AS6830","Liberty Global B.V.",6
 "AS8926","Moldtelecom SA",6
 "AS9873","Lao Telecommunication Public Company",6
@@ -711,7 +712,6 @@ ASN,Organization,IP_Count
 "AS56329","Gigaclear Limited",5
 "AS58118","SC ADINET-Com SRL",5
 "AS58898","Rainbow communications India Pvt Ltd",5
-"AS59134","PT. Datacomm Diangraha",5
 "AS59441","NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)",5
 "AS61135","COMNET BILGI ILETISIM TEKNOLOJILERI TICARET A.S.",5
 "AS61461","Airtek Solutions C.A.",5
