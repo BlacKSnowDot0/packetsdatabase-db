@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87779
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22098
-"AS398324","Censys, Inc.",14244
+"AS398324","Censys, Inc.",14245
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10514
 "AS14061","DigitalOcean, LLC",8173
@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3626
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3213
+"AS51396","Pfcloud UG",3214
 "AS8075","Microsoft Corporation",2818
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2643
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",831
 "AS215925","VPSVAULT.HOST LTD",830
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",787
+"AS20052","Arbor Networks, Inc.",788
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS51167","Contabo GmbH",728
 "AS10439","CariNet, Inc.",685
@@ -201,9 +201,9 @@ ASN,Organization,IP_Count
 "AS21928","T-Mobile USA, Inc.",41
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",41
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",41
+"AS200590","NLS Kazakhstan LLC",40
 "AS23969","TOT Public Company Limited",40
 "AS43641","SOLLUTIUM EU Sp z.o.o.",40
-"AS200590","NLS Kazakhstan LLC",39
 "AS27699","TELEFÔNICA BRASIL S.A",39
 "AS46475","Limestone Networks, Inc.",39
 "AS8048","CANTV Servicios, Venezuela",39
