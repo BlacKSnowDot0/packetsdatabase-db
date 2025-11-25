@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",4041
 "AS396998","Path Network, Inc.",3992
 "AS0","",3666
-"AS63949","Akamai Technologies, Inc.",3626
+"AS63949","Akamai Technologies, Inc.",3627
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3214
@@ -24,8 +24,8 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2644
 "AS142002","Scloud Pte Ltd",2563
 "AS9808","China Mobile",2078
-"AS202425","IP Volume inc",1785
-"AS23470","ReliableSite.Net LLC",1696
+"AS202425","IP Volume inc",1786
+"AS23470","ReliableSite.Net LLC",1735
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1536
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1418
 "AS32475","Internap Holding LLC",1416
 "AS36352","HostPapa",1388
-"AS49870","Alsycon B.V.",1365
+"AS49870","Alsycon B.V.",1366
 "AS13335","Cloudflare, Inc.",1359
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1211
@@ -288,6 +288,7 @@ ASN,Organization,IP_Count
 "AS17561","Larus Limited",22
 "AS202796","JSR IT B.V.",22
 "AS213010","Gening Nikita Dmitrievich",22
+"AS24940","Hetzner Online GmbH",22
 "AS41745","Baykov Ilya Sergeevich",22
 "AS43289","Trabia SRL",22
 "AS51430","AltusHost B.V.",22
@@ -300,7 +301,6 @@ ASN,Organization,IP_Count
 "AS17816","China Unicom IP network China169 Guangdong province",21
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",21
 "AS214668","AxusHost B.V.",21
-"AS24940","Hetzner Online GmbH",21
 "AS3320","Deutsche Telekom AG",21
 "AS400536","Nodestop LLC",21
 "AS45758","Triple T Broadband Public Company Limited",21
