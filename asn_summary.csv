@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22098
 "AS398324","Censys, Inc.",14227
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10512
+"AS396982","Google LLC",10513
 "AS14061","DigitalOcean, LLC",8173
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5936
@@ -19,14 +19,14 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3213
-"AS8075","Microsoft Corporation",2814
+"AS8075","Microsoft Corporation",2815
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2641
 "AS142002","Scloud Pte Ltd",2563
 "AS9808","China Mobile",2078
 "AS202425","IP Volume inc",1783
+"AS23470","ReliableSite.Net LLC",1655
 "AS214295","SKYNET NETWORK LTD",1631
-"AS23470","ReliableSite.Net LLC",1619
 "AS209605","UAB Host Baltic",1536
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
@@ -47,7 +47,7 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS208046","ColocationX Ltd.",831
-"AS215925","VPSVAULT.HOST LTD",829
+"AS215925","VPSVAULT.HOST LTD",830
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",787
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS12876","ONLINE S.A.S.",520
 "AS140292","China Telecom",509
 "AS201814","MEVSPACE sp. z o.o.",508
-"AS53667","FranTech Solutions",504
+"AS53667","FranTech Solutions",505
 "AS50360","Tamatiya EOOD",492
 "AS9829","Bharat Sanchar Nigam Ltd",487
 "AS212238","Datacamp Limited",465
