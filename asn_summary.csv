@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87779
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22098
-"AS398324","Censys, Inc.",14239
+"AS398324","Censys, Inc.",14240
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10514
 "AS14061","DigitalOcean, LLC",8173
@@ -12,19 +12,19 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4452
 "AS16509","Amazon.com, Inc.",4347
-"AS45102","Alibaba (US) Technology Co., Ltd.",4040
+"AS45102","Alibaba (US) Technology Co., Ltd.",4041
 "AS396998","Path Network, Inc.",3992
-"AS0","",3665
+"AS0","",3666
 "AS63949","Akamai Technologies, Inc.",3626
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3213
-"AS8075","Microsoft Corporation",2817
+"AS8075","Microsoft Corporation",2818
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2643
 "AS142002","Scloud Pte Ltd",2563
 "AS9808","China Mobile",2078
-"AS202425","IP Volume inc",1784
+"AS202425","IP Volume inc",1785
 "AS23470","ReliableSite.Net LLC",1675
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1536
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1418
 "AS32475","Internap Holding LLC",1415
-"AS36352","HostPapa",1385
+"AS36352","HostPapa",1386
 "AS49870","Alsycon B.V.",1365
 "AS13335","Cloudflare, Inc.",1358
 "AS215269","LAZYCLOUD LTD",1312
@@ -96,7 +96,7 @@ ASN,Organization,IP_Count
 "AS701","Verizon Business",223
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
-"AS29066","velia.net Internetdienste GmbH",207
+"AS29066","velia.net Internetdienste GmbH",208
 "AS12389","PJSC Rostelecom",201
 "AS12555","Data-center IMAQLIQ Ltd.",193
 "AS29484","Ruhr-Universitaet Bochum",190
