@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87779
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22100
-"AS398324","Censys, Inc.",14269
+"AS211298","Driftnet Ltd",22101
+"AS398324","Censys, Inc.",14272
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10521
 "AS14061","DigitalOcean, LLC",8187
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4452
 "AS16509","Amazon.com, Inc.",4347
-"AS45102","Alibaba (US) Technology Co., Ltd.",4048
+"AS45102","Alibaba (US) Technology Co., Ltd.",4049
 "AS396998","Path Network, Inc.",3992
 "AS0","",3666
 "AS63949","Akamai Technologies, Inc.",3629
@@ -76,7 +76,7 @@ ASN,Organization,IP_Count
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS21859","Zenlayer Inc",361
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",360
-"AS47890","UNMANAGED LTD",353
+"AS47890","UNMANAGED LTD",354
 "AS7922","Comcast Cable Communications, LLC",345
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS8151","Uninet S.A. de C.V.",336
@@ -109,14 +109,14 @@ ASN,Organization,IP_Count
 "AS262551","Farol Telecom",146
 "AS47105","Vault Dweller OU",141
 "AS14956","RouterHosting LLC",134
-"AS34984","Superonline Iletisim Hizmetleri A.S.",129
+"AS34984","Superonline Iletisim Hizmetleri A.S.",130
 "AS13238","YANDEX LLC",128
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
 "AS36007","Kamatera, Inc.",122
 "AS151185","China Telecom",113
 "AS211298","Constantine Cybersecurity Ltd.",113
-"AS6739","VODAFONE ONO, S.A.",111
+"AS6739","VODAFONE ONO, S.A.",112
 "AS208287","DC Host INC",110
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",106
@@ -152,8 +152,8 @@ ASN,Organization,IP_Count
 "AS328867","Corebach Backbone SARL",67
 "AS55720","Gigabit Hosting Sdn Bhd",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
+"AS215240","Silent Connection Ltd.",66
 "AS215590","DpkgSoft International Limited",66
-"AS215240","Silent Connection Ltd.",65
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS57588","Hayat for Internet & communication LLC",65
