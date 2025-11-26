@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4347
 "AS45102","Alibaba (US) Technology Co., Ltd.",4057
 "AS396998","Path Network, Inc.",3992
-"AS0","",3668
+"AS0","",3669
 "AS63949","Akamai Technologies, Inc.",3633
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
@@ -63,7 +63,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",535
 "AS12876","ONLINE S.A.S.",530
 "AS198953","Proton66 OOO",527
-"AS201814","MEVSPACE sp. z o.o.",514
+"AS201814","MEVSPACE sp. z o.o.",517
 "AS140292","China Telecom",509
 "AS53667","FranTech Solutions",506
 "AS50360","Tamatiya EOOD",492
@@ -86,7 +86,7 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",293
-"AS213613","BOTSHIELD LTD",284
+"AS213613","BOTSHIELD LTD",285
 "AS208843","Alpha Strike Labs GmbH",283
 "AS48090","TECHOFF SRV LIMITED",260
 "AS18403","FPT Telecom Company",257
@@ -388,6 +388,7 @@ ASN,Organization,IP_Count
 "AS12400","Partner Communications Ltd.",14
 "AS17621","China Unicom Shanghai network",14
 "AS204104","Giti Secure Cloud LLC",14
+"AS214309","Aurorix Gaming Solutions Limited",14
 "AS27947","Telconet S.A",14
 "AS30600","Metronet",14
 "AS3352","TELEFONICA DE ESPANA S.A.U.",14
@@ -401,7 +402,6 @@ ASN,Organization,IP_Count
 "AS15895","""Kyivstar"" PJSC",13
 "AS17639","ComClark Network & Technology Corp",13
 "AS213194","Nechaev Dmitry Sergeevich",13
-"AS214309","Aurorix Gaming Solutions Limited",13
 "AS25369","Hydra Communications Ltd",13
 "AS28840","PJSC ""TATTELECOM""",13
 "AS29465","MTN NIGERIA Communication limited",13
@@ -513,6 +513,7 @@ ASN,Organization,IP_Count
 "AS4761","PT. INDOSAT Tbk",8
 "AS5432","Proximus NV",8
 "AS5483","Magyar Telekom plc.",8
+"AS56005","Zhengzhou Fastidc Technology Co.,Ltd.",8
 "AS56041","China Mobile Communications Corporation",8
 "AS6698","Virtual Systems LLC",8
 "AS7418","TELEFÓNICA CHILE S.A.",8
@@ -550,7 +551,6 @@ ASN,Organization,IP_Count
 "AS49505","JSC Selectel",7
 "AS50923","Metroset Ltd.",7
 "AS55423","JasTel Network",7
-"AS56005","Zhengzhou Fastidc Technology Co.,Ltd.",7
 "AS56694","LLC Smart Ape",7
 "AS58821","PT Lintas Jaringan Nusantara",7
 "AS63023","GTHost",7
@@ -611,6 +611,7 @@ ASN,Organization,IP_Count
 "AS399765","FasNET Services LLC",6
 "AS44486","Oliver Horscht is trading as ""SYNLINQ""",6
 "AS4771","Spark New Zealand Trading Limited",6
+"AS4811","China Telecom (Group)",6
 "AS48314","Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG",6
 "AS48642","Joint stock company ""For""",6
 "AS5056","Aureon Network Services",6
@@ -703,7 +704,6 @@ ASN,Organization,IP_Count
 "AS4721","JCOM Co., Ltd.",5
 "AS47702","Teleradiocompany Discovery Ltd.",5
 "AS4780","Digital United Inc.",5
-"AS4811","China Telecom (Group)",5
 "AS53062","GGNET TELECOM BACKBONE",5
 "AS53167","SEBRATEL TECNOLOGIA LTDA",5
 "AS5410","Bouygues Telecom SA",5
