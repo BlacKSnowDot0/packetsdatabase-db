@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87780
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22105
-"AS398324","Censys, Inc.",14313
+"AS398324","Censys, Inc.",14314
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10527
-"AS14061","DigitalOcean, LLC",8196
+"AS14061","DigitalOcean, LLC",8197
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5937
+"AS16276","OVH SAS",5938
 "AS4134","Chinanet",5039
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4453
@@ -29,8 +29,8 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1536
 "AS43260","DGN TEKNOLOJI A.S.",1447
+"AS32475","Internap Holding LLC",1424
 "AS48925","VibeGAMES B.V.",1424
-"AS32475","Internap Holding LLC",1423
 "AS398722","Censys, Inc.",1419
 "AS36352","HostPapa",1401
 "AS49870","Alsycon B.V.",1367
@@ -46,8 +46,8 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
+"AS215925","VPSVAULT.HOST LTD",833
 "AS208046","ColocationX Ltd.",832
-"AS215925","VPSVAULT.HOST LTD",832
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",791
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
