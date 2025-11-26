@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87780
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22105
-"AS398324","Censys, Inc.",14312
+"AS398324","Censys, Inc.",14313
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10527
 "AS14061","DigitalOcean, LLC",8196
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3218
-"AS8075","Microsoft Corporation",2821
+"AS8075","Microsoft Corporation",2822
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2655
 "AS142002","Scloud Pte Ltd",2564
@@ -281,12 +281,12 @@ ASN,Organization,IP_Count
 "AS60068","Datacamp Limited",24
 "AS8193","""Uzbektelekom"" Joint Stock Company",24
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",24
+"AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",23
 "AS197309","RS-Media LLC",23
 "AS198037","SPACECORE SOLUTION LTD",23
 "AS24940","Hetzner Online GmbH",23
 "AS62240","Clouvider Limited",23
 "AS7303","Telecom Argentina S.A.",23
-"AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",22
 "AS16591","Google Fiber Inc.",22
 "AS17561","Larus Limited",22
 "AS213010","Gening Nikita Dmitrievich",22
