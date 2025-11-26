@@ -46,8 +46,8 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
+"AS208046","ColocationX Ltd.",833
 "AS215925","VPSVAULT.HOST LTD",833
-"AS208046","ColocationX Ltd.",832
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",791
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
@@ -116,7 +116,7 @@ ASN,Organization,IP_Count
 "AS36007","Kamatera, Inc.",122
 "AS151185","China Telecom",113
 "AS211298","Constantine Cybersecurity Ltd.",113
-"AS6739","VODAFONE ONO, S.A.",112
+"AS6739","VODAFONE ONO, S.A.",113
 "AS208287","DC Host INC",110
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",106
@@ -473,6 +473,7 @@ ASN,Organization,IP_Count
 "AS213520","Senko Digital Ltd",9
 "AS214481","Wojciech Czapkowicz",9
 "AS24955","JSC ""Ufanet""",9
+"AS266015","JC2000 Telecomunicações Ltda",9
 "AS266702","MEGALINK S.R.L.",9
 "AS267280","YELLOW CONNECT MULTIMIDIA LTDA ME",9
 "AS272928","P&C ON LINE S.R.L. (NETWAY INTERNET)",9
@@ -503,7 +504,6 @@ ASN,Organization,IP_Count
 "AS2516","KDDI CORPORATION",8
 "AS2527","Sony Network Communications Inc.",8
 "AS262459","Osirnet Info Telecom Ltda.",8
-"AS266015","JC2000 Telecomunicações Ltda",8
 "AS27967","Gobernacion de la Provincia de Buenos Aires",8
 "AS2860","NOS COMUNICACOES, S.A.",8
 "AS328723","Telasera Technologies PTY LTD",8
@@ -901,6 +901,7 @@ ASN,Organization,IP_Count
 "AS21499","Host Europe GmbH",3
 "AS21565","Horry Telephone Cooperative, Inc.",3
 "AS216071","SERVERS TECH FZCO",3
+"AS22611","InMotion Hosting, Inc.",3
 "AS23650","Chinanet Jiangsu",3
 "AS24165","UNION BROADBAND NETWORK",3
 "AS25082","Viner Telecom LLC",3
@@ -1187,7 +1188,6 @@ ASN,Organization,IP_Count
 "AS21497","PrJSC ""VF UKRAINE""",2
 "AS21559","OSNET Wireless",2
 "AS215761","Muhammed Fatih ASAN",2
-"AS22611","InMotion Hosting, Inc.",2
 "AS22646","Hargray Communications Group, Inc.",2
 "AS23106","AMERICAN TOWER DO BRASIL-COMUNICAÇÂO MULTIMÍDIA LT",2
 "AS23314","Summit Broadband",2
