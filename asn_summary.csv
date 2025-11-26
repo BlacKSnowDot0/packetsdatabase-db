@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87780
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22108
-"AS398324","Censys, Inc.",14316
+"AS398324","Censys, Inc.",14319
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10527
-"AS14061","DigitalOcean, LLC",8198
+"AS396982","Google LLC",10529
+"AS14061","DigitalOcean, LLC",8200
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5938
 "AS4134","Chinanet",5039
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2564
 "AS9808","China Mobile",2078
 "AS23470","ReliableSite.Net LLC",1826
-"AS202425","IP Volume inc",1797
+"AS202425","IP Volume inc",1798
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1536
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1419
 "AS36352","HostPapa",1402
-"AS49870","Alsycon B.V.",1367
+"AS49870","Alsycon B.V.",1368
 "AS13335","Cloudflare, Inc.",1359
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1214
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS53667","FranTech Solutions",506
 "AS50360","Tamatiya EOOD",492
-"AS9829","Bharat Sanchar Nigam Ltd",491
+"AS9829","Bharat Sanchar Nigam Ltd",492
 "AS212238","Datacamp Limited",465
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
@@ -137,7 +137,7 @@ ASN,Organization,IP_Count
 "AS5617","Orange Polska Spolka Akcyjna",81
 "AS271795","SERVITELCONET CIA. LTDA.",79
 "AS200019","ALEXHOST SRL",78
-"AS8402","PJSC ""Vimpelcom""",77
+"AS8402","PJSC ""Vimpelcom""",78
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS3920","ESTOXY OU",76
 "AS27882","Telefónica Celular de Bolivia S.A.",75
