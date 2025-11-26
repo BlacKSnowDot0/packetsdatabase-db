@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS48925","VibeGAMES B.V.",1424
 "AS32475","Internap Holding LLC",1421
 "AS398722","Censys, Inc.",1419
-"AS36352","HostPapa",1399
+"AS36352","HostPapa",1400
 "AS49870","Alsycon B.V.",1366
 "AS13335","Cloudflare, Inc.",1359
 "AS215269","LAZYCLOUD LTD",1312
@@ -401,6 +401,7 @@ ASN,Organization,IP_Count
 "AS15895","""Kyivstar"" PJSC",13
 "AS17639","ComClark Network & Technology Corp",13
 "AS213194","Nechaev Dmitry Sergeevich",13
+"AS214309","Aurorix Gaming Solutions Limited",13
 "AS25369","Hydra Communications Ltd",13
 "AS28840","PJSC ""TATTELECOM""",13
 "AS29465","MTN NIGERIA Communication limited",13
@@ -414,7 +415,6 @@ ASN,Organization,IP_Count
 "AS202520","SkyPass Solutions Sp. z.o.o.",12
 "AS2116","GLOBALCONNECT AS",12
 "AS213438","ColocaTel Inc.",12
-"AS214309","Aurorix Gaming Solutions Limited",12
 "AS2637","Georgia Institute of Technology",12
 "AS35042","Layer7 Networks GmbH",12
 "AS35297","Dataline LLC",12
