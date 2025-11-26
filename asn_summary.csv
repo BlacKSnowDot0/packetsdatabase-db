@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87779
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22101
-"AS398324","Censys, Inc.",14280
+"AS398324","Censys, Inc.",14283
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10521
+"AS396982","Google LLC",10523
 "AS14061","DigitalOcean, LLC",8189
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5936
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3218
 "AS8075","Microsoft Corporation",2819
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2648
+"AS6939","Hurricane Electric LLC",2649
 "AS142002","Scloud Pte Ltd",2563
 "AS9808","China Mobile",2078
 "AS23470","ReliableSite.Net LLC",1824
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS48925","VibeGAMES B.V.",1424
 "AS32475","Internap Holding LLC",1419
 "AS398722","Censys, Inc.",1419
-"AS36352","HostPapa",1391
+"AS36352","HostPapa",1394
 "AS49870","Alsycon B.V.",1366
 "AS13335","Cloudflare, Inc.",1359
 "AS215269","LAZYCLOUD LTD",1312
@@ -64,7 +64,7 @@ ASN,Organization,IP_Count
 "AS12876","ONLINE S.A.S.",528
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
-"AS201814","MEVSPACE sp. z o.o.",508
+"AS201814","MEVSPACE sp. z o.o.",509
 "AS53667","FranTech Solutions",505
 "AS50360","Tamatiya EOOD",492
 "AS9829","Bharat Sanchar Nigam Ltd",488
@@ -74,9 +74,9 @@ ASN,Organization,IP_Count
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS7018","AT&T Enterprises, LLC",386
 "AS7713","Telekomunikasi Indonesia (PT)",366
+"AS47890","UNMANAGED LTD",363
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",361
 "AS21859","Zenlayer Inc",361
-"AS47890","UNMANAGED LTD",361
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",360
 "AS7922","Comcast Cable Communications, LLC",345
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS8151","Uninet S.A. de C.V.",336
