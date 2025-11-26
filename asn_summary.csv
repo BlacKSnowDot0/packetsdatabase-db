@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2564
 "AS9808","China Mobile",2078
 "AS23470","ReliableSite.Net LLC",1826
-"AS202425","IP Volume inc",1796
+"AS202425","IP Volume inc",1797
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1536
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -63,7 +63,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",535
 "AS12876","ONLINE S.A.S.",530
 "AS198953","Proton66 OOO",527
-"AS201814","MEVSPACE sp. z o.o.",511
+"AS201814","MEVSPACE sp. z o.o.",513
 "AS140292","China Telecom",509
 "AS53667","FranTech Solutions",506
 "AS50360","Tamatiya EOOD",492
@@ -75,7 +75,7 @@ ASN,Organization,IP_Count
 "AS7018","AT&T Enterprises, LLC",386
 "AS47890","UNMANAGED LTD",373
 "AS7713","Telekomunikasi Indonesia (PT)",366
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",361
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",363
 "AS21859","Zenlayer Inc",361
 "AS7922","Comcast Cable Communications, LLC",345
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
@@ -208,11 +208,11 @@ ASN,Organization,IP_Count
 "AS27699","TELEFÔNICA BRASIL S.A",39
 "AS8048","CANTV Servicios, Venezuela",39
 "AS12322","Free SAS",38
+"AS210558","1337 Services GmbH",38
 "AS26599","TELEFÔNICA BRASIL S.A",38
 "AS4538","China Education and Research Network Center",38
 "AS5089","Virgin Media Limited",38
 "AS1680","Cellcom Fixed Line Communication L.P",37
-"AS210558","1337 Services GmbH",37
 "AS8167","V tal",37
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",36
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",36
@@ -271,13 +271,13 @@ ASN,Organization,IP_Count
 "AS36947","Telecom Algeria",25
 "AS55836","Reliance Jio Infocomm Limited",25
 "AS56067","Metrabyte Co.,Ltd",25
+"AS58212","dataforest GmbH",25
 "AS58224","Iran Telecommunication Company PJS",25
 "AS197540","netcup GmbH",24
 "AS202796","JSR IT B.V.",24
 "AS209","CenturyLink Communications, LLC",24
 "AS4713","NTT Communications Corporation",24
 "AS577","Bell Canada",24
-"AS58212","dataforest GmbH",24
 "AS60068","Datacamp Limited",24
 "AS8193","""Uzbektelekom"" Joint Stock Company",24
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",24
