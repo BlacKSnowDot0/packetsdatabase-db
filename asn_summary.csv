@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87780
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22104
-"AS398324","Censys, Inc.",14295
+"AS398324","Censys, Inc.",14297
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10525
 "AS14061","DigitalOcean, LLC",8191
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4452
 "AS16509","Amazon.com, Inc.",4347
-"AS45102","Alibaba (US) Technology Co., Ltd.",4049
+"AS45102","Alibaba (US) Technology Co., Ltd.",4050
 "AS396998","Path Network, Inc.",3992
 "AS0","",3667
 "AS63949","Akamai Technologies, Inc.",3632
@@ -99,7 +99,7 @@ ASN,Organization,IP_Count
 "AS29066","velia.net Internetdienste GmbH",211
 "AS12389","PJSC Rostelecom",202
 "AS12555","Data-center IMAQLIQ Ltd.",193
-"AS29484","Ruhr-Universitaet Bochum",191
+"AS29484","Ruhr-Universitaet Bochum",192
 "AS7552","Viettel Group",182
 "AS63199","CDS Global Cloud Co., Ltd",179
 "AS401116","Nybula LLC",170
@@ -1842,6 +1842,7 @@ ASN,Organization,IP_Count
 "AS18978","Enzu Inc",1
 "AS19045","Direct Communications Cedar Valley, LLC",1
 "AS19182","TELEFÔNICA BRASIL S.A",1
+"AS19237","Omnis Network, LLC",1
 "AS19527","Google LLC",1
 "AS19624","Data Room, Inc",1
 "AS196695","NetOne Rus JSC",1
