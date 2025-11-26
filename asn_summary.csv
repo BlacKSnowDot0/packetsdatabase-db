@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87780
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22104
-"AS398324","Censys, Inc.",14297
+"AS398324","Censys, Inc.",14299
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10525
-"AS14061","DigitalOcean, LLC",8191
+"AS14061","DigitalOcean, LLC",8192
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5937
 "AS4134","Chinanet",5039
@@ -22,7 +22,7 @@ ASN,Organization,IP_Count
 "AS8075","Microsoft Corporation",2819
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2653
-"AS142002","Scloud Pte Ltd",2563
+"AS142002","Scloud Pte Ltd",2564
 "AS9808","China Mobile",2078
 "AS23470","ReliableSite.Net LLC",1825
 "AS202425","IP Volume inc",1794
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1536
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
-"AS32475","Internap Holding LLC",1420
+"AS32475","Internap Holding LLC",1421
 "AS398722","Censys, Inc.",1419
 "AS36352","HostPapa",1399
 "AS49870","Alsycon B.V.",1366
@@ -147,9 +147,9 @@ ASN,Organization,IP_Count
 "AS31898","Oracle Corporation",73
 "AS23724","IDC, China Telecommunications Corporation",70
 "AS52053","REDHEBERG Association declaree",69
+"AS215240","Silent Connection Ltd.",68
 "AS834","IPXO LLC",68
 "AS150263","PT Alnet Telekomunikasi Indonesia",67
-"AS215240","Silent Connection Ltd.",67
 "AS328867","Corebach Backbone SARL",67
 "AS55720","Gigabit Hosting Sdn Bhd",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
@@ -263,11 +263,11 @@ ASN,Organization,IP_Count
 "AS23693","PT. Telekomunikasi Selular",26
 "AS271597","NEW LINK CONNECT",26
 "AS3209","Vodafone GmbH",26
+"AS329490","Promethean Consulting Limited",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",25
 "AS18881","TELEFÔNICA BRASIL S.A",25
 "AS24560","Bharti Airtel Limited",25
-"AS329490","Promethean Consulting Limited",25
 "AS36947","Telecom Algeria",25
 "AS55836","Reliance Jio Infocomm Limited",25
 "AS56067","Metrabyte Co.,Ltd",25
