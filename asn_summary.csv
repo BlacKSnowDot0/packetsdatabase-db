@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87780
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22108
-"AS398324","Censys, Inc.",14320
+"AS211298","Driftnet Ltd",22109
+"AS398324","Censys, Inc.",14323
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10530
-"AS14061","DigitalOcean, LLC",8200
+"AS14061","DigitalOcean, LLC",8202
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5938
 "AS4134","Chinanet",5039
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4347
 "AS45102","Alibaba (US) Technology Co., Ltd.",4057
 "AS396998","Path Network, Inc.",3992
-"AS0","",3669
+"AS0","",3670
 "AS63949","Akamai Technologies, Inc.",3633
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
@@ -25,14 +25,14 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2564
 "AS9808","China Mobile",2078
 "AS23470","ReliableSite.Net LLC",1827
-"AS202425","IP Volume inc",1798
+"AS202425","IP Volume inc",1799
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1536
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS32475","Internap Holding LLC",1426
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1419
-"AS36352","HostPapa",1402
+"AS36352","HostPapa",1403
 "AS49870","Alsycon B.V.",1368
 "AS13335","Cloudflare, Inc.",1359
 "AS215269","LAZYCLOUD LTD",1312
@@ -50,8 +50,8 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",833
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",791
+"AS51167","Contabo GmbH",731
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
-"AS51167","Contabo GmbH",730
 "AS10439","CariNet, Inc.",688
 "AS14618","Amazon.com, Inc.",675
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -63,7 +63,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",535
 "AS12876","ONLINE S.A.S.",530
 "AS198953","Proton66 OOO",527
-"AS201814","MEVSPACE sp. z o.o.",520
+"AS201814","MEVSPACE sp. z o.o.",527
 "AS140292","China Telecom",509
 "AS53667","FranTech Solutions",507
 "AS50360","Tamatiya EOOD",492
@@ -101,7 +101,7 @@ ASN,Organization,IP_Count
 "AS12555","Data-center IMAQLIQ Ltd.",193
 "AS29484","Ruhr-Universitaet Bochum",192
 "AS7552","Viettel Group",182
-"AS63199","CDS Global Cloud Co., Ltd",179
+"AS63199","CDS Global Cloud Co., Ltd",180
 "AS401116","Nybula LLC",170
 "AS50219","LNK SYSTEMS MUNTENIA SRL",158
 "AS206264","Amarutu Technology Ltd",153
@@ -114,7 +114,7 @@ ASN,Organization,IP_Count
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
 "AS36007","Kamatera, Inc.",122
-"AS151185","China Telecom",113
+"AS151185","China Telecom",114
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS6739","VODAFONE ONO, S.A.",113
 "AS208287","DC Host INC",110
