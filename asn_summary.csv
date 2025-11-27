@@ -1,14 +1,14 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87781
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22112
-"AS398324","Censys, Inc.",14341
+"AS211298","Driftnet Ltd",22115
+"AS398324","Censys, Inc.",14343
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10536
 "AS14061","DigitalOcean, LLC",8205
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5939
-"AS4134","Chinanet",5043
+"AS4134","Chinanet",5054
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4454
 "AS16509","Amazon.com, Inc.",4347
@@ -25,18 +25,18 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2564
 "AS9808","China Mobile",2079
 "AS23470","ReliableSite.Net LLC",1906
-"AS202425","IP Volume inc",1803
+"AS202425","IP Volume inc",1804
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1538
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS32475","Internap Holding LLC",1430
+"AS32475","Internap Holding LLC",1431
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1419
 "AS36352","HostPapa",1404
 "AS49870","Alsycon B.V.",1368
 "AS13335","Cloudflare, Inc.",1359
 "AS215269","LAZYCLOUD LTD",1312
-"AS174","Cogent Communications",1217
+"AS174","Cogent Communications",1218
 "AS22552","eSited Solutions",1185
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
@@ -174,9 +174,9 @@ ASN,Organization,IP_Count
 "AS20001","Charter Communications Inc",57
 "AS20278","Nexeon Technologies, Inc.",57
 "AS48090","PPTECHNOLOGY LIMITED",56
+"AS149746","PT Blip Integrator Provider",55
 "AS18345","Servers Australia Pty. Ltd",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
-"AS149746","PT Blip Integrator Provider",54
 "AS213877","u1host ltd",54
 "AS30058","FDCservers.net",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
