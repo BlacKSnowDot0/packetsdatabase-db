@@ -1,10 +1,10 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87780
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87781
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22111
-"AS398324","Censys, Inc.",14333
+"AS398324","Censys, Inc.",14334
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10534
+"AS396982","Google LLC",10536
 "AS14061","DigitalOcean, LLC",8204
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5938
@@ -21,15 +21,15 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3218
 "AS8075","Microsoft Corporation",2825
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2659
+"AS6939","Hurricane Electric LLC",2660
 "AS142002","Scloud Pte Ltd",2564
 "AS9808","China Mobile",2078
-"AS23470","ReliableSite.Net LLC",1865
+"AS23470","ReliableSite.Net LLC",1875
 "AS202425","IP Volume inc",1802
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1536
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS32475","Internap Holding LLC",1428
+"AS32475","Internap Holding LLC",1429
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1419
 "AS36352","HostPapa",1404
@@ -57,10 +57,10 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS4837","CHINA UNICOM China169 Backbone",587
 "AS3462","Chunghwa Telecom Co., Ltd.",583
-"AS9009","M247 Europe SRL",561
+"AS9009","M247 Europe SRL",562
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS201814","MEVSPACE sp. z o.o.",543
+"AS201814","MEVSPACE sp. z o.o.",545
 "AS51115","HLL LLC",536
 "AS12876","ONLINE S.A.S.",531
 "AS198953","Proton66 OOO",527
@@ -80,7 +80,7 @@ ASN,Organization,IP_Count
 "AS7922","Comcast Cable Communications, LLC",345
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS8151","Uninet S.A. de C.V.",336
-"AS214943","Railnet LLC",316
+"AS214943","Railnet LLC",317
 "AS45899","VNPT Corp",315
 "AS24863","LINKdotNET AS number",307
 "AS9341","PT Indonesia Comnets Plus",297
@@ -110,7 +110,7 @@ ASN,Organization,IP_Count
 "AS47105","Vault Dweller OU",141
 "AS14956","RouterHosting LLC",134
 "AS34984","Superonline Iletisim Hizmetleri A.S.",131
-"AS13238","YANDEX LLC",128
+"AS13238","YANDEX LLC",129
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
 "AS36007","Kamatera, Inc.",122
@@ -139,8 +139,8 @@ ASN,Organization,IP_Count
 "AS200019","ALEXHOST SRL",78
 "AS8402","PJSC ""Vimpelcom""",78
 "AS211736","FOP Dmytro Nedilskyi",76
+"AS22773","Cox Communications Inc.",76
 "AS3920","ESTOXY OU",76
-"AS22773","Cox Communications Inc.",75
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
 "AS56046","China Mobile Communications Corporation",74
