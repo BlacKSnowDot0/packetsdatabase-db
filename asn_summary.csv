@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87780
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22109
+"AS211298","Driftnet Ltd",22110
 "AS398324","Censys, Inc.",14324
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10532
-"AS14061","DigitalOcean, LLC",8202
+"AS14061","DigitalOcean, LLC",8203
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5938
 "AS4134","Chinanet",5039
@@ -140,9 +140,9 @@ ASN,Organization,IP_Count
 "AS8402","PJSC ""Vimpelcom""",78
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS3920","ESTOXY OU",76
+"AS22773","Cox Communications Inc.",75
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
-"AS22773","Cox Communications Inc.",74
 "AS56046","China Mobile Communications Corporation",74
 "AS31898","Oracle Corporation",73
 "AS215240","Silent Connection Ltd.",70
@@ -267,6 +267,7 @@ ASN,Organization,IP_Count
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",25
 "AS18881","TELEFÔNICA BRASIL S.A",25
+"AS202796","JSR IT B.V.",25
 "AS24560","Bharti Airtel Limited",25
 "AS36947","Telecom Algeria",25
 "AS55836","Reliance Jio Infocomm Limited",25
@@ -274,7 +275,6 @@ ASN,Organization,IP_Count
 "AS58212","dataforest GmbH",25
 "AS58224","Iran Telecommunication Company PJS",25
 "AS197540","netcup GmbH",24
-"AS202796","JSR IT B.V.",24
 "AS209","CenturyLink Communications, LLC",24
 "AS4713","NTT Communications Corporation",24
 "AS577","Bell Canada",24
