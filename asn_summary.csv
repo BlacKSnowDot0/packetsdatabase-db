@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87780
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22110
-"AS398324","Censys, Inc.",14330
+"AS398324","Censys, Inc.",14331
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10534
 "AS14061","DigitalOcean, LLC",8204
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3218
-"AS8075","Microsoft Corporation",2824
+"AS8075","Microsoft Corporation",2825
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2658
 "AS142002","Scloud Pte Ltd",2564
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",1428
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1419
-"AS36352","HostPapa",1403
+"AS36352","HostPapa",1404
 "AS49870","Alsycon B.V.",1368
 "AS13335","Cloudflare, Inc.",1359
 "AS215269","LAZYCLOUD LTD",1312
@@ -60,7 +60,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",561
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS201814","MEVSPACE sp. z o.o.",537
+"AS201814","MEVSPACE sp. z o.o.",539
 "AS51115","HLL LLC",535
 "AS12876","ONLINE S.A.S.",530
 "AS198953","Proton66 OOO",527
@@ -73,7 +73,7 @@ ASN,Organization,IP_Count
 "AS24186","RailTel Corporation of India Ltd.",406
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS7018","AT&T Enterprises, LLC",386
-"AS47890","UNMANAGED LTD",373
+"AS47890","UNMANAGED LTD",374
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",363
 "AS21859","Zenlayer Inc",361
@@ -101,7 +101,7 @@ ASN,Organization,IP_Count
 "AS12555","Data-center IMAQLIQ Ltd.",193
 "AS29484","Ruhr-Universitaet Bochum",192
 "AS7552","Viettel Group",182
-"AS63199","CDS Global Cloud Co., Ltd",180
+"AS63199","CDS Global Cloud Co., Ltd",181
 "AS401116","Nybula LLC",170
 "AS50219","LNK SYSTEMS MUNTENIA SRL",158
 "AS206264","Amarutu Technology Ltd",153
@@ -129,7 +129,7 @@ ASN,Organization,IP_Count
 "AS63018","Dedicated.com",92
 "AS136435","ELITE COMMUNICATION",91
 "AS210125","PRIAM NET Sh.p.k.",89
-"AS28209","Under Servicos de Internet Ltda",86
+"AS28209","Under Servicos de Internet Ltda",87
 "AS58461","Chinanet",85
 "AS4766","Korea Telecom",84
 "AS11320","LightEdge Solutions",82
