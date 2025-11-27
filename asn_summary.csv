@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87781
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22115
-"AS398324","Censys, Inc.",14346
+"AS398324","Censys, Inc.",14348
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10536
 "AS14061","DigitalOcean, LLC",8208
@@ -29,7 +29,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1538
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS32475","Internap Holding LLC",1431
+"AS32475","Internap Holding LLC",1432
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1419
 "AS36352","HostPapa",1405
@@ -66,13 +66,13 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS53667","FranTech Solutions",508
+"AS9829","Bharat Sanchar Nigam Ltd",493
 "AS50360","Tamatiya EOOD",492
-"AS9829","Bharat Sanchar Nigam Ltd",492
 "AS212238","Datacamp Limited",465
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS7018","AT&T Enterprises, LLC",387
+"AS7018","AT&T Enterprises, LLC",389
 "AS47890","UNMANAGED LTD",374
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",364
@@ -126,8 +126,8 @@ ASN,Organization,IP_Count
 "AS8560","IONOS SE",97
 "AS199785","Cloud Hosting Solutions, Limited.",94
 "AS205352","KABELNET LTD",93
+"AS136435","ELITE COMMUNICATION",92
 "AS63018","Dedicated.com",92
-"AS136435","ELITE COMMUNICATION",91
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS28209","Under Servicos de Internet Ltda",87
 "AS4766","Korea Telecom",85
@@ -372,6 +372,7 @@ ASN,Organization,IP_Count
 "AS20011","Dimension Data",15
 "AS202448","MVPS LTD",15
 "AS211619","MAXKO d.o.o.",15
+"AS214309","Aurorix Gaming Solutions Limited",15
 "AS263767","CORPORACIÓN GALA IT, C.A.",15
 "AS272547","Servicos de Infraestrutura e Datacenter",15
 "AS28126","BRISANET SERVICOS DE TELECOMUNICACOES LTDA",15
@@ -388,7 +389,6 @@ ASN,Organization,IP_Count
 "AS12400","Partner Communications Ltd.",14
 "AS17621","China Unicom Shanghai network",14
 "AS204104","Giti Secure Cloud LLC",14
-"AS214309","Aurorix Gaming Solutions Limited",14
 "AS27947","Telconet S.A",14
 "AS30600","Metronet",14
 "AS3352","TELEFONICA DE ESPANA S.A.U.",14
@@ -997,6 +997,7 @@ ASN,Organization,IP_Count
 "AS49800","GNC-Alfa CJSC",3
 "AS49981","WorldStream B.V.",3
 "AS5065","Bunny Communications",3
+"AS51604","JSC ""ER-Telecom Holding""",3
 "AS51742","FOP Molochko Nina Vasilievna,",3
 "AS52041","Scaleblade, Ltd.",3
 "AS52436","Cable Televisora Color",3
@@ -1419,7 +1420,6 @@ ASN,Organization,IP_Count
 "AS51375","STC BAHRAIN B.S.C CLOSED",2
 "AS51468","One.com A/S",2
 "AS51500","Servisnet Ltd.",2
-"AS51604","JSC ""ER-Telecom Holding""",2
 "AS51612","Alfatel plus Ltd",2
 "AS51784","""X-City"" Ltd.",2
 "AS52228","Cable Tica",2
