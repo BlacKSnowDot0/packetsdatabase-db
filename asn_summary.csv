@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14355
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10538
-"AS14061","DigitalOcean, LLC",8210
+"AS14061","DigitalOcean, LLC",8211
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5939
 "AS4134","Chinanet",5054
@@ -24,15 +24,15 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2662
 "AS142002","Scloud Pte Ltd",2564
 "AS9808","China Mobile",2079
-"AS23470","ReliableSite.Net LLC",1916
-"AS202425","IP Volume inc",1805
+"AS23470","ReliableSite.Net LLC",1917
+"AS202425","IP Volume inc",1806
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1538
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS32475","Internap Holding LLC",1433
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1419
-"AS36352","HostPapa",1412
+"AS36352","HostPapa",1413
 "AS49870","Alsycon B.V.",1390
 "AS13335","Cloudflare, Inc.",1359
 "AS215269","LAZYCLOUD LTD",1312
@@ -134,8 +134,8 @@ ASN,Organization,IP_Count
 "AS58461","Chinanet",85
 "AS11320","LightEdge Solutions",82
 "AS16735","ALGAR TELECOM S/A",81
+"AS271795","SERVITELCONET CIA. LTDA.",81
 "AS5617","Orange Polska Spolka Akcyjna",81
-"AS271795","SERVITELCONET CIA. LTDA.",80
 "AS200019","ALEXHOST SRL",78
 "AS8402","PJSC ""Vimpelcom""",78
 "AS211736","FOP Dmytro Nedilskyi",76
