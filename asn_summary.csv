@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87780
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22110
-"AS398324","Censys, Inc.",14324
+"AS398324","Censys, Inc.",14326
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10532
 "AS14061","DigitalOcean, LLC",8203
@@ -24,8 +24,8 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2656
 "AS142002","Scloud Pte Ltd",2564
 "AS9808","China Mobile",2078
-"AS23470","ReliableSite.Net LLC",1837
-"AS202425","IP Volume inc",1801
+"AS23470","ReliableSite.Net LLC",1847
+"AS202425","IP Volume inc",1802
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1536
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -85,7 +85,7 @@ ASN,Organization,IP_Count
 "AS24863","LINKdotNET AS number",307
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
-"AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",293
+"AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",294
 "AS213613","BOTSHIELD LTD",285
 "AS208843","Alpha Strike Labs GmbH",283
 "AS48090","TECHOFF SRV LIMITED",260
@@ -96,7 +96,7 @@ ASN,Organization,IP_Count
 "AS701","Verizon Business",223
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
-"AS29066","velia.net Internetdienste GmbH",213
+"AS29066","velia.net Internetdienste GmbH",214
 "AS12389","PJSC Rostelecom",202
 "AS12555","Data-center IMAQLIQ Ltd.",193
 "AS29484","Ruhr-Universitaet Bochum",192
@@ -105,7 +105,7 @@ ASN,Organization,IP_Count
 "AS401116","Nybula LLC",170
 "AS50219","LNK SYSTEMS MUNTENIA SRL",158
 "AS206264","Amarutu Technology Ltd",153
-"AS42237","w1n ltd",150
+"AS42237","w1n ltd",151
 "AS262551","Farol Telecom",147
 "AS47105","Vault Dweller OU",141
 "AS14956","RouterHosting LLC",134
@@ -180,7 +180,7 @@ ASN,Organization,IP_Count
 "AS213877","u1host ltd",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS30058","FDCservers.net",53
-"AS12816","Leibniz-Rechenzentrum",50
+"AS12816","Leibniz-Rechenzentrum",51
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
 "AS30633","Leaseweb USA, Inc.",48
