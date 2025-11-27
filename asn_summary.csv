@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87780
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22110
-"AS398324","Censys, Inc.",14326
+"AS398324","Censys, Inc.",14328
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10532
+"AS396982","Google LLC",10533
 "AS14061","DigitalOcean, LLC",8203
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5938
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3218
 "AS8075","Microsoft Corporation",2824
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2656
+"AS6939","Hurricane Electric LLC",2657
 "AS142002","Scloud Pte Ltd",2564
 "AS9808","China Mobile",2078
 "AS23470","ReliableSite.Net LLC",1847
@@ -29,14 +29,14 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1536
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS32475","Internap Holding LLC",1427
+"AS32475","Internap Holding LLC",1428
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1419
 "AS36352","HostPapa",1403
 "AS49870","Alsycon B.V.",1368
 "AS13335","Cloudflare, Inc.",1359
 "AS215269","LAZYCLOUD LTD",1312
-"AS174","Cogent Communications",1214
+"AS174","Cogent Communications",1216
 "AS22552","eSited Solutions",1185
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",833
 "AS215925","VPSVAULT.HOST LTD",833
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",792
+"AS20052","Arbor Networks, Inc.",793
 "AS51167","Contabo GmbH",731
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS10439","CariNet, Inc.",688
@@ -439,6 +439,7 @@ ASN,Organization,IP_Count
 "AS20853","eTOP sp. z o.o.",11
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
 "AS24547","China Mobile",11
+"AS272928","P&C ON LINE S.R.L. (NETWAY INTERNET)",11
 "AS37611","Afrihost (Pty) Ltd",11
 "AS44901","Belcloud LTD",11
 "AS45820","TTSL-ISP DIVISION",11
@@ -449,7 +450,6 @@ ASN,Organization,IP_Count
 "AS24835","Vodafone Data - Egypt",10
 "AS25019","Saudi Telecom Company JSC",10
 "AS264628","CORPORACION FIBEX TELECOM, C.A.",10
-"AS272928","P&C ON LINE S.R.L. (NETWAY INTERNET)",10
 "AS328471","HERO TELECOMS (PTY) LTD",10
 "AS36903","Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",10
 "AS37705","TOPNET",10
