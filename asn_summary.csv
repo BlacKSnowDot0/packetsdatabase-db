@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87781
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22115
-"AS398324","Censys, Inc.",14348
+"AS398324","Censys, Inc.",14349
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10536
+"AS396982","Google LLC",10537
 "AS14061","DigitalOcean, LLC",8208
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5939
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS401120","cheapy.host LLC",557
 "AS201814","MEVSPACE sp. z o.o.",546
 "AS51115","HLL LLC",537
-"AS12876","ONLINE S.A.S.",533
+"AS12876","ONLINE S.A.S.",534
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS53667","FranTech Solutions",508
@@ -115,8 +115,8 @@ ASN,Organization,IP_Count
 "AS19905","Neustar Security Services",127
 "AS36007","Kamatera, Inc.",122
 "AS151185","China Telecom",114
+"AS6739","VODAFONE ONO, S.A.",114
 "AS211298","Constantine Cybersecurity Ltd.",113
-"AS6739","VODAFONE ONO, S.A.",113
 "AS208287","DC Host INC",110
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",106
@@ -173,8 +173,8 @@ ASN,Organization,IP_Count
 "AS49544","i3D.net B.V",59
 "AS20001","Charter Communications Inc",57
 "AS20278","Nexeon Technologies, Inc.",57
+"AS149746","PT Blip Integrator Provider",56
 "AS48090","PPTECHNOLOGY LIMITED",56
-"AS149746","PT Blip Integrator Provider",55
 "AS18345","Servers Australia Pty. Ltd",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
 "AS213877","u1host ltd",54
@@ -1949,6 +1949,7 @@ ASN,Organization,IP_Count
 "AS209789","Nikolay Olegovich Tokarev",1
 "AS210092","FOP Rabchuk Valentyna Viktorivna",1
 "AS210099","TIGOVA NETWORK LIMITED",1
+"AS21021","Multimedia Polska Sp. z o.o.",1
 "AS210278","Sky Italia srl",1
 "AS210410","NETPRIME TELEKOM SAN. ve TIC. LTD.STI",1
 "AS210490","FOP Matishynets Serhii",1
