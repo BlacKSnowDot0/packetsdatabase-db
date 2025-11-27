@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87781
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22115
-"AS398324","Censys, Inc.",14344
+"AS398324","Censys, Inc.",14345
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10536
-"AS14061","DigitalOcean, LLC",8206
+"AS14061","DigitalOcean, LLC",8208
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5939
 "AS4134","Chinanet",5054
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3218
 "AS8075","Microsoft Corporation",2825
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2661
+"AS6939","Hurricane Electric LLC",2662
 "AS142002","Scloud Pte Ltd",2564
 "AS9808","China Mobile",2079
 "AS23470","ReliableSite.Net LLC",1916
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
-"AS215925","VPSVAULT.HOST LTD",834
+"AS215925","VPSVAULT.HOST LTD",835
 "AS208046","ColocationX Ltd.",833
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",794
@@ -2371,6 +2371,7 @@ ASN,Organization,IP_Count
 "AS269853","CBVISION S.A.",1
 "AS269860","PRODUCENTRO S.A.",1
 "AS269936","TELEVISION MONTALVO VISION MONVISION S.A.",1
+"AS270020","T.V. SANV S A S (ALPAVISION HD)",1
 "AS270052","ARANDA CARDOZO LIDER RAMON",1
 "AS270158","Wantelco SAS de CV",1
 "AS270242","EVEREST TELECOM EIRELI - ME",1
