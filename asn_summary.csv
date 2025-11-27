@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2661
 "AS142002","Scloud Pte Ltd",2564
 "AS9808","China Mobile",2079
-"AS23470","ReliableSite.Net LLC",1906
+"AS23470","ReliableSite.Net LLC",1916
 "AS202425","IP Volume inc",1804
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1538
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1368
 "AS13335","Cloudflare, Inc.",1359
 "AS215269","LAZYCLOUD LTD",1312
-"AS174","Cogent Communications",1218
+"AS174","Cogent Communications",1219
 "AS22552","eSited Solutions",1185
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
@@ -144,8 +144,8 @@ ASN,Organization,IP_Count
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
 "AS56046","China Mobile Communications Corporation",74
+"AS215240","Silent Connection Ltd.",73
 "AS31898","Oracle Corporation",73
-"AS215240","Silent Connection Ltd.",72
 "AS23724","IDC, China Telecommunications Corporation",70
 "AS52053","REDHEBERG Association declaree",69
 "AS150263","PT Alnet Telekomunikasi Indonesia",68
@@ -704,6 +704,7 @@ ASN,Organization,IP_Count
 "AS4721","JCOM Co., Ltd.",5
 "AS47702","Teleradiocompany Discovery Ltd.",5
 "AS4780","Digital United Inc.",5
+"AS48347","JSC Mediasoft ekspert",5
 "AS53062","GGNET TELECOM BACKBONE",5
 "AS53167","SEBRATEL TECNOLOGIA LTDA",5
 "AS5410","Bouygues Telecom SA",5
@@ -806,7 +807,6 @@ ASN,Organization,IP_Count
 "AS46690","Southern New England Telephone Company and SNET America, Inc.",4
 "AS47165","Omskie kabelnye seti Ltd.",4
 "AS47898","NPK Home-Net Ltd.",4
-"AS48347","JSC Mediasoft ekspert",4
 "AS50274","Alfanet LLC",4
 "AS50576","FREEWAY Plus LLC",4
 "AS51765","Oy Crea Nova Hosting Solution Ltd",4
