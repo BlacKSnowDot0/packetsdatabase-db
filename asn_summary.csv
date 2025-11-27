@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",4060
 "AS396998","Path Network, Inc.",3992
 "AS0","",3670
-"AS63949","Akamai Technologies, Inc.",3633
+"AS63949","Akamai Technologies, Inc.",3634
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3218
@@ -96,7 +96,7 @@ ASN,Organization,IP_Count
 "AS701","Verizon Business",223
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
-"AS29066","velia.net Internetdienste GmbH",214
+"AS29066","velia.net Internetdienste GmbH",215
 "AS12389","PJSC Rostelecom",203
 "AS12555","Data-center IMAQLIQ Ltd.",193
 "AS29484","Ruhr-Universitaet Bochum",193
@@ -886,6 +886,7 @@ ASN,Organization,IP_Count
 "AS18318","LG HelloVision Corp.",3
 "AS19331","Twin Lakes Telephone Cooperative Corporation",3
 "AS196949","Natalia Sergeevna Filicheva",3
+"AS19871","Network Solutions, LLC",3
 "AS199468","GRAIN COMMUNICATIONS LIMITED",3
 "AS200359","Grupo Proveedor tecnologico Universal SL",3
 "AS20055","Wholesail networks LLC",3
@@ -1149,7 +1150,6 @@ ASN,Organization,IP_Count
 "AS198227","New Telecom Ltd",2
 "AS198381","Star Satellite Communications Company - PJSC",2
 "AS198551","REZOCEAN SAS",2
-"AS19871","Network Solutions, LLC",2
 "AS198820","Limited Liability Company Radio Network",2
 "AS199739","Earthlink Telecommunications Equipment Trading & Services DMCC",2
 "AS199995","Omega Telecom LLC",2
