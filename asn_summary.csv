@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14353
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10537
-"AS14061","DigitalOcean, LLC",8208
+"AS14061","DigitalOcean, LLC",8210
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5939
 "AS4134","Chinanet",5054
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",1432
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1419
-"AS36352","HostPapa",1411
+"AS36352","HostPapa",1412
 "AS49870","Alsycon B.V.",1368
 "AS13335","Cloudflare, Inc.",1359
 "AS215269","LAZYCLOUD LTD",1312
@@ -60,7 +60,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",562
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS201814","MEVSPACE sp. z o.o.",546
+"AS201814","MEVSPACE sp. z o.o.",547
 "AS51115","HLL LLC",538
 "AS12876","ONLINE S.A.S.",534
 "AS198953","Proton66 OOO",527
@@ -124,7 +124,7 @@ ASN,Organization,IP_Count
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",103
 "AS40021","Nubes, LLC",97
 "AS8560","IONOS SE",97
-"AS199785","Cloud Hosting Solutions, Limited.",94
+"AS199785","Cloud Hosting Solutions, Limited.",95
 "AS205352","KABELNET LTD",93
 "AS136435","ELITE COMMUNICATION",92
 "AS63018","Dedicated.com",92
@@ -326,6 +326,7 @@ ASN,Organization,IP_Count
 "AS17638","ASN for TIANJIN Provincial Net of CT",19
 "AS207713","GLOBAL INTERNET SOLUTIONS LLC",19
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",19
+"AS215762","Bullet Group LTD",19
 "AS22927","Telefonica de Argentina",19
 "AS262287","Maxihost LTDA",19
 "AS3257","GTT Communications Inc.",19
@@ -335,7 +336,6 @@ ASN,Organization,IP_Count
 "AS11878","tzulo, inc.",18
 "AS18049","Taiwan Infrastructure Network Technologie",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
-"AS215762","Bullet Group LTD",18
 "AS24151","China Internet Network Infomation Center",18
 "AS2914","NTT America, Inc.",18
 "AS39603","P4 Sp. z o.o.",18
