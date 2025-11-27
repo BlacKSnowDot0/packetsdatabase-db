@@ -2,13 +2,13 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87781
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22112
-"AS398324","Censys, Inc.",14340
+"AS398324","Censys, Inc.",14341
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10536
 "AS14061","DigitalOcean, LLC",8205
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5939
-"AS4134","Chinanet",5039
+"AS4134","Chinanet",5043
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4454
 "AS16509","Amazon.com, Inc.",4347
@@ -23,13 +23,13 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2661
 "AS142002","Scloud Pte Ltd",2564
-"AS9808","China Mobile",2078
-"AS23470","ReliableSite.Net LLC",1905
+"AS9808","China Mobile",2079
+"AS23470","ReliableSite.Net LLC",1906
 "AS202425","IP Volume inc",1803
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1537
+"AS209605","UAB Host Baltic",1538
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS32475","Internap Holding LLC",1429
+"AS32475","Internap Holding LLC",1430
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1419
 "AS36352","HostPapa",1404
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",834
 "AS208046","ColocationX Ltd.",833
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",793
+"AS20052","Arbor Networks, Inc.",794
 "AS51167","Contabo GmbH",732
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS10439","CariNet, Inc.",688
@@ -130,8 +130,8 @@ ASN,Organization,IP_Count
 "AS136435","ELITE COMMUNICATION",91
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS28209","Under Servicos de Internet Ltda",87
+"AS4766","Korea Telecom",85
 "AS58461","Chinanet",85
-"AS4766","Korea Telecom",84
 "AS11320","LightEdge Solutions",82
 "AS16735","ALGAR TELECOM S/A",81
 "AS5617","Orange Polska Spolka Akcyjna",81
@@ -161,8 +161,8 @@ ASN,Organization,IP_Count
 "AS17378","TierPoint, LLC",63
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",63
 "AS5650","Frontier Communications of America, Inc.",63
+"AS6128","Cablevision Systems Corp.",62
 "AS140717","China Unicom",61
-"AS6128","Cablevision Systems Corp.",61
 "AS19318","Interserver, Inc",60
 "AS210644","AEZA INTERNATIONAL LTD",60
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
