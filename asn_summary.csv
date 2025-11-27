@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87781
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22116
-"AS398324","Censys, Inc.",14355
+"AS398324","Censys, Inc.",14356
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10538
-"AS14061","DigitalOcean, LLC",8211
+"AS14061","DigitalOcean, LLC",8213
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5939
 "AS4134","Chinanet",5054
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",1433
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1419
-"AS36352","HostPapa",1413
+"AS36352","HostPapa",1414
 "AS49870","Alsycon B.V.",1390
 "AS13335","Cloudflare, Inc.",1359
 "AS215269","LAZYCLOUD LTD",1312
@@ -57,7 +57,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS4837","CHINA UNICOM China169 Backbone",588
 "AS3462","Chunghwa Telecom Co., Ltd.",583
-"AS9009","M247 Europe SRL",562
+"AS9009","M247 Europe SRL",563
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS201814","MEVSPACE sp. z o.o.",547
@@ -314,6 +314,7 @@ ASN,Organization,IP_Count
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",20
+"AS215762","Bullet Group LTD",20
 "AS24348","CERNET2 IX at Tsinghua University",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS4816","China Telecom (Group)",20
@@ -326,7 +327,6 @@ ASN,Organization,IP_Count
 "AS17638","ASN for TIANJIN Provincial Net of CT",19
 "AS207713","GLOBAL INTERNET SOLUTIONS LLC",19
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",19
-"AS215762","Bullet Group LTD",19
 "AS22927","Telefonica de Argentina",19
 "AS262287","Maxihost LTDA",19
 "AS3257","GTT Communications Inc.",19
