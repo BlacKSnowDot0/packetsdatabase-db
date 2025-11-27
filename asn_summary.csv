@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22110
 "AS398324","Censys, Inc.",14330
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10533
+"AS396982","Google LLC",10534
 "AS14061","DigitalOcean, LLC",8204
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5938
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4454
 "AS16509","Amazon.com, Inc.",4347
-"AS45102","Alibaba (US) Technology Co., Ltd.",4059
+"AS45102","Alibaba (US) Technology Co., Ltd.",4060
 "AS396998","Path Network, Inc.",3992
 "AS0","",3670
 "AS63949","Akamai Technologies, Inc.",3633
@@ -60,8 +60,8 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",561
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
+"AS201814","MEVSPACE sp. z o.o.",537
 "AS51115","HLL LLC",535
-"AS201814","MEVSPACE sp. z o.o.",533
 "AS12876","ONLINE S.A.S.",530
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
