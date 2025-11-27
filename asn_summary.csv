@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87780
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22108
-"AS398324","Censys, Inc.",14319
+"AS398324","Censys, Inc.",14320
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10529
+"AS396982","Google LLC",10530
 "AS14061","DigitalOcean, LLC",8200
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5938
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3218
-"AS8075","Microsoft Corporation",2823
+"AS8075","Microsoft Corporation",2824
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2655
 "AS142002","Scloud Pte Ltd",2564
@@ -29,7 +29,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1536
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS32475","Internap Holding LLC",1425
+"AS32475","Internap Holding LLC",1426
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1419
 "AS36352","HostPapa",1402
@@ -63,9 +63,9 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",535
 "AS12876","ONLINE S.A.S.",530
 "AS198953","Proton66 OOO",527
-"AS201814","MEVSPACE sp. z o.o.",517
+"AS201814","MEVSPACE sp. z o.o.",520
 "AS140292","China Telecom",509
-"AS53667","FranTech Solutions",506
+"AS53667","FranTech Solutions",507
 "AS50360","Tamatiya EOOD",492
 "AS9829","Bharat Sanchar Nigam Ltd",492
 "AS212238","Datacamp Limited",465
@@ -142,8 +142,8 @@ ASN,Organization,IP_Count
 "AS3920","ESTOXY OU",76
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
+"AS22773","Cox Communications Inc.",74
 "AS56046","China Mobile Communications Corporation",74
-"AS22773","Cox Communications Inc.",73
 "AS31898","Oracle Corporation",73
 "AS215240","Silent Connection Ltd.",70
 "AS23724","IDC, China Telecommunications Corporation",70
@@ -201,10 +201,10 @@ ASN,Organization,IP_Count
 "AS200590","NLS Kazakhstan LLC",41
 "AS21928","T-Mobile USA, Inc.",41
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",41
+"AS46475","Limestone Networks, Inc.",41
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",41
 "AS23969","TOT Public Company Limited",40
 "AS43641","SOLLUTIUM EU Sp z.o.o.",40
-"AS46475","Limestone Networks, Inc.",40
 "AS27699","TELEFÔNICA BRASIL S.A",39
 "AS8048","CANTV Servicios, Venezuela",39
 "AS12322","Free SAS",38
@@ -412,6 +412,7 @@ ASN,Organization,IP_Count
 "AS9770","LG HelloVision Corp.",13
 "AS11351","Charter Communications Inc",12
 "AS1221","Telstra Limited",12
+"AS1267","RIPE Network Coordination Centre",12
 "AS202520","SkyPass Solutions Sp. z.o.o.",12
 "AS2116","GLOBALCONNECT AS",12
 "AS213438","ColocaTel Inc.",12
@@ -429,7 +430,6 @@ ASN,Organization,IP_Count
 "AS8708","RCS & RDS SA",12
 "AS9318","SK Broadband Co Ltd",12
 "AS984","OCTOPUS WEB SOLUTION INC",12
-"AS1267","RIPE Network Coordination Centre",11
 "AS135059","Lao Asia Pacific Satellite Co., Ltd.",11
 "AS142032","High Family Technology Co., Limited",11
 "AS17552","TRUE INTERNET CORPORATION CO. LTD.",11
