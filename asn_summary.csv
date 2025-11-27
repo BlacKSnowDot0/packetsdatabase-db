@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87781
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22116
-"AS398324","Censys, Inc.",14354
+"AS398324","Censys, Inc.",14355
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10538
 "AS14061","DigitalOcean, LLC",8210
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1419
 "AS36352","HostPapa",1412
-"AS49870","Alsycon B.V.",1368
+"AS49870","Alsycon B.V.",1390
 "AS13335","Cloudflare, Inc.",1359
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1219
@@ -71,8 +71,8 @@ ASN,Organization,IP_Count
 "AS212238","Datacamp Limited",465
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
+"AS7018","AT&T Enterprises, LLC",390
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS7018","AT&T Enterprises, LLC",389
 "AS47890","UNMANAGED LTD",374
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",364
@@ -181,9 +181,9 @@ ASN,Organization,IP_Count
 "AS30058","FDCservers.net",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS12816","Leibniz-Rechenzentrum",51
+"AS30633","Leaseweb USA, Inc.",49
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
-"AS30633","Leaseweb USA, Inc.",48
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",47
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",47
 "AS10796","Charter Communications Inc",46
