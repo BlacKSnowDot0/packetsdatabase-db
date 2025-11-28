@@ -2,23 +2,23 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87784
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22118
-"AS398324","Censys, Inc.",14384
+"AS398324","Censys, Inc.",14385
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10557
-"AS14061","DigitalOcean, LLC",8238
+"AS14061","DigitalOcean, LLC",8239
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5939
 "AS4134","Chinanet",5055
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4454
 "AS16509","Amazon.com, Inc.",4347
-"AS45102","Alibaba (US) Technology Co., Ltd.",4063
+"AS45102","Alibaba (US) Technology Co., Ltd.",4064
 "AS396998","Path Network, Inc.",3992
 "AS0","",3673
 "AS63949","Akamai Technologies, Inc.",3637
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3223
+"AS51396","Pfcloud UG",3224
 "AS8075","Microsoft Corporation",2827
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2671
@@ -57,8 +57,8 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS4837","CHINA UNICOM China169 Backbone",588
 "AS3462","Chunghwa Telecom Co., Ltd.",583
+"AS201814","MEVSPACE sp. z o.o.",565
 "AS9009","M247 Europe SRL",564
-"AS201814","MEVSPACE sp. z o.o.",563
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS51115","HLL LLC",540
@@ -105,7 +105,7 @@ ASN,Organization,IP_Count
 "AS401116","Nybula LLC",170
 "AS50219","LNK SYSTEMS MUNTENIA SRL",159
 "AS206264","Amarutu Technology Ltd",153
-"AS42237","w1n ltd",151
+"AS42237","w1n ltd",152
 "AS262551","Farol Telecom",148
 "AS47105","Vault Dweller OU",141
 "AS14956","RouterHosting LLC",135
