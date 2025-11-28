@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87784
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22117
-"AS398324","Censys, Inc.",14366
+"AS398324","Censys, Inc.",14367
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10548
 "AS14061","DigitalOcean, LLC",8217
@@ -12,20 +12,20 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4454
 "AS16509","Amazon.com, Inc.",4347
-"AS45102","Alibaba (US) Technology Co., Ltd.",4061
+"AS45102","Alibaba (US) Technology Co., Ltd.",4062
 "AS396998","Path Network, Inc.",3992
 "AS0","",3671
-"AS63949","Akamai Technologies, Inc.",3636
+"AS63949","Akamai Technologies, Inc.",3637
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3219
 "AS8075","Microsoft Corporation",2827
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2665
+"AS6939","Hurricane Electric LLC",2666
 "AS142002","Scloud Pte Ltd",2564
 "AS9808","China Mobile",2079
 "AS23470","ReliableSite.Net LLC",1917
-"AS202425","IP Volume inc",1808
+"AS202425","IP Volume inc",1809
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1538
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -2788,6 +2788,7 @@ ASN,Organization,IP_Count
 "AS49840","Enson Net Ltd",1
 "AS49909","Direct One SA",1
 "AS50010","Omani Qatari Telecommunications Company SAOC",1
+"AS50013","Multicomp Ltd.",1
 "AS5009","REV",1
 "AS50241","UnitTelecom Ltd",1
 "AS50266","Odido Netherlands B.V.",1
