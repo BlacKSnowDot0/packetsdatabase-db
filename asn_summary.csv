@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87781
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87783
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22117
-"AS398324","Censys, Inc.",14362
+"AS398324","Censys, Inc.",14364
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10544
-"AS14061","DigitalOcean, LLC",8214
+"AS396982","Google LLC",10548
+"AS14061","DigitalOcean, LLC",8216
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5939
 "AS4134","Chinanet",5054
@@ -15,11 +15,11 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",4061
 "AS396998","Path Network, Inc.",3992
 "AS0","",3671
-"AS63949","Akamai Technologies, Inc.",3634
+"AS63949","Akamai Technologies, Inc.",3636
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3218
-"AS8075","Microsoft Corporation",2826
+"AS8075","Microsoft Corporation",2827
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2663
 "AS142002","Scloud Pte Ltd",2564
@@ -61,7 +61,7 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS201814","MEVSPACE sp. z o.o.",547
-"AS51115","HLL LLC",539
+"AS51115","HLL LLC",540
 "AS12876","ONLINE S.A.S.",535
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
@@ -133,11 +133,11 @@ ASN,Organization,IP_Count
 "AS4766","Korea Telecom",86
 "AS58461","Chinanet",85
 "AS11320","LightEdge Solutions",82
+"AS271795","SERVITELCONET CIA. LTDA.",82
 "AS16735","ALGAR TELECOM S/A",81
-"AS271795","SERVITELCONET CIA. LTDA.",81
 "AS5617","Orange Polska Spolka Akcyjna",81
+"AS8402","PJSC ""Vimpelcom""",79
 "AS200019","ALEXHOST SRL",78
-"AS8402","PJSC ""Vimpelcom""",78
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS22773","Cox Communications Inc.",76
 "AS3920","ESTOXY OU",76
@@ -259,6 +259,7 @@ ASN,Organization,IP_Count
 "AS9123","TimeWeb Ltd.",27
 "AS13213","UK-2 Limited",26
 "AS17995","PT iForte Global Internet",26
+"AS202796","JSR IT B.V.",26
 "AS2200","Renater",26
 "AS23693","PT. Telekomunikasi Selular",26
 "AS271597","NEW LINK CONNECT",26
@@ -267,7 +268,6 @@ ASN,Organization,IP_Count
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",25
 "AS18881","TELEFÔNICA BRASIL S.A",25
-"AS202796","JSR IT B.V.",25
 "AS24560","Bharti Airtel Limited",25
 "AS36947","Telecom Algeria",25
 "AS55836","Reliance Jio Infocomm Limited",25
@@ -333,6 +333,7 @@ ASN,Organization,IP_Count
 "AS40676","Psychz Networks",19
 "AS49531","""NetCom-R"" LLC",19
 "AS6167","Verizon Business",19
+"AS852","TELUS Communications Inc.",19
 "AS11878","tzulo, inc.",18
 "AS18049","Taiwan Infrastructure Network Technologie",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
@@ -341,7 +342,6 @@ ASN,Organization,IP_Count
 "AS39603","P4 Sp. z o.o.",18
 "AS400655","NixLabs Networks",18
 "AS6697","Republican Unitary Telecommunication Enterprise Beltelecom",18
-"AS852","TELUS Communications Inc.",18
 "AS136958","China Unicom Guangdong IP network",17
 "AS148981","China Telecom",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
