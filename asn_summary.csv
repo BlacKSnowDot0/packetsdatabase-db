@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87784
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22118
-"AS398324","Censys, Inc.",14390
+"AS398324","Censys, Inc.",14391
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10558
 "AS14061","DigitalOcean, LLC",8240
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5939
+"AS16276","OVH SAS",5940
 "AS4134","Chinanet",5055
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4454
@@ -23,7 +23,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2671
 "AS142002","Scloud Pte Ltd",2564
-"AS9808","China Mobile",2079
+"AS9808","China Mobile",2080
 "AS23470","ReliableSite.Net LLC",1919
 "AS202425","IP Volume inc",1815
 "AS214295","SKYNET NETWORK LTD",1631
@@ -1445,6 +1445,7 @@ ASN,Organization,IP_Count
 "AS55430","Starhub Internet Pte Ltd",2
 "AS55701","PT. Usaha Adisanggoro",2
 "AS56040","China Mobile Communications Corporation",2
+"AS56048","China Mobile Communications Corporation",2
 "AS5610","O2 Czech Republic, a.s.",2
 "AS56272","Pulse Telesystems Pvt Ltd",2
 "AS56465","Therecom Ltd",2
@@ -2894,7 +2895,6 @@ ASN,Organization,IP_Count
 "AS55799","TechAvenue Sdn Bhd",1
 "AS55821","RADIUS TELECOMS, INC.",1
 "AS55824","National Knowledge Network",1
-"AS56048","China Mobile Communications Corporation",1
 "AS56150","Viet Solutions Services Trading Company Limited",1
 "AS56207","ComClark Network & Technology Corp",1
 "AS56231","MEASAT Broadcast Network Systems Sdn. Bhd.",1
