@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14376
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10554
-"AS14061","DigitalOcean, LLC",8225
+"AS14061","DigitalOcean, LLC",8227
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5939
 "AS4134","Chinanet",5054
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",836
 "AS208046","ColocationX Ltd.",835
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",795
+"AS20052","Arbor Networks, Inc.",796
 "AS51167","Contabo GmbH",735
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS10439","CariNet, Inc.",688
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS53667","FranTech Solutions",508
-"AS9829","Bharat Sanchar Nigam Ltd",494
+"AS9829","Bharat Sanchar Nigam Ltd",495
 "AS50360","Tamatiya EOOD",492
 "AS212238","Datacamp Limited",465
 "AS21299","Kar-Tel LLC",406
@@ -98,12 +98,12 @@ ASN,Organization,IP_Count
 "AS29066","velia.net Internetdienste GmbH",217
 "AS14987","Rethem Hosting LLC",215
 "AS12389","PJSC Rostelecom",204
+"AS29484","Ruhr-Universitaet Bochum",194
 "AS12555","Data-center IMAQLIQ Ltd.",193
-"AS29484","Ruhr-Universitaet Bochum",193
 "AS7552","Viettel Group",182
 "AS63199","CDS Global Cloud Co., Ltd",181
 "AS401116","Nybula LLC",170
-"AS50219","LNK SYSTEMS MUNTENIA SRL",158
+"AS50219","LNK SYSTEMS MUNTENIA SRL",159
 "AS206264","Amarutu Technology Ltd",153
 "AS42237","w1n ltd",151
 "AS262551","Farol Telecom",148
@@ -120,8 +120,8 @@ ASN,Organization,IP_Count
 "AS208287","DC Host INC",110
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",106
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",104
 "AS47331","TTNet A.S.",104
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",103
 "AS8560","IONOS SE",98
 "AS40021","Nubes, LLC",97
 "AS199785","Cloud Hosting Solutions, Limited.",95
@@ -2629,6 +2629,7 @@ ASN,Organization,IP_Count
 "AS38524","Laxo Global Akses, PT",1
 "AS38584","CubeXS Pvt Ltd",1
 "AS38600","Smart Axiata Co., Ltd.",1
+"AS38669","LG HelloVision Corp.",1
 "AS38673","Korea Cable TV Kwangju Broadcasting",1
 "AS38700","SMILESERV",1
 "AS38713","Satcomm (Pvt.) Ltd.",1
