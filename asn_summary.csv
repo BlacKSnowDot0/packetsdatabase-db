@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87784
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22117
-"AS398324","Censys, Inc.",14376
+"AS398324","Censys, Inc.",14377
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10554
-"AS14061","DigitalOcean, LLC",8227
+"AS14061","DigitalOcean, LLC",8228
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5939
 "AS4134","Chinanet",5054
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2564
 "AS9808","China Mobile",2079
 "AS23470","ReliableSite.Net LLC",1919
-"AS202425","IP Volume inc",1811
+"AS202425","IP Volume inc",1812
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1538
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -60,7 +60,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",564
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS201814","MEVSPACE sp. z o.o.",554
+"AS201814","MEVSPACE sp. z o.o.",555
 "AS51115","HLL LLC",540
 "AS12876","ONLINE S.A.S.",536
 "AS198953","Proton66 OOO",527
@@ -329,6 +329,7 @@ ASN,Organization,IP_Count
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",19
 "AS22927","Telefonica de Argentina",19
 "AS262287","Maxihost LTDA",19
+"AS2914","NTT America, Inc.",19
 "AS3257","GTT Communications Inc.",19
 "AS40676","Psychz Networks",19
 "AS49531","""NetCom-R"" LLC",19
@@ -338,7 +339,6 @@ ASN,Organization,IP_Count
 "AS18049","Taiwan Infrastructure Network Technologie",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
 "AS24151","China Internet Network Infomation Center",18
-"AS2914","NTT America, Inc.",18
 "AS39603","P4 Sp. z o.o.",18
 "AS400655","NixLabs Networks",18
 "AS6697","Republican Unitary Telecommunication Enterprise Beltelecom",18
@@ -396,6 +396,7 @@ ASN,Organization,IP_Count
 "AS39351","31173 Services AB",14
 "AS4808","China Unicom Beijing Province Network",14
 "AS48721","Flyservers S.A.",14
+"AS1267","RIPE Network Coordination Centre",13
 "AS134420","Chongqing Telecom",13
 "AS137718","Beijing Volcano Engine Technology Co., Ltd.",13
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",13
@@ -412,7 +413,6 @@ ASN,Organization,IP_Count
 "AS9770","LG HelloVision Corp.",13
 "AS11351","Charter Communications Inc",12
 "AS1221","Telstra Limited",12
-"AS1267","RIPE Network Coordination Centre",12
 "AS202520","SkyPass Solutions Sp. z.o.o.",12
 "AS2116","GLOBALCONNECT AS",12
 "AS213438","ColocaTel Inc.",12
