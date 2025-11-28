@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87784
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22117
-"AS398324","Censys, Inc.",14368
+"AS398324","Censys, Inc.",14369
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10550
 "AS14061","DigitalOcean, LLC",8218
@@ -50,17 +50,17 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",834
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",794
-"AS51167","Contabo GmbH",734
+"AS51167","Contabo GmbH",735
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS10439","CariNet, Inc.",688
-"AS14618","Amazon.com, Inc.",677
+"AS14618","Amazon.com, Inc.",678
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS4837","CHINA UNICOM China169 Backbone",588
 "AS3462","Chunghwa Telecom Co., Ltd.",583
 "AS9009","M247 Europe SRL",564
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS201814","MEVSPACE sp. z o.o.",549
+"AS201814","MEVSPACE sp. z o.o.",550
 "AS51115","HLL LLC",540
 "AS12876","ONLINE S.A.S.",535
 "AS198953","Proton66 OOO",527
@@ -141,9 +141,9 @@ ASN,Organization,IP_Count
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS22773","Cox Communications Inc.",76
 "AS3920","ESTOXY OU",76
+"AS215240","Silent Connection Ltd.",75
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
-"AS215240","Silent Connection Ltd.",74
 "AS56046","China Mobile Communications Corporation",74
 "AS31898","Oracle Corporation",73
 "AS23724","IDC, China Telecommunications Corporation",70
@@ -229,6 +229,7 @@ ASN,Organization,IP_Count
 "AS1103","SURF B.V.",32
 "AS12912","T-Mobile Polska S.A.",32
 "AS149705","PT Wijaya Trimitra Indonesia",32
+"AS21127","Joint Stock Company TransTeleCom",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
 "AS269193","Iktelecom Ltda",32
 "AS44592","SkyLink Data Center BV",32
@@ -236,7 +237,6 @@ ASN,Organization,IP_Count
 "AS1241","RIPE Network Coordination Centre",31
 "AS17557","Pakistan Telecommuication company limited",31
 "AS204834","Shabakieh Isfahan Co PJSC",31
-"AS21127","Joint Stock Company TransTeleCom",31
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",31
 "AS200593","PROSPERO OOO",30
 "AS214417","Andrii Hrosh",30
@@ -363,6 +363,7 @@ ASN,Organization,IP_Count
 "AS46261","QuickPacket, LLC",16
 "AS48753","AVA HOST SRL",16
 "AS6597","Coloblox Data Centers Inc",16
+"AS11427","Charter Communications Inc",15
 "AS12849","Hot-Net internet services Ltd.",15
 "AS136515","Dasca Cable Services, Inc.",15
 "AS138915","Kaopu Cloud HK Limited",15
@@ -385,7 +386,6 @@ ASN,Organization,IP_Count
 "AS64236","UnReal Servers, LLC",15
 "AS6849","JSC ""Ukrtelecom""",15
 "AS11232","Midcontinent Communications",14
-"AS11427","Charter Communications Inc",14
 "AS12400","Partner Communications Ltd.",14
 "AS17621","China Unicom Shanghai network",14
 "AS204104","Giti Secure Cloud LLC",14
