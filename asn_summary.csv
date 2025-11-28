@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87784
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22117
-"AS398324","Censys, Inc.",14372
+"AS398324","Censys, Inc.",14374
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10550
-"AS14061","DigitalOcean, LLC",8224
+"AS396982","Google LLC",10552
+"AS14061","DigitalOcean, LLC",8225
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5939
 "AS4134","Chinanet",5054
@@ -29,7 +29,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1538
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS32475","Internap Holding LLC",1435
+"AS32475","Internap Holding LLC",1436
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1420
 "AS36352","HostPapa",1415
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",835
 "AS208046","ColocationX Ltd.",834
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",794
+"AS20052","Arbor Networks, Inc.",795
 "AS51167","Contabo GmbH",735
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS10439","CariNet, Inc.",688
@@ -60,7 +60,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",564
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS201814","MEVSPACE sp. z o.o.",551
+"AS201814","MEVSPACE sp. z o.o.",553
 "AS51115","HLL LLC",540
 "AS12876","ONLINE S.A.S.",535
 "AS198953","Proton66 OOO",527
@@ -130,7 +130,7 @@ ASN,Organization,IP_Count
 "AS63018","Dedicated.com",92
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS28209","Under Servicos de Internet Ltda",88
-"AS4766","Korea Telecom",87
+"AS4766","Korea Telecom",88
 "AS58461","Chinanet",85
 "AS11320","LightEdge Solutions",82
 "AS271795","SERVITELCONET CIA. LTDA.",82
@@ -559,6 +559,7 @@ ASN,Organization,IP_Count
 "AS9658","Eastern Telecommunications Philippines, Inc.",7
 "AS9981","Saero Network Service LTD",7
 "AS11562","Net Uno, C.A.",6
+"AS11888","Television Internacional, S.A. de C.V.",6
 "AS132116","Ani Network Pvt Ltd",6
 "AS135523","Multinet Broadband",6
 "AS135905","VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",6
@@ -628,7 +629,6 @@ ASN,Organization,IP_Count
 "AS9873","Lao Telecommunication Public Company",6
 "AS10429","TELEFÔNICA BRASIL S.A",5
 "AS11492","CABLE ONE, INC.",5
-"AS11888","Television Internacional, S.A. de C.V.",5
 "AS12714","PJSC MegaFon",5
 "AS131090","CAT Telecom Public Company Limited",5
 "AS131267","Star Telecom",5
@@ -810,6 +810,7 @@ ASN,Organization,IP_Count
 "AS47898","NPK Home-Net Ltd.",4
 "AS50274","Alfanet LLC",4
 "AS50576","FREEWAY Plus LLC",4
+"AS51604","JSC ""ER-Telecom Holding""",4
 "AS51765","Oy Crea Nova Hosting Solution Ltd",4
 "AS52401","CABLESAT TV SRL",4
 "AS52777","BR27 Serviços de Tecnologia Ltda.",4
@@ -998,7 +999,6 @@ ASN,Organization,IP_Count
 "AS49800","GNC-Alfa CJSC",3
 "AS49981","WorldStream B.V.",3
 "AS5065","Bunny Communications",3
-"AS51604","JSC ""ER-Telecom Holding""",3
 "AS51742","FOP Molochko Nina Vasilievna,",3
 "AS52041","Scaleblade, Ltd.",3
 "AS52436","Cable Televisora Color",3
