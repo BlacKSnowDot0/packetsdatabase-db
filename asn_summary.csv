@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22118
 "AS398324","Censys, Inc.",14384
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10556
+"AS396982","Google LLC",10557
 "AS14061","DigitalOcean, LLC",8238
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5939
@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3637
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3222
+"AS51396","Pfcloud UG",3223
 "AS8075","Microsoft Corporation",2827
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2671
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",1440
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1420
-"AS36352","HostPapa",1416
+"AS36352","HostPapa",1417
 "AS49870","Alsycon B.V.",1390
 "AS13335","Cloudflare, Inc.",1359
 "AS215269","LAZYCLOUD LTD",1312
@@ -58,7 +58,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",588
 "AS3462","Chunghwa Telecom Co., Ltd.",583
 "AS9009","M247 Europe SRL",564
-"AS201814","MEVSPACE sp. z o.o.",560
+"AS201814","MEVSPACE sp. z o.o.",563
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS51115","HLL LLC",540
@@ -138,9 +138,9 @@ ASN,Organization,IP_Count
 "AS5617","Orange Polska Spolka Akcyjna",81
 "AS8402","PJSC ""Vimpelcom""",79
 "AS200019","ALEXHOST SRL",78
+"AS22773","Cox Communications Inc.",77
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS215240","Silent Connection Ltd.",76
-"AS22773","Cox Communications Inc.",76
 "AS3920","ESTOXY OU",76
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
@@ -159,8 +159,8 @@ ASN,Organization,IP_Count
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS57588","Hayat for Internet & communication LLC",65
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",64
+"AS5650","Frontier Communications of America, Inc.",64
 "AS17378","TierPoint, LLC",63
-"AS5650","Frontier Communications of America, Inc.",63
 "AS6128","Cablevision Systems Corp.",62
 "AS140717","China Unicom",61
 "AS19318","Interserver, Inc",60
@@ -379,6 +379,7 @@ ASN,Organization,IP_Count
 "AS28126","BRISANET SERVICOS DE TELECOMUNICACOES LTDA",15
 "AS28201","Companhia Itabirana Telecomunicações Ltda",15
 "AS31113","Artkomm LLC",15
+"AS39351","31173 Services AB",15
 "AS397283","RocketNode Inc",15
 "AS48282","Hosting technology LTD",15
 "AS60781","LeaseWeb Netherlands B.V.",15
@@ -393,7 +394,6 @@ ASN,Organization,IP_Count
 "AS30600","Metronet",14
 "AS3352","TELEFONICA DE ESPANA S.A.U.",14
 "AS37457","Telkom SA Ltd.",14
-"AS39351","31173 Services AB",14
 "AS4808","China Unicom Beijing Province Network",14
 "AS48721","Flyservers S.A.",14
 "AS1267","RIPE Network Coordination Centre",13
@@ -2202,6 +2202,7 @@ ASN,Organization,IP_Count
 "AS265169","MEGA TELECON PROVEDOR DE INTERNET LTDA ME",1
 "AS265171","SITELBRA LTDA",1
 "AS265175","AS SISTEMAS LTDA",1
+"AS265198","BLUE3 TECNOLOGIA EIRELI",1
 "AS265234","N-MULTIMIDIA TELECOMUNICACOES LTDA - ME",1
 "AS265268","Smart Solucoes Tecnologicas",1
 "AS265269","MEGA TELE INFORMATICA",1
