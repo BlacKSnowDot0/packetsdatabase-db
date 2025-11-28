@@ -5,14 +5,14 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14392
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10559
-"AS14061","DigitalOcean, LLC",8242
+"AS14061","DigitalOcean, LLC",8243
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5940
 "AS4134","Chinanet",5055
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4454
 "AS16509","Amazon.com, Inc.",4347
-"AS45102","Alibaba (US) Technology Co., Ltd.",4064
+"AS45102","Alibaba (US) Technology Co., Ltd.",4065
 "AS396998","Path Network, Inc.",3992
 "AS0","",3673
 "AS63949","Akamai Technologies, Inc.",3637
@@ -78,8 +78,8 @@ ASN,Organization,IP_Count
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS21859","Zenlayer Inc",361
 "AS7922","Comcast Cable Communications, LLC",347
+"AS8151","Uninet S.A. de C.V.",337
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
-"AS8151","Uninet S.A. de C.V.",336
 "AS214943","Railnet LLC",317
 "AS45899","VNPT Corp",316
 "AS24863","LINKdotNET AS number",307
@@ -114,7 +114,7 @@ ASN,Organization,IP_Count
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
 "AS36007","Kamatera, Inc.",122
-"AS6739","VODAFONE ONO, S.A.",116
+"AS6739","VODAFONE ONO, S.A.",117
 "AS151185","China Telecom",114
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
@@ -252,6 +252,7 @@ ASN,Organization,IP_Count
 "AS30860","Virtual Systems LLC",28
 "AS3269","Telecom Italia S.p.A.",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
+"AS202796","JSR IT B.V.",27
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
 "AS53118","NETLINE TELECOM",27
@@ -259,7 +260,6 @@ ASN,Organization,IP_Count
 "AS9123","TimeWeb Ltd.",27
 "AS13213","UK-2 Limited",26
 "AS17995","PT iForte Global Internet",26
-"AS202796","JSR IT B.V.",26
 "AS2200","Renater",26
 "AS23693","PT. Telekomunikasi Selular",26
 "AS271597","NEW LINK CONNECT",26
