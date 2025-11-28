@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87784
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22117
-"AS398324","Censys, Inc.",14379
+"AS398324","Censys, Inc.",14380
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10556
 "AS14061","DigitalOcean, LLC",8231
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2564
 "AS9808","China Mobile",2079
 "AS23470","ReliableSite.Net LLC",1919
-"AS202425","IP Volume inc",1812
+"AS202425","IP Volume inc",1813
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1538
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -60,7 +60,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",564
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS201814","MEVSPACE sp. z o.o.",555
+"AS201814","MEVSPACE sp. z o.o.",556
 "AS51115","HLL LLC",540
 "AS12876","ONLINE S.A.S.",538
 "AS198953","Proton66 OOO",527
@@ -139,9 +139,9 @@ ASN,Organization,IP_Count
 "AS8402","PJSC ""Vimpelcom""",79
 "AS200019","ALEXHOST SRL",78
 "AS211736","FOP Dmytro Nedilskyi",76
+"AS215240","Silent Connection Ltd.",76
 "AS22773","Cox Communications Inc.",76
 "AS3920","ESTOXY OU",76
-"AS215240","Silent Connection Ltd.",75
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
 "AS56046","China Mobile Communications Corporation",74
@@ -1473,6 +1473,7 @@ ASN,Organization,IP_Count
 "AS62013","Societatea Comerciala Click-COM SRL",2
 "AS62206","Pitline Ltd",2
 "AS64024","PT Yesi Media Utama",2
+"AS64289","Macarne LLC",2
 "AS6580","Golden West Telecommunications Coop., Inc.",2
 "AS6724","Strato AG",2
 "AS6730","Sunrise GmbH",2
@@ -2991,7 +2992,6 @@ ASN,Organization,IP_Count
 "AS64063","BDconnect.net",1
 "AS6407","Primus Telecommunications Canada Inc.",1
 "AS64126","DOMINICAN CABLE GROUP DCG, S.R.L.",1
-"AS64289","Macarne LLC",1
 "AS64453","SC LARITEX-TV SRL",1
 "AS64457","Matteo Fruhwald trading as PipeHost e.U.",1
 "AS6653","Vero Broadband",1
