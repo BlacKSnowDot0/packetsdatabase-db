@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2671
 "AS142002","Scloud Pte Ltd",2564
 "AS9808","China Mobile",2080
-"AS23470","ReliableSite.Net LLC",1920
+"AS23470","ReliableSite.Net LLC",1921
 "AS202425","IP Volume inc",1817
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1540
@@ -74,7 +74,7 @@ ASN,Organization,IP_Count
 "AS7018","AT&T Enterprises, LLC",391
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS47890","UNMANAGED LTD",374
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",366
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",367
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS21859","Zenlayer Inc",361
 "AS7922","Comcast Cable Communications, LLC",347
@@ -138,9 +138,9 @@ ASN,Organization,IP_Count
 "AS5617","Orange Polska Spolka Akcyjna",81
 "AS8402","PJSC ""Vimpelcom""",79
 "AS200019","ALEXHOST SRL",78
+"AS215240","Silent Connection Ltd.",77
 "AS22773","Cox Communications Inc.",77
 "AS211736","FOP Dmytro Nedilskyi",76
-"AS215240","Silent Connection Ltd.",76
 "AS3920","ESTOXY OU",76
 "AS27882","Telefónica Celular de Bolivia S.A.",75
 "AS32475","SingleHop LLC",75
@@ -220,11 +220,11 @@ ASN,Organization,IP_Count
 "AS213790","Limited Network LTD",35
 "AS30083","velia.net",35
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",35
+"AS4760","PCCW IMS Limited",35
+"AS146817","Hubei Feixun Network Co., Ltd",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS44592","SkyLink Data Center BV",34
-"AS4760","PCCW IMS Limited",34
 "AS9198","JSC Kazakhtelecom",34
-"AS146817","Hubei Feixun Network Co., Ltd",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
 "AS1103","SURF B.V.",32
@@ -319,6 +319,7 @@ ASN,Organization,IP_Count
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS4816","China Telecom (Group)",20
 "AS6181","Cincinnati Bell Telephone Company LLC",20
+"AS852","TELUS Communications Inc.",20
 "AS11426","Charter Communications Inc",19
 "AS12874","Fastweb SpA",19
 "AS136142","Enigma Fiber Pvt Ltd",19
@@ -334,7 +335,6 @@ ASN,Organization,IP_Count
 "AS40676","Psychz Networks",19
 "AS49531","""NetCom-R"" LLC",19
 "AS6167","Verizon Business",19
-"AS852","TELUS Communications Inc.",19
 "AS11878","tzulo, inc.",18
 "AS18049","Taiwan Infrastructure Network Technologie",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
@@ -957,6 +957,7 @@ ASN,Organization,IP_Count
 "AS31261","PJSC MegaFon",3
 "AS32613","Leaseweb Canada Inc.",3
 "AS327724","National Information Technology Authority Uganda",3
+"AS327813","VIDOLU Group Pty Ltd-Web4Africa",3
 "AS328073","Ion Telecom and Technology",3
 "AS32809","Dickey Rural Networks",3
 "AS3303","Swisscom (Schweiz) AG",3
@@ -1319,7 +1320,6 @@ ASN,Organization,IP_Count
 "AS3262","SAREnet, S.A.",2
 "AS327693","Echotel Pty Ltd",2
 "AS327754","RMS Powertronics CC",2
-"AS327813","VIDOLU Group Pty Ltd-Web4Africa",2
 "AS327901","Level 7 Wireless (Pty) Ltd",2
 "AS328282","TEOLIS SAU",2
 "AS328480","Too Much Wifi",2
