@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14385
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10557
-"AS14061","DigitalOcean, LLC",8239
+"AS14061","DigitalOcean, LLC",8240
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5939
 "AS4134","Chinanet",5055
@@ -18,14 +18,14 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3637
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3224
+"AS51396","Pfcloud UG",3225
 "AS8075","Microsoft Corporation",2827
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2671
 "AS142002","Scloud Pte Ltd",2564
 "AS9808","China Mobile",2079
 "AS23470","ReliableSite.Net LLC",1919
-"AS202425","IP Volume inc",1813
+"AS202425","IP Volume inc",1814
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1540
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -57,7 +57,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS4837","CHINA UNICOM China169 Backbone",588
 "AS3462","Chunghwa Telecom Co., Ltd.",583
-"AS201814","MEVSPACE sp. z o.o.",565
+"AS201814","MEVSPACE sp. z o.o.",566
 "AS9009","M247 Europe SRL",564
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
@@ -931,6 +931,7 @@ ASN,Organization,IP_Count
 "AS269795","MLV SA",3
 "AS270353","Tyna Host - Datacenter no Brasil",3
 "AS270796","ENZEN TELECOM LTDA",3
+"AS272162","Fibra Minas",3
 "AS272809","THUNDERNET, C.A.",3
 "AS27364","Armstrong",3
 "AS27738","Ecuadortelecom S.A.",3
@@ -1281,7 +1282,6 @@ ASN,Organization,IP_Count
 "AS271187","Garbin Center Informatica Ltda Me",2
 "AS271907","COLNETWORK C.A.",2
 "AS27202","City of Bardstown, Kentucky",2
-"AS272162","Fibra Minas",2
 "AS272786","X99 INTERNET LTDA.",2
 "AS27323","Wowrack.com",2
 "AS27693","NipBr - NipCable do Brasil Telecom LTDA",2
