@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14365
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10548
-"AS14061","DigitalOcean, LLC",8216
+"AS14061","DigitalOcean, LLC",8217
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5939
 "AS4134","Chinanet",5054
@@ -18,10 +18,10 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3636
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3218
+"AS51396","Pfcloud UG",3219
 "AS8075","Microsoft Corporation",2827
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2663
+"AS6939","Hurricane Electric LLC",2665
 "AS142002","Scloud Pte Ltd",2564
 "AS9808","China Mobile",2079
 "AS23470","ReliableSite.Net LLC",1917
@@ -29,7 +29,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1538
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS32475","Internap Holding LLC",1434
+"AS32475","Internap Holding LLC",1435
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1419
 "AS36352","HostPapa",1414
@@ -77,7 +77,7 @@ ASN,Organization,IP_Count
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",364
 "AS21859","Zenlayer Inc",361
-"AS7922","Comcast Cable Communications, LLC",345
+"AS7922","Comcast Cable Communications, LLC",346
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS8151","Uninet S.A. de C.V.",336
 "AS214943","Railnet LLC",317
@@ -95,7 +95,7 @@ ASN,Organization,IP_Count
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",223
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
-"AS29066","velia.net Internetdienste GmbH",216
+"AS29066","velia.net Internetdienste GmbH",217
 "AS14987","Rethem Hosting LLC",215
 "AS12389","PJSC Rostelecom",204
 "AS12555","Data-center IMAQLIQ Ltd.",193
@@ -114,8 +114,8 @@ ASN,Organization,IP_Count
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
 "AS36007","Kamatera, Inc.",122
+"AS6739","VODAFONE ONO, S.A.",115
 "AS151185","China Telecom",114
-"AS6739","VODAFONE ONO, S.A.",114
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
@@ -651,6 +651,7 @@ ASN,Organization,IP_Count
 "AS17858","LG POWERCOMM",5
 "AS18229","CtrlS",5
 "AS18809","Cable Onda",5
+"AS19871","Network Solutions, LLC",5
 "AS198983","Joseph Hofmann trading as 'Tornado Datacenter GmbH & Co. KG'",5
 "AS202468","Noyan Abr Arvan Co. ( Private Joint Stock)",5
 "AS203459","AL-MARAJ AL-ALAMIYA Co",5
@@ -747,7 +748,6 @@ ASN,Organization,IP_Count
 "AS15735","GO p.l.c.",4
 "AS15802","Emirates Integrated Telecommunications Company PJSC",4
 "AS15924","Vodafone Net Iletisim Hizmetler AS",4
-"AS19871","Network Solutions, LLC",4
 "AS200845","AVATEL TELECOM, SA",4
 "AS20150","anyNode",4
 "AS203380","DA International Group Ltd.",4
