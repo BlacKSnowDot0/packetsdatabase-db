@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87784
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22117
-"AS398324","Censys, Inc.",14365
+"AS398324","Censys, Inc.",14366
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10548
 "AS14061","DigitalOcean, LLC",8217
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",1435
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1419
-"AS36352","HostPapa",1414
+"AS36352","HostPapa",1415
 "AS49870","Alsycon B.V.",1390
 "AS13335","Cloudflare, Inc.",1359
 "AS215269","LAZYCLOUD LTD",1312
@@ -86,7 +86,7 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",294
-"AS213613","BOTSHIELD LTD",285
+"AS213613","BOTSHIELD LTD",286
 "AS208843","Alpha Strike Labs GmbH",283
 "AS48090","TECHOFF SRV LIMITED",260
 "AS18403","FPT Telecom Company",257
@@ -445,6 +445,7 @@ ASN,Organization,IP_Count
 "AS44901","Belcloud LTD",11
 "AS45820","TTSL-ISP DIVISION",11
 "AS58563","CHINANET Hubei province network",11
+"AS9304","HGC Global Communications Limited",11
 "AS149359","PT Persada Data Multimedia",10
 "AS153443","VPSRE.NET LLC",10
 "AS24835","Vodafone Data - Egypt",10
@@ -461,7 +462,6 @@ ASN,Organization,IP_Count
 "AS52468","UFINET PANAMA S.A.",10
 "AS57269","DIGI SPAIN TELECOM S.L.U.",10
 "AS62068","SpectraIP B.V.",10
-"AS9304","HGC Global Communications Limited",10
 "AS9930","TT DOTCOM SDN BHD",10
 "AS12353","Vodafone Portugal - Communicacoes Pessoais S.A.",9
 "AS131596","TBC",9
@@ -572,6 +572,7 @@ ASN,Organization,IP_Count
 "AS17754","Excellmedia",6
 "AS198253","Kukushkin Anatoly Valerievich",6
 "AS198323","TOV Informatsiyni Kirovohrads'ki Systemy",6
+"AS19871","Network Solutions, LLC",6
 "AS201838","Community Fibre Limited",6
 "AS203020","HostRoyale Technologies Pvt Ltd",6
 "AS210538","KEYUBU Internet ve Bilisim Tic. Ltd. Sti.",6
@@ -651,7 +652,6 @@ ASN,Organization,IP_Count
 "AS17858","LG POWERCOMM",5
 "AS18229","CtrlS",5
 "AS18809","Cable Onda",5
-"AS19871","Network Solutions, LLC",5
 "AS198983","Joseph Hofmann trading as 'Tornado Datacenter GmbH & Co. KG'",5
 "AS202468","Noyan Abr Arvan Co. ( Private Joint Stock)",5
 "AS203459","AL-MARAJ AL-ALAMIYA Co",5
