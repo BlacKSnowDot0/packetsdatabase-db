@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87786
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22120
-"AS398324","Censys, Inc.",14405
+"AS211298","Driftnet Ltd",22122
+"AS398324","Censys, Inc.",14406
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10563
-"AS14061","DigitalOcean, LLC",8252
+"AS14061","DigitalOcean, LLC",8253
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5940
 "AS4134","Chinanet",5055
@@ -31,8 +31,8 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS32475","Internap Holding LLC",1445
 "AS48925","VibeGAMES B.V.",1424
+"AS36352","HostPapa",1423
 "AS398722","Censys, Inc.",1423
-"AS36352","HostPapa",1417
 "AS49870","Alsycon B.V.",1390
 "AS13335","Cloudflare, Inc.",1359
 "AS215269","LAZYCLOUD LTD",1312
@@ -451,6 +451,7 @@ ASN,Organization,IP_Count
 "AS24835","Vodafone Data - Egypt",10
 "AS25019","Saudi Telecom Company JSC",10
 "AS264628","CORPORACION FIBEX TELECOM, C.A.",10
+"AS266015","JC2000 Telecomunicações Ltda",10
 "AS328471","HERO TELECOMS (PTY) LTD",10
 "AS36903","Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",10
 "AS37705","TOPNET",10
@@ -474,7 +475,6 @@ ASN,Organization,IP_Count
 "AS213520","Senko Digital Ltd",9
 "AS214481","Wojciech Czapkowicz",9
 "AS24955","JSC ""Ufanet""",9
-"AS266015","JC2000 Telecomunicações Ltda",9
 "AS266702","MEGALINK S.R.L.",9
 "AS267280","YELLOW CONNECT MULTIMIDIA LTDA ME",9
 "AS29302","Hosting Services Inc",9
