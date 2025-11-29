@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4454
 "AS16509","Amazon.com, Inc.",4347
-"AS45102","Alibaba (US) Technology Co., Ltd.",4067
+"AS45102","Alibaba (US) Technology Co., Ltd.",4068
 "AS396998","Path Network, Inc.",3992
 "AS0","",3673
 "AS63949","Akamai Technologies, Inc.",3637
@@ -30,8 +30,8 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1540
 "AS32475","Internap Holding LLC",1451
 "AS43260","DGN TEKNOLOJI A.S.",1447
+"AS36352","HostPapa",1425
 "AS48925","VibeGAMES B.V.",1424
-"AS36352","HostPapa",1423
 "AS398722","Censys, Inc.",1423
 "AS49870","Alsycon B.V.",1390
 "AS13335","Cloudflare, Inc.",1359
@@ -50,7 +50,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",836
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",796
-"AS51167","Contabo GmbH",761
+"AS51167","Contabo GmbH",762
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS10439","CariNet, Inc.",688
 "AS14618","Amazon.com, Inc.",678
@@ -64,8 +64,8 @@ ASN,Organization,IP_Count
 "AS12876","ONLINE S.A.S.",542
 "AS51115","HLL LLC",540
 "AS198953","Proton66 OOO",527
+"AS53667","FranTech Solutions",510
 "AS140292","China Telecom",509
-"AS53667","FranTech Solutions",509
 "AS9829","Bharat Sanchar Nigam Ltd",498
 "AS50360","Tamatiya EOOD",492
 "AS212238","Datacamp Limited",465
@@ -86,7 +86,7 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",294
-"AS213613","BOTSHIELD LTD",288
+"AS213613","BOTSHIELD LTD",289
 "AS208843","Alpha Strike Labs GmbH",284
 "AS48090","TECHOFF SRV LIMITED",260
 "AS18403","FPT Telecom Company",257
