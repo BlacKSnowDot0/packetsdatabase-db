@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87789
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22124
-"AS398324","Censys, Inc.",14438
+"AS398324","Censys, Inc.",14439
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10570
 "AS14061","DigitalOcean, LLC",8254
@@ -12,14 +12,14 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4454
 "AS16509","Amazon.com, Inc.",4347
-"AS45102","Alibaba (US) Technology Co., Ltd.",4068
+"AS45102","Alibaba (US) Technology Co., Ltd.",4070
 "AS396998","Path Network, Inc.",3992
 "AS0","",3674
 "AS63949","Akamai Technologies, Inc.",3638
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3227
-"AS8075","Microsoft Corporation",2832
+"AS8075","Microsoft Corporation",2833
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2677
 "AS142002","Scloud Pte Ltd",2564
@@ -74,7 +74,7 @@ ASN,Organization,IP_Count
 "AS7018","AT&T Enterprises, LLC",391
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS47890","UNMANAGED LTD",374
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",369
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",370
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS21859","Zenlayer Inc",361
 "AS7922","Comcast Cable Communications, LLC",347
