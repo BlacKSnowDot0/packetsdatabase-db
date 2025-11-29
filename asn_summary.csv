@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4347
 "AS45102","Alibaba (US) Technology Co., Ltd.",4070
 "AS396998","Path Network, Inc.",3992
-"AS0","",3674
+"AS0","",3675
 "AS63949","Akamai Technologies, Inc.",3638
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",797
 "AS51167","Contabo GmbH",765
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
-"AS10439","CariNet, Inc.",688
+"AS10439","CariNet, Inc.",689
 "AS14618","Amazon.com, Inc.",678
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS4837","CHINA UNICOM China169 Backbone",590
@@ -61,7 +61,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",564
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS12876","ONLINE S.A.S.",543
+"AS12876","ONLINE S.A.S.",544
 "AS51115","HLL LLC",541
 "AS198953","Proton66 OOO",527
 "AS53667","FranTech Solutions",510
@@ -126,8 +126,8 @@ ASN,Organization,IP_Count
 "AS40021","Nubes, LLC",97
 "AS199785","Cloud Hosting Solutions, Limited.",95
 "AS205352","KABELNET LTD",93
+"AS4766","Korea Telecom",93
 "AS136435","ELITE COMMUNICATION",92
-"AS4766","Korea Telecom",92
 "AS63018","Dedicated.com",92
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS28209","Under Servicos de Internet Ltda",88
@@ -1028,6 +1028,7 @@ ASN,Organization,IP_Count
 "AS7643","Vietnam Posts and Telecommunications (VNPT)",3
 "AS786","Jisc Services Limited",3
 "AS786","RIPE Network Coordination Centre",3
+"AS8220","COLT Technology Services Group Limited",3
 "AS8473","Bahnhof AB",3
 "AS8585","Crnogorski Telekom a.d.Podgorica",3
 "AS8612","Tiscali Italia S.P.A.",3
@@ -1491,7 +1492,6 @@ ASN,Organization,IP_Count
 "AS7488","CNServer LLC",2
 "AS8047","GENERAL COMMUNICATION, INC.",2
 "AS8053","IFX Networks Venezuela C.A.",2
-"AS8220","COLT Technology Services Group Limited",2
 "AS8462","Tarr Kft.",2
 "AS855","Bell Canada",2
 "AS8595","OOO WestCall Ltd.",2
