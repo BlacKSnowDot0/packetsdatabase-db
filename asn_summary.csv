@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87789
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22124
-"AS398324","Censys, Inc.",14435
+"AS398324","Censys, Inc.",14438
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10569
+"AS396982","Google LLC",10570
 "AS14061","DigitalOcean, LLC",8254
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5940
@@ -584,6 +584,7 @@ ASN,Organization,IP_Count
 "AS212598","SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.",6
 "AS213893","IPTransit Business LTD",6
 "AS214762","Sebastian Stefanek trading as MatHost.eu",6
+"AS215730","H2NEXUS LTD",6
 "AS216158","Teleport Rus LLC",6
 "AS216300","Closed Joint Stock Company ""AbkhazMedia""",6
 "AS22724","PUNTONET S.A.",6
@@ -663,7 +664,6 @@ ASN,Organization,IP_Count
 "AS212695","Link Telecom Service Ltd",5
 "AS213851","Marcel Hanisch",5
 "AS215311","Regxa Company for Information Technology Ltd",5
-"AS215730","H2NEXUS LTD",5
 "AS22612","Namecheap, Inc.",5
 "AS23700","Linknet-Fastnet ASN",5
 "AS23974","Ministry of Education - EMISC",5
