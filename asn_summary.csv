@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2673
 "AS142002","Scloud Pte Ltd",2564
 "AS9808","China Mobile",2080
-"AS23470","ReliableSite.Net LLC",1922
+"AS23470","ReliableSite.Net LLC",1935
 "AS202425","IP Volume inc",1820
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1540
@@ -55,7 +55,7 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",688
 "AS14618","Amazon.com, Inc.",678
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS4837","CHINA UNICOM China169 Backbone",589
+"AS4837","CHINA UNICOM China169 Backbone",590
 "AS3462","Chunghwa Telecom Co., Ltd.",583
 "AS201814","MEVSPACE sp. z o.o.",566
 "AS9009","M247 Europe SRL",564
@@ -115,7 +115,7 @@ ASN,Organization,IP_Count
 "AS19905","Neustar Security Services",127
 "AS36007","Kamatera, Inc.",122
 "AS6739","VODAFONE ONO, S.A.",118
-"AS151185","China Telecom",114
+"AS151185","China Telecom",115
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
@@ -2468,6 +2468,7 @@ ASN,Organization,IP_Count
 "AS27964","RSO APOLO HIDALGO S.R.L.",1
 "AS27987","NODOCOOP Federación de Cooperativas Ltda.",1
 "AS28125","Elo.Net Tecnologia Ltda. - ME",1
+"AS28128","Infolic Comercial de Informatica Ltda.",1
 "AS28131","NET.COM PROVEDOR DE INTERNET",1
 "AS28135","ASSOCIAÇÃO NACIONAL PARA INCLUSÃO DIGITAL - ANID",1
 "AS28138","WIRELESSNET INTERNET SOLUTIONS LTDA - ME",1
