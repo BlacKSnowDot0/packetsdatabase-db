@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87789
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22123
-"AS398324","Censys, Inc.",14411
+"AS398324","Censys, Inc.",14412
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10564
 "AS14061","DigitalOcean, LLC",8253
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1823
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1540
-"AS32475","Internap Holding LLC",1450
+"AS32475","Internap Holding LLC",1451
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS36352","HostPapa",1423
@@ -699,6 +699,7 @@ ASN,Organization,IP_Count
 "AS39608","Lanet Network Ltd",5
 "AS398025","Cumberland Connect",5
 "AS400529","Infraly, LLC",5
+"AS42610","PJSC Rostelecom",5
 "AS43139","Maximum-Net LLC",5
 "AS45305","Lintas Data Prima, PT",5
 "AS45458","ADVANCED WIRELESS NETWORK COMPANY LIMITED",5
@@ -798,7 +799,6 @@ ASN,Organization,IP_Count
 "AS39891","Saudi Telecom Company JSC",4
 "AS399296","Rackdog, LLC",4
 "AS400391","Pacific Wyyerd LLC",4
-"AS42610","PJSC Rostelecom",4
 "AS43612","Company for communications services A1 Makedonija DOOEL Skopje",4
 "AS43754","Asiatech Data Transmission company",4
 "AS44395","Ucom CJSC",4
