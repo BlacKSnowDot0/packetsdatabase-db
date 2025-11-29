@@ -171,7 +171,7 @@ ASN,Organization,IP_Count
 "AS2856","British Telecommunications PLC",59
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",59
 "AS49544","i3D.net B.V",59
-"AS20001","Charter Communications Inc",57
+"AS20001","Charter Communications Inc",58
 "AS20278","Nexeon Technologies, Inc.",57
 "AS149746","PT Blip Integrator Provider",56
 "AS48090","PPTECHNOLOGY LIMITED",56
@@ -912,6 +912,7 @@ ASN,Organization,IP_Count
 "AS24165","UNION BROADBAND NETWORK",3
 "AS25082","Viner Telecom LLC",3
 "AS2518","BIGLOBE Inc.",3
+"AS2519","ARTERIA Networks Corporation",3
 "AS262469","WISP ICONECTA SERVICOS DE REDE LTDA",3
 "AS262907","BRASIL TECNOLOGIA E PARTICIPACOES S/A",3
 "AS263478","DUFIBRANET TELECOM LTDA",3
@@ -1218,7 +1219,6 @@ ASN,Organization,IP_Count
 "AS24945","Telecommunication Company Vinteleport Ltd.",2
 "AS25144","""Telekomunikacije Republike Srpske"" akcionarsko drustvo Banja Luka",2
 "AS25159","PJSC MegaFon",2
-"AS2519","ARTERIA Networks Corporation",2
 "AS25553","TRK Gluhov Ltd.",2
 "AS2561","Egyptian Universities Network (EUN)",2
 "AS25820","IT7 Networks Inc",2
