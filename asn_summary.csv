@@ -2,13 +2,13 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87789
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22123
-"AS398324","Censys, Inc.",14409
+"AS398324","Censys, Inc.",14411
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10564
 "AS14061","DigitalOcean, LLC",8253
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5940
-"AS4134","Chinanet",5055
+"AS4134","Chinanet",5056
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4454
 "AS16509","Amazon.com, Inc.",4347
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2564
 "AS9808","China Mobile",2080
 "AS23470","ReliableSite.Net LLC",1935
-"AS202425","IP Volume inc",1821
+"AS202425","IP Volume inc",1823
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1540
 "AS32475","Internap Holding LLC",1450
@@ -98,7 +98,7 @@ ASN,Organization,IP_Count
 "AS29066","velia.net Internetdienste GmbH",220
 "AS14987","Rethem Hosting LLC",215
 "AS12389","PJSC Rostelecom",206
-"AS29484","Ruhr-Universitaet Bochum",194
+"AS29484","Ruhr-Universitaet Bochum",195
 "AS12555","Data-center IMAQLIQ Ltd.",193
 "AS7552","Viettel Group",182
 "AS63199","CDS Global Cloud Co., Ltd",181
@@ -164,7 +164,7 @@ ASN,Organization,IP_Count
 "AS6128","Cablevision Systems Corp.",62
 "AS140717","China Unicom",61
 "AS19318","Interserver, Inc",61
-"AS210644","AEZA INTERNATIONAL LTD",60
+"AS210644","AEZA INTERNATIONAL LTD",61
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS4812","China Telecom (Group)",60
 "AS20115","Charter Communications",59
@@ -471,6 +471,7 @@ ASN,Organization,IP_Count
 "AS139994","PT XL Axiata Tbk",9
 "AS17451","BIZNET NETWORKS",9
 "AS17676","SoftBank Corp.",9
+"AS19871","Network Solutions, LLC",9
 "AS212504","AdKyNet SAS",9
 "AS213520","Senko Digital Ltd",9
 "AS214481","Wojciech Czapkowicz",9
@@ -498,7 +499,6 @@ ASN,Organization,IP_Count
 "AS18986","Calligo (Canada) Inc.",8
 "AS198154","Pars Abr Toseeh Ertebatat Company",8
 "AS198361","Yaglom Labs Ltd",8
-"AS19871","Network Solutions, LLC",8
 "AS209956","Telkoturk Iletisim Hizmetleri A.S.",8
 "AS211507","Julian Achter",8
 "AS214209","Internet Magnate (Pty) Ltd",8
