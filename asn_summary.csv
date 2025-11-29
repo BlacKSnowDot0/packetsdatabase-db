@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14400
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10563
-"AS14061","DigitalOcean, LLC",8251
+"AS14061","DigitalOcean, LLC",8252
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5940
 "AS4134","Chinanet",5055
@@ -127,8 +127,8 @@ ASN,Organization,IP_Count
 "AS199785","Cloud Hosting Solutions, Limited.",95
 "AS205352","KABELNET LTD",93
 "AS136435","ELITE COMMUNICATION",92
+"AS4766","Korea Telecom",92
 "AS63018","Dedicated.com",92
-"AS4766","Korea Telecom",91
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS28209","Under Servicos de Internet Ltda",88
 "AS58461","Chinanet",85
@@ -213,9 +213,9 @@ ASN,Organization,IP_Count
 "AS4538","China Education and Research Network Center",38
 "AS5089","Virgin Media Limited",38
 "AS1680","Cellcom Fixed Line Communication L.P",37
+"AS38623","VIETTEL (CAMBODIA) PTE., LTD",37
 "AS8167","V tal",37
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",36
-"AS38623","VIETTEL (CAMBODIA) PTE., LTD",36
 "AS42624","Global-Data System IT Corporation",36
 "AS213790","Limited Network LTD",35
 "AS30083","velia.net",35
