@@ -4,17 +4,17 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22128
 "AS398324","Censys, Inc.",14442
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10571
+"AS396982","Google LLC",10572
 "AS14061","DigitalOcean, LLC",8256
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5940
-"AS4134","Chinanet",5056
+"AS4134","Chinanet",5063
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4454
 "AS16509","Amazon.com, Inc.",4347
 "AS45102","Alibaba (US) Technology Co., Ltd.",4073
 "AS396998","Path Network, Inc.",3992
-"AS0","",3675
+"AS0","",3676
 "AS63949","Akamai Technologies, Inc.",3639
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
@@ -54,8 +54,8 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS10439","CariNet, Inc.",689
 "AS14618","Amazon.com, Inc.",678
+"AS4837","CHINA UNICOM China169 Backbone",598
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS4837","CHINA UNICOM China169 Backbone",590
 "AS3462","Chunghwa Telecom Co., Ltd.",583
 "AS201814","MEVSPACE sp. z o.o.",566
 "AS9009","M247 Europe SRL",564
@@ -225,11 +225,11 @@ ASN,Organization,IP_Count
 "AS9198","JSC Kazakhtelecom",35
 "AS146817","Hubei Feixun Network Co., Ltd",34
 "AS34665","Petersburg Internet Network ltd.",34
+"AS149705","PT Wijaya Trimitra Indonesia",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
 "AS1103","SURF B.V.",32
 "AS12912","T-Mobile Polska S.A.",32
-"AS149705","PT Wijaya Trimitra Indonesia",32
 "AS21127","Joint Stock Company TransTeleCom",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
 "AS269193","Iktelecom Ltda",32
@@ -397,6 +397,7 @@ ASN,Organization,IP_Count
 "AS37457","Telkom SA Ltd.",14
 "AS4808","China Unicom Beijing Province Network",14
 "AS48721","Flyservers S.A.",14
+"AS11351","Charter Communications Inc",13
 "AS1267","RIPE Network Coordination Centre",13
 "AS134420","Chongqing Telecom",13
 "AS137718","Beijing Volcano Engine Technology Co., Ltd.",13
@@ -414,7 +415,6 @@ ASN,Organization,IP_Count
 "AS53006","ALGAR TELECOM S/A",13
 "AS9304","HGC Global Communications Limited",13
 "AS9770","LG HelloVision Corp.",13
-"AS11351","Charter Communications Inc",12
 "AS1221","Telstra Limited",12
 "AS202520","SkyPass Solutions Sp. z.o.o.",12
 "AS2116","GLOBALCONNECT AS",12
