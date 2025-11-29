@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3227
 "AS8075","Microsoft Corporation",2831
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2676
+"AS6939","Hurricane Electric LLC",2677
 "AS142002","Scloud Pte Ltd",2564
 "AS9808","China Mobile",2080
 "AS23470","ReliableSite.Net LLC",1937
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",838
 "AS215925","VPSVAULT.HOST LTD",836
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",796
+"AS20052","Arbor Networks, Inc.",797
 "AS51167","Contabo GmbH",764
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS10439","CariNet, Inc.",688
@@ -390,6 +390,7 @@ ASN,Organization,IP_Count
 "AS12400","Partner Communications Ltd.",14
 "AS17621","China Unicom Shanghai network",14
 "AS204104","Giti Secure Cloud LLC",14
+"AS20853","eTOP sp. z o.o.",14
 "AS27947","Telconet S.A",14
 "AS30600","Metronet",14
 "AS3352","TELEFONICA DE ESPANA S.A.U.",14
@@ -402,7 +403,6 @@ ASN,Organization,IP_Count
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",13
 "AS15895","""Kyivstar"" PJSC",13
 "AS17639","ComClark Network & Technology Corp",13
-"AS20853","eTOP sp. z o.o.",13
 "AS213194","Nechaev Dmitry Sergeevich",13
 "AS25369","Hydra Communications Ltd",13
 "AS28840","PJSC ""TATTELECOM""",13
