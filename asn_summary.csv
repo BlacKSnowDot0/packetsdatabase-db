@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22128
 "AS398324","Censys, Inc.",14442
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10570
+"AS396982","Google LLC",10571
 "AS14061","DigitalOcean, LLC",8256
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5940
@@ -45,8 +45,8 @@ ASN,Organization,IP_Count
 "AS208684","BHA CONSEIL SARL",1005
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
+"AS208046","ColocationX Ltd.",840
 "AS56042","China Mobile Communications Corporation",840
-"AS208046","ColocationX Ltd.",839
 "AS215925","VPSVAULT.HOST LTD",836
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",797
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS53667","FranTech Solutions",510
 "AS140292","China Telecom",509
-"AS9829","Bharat Sanchar Nigam Ltd",499
+"AS9829","Bharat Sanchar Nigam Ltd",500
 "AS50360","Tamatiya EOOD",492
 "AS212238","Datacamp Limited",465
 "AS21299","Kar-Tel LLC",406
@@ -146,7 +146,7 @@ ASN,Organization,IP_Count
 "AS32475","SingleHop LLC",75
 "AS56046","China Mobile Communications Corporation",74
 "AS31898","Oracle Corporation",73
-"AS23724","IDC, China Telecommunications Corporation",70
+"AS23724","IDC, China Telecommunications Corporation",71
 "AS52053","REDHEBERG Association declaree",69
 "AS150263","PT Alnet Telekomunikasi Indonesia",68
 "AS834","IPXO LLC",68
@@ -203,9 +203,9 @@ ASN,Organization,IP_Count
 "AS21928","T-Mobile USA, Inc.",41
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",41
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",41
+"AS210558","1337 Services GmbH",40
 "AS23969","TOT Public Company Limited",40
 "AS43641","SOLLUTIUM EU Sp z.o.o.",40
-"AS210558","1337 Services GmbH",39
 "AS27699","TELEFÔNICA BRASIL S.A",39
 "AS8048","CANTV Servicios, Venezuela",39
 "AS12322","Free SAS",38
