@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87789
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22124
-"AS398324","Censys, Inc.",14434
+"AS398324","Censys, Inc.",14435
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10569
 "AS14061","DigitalOcean, LLC",8254
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1826
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1541
-"AS32475","Internap Holding LLC",1456
+"AS32475","Internap Holding LLC",1458
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS36352","HostPapa",1425
 "AS48925","VibeGAMES B.V.",1424
@@ -1303,6 +1303,7 @@ ASN,Organization,IP_Count
 "AS28638","BRASIL TECPAR | AMIGO | AVATO",2
 "AS28656","BTT TELECOMUNICACOES S.A.",2
 "AS28669","America-NET Ltda.",2
+"AS29119","AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",2
 "AS29222","Infomaniak Network SA",2
 "AS29456","PJSC Rostelecom",2
 "AS30844","Liquid Telecommunications Ltd",2
@@ -2513,7 +2514,6 @@ ASN,Organization,IP_Count
 "AS29074","FAUST ISP LTD.",1
 "AS29075","IELO-LIAZO SERVICES SAS",1
 "AS29091","ipNX Nigeria Limited",1
-"AS29119","AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",1
 "AS29177","Acantho S.p.a",1
 "AS29256","Syrian Telecom",1
 "AS29303","Perm Internet Company LLC",1
