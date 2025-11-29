@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87789
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22123
-"AS398324","Censys, Inc.",14406
+"AS398324","Censys, Inc.",14407
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10564
 "AS14061","DigitalOcean, LLC",8253
@@ -21,11 +21,11 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3227
 "AS8075","Microsoft Corporation",2829
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2673
+"AS6939","Hurricane Electric LLC",2674
 "AS142002","Scloud Pte Ltd",2564
 "AS9808","China Mobile",2080
 "AS23470","ReliableSite.Net LLC",1935
-"AS202425","IP Volume inc",1820
+"AS202425","IP Volume inc",1821
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1540
 "AS32475","Internap Holding LLC",1448
@@ -118,8 +118,8 @@ ASN,Organization,IP_Count
 "AS151185","China Telecom",115
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
+"AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
-"AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",106
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",105
 "AS47331","TTNet A.S.",104
 "AS8560","IONOS SE",99
@@ -138,7 +138,7 @@ ASN,Organization,IP_Count
 "AS5617","Orange Polska Spolka Akcyjna",81
 "AS8402","PJSC ""Vimpelcom""",79
 "AS200019","ALEXHOST SRL",78
-"AS215240","Silent Connection Ltd.",77
+"AS215240","Silent Connection Ltd.",78
 "AS22773","Cox Communications Inc.",77
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS3920","ESTOXY OU",76
