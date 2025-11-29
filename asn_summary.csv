@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87789
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22124
-"AS398324","Censys, Inc.",14439
+"AS211298","Driftnet Ltd",22126
+"AS398324","Censys, Inc.",14440
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10570
 "AS14061","DigitalOcean, LLC",8254
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2564
 "AS9808","China Mobile",2080
 "AS23470","ReliableSite.Net LLC",1937
-"AS202425","IP Volume inc",1826
+"AS202425","IP Volume inc",1827
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1541
 "AS32475","Internap Holding LLC",1458
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS48925","VibeGAMES B.V.",1424
 "AS398722","Censys, Inc.",1423
 "AS49870","Alsycon B.V.",1390
-"AS13335","Cloudflare, Inc.",1359
+"AS13335","Cloudflare, Inc.",1360
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1221
 "AS22552","eSited Solutions",1187
@@ -85,7 +85,7 @@ ASN,Organization,IP_Count
 "AS24863","LINKdotNET AS number",307
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
-"AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",294
+"AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",295
 "AS213613","BOTSHIELD LTD",289
 "AS208843","Alpha Strike Labs GmbH",284
 "AS48090","TECHOFF SRV LIMITED",260
@@ -95,7 +95,7 @@ ASN,Organization,IP_Count
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",225
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
-"AS29066","velia.net Internetdienste GmbH",221
+"AS29066","velia.net Internetdienste GmbH",222
 "AS14987","Rethem Hosting LLC",215
 "AS12389","PJSC Rostelecom",207
 "AS29484","Ruhr-Universitaet Bochum",195
@@ -806,6 +806,7 @@ ASN,Organization,IP_Count
 "AS45284","Wireline Solution India Pvt Ltd.",4
 "AS45609","Bharti Airtel Limited",4
 "AS45700","PT. NAP Info Lintas Nusa",4
+"AS4618","Internet Thailand Company Ltd.",4
 "AS46690","Southern New England Telephone Company and SNET America, Inc.",4
 "AS47165","Omskie kabelnye seti Ltd.",4
 "AS47898","NPK Home-Net Ltd.",4
@@ -991,7 +992,6 @@ ASN,Organization,IP_Count
 "AS45753","Netsec Limited",3
 "AS45905","Stargate Communications Ltd.",3
 "AS45916","Gujarat Telelink Pvt Ltd",3
-"AS4618","Internet Thailand Company Ltd.",3
 "AS47154","HUSAM A. H. HIJAZI",3
 "AS4804","SingTel Optus Pty Ltd",3
 "AS4818","DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",3
