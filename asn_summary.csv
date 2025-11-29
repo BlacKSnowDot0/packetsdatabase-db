@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87786
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22120
-"AS398324","Censys, Inc.",14402
+"AS398324","Censys, Inc.",14404
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10563
 "AS14061","DigitalOcean, LLC",8252
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4454
 "AS16509","Amazon.com, Inc.",4347
-"AS45102","Alibaba (US) Technology Co., Ltd.",4065
+"AS45102","Alibaba (US) Technology Co., Ltd.",4067
 "AS396998","Path Network, Inc.",3992
 "AS0","",3673
 "AS63949","Akamai Technologies, Inc.",3637
@@ -61,8 +61,8 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",564
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
+"AS12876","ONLINE S.A.S.",541
 "AS51115","HLL LLC",540
-"AS12876","ONLINE S.A.S.",539
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS53667","FranTech Solutions",509
@@ -78,7 +78,7 @@ ASN,Organization,IP_Count
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS21859","Zenlayer Inc",361
 "AS7922","Comcast Cable Communications, LLC",347
-"AS8151","Uninet S.A. de C.V.",337
+"AS8151","Uninet S.A. de C.V.",338
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS214943","Railnet LLC",317
 "AS45899","VNPT Corp",316
@@ -156,9 +156,9 @@ ASN,Organization,IP_Count
 "AS215590","DpkgSoft International Limited",66
 "AS57588","Hayat for Internet & communication LLC",66
 "AS200514","KnownSRV Ltd.",65
+"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",65
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
-"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",64
 "AS5650","Frontier Communications of America, Inc.",64
 "AS17378","TierPoint, LLC",63
 "AS6128","Cablevision Systems Corp.",62
