@@ -15,11 +15,11 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",4068
 "AS396998","Path Network, Inc.",3992
 "AS0","",3673
-"AS63949","Akamai Technologies, Inc.",3637
+"AS63949","Akamai Technologies, Inc.",3638
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3227
-"AS8075","Microsoft Corporation",2830
+"AS8075","Microsoft Corporation",2831
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2676
 "AS142002","Scloud Pte Ltd",2564
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1824
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1540
-"AS32475","Internap Holding LLC",1454
+"AS32475","Internap Holding LLC",1455
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS36352","HostPapa",1425
 "AS48925","VibeGAMES B.V.",1424
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS53667","FranTech Solutions",510
 "AS140292","China Telecom",509
-"AS9829","Bharat Sanchar Nigam Ltd",498
+"AS9829","Bharat Sanchar Nigam Ltd",499
 "AS50360","Tamatiya EOOD",492
 "AS212238","Datacamp Limited",465
 "AS21299","Kar-Tel LLC",406
@@ -402,6 +402,7 @@ ASN,Organization,IP_Count
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",13
 "AS15895","""Kyivstar"" PJSC",13
 "AS17639","ComClark Network & Technology Corp",13
+"AS20853","eTOP sp. z o.o.",13
 "AS213194","Nechaev Dmitry Sergeevich",13
 "AS25369","Hydra Communications Ltd",13
 "AS28840","PJSC ""TATTELECOM""",13
@@ -409,13 +410,13 @@ ASN,Organization,IP_Count
 "AS3243","MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.",13
 "AS37105","RAIN GROUP HOLDINGS (PTY) LTD",13
 "AS38841","kbro CO. Ltd.",13
+"AS50304","Blix Solutions AS",13
 "AS53006","ALGAR TELECOM S/A",13
 "AS9304","HGC Global Communications Limited",13
 "AS9770","LG HelloVision Corp.",13
 "AS11351","Charter Communications Inc",12
 "AS1221","Telstra Limited",12
 "AS202520","SkyPass Solutions Sp. z.o.o.",12
-"AS20853","eTOP sp. z o.o.",12
 "AS2116","GLOBALCONNECT AS",12
 "AS213438","ColocaTel Inc.",12
 "AS2637","Georgia Institute of Technology",12
@@ -459,7 +460,6 @@ ASN,Organization,IP_Count
 "AS41420","Xentech B.V.",10
 "AS47524","Turksat Uydu Haberlesme ve Kablo TV Isletme A.S.",10
 "AS49434","FBW NETWORKS SAS",10
-"AS50304","Blix Solutions AS",10
 "AS52468","UFINET PANAMA S.A.",10
 "AS57269","DIGI SPAIN TELECOM S.L.U.",10
 "AS62068","SpectraIP B.V.",10
