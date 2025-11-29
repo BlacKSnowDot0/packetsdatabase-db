@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3227
-"AS8075","Microsoft Corporation",2828
+"AS8075","Microsoft Corporation",2829
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2673
 "AS142002","Scloud Pte Ltd",2564
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1820
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1540
-"AS32475","Internap Holding LLC",1447
+"AS32475","Internap Holding LLC",1448
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1424
 "AS36352","HostPapa",1423
@@ -276,6 +276,7 @@ ASN,Organization,IP_Count
 "AS58224","Iran Telecommunication Company PJS",25
 "AS197540","netcup GmbH",24
 "AS209","CenturyLink Communications, LLC",24
+"AS28546","Servnet Mexico, S.A. de C.V.",24
 "AS4713","NTT Communications Corporation",24
 "AS577","Bell Canada",24
 "AS60068","Datacamp Limited",24
@@ -285,7 +286,6 @@ ASN,Organization,IP_Count
 "AS197309","RS-Media LLC",23
 "AS198037","SPACECORE SOLUTION LTD",23
 "AS24940","Hetzner Online GmbH",23
-"AS28546","Servnet Mexico, S.A. de C.V.",23
 "AS62240","Clouvider Limited",23
 "AS7303","Telecom Argentina S.A.",23
 "AS16591","Google Fiber Inc.",22
