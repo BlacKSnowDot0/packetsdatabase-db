@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87789
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22123
-"AS398324","Censys, Inc.",14412
+"AS398324","Censys, Inc.",14413
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10564
 "AS14061","DigitalOcean, LLC",8253
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2675
 "AS142002","Scloud Pte Ltd",2564
 "AS9808","China Mobile",2080
-"AS23470","ReliableSite.Net LLC",1935
+"AS23470","ReliableSite.Net LLC",1936
 "AS202425","IP Volume inc",1823
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1540
@@ -308,6 +308,7 @@ ASN,Organization,IP_Count
 "AS45758","Triple T Broadband Public Company Limited",21
 "AS46573","LayerHost",21
 "AS4800","PT Aplikanusa Lintasarta",21
+"AS4816","China Telecom (Group)",21
 "AS50887","DC FIBER HOME SRL",21
 "AS812","Rogers Communications Canada Inc.",21
 "AS9299","Philippine Long Distance Telephone Co.",21
@@ -317,7 +318,6 @@ ASN,Organization,IP_Count
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",20
 "AS24348","CERNET2 IX at Tsinghua University",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
-"AS4816","China Telecom (Group)",20
 "AS6181","Cincinnati Bell Telephone Company LLC",20
 "AS852","TELUS Communications Inc.",20
 "AS11426","Charter Communications Inc",19
