@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87789
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22123
-"AS398324","Censys, Inc.",14416
+"AS398324","Censys, Inc.",14420
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10566
 "AS14061","DigitalOcean, LLC",8254
@@ -21,14 +21,14 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3227
 "AS8075","Microsoft Corporation",2830
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2675
+"AS6939","Hurricane Electric LLC",2676
 "AS142002","Scloud Pte Ltd",2564
 "AS9808","China Mobile",2080
 "AS23470","ReliableSite.Net LLC",1937
 "AS202425","IP Volume inc",1824
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1540
-"AS32475","Internap Holding LLC",1451
+"AS32475","Internap Holding LLC",1454
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS36352","HostPapa",1425
 "AS48925","VibeGAMES B.V.",1424
@@ -740,6 +740,7 @@ ASN,Organization,IP_Count
 "AS141673","PT Mamura Inter Media",4
 "AS141862","AL HUTAIB NETSOL PRIVATE LIMITED",4
 "AS142036","Hosteons Pte. Ltd.",4
+"AS147293","NEAROUTE LIMITED",4
 "AS14754","Telgua",4
 "AS14868","Ligga Telecomunicações S.A.",4
 "AS150008","Pioneer Elabs Ltd.",4
@@ -829,6 +830,7 @@ ASN,Organization,IP_Count
 "AS9260","Multinet Broadband",4
 "AS9335","CAT Telecom Public Company Limited",4
 "AS979","NetLab Global",4
+"AS9845","LG HelloVision Corp.",4
 "AS9922","New Kaohsiung Broadband LTD.",4
 "AS10001","Mics Network Corporation",3
 "AS10029","SHYAM SPECTRA PVT LTD",3
@@ -870,7 +872,6 @@ ASN,Organization,IP_Count
 "AS142468","VANSHIKA ITLAM INDIA PVT LTD",3
 "AS14522","Satnet",3
 "AS147065","Lao telecom construction Co.,Ltd",3
-"AS147293","NEAROUTE LIMITED",3
 "AS149402","Diskominfo Pemerintah Kabupaten Probolinggo",3
 "AS149672","PT Aktech Digital Solutions",3
 "AS152769","PT Gopal Network Solusindo",3
@@ -1031,7 +1032,6 @@ ASN,Organization,IP_Count
 "AS8612","Tiscali Italia S.P.A.",3
 "AS9329","Sri Lanka Telecom Ltd",3
 "AS9381","HKBN Enterprise Solutions HK Limited",3
-"AS9845","LG HelloVision Corp.",3
 "AS10030","Celcom Axiata Berhad",2
 "AS10036","DLIVE",2
 "AS10066","LG HelloVision Corp.",2
