@@ -21,11 +21,11 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3229
 "AS8075","Microsoft Corporation",2833
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2680
+"AS6939","Hurricane Electric LLC",2681
 "AS142002","Scloud Pte Ltd",2564
 "AS9808","China Mobile",2080
 "AS23470","ReliableSite.Net LLC",1939
-"AS202425","IP Volume inc",1830
+"AS202425","IP Volume inc",1831
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1541
 "AS32475","Internap Holding LLC",1462
@@ -200,10 +200,10 @@ ASN,Organization,IP_Count
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS262378","Compuservice Empreendimentos Ltda",42
 "AS7738","V tal",42
+"AS210558","1337 Services GmbH",41
 "AS21928","T-Mobile USA, Inc.",41
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",41
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",41
-"AS210558","1337 Services GmbH",40
 "AS23969","TOT Public Company Limited",40
 "AS43641","SOLLUTIUM EU Sp z.o.o.",40
 "AS27699","TELEFÔNICA BRASIL S.A",39
@@ -356,6 +356,7 @@ ASN,Organization,IP_Count
 "AS5607","Sky UK Limited",17
 "AS56630","Melbikomas UAB",17
 "AS9269","Hong Kong Broadband Network Ltd",17
+"AS11427","Charter Communications Inc",16
 "AS140726","China Unicom",16
 "AS24812","NPK Home-Net Ltd.",16
 "AS25198","INTERKVM HOST SRL",16
@@ -363,7 +364,6 @@ ASN,Organization,IP_Count
 "AS328539","Giga for Telecommunication and Technology Limited",16
 "AS46261","QuickPacket, LLC",16
 "AS6597","Coloblox Data Centers Inc",16
-"AS11427","Charter Communications Inc",15
 "AS12849","Hot-Net internet services Ltd.",15
 "AS136515","Dasca Cable Services, Inc.",15
 "AS138915","Kaopu Cloud HK Limited",15
