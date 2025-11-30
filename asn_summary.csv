@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87796
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22137
-"AS398324","Censys, Inc.",14468
+"AS398324","Censys, Inc.",14469
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10580
 "AS14061","DigitalOcean, LLC",8273
@@ -23,7 +23,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2684
 "AS142002","Scloud Pte Ltd",2564
-"AS23470","ReliableSite.Net LLC",2115
+"AS23470","ReliableSite.Net LLC",2116
 "AS9808","China Mobile",2080
 "AS202425","IP Volume inc",1834
 "AS214295","SKYNET NETWORK LTD",1631
@@ -58,7 +58,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",583
 "AS201814","MEVSPACE sp. z o.o.",566
-"AS9009","M247 Europe SRL",565
+"AS9009","M247 Europe SRL",566
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS12876","ONLINE S.A.S.",548
@@ -130,10 +130,10 @@ ASN,Organization,IP_Count
 "AS136435","ELITE COMMUNICATION",92
 "AS63018","Dedicated.com",92
 "AS210125","PRIAM NET Sh.p.k.",89
-"AS28209","Under Servicos de Internet Ltda",88
+"AS28209","Under Servicos de Internet Ltda",89
 "AS58461","Chinanet",85
+"AS215240","Silent Connection Ltd.",84
 "AS11320","LightEdge Solutions",83
-"AS215240","Silent Connection Ltd.",83
 "AS271795","SERVITELCONET CIA. LTDA.",83
 "AS16735","ALGAR TELECOM S/A",81
 "AS5617","Orange Polska Spolka Akcyjna",81
@@ -224,8 +224,8 @@ ASN,Organization,IP_Count
 "AS4760","PCCW IMS Limited",35
 "AS9198","JSC Kazakhtelecom",35
 "AS146817","Hubei Feixun Network Co., Ltd",34
+"AS149705","PT Wijaya Trimitra Indonesia",34
 "AS34665","Petersburg Internet Network ltd.",34
-"AS149705","PT Wijaya Trimitra Indonesia",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
 "AS1103","SURF B.V.",32
