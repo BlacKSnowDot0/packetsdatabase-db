@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87795
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22131
-"AS398324","Censys, Inc.",14460
+"AS398324","Censys, Inc.",14463
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10579
 "AS14061","DigitalOcean, LLC",8261
@@ -24,8 +24,8 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2682
 "AS142002","Scloud Pte Ltd",2564
 "AS9808","China Mobile",2080
-"AS23470","ReliableSite.Net LLC",1957
-"AS202425","IP Volume inc",1832
+"AS23470","ReliableSite.Net LLC",1976
+"AS202425","IP Volume inc",1833
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1541
 "AS32475","Internap Holding LLC",1466
@@ -416,6 +416,7 @@ ASN,Organization,IP_Count
 "AS9304","HGC Global Communications Limited",13
 "AS9770","LG HelloVision Corp.",13
 "AS1221","Telstra Limited",12
+"AS19871","Network Solutions, LLC",12
 "AS202520","SkyPass Solutions Sp. z.o.o.",12
 "AS2116","GLOBALCONNECT AS",12
 "AS213438","ColocaTel Inc.",12
@@ -437,7 +438,6 @@ ASN,Organization,IP_Count
 "AS135059","Lao Asia Pacific Satellite Co., Ltd.",11
 "AS142032","High Family Technology Co., Limited",11
 "AS17552","TRUE INTERNET CORPORATION CO. LTD.",11
-"AS19871","Network Solutions, LLC",11
 "AS200651","FlokiNET ehf",11
 "AS205119","TELEKS DOOEL Skopje",11
 "AS206804","EstNOC OY",11
