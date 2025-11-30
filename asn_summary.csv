@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14463
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10579
-"AS14061","DigitalOcean, LLC",8261
+"AS14061","DigitalOcean, LLC",8262
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5942
 "AS4134","Chinanet",5063
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2682
 "AS142002","Scloud Pte Ltd",2564
 "AS9808","China Mobile",2080
-"AS23470","ReliableSite.Net LLC",1976
+"AS23470","ReliableSite.Net LLC",1986
 "AS202425","IP Volume inc",1833
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1541
@@ -94,7 +94,7 @@ ASN,Organization,IP_Count
 "AS141718","haoxiangyun",245
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",225
-"AS29066","velia.net Internetdienste GmbH",223
+"AS29066","velia.net Internetdienste GmbH",224
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS12389","PJSC Rostelecom",208
@@ -152,11 +152,11 @@ ASN,Organization,IP_Count
 "AS834","IPXO LLC",68
 "AS328867","Corebach Backbone SARL",67
 "AS55720","Gigabit Hosting Sdn Bhd",67
+"AS200514","KnownSRV Ltd.",66
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
 "AS215590","DpkgSoft International Limited",66
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",66
 "AS57588","Hayat for Internet & communication LLC",66
-"AS200514","KnownSRV Ltd.",65
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS5650","Frontier Communications of America, Inc.",64
