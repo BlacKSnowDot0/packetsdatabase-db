@@ -1,10 +1,10 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87791
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87793
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22131
 "AS398324","Censys, Inc.",14455
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10578
+"AS396982","Google LLC",10579
 "AS14061","DigitalOcean, LLC",8260
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5942
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2564
 "AS9808","China Mobile",2080
 "AS23470","ReliableSite.Net LLC",1957
-"AS202425","IP Volume inc",1831
+"AS202425","IP Volume inc",1832
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1541
 "AS32475","Internap Holding LLC",1462
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS12876","ONLINE S.A.S.",546
-"AS51115","HLL LLC",544
+"AS51115","HLL LLC",545
 "AS198953","Proton66 OOO",527
 "AS53667","FranTech Solutions",511
 "AS140292","China Telecom",509
@@ -2813,6 +2813,7 @@ ASN,Organization,IP_Count
 "AS51042","Klimovsk network Ltd",1
 "AS51095","EdgeUno, Inc.",1
 "AS51158","Mobile Trend Ltd",1
+"AS51177","TIPZOR MEDIA SRL",1
 "AS51180","Lanet Network Ltd",1
 "AS51273","FOP Lizanchuk Yaroslav M.",1
 "AS51341","Gigakom Sistems OOO",1
