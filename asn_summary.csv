@@ -4,10 +4,10 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22130
 "AS398324","Censys, Inc.",14450
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10576
-"AS14061","DigitalOcean, LLC",8257
+"AS396982","Google LLC",10577
+"AS14061","DigitalOcean, LLC",8258
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5941
+"AS16276","OVH SAS",5942
 "AS4134","Chinanet",5063
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4455
@@ -135,8 +135,8 @@ ASN,Organization,IP_Count
 "AS11320","LightEdge Solutions",83
 "AS271795","SERVITELCONET CIA. LTDA.",83
 "AS16735","ALGAR TELECOM S/A",81
+"AS215240","Silent Connection Ltd.",81
 "AS5617","Orange Polska Spolka Akcyjna",81
-"AS215240","Silent Connection Ltd.",80
 "AS8402","PJSC ""Vimpelcom""",79
 "AS200019","ALEXHOST SRL",78
 "AS22773","Cox Communications Inc.",77
@@ -661,6 +661,7 @@ ASN,Organization,IP_Count
 "AS206262","TelKos L.L.C",5
 "AS207656","Epinatura LLC",5
 "AS21246","IPKO Telecommunications LLC",5
+"AS212552","BitCommand LLC",5
 "AS212695","Link Telecom Service Ltd",5
 "AS213851","Marcel Hanisch",5
 "AS215311","Regxa Company for Information Technology Ltd",5
@@ -760,7 +761,6 @@ ASN,Organization,IP_Count
 "AS208208","Marco Lingl trading as Cyberse GmbH & Co. KG",4
 "AS211301","Collin Schneeweiss trading as Unesty Company",4
 "AS212042","Istqrar for Servers Services Ltd",4
-"AS212552","BitCommand LLC",4
 "AS21334","One Hungary Ltd.",4
 "AS214996","netcup GmbH",4
 "AS215439","PLAY2GO INTERNATIONAL LIMITED",4
@@ -800,6 +800,7 @@ ASN,Organization,IP_Count
 "AS39891","Saudi Telecom Company JSC",4
 "AS399296","Rackdog, LLC",4
 "AS400391","Pacific Wyyerd LLC",4
+"AS42961","Mobile Telecommunications Company",4
 "AS43612","Company for communications services A1 Makedonija DOOEL Skopje",4
 "AS43754","Asiatech Data Transmission company",4
 "AS44395","Ucom CJSC",4
@@ -983,7 +984,6 @@ ASN,Organization,IP_Count
 "AS4230","CLARO S.A.",3
 "AS42730","EVANZO e-commerce GmbH",3
 "AS42772","Unitary enterprise A1",3
-"AS42961","Mobile Telecommunications Company",3
 "AS43047","Stream-Network Ltd.",3
 "AS43350","NForce Entertainment B.V.",3
 "AS43588","IM Level 7 SRL",3
