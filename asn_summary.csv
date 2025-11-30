@@ -1,7 +1,7 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87791
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22129
+"AS211298","Driftnet Ltd",22130
 "AS398324","Censys, Inc.",14450
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10575
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",799
 "AS51167","Contabo GmbH",768
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
-"AS10439","CariNet, Inc.",690
+"AS10439","CariNet, Inc.",691
 "AS14618","Amazon.com, Inc.",678
 "AS4837","CHINA UNICOM China169 Backbone",598
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -61,7 +61,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",564
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS12876","ONLINE S.A.S.",545
+"AS12876","ONLINE S.A.S.",546
 "AS51115","HLL LLC",544
 "AS198953","Proton66 OOO",527
 "AS53667","FranTech Solutions",511
@@ -114,7 +114,7 @@ ASN,Organization,IP_Count
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
 "AS36007","Kamatera, Inc.",122
-"AS6739","VODAFONE ONO, S.A.",120
+"AS6739","VODAFONE ONO, S.A.",121
 "AS151185","China Telecom",115
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
@@ -291,6 +291,7 @@ ASN,Organization,IP_Count
 "AS16591","Google Fiber Inc.",22
 "AS17561","Larus Limited",22
 "AS213010","Gening Nikita Dmitrievich",22
+"AS215762","Bullet Group LTD",22
 "AS41745","Baykov Ilya Sergeevich",22
 "AS43289","Trabia SRL",22
 "AS51430","AltusHost B.V.",22
@@ -302,7 +303,6 @@ ASN,Organization,IP_Count
 "AS17816","China Unicom IP network China169 Guangdong province",21
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",21
 "AS214668","AxusHost B.V.",21
-"AS215762","Bullet Group LTD",21
 "AS3320","Deutsche Telekom AG",21
 "AS400536","Nodestop LLC",21
 "AS45758","Triple T Broadband Public Company Limited",21
