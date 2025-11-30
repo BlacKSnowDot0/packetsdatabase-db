@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87795
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22133
+"AS211298","Driftnet Ltd",22134
 "AS398324","Censys, Inc.",14464
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10579
-"AS14061","DigitalOcean, LLC",8262
+"AS14061","DigitalOcean, LLC",8268
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5942
 "AS4134","Chinanet",5063
@@ -21,10 +21,10 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3229
 "AS8075","Microsoft Corporation",2833
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2682
+"AS6939","Hurricane Electric LLC",2683
 "AS142002","Scloud Pte Ltd",2564
 "AS9808","China Mobile",2080
-"AS23470","ReliableSite.Net LLC",2016
+"AS23470","ReliableSite.Net LLC",2026
 "AS202425","IP Volume inc",1833
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1541
@@ -61,7 +61,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",565
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS12876","ONLINE S.A.S.",546
+"AS12876","ONLINE S.A.S.",547
 "AS51115","HLL LLC",546
 "AS198953","Proton66 OOO",527
 "AS53667","FranTech Solutions",511
@@ -2322,6 +2322,7 @@ ASN,Organization,IP_Count
 "AS268430","L&R Solucoes em Telecomunicacoes e Servicos Ltda",1
 "AS268449","SL Telecomunicações EIRELI",1
 "AS268509","COMPLETA Telecomunicacoes Ltda",1
+"AS268537","TAQUARANET SERVICOS DE PROVEDOR DE INTERNET LTDA M",1
 "AS268540","ULTRA FIBER INTERNET LTDA - ME",1
 "AS268551","DMC TELECOM",1
 "AS268581","QNAX LTDA",1
