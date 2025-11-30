@@ -2,15 +2,15 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87791
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22130
-"AS398324","Censys, Inc.",14450
+"AS398324","Censys, Inc.",14452
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10578
-"AS14061","DigitalOcean, LLC",8259
+"AS14061","DigitalOcean, LLC",8260
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5942
 "AS4134","Chinanet",5063
 "AS6568","Entel S.A. - EntelNet",4537
-"AS58466","CHINANET Guangdong province network",4455
+"AS58466","CHINANET Guangdong province network",4456
 "AS16509","Amazon.com, Inc.",4348
 "AS45102","Alibaba (US) Technology Co., Ltd.",4074
 "AS396998","Path Network, Inc.",3992
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2681
 "AS142002","Scloud Pte Ltd",2564
 "AS9808","China Mobile",2080
-"AS23470","ReliableSite.Net LLC",1939
+"AS23470","ReliableSite.Net LLC",1948
 "AS202425","IP Volume inc",1831
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1541
@@ -97,7 +97,7 @@ ASN,Organization,IP_Count
 "AS29066","velia.net Internetdienste GmbH",223
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
-"AS12389","PJSC Rostelecom",207
+"AS12389","PJSC Rostelecom",208
 "AS29484","Ruhr-Universitaet Bochum",195
 "AS12555","Data-center IMAQLIQ Ltd.",193
 "AS7552","Viettel Group",182
@@ -114,7 +114,7 @@ ASN,Organization,IP_Count
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
 "AS36007","Kamatera, Inc.",122
-"AS6739","VODAFONE ONO, S.A.",121
+"AS6739","VODAFONE ONO, S.A.",122
 "AS151185","China Telecom",115
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
@@ -270,6 +270,7 @@ ASN,Organization,IP_Count
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",25
 "AS18881","TELEFÔNICA BRASIL S.A",25
 "AS24560","Bharti Airtel Limited",25
+"AS28546","Servnet Mexico, S.A. de C.V.",25
 "AS36947","Telecom Algeria",25
 "AS55836","Reliance Jio Infocomm Limited",25
 "AS58212","dataforest GmbH",25
@@ -277,7 +278,6 @@ ASN,Organization,IP_Count
 "AS197540","netcup GmbH",24
 "AS209","CenturyLink Communications, LLC",24
 "AS24940","Hetzner Online GmbH",24
-"AS28546","Servnet Mexico, S.A. de C.V.",24
 "AS4713","NTT Communications Corporation",24
 "AS577","Bell Canada",24
 "AS60068","Datacamp Limited",24
