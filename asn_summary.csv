@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87795
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22134
-"AS398324","Censys, Inc.",14464
+"AS398324","Censys, Inc.",14465
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10579
-"AS14061","DigitalOcean, LLC",8270
+"AS396982","Google LLC",10580
+"AS14061","DigitalOcean, LLC",8271
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5942
+"AS16276","OVH SAS",5943
 "AS4134","Chinanet",5063
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4456
@@ -238,13 +238,13 @@ ASN,Organization,IP_Count
 "AS1241","RIPE Network Coordination Centre",31
 "AS17557","Pakistan Telecommuication company limited",31
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",31
+"AS8796","FD-298-8796",31
 "AS200593","PROSPERO OOO",30
 "AS210509","Optimum Line for Internet Services Ltd.",30
 "AS214417","Andrii Hrosh",30
 "AS329009","Spectrum Internet Service Ltd",30
 "AS4847","China Networks Inter-Exchange",30
 "AS55933","Cloudie Limited",30
-"AS8796","FD-298-8796",30
 "AS202796","JSR IT B.V.",29
 "AS6134","XNNET LLC",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
@@ -2810,6 +2810,7 @@ ASN,Organization,IP_Count
 "AS50581","Ukrainian Telecommunication Group LLC",1
 "AS50590","PE ""NETBERRY""",1
 "AS50772","Ukrtranstelecom tc, ltd",1
+"AS51002","GNET-ISP d.o.o.",1
 "AS51010","National Agency of Public Registry",1
 "AS51028","Zummer LLC",1
 "AS51042","Klimovsk network Ltd",1
