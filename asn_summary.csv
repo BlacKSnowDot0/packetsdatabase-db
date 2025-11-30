@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87796
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22137
-"AS398324","Censys, Inc.",14467
+"AS398324","Censys, Inc.",14468
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10580
 "AS14061","DigitalOcean, LLC",8273
@@ -19,11 +19,11 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3230
-"AS8075","Microsoft Corporation",2833
+"AS8075","Microsoft Corporation",2835
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2684
 "AS142002","Scloud Pte Ltd",2564
-"AS23470","ReliableSite.Net LLC",2105
+"AS23470","ReliableSite.Net LLC",2115
 "AS9808","China Mobile",2080
 "AS202425","IP Volume inc",1834
 "AS214295","SKYNET NETWORK LTD",1631
@@ -61,7 +61,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",565
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS12876","ONLINE S.A.S.",547
+"AS12876","ONLINE S.A.S.",548
 "AS51115","HLL LLC",546
 "AS198953","Proton66 OOO",527
 "AS53667","FranTech Solutions",511
@@ -103,7 +103,7 @@ ASN,Organization,IP_Count
 "AS7552","Viettel Group",182
 "AS63199","CDS Global Cloud Co., Ltd",181
 "AS401116","Nybula LLC",170
-"AS50219","LNK SYSTEMS MUNTENIA SRL",160
+"AS50219","LNK SYSTEMS MUNTENIA SRL",161
 "AS206264","Amarutu Technology Ltd",153
 "AS42237","w1n ltd",153
 "AS262551","Farol Telecom",152
@@ -113,8 +113,8 @@ ASN,Organization,IP_Count
 "AS13238","YANDEX LLC",129
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
+"AS6739","VODAFONE ONO, S.A.",123
 "AS36007","Kamatera, Inc.",122
-"AS6739","VODAFONE ONO, S.A.",122
 "AS151185","China Telecom",115
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
