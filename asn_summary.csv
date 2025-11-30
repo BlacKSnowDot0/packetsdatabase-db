@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87795
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87796
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22134
-"AS398324","Censys, Inc.",14466
+"AS211298","Driftnet Ltd",22137
+"AS398324","Censys, Inc.",14467
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10580
-"AS14061","DigitalOcean, LLC",8271
+"AS14061","DigitalOcean, LLC",8273
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5943
 "AS4134","Chinanet",5063
@@ -86,7 +86,7 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",295
-"AS213613","BOTSHIELD LTD",289
+"AS213613","BOTSHIELD LTD",290
 "AS208843","Alpha Strike Labs GmbH",284
 "AS48090","TECHOFF SRV LIMITED",260
 "AS18403","FPT Telecom Company",257
@@ -103,7 +103,7 @@ ASN,Organization,IP_Count
 "AS7552","Viettel Group",182
 "AS63199","CDS Global Cloud Co., Ltd",181
 "AS401116","Nybula LLC",170
-"AS50219","LNK SYSTEMS MUNTENIA SRL",159
+"AS50219","LNK SYSTEMS MUNTENIA SRL",160
 "AS206264","Amarutu Technology Ltd",153
 "AS42237","w1n ltd",153
 "AS262551","Farol Telecom",152
@@ -238,11 +238,11 @@ ASN,Organization,IP_Count
 "AS1241","RIPE Network Coordination Centre",31
 "AS17557","Pakistan Telecommuication company limited",31
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",31
+"AS329009","Spectrum Internet Service Ltd",31
 "AS8796","FD-298-8796",31
 "AS200593","PROSPERO OOO",30
 "AS210509","Optimum Line for Internet Services Ltd.",30
 "AS214417","Andrii Hrosh",30
-"AS329009","Spectrum Internet Service Ltd",30
 "AS4847","China Networks Inter-Exchange",30
 "AS55933","Cloudie Limited",30
 "AS202796","JSR IT B.V.",29
@@ -726,6 +726,7 @@ ASN,Organization,IP_Count
 "AS9416","Hoshin Multimedia Center Inc.",5
 "AS9674","Far EastTone Telecommunication Co., Ltd.",5
 "AS12430","VODAFONE ESPANA S.A.U.",4
+"AS12975","Palestine Telecommunications Company (PALTEL)",4
 "AS13110","INEA sp. z o.o.",4
 "AS131607","Digidom CableTV Co., LTD.",4
 "AS135089","China Telecom",4
@@ -845,7 +846,6 @@ ASN,Organization,IP_Count
 "AS11845","Vox Telecom Ltd",3
 "AS12252","America Movil Peru S.A.C.",3
 "AS12735","TurkNet Iletisim Hizmetleri A.S.",3
-"AS12975","Palestine Telecommunications Company (PALTEL)",3
 "AS12997","OJSC Kyrgyztelecom",3
 "AS131111","PT Mora Telematika Indonesia",3
 "AS131429","MOBIFONE Corporation",3
@@ -860,6 +860,7 @@ ASN,Organization,IP_Count
 "AS13720","Daybreak Game Company LLC",3
 "AS137236","TURBOTECH CO., LTD.",3
 "AS137449","SKYNET CHOWMUHANI",3
+"AS137697","CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou , Jiangsu Province, P.",3
 "AS137967","Digicon Telecommunication Ltd",3
 "AS138117","PT. Solusindo Basis Teknologi",3
 "AS138871","PT. Trans Indonesia Superkoridor",3
@@ -1087,7 +1088,6 @@ ASN,Organization,IP_Count
 "AS137143","Minnal Digital Network Private Limited",2
 "AS137687","Luoyang, Henan Province, P.R.China.",2
 "AS137689","IOT Jiangsu network, Chinatelecom, P.R.China.",2
-"AS137697","CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou , Jiangsu Province, P.",2
 "AS137905","Mangkone Technology Co. Ltd.",2
 "AS138050","Dinas Komunikasi Provins Jawa Barat",2
 "AS138134","PT Tunas Link Indonesia",2
