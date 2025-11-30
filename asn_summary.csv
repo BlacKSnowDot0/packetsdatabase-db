@@ -4,13 +4,13 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22130
 "AS398324","Censys, Inc.",14450
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10575
+"AS396982","Google LLC",10576
 "AS14061","DigitalOcean, LLC",8257
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5941
 "AS4134","Chinanet",5063
 "AS6568","Entel S.A. - EntelNet",4537
-"AS58466","CHINANET Guangdong province network",4454
+"AS58466","CHINANET Guangdong province network",4455
 "AS16509","Amazon.com, Inc.",4348
 "AS45102","Alibaba (US) Technology Co., Ltd.",4074
 "AS396998","Path Network, Inc.",3992
@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3640
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3228
+"AS51396","Pfcloud UG",3229
 "AS8075","Microsoft Corporation",2833
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2679
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS215925","VPSVAULT.HOST LTD",836
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",799
+"AS20052","Arbor Networks, Inc.",800
 "AS51167","Contabo GmbH",768
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS10439","CariNet, Inc.",691
@@ -1280,6 +1280,7 @@ ASN,Organization,IP_Count
 "AS269076","L DA COSTA SILVA COMUNICACOES",2
 "AS269597","STALKER ENGENHARIA EIRELI",2
 "AS269931","WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L",2
+"AS270020","T.V. SANV S A S (ALPAVISION HD)",2
 "AS270161","Cablevision Red, S.A de C.V.",2
 "AS270581","JET NETWORK TELECOMUNICAÇÃO LTDA",2
 "AS270961","SIM INTERNET PROVEDORES DE INTERNET EIRELI.",2
@@ -2380,7 +2381,6 @@ ASN,Organization,IP_Count
 "AS269853","CBVISION S.A.",1
 "AS269860","PRODUCENTRO S.A.",1
 "AS269936","TELEVISION MONTALVO VISION MONVISION S.A.",1
-"AS270020","T.V. SANV S A S (ALPAVISION HD)",1
 "AS270052","ARANDA CARDOZO LIDER RAMON",1
 "AS270158","Wantelco SAS de CV",1
 "AS270242","EVEREST TELECOM EIRELI - ME",1
