@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14464
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10579
-"AS14061","DigitalOcean, LLC",8269
+"AS14061","DigitalOcean, LLC",8270
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5942
 "AS4134","Chinanet",5063
@@ -21,10 +21,10 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3229
 "AS8075","Microsoft Corporation",2833
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2683
+"AS6939","Hurricane Electric LLC",2684
 "AS142002","Scloud Pte Ltd",2564
 "AS9808","China Mobile",2080
-"AS23470","ReliableSite.Net LLC",2026
+"AS23470","ReliableSite.Net LLC",2066
 "AS202425","IP Volume inc",1833
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1541
@@ -50,7 +50,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",836
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",800
-"AS51167","Contabo GmbH",770
+"AS51167","Contabo GmbH",771
 "AS211680","NSEC - Sistemas Informaticos, S.A.",730
 "AS10439","CariNet, Inc.",692
 "AS14618","Amazon.com, Inc.",679
@@ -133,8 +133,8 @@ ASN,Organization,IP_Count
 "AS28209","Under Servicos de Internet Ltda",88
 "AS58461","Chinanet",85
 "AS11320","LightEdge Solutions",83
+"AS215240","Silent Connection Ltd.",83
 "AS271795","SERVITELCONET CIA. LTDA.",83
-"AS215240","Silent Connection Ltd.",82
 "AS16735","ALGAR TELECOM S/A",81
 "AS5617","Orange Polska Spolka Akcyjna",81
 "AS8402","PJSC ""Vimpelcom""",79
@@ -591,6 +591,7 @@ ASN,Organization,IP_Count
 "AS23089","Hotwire Communications",6
 "AS23201","Telecel S.A.",6
 "AS23383","METRORED S.A. DE C.V.",6
+"AS23700","Linknet-Fastnet ASN",6
 "AS25513","PJSC Moscow city telephone network",6
 "AS262262","METRONET",6
 "AS262773","PROXXIMA TELECOMUNICACOES LTDA",6
@@ -666,7 +667,6 @@ ASN,Organization,IP_Count
 "AS213851","Marcel Hanisch",5
 "AS215311","Regxa Company for Information Technology Ltd",5
 "AS22612","Namecheap, Inc.",5
-"AS23700","Linknet-Fastnet ASN",5
 "AS23974","Ministry of Education - EMISC",5
 "AS25084","Politechnika Czestochowska",5
 "AS263569","DIRECT WIFI TELECOM LTDA",5
