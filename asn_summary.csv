@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22137
 "AS398324","Censys, Inc.",14470
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10582
+"AS396982","Google LLC",10583
 "AS14061","DigitalOcean, LLC",8274
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5945
@@ -18,8 +18,8 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3640
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3230
-"AS8075","Microsoft Corporation",2835
+"AS51396","Pfcloud UG",3232
+"AS8075","Microsoft Corporation",2836
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2684
 "AS142002","Scloud Pte Ltd",2564
@@ -61,7 +61,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",566
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS12876","ONLINE S.A.S.",549
+"AS12876","ONLINE S.A.S.",550
 "AS51115","HLL LLC",546
 "AS198953","Proton66 OOO",527
 "AS53667","FranTech Solutions",512
@@ -404,6 +404,7 @@ ASN,Organization,IP_Count
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",13
 "AS15895","""Kyivstar"" PJSC",13
 "AS17639","ComClark Network & Technology Corp",13
+"AS19871","Network Solutions, LLC",13
 "AS213194","Nechaev Dmitry Sergeevich",13
 "AS25369","Hydra Communications Ltd",13
 "AS28840","PJSC ""TATTELECOM""",13
@@ -416,7 +417,6 @@ ASN,Organization,IP_Count
 "AS9304","HGC Global Communications Limited",13
 "AS9770","LG HelloVision Corp.",13
 "AS1221","Telstra Limited",12
-"AS19871","Network Solutions, LLC",12
 "AS202520","SkyPass Solutions Sp. z.o.o.",12
 "AS2116","GLOBALCONNECT AS",12
 "AS213438","ColocaTel Inc.",12
@@ -785,6 +785,7 @@ ASN,Organization,IP_Count
 "AS270814","ZAAZ PROVEDOR DE INTERNET E TELECOMUNICACOES LTDA",4
 "AS27651","ENTEL CHILE S.A.",4
 "AS28146","MHNET TELECOM",4
+"AS28198","SEMPRE TELECOMUNICACOES LTDA",4
 "AS28258","VERO S.A",4
 "AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",4
 "AS28753","Leaseweb Deutschland GmbH",4
@@ -946,7 +947,6 @@ ASN,Organization,IP_Count
 "AS28006","CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP",3
 "AS28124","UFINET BRASIL S.A.",3
 "AS28160","MEGALINK INTERNET",3
-"AS28198","SEMPRE TELECOMUNICACOES LTDA",3
 "AS28202","Rede Brasileira de Comunicacao S/A",3
 "AS28220","CABO SERVICOS DE TELECOMUNICACOES LTDA",3
 "AS28548","Cablevisión, S.A. de C.V.",3
