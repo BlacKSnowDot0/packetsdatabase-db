@@ -2,17 +2,17 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87797
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22138
-"AS398324","Censys, Inc.",14473
+"AS398324","Censys, Inc.",14476
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10584
-"AS14061","DigitalOcean, LLC",8277
+"AS14061","DigitalOcean, LLC",8279
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5945
 "AS4134","Chinanet",5063
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4456
 "AS16509","Amazon.com, Inc.",4348
-"AS45102","Alibaba (US) Technology Co., Ltd.",4074
+"AS45102","Alibaba (US) Technology Co., Ltd.",4075
 "AS396998","Path Network, Inc.",3992
 "AS0","",3680
 "AS63949","Akamai Technologies, Inc.",3640
@@ -25,14 +25,14 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2564
 "AS23470","ReliableSite.Net LLC",2125
 "AS9808","China Mobile",2080
-"AS202425","IP Volume inc",1835
+"AS202425","IP Volume inc",1837
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1542
 "AS32475","Internap Holding LLC",1466
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS36352","HostPapa",1426
+"AS398722","Censys, Inc.",1424
 "AS48925","VibeGAMES B.V.",1424
-"AS398722","Censys, Inc.",1423
 "AS49870","Alsycon B.V.",1409
 "AS13335","Cloudflare, Inc.",1360
 "AS215269","LAZYCLOUD LTD",1312
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",800
 "AS51167","Contabo GmbH",771
-"AS211680","NSEC - Sistemas Informaticos, S.A.",730
+"AS211680","NSEC - Sistemas Informaticos, S.A.",732
 "AS10439","CariNet, Inc.",692
 "AS14618","Amazon.com, Inc.",679
 "AS4837","CHINA UNICOM China169 Backbone",598
@@ -335,6 +335,7 @@ ASN,Organization,IP_Count
 "AS40676","Psychz Networks",19
 "AS49531","""NetCom-R"" LLC",19
 "AS6167","Verizon Business",19
+"AS6697","Republican Unitary Telecommunication Enterprise Beltelecom",19
 "AS11878","tzulo, inc.",18
 "AS18049","Taiwan Infrastructure Network Technologie",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
@@ -342,7 +343,6 @@ ASN,Organization,IP_Count
 "AS30823","aurologic GmbH",18
 "AS39603","P4 Sp. z o.o.",18
 "AS400655","NixLabs Networks",18
-"AS6697","Republican Unitary Telecommunication Enterprise Beltelecom",18
 "AS136958","China Unicom Guangdong IP network",17
 "AS148981","China Telecom",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
