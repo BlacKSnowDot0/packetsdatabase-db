@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2564
 "AS23470","ReliableSite.Net LLC",2125
 "AS9808","China Mobile",2081
-"AS202425","IP Volume inc",1844
+"AS202425","IP Volume inc",1845
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1542
 "AS32475","Internap Holding LLC",1472
@@ -311,6 +311,7 @@ ASN,Organization,IP_Count
 "AS4816","China Telecom (Group)",21
 "AS50887","DC FIBER HOME SRL",21
 "AS812","Rogers Communications Canada Inc.",21
+"AS852","TELUS Communications Inc.",21
 "AS9299","Philippine Long Distance Telephone Co.",21
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
@@ -319,7 +320,6 @@ ASN,Organization,IP_Count
 "AS24348","CERNET2 IX at Tsinghua University",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS6181","Cincinnati Bell Telephone Company LLC",20
-"AS852","TELUS Communications Inc.",20
 "AS11426","Charter Communications Inc",19
 "AS12874","Fastweb SpA",19
 "AS136142","Enigma Fiber Pvt Ltd",19
