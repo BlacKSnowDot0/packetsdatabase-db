@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14491
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10587
-"AS14061","DigitalOcean, LLC",8280
+"AS14061","DigitalOcean, LLC",8281
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5946
 "AS4134","Chinanet",5063
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS215925","VPSVAULT.HOST LTD",836
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",801
+"AS20052","Arbor Networks, Inc.",802
 "AS51167","Contabo GmbH",774
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
 "AS10439","CariNet, Inc.",694
@@ -113,7 +113,7 @@ ASN,Organization,IP_Count
 "AS13238","YANDEX LLC",129
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
-"AS6739","VODAFONE ONO, S.A.",123
+"AS6739","VODAFONE ONO, S.A.",124
 "AS36007","Kamatera, Inc.",122
 "AS151185","China Telecom",115
 "AS211298","Constantine Cybersecurity Ltd.",113
@@ -215,10 +215,10 @@ ASN,Organization,IP_Count
 "AS1680","Cellcom Fixed Line Communication L.P",37
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",37
 "AS8167","V tal",37
+"AS9198","JSC Kazakhtelecom",37
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",36
 "AS42624","Global-Data System IT Corporation",36
 "AS44592","SkyLink Data Center BV",36
-"AS9198","JSC Kazakhtelecom",36
 "AS213790","Limited Network LTD",35
 "AS30083","velia.net",35
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",35
@@ -329,6 +329,7 @@ ASN,Organization,IP_Count
 "AS207713","GLOBAL INTERNET SOLUTIONS LLC",19
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",19
 "AS22927","Telefonica de Argentina",19
+"AS24151","China Internet Network Infomation Center",19
 "AS262287","Maxihost LTDA",19
 "AS2914","NTT America, Inc.",19
 "AS3257","GTT Communications Inc.",19
@@ -339,7 +340,6 @@ ASN,Organization,IP_Count
 "AS11878","tzulo, inc.",18
 "AS18049","Taiwan Infrastructure Network Technologie",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
-"AS24151","China Internet Network Infomation Center",18
 "AS30823","aurologic GmbH",18
 "AS39603","P4 Sp. z o.o.",18
 "AS400655","NixLabs Networks",18
