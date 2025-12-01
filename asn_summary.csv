@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87798
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22138
-"AS398324","Censys, Inc.",14480
+"AS398324","Censys, Inc.",14483
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10587
 "AS14061","DigitalOcean, LLC",8280
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2564
 "AS23470","ReliableSite.Net LLC",2125
 "AS9808","China Mobile",2080
-"AS202425","IP Volume inc",1837
+"AS202425","IP Volume inc",1838
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1542
 "AS32475","Internap Holding LLC",1466
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",800
 "AS51167","Contabo GmbH",772
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
-"AS10439","CariNet, Inc.",692
+"AS10439","CariNet, Inc.",693
 "AS14618","Amazon.com, Inc.",679
 "AS4837","CHINA UNICOM China169 Backbone",598
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -122,11 +122,11 @@ ASN,Organization,IP_Count
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",105
 "AS47331","TTNet A.S.",104
-"AS8560","IONOS SE",99
+"AS8560","IONOS SE",100
 "AS40021","Nubes, LLC",97
 "AS199785","Cloud Hosting Solutions, Limited.",96
+"AS4766","Korea Telecom",94
 "AS205352","KABELNET LTD",93
-"AS4766","Korea Telecom",93
 "AS136435","ELITE COMMUNICATION",92
 "AS63018","Dedicated.com",92
 "AS210125","PRIAM NET Sh.p.k.",89
@@ -1091,6 +1091,7 @@ ASN,Organization,IP_Count
 "AS137905","Mangkone Technology Co. Ltd.",2
 "AS138050","Dinas Komunikasi Provins Jawa Barat",2
 "AS138134","PT Tunas Link Indonesia",2
+"AS138163","Bangladesh University of Professionals (BUP)",2
 "AS138842","PT Internetwork Komunikasi Indonesia",2
 "AS139043","WellNetworks (Private) Limited",2
 "AS139409","PT JERNIH MULTI KOMUNIKASI",2
@@ -1646,7 +1647,6 @@ ASN,Organization,IP_Count
 "AS138096","PT INFORMASI NUSANTARA TEKNOLOGI",1
 "AS138123","PT. ADEAKSA INDO JAYATAMA",1
 "AS138128","PT Solnet Indonesia",1
-"AS138163","Bangladesh University of Professionals (BUP)",1
 "AS138239","Vaishnavi Online Internet Services Pvt. Ltd.",1
 "AS13825","Troy Cablevision, Inc.",1
 "AS138368","INSTACOM Pvt. LTD",1
