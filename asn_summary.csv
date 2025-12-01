@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3232
 "AS8075","Microsoft Corporation",2837
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2688
+"AS6939","Hurricane Electric LLC",2689
 "AS142002","Scloud Pte Ltd",2564
 "AS23470","ReliableSite.Net LLC",2125
 "AS9808","China Mobile",2080
@@ -50,11 +50,11 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",836
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",803
-"AS51167","Contabo GmbH",774
+"AS51167","Contabo GmbH",775
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
 "AS10439","CariNet, Inc.",696
 "AS14618","Amazon.com, Inc.",679
-"AS4837","CHINA UNICOM China169 Backbone",598
+"AS4837","CHINA UNICOM China169 Backbone",599
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",583
 "AS201814","MEVSPACE sp. z o.o.",566
@@ -443,6 +443,7 @@ ASN,Organization,IP_Count
 "AS206804","EstNOC OY",11
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
 "AS24547","China Mobile",11
+"AS266015","JC2000 Telecomunicações Ltda",11
 "AS272928","P&C ON LINE S.R.L. (NETWAY INTERNET)",11
 "AS37611","Afrihost (Pty) Ltd",11
 "AS44901","Belcloud LTD",11
@@ -453,7 +454,6 @@ ASN,Organization,IP_Count
 "AS24835","Vodafone Data - Egypt",10
 "AS25019","Saudi Telecom Company JSC",10
 "AS264628","CORPORACION FIBEX TELECOM, C.A.",10
-"AS266015","JC2000 Telecomunicações Ltda",10
 "AS328471","HERO TELECOMS (PTY) LTD",10
 "AS36903","Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",10
 "AS37705","TOPNET",10
