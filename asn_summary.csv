@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87802
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22140
-"AS398324","Censys, Inc.",14513
+"AS398324","Censys, Inc.",14514
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10593
 "AS14061","DigitalOcean, LLC",8290
@@ -277,6 +277,7 @@ ASN,Organization,IP_Count
 "AS58224","Iran Telecommunication Company PJS",25
 "AS197540","netcup GmbH",24
 "AS209","CenturyLink Communications, LLC",24
+"AS215762","Bullet Group LTD",24
 "AS24940","Hetzner Online GmbH",24
 "AS4713","NTT Communications Corporation",24
 "AS577","Bell Canada",24
@@ -286,7 +287,6 @@ ASN,Organization,IP_Count
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",23
 "AS197309","RS-Media LLC",23
 "AS198037","SPACECORE SOLUTION LTD",23
-"AS215762","Bullet Group LTD",23
 "AS62240","Clouvider Limited",23
 "AS7303","Telecom Argentina S.A.",23
 "AS16591","Google Fiber Inc.",22
