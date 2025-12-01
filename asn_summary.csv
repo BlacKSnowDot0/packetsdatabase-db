@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87799
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22138
-"AS398324","Censys, Inc.",14491
+"AS398324","Censys, Inc.",14493
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10587
-"AS14061","DigitalOcean, LLC",8281
+"AS14061","DigitalOcean, LLC",8282
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5946
 "AS4134","Chinanet",5063
@@ -21,11 +21,11 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3232
 "AS8075","Microsoft Corporation",2837
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2684
+"AS6939","Hurricane Electric LLC",2685
 "AS142002","Scloud Pte Ltd",2564
 "AS23470","ReliableSite.Net LLC",2125
 "AS9808","China Mobile",2080
-"AS202425","IP Volume inc",1838
+"AS202425","IP Volume inc",1839
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1542
 "AS32475","Internap Holding LLC",1468
@@ -49,10 +49,10 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS215925","VPSVAULT.HOST LTD",836
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",802
+"AS20052","Arbor Networks, Inc.",803
 "AS51167","Contabo GmbH",774
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
-"AS10439","CariNet, Inc.",694
+"AS10439","CariNet, Inc.",695
 "AS14618","Amazon.com, Inc.",679
 "AS4837","CHINA UNICOM China169 Backbone",598
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -61,7 +61,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",566
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS12876","ONLINE S.A.S.",551
+"AS12876","ONLINE S.A.S.",552
 "AS51115","HLL LLC",546
 "AS198953","Proton66 OOO",527
 "AS53667","FranTech Solutions",512
@@ -286,12 +286,12 @@ ASN,Organization,IP_Count
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",23
 "AS197309","RS-Media LLC",23
 "AS198037","SPACECORE SOLUTION LTD",23
+"AS215762","Bullet Group LTD",23
 "AS62240","Clouvider Limited",23
 "AS7303","Telecom Argentina S.A.",23
 "AS16591","Google Fiber Inc.",22
 "AS17561","Larus Limited",22
 "AS213010","Gening Nikita Dmitrievich",22
-"AS215762","Bullet Group LTD",22
 "AS41745","Baykov Ilya Sergeevich",22
 "AS43289","Trabia SRL",22
 "AS51430","AltusHost B.V.",22
@@ -391,6 +391,7 @@ ASN,Organization,IP_Count
 "AS12400","Partner Communications Ltd.",14
 "AS1267","RIPE Network Coordination Centre",14
 "AS17621","China Unicom Shanghai network",14
+"AS19871","Network Solutions, LLC",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS27947","Telconet S.A",14
 "AS30600","Metronet",14
@@ -404,7 +405,6 @@ ASN,Organization,IP_Count
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",13
 "AS15895","""Kyivstar"" PJSC",13
 "AS17639","ComClark Network & Technology Corp",13
-"AS19871","Network Solutions, LLC",13
 "AS213194","Nechaev Dmitry Sergeevich",13
 "AS25369","Hydra Communications Ltd",13
 "AS28840","PJSC ""TATTELECOM""",13
