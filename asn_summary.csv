@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87798
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22138
-"AS398324","Censys, Inc.",14486
+"AS398324","Censys, Inc.",14487
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10587
 "AS14061","DigitalOcean, LLC",8280
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5945
+"AS16276","OVH SAS",5946
 "AS4134","Chinanet",5063
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4456
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3232
-"AS8075","Microsoft Corporation",2836
+"AS8075","Microsoft Corporation",2837
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2684
 "AS142002","Scloud Pte Ltd",2564
@@ -131,8 +131,8 @@ ASN,Organization,IP_Count
 "AS63018","Dedicated.com",92
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS28209","Under Servicos de Internet Ltda",89
+"AS215240","Silent Connection Ltd.",85
 "AS58461","Chinanet",85
-"AS215240","Silent Connection Ltd.",84
 "AS11320","LightEdge Solutions",83
 "AS271795","SERVITELCONET CIA. LTDA.",83
 "AS16735","ALGAR TELECOM S/A",81
@@ -146,7 +146,7 @@ ASN,Organization,IP_Count
 "AS32475","SingleHop LLC",75
 "AS56046","China Mobile Communications Corporation",74
 "AS31898","Oracle Corporation",73
-"AS23724","IDC, China Telecommunications Corporation",71
+"AS23724","IDC, China Telecommunications Corporation",72
 "AS52053","REDHEBERG Association declaree",69
 "AS150263","PT Alnet Telekomunikasi Indonesia",68
 "AS834","IPXO LLC",68
