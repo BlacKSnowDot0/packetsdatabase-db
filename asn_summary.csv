@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87802
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22140
-"AS398324","Censys, Inc.",14512
+"AS398324","Censys, Inc.",14513
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10593
 "AS14061","DigitalOcean, LLC",8290
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5950
+"AS16276","OVH SAS",5951
 "AS4134","Chinanet",5063
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4456
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2690
 "AS142002","Scloud Pte Ltd",2564
 "AS23470","ReliableSite.Net LLC",2126
-"AS9808","China Mobile",2081
+"AS9808","China Mobile",2082
 "AS202425","IP Volume inc",1845
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1542
@@ -260,6 +260,7 @@ ASN,Organization,IP_Count
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
 "AS9123","TimeWeb Ltd.",27
 "AS13213","UK-2 Limited",26
+"AS132203","Shenzhen Tencent Computer Systems Company Limited",26
 "AS17995","PT iForte Global Internet",26
 "AS2200","Renater",26
 "AS23693","PT. Telekomunikasi Selular",26
@@ -268,7 +269,6 @@ ASN,Organization,IP_Count
 "AS3209","Vodafone GmbH",26
 "AS56067","Metrabyte Co.,Ltd",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
-"AS132203","Shenzhen Tencent Computer Systems Company Limited",25
 "AS18881","TELEFÔNICA BRASIL S.A",25
 "AS24560","Bharti Airtel Limited",25
 "AS36947","Telecom Algeria",25
