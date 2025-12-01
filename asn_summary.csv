@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87798
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87799
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22138
-"AS398324","Censys, Inc.",14489
+"AS398324","Censys, Inc.",14491
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10587
 "AS14061","DigitalOcean, LLC",8280
@@ -93,8 +93,8 @@ ASN,Organization,IP_Count
 "AS60223","Netiface Limited",250
 "AS141718","haoxiangyun",246
 "AS209272","Alviva Holding Limited",230
+"AS29066","velia.net Internetdienste GmbH",225
 "AS701","Verizon Business",225
-"AS29066","velia.net Internetdienste GmbH",224
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS12389","PJSC Rostelecom",208
@@ -165,7 +165,7 @@ ASN,Organization,IP_Count
 "AS6128","Cablevision Systems Corp.",63
 "AS140717","China Unicom",61
 "AS19318","Interserver, Inc",61
-"AS2856","British Telecommunications PLC",60
+"AS2856","British Telecommunications PLC",61
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS4812","China Telecom (Group)",60
 "AS20115","Charter Communications",59
@@ -181,7 +181,7 @@ ASN,Organization,IP_Count
 "AS30058","FDCservers.net",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS12816","Leibniz-Rechenzentrum",51
-"AS30633","Leaseweb USA, Inc.",49
+"AS30633","Leaseweb USA, Inc.",50
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",47
@@ -372,6 +372,7 @@ ASN,Organization,IP_Count
 "AS199414","Noah Kolossa",15
 "AS20011","Dimension Data",15
 "AS202448","MVPS LTD",15
+"AS20853","eTOP sp. z o.o.",15
 "AS211619","MAXKO d.o.o.",15
 "AS214309","Aurorix Gaming Solutions Limited",15
 "AS263767","CORPORACIÓN GALA IT, C.A.",15
@@ -391,7 +392,6 @@ ASN,Organization,IP_Count
 "AS1267","RIPE Network Coordination Centre",14
 "AS17621","China Unicom Shanghai network",14
 "AS204104","Giti Secure Cloud LLC",14
-"AS20853","eTOP sp. z o.o.",14
 "AS27947","Telconet S.A",14
 "AS30600","Metronet",14
 "AS3352","TELEFONICA DE ESPANA S.A.U.",14
@@ -545,6 +545,7 @@ ASN,Organization,IP_Count
 "AS267507","SRX TECNOLOGIA DA INFORMACAO LTDA",7
 "AS269003","KIMNET SOLUCOES",7
 "AS27831","Colombia Móvil",7
+"AS30722","Vodafone Italia S.p.A.",7
 "AS31042","Serbia BroadBand-Srpske Kablovske mreze d.o.o.",7
 "AS31122","Digiweb ltd",7
 "AS3216","PJSC ""Vimpelcom""",7
@@ -601,7 +602,6 @@ ASN,Organization,IP_Count
 "AS27747","Telecentro S.A.",6
 "AS27983","Red Intercable Digital S.A.",6
 "AS28210","GIGA MAIS FIBRA TELECOMUNICACOES S.A.",6
-"AS30722","Vodafone Italia S.p.A.",6
 "AS33588","Charter Communications",6
 "AS33771","Safaricom Limited",6
 "AS33915","Vodafone Libertel B.V.",6
@@ -2420,6 +2420,7 @@ ASN,Organization,IP_Count
 "AS271330","Dide telecomunicações Ltda",1
 "AS271338","TITAM NET TELECOM",1
 "AS271364","EXY SERVICOS DE TELECOMUNICOES LTDA",1
+"AS271425","Terracel Provedor de Internet Ltda Me",1
 "AS271441","J.A TELECOM.PE",1
 "AS271453","VITORIA NETWORKS",1
 "AS271479","KF TELECOM",1
