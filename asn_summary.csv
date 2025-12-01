@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87799
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22138
-"AS398324","Censys, Inc.",14497
+"AS398324","Censys, Inc.",14498
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10587
-"AS14061","DigitalOcean, LLC",8285
+"AS14061","DigitalOcean, LLC",8287
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5949
 "AS4134","Chinanet",5063
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",1470
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS36352","HostPapa",1429
-"AS398722","Censys, Inc.",1424
+"AS398722","Censys, Inc.",1425
 "AS48925","VibeGAMES B.V.",1424
 "AS49870","Alsycon B.V.",1410
 "AS13335","Cloudflare, Inc.",1360
@@ -74,9 +74,9 @@ ASN,Organization,IP_Count
 "AS7018","AT&T Enterprises, LLC",392
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS47890","UNMANAGED LTD",374
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",372
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",373
 "AS7713","Telekomunikasi Indonesia (PT)",366
-"AS21859","Zenlayer Inc",361
+"AS21859","Zenlayer Inc",362
 "AS7922","Comcast Cable Communications, LLC",348
 "AS8151","Uninet S.A. de C.V.",338
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
@@ -86,7 +86,7 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",295
-"AS213613","BOTSHIELD LTD",290
+"AS213613","BOTSHIELD LTD",291
 "AS208843","Alpha Strike Labs GmbH",284
 "AS48090","TECHOFF SRV LIMITED",260
 "AS18403","FPT Telecom Company",257
@@ -103,7 +103,7 @@ ASN,Organization,IP_Count
 "AS7552","Viettel Group",182
 "AS63199","CDS Global Cloud Co., Ltd",181
 "AS401116","Nybula LLC",170
-"AS50219","LNK SYSTEMS MUNTENIA SRL",161
+"AS50219","LNK SYSTEMS MUNTENIA SRL",162
 "AS206264","Amarutu Technology Ltd",153
 "AS42237","w1n ltd",153
 "AS262551","Farol Telecom",152
@@ -113,7 +113,7 @@ ASN,Organization,IP_Count
 "AS13238","YANDEX LLC",129
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
-"AS6739","VODAFONE ONO, S.A.",126
+"AS6739","VODAFONE ONO, S.A.",127
 "AS36007","Kamatera, Inc.",122
 "AS151185","China Telecom",115
 "AS211298","Constantine Cybersecurity Ltd.",113
@@ -1971,6 +1971,7 @@ ASN,Organization,IP_Count
 "AS211448","WEBCONEX SAS",1
 "AS211621","West-TV LLC",1
 "AS21183","Vodafone Albania Sh.A.",1
+"AS212027","Daniel Jackson",1
 "AS212271","Cinzia Tocci trading as C1V",1
 "AS212317","Hetzner Online GmbH",1
 "AS212463","FOP Polischyk O.V",1
