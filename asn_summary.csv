@@ -1,7 +1,7 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87801
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22139
+"AS211298","Driftnet Ltd",22140
 "AS398324","Censys, Inc.",14502
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10590
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2564
 "AS23470","ReliableSite.Net LLC",2125
 "AS9808","China Mobile",2080
-"AS202425","IP Volume inc",1843
+"AS202425","IP Volume inc",1844
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1542
 "AS32475","Internap Holding LLC",1470
@@ -189,8 +189,8 @@ ASN,Organization,IP_Count
 "AS10796","Charter Communications Inc",46
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
+"AS200590","NLS Kazakhstan LLC",45
 "AS141995","Contabo Asia Private Limited",44
-"AS200590","NLS Kazakhstan LLC",44
 "AS396356","Latitude.sh",44
 "AS42708","GleSYS AB",44
 "AS46475","Limestone Networks, Inc.",44
@@ -502,6 +502,7 @@ ASN,Organization,IP_Count
 "AS209956","Telkoturk Iletisim Hizmetleri A.S.",8
 "AS211507","Julian Achter",8
 "AS214209","Internet Magnate (Pty) Ltd",8
+"AS215730","H2NEXUS LTD",8
 "AS24086","Viettel Corporation",8
 "AS2527","Sony Network Communications Inc.",8
 "AS262459","Osirnet Info Telecom Ltda.",8
@@ -539,7 +540,6 @@ ASN,Organization,IP_Count
 "AS2119","Telenor Norge AS",7
 "AS215599","Zkillu SAS",7
 "AS215672","MoeChuang Network Limited",7
-"AS215730","H2NEXUS LTD",7
 "AS24961","WIIT AG",7
 "AS25490","PJSC Rostelecom",7
 "AS263238","Eliana Vanessa Morocho Oña",7
