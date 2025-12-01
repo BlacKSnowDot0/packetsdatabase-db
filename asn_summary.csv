@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87802
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22140
-"AS398324","Censys, Inc.",14508
+"AS398324","Censys, Inc.",14512
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10593
 "AS14061","DigitalOcean, LLC",8290
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",803
 "AS51167","Contabo GmbH",777
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
-"AS10439","CariNet, Inc.",697
+"AS10439","CariNet, Inc.",698
 "AS14618","Amazon.com, Inc.",679
 "AS4837","CHINA UNICOM China169 Backbone",599
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -61,7 +61,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",566
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS12876","ONLINE S.A.S.",554
+"AS12876","ONLINE S.A.S.",555
 "AS51115","HLL LLC",546
 "AS198953","Proton66 OOO",527
 "AS53667","FranTech Solutions",514
@@ -189,8 +189,8 @@ ASN,Organization,IP_Count
 "AS10796","Charter Communications Inc",46
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
+"AS141995","Contabo Asia Private Limited",45
 "AS200590","NLS Kazakhstan LLC",45
-"AS141995","Contabo Asia Private Limited",44
 "AS210558","1337 Services GmbH",44
 "AS396356","Latitude.sh",44
 "AS42708","GleSYS AB",44
@@ -298,6 +298,7 @@ ASN,Organization,IP_Count
 "AS5384","EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",22
 "AS63859","PT. Eka Mas Republik",22
 "AS7029","Windstream Communications LLC",22
+"AS852","TELUS Communications Inc.",22
 "AS12479","Orange Espagne SA",21
 "AS138886","PT Data Buana Nusantara",21
 "AS17816","China Unicom IP network China169 Guangdong province",21
@@ -311,7 +312,6 @@ ASN,Organization,IP_Count
 "AS4816","China Telecom (Group)",21
 "AS50887","DC FIBER HOME SRL",21
 "AS812","Rogers Communications Canada Inc.",21
-"AS852","TELUS Communications Inc.",21
 "AS9299","Philippine Long Distance Telephone Co.",21
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
@@ -2435,6 +2435,7 @@ ASN,Organization,IP_Count
 "AS271848","API CENTER GROUP S.A.S.",1
 "AS271853","VETTORE EMANUEL ROQUE (VETTORE INGENIERIA)",1
 "AS271909","TELECOMUNICACIONES, MANTENIMIENTO Y SERVICIOS P&C, C.A.",1
+"AS271916","TELECABLE BANILEJO S.R.L",1
 "AS271957","SOMOS NETWORKS COLOMBIA S.A.S. BIC",1
 "AS271968","CENTRIC MOBILITY (CEMO), S.R.L",1
 "AS271997","BIOCABLE SUR E I R L",1
