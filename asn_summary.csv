@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87797
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87798
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22138
-"AS398324","Censys, Inc.",14476
+"AS398324","Censys, Inc.",14480
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10584
-"AS14061","DigitalOcean, LLC",8279
+"AS396982","Google LLC",10587
+"AS14061","DigitalOcean, LLC",8280
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5945
 "AS4134","Chinanet",5063
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4348
 "AS45102","Alibaba (US) Technology Co., Ltd.",4075
 "AS396998","Path Network, Inc.",3992
-"AS0","",3680
+"AS0","",3681
 "AS63949","Akamai Technologies, Inc.",3640
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
@@ -50,7 +50,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",836
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",800
-"AS51167","Contabo GmbH",771
+"AS51167","Contabo GmbH",772
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
 "AS10439","CariNet, Inc.",692
 "AS14618","Amazon.com, Inc.",679
@@ -137,7 +137,7 @@ ASN,Organization,IP_Count
 "AS271795","SERVITELCONET CIA. LTDA.",83
 "AS16735","ALGAR TELECOM S/A",81
 "AS5617","Orange Polska Spolka Akcyjna",81
-"AS8402","PJSC ""Vimpelcom""",79
+"AS8402","PJSC ""Vimpelcom""",80
 "AS200019","ALEXHOST SRL",78
 "AS22773","Cox Communications Inc.",77
 "AS211736","FOP Dmytro Nedilskyi",76
@@ -206,9 +206,9 @@ ASN,Organization,IP_Count
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",41
 "AS23969","TOT Public Company Limited",40
 "AS43641","SOLLUTIUM EU Sp z.o.o.",40
+"AS12322","Free SAS",39
 "AS27699","TELEFÔNICA BRASIL S.A",39
 "AS8048","CANTV Servicios, Venezuela",39
-"AS12322","Free SAS",38
 "AS26599","TELEFÔNICA BRASIL S.A",38
 "AS4538","China Education and Research Network Center",38
 "AS5089","Virgin Media Limited",38
@@ -3035,6 +3035,7 @@ ASN,Organization,IP_Count
 "AS9125","Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun",1
 "AS9129","MTN Business Kenya",1
 "AS9155","Quality Net General Trading & Contracting Company",1
+"AS9228","PT. Total Info Kharisma",1
 "AS9232","Cloud Information Technology (Intl) Telecom Group LIMITED",1
 "AS9303","The Digital Lab 2007 Limited",1
 "AS932","XNNET LLC",1
