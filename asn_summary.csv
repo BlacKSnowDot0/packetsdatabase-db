@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87799
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22138
-"AS398324","Censys, Inc.",14495
+"AS398324","Censys, Inc.",14496
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10587
-"AS14061","DigitalOcean, LLC",8283
+"AS14061","DigitalOcean, LLC",8284
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5948
 "AS4134","Chinanet",5063
@@ -133,7 +133,7 @@ ASN,Organization,IP_Count
 "AS28209","Under Servicos de Internet Ltda",89
 "AS215240","Silent Connection Ltd.",85
 "AS58461","Chinanet",85
-"AS11320","LightEdge Solutions",83
+"AS11320","LightEdge Solutions",84
 "AS271795","SERVITELCONET CIA. LTDA.",83
 "AS16735","ALGAR TELECOM S/A",81
 "AS5617","Orange Polska Spolka Akcyjna",81
@@ -163,9 +163,9 @@ ASN,Organization,IP_Count
 "AS17378","TierPoint, LLC",63
 "AS210644","AEZA INTERNATIONAL LTD",63
 "AS6128","Cablevision Systems Corp.",63
+"AS2856","British Telecommunications PLC",62
 "AS140717","China Unicom",61
 "AS19318","Interserver, Inc",61
-"AS2856","British Telecommunications PLC",61
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS4812","China Telecom (Group)",60
 "AS20115","Charter Communications",59
@@ -539,6 +539,7 @@ ASN,Organization,IP_Count
 "AS2119","Telenor Norge AS",7
 "AS215599","Zkillu SAS",7
 "AS215672","MoeChuang Network Limited",7
+"AS215730","H2NEXUS LTD",7
 "AS24961","WIIT AG",7
 "AS25490","PJSC Rostelecom",7
 "AS263238","Eliana Vanessa Morocho Oña",7
@@ -585,7 +586,6 @@ ASN,Organization,IP_Count
 "AS212598","SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.",6
 "AS213893","IPTransit Business LTD",6
 "AS214762","Sebastian Stefanek trading as MatHost.eu",6
-"AS215730","H2NEXUS LTD",6
 "AS216158","Teleport Rus LLC",6
 "AS216300","Closed Joint Stock Company ""AbkhazMedia""",6
 "AS22724","PUNTONET S.A.",6
