@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87798
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22138
-"AS398324","Censys, Inc.",14483
+"AS398324","Censys, Inc.",14486
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10587
 "AS14061","DigitalOcean, LLC",8280
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1542
 "AS32475","Internap Holding LLC",1466
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS36352","HostPapa",1426
+"AS36352","HostPapa",1429
 "AS398722","Censys, Inc.",1424
 "AS48925","VibeGAMES B.V.",1424
 "AS49870","Alsycon B.V.",1409
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",800
 "AS51167","Contabo GmbH",772
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
-"AS10439","CariNet, Inc.",693
+"AS10439","CariNet, Inc.",694
 "AS14618","Amazon.com, Inc.",679
 "AS4837","CHINA UNICOM China169 Backbone",598
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -161,8 +161,8 @@ ASN,Organization,IP_Count
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS5650","Frontier Communications of America, Inc.",64
 "AS17378","TierPoint, LLC",63
+"AS210644","AEZA INTERNATIONAL LTD",63
 "AS6128","Cablevision Systems Corp.",63
-"AS210644","AEZA INTERNATIONAL LTD",62
 "AS140717","China Unicom",61
 "AS19318","Interserver, Inc",61
 "AS2856","British Telecommunications PLC",60
@@ -388,6 +388,7 @@ ASN,Organization,IP_Count
 "AS6849","JSC ""Ukrtelecom""",15
 "AS11232","Midcontinent Communications",14
 "AS12400","Partner Communications Ltd.",14
+"AS1267","RIPE Network Coordination Centre",14
 "AS17621","China Unicom Shanghai network",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS20853","eTOP sp. z o.o.",14
@@ -398,7 +399,6 @@ ASN,Organization,IP_Count
 "AS4808","China Unicom Beijing Province Network",14
 "AS48721","Flyservers S.A.",14
 "AS11351","Charter Communications Inc",13
-"AS1267","RIPE Network Coordination Centre",13
 "AS134420","Chongqing Telecom",13
 "AS137718","Beijing Volcano Engine Technology Co., Ltd.",13
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",13
