@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87802
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22140
-"AS398324","Censys, Inc.",14507
+"AS398324","Censys, Inc.",14508
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10591
-"AS14061","DigitalOcean, LLC",8289
+"AS396982","Google LLC",10592
+"AS14061","DigitalOcean, LLC",8290
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5950
 "AS4134","Chinanet",5063
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",803
 "AS51167","Contabo GmbH",777
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
-"AS10439","CariNet, Inc.",696
+"AS10439","CariNet, Inc.",697
 "AS14618","Amazon.com, Inc.",679
 "AS4837","CHINA UNICOM China169 Backbone",599
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -91,7 +91,7 @@ ASN,Organization,IP_Count
 "AS48090","TECHOFF SRV LIMITED",260
 "AS18403","FPT Telecom Company",257
 "AS60223","Netiface Limited",250
-"AS141718","haoxiangyun",247
+"AS141718","haoxiangyun",248
 "AS209272","Alviva Holding Limited",230
 "AS29066","velia.net Internetdienste GmbH",225
 "AS701","Verizon Business",225
@@ -421,6 +421,7 @@ ASN,Organization,IP_Count
 "AS2116","GLOBALCONNECT AS",12
 "AS213438","ColocaTel Inc.",12
 "AS2637","Georgia Institute of Technology",12
+"AS272928","P&C ON LINE S.R.L. (NETWAY INTERNET)",12
 "AS35042","Layer7 Networks GmbH",12
 "AS35297","Dataline LLC",12
 "AS36992","ETISALAT MISR",12
@@ -444,7 +445,6 @@ ASN,Organization,IP_Count
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
 "AS24547","China Mobile",11
 "AS266015","JC2000 Telecomunicações Ltda",11
-"AS272928","P&C ON LINE S.R.L. (NETWAY INTERNET)",11
 "AS37611","Afrihost (Pty) Ltd",11
 "AS44901","Belcloud LTD",11
 "AS45820","TTSL-ISP DIVISION",11
@@ -1928,6 +1928,7 @@ ASN,Organization,IP_Count
 "AS207227","Bootstrap srl",1
 "AS207369","Skynet Telecom, LLC",1
 "AS207375","Fiber Operator B.V.",1
+"AS207459","TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI.",1
 "AS207541","Eco Net d.o.o.",1
 "AS207594","Connectivia S.r.l",1
 "AS207645","F & W Networks Ltd",1
