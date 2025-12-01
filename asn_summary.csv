@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87799
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22138
-"AS398324","Censys, Inc.",14496
+"AS398324","Censys, Inc.",14497
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10587
-"AS14061","DigitalOcean, LLC",8284
+"AS14061","DigitalOcean, LLC",8285
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5948
+"AS16276","OVH SAS",5949
 "AS4134","Chinanet",5063
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4456
@@ -25,18 +25,18 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2564
 "AS23470","ReliableSite.Net LLC",2125
 "AS9808","China Mobile",2080
-"AS202425","IP Volume inc",1841
+"AS202425","IP Volume inc",1842
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1542
-"AS32475","Internap Holding LLC",1468
+"AS32475","Internap Holding LLC",1470
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS36352","HostPapa",1429
 "AS398722","Censys, Inc.",1424
 "AS48925","VibeGAMES B.V.",1424
-"AS49870","Alsycon B.V.",1409
+"AS49870","Alsycon B.V.",1410
 "AS13335","Cloudflare, Inc.",1360
 "AS215269","LAZYCLOUD LTD",1312
-"AS174","Cogent Communications",1223
+"AS174","Cogent Communications",1224
 "AS22552","eSited Solutions",1187
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",803
 "AS51167","Contabo GmbH",774
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
-"AS10439","CariNet, Inc.",695
+"AS10439","CariNet, Inc.",696
 "AS14618","Amazon.com, Inc.",679
 "AS4837","CHINA UNICOM China169 Backbone",598
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -64,9 +64,9 @@ ASN,Organization,IP_Count
 "AS12876","ONLINE S.A.S.",552
 "AS51115","HLL LLC",546
 "AS198953","Proton66 OOO",527
-"AS53667","FranTech Solutions",512
+"AS53667","FranTech Solutions",514
 "AS140292","China Telecom",509
-"AS9829","Bharat Sanchar Nigam Ltd",500
+"AS9829","Bharat Sanchar Nigam Ltd",501
 "AS50360","Tamatiya EOOD",492
 "AS212238","Datacamp Limited",466
 "AS21299","Kar-Tel LLC",406
@@ -226,9 +226,9 @@ ASN,Organization,IP_Count
 "AS146817","Hubei Feixun Network Co., Ltd",34
 "AS149705","PT Wijaya Trimitra Indonesia",34
 "AS34665","Petersburg Internet Network ltd.",34
+"AS1103","SURF B.V.",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
-"AS1103","SURF B.V.",32
 "AS12912","T-Mobile Polska S.A.",32
 "AS204834","Shabakieh Isfahan Co PJSC",32
 "AS21127","Joint Stock Company TransTeleCom",32
