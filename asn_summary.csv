@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87801
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22139
-"AS398324","Censys, Inc.",14499
+"AS398324","Censys, Inc.",14500
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10589
 "AS14061","DigitalOcean, LLC",8288
@@ -21,11 +21,11 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3232
 "AS8075","Microsoft Corporation",2837
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2689
+"AS6939","Hurricane Electric LLC",2690
 "AS142002","Scloud Pte Ltd",2564
 "AS23470","ReliableSite.Net LLC",2125
 "AS9808","China Mobile",2080
-"AS202425","IP Volume inc",1842
+"AS202425","IP Volume inc",1843
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1542
 "AS32475","Internap Holding LLC",1470
@@ -50,7 +50,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",836
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",803
-"AS51167","Contabo GmbH",775
+"AS51167","Contabo GmbH",776
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
 "AS10439","CariNet, Inc.",696
 "AS14618","Amazon.com, Inc.",679
@@ -97,7 +97,7 @@ ASN,Organization,IP_Count
 "AS701","Verizon Business",225
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
-"AS12389","PJSC Rostelecom",208
+"AS12389","PJSC Rostelecom",209
 "AS29484","Ruhr-Universitaet Bochum",197
 "AS12555","Data-center IMAQLIQ Ltd.",193
 "AS7552","Viettel Group",182
@@ -131,9 +131,9 @@ ASN,Organization,IP_Count
 "AS63018","Dedicated.com",92
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS28209","Under Servicos de Internet Ltda",89
+"AS11320","LightEdge Solutions",85
 "AS215240","Silent Connection Ltd.",85
 "AS58461","Chinanet",85
-"AS11320","LightEdge Solutions",84
 "AS271795","SERVITELCONET CIA. LTDA.",83
 "AS16735","ALGAR TELECOM S/A",81
 "AS5617","Orange Polska Spolka Akcyjna",81
