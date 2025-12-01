@@ -7,7 +7,7 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",10590
 "AS14061","DigitalOcean, LLC",8288
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5949
+"AS16276","OVH SAS",5950
 "AS4134","Chinanet",5063
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4456
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3232
-"AS8075","Microsoft Corporation",2837
+"AS8075","Microsoft Corporation",2838
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2690
 "AS142002","Scloud Pte Ltd",2564
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1844
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1542
-"AS32475","Internap Holding LLC",1470
+"AS32475","Internap Holding LLC",1472
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS36352","HostPapa",1431
 "AS398722","Censys, Inc.",1425
@@ -50,7 +50,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",836
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",803
-"AS51167","Contabo GmbH",776
+"AS51167","Contabo GmbH",777
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
 "AS10439","CariNet, Inc.",696
 "AS14618","Amazon.com, Inc.",679
@@ -61,7 +61,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",566
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS12876","ONLINE S.A.S.",553
+"AS12876","ONLINE S.A.S.",554
 "AS51115","HLL LLC",546
 "AS198953","Proton66 OOO",527
 "AS53667","FranTech Solutions",514
@@ -368,6 +368,7 @@ ASN,Organization,IP_Count
 "AS136515","Dasca Cable Services, Inc.",15
 "AS138915","Kaopu Cloud HK Limited",15
 "AS15704","XTRA TELECOM S.A.",15
+"AS19871","Network Solutions, LLC",15
 "AS19901","Brightspeed",15
 "AS199414","Noah Kolossa",15
 "AS20011","Dimension Data",15
@@ -391,7 +392,6 @@ ASN,Organization,IP_Count
 "AS12400","Partner Communications Ltd.",14
 "AS1267","RIPE Network Coordination Centre",14
 "AS17621","China Unicom Shanghai network",14
-"AS19871","Network Solutions, LLC",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS27947","Telconet S.A",14
 "AS30600","Metronet",14
