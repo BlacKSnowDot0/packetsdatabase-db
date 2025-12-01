@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87801
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22140
-"AS398324","Censys, Inc.",14502
+"AS398324","Censys, Inc.",14503
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10590
 "AS14061","DigitalOcean, LLC",8288
@@ -24,13 +24,13 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2690
 "AS142002","Scloud Pte Ltd",2564
 "AS23470","ReliableSite.Net LLC",2125
-"AS9808","China Mobile",2080
+"AS9808","China Mobile",2081
 "AS202425","IP Volume inc",1844
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1542
 "AS32475","Internap Holding LLC",1470
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS36352","HostPapa",1429
+"AS36352","HostPapa",1431
 "AS398722","Censys, Inc.",1425
 "AS48925","VibeGAMES B.V.",1424
 "AS49870","Alsycon B.V.",1410
@@ -508,6 +508,7 @@ ASN,Organization,IP_Count
 "AS262459","Osirnet Info Telecom Ltda.",8
 "AS27967","Gobernacion de la Provincia de Buenos Aires",8
 "AS2860","NOS COMUNICACOES, S.A.",8
+"AS30722","Vodafone Italia S.p.A.",8
 "AS328723","Telasera Technologies PTY LTD",8
 "AS38283","CHINANET SiChuan Telecom Internet Data Center",8
 "AS401152","Ace Data Centers II, L.L.C.",8
@@ -546,7 +547,6 @@ ASN,Organization,IP_Count
 "AS267507","SRX TECNOLOGIA DA INFORMACAO LTDA",7
 "AS269003","KIMNET SOLUCOES",7
 "AS27831","Colombia Móvil",7
-"AS30722","Vodafone Italia S.p.A.",7
 "AS31042","Serbia BroadBand-Srpske Kablovske mreze d.o.o.",7
 "AS31122","Digiweb ltd",7
 "AS3216","PJSC ""Vimpelcom""",7
