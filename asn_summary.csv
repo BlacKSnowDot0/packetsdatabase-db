@@ -7,7 +7,7 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",10587
 "AS14061","DigitalOcean, LLC",8283
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5947
+"AS16276","OVH SAS",5948
 "AS4134","Chinanet",5063
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4456
@@ -98,7 +98,7 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS12389","PJSC Rostelecom",208
-"AS29484","Ruhr-Universitaet Bochum",196
+"AS29484","Ruhr-Universitaet Bochum",197
 "AS12555","Data-center IMAQLIQ Ltd.",193
 "AS7552","Viettel Group",182
 "AS63199","CDS Global Cloud Co., Ltd",181
@@ -263,6 +263,7 @@ ASN,Organization,IP_Count
 "AS2200","Renater",26
 "AS23693","PT. Telekomunikasi Selular",26
 "AS271597","NEW LINK CONNECT",26
+"AS28546","Servnet Mexico, S.A. de C.V.",26
 "AS3209","Vodafone GmbH",26
 "AS329490","Promethean Consulting Limited",26
 "AS56067","Metrabyte Co.,Ltd",26
@@ -270,7 +271,6 @@ ASN,Organization,IP_Count
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",25
 "AS18881","TELEFÔNICA BRASIL S.A",25
 "AS24560","Bharti Airtel Limited",25
-"AS28546","Servnet Mexico, S.A. de C.V.",25
 "AS36947","Telecom Algeria",25
 "AS55836","Reliance Jio Infocomm Limited",25
 "AS58212","dataforest GmbH",25
