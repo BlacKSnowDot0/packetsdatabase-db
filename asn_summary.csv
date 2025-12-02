@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87802
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22145
-"AS398324","Censys, Inc.",14530
+"AS398324","Censys, Inc.",14531
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10597
 "AS14061","DigitalOcean, LLC",8295
@@ -231,6 +231,7 @@ ASN,Organization,IP_Count
 "AS9498","Bharti Airtel Limited",33
 "AS12912","T-Mobile Polska S.A.",32
 "AS204834","Shabakieh Isfahan Co PJSC",32
+"AS210509","Optimum Line for Internet Services Ltd.",32
 "AS21127","Joint Stock Company TransTeleCom",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
 "AS269193","Iktelecom Ltda",32
@@ -238,7 +239,6 @@ ASN,Organization,IP_Count
 "AS1241","RIPE Network Coordination Centre",31
 "AS17557","Pakistan Telecommuication company limited",31
 "AS202796","JSR IT B.V.",31
-"AS210509","Optimum Line for Internet Services Ltd.",31
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",31
 "AS329009","Spectrum Internet Service Ltd",31
 "AS8796","FD-298-8796",31
@@ -556,6 +556,7 @@ ASN,Organization,IP_Count
 "AS50923","Metroset Ltd.",7
 "AS55423","JasTel Network",7
 "AS58821","PT Lintas Jaringan Nusantara",7
+"AS59134","PT. Datacomm Diangraha",7
 "AS63023","GTHost",7
 "AS63838","Hengyang",7
 "AS8764","Telia Lietuva, AB",7
@@ -628,7 +629,6 @@ ASN,Organization,IP_Count
 "AS56971","CGI GLOBAL LIMITED",6
 "AS58495","PT Parsaoran Global Datatrans",6
 "AS58519","Cloud Computing Corporation",6
-"AS59134","PT. Datacomm Diangraha",6
 "AS6830","Liberty Global B.V.",6
 "AS8926","Moldtelecom SA",6
 "AS9873","Lao Telecommunication Public Company",6
@@ -1037,6 +1037,7 @@ ASN,Organization,IP_Count
 "AS8612","Tiscali Italia S.P.A.",3
 "AS9329","Sri Lanka Telecom Ltd",3
 "AS9381","HKBN Enterprise Solutions HK Limited",3
+"AS9506","Singapore Telecommunications Ltd, Magix Services",3
 "AS10030","Celcom Axiata Berhad",2
 "AS10036","DLIVE",2
 "AS10066","LG HelloVision Corp.",2
@@ -1506,7 +1507,6 @@ ASN,Organization,IP_Count
 "AS9146","BH Telecom d.d. Sarajevo",2
 "AS9319","HCN CHUNGBUK CABLE TV SYSTEMS",2
 "AS9336","XYZ Telecom Pty Ltd",2
-"AS9506","Singapore Telecommunications Ltd, Magix Services",2
 "AS9534","Maxis Broadband Sdn Bhd",2
 "AS963","N963",2
 "AS9790","Two Degrees Mobile Limited",2
