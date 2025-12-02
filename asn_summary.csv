@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87802
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22142
-"AS398324","Censys, Inc.",14522
+"AS398324","Censys, Inc.",14524
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10594
 "AS14061","DigitalOcean, LLC",8291
@@ -21,14 +21,14 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3232
 "AS8075","Microsoft Corporation",2839
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2690
+"AS6939","Hurricane Electric LLC",2692
 "AS142002","Scloud Pte Ltd",2564
-"AS23470","ReliableSite.Net LLC",2127
+"AS23470","ReliableSite.Net LLC",2128
 "AS9808","China Mobile",2082
 "AS202425","IP Volume inc",1848
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1542
-"AS32475","Internap Holding LLC",1474
+"AS32475","Internap Holding LLC",1476
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS36352","HostPapa",1431
 "AS398722","Censys, Inc.",1425
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",803
 "AS51167","Contabo GmbH",781
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
-"AS10439","CariNet, Inc.",698
+"AS10439","CariNet, Inc.",699
 "AS14618","Amazon.com, Inc.",679
 "AS4837","CHINA UNICOM China169 Backbone",599
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS12876","ONLINE S.A.S.",557
 "AS401120","cheapy.host LLC",557
-"AS51115","HLL LLC",546
+"AS51115","HLL LLC",547
 "AS198953","Proton66 OOO",527
 "AS53667","FranTech Solutions",515
 "AS140292","China Telecom",509
@@ -237,12 +237,12 @@ ASN,Organization,IP_Count
 "AS55990","Huawei Cloud Service data center",32
 "AS1241","RIPE Network Coordination Centre",31
 "AS17557","Pakistan Telecommuication company limited",31
+"AS202796","JSR IT B.V.",31
 "AS210509","Optimum Line for Internet Services Ltd.",31
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",31
 "AS329009","Spectrum Internet Service Ltd",31
 "AS8796","FD-298-8796",31
 "AS200593","PROSPERO OOO",30
-"AS202796","JSR IT B.V.",30
 "AS214417","Andrii Hrosh",30
 "AS4847","China Networks Inter-Exchange",30
 "AS55933","Cloudie Limited",30
@@ -272,6 +272,7 @@ ASN,Organization,IP_Count
 "AS18881","TELEFÔNICA BRASIL S.A",25
 "AS24560","Bharti Airtel Limited",25
 "AS36947","Telecom Algeria",25
+"AS4713","NTT Communications Corporation",25
 "AS55836","Reliance Jio Infocomm Limited",25
 "AS58212","dataforest GmbH",25
 "AS58224","Iran Telecommunication Company PJS",25
@@ -279,7 +280,6 @@ ASN,Organization,IP_Count
 "AS209","CenturyLink Communications, LLC",24
 "AS215762","Bullet Group LTD",24
 "AS24940","Hetzner Online GmbH",24
-"AS4713","NTT Communications Corporation",24
 "AS577","Bell Canada",24
 "AS60068","Datacamp Limited",24
 "AS8193","""Uzbektelekom"" Joint Stock Company",24
@@ -1066,6 +1066,7 @@ ASN,Organization,IP_Count
 "AS132525","China Mobile Communications Corporation",2
 "AS132768","Five network Broadband Solution Pvt Ltd",2
 "AS132787","Micronova Network Solutions Pvt. Ltd",2
+"AS13287","FALBOX S.L.",2
 "AS133676","Precious netcom pvt ltd",2
 "AS134033","Mithril Telecommunications Private Limited",2
 "AS134238","CHINANET Jiangx province IDC network",2
@@ -1528,6 +1529,7 @@ ASN,Organization,IP_Count
 "AS11259","Angola Telecom",1
 "AS11260","EastLink",1
 "AS11272","C Spire Fiber",1
+"AS11385","Luna USA, LLC",1
 "AS11404","Wave Broadband",1
 "AS11550","Smithville Digital, LLC",1
 "AS11650","Pioneer Long Distance Inc.",1
@@ -1574,7 +1576,6 @@ ASN,Organization,IP_Count
 "AS132652","PT. Cahaya Buana Raksa",1
 "AS132655","Sekretariat Jenderal Dewan Perwakilan Daerah Republik Indonesia",1
 "AS132770","Gazon Communications India Limited",1
-"AS13287","FALBOX S.L.",1
 "AS13296","INNOR Ltd.",1
 "AS133112","Spectra Technologies Limited",1
 "AS133255","Elxer Communications Private Limited",1
