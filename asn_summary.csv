@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87802
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22141
-"AS398324","Censys, Inc.",14520
+"AS398324","Censys, Inc.",14522
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10593
 "AS14061","DigitalOcean, LLC",8291
@@ -12,9 +12,9 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4456
 "AS16509","Amazon.com, Inc.",4348
-"AS45102","Alibaba (US) Technology Co., Ltd.",4079
+"AS45102","Alibaba (US) Technology Co., Ltd.",4080
 "AS396998","Path Network, Inc.",3992
-"AS0","",3682
+"AS0","",3699
 "AS63949","Akamai Technologies, Inc.",3641
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
@@ -23,9 +23,9 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2690
 "AS142002","Scloud Pte Ltd",2564
-"AS23470","ReliableSite.Net LLC",2126
+"AS23470","ReliableSite.Net LLC",2127
 "AS9808","China Mobile",2082
-"AS202425","IP Volume inc",1846
+"AS202425","IP Volume inc",1847
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1542
 "AS32475","Internap Holding LLC",1474
@@ -50,7 +50,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",836
 "AS8452","TE-AS",805
 "AS20052","Arbor Networks, Inc.",803
-"AS51167","Contabo GmbH",778
+"AS51167","Contabo GmbH",780
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
 "AS10439","CariNet, Inc.",698
 "AS14618","Amazon.com, Inc.",679
@@ -64,7 +64,7 @@ ASN,Organization,IP_Count
 "AS12876","ONLINE S.A.S.",555
 "AS51115","HLL LLC",546
 "AS198953","Proton66 OOO",527
-"AS53667","FranTech Solutions",514
+"AS53667","FranTech Solutions",515
 "AS140292","China Telecom",509
 "AS9829","Bharat Sanchar Nigam Ltd",501
 "AS50360","Tamatiya EOOD",492
