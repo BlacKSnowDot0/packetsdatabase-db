@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87802
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87803
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22147
-"AS398324","Censys, Inc.",14551
+"AS398324","Censys, Inc.",14552
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10600
-"AS14061","DigitalOcean, LLC",8297
+"AS14061","DigitalOcean, LLC",8298
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5957
 "AS4134","Chinanet",5063
@@ -157,9 +157,9 @@ ASN,Organization,IP_Count
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
 "AS215590","DpkgSoft International Limited",66
 "AS57588","Hayat for Internet & communication LLC",66
+"AS210644","AEZA INTERNATIONAL LTD",65
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
-"AS210644","AEZA INTERNATIONAL LTD",64
 "AS5650","Frontier Communications of America, Inc.",64
 "AS17378","TierPoint, LLC",63
 "AS6128","Cablevision Systems Corp.",63
@@ -180,7 +180,7 @@ ASN,Organization,IP_Count
 "AS213877","u1host ltd",54
 "AS30058","FDCservers.net",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
-"AS12816","Leibniz-Rechenzentrum",51
+"AS12816","Leibniz-Rechenzentrum",52
 "AS30633","Leaseweb USA, Inc.",50
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
@@ -2548,6 +2548,7 @@ ASN,Organization,IP_Count
 "AS31685","TOV Teleradiocompany ""TIM""",1
 "AS3170","VeloxServ Communications Ltd",1
 "AS31775","Greenlight Networks, LLC",1
+"AS32","Stanford University",1
 "AS32020","Transact Ltd.",1
 "AS32097","WholeSale Internet, Inc.",1
 "AS32133","Ting Fiber Inc.",1
