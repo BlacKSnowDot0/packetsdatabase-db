@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87802
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22142
-"AS398324","Censys, Inc.",14525
+"AS398324","Censys, Inc.",14527
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10595
 "AS14061","DigitalOcean, LLC",8291
@@ -21,11 +21,11 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3232
 "AS8075","Microsoft Corporation",2839
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2694
+"AS6939","Hurricane Electric LLC",2695
 "AS142002","Scloud Pte Ltd",2564
 "AS23470","ReliableSite.Net LLC",2128
 "AS9808","China Mobile",2082
-"AS202425","IP Volume inc",1848
+"AS202425","IP Volume inc",1849
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1543
 "AS32475","Internap Holding LLC",1476
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS51167","Contabo GmbH",781
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
 "AS10439","CariNet, Inc.",699
-"AS14618","Amazon.com, Inc.",679
+"AS14618","Amazon.com, Inc.",680
 "AS4837","CHINA UNICOM China169 Backbone",599
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",583
@@ -111,8 +111,8 @@ ASN,Organization,IP_Count
 "AS14956","RouterHosting LLC",138
 "AS34984","Superonline Iletisim Hizmetleri A.S.",132
 "AS13238","YANDEX LLC",129
+"AS6739","VODAFONE ONO, S.A.",129
 "AS137409","GSL Networks Pty LTD",128
-"AS6739","VODAFONE ONO, S.A.",128
 "AS19905","Neustar Security Services",127
 "AS36007","Kamatera, Inc.",122
 "AS151185","China Telecom",115
@@ -289,6 +289,7 @@ ASN,Organization,IP_Count
 "AS198037","SPACECORE SOLUTION LTD",23
 "AS62240","Clouvider Limited",23
 "AS7303","Telecom Argentina S.A.",23
+"AS852","TELUS Communications Inc.",23
 "AS16591","Google Fiber Inc.",22
 "AS17561","Larus Limited",22
 "AS213010","Gening Nikita Dmitrievich",22
@@ -298,7 +299,6 @@ ASN,Organization,IP_Count
 "AS5384","EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",22
 "AS63859","PT. Eka Mas Republik",22
 "AS7029","Windstream Communications LLC",22
-"AS852","TELUS Communications Inc.",22
 "AS12479","Orange Espagne SA",21
 "AS138886","PT Data Buana Nusantara",21
 "AS17816","China Unicom IP network China169 Guangdong province",21
