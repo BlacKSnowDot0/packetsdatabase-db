@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87802
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22146
-"AS398324","Censys, Inc.",14550
+"AS211298","Driftnet Ltd",22147
+"AS398324","Censys, Inc.",14551
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10600
 "AS14061","DigitalOcean, LLC",8297
@@ -709,6 +709,7 @@ ASN,Organization,IP_Count
 "AS4721","JCOM Co., Ltd.",5
 "AS47702","Teleradiocompany Discovery Ltd.",5
 "AS4780","Digital United Inc.",5
+"AS51604","JSC ""ER-Telecom Holding""",5
 "AS53062","GGNET TELECOM BACKBONE",5
 "AS53167","SEBRATEL TECNOLOGIA LTDA",5
 "AS5410","Bouygues Telecom SA",5
@@ -816,7 +817,6 @@ ASN,Organization,IP_Count
 "AS47898","NPK Home-Net Ltd.",4
 "AS50274","Alfanet LLC",4
 "AS50576","FREEWAY Plus LLC",4
-"AS51604","JSC ""ER-Telecom Holding""",4
 "AS51765","Oy Crea Nova Hosting Solution Ltd",4
 "AS52401","CABLESAT TV SRL",4
 "AS52777","BR27 Serviços de Tecnologia Ltda.",4
