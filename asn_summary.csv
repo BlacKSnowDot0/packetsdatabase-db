@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87803
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22147
-"AS398324","Censys, Inc.",14561
+"AS398324","Censys, Inc.",14563
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10601
 "AS14061","DigitalOcean, LLC",8301
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2564
 "AS23470","ReliableSite.Net LLC",2128
 "AS9808","China Mobile",2083
-"AS202425","IP Volume inc",1854
+"AS202425","IP Volume inc",1855
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1545
 "AS32475","Internap Holding LLC",1482
@@ -118,7 +118,7 @@ ASN,Organization,IP_Count
 "AS151185","China Telecom",115
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",107
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",108
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS47331","TTNet A.S.",104
@@ -2932,6 +2932,7 @@ ASN,Organization,IP_Count
 "AS57141","TELWAN SAS",1
 "AS57197","Shaporenko Yuri Nikolaevich",1
 "AS57227","Subnet LLC",1
+"AS5742","Consolidated Communications, Inc.",1
 "AS57630","84 Grams AB",1
 "AS57764","Flink Ltd.",1
 "AS57800","Cadr-TV LLE TVRC",1
