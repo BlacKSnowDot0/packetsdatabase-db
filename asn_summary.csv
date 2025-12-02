@@ -2,17 +2,17 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87803
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22147
-"AS398324","Censys, Inc.",14557
+"AS398324","Censys, Inc.",14559
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10601
-"AS14061","DigitalOcean, LLC",8299
+"AS14061","DigitalOcean, LLC",8301
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5957
+"AS16276","OVH SAS",5958
 "AS4134","Chinanet",5063
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4456
 "AS16509","Amazon.com, Inc.",4348
-"AS45102","Alibaba (US) Technology Co., Ltd.",4086
+"AS45102","Alibaba (US) Technology Co., Ltd.",4087
 "AS396998","Path Network, Inc.",3992
 "AS0","",3700
 "AS63949","Akamai Technologies, Inc.",3642
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS53667","FranTech Solutions",516
 "AS140292","China Telecom",509
-"AS9829","Bharat Sanchar Nigam Ltd",501
+"AS9829","Bharat Sanchar Nigam Ltd",502
 "AS50360","Tamatiya EOOD",492
 "AS212238","Datacamp Limited",466
 "AS21299","Kar-Tel LLC",406
@@ -109,7 +109,7 @@ ASN,Organization,IP_Count
 "AS262551","Farol Telecom",152
 "AS47105","Vault Dweller OU",141
 "AS14956","RouterHosting LLC",138
-"AS34984","Superonline Iletisim Hizmetleri A.S.",134
+"AS34984","Superonline Iletisim Hizmetleri A.S.",135
 "AS13238","YANDEX LLC",129
 "AS6739","VODAFONE ONO, S.A.",129
 "AS137409","GSL Networks Pty LTD",128
@@ -304,6 +304,7 @@ ASN,Organization,IP_Count
 "AS17816","China Unicom IP network China169 Guangdong province",21
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",21
 "AS214668","AxusHost B.V.",21
+"AS2914","NTT America, Inc.",21
 "AS3320","Deutsche Telekom AG",21
 "AS400536","Nodestop LLC",21
 "AS45758","Triple T Broadband Public Company Limited",21
@@ -319,7 +320,6 @@ ASN,Organization,IP_Count
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",20
 "AS24348","CERNET2 IX at Tsinghua University",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
-"AS2914","NTT America, Inc.",20
 "AS6181","Cincinnati Bell Telephone Company LLC",20
 "AS11426","Charter Communications Inc",19
 "AS12874","Fastweb SpA",19
