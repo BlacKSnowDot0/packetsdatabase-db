@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87802
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22145
-"AS398324","Censys, Inc.",14531
+"AS398324","Censys, Inc.",14533
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10597
+"AS396982","Google LLC",10598
 "AS14061","DigitalOcean, LLC",8295
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5952
@@ -86,7 +86,7 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",295
-"AS213613","BOTSHIELD LTD",291
+"AS213613","BOTSHIELD LTD",292
 "AS208843","Alpha Strike Labs GmbH",284
 "AS48090","TECHOFF SRV LIMITED",260
 "AS18403","FPT Telecom Company",257
@@ -474,6 +474,7 @@ ASN,Organization,IP_Count
 "AS17676","SoftBank Corp.",9
 "AS212504","AdKyNet SAS",9
 "AS213520","Senko Digital Ltd",9
+"AS214209","Internet Magnate (Pty) Ltd",9
 "AS214481","Wojciech Czapkowicz",9
 "AS24955","JSC ""Ufanet""",9
 "AS2516","KDDI CORPORATION",9
@@ -501,7 +502,6 @@ ASN,Organization,IP_Count
 "AS198361","Yaglom Labs Ltd",8
 "AS209956","Telkoturk Iletisim Hizmetleri A.S.",8
 "AS211507","Julian Achter",8
-"AS214209","Internet Magnate (Pty) Ltd",8
 "AS215730","H2NEXUS LTD",8
 "AS24086","Viettel Corporation",8
 "AS2527","Sony Network Communications Inc.",8
