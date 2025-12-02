@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87802
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22145
-"AS398324","Censys, Inc.",14543
+"AS398324","Censys, Inc.",14544
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10598
 "AS14061","DigitalOcean, LLC",8296
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4456
 "AS16509","Amazon.com, Inc.",4348
-"AS45102","Alibaba (US) Technology Co., Ltd.",4082
+"AS45102","Alibaba (US) Technology Co., Ltd.",4083
 "AS396998","Path Network, Inc.",3992
 "AS0","",3700
 "AS63949","Akamai Technologies, Inc.",3642
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS12876","ONLINE S.A.S.",558
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS51115","HLL LLC",549
+"AS51115","HLL LLC",550
 "AS198953","Proton66 OOO",527
 "AS53667","FranTech Solutions",516
 "AS140292","China Telecom",509
@@ -130,8 +130,8 @@ ASN,Organization,IP_Count
 "AS136435","ELITE COMMUNICATION",92
 "AS63018","Dedicated.com",92
 "AS210125","PRIAM NET Sh.p.k.",89
+"AS215240","Silent Connection Ltd.",89
 "AS28209","Under Servicos de Internet Ltda",89
-"AS215240","Silent Connection Ltd.",88
 "AS11320","LightEdge Solutions",85
 "AS58461","Chinanet",85
 "AS271795","SERVITELCONET CIA. LTDA.",83
@@ -258,6 +258,7 @@ ASN,Organization,IP_Count
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
 "AS53118","NETLINE TELECOM",27
+"AS56067","Metrabyte Co.,Ltd",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
 "AS9123","TimeWeb Ltd.",27
 "AS13213","UK-2 Limited",26
@@ -267,7 +268,6 @@ ASN,Organization,IP_Count
 "AS23693","PT. Telekomunikasi Selular",26
 "AS271597","NEW LINK CONNECT",26
 "AS3209","Vodafone GmbH",26
-"AS56067","Metrabyte Co.,Ltd",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS18881","TELEFÔNICA BRASIL S.A",25
 "AS24560","Bharti Airtel Limited",25
@@ -967,6 +967,7 @@ ASN,Organization,IP_Count
 "AS327813","VIDOLU Group Pty Ltd-Web4Africa",3
 "AS328073","Ion Telecom and Technology",3
 "AS32809","Dickey Rural Networks",3
+"AS329263","Libyan Spider for IT LTD.",3
 "AS3303","Swisscom (Schweiz) AG",3
 "AS33070","Rackspace Hosting",3
 "AS33567","Econet Telecom Lesotho (PTY) LTD",3
@@ -1333,7 +1334,6 @@ ASN,Organization,IP_Count
 "AS328282","TEOLIS SAU",2
 "AS328480","Too Much Wifi",2
 "AS328961","NET99 (PTY) LTD",2
-"AS329263","Libyan Spider for IT LTD.",2
 "AS33387","Nocix, LLC",2
 "AS33765","TANZANIA TELECOMMUNICATIONS CO. LTD",2
 "AS34123","Netorn LLC",2
