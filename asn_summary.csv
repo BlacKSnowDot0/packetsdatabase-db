@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87802
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22142
-"AS398324","Censys, Inc.",14524
+"AS398324","Censys, Inc.",14525
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10594
 "AS14061","DigitalOcean, LLC",8291
@@ -15,13 +15,13 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",4081
 "AS396998","Path Network, Inc.",3992
 "AS0","",3699
-"AS63949","Akamai Technologies, Inc.",3641
+"AS63949","Akamai Technologies, Inc.",3642
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3232
 "AS8075","Microsoft Corporation",2839
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2693
+"AS6939","Hurricane Electric LLC",2694
 "AS142002","Scloud Pte Ltd",2564
 "AS23470","ReliableSite.Net LLC",2128
 "AS9808","China Mobile",2082
@@ -131,7 +131,7 @@ ASN,Organization,IP_Count
 "AS63018","Dedicated.com",92
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS28209","Under Servicos de Internet Ltda",89
-"AS215240","Silent Connection Ltd.",86
+"AS215240","Silent Connection Ltd.",87
 "AS11320","LightEdge Solutions",85
 "AS58461","Chinanet",85
 "AS271795","SERVITELCONET CIA. LTDA.",83
