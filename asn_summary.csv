@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87802
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22146
-"AS398324","Censys, Inc.",14546
+"AS398324","Censys, Inc.",14547
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10598
-"AS14061","DigitalOcean, LLC",8296
+"AS14061","DigitalOcean, LLC",8297
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5955
 "AS4134","Chinanet",5063
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1410
 "AS13335","Cloudflare, Inc.",1360
 "AS215269","LAZYCLOUD LTD",1312
-"AS174","Cogent Communications",1225
+"AS174","Cogent Communications",1226
 "AS22552","eSited Solutions",1188
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
@@ -76,7 +76,7 @@ ASN,Organization,IP_Count
 "AS47890","UNMANAGED LTD",374
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",373
 "AS7713","Telekomunikasi Indonesia (PT)",366
-"AS21859","Zenlayer Inc",363
+"AS21859","Zenlayer Inc",364
 "AS7922","Comcast Cable Communications, LLC",349
 "AS8151","Uninet S.A. de C.V.",338
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
@@ -276,6 +276,7 @@ ASN,Organization,IP_Count
 "AS55836","Reliance Jio Infocomm Limited",25
 "AS58212","dataforest GmbH",25
 "AS58224","Iran Telecommunication Company PJS",25
+"AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",24
 "AS197540","netcup GmbH",24
 "AS209","CenturyLink Communications, LLC",24
 "AS215762","Bullet Group LTD",24
@@ -284,7 +285,6 @@ ASN,Organization,IP_Count
 "AS60068","Datacamp Limited",24
 "AS8193","""Uzbektelekom"" Joint Stock Company",24
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",24
-"AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",23
 "AS197309","RS-Media LLC",23
 "AS198037","SPACECORE SOLUTION LTD",23
 "AS62240","Clouvider Limited",23
@@ -486,6 +486,7 @@ ASN,Organization,IP_Count
 "AS4609","Companhia de Telecomunicacoes de Macau",9
 "AS46606","Unified Layer",9
 "AS48874","HOSTMAZE INC SRL-D",9
+"AS56694","LLC Smart Ape",9
 "AS8346","SONATEL-AS Autonomous System",9
 "AS9038","Batelco Jordan",9
 "AS11172","Alestra, S. de R.L. de C.V.",8
@@ -518,7 +519,6 @@ ASN,Organization,IP_Count
 "AS5483","Magyar Telekom plc.",8
 "AS56005","Zhengzhou Fastidc Technology Co.,Ltd.",8
 "AS56041","China Mobile Communications Corporation",8
-"AS56694","LLC Smart Ape",8
 "AS6698","Virtual Systems LLC",8
 "AS7418","TELEFÓNICA CHILE S.A.",8
 "AS8386","VODAFONE NET ILETISIM HIZMETLERI ANONIM SIRKETI",8
