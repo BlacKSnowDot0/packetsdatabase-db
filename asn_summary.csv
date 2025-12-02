@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87802
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22146
-"AS398324","Censys, Inc.",14547
+"AS398324","Censys, Inc.",14549
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10598
+"AS396982","Google LLC",10599
 "AS14061","DigitalOcean, LLC",8297
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5955
+"AS16276","OVH SAS",5957
 "AS4134","Chinanet",5063
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4456
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3232
-"AS8075","Microsoft Corporation",2839
+"AS8075","Microsoft Corporation",2840
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2698
 "AS142002","Scloud Pte Ltd",2564
@@ -54,7 +54,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
 "AS10439","CariNet, Inc.",699
 "AS14618","Amazon.com, Inc.",680
-"AS4837","CHINA UNICOM China169 Backbone",599
+"AS4837","CHINA UNICOM China169 Backbone",600
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",583
 "AS201814","MEVSPACE sp. z o.o.",566
@@ -1679,6 +1679,7 @@ ASN,Organization,IP_Count
 "AS139604","Arrow Net",1
 "AS139659","LUCIDACLOUD LIMITED",1
 "AS139820","HG TELECOMMUNICATION PRIVATE LIMITED",1
+"AS139831","DITO TELECOMMUNITY CORP.",1
 "AS139841","STAR COMMUNICATION",1
 "AS139870","BlueNet Communication JV ltd.",1
 "AS139879","Galaxy Broadband (pvt.) Ltd.",1
@@ -2290,6 +2291,7 @@ ASN,Organization,IP_Count
 "AS267464","SMARTLINK TECNOLOGIA EM INTERNET LTDA ME",1
 "AS267497","GL TELECOM LTDA - ME",1
 "AS267503","RCM TELECOM E INFORMATICA LTDA - ME",1
+"AS267531","MBN-INFORMATICA LTDA ME",1
 "AS267537","NETFLESH TELECOM E COM DE PROD DE INFORMAT LTDA-ME",1
 "AS267582","Simple Services Tecnologia Ltda - ME",1
 "AS267614","SIGAON SERVICOS TELECOMUNICACOES EIRELE",1
