@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87803
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22147
-"AS398324","Censys, Inc.",14563
+"AS211298","Driftnet Ltd",22149
+"AS398324","Censys, Inc.",14564
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10601
 "AS14061","DigitalOcean, LLC",8301
@@ -109,7 +109,7 @@ ASN,Organization,IP_Count
 "AS262551","Farol Telecom",152
 "AS47105","Vault Dweller OU",141
 "AS14956","RouterHosting LLC",138
-"AS34984","Superonline Iletisim Hizmetleri A.S.",135
+"AS34984","Superonline Iletisim Hizmetleri A.S.",136
 "AS13238","YANDEX LLC",129
 "AS6739","VODAFONE ONO, S.A.",129
 "AS137409","GSL Networks Pty LTD",128
@@ -407,6 +407,7 @@ ASN,Organization,IP_Count
 "AS17639","ComClark Network & Technology Corp",13
 "AS202520","SkyPass Solutions Sp. z.o.o.",13
 "AS213194","Nechaev Dmitry Sergeevich",13
+"AS213438","ColocaTel Inc.",13
 "AS25369","Hydra Communications Ltd",13
 "AS28840","PJSC ""TATTELECOM""",13
 "AS29465","MTN NIGERIA Communication limited",13
@@ -419,7 +420,6 @@ ASN,Organization,IP_Count
 "AS9770","LG HelloVision Corp.",13
 "AS1221","Telstra Limited",12
 "AS2116","GLOBALCONNECT AS",12
-"AS213438","ColocaTel Inc.",12
 "AS2637","Georgia Institute of Technology",12
 "AS272928","P&C ON LINE S.R.L. (NETWAY INTERNET)",12
 "AS35042","Layer7 Networks GmbH",12
@@ -630,6 +630,7 @@ ASN,Organization,IP_Count
 "AS56971","CGI GLOBAL LIMITED",6
 "AS58495","PT Parsaoran Global Datatrans",6
 "AS58519","Cloud Computing Corporation",6
+"AS64289","Macarne LLC",6
 "AS6830","Liberty Global B.V.",6
 "AS8926","Moldtelecom SA",6
 "AS9873","Lao Telecommunication Public Company",6
@@ -722,7 +723,6 @@ ASN,Organization,IP_Count
 "AS61135","COMNET BILGI ILETISIM TEKNOLOJILERI TICARET A.S.",5
 "AS61461","Airtek Solutions C.A.",5
 "AS63526","Systems Solutions & development Technologies Limited",5
-"AS64289","Macarne LLC",5
 "AS8345","JSC ""ER-Telecom Holding""",5
 "AS8359","MTS PJSC",5
 "AS8648","dogado GmbH",5
