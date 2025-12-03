@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87806
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22152
-"AS398324","Censys, Inc.",14587
+"AS398324","Censys, Inc.",14588
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10608
 "AS14061","DigitalOcean, LLC",8316
@@ -23,12 +23,12 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2704
 "AS142002","Scloud Pte Ltd",2568
-"AS23470","ReliableSite.Net LLC",2170
+"AS23470","ReliableSite.Net LLC",2180
 "AS9808","China Mobile",2083
 "AS202425","IP Volume inc",1861
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1545
-"AS32475","Internap Holding LLC",1490
+"AS32475","Internap Holding LLC",1491
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS36352","HostPapa",1432
 "AS398722","Censys, Inc.",1425
@@ -59,7 +59,7 @@ ASN,Organization,IP_Count
 "AS3462","Chunghwa Telecom Co., Ltd.",584
 "AS201814","MEVSPACE sp. z o.o.",568
 "AS9009","M247 Europe SRL",566
-"AS12876","ONLINE S.A.S.",561
+"AS12876","ONLINE S.A.S.",562
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS51115","HLL LLC",552
@@ -132,7 +132,7 @@ ASN,Organization,IP_Count
 "AS215240","Silent Connection Ltd.",91
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS28209","Under Servicos de Internet Ltda",89
-"AS11320","LightEdge Solutions",85
+"AS11320","LightEdge Solutions",86
 "AS58461","Chinanet",85
 "AS271795","SERVITELCONET CIA. LTDA.",83
 "AS16735","ALGAR TELECOM S/A",81
@@ -410,6 +410,7 @@ ASN,Organization,IP_Count
 "AS202520","SkyPass Solutions Sp. z.o.o.",13
 "AS213194","Nechaev Dmitry Sergeevich",13
 "AS25369","Hydra Communications Ltd",13
+"AS272928","P&C ON LINE S.R.L. (NETWAY INTERNET)",13
 "AS28840","PJSC ""TATTELECOM""",13
 "AS29465","MTN NIGERIA Communication limited",13
 "AS3243","MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.",13
@@ -422,7 +423,6 @@ ASN,Organization,IP_Count
 "AS1221","Telstra Limited",12
 "AS2116","GLOBALCONNECT AS",12
 "AS2637","Georgia Institute of Technology",12
-"AS272928","P&C ON LINE S.R.L. (NETWAY INTERNET)",12
 "AS35042","Layer7 Networks GmbH",12
 "AS35297","Dataline LLC",12
 "AS36992","ETISALAT MISR",12
