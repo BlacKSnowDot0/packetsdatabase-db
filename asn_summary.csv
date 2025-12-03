@@ -1,13 +1,13 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87803
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22149
-"AS398324","Censys, Inc.",14571
+"AS211298","Driftnet Ltd",22150
+"AS398324","Censys, Inc.",14572
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10603
-"AS14061","DigitalOcean, LLC",8303
+"AS14061","DigitalOcean, LLC",8311
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5961
+"AS16276","OVH SAS",5963
 "AS4134","Chinanet",5063
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4456
@@ -21,14 +21,14 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3233
 "AS8075","Microsoft Corporation",2840
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2698
+"AS6939","Hurricane Electric LLC",2699
 "AS142002","Scloud Pte Ltd",2568
 "AS23470","ReliableSite.Net LLC",2129
 "AS9808","China Mobile",2083
-"AS202425","IP Volume inc",1857
+"AS202425","IP Volume inc",1858
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1545
-"AS32475","Internap Holding LLC",1484
+"AS32475","Internap Holding LLC",1485
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS36352","HostPapa",1431
 "AS398722","Censys, Inc.",1425
@@ -77,7 +77,7 @@ ASN,Organization,IP_Count
 "AS47890","UNMANAGED LTD",374
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS21859","Zenlayer Inc",364
-"AS7922","Comcast Cable Communications, LLC",349
+"AS7922","Comcast Cable Communications, LLC",350
 "AS8151","Uninet S.A. de C.V.",338
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS214943","Railnet LLC",317
@@ -86,7 +86,7 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",295
-"AS213613","BOTSHIELD LTD",292
+"AS213613","BOTSHIELD LTD",293
 "AS208843","Alpha Strike Labs GmbH",284
 "AS48090","TECHOFF SRV LIMITED",260
 "AS18403","FPT Telecom Company",258
@@ -200,14 +200,14 @@ ASN,Organization,IP_Count
 "AS20473","The Constant Company, LLC",42
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS262378","Compuservice Empreendimentos Ltda",42
+"AS263025","ISPTEC Sistemas de Comunicação Eireli",42
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",42
 "AS7738","V tal",42
 "AS12322","Free SAS",41
 "AS21928","T-Mobile USA, Inc.",41
-"AS263025","ISPTEC Sistemas de Comunicação Eireli",41
 "AS23969","TOT Public Company Limited",40
+"AS27699","TELEFÔNICA BRASIL S.A",40
 "AS43641","SOLLUTIUM EU Sp z.o.o.",40
-"AS27699","TELEFÔNICA BRASIL S.A",39
 "AS8048","CANTV Servicios, Venezuela",39
 "AS26599","TELEFÔNICA BRASIL S.A",38
 "AS4538","China Education and Research Network Center",38
@@ -854,6 +854,7 @@ ASN,Organization,IP_Count
 "AS131602","Hsin Yeong An Cable TV Co., Ltd.",3
 "AS13194","UAB ""Bite Lietuva""",3
 "AS132637","PT BINA INFORMATIKA SOLUSI",3
+"AS13287","FALBOX S.L.",3
 "AS133278","Dehradun Enet Solutions Private Ltd",3
 "AS134032","INFONET COMM ENTERPRISES",3
 "AS134762","CHINANET Liaoning province Dalian MAN network",3
@@ -1068,7 +1069,6 @@ ASN,Organization,IP_Count
 "AS132525","China Mobile Communications Corporation",2
 "AS132768","Five network Broadband Solution Pvt Ltd",2
 "AS132787","Micronova Network Solutions Pvt. Ltd",2
-"AS13287","FALBOX S.L.",2
 "AS133676","Precious netcom pvt ltd",2
 "AS134033","Mithril Telecommunications Private Limited",2
 "AS134238","CHINANET Jiangx province IDC network",2
