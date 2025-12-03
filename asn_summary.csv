@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87806
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22152
-"AS398324","Censys, Inc.",14586
+"AS398324","Censys, Inc.",14587
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10608
 "AS14061","DigitalOcean, LLC",8316
@@ -19,11 +19,11 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3233
-"AS8075","Microsoft Corporation",2843
+"AS8075","Microsoft Corporation",2844
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2704
 "AS142002","Scloud Pte Ltd",2568
-"AS23470","ReliableSite.Net LLC",2160
+"AS23470","ReliableSite.Net LLC",2170
 "AS9808","China Mobile",2083
 "AS202425","IP Volume inc",1861
 "AS214295","SKYNET NETWORK LTD",1631
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1412
 "AS13335","Cloudflare, Inc.",1360
 "AS215269","LAZYCLOUD LTD",1312
-"AS174","Cogent Communications",1228
+"AS174","Cogent Communications",1229
 "AS22552","eSited Solutions",1188
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
@@ -129,7 +129,7 @@ ASN,Organization,IP_Count
 "AS205352","KABELNET LTD",93
 "AS136435","ELITE COMMUNICATION",92
 "AS63018","Dedicated.com",92
-"AS215240","Silent Connection Ltd.",90
+"AS215240","Silent Connection Ltd.",91
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS28209","Under Servicos de Internet Ltda",89
 "AS11320","LightEdge Solutions",85
