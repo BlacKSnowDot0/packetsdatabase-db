@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87804
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22150
-"AS398324","Censys, Inc.",14574
+"AS211298","Driftnet Ltd",22151
+"AS398324","Censys, Inc.",14578
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10606
 "AS14061","DigitalOcean, LLC",8311
@@ -219,10 +219,10 @@ ASN,Organization,IP_Count
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",36
 "AS42624","Global-Data System IT Corporation",36
 "AS44592","SkyLink Data Center BV",36
+"AS45090","Shenzhen Tencent Computer Systems Company Limited",36
 "AS149705","PT Wijaya Trimitra Indonesia",35
 "AS213790","Limited Network LTD",35
 "AS30083","velia.net",35
-"AS45090","Shenzhen Tencent Computer Systems Company Limited",35
 "AS4760","PCCW IMS Limited",35
 "AS146817","Hubei Feixun Network Co., Ltd",34
 "AS34665","Petersburg Internet Network ltd.",34
@@ -794,6 +794,7 @@ ASN,Organization,IP_Count
 "AS28787","Baku Telephone Communication LLC",4
 "AS29314","VECTRA S.A.",4
 "AS30619","TMCEL - Moçambique Telecom, SA",4
+"AS327813","VIDOLU Group Pty Ltd-Web4Africa",4
 "AS3301","Telia Company AB",4
 "AS3356","Level 3 Communications, Inc.",4
 "AS35104","Jusan Mobile JSC",4
@@ -966,7 +967,6 @@ ASN,Organization,IP_Count
 "AS31261","PJSC MegaFon",3
 "AS32613","Leaseweb Canada Inc.",3
 "AS327724","National Information Technology Authority Uganda",3
-"AS327813","VIDOLU Group Pty Ltd-Web4Africa",3
 "AS328073","Ion Telecom and Technology",3
 "AS32809","Dickey Rural Networks",3
 "AS329263","Libyan Spider for IT LTD.",3
