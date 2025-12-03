@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87804
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22152
-"AS398324","Censys, Inc.",14584
+"AS398324","Censys, Inc.",14585
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10607
+"AS396982","Google LLC",10608
 "AS14061","DigitalOcean, LLC",8315
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5964
@@ -23,7 +23,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2703
 "AS142002","Scloud Pte Ltd",2568
-"AS23470","ReliableSite.Net LLC",2150
+"AS23470","ReliableSite.Net LLC",2160
 "AS9808","China Mobile",2083
 "AS202425","IP Volume inc",1861
 "AS214295","SKYNET NETWORK LTD",1631
@@ -98,7 +98,7 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS12389","PJSC Rostelecom",210
-"AS29484","Ruhr-Universitaet Bochum",198
+"AS29484","Ruhr-Universitaet Bochum",199
 "AS12555","Data-center IMAQLIQ Ltd.",193
 "AS7552","Viettel Group",182
 "AS63199","CDS Global Cloud Co., Ltd",181
@@ -377,6 +377,7 @@ ASN,Organization,IP_Count
 "AS202448","MVPS LTD",15
 "AS20853","eTOP sp. z o.o.",15
 "AS211619","MAXKO d.o.o.",15
+"AS212027","Daniel Jackson",15
 "AS214309","Aurorix Gaming Solutions Limited",15
 "AS263767","CORPORACIÓN GALA IT, C.A.",15
 "AS272547","Servicos de Infraestrutura e Datacenter",15
@@ -1975,7 +1976,6 @@ ASN,Organization,IP_Count
 "AS211448","WEBCONEX SAS",1
 "AS211621","West-TV LLC",1
 "AS21183","Vodafone Albania Sh.A.",1
-"AS212027","Daniel Jackson",1
 "AS212271","Cinzia Tocci trading as C1V",1
 "AS212317","Hetzner Online GmbH",1
 "AS212463","FOP Polischyk O.V",1
