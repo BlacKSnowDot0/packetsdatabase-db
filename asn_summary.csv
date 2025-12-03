@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",4091
 "AS396998","Path Network, Inc.",3992
 "AS0","",3703
-"AS63949","Akamai Technologies, Inc.",3645
+"AS63949","Akamai Technologies, Inc.",3646
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3233
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1864
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1545
-"AS32475","Internap Holding LLC",1496
+"AS32475","Internap Holding LLC",1498
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS36352","HostPapa",1432
 "AS398722","Censys, Inc.",1427
@@ -733,6 +733,7 @@ ASN,Organization,IP_Count
 "AS12975","Palestine Telecommunications Company (PALTEL)",4
 "AS13110","INEA sp. z o.o.",4
 "AS131607","Digidom CableTV Co., LTD.",4
+"AS13287","FALBOX S.L.",4
 "AS135089","China Telecom",4
 "AS136009","SpeedNet",4
 "AS136121","PT Digital Media Telematika",4
@@ -830,6 +831,7 @@ ASN,Organization,IP_Count
 "AS57043","HOSTKEY B.V.",4
 "AS58369","PT. Fiber Networks Indonesia",4
 "AS59142","Pemerintah Kota Batam",4
+"AS59504","LLC Vpsville",4
 "AS60404","The Infrastructure Group B.V.",4
 "AS7482","Asia Pacific On-line Service Inc.",4
 "AS7545","TPG Internet Pty Ltd",4
@@ -857,7 +859,6 @@ ASN,Organization,IP_Count
 "AS131602","Hsin Yeong An Cable TV Co., Ltd.",3
 "AS13194","UAB ""Bite Lietuva""",3
 "AS132637","PT BINA INFORMATIKA SOLUSI",3
-"AS13287","FALBOX S.L.",3
 "AS133278","Dehradun Enet Solutions Private Ltd",3
 "AS134032","INFONET COMM ENTERPRISES",3
 "AS134762","CHINANET Liaoning province Dalian MAN network",3
@@ -1020,7 +1021,6 @@ ASN,Organization,IP_Count
 "AS56478","Hyperoptic Ltd",3
 "AS58715","Earth Telecommunication ( pvt ) Limited",3
 "AS59497","Buknet LLC",3
-"AS59504","LLC Vpsville",3
 "AS6057","Administracion Nacional de Telecomunicaciones",3
 "AS61112","AKILE LTD",3
 "AS61317","Hivelocity Inc",3
