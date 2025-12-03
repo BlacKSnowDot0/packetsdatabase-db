@@ -7,7 +7,7 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",10610
 "AS14061","DigitalOcean, LLC",8325
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5967
+"AS16276","OVH SAS",5968
 "AS4134","Chinanet",5064
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4456
@@ -45,7 +45,7 @@ ASN,Organization,IP_Count
 "AS208684","BHA CONSEIL SARL",1008
 "AS51852","Private Layer INC",907
 "AS9465","AGOTOZ PTE. LTD.",845
-"AS208046","ColocationX Ltd.",843
+"AS208046","ColocationX Ltd.",844
 "AS56042","China Mobile Communications Corporation",840
 "AS215925","VPSVAULT.HOST LTD",837
 "AS8452","TE-AS",805
@@ -108,7 +108,7 @@ ASN,Organization,IP_Count
 "AS206264","Amarutu Technology Ltd",153
 "AS262551","Farol Telecom",152
 "AS47105","Vault Dweller OU",141
-"AS14956","RouterHosting LLC",138
+"AS14956","RouterHosting LLC",139
 "AS34984","Superonline Iletisim Hizmetleri A.S.",136
 "AS13238","YANDEX LLC",130
 "AS6739","VODAFONE ONO, S.A.",130
@@ -124,10 +124,10 @@ ASN,Organization,IP_Count
 "AS47331","TTNet A.S.",104
 "AS8560","IONOS SE",100
 "AS199785","Cloud Hosting Solutions, Limited.",99
+"AS4766","Korea Telecom",99
 "AS40021","Nubes, LLC",98
-"AS4766","Korea Telecom",98
+"AS215240","Silent Connection Ltd.",94
 "AS205352","KABELNET LTD",93
-"AS215240","Silent Connection Ltd.",93
 "AS136435","ELITE COMMUNICATION",92
 "AS63018","Dedicated.com",92
 "AS28209","Under Servicos de Internet Ltda",90
@@ -453,6 +453,7 @@ ASN,Organization,IP_Count
 "AS58563","CHINANET Hubei province network",11
 "AS149359","PT Persada Data Multimedia",10
 "AS153443","VPSRE.NET LLC",10
+"AS214209","Internet Magnate (Pty) Ltd",10
 "AS24835","Vodafone Data - Egypt",10
 "AS25019","Saudi Telecom Company JSC",10
 "AS264628","CORPORACION FIBEX TELECOM, C.A.",10
@@ -475,7 +476,6 @@ ASN,Organization,IP_Count
 "AS17676","SoftBank Corp.",9
 "AS212504","AdKyNet SAS",9
 "AS213520","Senko Digital Ltd",9
-"AS214209","Internet Magnate (Pty) Ltd",9
 "AS214481","Wojciech Czapkowicz",9
 "AS24955","JSC ""Ufanet""",9
 "AS2516","KDDI CORPORATION",9
