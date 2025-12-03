@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87807
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22155
-"AS398324","Censys, Inc.",14595
+"AS398324","Censys, Inc.",14597
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10608
-"AS14061","DigitalOcean, LLC",8320
+"AS396982","Google LLC",10609
+"AS14061","DigitalOcean, LLC",8322
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5964
+"AS16276","OVH SAS",5965
 "AS4134","Chinanet",5064
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4456
@@ -23,9 +23,9 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2707
 "AS142002","Scloud Pte Ltd",2568
-"AS23470","ReliableSite.Net LLC",2219
+"AS23470","ReliableSite.Net LLC",2229
 "AS9808","China Mobile",2083
-"AS202425","IP Volume inc",1863
+"AS202425","IP Volume inc",1864
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1545
 "AS32475","Internap Holding LLC",1495
@@ -130,8 +130,8 @@ ASN,Organization,IP_Count
 "AS136435","ELITE COMMUNICATION",92
 "AS215240","Silent Connection Ltd.",92
 "AS63018","Dedicated.com",92
+"AS28209","Under Servicos de Internet Ltda",90
 "AS210125","PRIAM NET Sh.p.k.",89
-"AS28209","Under Servicos de Internet Ltda",89
 "AS11320","LightEdge Solutions",87
 "AS58461","Chinanet",85
 "AS271795","SERVITELCONET CIA. LTDA.",83
