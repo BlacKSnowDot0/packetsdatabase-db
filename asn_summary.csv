@@ -2,24 +2,24 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87803
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22150
-"AS398324","Censys, Inc.",14572
+"AS398324","Censys, Inc.",14573
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10603
+"AS396982","Google LLC",10604
 "AS14061","DigitalOcean, LLC",8311
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5963
-"AS4134","Chinanet",5063
+"AS4134","Chinanet",5064
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4456
 "AS16509","Amazon.com, Inc.",4348
-"AS45102","Alibaba (US) Technology Co., Ltd.",4088
+"AS45102","Alibaba (US) Technology Co., Ltd.",4089
 "AS396998","Path Network, Inc.",3992
 "AS0","",3700
-"AS63949","Akamai Technologies, Inc.",3642
+"AS63949","Akamai Technologies, Inc.",3643
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3233
-"AS8075","Microsoft Corporation",2840
+"AS8075","Microsoft Corporation",2841
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2699
 "AS142002","Scloud Pte Ltd",2568
@@ -125,7 +125,7 @@ ASN,Organization,IP_Count
 "AS8560","IONOS SE",100
 "AS199785","Cloud Hosting Solutions, Limited.",99
 "AS40021","Nubes, LLC",97
-"AS4766","Korea Telecom",96
+"AS4766","Korea Telecom",97
 "AS205352","KABELNET LTD",93
 "AS136435","ELITE COMMUNICATION",92
 "AS63018","Dedicated.com",92
@@ -270,6 +270,7 @@ ASN,Organization,IP_Count
 "AS3209","Vodafone GmbH",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS18881","TELEFÔNICA BRASIL S.A",25
+"AS215762","Bullet Group LTD",25
 "AS24560","Bharti Airtel Limited",25
 "AS36947","Telecom Algeria",25
 "AS4713","NTT Communications Corporation",25
@@ -279,7 +280,6 @@ ASN,Organization,IP_Count
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",24
 "AS197540","netcup GmbH",24
 "AS209","CenturyLink Communications, LLC",24
-"AS215762","Bullet Group LTD",24
 "AS24940","Hetzner Online GmbH",24
 "AS577","Bell Canada",24
 "AS60068","Datacamp Limited",24
@@ -362,6 +362,7 @@ ASN,Organization,IP_Count
 "AS25198","INTERKVM HOST SRL",16
 "AS3215","Orange S.A.",16
 "AS328539","Giga for Telecommunication and Technology Limited",16
+"AS39351","31173 Services AB",16
 "AS46261","QuickPacket, LLC",16
 "AS6597","Coloblox Data Centers Inc",16
 "AS1267","RIPE Network Coordination Centre",15
@@ -382,7 +383,6 @@ ASN,Organization,IP_Count
 "AS28126","BRISANET SERVICOS DE TELECOMUNICACOES LTDA",15
 "AS28201","Companhia Itabirana Telecomunicações Ltda",15
 "AS31113","Artkomm LLC",15
-"AS39351","31173 Services AB",15
 "AS397283","RocketNode Inc",15
 "AS48282","Hosting technology LTD",15
 "AS60781","LeaseWeb Netherlands B.V.",15
