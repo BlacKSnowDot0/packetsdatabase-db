@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87804
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22151
+"AS211298","Driftnet Ltd",22152
 "AS398324","Censys, Inc.",14582
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10607
-"AS14061","DigitalOcean, LLC",8313
+"AS14061","DigitalOcean, LLC",8314
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5964
 "AS4134","Chinanet",5064
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1860
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1545
-"AS32475","Internap Holding LLC",1487
+"AS32475","Internap Holding LLC",1488
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS36352","HostPapa",1432
 "AS398722","Censys, Inc.",1425
@@ -59,7 +59,7 @@ ASN,Organization,IP_Count
 "AS3462","Chunghwa Telecom Co., Ltd.",584
 "AS201814","MEVSPACE sp. z o.o.",568
 "AS9009","M247 Europe SRL",566
-"AS12876","ONLINE S.A.S.",560
+"AS12876","ONLINE S.A.S.",561
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS51115","HLL LLC",552
@@ -73,7 +73,7 @@ ASN,Organization,IP_Count
 "AS24186","RailTel Corporation of India Ltd.",406
 "AS7018","AT&T Enterprises, LLC",392
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",375
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",376
 "AS47890","UNMANAGED LTD",374
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS21859","Zenlayer Inc",364
@@ -1334,6 +1334,7 @@ ASN,Organization,IP_Count
 "AS328282","TEOLIS SAU",2
 "AS328480","Too Much Wifi",2
 "AS328961","NET99 (PTY) LTD",2
+"AS3302","Retelit Digital Services S.p.A.",2
 "AS33387","Nocix, LLC",2
 "AS33765","TANZANIA TELECOMMUNICATIONS CO. LTD",2
 "AS34123","Netorn LLC",2
@@ -2578,7 +2579,6 @@ ASN,Organization,IP_Count
 "AS329219","Fenix S.L.",1
 "AS329360","iiNet Connect Pty Ltd",1
 "AS329387","Skylink Networks LTD",1
-"AS3302","Retelit Digital Services S.p.A.",1
 "AS33182","HostDime.com, Inc.",1
 "AS3339","FIBRAWORLD TELECOM S.A.U.",1
 "AS33541","Cable Cable Inc",1
