@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87804
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22152
-"AS398324","Censys, Inc.",14585
+"AS398324","Censys, Inc.",14586
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10608
-"AS14061","DigitalOcean, LLC",8315
+"AS14061","DigitalOcean, LLC",8316
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5964
 "AS4134","Chinanet",5064
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3233
 "AS8075","Microsoft Corporation",2843
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2703
+"AS6939","Hurricane Electric LLC",2704
 "AS142002","Scloud Pte Ltd",2568
 "AS23470","ReliableSite.Net LLC",2160
 "AS9808","China Mobile",2083
@@ -73,7 +73,7 @@ ASN,Organization,IP_Count
 "AS24186","RailTel Corporation of India Ltd.",406
 "AS7018","AT&T Enterprises, LLC",392
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",376
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",377
 "AS47890","UNMANAGED LTD",374
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS21859","Zenlayer Inc",364
@@ -304,6 +304,7 @@ ASN,Organization,IP_Count
 "AS17816","China Unicom IP network China169 Guangdong province",21
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",21
 "AS214668","AxusHost B.V.",21
+"AS24348","CERNET2 IX at Tsinghua University",21
 "AS2914","NTT America, Inc.",21
 "AS3320","Deutsche Telekom AG",21
 "AS400536","Nodestop LLC",21
@@ -318,7 +319,6 @@ ASN,Organization,IP_Count
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",20
-"AS24348","CERNET2 IX at Tsinghua University",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS6181","Cincinnati Bell Telephone Company LLC",20
 "AS11426","Charter Communications Inc",19
