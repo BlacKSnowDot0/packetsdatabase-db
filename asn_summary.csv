@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87806
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22152
-"AS398324","Censys, Inc.",14590
+"AS211298","Driftnet Ltd",22155
+"AS398324","Censys, Inc.",14591
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10608
-"AS14061","DigitalOcean, LLC",8316
+"AS14061","DigitalOcean, LLC",8317
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5964
 "AS4134","Chinanet",5064
@@ -23,7 +23,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2705
 "AS142002","Scloud Pte Ltd",2568
-"AS23470","ReliableSite.Net LLC",2189
+"AS23470","ReliableSite.Net LLC",2199
 "AS9808","China Mobile",2083
 "AS202425","IP Volume inc",1861
 "AS214295","SKYNET NETWORK LTD",1631
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS51167","Contabo GmbH",786
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
 "AS10439","CariNet, Inc.",701
-"AS14618","Amazon.com, Inc.",680
+"AS14618","Amazon.com, Inc.",681
 "AS4837","CHINA UNICOM China169 Backbone",600
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",584
@@ -110,7 +110,7 @@ ASN,Organization,IP_Count
 "AS47105","Vault Dweller OU",141
 "AS14956","RouterHosting LLC",138
 "AS34984","Superonline Iletisim Hizmetleri A.S.",136
-"AS13238","YANDEX LLC",129
+"AS13238","YANDEX LLC",130
 "AS6739","VODAFONE ONO, S.A.",129
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
@@ -250,10 +250,10 @@ ASN,Organization,IP_Count
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS141679","China Telecom",28
+"AS28546","Servnet Mexico, S.A. de C.V.",28
 "AS30860","Virtual Systems LLC",28
 "AS3269","Telecom Italia S.p.A.",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
-"AS28546","Servnet Mexico, S.A. de C.V.",27
 "AS329490","Promethean Consulting Limited",27
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
@@ -1507,6 +1507,7 @@ ASN,Organization,IP_Count
 "AS9070","""Cooolbox"" AD",2
 "AS9105","TalkTalk Communications Limited",2
 "AS9146","BH Telecom d.d. Sarajevo",2
+"AS9232","Cloud Information Technology (Intl) Telecom Group LIMITED",2
 "AS9319","HCN CHUNGBUK CABLE TV SYSTEMS",2
 "AS9336","XYZ Telecom Pty Ltd",2
 "AS9534","Maxis Broadband Sdn Bhd",2
@@ -3048,7 +3049,6 @@ ASN,Organization,IP_Count
 "AS9129","MTN Business Kenya",1
 "AS9155","Quality Net General Trading & Contracting Company",1
 "AS9228","PT. Total Info Kharisma",1
-"AS9232","Cloud Information Technology (Intl) Telecom Group LIMITED",1
 "AS9303","The Digital Lab 2007 Limited",1
 "AS932","XNNET LLC",1
 "AS9371","SAKURA Internet Inc.",1
