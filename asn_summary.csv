@@ -23,7 +23,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2711
 "AS142002","Scloud Pte Ltd",2568
-"AS23470","ReliableSite.Net LLC",2231
+"AS23470","ReliableSite.Net LLC",2232
 "AS9808","China Mobile",2083
 "AS202425","IP Volume inc",1866
 "AS214295","SKYNET NETWORK LTD",1631
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS48925","VibeGAMES B.V.",1425
 "AS13335","Cloudflare, Inc.",1360
 "AS215269","LAZYCLOUD LTD",1312
-"AS174","Cogent Communications",1229
+"AS174","Cogent Communications",1230
 "AS22552","eSited Solutions",1188
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
@@ -184,12 +184,12 @@ ASN,Organization,IP_Count
 "AS30633","Leaseweb USA, Inc.",51
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
+"AS200590","NLS Kazakhstan LLC",47
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",47
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",47
 "AS10796","Charter Communications Inc",46
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
-"AS200590","NLS Kazakhstan LLC",46
 "AS141995","Contabo Asia Private Limited",45
 "AS46475","Limestone Networks, Inc.",45
 "AS210558","1337 Services GmbH",44
@@ -393,6 +393,7 @@ ASN,Organization,IP_Count
 "AS11232","Midcontinent Communications",14
 "AS12400","Partner Communications Ltd.",14
 "AS17621","China Unicom Shanghai network",14
+"AS17639","ComClark Network & Technology Corp",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS213438","ColocaTel Inc.",14
 "AS27947","Telconet S.A",14
@@ -407,7 +408,6 @@ ASN,Organization,IP_Count
 "AS137718","Beijing Volcano Engine Technology Co., Ltd.",13
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",13
 "AS15895","""Kyivstar"" PJSC",13
-"AS17639","ComClark Network & Technology Corp",13
 "AS202520","SkyPass Solutions Sp. z.o.o.",13
 "AS213194","Nechaev Dmitry Sergeevich",13
 "AS25369","Hydra Communications Ltd",13
@@ -690,6 +690,7 @@ ASN,Organization,IP_Count
 "AS30036","Mediacom Communications Corp",5
 "AS30753","FHU ""COMPOWER"" Dariusz Krocz",5
 "AS31133","PJSC MegaFon",5
+"AS32613","Leaseweb Canada Inc.",5
 "AS328510","Ikeja Wireless (Pty) Ltd",5
 "AS329244","Connect, Surf and Smile Limited",5
 "AS3326","PRIVATE JOINT STOCK COMPANY ""DATAGROUP""",5
@@ -797,7 +798,6 @@ ASN,Organization,IP_Count
 "AS28787","Baku Telephone Communication LLC",4
 "AS29314","VECTRA S.A.",4
 "AS30619","TMCEL - Moçambique Telecom, SA",4
-"AS32613","Leaseweb Canada Inc.",4
 "AS327813","VIDOLU Group Pty Ltd-Web4Africa",4
 "AS3301","Telia Company AB",4
 "AS3356","Level 3 Communications, Inc.",4
