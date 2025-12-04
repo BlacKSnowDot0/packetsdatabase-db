@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2568
 "AS23470","ReliableSite.Net LLC",2232
 "AS9808","China Mobile",2083
-"AS202425","IP Volume inc",1866
+"AS202425","IP Volume inc",1867
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1545
 "AS32475","Internap Holding LLC",1499
@@ -48,8 +48,8 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",844
 "AS56042","China Mobile Communications Corporation",840
 "AS215925","VPSVAULT.HOST LTD",837
+"AS20052","Arbor Networks, Inc.",805
 "AS8452","TE-AS",805
-"AS20052","Arbor Networks, Inc.",804
 "AS51167","Contabo GmbH",789
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
 "AS10439","CariNet, Inc.",701
@@ -59,7 +59,7 @@ ASN,Organization,IP_Count
 "AS3462","Chunghwa Telecom Co., Ltd.",584
 "AS201814","MEVSPACE sp. z o.o.",568
 "AS9009","M247 Europe SRL",567
-"AS12876","ONLINE S.A.S.",563
+"AS12876","ONLINE S.A.S.",564
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS51115","HLL LLC",552
@@ -446,6 +446,7 @@ ASN,Organization,IP_Count
 "AS206804","EstNOC OY",11
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
 "AS24547","China Mobile",11
+"AS29302","Hosting Services Inc",11
 "AS37611","Afrihost (Pty) Ltd",11
 "AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",11
 "AS44901","Belcloud LTD",11
@@ -457,7 +458,6 @@ ASN,Organization,IP_Count
 "AS24835","Vodafone Data - Egypt",10
 "AS25019","Saudi Telecom Company JSC",10
 "AS264628","CORPORACION FIBEX TELECOM, C.A.",10
-"AS29302","Hosting Services Inc",10
 "AS328471","HERO TELECOMS (PTY) LTD",10
 "AS36903","Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",10
 "AS37705","TOPNET",10
@@ -639,6 +639,7 @@ ASN,Organization,IP_Count
 "AS10429","TELEFÔNICA BRASIL S.A",5
 "AS11492","CABLE ONE, INC.",5
 "AS12714","PJSC MegaFon",5
+"AS12975","Palestine Telecommunications Company (PALTEL)",5
 "AS131090","CAT Telecom Public Company Limited",5
 "AS131267","Star Telecom",5
 "AS13188","CONTENT DELIVERY NETWORK LTD",5
@@ -731,7 +732,6 @@ ASN,Organization,IP_Count
 "AS9416","Hoshin Multimedia Center Inc.",5
 "AS9674","Far EastTone Telecommunication Co., Ltd.",5
 "AS12430","VODAFONE ESPANA S.A.U.",4
-"AS12975","Palestine Telecommunications Company (PALTEL)",4
 "AS13110","INEA sp. z o.o.",4
 "AS131607","Digidom CableTV Co., LTD.",4
 "AS13287","FALBOX S.L.",4
