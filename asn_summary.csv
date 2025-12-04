@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22159
 "AS398324","Censys, Inc.",14627
 "AS32934","Facebook, Inc.",12868
-"AS396982","Google LLC",10617
+"AS396982","Google LLC",10618
 "AS14061","DigitalOcean, LLC",8336
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5970
@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",4104
 "AS396998","Path Network, Inc.",3992
 "AS0","",3704
-"AS63949","Akamai Technologies, Inc.",3647
+"AS63949","Akamai Technologies, Inc.",3648
 "AS15169","Google LLC",3419
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3233
@@ -293,6 +293,7 @@ ASN,Organization,IP_Count
 "AS16591","Google Fiber Inc.",22
 "AS17561","Larus Limited",22
 "AS213010","Gening Nikita Dmitrievich",22
+"AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",22
 "AS41745","Baykov Ilya Sergeevich",22
 "AS43289","Trabia SRL",22
 "AS51430","AltusHost B.V.",22
@@ -302,7 +303,6 @@ ASN,Organization,IP_Count
 "AS12479","Orange Espagne SA",21
 "AS138886","PT Data Buana Nusantara",21
 "AS17816","China Unicom IP network China169 Guangdong province",21
-"AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",21
 "AS214668","AxusHost B.V.",21
 "AS24348","CERNET2 IX at Tsinghua University",21
 "AS2914","NTT America, Inc.",21
@@ -462,6 +462,7 @@ ASN,Organization,IP_Count
 "AS328471","HERO TELECOMS (PTY) LTD",10
 "AS36903","Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",10
 "AS37705","TOPNET",10
+"AS401152","Ace Data Centers II, L.L.C.",10
 "AS41420","Xentech B.V.",10
 "AS47524","Turksat Uydu Haberlesme ve Kablo TV Isletme A.S.",10
 "AS49434","FBW NETWORKS SAS",10
@@ -483,7 +484,6 @@ ASN,Organization,IP_Count
 "AS266702","MEGALINK S.R.L.",9
 "AS267280","YELLOW CONNECT MULTIMIDIA LTDA ME",9
 "AS38880","Micron21 Datacentre Pty Ltd",9
-"AS401152","Ace Data Centers II, L.L.C.",9
 "AS40244","Turnkey Internet Inc.",9
 "AS4609","Companhia de Telecomunicacoes de Macau",9
 "AS46606","Unified Layer",9
