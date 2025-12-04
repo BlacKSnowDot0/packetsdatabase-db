@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87808
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22159
-"AS398324","Censys, Inc.",14631
+"AS398324","Censys, Inc.",14632
 "AS32934","Facebook, Inc.",12868
-"AS396982","Google LLC",10620
+"AS396982","Google LLC",10621
 "AS14061","DigitalOcean, LLC",8336
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5977
@@ -246,11 +246,11 @@ ASN,Organization,IP_Count
 "AS214417","Andrii Hrosh",30
 "AS4847","China Networks Inter-Exchange",30
 "AS55933","Cloudie Limited",30
+"AS13213","UK-2 Limited",29
 "AS28546","Servnet Mexico, S.A. de C.V.",29
 "AS6134","XNNET LLC",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
-"AS13213","UK-2 Limited",28
 "AS141679","China Telecom",28
 "AS30860","Virtual Systems LLC",28
 "AS3269","Telecom Italia S.p.A.",28
@@ -332,6 +332,7 @@ ASN,Organization,IP_Count
 "AS22927","Telefonica de Argentina",19
 "AS24151","China Internet Network Infomation Center",19
 "AS262287","Maxihost LTDA",19
+"AS30823","aurologic GmbH",19
 "AS3257","GTT Communications Inc.",19
 "AS40676","Psychz Networks",19
 "AS49531","""NetCom-R"" LLC",19
@@ -340,7 +341,6 @@ ASN,Organization,IP_Count
 "AS11878","tzulo, inc.",18
 "AS18049","Taiwan Infrastructure Network Technologie",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
-"AS30823","aurologic GmbH",18
 "AS39603","P4 Sp. z o.o.",18
 "AS400655","NixLabs Networks",18
 "AS136958","China Unicom Guangdong IP network",17
