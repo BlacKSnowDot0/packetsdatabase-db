@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87807
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22158
-"AS398324","Censys, Inc.",14611
-"AS32934","Facebook, Inc.",12517
-"AS396982","Google LLC",10613
+"AS398324","Censys, Inc.",14612
+"AS32934","Facebook, Inc.",12671
+"AS396982","Google LLC",10614
 "AS14061","DigitalOcean, LLC",8329
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5969
@@ -16,14 +16,14 @@ ASN,Organization,IP_Count
 "AS396998","Path Network, Inc.",3992
 "AS0","",3703
 "AS63949","Akamai Technologies, Inc.",3646
-"AS15169","Google LLC",3365
+"AS15169","Google LLC",3367
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3233
 "AS8075","Microsoft Corporation",2847
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2711
 "AS142002","Scloud Pte Ltd",2568
-"AS23470","ReliableSite.Net LLC",2232
+"AS23470","ReliableSite.Net LLC",2245
 "AS9808","China Mobile",2083
 "AS202425","IP Volume inc",1867
 "AS214295","SKYNET NETWORK LTD",1631
@@ -48,7 +48,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",844
 "AS56042","China Mobile Communications Corporation",840
 "AS215925","VPSVAULT.HOST LTD",837
-"AS20052","Arbor Networks, Inc.",806
+"AS20052","Arbor Networks, Inc.",807
 "AS8452","TE-AS",805
 "AS51167","Contabo GmbH",789
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
@@ -190,8 +190,8 @@ ASN,Organization,IP_Count
 "AS10796","Charter Communications Inc",46
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
+"AS46475","Limestone Networks, Inc.",46
 "AS141995","Contabo Asia Private Limited",45
-"AS46475","Limestone Networks, Inc.",45
 "AS210558","1337 Services GmbH",44
 "AS396356","Latitude.sh",44
 "AS42708","GleSYS AB",44
