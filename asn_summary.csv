@@ -7,7 +7,7 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",10618
 "AS14061","DigitalOcean, LLC",8336
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5970
+"AS16276","OVH SAS",5971
 "AS4134","Chinanet",5064
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4456
@@ -23,7 +23,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2714
 "AS142002","Scloud Pte Ltd",2568
-"AS23470","ReliableSite.Net LLC",2245
+"AS23470","ReliableSite.Net LLC",2246
 "AS9808","China Mobile",2083
 "AS202425","IP Volume inc",1871
 "AS214295","SKYNET NETWORK LTD",1631
@@ -90,7 +90,7 @@ ASN,Organization,IP_Count
 "AS208843","Alpha Strike Labs GmbH",285
 "AS48090","TECHOFF SRV LIMITED",260
 "AS18403","FPT Telecom Company",258
-"AS141718","haoxiangyun",251
+"AS141718","haoxiangyun",252
 "AS60223","Netiface Limited",250
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",226
@@ -246,12 +246,12 @@ ASN,Organization,IP_Count
 "AS214417","Andrii Hrosh",30
 "AS4847","China Networks Inter-Exchange",30
 "AS55933","Cloudie Limited",30
+"AS28546","Servnet Mexico, S.A. de C.V.",29
 "AS6134","XNNET LLC",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS13213","UK-2 Limited",28
 "AS141679","China Telecom",28
-"AS28546","Servnet Mexico, S.A. de C.V.",28
 "AS30860","Virtual Systems LLC",28
 "AS3269","Telecom Italia S.p.A.",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
@@ -1290,6 +1290,7 @@ ASN,Organization,IP_Count
 "AS270020","T.V. SANV S A S (ALPAVISION HD)",2
 "AS270161","Cablevision Red, S.A de C.V.",2
 "AS270581","JET NETWORK TELECOMUNICAÇÃO LTDA",2
+"AS270605","Agatha.net Informatica EIRELI",2
 "AS270961","SIM INTERNET PROVEDORES DE INTERNET EIRELI.",2
 "AS271187","Garbin Center Informatica Ltda Me",2
 "AS271907","COLNETWORK C.A.",2
@@ -1984,6 +1985,7 @@ ASN,Organization,IP_Count
 "AS212531","UAB ""Interneto vizija""",1
 "AS212555","Remicro Kft.",1
 "AS212616","K.M.A ADVANCED TECHNOLOGIES LTD",1
+"AS212815","Dyjix SAS",1
 "AS21283","A1 Slovenija telekomunikacijske storitve,d.d.",1
 "AS212983","METANNET LLC",1
 "AS213230","Hetzner Online GmbH",1
@@ -2403,7 +2405,6 @@ ASN,Organization,IP_Count
 "AS270484","M DOS SANTOS ALVES SERVICO DE INTERNET - ME",1
 "AS270512","Nw3 telecomunicações Ltda",1
 "AS270540","WEBNET Telecom",1
-"AS270605","Agatha.net Informatica EIRELI",1
 "AS270610","WORK INTERNET",1
 "AS270641","YAS TELECOMUNICACOES EIRELI",1
 "AS270646","LONDRINET TELECOMUNICACOES LTDA",1
