@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87808
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22159
-"AS398324","Censys, Inc.",14628
+"AS398324","Censys, Inc.",14629
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10619
 "AS14061","DigitalOcean, LLC",8336
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4366
 "AS45102","Alibaba (US) Technology Co., Ltd.",4104
 "AS396998","Path Network, Inc.",3992
-"AS0","",3704
+"AS0","",3705
 "AS63949","Akamai Technologies, Inc.",3648
 "AS15169","Google LLC",3419
 "AS398705","Censys, Inc.",3238
@@ -208,7 +208,7 @@ ASN,Organization,IP_Count
 "AS23969","TOT Public Company Limited",40
 "AS27699","TELEFÔNICA BRASIL S.A",40
 "AS43641","SOLLUTIUM EU Sp z.o.o.",40
-"AS44592","SkyLink Data Center BV",39
+"AS44592","SkyLink Data Center BV",40
 "AS8048","CANTV Servicios, Venezuela",39
 "AS26599","TELEFÔNICA BRASIL S.A",38
 "AS4538","China Education and Research Network Center",38
@@ -924,6 +924,7 @@ ASN,Organization,IP_Count
 "AS25082","Viner Telecom LLC",3
 "AS2518","BIGLOBE Inc.",3
 "AS2519","ARTERIA Networks Corporation",3
+"AS262161","COTES Ltda.",3
 "AS262469","WISP ICONECTA SERVICOS DE REDE LTDA",3
 "AS262907","BRASIL TECNOLOGIA E PARTICIPACOES S/A",3
 "AS263478","DUFIBRANET TELECOM LTDA",3
@@ -1230,7 +1231,6 @@ ASN,Organization,IP_Count
 "AS2561","Egyptian Universities Network (EUN)",2
 "AS25820","IT7 Networks Inc",2
 "AS26141","CubePath",2
-"AS262161","COTES Ltda.",2
 "AS262191","COLUMBUS NETWORKS COLOMBIA",2
 "AS262197","MILLICOM CABLE COSTA RICA S.A.",2
 "AS262273","I T Tecnologia e Informação Ltda",2
@@ -1454,6 +1454,7 @@ ASN,Organization,IP_Count
 "AS5378","Vodafone Limited",2
 "AS53850","GorillaServers, Inc.",2
 "AS5413","Daisy Corporate Services Trading Ltd",2
+"AS5466","Eircom Limited",2
 "AS54936","Wyyerd Group",2
 "AS55341","51/A RACHNA MIDAS GOKULPETH",2
 "AS55430","Starhub Internet Pte Ltd",2
@@ -2901,7 +2902,6 @@ ASN,Organization,IP_Count
 "AS54523","WSTC",1
 "AS54579","Chariton Valley Telephone Corporation",1
 "AS54600","PEG TECH INC",1
-"AS5466","Eircom Limited",1
 "AS54665","North Georgia Network Cooperative, Inc.",1
 "AS54801","Zillion Network Inc.",1
 "AS5511","Orange S.A.",1
