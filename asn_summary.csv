@@ -5,18 +5,18 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14614
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10615
-"AS14061","DigitalOcean, LLC",8331
+"AS14061","DigitalOcean, LLC",8332
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5969
 "AS4134","Chinanet",5064
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4456
-"AS16509","Amazon.com, Inc.",4349
-"AS45102","Alibaba (US) Technology Co., Ltd.",4100
+"AS16509","Amazon.com, Inc.",4366
+"AS45102","Alibaba (US) Technology Co., Ltd.",4103
 "AS396998","Path Network, Inc.",3992
-"AS0","",3703
+"AS0","",3704
 "AS63949","Akamai Technologies, Inc.",3646
-"AS15169","Google LLC",3374
+"AS15169","Google LLC",3404
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3233
 "AS8075","Microsoft Corporation",2847
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1433
 "AS398722","Censys, Inc.",1428
 "AS48925","VibeGAMES B.V.",1425
-"AS13335","Cloudflare, Inc.",1360
+"AS13335","Cloudflare, Inc.",1361
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1230
 "AS22552","eSited Solutions",1188
@@ -190,10 +190,10 @@ ASN,Organization,IP_Count
 "AS10796","Charter Communications Inc",46
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
+"AS396356","Latitude.sh",46
 "AS46475","Limestone Networks, Inc.",46
 "AS141995","Contabo Asia Private Limited",45
 "AS210558","1337 Services GmbH",44
-"AS396356","Latitude.sh",44
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
 "AS152194","CTG Server Limited",43
