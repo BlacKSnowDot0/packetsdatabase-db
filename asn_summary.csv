@@ -2,15 +2,15 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87808
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22159
-"AS398324","Censys, Inc.",14629
+"AS398324","Censys, Inc.",14630
 "AS32934","Facebook, Inc.",12868
-"AS396982","Google LLC",10619
+"AS396982","Google LLC",10620
 "AS14061","DigitalOcean, LLC",8336
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5977
 "AS4134","Chinanet",5064
 "AS6568","Entel S.A. - EntelNet",4537
-"AS58466","CHINANET Guangdong province network",4456
+"AS58466","CHINANET Guangdong province network",4457
 "AS16509","Amazon.com, Inc.",4366
 "AS45102","Alibaba (US) Technology Co., Ltd.",4104
 "AS396998","Path Network, Inc.",3992
@@ -28,11 +28,11 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1873
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1545
-"AS32475","Internap Holding LLC",1505
+"AS32475","Internap Holding LLC",1506
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS36352","HostPapa",1434
 "AS49870","Alsycon B.V.",1433
-"AS398722","Censys, Inc.",1428
+"AS398722","Censys, Inc.",1429
 "AS48925","VibeGAMES B.V.",1425
 "AS13335","Cloudflare, Inc.",1362
 "AS215269","LAZYCLOUD LTD",1312
@@ -122,7 +122,7 @@ ASN,Organization,IP_Count
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS47331","TTNet A.S.",104
-"AS8560","IONOS SE",100
+"AS8560","IONOS SE",101
 "AS199785","Cloud Hosting Solutions, Limited.",99
 "AS40021","Nubes, LLC",99
 "AS4766","Korea Telecom",99
@@ -134,8 +134,8 @@ ASN,Organization,IP_Count
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS11320","LightEdge Solutions",87
 "AS58461","Chinanet",85
+"AS16735","ALGAR TELECOM S/A",83
 "AS271795","SERVITELCONET CIA. LTDA.",83
-"AS16735","ALGAR TELECOM S/A",81
 "AS5617","Orange Polska Spolka Akcyjna",81
 "AS8402","PJSC ""Vimpelcom""",81
 "AS200019","ALEXHOST SRL",78
@@ -1487,6 +1487,7 @@ ASN,Organization,IP_Count
 "AS61937","Oquei Telecom Ltda EPP",2
 "AS61942","TURBONET TELECOM LTDA",2
 "AS62013","Societatea Comerciala Click-COM SRL",2
+"AS62160","WEB3 Leaders INC",2
 "AS62206","Pitline Ltd",2
 "AS64024","PT Yesi Media Utama",2
 "AS6580","Golden West Telecommunications Coop., Inc.",2
@@ -3000,7 +3001,6 @@ ASN,Organization,IP_Count
 "AS61868","NETFACIL INTERNET VIA RADIO E INFORMATICA LTDA - M",1
 "AS61951","BRASIL-IP TELECOMUNICACOES LTDA - ME",1
 "AS62044","Zscaler Switzerland GmbH",1
-"AS62160","WEB3 Leaders INC",1
 "AS62563","GLOBALTELEHOST Corp.",1
 "AS62646","WireStar, Inc.",1
 "AS62738","ZochNet",1
