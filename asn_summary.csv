@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87808
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22159
-"AS398324","Censys, Inc.",14625
+"AS398324","Censys, Inc.",14627
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10617
 "AS14061","DigitalOcean, LLC",8336
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2568
 "AS23470","ReliableSite.Net LLC",2245
 "AS9808","China Mobile",2083
-"AS202425","IP Volume inc",1870
+"AS202425","IP Volume inc",1871
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1545
 "AS32475","Internap Holding LLC",1501
@@ -50,7 +50,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",837
 "AS20052","Arbor Networks, Inc.",808
 "AS8452","TE-AS",805
-"AS51167","Contabo GmbH",792
+"AS51167","Contabo GmbH",793
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
 "AS14618","Amazon.com, Inc.",703
 "AS10439","CariNet, Inc.",702
@@ -255,13 +255,13 @@ ASN,Organization,IP_Count
 "AS30860","Virtual Systems LLC",28
 "AS3269","Telecom Italia S.p.A.",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
+"AS9123","TimeWeb Ltd.",28
 "AS329490","Promethean Consulting Limited",27
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
 "AS53118","NETLINE TELECOM",27
 "AS56067","Metrabyte Co.,Ltd",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
-"AS9123","TimeWeb Ltd.",27
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",26
 "AS17995","PT iForte Global Internet",26
 "AS215762","Bullet Group LTD",26
@@ -457,6 +457,7 @@ ASN,Organization,IP_Count
 "AS153443","VPSRE.NET LLC",10
 "AS24835","Vodafone Data - Egypt",10
 "AS25019","Saudi Telecom Company JSC",10
+"AS2516","KDDI CORPORATION",10
 "AS264628","CORPORACION FIBEX TELECOM, C.A.",10
 "AS328471","HERO TELECOMS (PTY) LTD",10
 "AS36903","Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",10
@@ -479,7 +480,6 @@ ASN,Organization,IP_Count
 "AS213520","Senko Digital Ltd",9
 "AS214481","Wojciech Czapkowicz",9
 "AS24955","JSC ""Ufanet""",9
-"AS2516","KDDI CORPORATION",9
 "AS266702","MEGALINK S.R.L.",9
 "AS267280","YELLOW CONNECT MULTIMIDIA LTDA ME",9
 "AS38880","Micron21 Datacentre Pty Ltd",9
@@ -699,6 +699,7 @@ ASN,Organization,IP_Count
 "AS33647","Yadkin Valley Telephone",5
 "AS34343","Eweka Internet Services B.V.",5
 "AS35682","BEST INTERNET SOLUTION XK",5
+"AS35916","MULTACOM CORPORATION",5
 "AS36914","Kenya Education Network",5
 "AS37061","Safaricom Limited",5
 "AS37337","MUNI S.A",5
@@ -803,7 +804,6 @@ ASN,Organization,IP_Count
 "AS3301","Telia Company AB",4
 "AS3356","Level 3 Communications, Inc.",4
 "AS35104","Jusan Mobile JSC",4
-"AS35916","MULTACOM CORPORATION",4
 "AS36994","Vodacom",4
 "AS395570","Beanfield Technologies Inc.",4
 "AS39816","Volta Communications Sp.z.o.o.",4
