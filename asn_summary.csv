@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87807
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22158
-"AS398324","Censys, Inc.",14610
-"AS32934","Facebook, Inc.",12506
+"AS398324","Censys, Inc.",14611
+"AS32934","Facebook, Inc.",12517
 "AS396982","Google LLC",10613
 "AS14061","DigitalOcean, LLC",8329
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5968
+"AS16276","OVH SAS",5969
 "AS4134","Chinanet",5064
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4456
@@ -48,7 +48,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",844
 "AS56042","China Mobile Communications Corporation",840
 "AS215925","VPSVAULT.HOST LTD",837
-"AS20052","Arbor Networks, Inc.",805
+"AS20052","Arbor Networks, Inc.",806
 "AS8452","TE-AS",805
 "AS51167","Contabo GmbH",789
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
@@ -505,6 +505,7 @@ ASN,Organization,IP_Count
 "AS198361","Yaglom Labs Ltd",8
 "AS209956","Telkoturk Iletisim Hizmetleri A.S.",8
 "AS211507","Julian Achter",8
+"AS2119","Telenor Norge AS",8
 "AS215730","H2NEXUS LTD",8
 "AS24086","Viettel Corporation",8
 "AS2527","Sony Network Communications Inc.",8
@@ -539,7 +540,6 @@ ASN,Organization,IP_Count
 "AS204044","PACKET STAR NETWORKS LIMITED",7
 "AS204631","VIVANET GmbH",7
 "AS207506","""NEWNET"" LLC",7
-"AS2119","Telenor Norge AS",7
 "AS215599","Zkillu SAS",7
 "AS215672","MoeChuang Network Limited",7
 "AS24961","WIIT AG",7
