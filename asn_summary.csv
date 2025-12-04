@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87808
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22159
-"AS398324","Censys, Inc.",14633
+"AS398324","Censys, Inc.",14634
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10621
 "AS14061","DigitalOcean, LLC",8341
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4366
 "AS45102","Alibaba (US) Technology Co., Ltd.",4104
 "AS396998","Path Network, Inc.",3992
-"AS0","",3707
+"AS0","",3708
 "AS63949","Akamai Technologies, Inc.",3648
 "AS15169","Google LLC",3419
 "AS398705","Censys, Inc.",3238
@@ -23,12 +23,12 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2714
 "AS142002","Scloud Pte Ltd",2568
-"AS23470","ReliableSite.Net LLC",2246
+"AS23470","ReliableSite.Net LLC",2247
 "AS9808","China Mobile",2083
 "AS202425","IP Volume inc",1874
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1545
-"AS32475","Internap Holding LLC",1507
+"AS32475","Internap Holding LLC",1508
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS36352","HostPapa",1434
 "AS49870","Alsycon B.V.",1433
@@ -50,7 +50,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",837
 "AS20052","Arbor Networks, Inc.",808
 "AS8452","TE-AS",805
-"AS51167","Contabo GmbH",794
+"AS51167","Contabo GmbH",795
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
 "AS14618","Amazon.com, Inc.",703
 "AS10439","CariNet, Inc.",702
@@ -123,8 +123,8 @@ ASN,Organization,IP_Count
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS47331","TTNet A.S.",104
 "AS8560","IONOS SE",101
+"AS40021","Nubes, LLC",100
 "AS199785","Cloud Hosting Solutions, Limited.",99
-"AS40021","Nubes, LLC",99
 "AS4766","Korea Telecom",99
 "AS215240","Silent Connection Ltd.",95
 "AS205352","KABELNET LTD",93
@@ -242,11 +242,11 @@ ASN,Organization,IP_Count
 "AS17557","Pakistan Telecommuication company limited",31
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",31
 "AS8796","FD-298-8796",31
+"AS13213","UK-2 Limited",30
 "AS200593","PROSPERO OOO",30
 "AS214417","Andrii Hrosh",30
 "AS4847","China Networks Inter-Exchange",30
 "AS55933","Cloudie Limited",30
-"AS13213","UK-2 Limited",29
 "AS28546","Servnet Mexico, S.A. de C.V.",29
 "AS6134","XNNET LLC",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
