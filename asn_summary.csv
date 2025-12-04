@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87807
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22156
-"AS398324","Censys, Inc.",14607
+"AS398324","Censys, Inc.",14608
 "AS32934","Facebook, Inc.",12506
 "AS396982","Google LLC",10612
 "AS14061","DigitalOcean, LLC",8328
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3365
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3233
-"AS8075","Microsoft Corporation",2845
+"AS8075","Microsoft Corporation",2846
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2710
 "AS142002","Scloud Pte Ltd",2568
@@ -254,6 +254,7 @@ ASN,Organization,IP_Count
 "AS30860","Virtual Systems LLC",28
 "AS3269","Telecom Italia S.p.A.",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
+"AS13213","UK-2 Limited",27
 "AS329490","Promethean Consulting Limited",27
 "AS34534","FBW NETWORKS SAS",27
 "AS3786","LG DACOM Corporation",27
@@ -261,7 +262,6 @@ ASN,Organization,IP_Count
 "AS56067","Metrabyte Co.,Ltd",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
 "AS9123","TimeWeb Ltd.",27
-"AS13213","UK-2 Limited",26
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",26
 "AS17995","PT iForte Global Internet",26
 "AS2200","Renater",26
