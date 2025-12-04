@@ -2,21 +2,21 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87807
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22158
-"AS398324","Censys, Inc.",14612
-"AS32934","Facebook, Inc.",12671
+"AS398324","Censys, Inc.",14613
+"AS32934","Facebook, Inc.",12802
 "AS396982","Google LLC",10614
-"AS14061","DigitalOcean, LLC",8329
+"AS14061","DigitalOcean, LLC",8330
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5969
 "AS4134","Chinanet",5064
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4456
 "AS16509","Amazon.com, Inc.",4349
-"AS45102","Alibaba (US) Technology Co., Ltd.",4098
+"AS45102","Alibaba (US) Technology Co., Ltd.",4100
 "AS396998","Path Network, Inc.",3992
 "AS0","",3703
 "AS63949","Akamai Technologies, Inc.",3646
-"AS15169","Google LLC",3367
+"AS15169","Google LLC",3370
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3233
 "AS8075","Microsoft Corporation",2847
@@ -50,7 +50,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",837
 "AS20052","Arbor Networks, Inc.",807
 "AS8452","TE-AS",805
-"AS51167","Contabo GmbH",789
+"AS51167","Contabo GmbH",790
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
 "AS10439","CariNet, Inc.",701
 "AS14618","Amazon.com, Inc.",683
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS53667","FranTech Solutions",518
 "AS140292","China Telecom",509
-"AS9829","Bharat Sanchar Nigam Ltd",504
+"AS9829","Bharat Sanchar Nigam Ltd",505
 "AS50360","Tamatiya EOOD",492
 "AS212238","Datacamp Limited",466
 "AS21299","Kar-Tel LLC",406
@@ -90,7 +90,7 @@ ASN,Organization,IP_Count
 "AS208843","Alpha Strike Labs GmbH",285
 "AS48090","TECHOFF SRV LIMITED",260
 "AS18403","FPT Telecom Company",258
-"AS141718","haoxiangyun",250
+"AS141718","haoxiangyun",251
 "AS60223","Netiface Limited",250
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",226
