@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87807
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22158
-"AS398324","Censys, Inc.",14616
+"AS398324","Censys, Inc.",14617
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10617
 "AS14061","DigitalOcean, LLC",8332
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5969
+"AS16276","OVH SAS",5970
 "AS4134","Chinanet",5064
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4456
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1545
 "AS32475","Internap Holding LLC",1500
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS36352","HostPapa",1433
+"AS36352","HostPapa",1434
 "AS49870","Alsycon B.V.",1433
 "AS398722","Censys, Inc.",1428
 "AS48925","VibeGAMES B.V.",1425
@@ -50,7 +50,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",837
 "AS20052","Arbor Networks, Inc.",807
 "AS8452","TE-AS",805
-"AS51167","Contabo GmbH",790
+"AS51167","Contabo GmbH",792
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
 "AS14618","Amazon.com, Inc.",703
 "AS10439","CariNet, Inc.",701
@@ -98,7 +98,7 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS12389","PJSC Rostelecom",210
-"AS29484","Ruhr-Universitaet Bochum",199
+"AS29484","Ruhr-Universitaet Bochum",200
 "AS12555","Data-center IMAQLIQ Ltd.",193
 "AS7552","Viettel Group",182
 "AS63199","CDS Global Cloud Co., Ltd",181
@@ -110,7 +110,7 @@ ASN,Organization,IP_Count
 "AS47105","Vault Dweller OU",141
 "AS14956","RouterHosting LLC",139
 "AS34984","Superonline Iletisim Hizmetleri A.S.",137
-"AS6739","VODAFONE ONO, S.A.",131
+"AS6739","VODAFONE ONO, S.A.",132
 "AS13238","YANDEX LLC",130
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
@@ -1313,6 +1313,7 @@ ASN,Organization,IP_Count
 "AS28638","BRASIL TECPAR | AMIGO | AVATO",2
 "AS28656","BTT TELECOMUNICACOES S.A.",2
 "AS28669","America-NET Ltda.",2
+"AS28890","INSYS LLC",2
 "AS29119","AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",2
 "AS29222","Infomaniak Network SA",2
 "AS29456","PJSC Rostelecom",2
@@ -2520,7 +2521,6 @@ ASN,Organization,IP_Count
 "AS28685","Routit BV",1
 "AS28775","OOO TRANSTELECOM",1
 "AS28812","PJSC ""Bashinformsvyaz""",1
-"AS28890","INSYS LLC",1
 "AS29046","Radiobaylanys LLP",1
 "AS29061","Saimanet Telecomunications CJSC",1
 "AS29069","PJSC Rostelecom",1
