@@ -2,17 +2,17 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87807
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22158
-"AS398324","Censys, Inc.",14609
+"AS398324","Censys, Inc.",14610
 "AS32934","Facebook, Inc.",12506
-"AS396982","Google LLC",10612
-"AS14061","DigitalOcean, LLC",8328
+"AS396982","Google LLC",10613
+"AS14061","DigitalOcean, LLC",8329
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5968
 "AS4134","Chinanet",5064
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4456
 "AS16509","Amazon.com, Inc.",4349
-"AS45102","Alibaba (US) Technology Co., Ltd.",4092
+"AS45102","Alibaba (US) Technology Co., Ltd.",4098
 "AS396998","Path Network, Inc.",3992
 "AS0","",3703
 "AS63949","Akamai Technologies, Inc.",3646
@@ -73,7 +73,7 @@ ASN,Organization,IP_Count
 "AS24186","RailTel Corporation of India Ltd.",406
 "AS7018","AT&T Enterprises, LLC",392
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",379
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",380
 "AS47890","UNMANAGED LTD",374
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS21859","Zenlayer Inc",365
@@ -110,8 +110,8 @@ ASN,Organization,IP_Count
 "AS47105","Vault Dweller OU",141
 "AS14956","RouterHosting LLC",139
 "AS34984","Superonline Iletisim Hizmetleri A.S.",137
+"AS6739","VODAFONE ONO, S.A.",131
 "AS13238","YANDEX LLC",130
-"AS6739","VODAFONE ONO, S.A.",130
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
 "AS36007","Kamatera, Inc.",122
