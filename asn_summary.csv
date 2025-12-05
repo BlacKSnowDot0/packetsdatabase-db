@@ -4,8 +4,8 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22161
 "AS398324","Censys, Inc.",14644
 "AS32934","Facebook, Inc.",12868
-"AS396982","Google LLC",10625
-"AS14061","DigitalOcean, LLC",8344
+"AS396982","Google LLC",10626
+"AS14061","DigitalOcean, LLC",8345
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5979
 "AS4134","Chinanet",5064
@@ -14,14 +14,14 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4366
 "AS45102","Alibaba (US) Technology Co., Ltd.",4110
 "AS396998","Path Network, Inc.",3992
-"AS0","",3709
+"AS0","",3710
 "AS63949","Akamai Technologies, Inc.",3648
 "AS15169","Google LLC",3419
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3233
-"AS8075","Microsoft Corporation",2849
+"AS8075","Microsoft Corporation",2850
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2715
+"AS6939","Hurricane Electric LLC",2716
 "AS142002","Scloud Pte Ltd",2568
 "AS23470","ReliableSite.Net LLC",2248
 "AS9808","China Mobile",2083
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS12876","ONLINE S.A.S.",567
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS51115","HLL LLC",556
+"AS51115","HLL LLC",557
 "AS198953","Proton66 OOO",527
 "AS53667","FranTech Solutions",519
 "AS140292","China Telecom",509
@@ -87,7 +87,7 @@ ASN,Organization,IP_Count
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",295
 "AS213613","BOTSHIELD LTD",293
-"AS208843","Alpha Strike Labs GmbH",285
+"AS208843","Alpha Strike Labs GmbH",286
 "AS48090","TECHOFF SRV LIMITED",260
 "AS18403","FPT Telecom Company",258
 "AS141718","haoxiangyun",252
@@ -558,6 +558,7 @@ ASN,Organization,IP_Count
 "AS42610","PJSC Rostelecom",7
 "AS4811","China Telecom (Group)",7
 "AS49505","JSC Selectel",7
+"AS5056","Aureon Network Services",7
 "AS50923","Metroset Ltd.",7
 "AS55423","JasTel Network",7
 "AS58821","PT Lintas Jaringan Nusantara",7
@@ -626,7 +627,6 @@ ASN,Organization,IP_Count
 "AS48314","Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG",6
 "AS48347","JSC Mediasoft ekspert",6
 "AS48642","Joint stock company ""For""",6
-"AS5056","Aureon Network Services",6
 "AS51604","JSC ""ER-Telecom Holding""",6
 "AS5410","Bouygues Telecom SA",6
 "AS55699","PT. Cemerlang Multimedia",6
