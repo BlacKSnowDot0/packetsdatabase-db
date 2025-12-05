@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87809
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22164
-"AS398324","Censys, Inc.",14660
+"AS398324","Censys, Inc.",14661
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10630
-"AS14061","DigitalOcean, LLC",8347
+"AS14061","DigitalOcean, LLC",8349
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5980
 "AS4134","Chinanet",5064
@@ -25,14 +25,14 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2569
 "AS23470","ReliableSite.Net LLC",2249
 "AS9808","China Mobile",2083
-"AS202425","IP Volume inc",1878
+"AS202425","IP Volume inc",1879
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1545
 "AS32475","Internap Holding LLC",1513
 "AS43260","DGN TEKNOLOJI A.S.",1447
+"AS49870","Alsycon B.V.",1445
 "AS36352","HostPapa",1444
-"AS49870","Alsycon B.V.",1441
-"AS398722","Censys, Inc.",1429
+"AS398722","Censys, Inc.",1430
 "AS48925","VibeGAMES B.V.",1425
 "AS13335","Cloudflare, Inc.",1362
 "AS215269","LAZYCLOUD LTD",1312
@@ -74,7 +74,7 @@ ASN,Organization,IP_Count
 "AS7018","AT&T Enterprises, LLC",392
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",380
-"AS47890","UNMANAGED LTD",376
+"AS47890","UNMANAGED LTD",378
 "AS21859","Zenlayer Inc",366
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS7922","Comcast Cable Communications, LLC",351
@@ -2880,6 +2880,7 @@ ASN,Organization,IP_Count
 "AS52838","WN TELECOM LTDA - ME",1
 "AS52862","ISP PREMIUM TELECOM S/A",1
 "AS52866","BRASIL TECPAR | AMIGO | AVATO",1
+"AS52871","TASCOM TELECOMUNICAÇÕES LTDA",1
 "AS52892","COPREL TELECOM LTDA",1
 "AS52900","BRASIL TECPAR | AMIGO | AVATO",1
 "AS52930","Turbo SP Internet Provider",1
