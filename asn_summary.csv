@@ -25,10 +25,10 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2568
 "AS23470","ReliableSite.Net LLC",2249
 "AS9808","China Mobile",2083
-"AS202425","IP Volume inc",1877
+"AS202425","IP Volume inc",1878
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1545
-"AS32475","Internap Holding LLC",1509
+"AS32475","Internap Holding LLC",1510
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS36352","HostPapa",1441
 "AS49870","Alsycon B.V.",1433
@@ -54,7 +54,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
 "AS14618","Amazon.com, Inc.",703
 "AS10439","CariNet, Inc.",702
-"AS4837","CHINA UNICOM China169 Backbone",602
+"AS4837","CHINA UNICOM China169 Backbone",603
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",584
 "AS12876","ONLINE S.A.S.",569
@@ -390,6 +390,7 @@ ASN,Organization,IP_Count
 "AS6327","Shaw Communications Inc.",15
 "AS64236","UnReal Servers, LLC",15
 "AS6849","JSC ""Ukrtelecom""",15
+"AS9304","HGC Global Communications Limited",15
 "AS11232","Midcontinent Communications",14
 "AS12400","Partner Communications Ltd.",14
 "AS17621","China Unicom Shanghai network",14
@@ -402,7 +403,6 @@ ASN,Organization,IP_Count
 "AS37457","Telkom SA Ltd.",14
 "AS4808","China Unicom Beijing Province Network",14
 "AS48721","Flyservers S.A.",14
-"AS9304","HGC Global Communications Limited",14
 "AS11351","Charter Communications Inc",13
 "AS134420","Chongqing Telecom",13
 "AS137718","Beijing Volcano Engine Technology Co., Ltd.",13
@@ -1195,6 +1195,7 @@ ASN,Organization,IP_Count
 "AS211895","Serverius Holding B.V.",2
 "AS212047","Civo LTD",2
 "AS212118","Malakhovskyi Hennadii",2
+"AS212815","Dyjix SAS",2
 "AS213186","Yanoor Islam Khan",2
 "AS213725","UK-03AI",2
 "AS214657","Bls Services Tecnologia em Software Ltda",2
@@ -1990,7 +1991,6 @@ ASN,Organization,IP_Count
 "AS212531","UAB ""Interneto vizija""",1
 "AS212555","Remicro Kft.",1
 "AS212616","K.M.A ADVANCED TECHNOLOGIES LTD",1
-"AS212815","Dyjix SAS",1
 "AS21283","A1 Slovenija telekomunikacijske storitve,d.d.",1
 "AS212983","METANNET LLC",1
 "AS213230","Hetzner Online GmbH",1
