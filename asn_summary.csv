@@ -1,10 +1,10 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87808
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22161
+"AS211298","Driftnet Ltd",22163
 "AS398324","Censys, Inc.",14648
 "AS32934","Facebook, Inc.",12868
-"AS396982","Google LLC",10627
+"AS396982","Google LLC",10628
 "AS14061","DigitalOcean, LLC",8346
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5979
@@ -23,7 +23,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2718
 "AS142002","Scloud Pte Ltd",2568
-"AS23470","ReliableSite.Net LLC",2248
+"AS23470","ReliableSite.Net LLC",2249
 "AS9808","China Mobile",2083
 "AS202425","IP Volume inc",1877
 "AS214295","SKYNET NETWORK LTD",1631
@@ -57,9 +57,9 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",602
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",584
+"AS12876","ONLINE S.A.S.",568
 "AS201814","MEVSPACE sp. z o.o.",568
 "AS9009","M247 Europe SRL",568
-"AS12876","ONLINE S.A.S.",567
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS51115","HLL LLC",557
@@ -865,6 +865,7 @@ ASN,Organization,IP_Count
 "AS134032","INFONET COMM ENTERPRISES",3
 "AS134762","CHINANET Liaoning province Dalian MAN network",3
 "AS135882","Spark Online",3
+"AS135967","Bach Kim Network solutions Join stock company",3
 "AS136052","PT Cloud Hosting Indonesia",3
 "AS13720","Daybreak Game Company LLC",3
 "AS137236","TURBOTECH CO., LTD.",3
@@ -1086,7 +1087,6 @@ ASN,Organization,IP_Count
 "AS134863","SP INTERNET TECHNOLOGIES PRIVATE LTD",2
 "AS13490","Buckeye Cablevision, Inc.",2
 "AS135037","Techno Asia Infotech Limited",2
-"AS135967","Bach Kim Network solutions Join stock company",2
 "AS136197","Xiong'an, Hebei Province, P.R.China.",2
 "AS136224","City Online Ltd.",2
 "AS136258","BrainStorm Network, Inc",2
