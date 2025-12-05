@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87809
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22168
-"AS398324","Censys, Inc.",14678
+"AS398324","Censys, Inc.",14681
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10633
-"AS14061","DigitalOcean, LLC",8355
+"AS14061","DigitalOcean, LLC",8356
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5981
 "AS4134","Chinanet",5067
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS51167","Contabo GmbH",798
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
-"AS14618","Amazon.com, Inc.",704
+"AS14618","Amazon.com, Inc.",705
 "AS10439","CariNet, Inc.",703
 "AS4837","CHINA UNICOM China169 Backbone",604
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -100,8 +100,8 @@ ASN,Organization,IP_Count
 "AS12389","PJSC Rostelecom",211
 "AS29484","Ruhr-Universitaet Bochum",201
 "AS12555","Data-center IMAQLIQ Ltd.",193
+"AS63199","CDS Global Cloud Co., Ltd",182
 "AS7552","Viettel Group",182
-"AS63199","CDS Global Cloud Co., Ltd",181
 "AS401116","Nybula LLC",170
 "AS50219","LNK SYSTEMS MUNTENIA SRL",164
 "AS42237","w1n ltd",157
@@ -1018,6 +1018,7 @@ ASN,Organization,IP_Count
 "AS52436","Cable Televisora Color",3
 "AS52771","GIGA BYTE TELECOMUNICACOES LTDA",3
 "AS52783","ALCANS TELECOM LTDA",3
+"AS5378","Vodafone Limited",3
 "AS5391","Hrvatski Telekom d.d.",3
 "AS55685","PT Jala Lintas Media",3
 "AS56400","SPD Chernega Aleksandr Anatolevich",3
@@ -1453,7 +1454,6 @@ ASN,Organization,IP_Count
 "AS53209","Mantiqueira Tecnologia Ltda.",2
 "AS53347","Premier Communications",2
 "AS53435","JACKSON ENERGY AUTHORITY",2
-"AS5378","Vodafone Limited",2
 "AS53850","GorillaServers, Inc.",2
 "AS5413","Daisy Corporate Services Trading Ltd",2
 "AS5466","Eircom Limited",2
