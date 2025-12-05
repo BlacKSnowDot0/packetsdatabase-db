@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87808
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22163
-"AS398324","Censys, Inc.",14648
+"AS398324","Censys, Inc.",14650
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10628
 "AS14061","DigitalOcean, LLC",8346
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3419
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3233
-"AS8075","Microsoft Corporation",2850
+"AS8075","Microsoft Corporation",2851
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2718
 "AS142002","Scloud Pte Ltd",2568
@@ -145,8 +145,8 @@ ASN,Organization,IP_Count
 "AS23724","IDC, China Telecommunications Corporation",76
 "AS27882","Telefónica Celular de Bolivia S.A.",76
 "AS32475","SingleHop LLC",75
+"AS31898","Oracle Corporation",74
 "AS56046","China Mobile Communications Corporation",74
-"AS31898","Oracle Corporation",73
 "AS150263","PT Alnet Telekomunikasi Indonesia",69
 "AS52053","REDHEBERG Association declaree",69
 "AS200514","KnownSRV Ltd.",68
@@ -1853,6 +1853,7 @@ ASN,Organization,IP_Count
 "AS18678","INTERNEXA S.A. E.S.P",1
 "AS18731","Cityside Fiber",1
 "AS18734","Operbes, S.A. de C.V.",1
+"AS18747","IFX Corporation",1
 "AS18785","Santel Communications Cooperative, Inc.",1
 "AS18859","GVEC.net, LLC",1
 "AS1897","NOS COMUNICACOES, S.A.",1
