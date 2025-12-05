@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3233
 "AS8075","Microsoft Corporation",2851
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2719
+"AS6939","Hurricane Electric LLC",2721
 "AS142002","Scloud Pte Ltd",2569
 "AS23470","ReliableSite.Net LLC",2249
 "AS9808","China Mobile",2083
@@ -126,7 +126,7 @@ ASN,Organization,IP_Count
 "AS40021","Nubes, LLC",100
 "AS4766","Korea Telecom",100
 "AS199785","Cloud Hosting Solutions, Limited.",99
-"AS215240","Silent Connection Ltd.",96
+"AS215240","Silent Connection Ltd.",97
 "AS205352","KABELNET LTD",93
 "AS136435","ELITE COMMUNICATION",92
 "AS63018","Dedicated.com",92
@@ -503,6 +503,7 @@ ASN,Organization,IP_Count
 "AS18986","Calligo (Canada) Inc.",8
 "AS198154","Pars Abr Toseeh Ertebatat Company",8
 "AS198361","Yaglom Labs Ltd",8
+"AS202870","Dimensione S.r.l.",8
 "AS209956","Telkoturk Iletisim Hizmetleri A.S.",8
 "AS211507","Julian Achter",8
 "AS2119","Telenor Norge AS",8
@@ -535,7 +536,6 @@ ASN,Organization,IP_Count
 "AS153096","PT High Speed Connection Network",7
 "AS17762","Tata Teleservices (Maharashtra) Ltd",7
 "AS19148","Leaseweb USA, Inc.",7
-"AS202870","Dimensione S.r.l.",7
 "AS203684","Imen Sanat Novin Alighapoo Private Joint Stock Company",7
 "AS204044","PACKET STAR NETWORKS LIMITED",7
 "AS204631","VIVANET GmbH",7
