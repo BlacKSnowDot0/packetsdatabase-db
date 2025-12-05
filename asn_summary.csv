@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22161
 "AS398324","Censys, Inc.",14644
 "AS32934","Facebook, Inc.",12868
-"AS396982","Google LLC",10626
+"AS396982","Google LLC",10627
 "AS14061","DigitalOcean, LLC",8345
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5979
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3233
 "AS8075","Microsoft Corporation",2850
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2716
+"AS6939","Hurricane Electric LLC",2717
 "AS142002","Scloud Pte Ltd",2568
 "AS23470","ReliableSite.Net LLC",2248
 "AS9808","China Mobile",2083
@@ -64,7 +64,7 @@ ASN,Organization,IP_Count
 "AS401120","cheapy.host LLC",557
 "AS51115","HLL LLC",557
 "AS198953","Proton66 OOO",527
-"AS53667","FranTech Solutions",519
+"AS53667","FranTech Solutions",520
 "AS140292","China Telecom",509
 "AS9829","Bharat Sanchar Nigam Ltd",508
 "AS50360","Tamatiya EOOD",492
@@ -134,8 +134,8 @@ ASN,Organization,IP_Count
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS11320","LightEdge Solutions",87
 "AS58461","Chinanet",85
+"AS271795","SERVITELCONET CIA. LTDA.",84
 "AS16735","ALGAR TELECOM S/A",83
-"AS271795","SERVITELCONET CIA. LTDA.",83
 "AS5617","Orange Polska Spolka Akcyjna",81
 "AS8402","PJSC ""Vimpelcom""",81
 "AS200019","ALEXHOST SRL",78
@@ -1006,6 +1006,7 @@ ASN,Organization,IP_Count
 "AS4818","DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",3
 "AS48411","FOP Samoylenko Oleksandr Volodymirovich",3
 "AS48437","PP ""Merezha""",3
+"AS48678","PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi",3
 "AS48832","Linkdotnet-Jordan",3
 "AS49242","Internet Union Spolka Akcyjna",3
 "AS49332","Lanet Network Ltd",3
@@ -1416,7 +1417,6 @@ ASN,Organization,IP_Count
 "AS4773","M1 LIMITED",2
 "AS4787","PT Cyberindo Aditama",2
 "AS48004","PE Tsibrankov Konstantin Igorevich",2
-"AS48678","PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi",2
 "AS48728","Vodafone Qatar P.Q.S.C",2
 "AS48847","WAVES S.A.L",2
 "AS49218","Nizhnetagilskie Kompyuternye Seti LLC",2
