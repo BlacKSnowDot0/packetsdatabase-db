@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87808
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22161
-"AS398324","Censys, Inc.",14642
+"AS398324","Censys, Inc.",14643
 "AS32934","Facebook, Inc.",12868
-"AS396982","Google LLC",10624
-"AS14061","DigitalOcean, LLC",8343
+"AS396982","Google LLC",10625
+"AS14061","DigitalOcean, LLC",8344
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5979
 "AS4134","Chinanet",5064
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3233
 "AS8075","Microsoft Corporation",2849
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2714
+"AS6939","Hurricane Electric LLC",2715
 "AS142002","Scloud Pte Ltd",2568
 "AS23470","ReliableSite.Net LLC",2248
 "AS9808","China Mobile",2083
@@ -229,12 +229,12 @@ ASN,Organization,IP_Count
 "AS34665","Petersburg Internet Network ltd.",34
 "AS1103","SURF B.V.",33
 "AS210509","Optimum Line for Internet Services Ltd.",33
+"AS21127","Joint Stock Company TransTeleCom",33
 "AS329009","Spectrum Internet Service Ltd",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
 "AS12912","T-Mobile Polska S.A.",32
 "AS204834","Shabakieh Isfahan Co PJSC",32
-"AS21127","Joint Stock Company TransTeleCom",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
 "AS269193","Iktelecom Ltda",32
 "AS55990","Huawei Cloud Service data center",32
