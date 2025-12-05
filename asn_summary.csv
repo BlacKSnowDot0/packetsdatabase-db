@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87809
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22164
-"AS398324","Censys, Inc.",14655
+"AS398324","Censys, Inc.",14656
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10629
 "AS14061","DigitalOcean, LLC",8346
@@ -93,7 +93,7 @@ ASN,Organization,IP_Count
 "AS141718","haoxiangyun",252
 "AS60223","Netiface Limited",250
 "AS209272","Alviva Holding Limited",230
-"AS701","Verizon Business",226
+"AS701","Verizon Business",227
 "AS29066","velia.net Internetdienste GmbH",225
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
@@ -366,6 +366,7 @@ ASN,Organization,IP_Count
 "AS39351","31173 Services AB",16
 "AS46261","QuickPacket, LLC",16
 "AS6597","Coloblox Data Centers Inc",16
+"AS9304","HGC Global Communications Limited",16
 "AS1267","RIPE Network Coordination Centre",15
 "AS12849","Hot-Net internet services Ltd.",15
 "AS136515","Dasca Cable Services, Inc.",15
@@ -390,7 +391,6 @@ ASN,Organization,IP_Count
 "AS6327","Shaw Communications Inc.",15
 "AS64236","UnReal Servers, LLC",15
 "AS6849","JSC ""Ukrtelecom""",15
-"AS9304","HGC Global Communications Limited",15
 "AS11232","Midcontinent Communications",14
 "AS12400","Partner Communications Ltd.",14
 "AS17621","China Unicom Shanghai network",14
