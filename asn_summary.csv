@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87809
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22165
-"AS398324","Censys, Inc.",14663
+"AS398324","Censys, Inc.",14664
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10630
 "AS14061","DigitalOcean, LLC",8355
@@ -73,7 +73,7 @@ ASN,Organization,IP_Count
 "AS24186","RailTel Corporation of India Ltd.",406
 "AS7018","AT&T Enterprises, LLC",392
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS47890","UNMANAGED LTD",382
+"AS47890","UNMANAGED LTD",383
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",380
 "AS21859","Zenlayer Inc",366
 "AS7713","Telekomunikasi Indonesia (PT)",366
@@ -522,6 +522,7 @@ ASN,Organization,IP_Count
 "AS5483","Magyar Telekom plc.",8
 "AS56005","Zhengzhou Fastidc Technology Co.,Ltd.",8
 "AS56041","China Mobile Communications Corporation",8
+"AS59134","PT. Datacomm Diangraha",8
 "AS6698","Virtual Systems LLC",8
 "AS7418","TELEFÓNICA CHILE S.A.",8
 "AS8386","VODAFONE NET ILETISIM HIZMETLERI ANONIM SIRKETI",8
@@ -562,7 +563,6 @@ ASN,Organization,IP_Count
 "AS50923","Metroset Ltd.",7
 "AS55423","JasTel Network",7
 "AS58821","PT Lintas Jaringan Nusantara",7
-"AS59134","PT. Datacomm Diangraha",7
 "AS63023","GTHost",7
 "AS63838","Hengyang",7
 "AS8764","Telia Lietuva, AB",7
