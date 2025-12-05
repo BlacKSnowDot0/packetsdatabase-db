@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87809
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22166
-"AS398324","Censys, Inc.",14668
+"AS398324","Censys, Inc.",14669
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10631
 "AS14061","DigitalOcean, LLC",8355
@@ -57,7 +57,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",603
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",584
-"AS12876","ONLINE S.A.S.",569
+"AS12876","ONLINE S.A.S.",570
 "AS201814","MEVSPACE sp. z o.o.",568
 "AS9009","M247 Europe SRL",568
 "AS31148","Freenet LTD",558
@@ -78,7 +78,7 @@ ASN,Organization,IP_Count
 "AS21859","Zenlayer Inc",366
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS7922","Comcast Cable Communications, LLC",351
-"AS8151","Uninet S.A. de C.V.",338
+"AS8151","Uninet S.A. de C.V.",339
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS214943","Railnet LLC",317
 "AS45899","VNPT Corp",316
@@ -109,7 +109,7 @@ ASN,Organization,IP_Count
 "AS262551","Farol Telecom",152
 "AS47105","Vault Dweller OU",141
 "AS14956","RouterHosting LLC",139
-"AS34984","Superonline Iletisim Hizmetleri A.S.",138
+"AS34984","Superonline Iletisim Hizmetleri A.S.",139
 "AS6739","VODAFONE ONO, S.A.",135
 "AS13238","YANDEX LLC",130
 "AS137409","GSL Networks Pty LTD",128
@@ -140,9 +140,9 @@ ASN,Organization,IP_Count
 "AS8402","PJSC ""Vimpelcom""",81
 "AS200019","ALEXHOST SRL",78
 "AS22773","Cox Communications Inc.",77
+"AS23724","IDC, China Telecommunications Corporation",77
 "AS3920","ESTOXY OU",77
 "AS211736","FOP Dmytro Nedilskyi",76
-"AS23724","IDC, China Telecommunications Corporation",76
 "AS27882","Telefónica Celular de Bolivia S.A.",76
 "AS32475","SingleHop LLC",75
 "AS31898","Oracle Corporation",74
@@ -638,6 +638,7 @@ ASN,Organization,IP_Count
 "AS64289","Macarne LLC",6
 "AS6830","Liberty Global B.V.",6
 "AS8926","Moldtelecom SA",6
+"AS9416","Hoshin Multimedia Center Inc.",6
 "AS9873","Lao Telecommunication Public Company",6
 "AS10429","TELEFÔNICA BRASIL S.A",5
 "AS11492","CABLE ONE, INC.",5
@@ -653,6 +654,7 @@ ASN,Organization,IP_Count
 "AS135411","Red Grapes Pte Ltd",5
 "AS136188","NINGBO, ZHEJIANG Province, P.R.China.",5
 "AS136873","MEGADATA-ISP",5
+"AS137697","CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou , Jiangsu Province, P.",5
 "AS138109","PT. Rasi Bintang Perkasa",5
 "AS138195","MOACK.Co.LTD",5
 "AS141140","PT Jinde Grup Indonesia",5
@@ -731,7 +733,6 @@ ASN,Organization,IP_Count
 "AS8345","JSC ""ER-Telecom Holding""",5
 "AS8359","MTS PJSC",5
 "AS8648","dogado GmbH",5
-"AS9416","Hoshin Multimedia Center Inc.",5
 "AS9674","Far EastTone Telecommunication Co., Ltd.",5
 "AS12430","VODAFONE ESPANA S.A.U.",4
 "AS13110","INEA sp. z o.o.",4
@@ -741,7 +742,6 @@ ASN,Organization,IP_Count
 "AS136121","PT Digital Media Telematika",4
 "AS136280","Costel Networks P Ltd",4
 "AS137453","Orange Communication",4
-"AS137697","CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou , Jiangsu Province, P.",4
 "AS137872","China Mobile Hong Kong Company Limited",4
 "AS140791","BKHOST TECHNOLOGY VIETNAM JOINT STOCK COMPANY",4
 "AS14080","Telmex Colombia S.A.",4
