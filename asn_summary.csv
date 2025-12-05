@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87808
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22164
-"AS398324","Censys, Inc.",14652
+"AS398324","Censys, Inc.",14653
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10628
 "AS14061","DigitalOcean, LLC",8346
@@ -21,8 +21,8 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3233
 "AS8075","Microsoft Corporation",2851
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2718
-"AS142002","Scloud Pte Ltd",2568
+"AS6939","Hurricane Electric LLC",2719
+"AS142002","Scloud Pte Ltd",2569
 "AS23470","ReliableSite.Net LLC",2249
 "AS9808","China Mobile",2083
 "AS202425","IP Volume inc",1878
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1545
 "AS32475","Internap Holding LLC",1510
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS36352","HostPapa",1441
+"AS36352","HostPapa",1442
 "AS49870","Alsycon B.V.",1433
 "AS398722","Censys, Inc.",1429
 "AS48925","VibeGAMES B.V.",1425
@@ -3033,6 +3033,7 @@ ASN,Organization,IP_Count
 "AS7106","Com Net, Inc.",1
 "AS7195","EDGEUNO S.A.S",1
 "AS7363","-Reserved AS-",1
+"AS749","DoD Network Information Center",1
 "AS7522","STNet, Incorporated",1
 "AS7602","Sai gon Postel Corporation",1
 "AS7679","QTnet,Inc.",1
