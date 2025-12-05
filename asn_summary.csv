@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87809
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22165
-"AS398324","Censys, Inc.",14661
+"AS398324","Censys, Inc.",14663
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10630
 "AS14061","DigitalOcean, LLC",8355
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5980
+"AS16276","OVH SAS",5981
 "AS4134","Chinanet",5065
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4457
@@ -73,7 +73,7 @@ ASN,Organization,IP_Count
 "AS24186","RailTel Corporation of India Ltd.",406
 "AS7018","AT&T Enterprises, LLC",392
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS47890","UNMANAGED LTD",381
+"AS47890","UNMANAGED LTD",382
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",380
 "AS21859","Zenlayer Inc",366
 "AS7713","Telekomunikasi Indonesia (PT)",366
@@ -1044,6 +1044,7 @@ ASN,Organization,IP_Count
 "AS9329","Sri Lanka Telecom Ltd",3
 "AS9381","HKBN Enterprise Solutions HK Limited",3
 "AS9506","Singapore Telecommunications Ltd, Magix Services",3
+"AS10013","FreeBit Co.,Ltd.",2
 "AS10030","Celcom Axiata Berhad",2
 "AS10036","DLIVE",2
 "AS10066","LG HelloVision Corp.",2
@@ -1523,7 +1524,6 @@ ASN,Organization,IP_Count
 "AS9905","Linknet ASN",2
 "AS9908","Hong Kong Cable Television Limited",2
 "AS10010","TOKAI Communications Corporation",1
-"AS10013","FreeBit Co.,Ltd.",1
 "AS10075","Fiber@Home Global Limited",1
 "AS10242","US Internet Corp",1
 "AS10279","West Carolina Communications, LLC",1
@@ -2535,6 +2535,7 @@ ASN,Organization,IP_Count
 "AS29075","IELO-LIAZO SERVICES SAS",1
 "AS29091","ipNX Nigeria Limited",1
 "AS29177","Acantho S.p.a",1
+"AS29247","Ote SA (Hellenic Telecommunications Organisation)",1
 "AS29256","Syrian Telecom",1
 "AS29303","Perm Internet Company LLC",1
 "AS29319","Informational-measuring systems Ltd.",1
