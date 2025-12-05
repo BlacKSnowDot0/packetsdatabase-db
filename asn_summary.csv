@@ -7,14 +7,14 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",10629
 "AS14061","DigitalOcean, LLC",8346
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5979
+"AS16276","OVH SAS",5980
 "AS4134","Chinanet",5064
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4457
 "AS16509","Amazon.com, Inc.",4366
 "AS45102","Alibaba (US) Technology Co., Ltd.",4111
 "AS396998","Path Network, Inc.",3992
-"AS0","",3711
+"AS0","",3712
 "AS63949","Akamai Technologies, Inc.",3648
 "AS15169","Google LLC",3419
 "AS398705","Censys, Inc.",3238
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1878
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1545
-"AS32475","Internap Holding LLC",1510
+"AS32475","Internap Holding LLC",1511
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS36352","HostPapa",1443
 "AS49870","Alsycon B.V.",1433
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS53667","FranTech Solutions",521
 "AS140292","China Telecom",509
-"AS9829","Bharat Sanchar Nigam Ltd",508
+"AS9829","Bharat Sanchar Nigam Ltd",509
 "AS50360","Tamatiya EOOD",492
 "AS212238","Datacamp Limited",466
 "AS21299","Kar-Tel LLC",406
@@ -271,14 +271,14 @@ ASN,Organization,IP_Count
 "AS3209","Vodafone GmbH",26
 "AS4713","NTT Communications Corporation",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
+"AS852","TELUS Communications Inc.",26
+"AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",25
 "AS18881","TELEFÔNICA BRASIL S.A",25
 "AS24560","Bharti Airtel Limited",25
 "AS36947","Telecom Algeria",25
 "AS55836","Reliance Jio Infocomm Limited",25
 "AS58212","dataforest GmbH",25
 "AS58224","Iran Telecommunication Company PJS",25
-"AS852","TELUS Communications Inc.",25
-"AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",24
 "AS197540","netcup GmbH",24
 "AS209","CenturyLink Communications, LLC",24
 "AS24940","Hetzner Online GmbH",24
