@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87809
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22164
-"AS398324","Censys, Inc.",14656
+"AS398324","Censys, Inc.",14659
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10629
-"AS14061","DigitalOcean, LLC",8346
+"AS14061","DigitalOcean, LLC",8347
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5980
 "AS4134","Chinanet",5064
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3419
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3233
-"AS8075","Microsoft Corporation",2851
+"AS8075","Microsoft Corporation",2852
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2721
 "AS142002","Scloud Pte Ltd",2569
@@ -28,15 +28,15 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1878
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1545
-"AS32475","Internap Holding LLC",1511
+"AS32475","Internap Holding LLC",1512
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS36352","HostPapa",1443
-"AS49870","Alsycon B.V.",1433
+"AS36352","HostPapa",1444
+"AS49870","Alsycon B.V.",1435
 "AS398722","Censys, Inc.",1429
 "AS48925","VibeGAMES B.V.",1425
 "AS13335","Cloudflare, Inc.",1362
 "AS215269","LAZYCLOUD LTD",1312
-"AS174","Cogent Communications",1234
+"AS174","Cogent Communications",1235
 "AS22552","eSited Solutions",1188
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
@@ -182,10 +182,10 @@ ASN,Organization,IP_Count
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS12816","Leibniz-Rechenzentrum",53
 "AS30633","Leaseweb USA, Inc.",51
+"AS46475","Limestone Networks, Inc.",49
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
+"AS200590","NLS Kazakhstan LLC",48
 "AS266181","GOLDEN LINK",48
-"AS46475","Limestone Networks, Inc.",48
-"AS200590","NLS Kazakhstan LLC",47
 "AS396356","Latitude.sh",47
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",47
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",47
