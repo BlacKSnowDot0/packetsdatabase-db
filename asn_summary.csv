@@ -1,18 +1,18 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87808
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22160
+"AS211298","Driftnet Ltd",22161
 "AS398324","Censys, Inc.",14642
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10624
-"AS14061","DigitalOcean, LLC",8342
+"AS14061","DigitalOcean, LLC",8343
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5978
+"AS16276","OVH SAS",5979
 "AS4134","Chinanet",5064
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4457
 "AS16509","Amazon.com, Inc.",4366
-"AS45102","Alibaba (US) Technology Co., Ltd.",4105
+"AS45102","Alibaba (US) Technology Co., Ltd.",4107
 "AS396998","Path Network, Inc.",3992
 "AS0","",3709
 "AS63949","Akamai Technologies, Inc.",3648
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1545
 "AS32475","Internap Holding LLC",1509
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS36352","HostPapa",1435
+"AS36352","HostPapa",1437
 "AS49870","Alsycon B.V.",1433
 "AS398722","Censys, Inc.",1429
 "AS48925","VibeGAMES B.V.",1425
@@ -48,7 +48,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",844
 "AS56042","China Mobile Communications Corporation",840
 "AS215925","VPSVAULT.HOST LTD",837
-"AS20052","Arbor Networks, Inc.",808
+"AS20052","Arbor Networks, Inc.",809
 "AS8452","TE-AS",805
 "AS51167","Contabo GmbH",795
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
@@ -124,8 +124,8 @@ ASN,Organization,IP_Count
 "AS47331","TTNet A.S.",104
 "AS8560","IONOS SE",101
 "AS40021","Nubes, LLC",100
+"AS4766","Korea Telecom",100
 "AS199785","Cloud Hosting Solutions, Limited.",99
-"AS4766","Korea Telecom",99
 "AS215240","Silent Connection Ltd.",96
 "AS205352","KABELNET LTD",93
 "AS136435","ELITE COMMUNICATION",92
@@ -648,6 +648,7 @@ ASN,Organization,IP_Count
 "AS13188","CONTENT DELIVERY NETWORK LTD",5
 "AS13285","TalkTalk Communications Limited",5
 "AS13489","EPM Telecomunicaciones S.A. E.S.P.",5
+"AS135089","China Telecom",5
 "AS135357","HONG KONG KOWLOON TELECOMMUNICATIONS CO.,LIMITED",5
 "AS135411","Red Grapes Pte Ltd",5
 "AS136188","NINGBO, ZHEJIANG Province, P.R.China.",5
@@ -736,7 +737,6 @@ ASN,Organization,IP_Count
 "AS13110","INEA sp. z o.o.",4
 "AS131607","Digidom CableTV Co., LTD.",4
 "AS13287","FALBOX S.L.",4
-"AS135089","China Telecom",4
 "AS136009","SpeedNet",4
 "AS136121","PT Digital Media Telematika",4
 "AS136280","Costel Networks P Ltd",4
