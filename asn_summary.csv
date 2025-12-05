@@ -5,10 +5,10 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14661
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10630
-"AS14061","DigitalOcean, LLC",8349
+"AS14061","DigitalOcean, LLC",8355
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5980
-"AS4134","Chinanet",5064
+"AS4134","Chinanet",5065
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4457
 "AS16509","Amazon.com, Inc.",4366
@@ -29,8 +29,8 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1545
 "AS32475","Internap Holding LLC",1513
+"AS49870","Alsycon B.V.",1448
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS49870","Alsycon B.V.",1445
 "AS36352","HostPapa",1444
 "AS398722","Censys, Inc.",1430
 "AS48925","VibeGAMES B.V.",1425
@@ -48,7 +48,7 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS215925","VPSVAULT.HOST LTD",837
-"AS20052","Arbor Networks, Inc.",811
+"AS20052","Arbor Networks, Inc.",812
 "AS8452","TE-AS",805
 "AS51167","Contabo GmbH",795
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
@@ -110,7 +110,7 @@ ASN,Organization,IP_Count
 "AS47105","Vault Dweller OU",141
 "AS14956","RouterHosting LLC",139
 "AS34984","Superonline Iletisim Hizmetleri A.S.",138
-"AS6739","VODAFONE ONO, S.A.",134
+"AS6739","VODAFONE ONO, S.A.",135
 "AS13238","YANDEX LLC",130
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
