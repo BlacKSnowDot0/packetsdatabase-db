@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87809
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22164
-"AS398324","Censys, Inc.",14654
+"AS398324","Censys, Inc.",14655
 "AS32934","Facebook, Inc.",12868
-"AS396982","Google LLC",10628
+"AS396982","Google LLC",10629
 "AS14061","DigitalOcean, LLC",8346
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5979
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1545
 "AS32475","Internap Holding LLC",1510
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS36352","HostPapa",1442
+"AS36352","HostPapa",1443
 "AS49870","Alsycon B.V.",1433
 "AS398722","Censys, Inc.",1429
 "AS48925","VibeGAMES B.V.",1425
@@ -98,7 +98,7 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS12389","PJSC Rostelecom",210
-"AS29484","Ruhr-Universitaet Bochum",200
+"AS29484","Ruhr-Universitaet Bochum",201
 "AS12555","Data-center IMAQLIQ Ltd.",193
 "AS7552","Viettel Group",182
 "AS63199","CDS Global Cloud Co., Ltd",181
@@ -163,9 +163,9 @@ ASN,Organization,IP_Count
 "AS5650","Frontier Communications of America, Inc.",64
 "AS17378","TierPoint, LLC",63
 "AS6128","Cablevision Systems Corp.",63
+"AS19318","Interserver, Inc",62
 "AS2856","British Telecommunications PLC",62
 "AS140717","China Unicom",61
-"AS19318","Interserver, Inc",61
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS4812","China Telecom (Group)",60
 "AS20115","Charter Communications",59
