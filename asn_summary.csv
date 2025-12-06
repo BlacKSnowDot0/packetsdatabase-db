@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87809
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22168
-"AS398324","Censys, Inc.",14685
+"AS211298","Driftnet Ltd",22169
+"AS398324","Censys, Inc.",14689
 "AS32934","Facebook, Inc.",12868
-"AS396982","Google LLC",10635
-"AS14061","DigitalOcean, LLC",8356
+"AS396982","Google LLC",10636
+"AS14061","DigitalOcean, LLC",8359
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5981
 "AS4134","Chinanet",5067
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1884
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1545
-"AS32475","Internap Holding LLC",1518
+"AS32475","Internap Holding LLC",1519
 "AS49870","Alsycon B.V.",1453
 "AS36352","HostPapa",1447
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -108,8 +108,8 @@ ASN,Organization,IP_Count
 "AS206264","Amarutu Technology Ltd",153
 "AS262551","Farol Telecom",152
 "AS47105","Vault Dweller OU",141
+"AS34984","Superonline Iletisim Hizmetleri A.S.",140
 "AS14956","RouterHosting LLC",139
-"AS34984","Superonline Iletisim Hizmetleri A.S.",139
 "AS6739","VODAFONE ONO, S.A.",136
 "AS13238","YANDEX LLC",130
 "AS137409","GSL Networks Pty LTD",128
@@ -136,8 +136,8 @@ ASN,Organization,IP_Count
 "AS58461","Chinanet",85
 "AS271795","SERVITELCONET CIA. LTDA.",84
 "AS16735","ALGAR TELECOM S/A",83
+"AS8402","PJSC ""Vimpelcom""",82
 "AS5617","Orange Polska Spolka Akcyjna",81
-"AS8402","PJSC ""Vimpelcom""",81
 "AS200019","ALEXHOST SRL",78
 "AS22773","Cox Communications Inc.",77
 "AS23724","IDC, China Telecommunications Corporation",77
@@ -226,10 +226,10 @@ ASN,Organization,IP_Count
 "AS30083","velia.net",35
 "AS4760","PCCW IMS Limited",35
 "AS146817","Hubei Feixun Network Co., Ltd",34
+"AS21127","Joint Stock Company TransTeleCom",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS1103","SURF B.V.",33
 "AS210509","Optimum Line for Internet Services Ltd.",33
-"AS21127","Joint Stock Company TransTeleCom",33
 "AS329009","Spectrum Internet Service Ltd",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
@@ -238,11 +238,11 @@ ASN,Organization,IP_Count
 "AS263355","GTR NET COMUNICACOES EIRELI",32
 "AS269193","Iktelecom Ltda",32
 "AS55990","Huawei Cloud Service data center",32
+"AS8796","FD-298-8796",32
 "AS1241","RIPE Network Coordination Centre",31
 "AS13213","UK-2 Limited",31
 "AS17557","Pakistan Telecommuication company limited",31
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",31
-"AS8796","FD-298-8796",31
 "AS200593","PROSPERO OOO",30
 "AS214417","Andrii Hrosh",30
 "AS4847","China Networks Inter-Exchange",30
