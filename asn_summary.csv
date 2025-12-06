@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87817
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22174
-"AS398324","Censys, Inc.",14711
+"AS398324","Censys, Inc.",14713
 "AS32934","Facebook, Inc.",12868
-"AS396982","Google LLC",10640
+"AS396982","Google LLC",10641
 "AS14061","DigitalOcean, LLC",8361
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5983
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4457
 "AS16509","Amazon.com, Inc.",4366
-"AS45102","Alibaba (US) Technology Co., Ltd.",4116
+"AS45102","Alibaba (US) Technology Co., Ltd.",4117
 "AS396998","Path Network, Inc.",3992
 "AS0","",3717
 "AS63949","Akamai Technologies, Inc.",3649
@@ -122,8 +122,8 @@ ASN,Organization,IP_Count
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",108
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS47331","TTNet A.S.",104
+"AS4766","Korea Telecom",102
 "AS215240","Silent Connection Ltd.",101
-"AS4766","Korea Telecom",101
 "AS8560","IONOS SE",101
 "AS40021","Nubes, LLC",100
 "AS199785","Cloud Hosting Solutions, Limited.",99
@@ -573,6 +573,7 @@ ASN,Organization,IP_Count
 "AS11562","Net Uno, C.A.",6
 "AS11888","Television Internacional, S.A. de C.V.",6
 "AS132116","Ani Network Pvt Ltd",6
+"AS13287","FALBOX S.L.",6
 "AS13430","THE WISP.NET CORP.",6
 "AS135523","Multinet Broadband",6
 "AS135905","VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",6
@@ -649,7 +650,6 @@ ASN,Organization,IP_Count
 "AS131267","Star Telecom",5
 "AS13188","CONTENT DELIVERY NETWORK LTD",5
 "AS13285","TalkTalk Communications Limited",5
-"AS13287","FALBOX S.L.",5
 "AS13489","EPM Telecomunicaciones S.A. E.S.P.",5
 "AS135089","China Telecom",5
 "AS135357","HONG KONG KOWLOON TELECOMMUNICATIONS CO.,LIMITED",5
@@ -805,6 +805,7 @@ ASN,Organization,IP_Count
 "AS3356","Level 3 Communications, Inc.",4
 "AS35104","Jusan Mobile JSC",4
 "AS36994","Vodacom",4
+"AS37517","CABO VERDE TELECOM, S.A",4
 "AS395570","Beanfield Technologies Inc.",4
 "AS39816","Volta Communications Sp.z.o.o.",4
 "AS39891","Saudi Telecom Company JSC",4
@@ -982,7 +983,6 @@ ASN,Organization,IP_Count
 "AS36884","Wana Corporate",3
 "AS36925","MEDITELECOM",3
 "AS37049","South African Digital Villages (Pty) Ltd",3
-"AS37517","CABO VERDE TELECOM, S.A",3
 "AS37671","3S INF",3
 "AS399244","AME Hosting LLC",3
 "AS40065","CNSERVERS LLC",3
