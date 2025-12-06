@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87816
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22171
-"AS398324","Censys, Inc.",14699
+"AS398324","Censys, Inc.",14700
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10638
 "AS14061","DigitalOcean, LLC",8361
@@ -23,7 +23,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2726
 "AS142002","Scloud Pte Ltd",2569
-"AS23470","ReliableSite.Net LLC",2280
+"AS23470","ReliableSite.Net LLC",2281
 "AS9808","China Mobile",2083
 "AS202425","IP Volume inc",1886
 "AS214295","SKYNET NETWORK LTD",1631
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS51167","Contabo GmbH",800
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
 "AS14618","Amazon.com, Inc.",705
-"AS10439","CariNet, Inc.",703
+"AS10439","CariNet, Inc.",704
 "AS4837","CHINA UNICOM China169 Backbone",604
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",584
@@ -181,8 +181,8 @@ ASN,Organization,IP_Count
 "AS30058","FDCservers.net",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS12816","Leibniz-Rechenzentrum",53
+"AS396356","Latitude.sh",52
 "AS30633","Leaseweb USA, Inc.",51
-"AS396356","Latitude.sh",50
 "AS46475","Limestone Networks, Inc.",49
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS200590","NLS Kazakhstan LLC",48
