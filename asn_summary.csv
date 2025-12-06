@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87817
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22174
-"AS398324","Censys, Inc.",14714
+"AS398324","Censys, Inc.",14716
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10641
-"AS14061","DigitalOcean, LLC",8362
+"AS14061","DigitalOcean, LLC",8363
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5983
 "AS4134","Chinanet",5068
@@ -87,7 +87,7 @@ ASN,Organization,IP_Count
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",295
 "AS213613","BOTSHIELD LTD",293
-"AS208843","Alpha Strike Labs GmbH",288
+"AS208843","Alpha Strike Labs GmbH",289
 "AS48090","TECHOFF SRV LIMITED",260
 "AS18403","FPT Telecom Company",258
 "AS141718","haoxiangyun",254
@@ -342,12 +342,12 @@ ASN,Organization,IP_Count
 "AS11878","tzulo, inc.",18
 "AS18049","Taiwan Infrastructure Network Technologie",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
+"AS24757","EthioNet",18
 "AS39603","P4 Sp. z o.o.",18
 "AS400655","NixLabs Networks",18
 "AS136958","China Unicom Guangdong IP network",17
 "AS148981","China Telecom",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
-"AS24757","EthioNet",17
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
 "AS33363","Charter Communications, Inc",17
 "AS45117","Ishan's Network",17
