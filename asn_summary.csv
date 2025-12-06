@@ -5,14 +5,14 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14695
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10637
-"AS14061","DigitalOcean, LLC",8359
+"AS14061","DigitalOcean, LLC",8360
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5981
 "AS4134","Chinanet",5067
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4457
 "AS16509","Amazon.com, Inc.",4366
-"AS45102","Alibaba (US) Technology Co., Ltd.",4113
+"AS45102","Alibaba (US) Technology Co., Ltd.",4115
 "AS396998","Path Network, Inc.",3992
 "AS0","",3713
 "AS63949","Akamai Technologies, Inc.",3648
@@ -23,7 +23,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2725
 "AS142002","Scloud Pte Ltd",2569
-"AS23470","ReliableSite.Net LLC",2259
+"AS23470","ReliableSite.Net LLC",2269
 "AS9808","China Mobile",2083
 "AS202425","IP Volume inc",1885
 "AS214295","SKYNET NETWORK LTD",1631
@@ -74,7 +74,7 @@ ASN,Organization,IP_Count
 "AS7018","AT&T Enterprises, LLC",392
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS47890","UNMANAGED LTD",383
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",380
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",381
 "AS21859","Zenlayer Inc",366
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS7922","Comcast Cable Communications, LLC",351
@@ -90,7 +90,7 @@ ASN,Organization,IP_Count
 "AS208843","Alpha Strike Labs GmbH",287
 "AS48090","TECHOFF SRV LIMITED",260
 "AS18403","FPT Telecom Company",258
-"AS141718","haoxiangyun",252
+"AS141718","haoxiangyun",253
 "AS60223","Netiface Limited",250
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",227
@@ -100,7 +100,7 @@ ASN,Organization,IP_Count
 "AS12389","PJSC Rostelecom",212
 "AS29484","Ruhr-Universitaet Bochum",201
 "AS12555","Data-center IMAQLIQ Ltd.",193
-"AS63199","CDS Global Cloud Co., Ltd",182
+"AS63199","CDS Global Cloud Co., Ltd",183
 "AS7552","Viettel Group",182
 "AS401116","Nybula LLC",170
 "AS50219","LNK SYSTEMS MUNTENIA SRL",164
@@ -127,7 +127,7 @@ ASN,Organization,IP_Count
 "AS215240","Silent Connection Ltd.",100
 "AS40021","Nubes, LLC",100
 "AS199785","Cloud Hosting Solutions, Limited.",99
-"AS136435","ELITE COMMUNICATION",93
+"AS136435","ELITE COMMUNICATION",94
 "AS205352","KABELNET LTD",93
 "AS63018","Dedicated.com",92
 "AS28209","Under Servicos de Internet Ltda",90
