@@ -23,7 +23,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2729
 "AS142002","Scloud Pte Ltd",2569
-"AS23470","ReliableSite.Net LLC",2340
+"AS23470","ReliableSite.Net LLC",2350
 "AS9808","China Mobile",2083
 "AS202425","IP Volume inc",1888
 "AS214295","SKYNET NETWORK LTD",1631
@@ -50,9 +50,9 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",837
 "AS20052","Arbor Networks, Inc.",813
 "AS8452","TE-AS",805
-"AS51167","Contabo GmbH",801
+"AS51167","Contabo GmbH",802
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
-"AS14618","Amazon.com, Inc.",706
+"AS14618","Amazon.com, Inc.",707
 "AS10439","CariNet, Inc.",705
 "AS4837","CHINA UNICOM China169 Backbone",604
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -218,11 +218,11 @@ ASN,Organization,IP_Count
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",37
 "AS8167","V tal",37
 "AS9198","JSC Kazakhtelecom",37
+"AS202796","JSR IT B.V.",36
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",36
 "AS30083","velia.net",36
 "AS42624","Global-Data System IT Corporation",36
 "AS149705","PT Wijaya Trimitra Indonesia",35
-"AS202796","JSR IT B.V.",35
 "AS213790","Limited Network LTD",35
 "AS4760","PCCW IMS Limited",35
 "AS146817","Hubei Feixun Network Co., Ltd",34
