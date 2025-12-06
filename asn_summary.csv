@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87816
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22171
-"AS398324","Censys, Inc.",14700
+"AS398324","Censys, Inc.",14702
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10639
 "AS14061","DigitalOcean, LLC",8361
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",557
 "AS198953","Proton66 OOO",527
 "AS53667","FranTech Solutions",523
-"AS9829","Bharat Sanchar Nigam Ltd",511
+"AS9829","Bharat Sanchar Nigam Ltd",512
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
 "AS212238","Datacamp Limited",466
@@ -226,10 +226,10 @@ ASN,Organization,IP_Count
 "AS30083","velia.net",35
 "AS4760","PCCW IMS Limited",35
 "AS146817","Hubei Feixun Network Co., Ltd",34
+"AS210509","Optimum Line for Internet Services Ltd.",34
 "AS21127","Joint Stock Company TransTeleCom",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS1103","SURF B.V.",33
-"AS210509","Optimum Line for Internet Services Ltd.",33
 "AS329009","Spectrum Internet Service Ltd",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
@@ -256,6 +256,7 @@ ASN,Organization,IP_Count
 "AS30860","Virtual Systems LLC",28
 "AS3269","Telecom Italia S.p.A.",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
+"AS852","TELUS Communications Inc.",28
 "AS9123","TimeWeb Ltd.",28
 "AS329490","Promethean Consulting Limited",27
 "AS34534","FBW NETWORKS SAS",27
@@ -263,7 +264,6 @@ ASN,Organization,IP_Count
 "AS53118","NETLINE TELECOM",27
 "AS56067","Metrabyte Co.,Ltd",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
-"AS852","TELUS Communications Inc.",27
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",26
 "AS17995","PT iForte Global Internet",26
 "AS2200","Renater",26
@@ -303,6 +303,7 @@ ASN,Organization,IP_Count
 "AS12479","Orange Espagne SA",21
 "AS138886","PT Data Buana Nusantara",21
 "AS17816","China Unicom IP network China169 Guangdong province",21
+"AS20853","eTOP sp. z o.o.",21
 "AS214668","AxusHost B.V.",21
 "AS24348","CERNET2 IX at Tsinghua University",21
 "AS2914","NTT America, Inc.",21
@@ -341,7 +342,6 @@ ASN,Organization,IP_Count
 "AS11878","tzulo, inc.",18
 "AS18049","Taiwan Infrastructure Network Technologie",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
-"AS20853","eTOP sp. z o.o.",18
 "AS39603","P4 Sp. z o.o.",18
 "AS400655","NixLabs Networks",18
 "AS136958","China Unicom Guangdong IP network",17
