@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87817
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87818
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22174
-"AS398324","Censys, Inc.",14716
+"AS398324","Censys, Inc.",14718
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10641
 "AS14061","DigitalOcean, LLC",8363
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1545
 "AS32475","Internap Holding LLC",1530
 "AS49870","Alsycon B.V.",1453
-"AS36352","HostPapa",1447
+"AS36352","HostPapa",1448
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1430
 "AS48925","VibeGAMES B.V.",1426
@@ -136,7 +136,7 @@ ASN,Organization,IP_Count
 "AS58461","Chinanet",85
 "AS271795","SERVITELCONET CIA. LTDA.",84
 "AS16735","ALGAR TELECOM S/A",83
-"AS8402","PJSC ""Vimpelcom""",82
+"AS8402","PJSC ""Vimpelcom""",83
 "AS5617","Orange Polska Spolka Akcyjna",81
 "AS200019","ALEXHOST SRL",78
 "AS22773","Cox Communications Inc.",77
@@ -154,10 +154,10 @@ ASN,Organization,IP_Count
 "AS834","IPXO LLC",68
 "AS328867","Corebach Backbone SARL",67
 "AS55720","Gigabit Hosting Sdn Bhd",67
+"AS210644","AEZA INTERNATIONAL LTD",66
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
 "AS215590","DpkgSoft International Limited",66
 "AS57588","Hayat for Internet & communication LLC",66
-"AS210644","AEZA INTERNATIONAL LTD",65
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS5650","Frontier Communications of America, Inc.",64
@@ -181,8 +181,8 @@ ASN,Organization,IP_Count
 "AS30058","FDCservers.net",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS12816","Leibniz-Rechenzentrum",53
+"AS30633","Leaseweb USA, Inc.",52
 "AS396356","Latitude.sh",52
-"AS30633","Leaseweb USA, Inc.",51
 "AS46475","Limestone Networks, Inc.",50
 "AS200590","NLS Kazakhstan LLC",49
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
