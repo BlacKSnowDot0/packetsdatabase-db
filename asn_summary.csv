@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87812
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22170
-"AS398324","Censys, Inc.",14696
+"AS398324","Censys, Inc.",14697
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10637
 "AS14061","DigitalOcean, LLC",8360
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3234
 "AS8075","Microsoft Corporation",2854
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2725
+"AS6939","Hurricane Electric LLC",2726
 "AS142002","Scloud Pte Ltd",2569
 "AS23470","ReliableSite.Net LLC",2269
 "AS9808","China Mobile",2083
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",557
 "AS198953","Proton66 OOO",527
 "AS53667","FranTech Solutions",523
-"AS9829","Bharat Sanchar Nigam Ltd",510
+"AS9829","Bharat Sanchar Nigam Ltd",511
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
 "AS212238","Datacamp Limited",466
@@ -550,6 +550,7 @@ ASN,Organization,IP_Count
 "AS267507","SRX TECNOLOGIA DA INFORMACAO LTDA",7
 "AS269003","KIMNET SOLUCOES",7
 "AS27831","Colombia Móvil",7
+"AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",7
 "AS31042","Serbia BroadBand-Srpske Kablovske mreze d.o.o.",7
 "AS31122","Digiweb ltd",7
 "AS3216","PJSC ""Vimpelcom""",7
@@ -610,7 +611,6 @@ ASN,Organization,IP_Count
 "AS27747","Telecentro S.A.",6
 "AS27983","Red Intercable Digital S.A.",6
 "AS28210","GIGA MAIS FIBRA TELECOMUNICACOES S.A.",6
-"AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",6
 "AS33588","Charter Communications",6
 "AS33771","Safaricom Limited",6
 "AS33915","Vodafone Libertel B.V.",6
