@@ -1,14 +1,14 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87815
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87816
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22170
-"AS398324","Censys, Inc.",14698
+"AS211298","Driftnet Ltd",22171
+"AS398324","Censys, Inc.",14699
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10638
 "AS14061","DigitalOcean, LLC",8361
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5982
-"AS4134","Chinanet",5067
+"AS4134","Chinanet",5068
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4457
 "AS16509","Amazon.com, Inc.",4366
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3419
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3234
-"AS8075","Microsoft Corporation",2855
+"AS8075","Microsoft Corporation",2856
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2726
 "AS142002","Scloud Pte Ltd",2569
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1886
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1545
-"AS32475","Internap Holding LLC",1524
+"AS32475","Internap Holding LLC",1525
 "AS49870","Alsycon B.V.",1453
 "AS36352","HostPapa",1447
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -50,7 +50,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",837
 "AS20052","Arbor Networks, Inc.",813
 "AS8452","TE-AS",805
-"AS51167","Contabo GmbH",799
+"AS51167","Contabo GmbH",800
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
 "AS14618","Amazon.com, Inc.",705
 "AS10439","CariNet, Inc.",703
@@ -87,7 +87,7 @@ ASN,Organization,IP_Count
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",295
 "AS213613","BOTSHIELD LTD",293
-"AS208843","Alpha Strike Labs GmbH",287
+"AS208843","Alpha Strike Labs GmbH",288
 "AS48090","TECHOFF SRV LIMITED",260
 "AS18403","FPT Telecom Company",258
 "AS141718","haoxiangyun",254
@@ -98,7 +98,7 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS12389","PJSC Rostelecom",212
-"AS29484","Ruhr-Universitaet Bochum",201
+"AS29484","Ruhr-Universitaet Bochum",202
 "AS12555","Data-center IMAQLIQ Ltd.",193
 "AS63199","CDS Global Cloud Co., Ltd",183
 "AS7552","Viettel Group",182
@@ -109,7 +109,7 @@ ASN,Organization,IP_Count
 "AS262551","Farol Telecom",152
 "AS34984","Superonline Iletisim Hizmetleri A.S.",141
 "AS47105","Vault Dweller OU",141
-"AS14956","RouterHosting LLC",139
+"AS14956","RouterHosting LLC",140
 "AS6739","VODAFONE ONO, S.A.",137
 "AS13238","YANDEX LLC",130
 "AS137409","GSL Networks Pty LTD",128
@@ -198,11 +198,11 @@ ASN,Organization,IP_Count
 "AS46844","Sharktech",44
 "AS152194","CTG Server Limited",43
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",43
+"AS44592","SkyLink Data Center BV",43
 "AS20473","The Constant Company, LLC",42
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS21928","T-Mobile USA, Inc.",42
 "AS262378","Compuservice Empreendimentos Ltda",42
-"AS44592","SkyLink Data Center BV",42
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",42
 "AS7738","V tal",42
 "AS12322","Free SAS",41
@@ -412,6 +412,7 @@ ASN,Organization,IP_Count
 "AS202520","SkyPass Solutions Sp. z.o.o.",13
 "AS213194","Nechaev Dmitry Sergeevich",13
 "AS25369","Hydra Communications Ltd",13
+"AS266015","JC2000 Telecomunicações Ltda",13
 "AS272928","P&C ON LINE S.R.L. (NETWAY INTERNET)",13
 "AS28840","PJSC ""TATTELECOM""",13
 "AS29465","MTN NIGERIA Communication limited",13
@@ -423,7 +424,6 @@ ASN,Organization,IP_Count
 "AS9770","LG HelloVision Corp.",13
 "AS2116","GLOBALCONNECT AS",12
 "AS2637","Georgia Institute of Technology",12
-"AS266015","JC2000 Telecomunicações Ltda",12
 "AS29302","Hosting Services Inc",12
 "AS35042","Layer7 Networks GmbH",12
 "AS35297","Dataline LLC",12
@@ -611,6 +611,7 @@ ASN,Organization,IP_Count
 "AS27747","Telecentro S.A.",6
 "AS27983","Red Intercable Digital S.A.",6
 "AS28210","GIGA MAIS FIBRA TELECOMUNICACOES S.A.",6
+"AS32613","Leaseweb Canada Inc.",6
 "AS33588","Charter Communications",6
 "AS33771","Safaricom Limited",6
 "AS33915","Vodafone Libertel B.V.",6
@@ -696,7 +697,6 @@ ASN,Organization,IP_Count
 "AS30036","Mediacom Communications Corp",5
 "AS30753","FHU ""COMPOWER"" Dariusz Krocz",5
 "AS31133","PJSC MegaFon",5
-"AS32613","Leaseweb Canada Inc.",5
 "AS328510","Ikeja Wireless (Pty) Ltd",5
 "AS329244","Connect, Surf and Smile Limited",5
 "AS3326","PRIVATE JOINT STOCK COMPANY ""DATAGROUP""",5
