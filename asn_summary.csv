@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14713
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10641
-"AS14061","DigitalOcean, LLC",8361
+"AS14061","DigitalOcean, LLC",8362
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5983
 "AS4134","Chinanet",5068
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1888
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1545
-"AS32475","Internap Holding LLC",1527
+"AS32475","Internap Holding LLC",1528
 "AS49870","Alsycon B.V.",1453
 "AS36352","HostPapa",1447
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -97,7 +97,7 @@ ASN,Organization,IP_Count
 "AS29066","velia.net Internetdienste GmbH",225
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
-"AS12389","PJSC Rostelecom",212
+"AS12389","PJSC Rostelecom",213
 "AS29484","Ruhr-Universitaet Bochum",202
 "AS12555","Data-center IMAQLIQ Ltd.",193
 "AS63199","CDS Global Cloud Co., Ltd",183
@@ -183,9 +183,9 @@ ASN,Organization,IP_Count
 "AS12816","Leibniz-Rechenzentrum",53
 "AS396356","Latitude.sh",52
 "AS30633","Leaseweb USA, Inc.",51
+"AS200590","NLS Kazakhstan LLC",49
 "AS46475","Limestone Networks, Inc.",49
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
-"AS200590","NLS Kazakhstan LLC",48
 "AS266181","GOLDEN LINK",48
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",47
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",47
@@ -532,6 +532,7 @@ ASN,Organization,IP_Count
 "AS1257","Tele2 Sverige AB",7
 "AS133661","Netplus Broadband Services Private Limited",7
 "AS135478","PT. Cyberindo Aditama",7
+"AS135905","VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",7
 "AS13977","Consolidated Communications, Inc.",7
 "AS141433","Netcom Internet Service",7
 "AS149360","PT Indo Telemedia Solusi",7
@@ -554,6 +555,7 @@ ASN,Organization,IP_Count
 "AS31042","Serbia BroadBand-Srpske Kablovske mreze d.o.o.",7
 "AS31122","Digiweb ltd",7
 "AS3216","PJSC ""Vimpelcom""",7
+"AS32613","Leaseweb Canada Inc.",7
 "AS3329","VODAFONE-PANAFON HELLENIC TELECOMMUNICATIONS COMPANY SA",7
 "AS36924","GVA Cote d'Ivoire SAS",7
 "AS400529","Infraly, LLC",7
@@ -576,7 +578,6 @@ ASN,Organization,IP_Count
 "AS13287","FALBOX S.L.",6
 "AS13430","THE WISP.NET CORP.",6
 "AS135523","Multinet Broadband",6
-"AS135905","VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",6
 "AS135953","Vietnam Online Network Solution Joint Stock Compnay",6
 "AS13999","Mega Cable, S.A. de C.V.",6
 "AS141167","AgotoZ HK Limited",6
@@ -612,7 +613,6 @@ ASN,Organization,IP_Count
 "AS27747","Telecentro S.A.",6
 "AS27983","Red Intercable Digital S.A.",6
 "AS28210","GIGA MAIS FIBRA TELECOMUNICACOES S.A.",6
-"AS32613","Leaseweb Canada Inc.",6
 "AS33588","Charter Communications",6
 "AS33771","Safaricom Limited",6
 "AS33915","Vodafone Libertel B.V.",6
@@ -830,6 +830,7 @@ ASN,Organization,IP_Count
 "AS52777","BR27 Serviços de Tecnologia Ltda.",4
 "AS52941","SPACE NETWORK",4
 "AS53449","OEC Fiber",4
+"AS5378","Vodafone Limited",4
 "AS5416","BEYON B.S.C.",4
 "AS57043","HOSTKEY B.V.",4
 "AS58369","PT. Fiber Networks Indonesia",4
@@ -1018,7 +1019,6 @@ ASN,Organization,IP_Count
 "AS52436","Cable Televisora Color",3
 "AS52771","GIGA BYTE TELECOMUNICACOES LTDA",3
 "AS52783","ALCANS TELECOM LTDA",3
-"AS5378","Vodafone Limited",3
 "AS5391","Hrvatski Telekom d.d.",3
 "AS55685","PT Jala Lintas Media",3
 "AS56400","SPD Chernega Aleksandr Anatolevich",3
