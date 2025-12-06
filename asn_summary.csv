@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22175
 "AS398324","Censys, Inc.",14719
 "AS32934","Facebook, Inc.",12868
-"AS396982","Google LLC",10642
+"AS396982","Google LLC",10643
 "AS14061","DigitalOcean, LLC",8364
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5988
@@ -57,7 +57,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",604
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",584
-"AS12876","ONLINE S.A.S.",572
+"AS12876","ONLINE S.A.S.",573
 "AS9009","M247 Europe SRL",569
 "AS201814","MEVSPACE sp. z o.o.",568
 "AS31148","Freenet LTD",558
@@ -228,9 +228,9 @@ ASN,Organization,IP_Count
 "AS146817","Hubei Feixun Network Co., Ltd",34
 "AS210509","Optimum Line for Internet Services Ltd.",34
 "AS21127","Joint Stock Company TransTeleCom",34
+"AS329009","Spectrum Internet Service Ltd",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS1103","SURF B.V.",33
-"AS329009","Spectrum Internet Service Ltd",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
 "AS12912","T-Mobile Polska S.A.",32
