@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3234
 "AS8075","Microsoft Corporation",2856
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2728
+"AS6939","Hurricane Electric LLC",2729
 "AS142002","Scloud Pte Ltd",2569
 "AS23470","ReliableSite.Net LLC",2330
 "AS9808","China Mobile",2083
@@ -71,7 +71,7 @@ ASN,Organization,IP_Count
 "AS212238","Datacamp Limited",466
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
-"AS7018","AT&T Enterprises, LLC",392
+"AS7018","AT&T Enterprises, LLC",393
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",383
 "AS47890","UNMANAGED LTD",383
@@ -2645,6 +2645,7 @@ ASN,Organization,IP_Count
 "AS37649","SAGA AFRICA HOLDINGS LIMITED",1
 "AS37678","BOTSWANA FIBRE NETWORKS (Proprietary) Limited",1
 "AS37680","Cool Ideas Service Provider (Pty) Ltd",1
+"AS37703","AS37703",1
 "AS38001","NewMedia Express Pte Ltd",1
 "AS38019","China Mobile",1
 "AS38103","SK Broadband Co Ltd",1
