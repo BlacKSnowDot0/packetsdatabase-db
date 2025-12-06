@@ -23,9 +23,9 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2728
 "AS142002","Scloud Pte Ltd",2569
-"AS23470","ReliableSite.Net LLC",2311
+"AS23470","ReliableSite.Net LLC",2330
 "AS9808","China Mobile",2083
-"AS202425","IP Volume inc",1886
+"AS202425","IP Volume inc",1887
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1545
 "AS32475","Internap Holding LLC",1526
@@ -73,8 +73,8 @@ ASN,Organization,IP_Count
 "AS24186","RailTel Corporation of India Ltd.",406
 "AS7018","AT&T Enterprises, LLC",392
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",383
 "AS47890","UNMANAGED LTD",383
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",382
 "AS21859","Zenlayer Inc",367
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS7922","Comcast Cable Communications, LLC",351
@@ -172,8 +172,8 @@ ASN,Organization,IP_Count
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",59
 "AS49544","i3D.net B.V",59
 "AS20001","Charter Communications Inc",58
+"AS149746","PT Blip Integrator Provider",57
 "AS20278","Nexeon Technologies, Inc.",57
-"AS149746","PT Blip Integrator Provider",56
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
@@ -263,6 +263,7 @@ ASN,Organization,IP_Count
 "AS53118","NETLINE TELECOM",27
 "AS56067","Metrabyte Co.,Ltd",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
+"AS852","TELUS Communications Inc.",27
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",26
 "AS17995","PT iForte Global Internet",26
 "AS2200","Renater",26
@@ -271,7 +272,6 @@ ASN,Organization,IP_Count
 "AS3209","Vodafone GmbH",26
 "AS4713","NTT Communications Corporation",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
-"AS852","TELUS Communications Inc.",26
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",25
 "AS18881","TELEFÔNICA BRASIL S.A",25
 "AS197540","netcup GmbH",25
@@ -341,6 +341,7 @@ ASN,Organization,IP_Count
 "AS11878","tzulo, inc.",18
 "AS18049","Taiwan Infrastructure Network Technologie",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
+"AS20853","eTOP sp. z o.o.",18
 "AS39603","P4 Sp. z o.o.",18
 "AS400655","NixLabs Networks",18
 "AS136958","China Unicom Guangdong IP network",17
@@ -376,7 +377,6 @@ ASN,Organization,IP_Count
 "AS199414","Noah Kolossa",15
 "AS20011","Dimension Data",15
 "AS202448","MVPS LTD",15
-"AS20853","eTOP sp. z o.o.",15
 "AS211619","MAXKO d.o.o.",15
 "AS212027","Daniel Jackson",15
 "AS214309","Aurorix Gaming Solutions Limited",15
