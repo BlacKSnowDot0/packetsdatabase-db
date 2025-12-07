@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4367
 "AS45102","Alibaba (US) Technology Co., Ltd.",4123
 "AS396998","Path Network, Inc.",3992
-"AS0","",3723
+"AS0","",3724
 "AS63949","Akamai Technologies, Inc.",3651
 "AS15169","Google LLC",3419
 "AS398705","Censys, Inc.",3238
@@ -822,6 +822,7 @@ ASN,Organization,IP_Count
 "AS46690","Southern New England Telephone Company and SNET America, Inc.",4
 "AS47165","Omskie kabelnye seti Ltd.",4
 "AS47898","NPK Home-Net Ltd.",4
+"AS48678","PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi",4
 "AS49800","GNC-Alfa CJSC",4
 "AS50274","Alfanet LLC",4
 "AS50576","FREEWAY Plus LLC",4
@@ -1011,7 +1012,6 @@ ASN,Organization,IP_Count
 "AS4818","DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",3
 "AS48411","FOP Samoylenko Oleksandr Volodymirovich",3
 "AS48437","PP ""Merezha""",3
-"AS48678","PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi",3
 "AS48832","Linkdotnet-Jordan",3
 "AS49242","Internet Union Spolka Akcyjna",3
 "AS49332","Lanet Network Ltd",3
@@ -1288,6 +1288,7 @@ ASN,Organization,IP_Count
 "AS268310","IBNET TELECOM LTDA",2
 "AS268401","NETSTART MULTIMIDIA E COMUNICACAO LTDA",2
 "AS268437","BRAXTEL TELECOM E TI",2
+"AS268581","QNAX LTDA",2
 "AS268671","RLNET PROVEDOR",2
 "AS269076","L DA COSTA SILVA COMUNICACOES",2
 "AS269597","STALKER ENGENHARIA EIRELI",2
@@ -2343,7 +2344,6 @@ ASN,Organization,IP_Count
 "AS268537","TAQUARANET SERVICOS DE PROVEDOR DE INTERNET LTDA M",1
 "AS268540","ULTRA FIBER INTERNET LTDA - ME",1
 "AS268551","DMC TELECOM",1
-"AS268581","QNAX LTDA",1
 "AS26860","SWIFTEL COMMUNICATIONS",1
 "AS268710","YES FIBRA TELECOMUNICACOES LTDA",1
 "AS268753","Florestawii Telecom Servicos de Comunicacao LTDA M",1
