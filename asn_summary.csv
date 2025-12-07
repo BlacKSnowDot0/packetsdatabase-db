@@ -1,18 +1,18 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87819
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22175
-"AS398324","Censys, Inc.",14724
+"AS211298","Driftnet Ltd",22176
+"AS398324","Censys, Inc.",14728
 "AS32934","Facebook, Inc.",12868
-"AS396982","Google LLC",10643
-"AS14061","DigitalOcean, LLC",8364
+"AS396982","Google LLC",10644
+"AS14061","DigitalOcean, LLC",8365
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5989
 "AS4134","Chinanet",5068
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4457
 "AS16509","Amazon.com, Inc.",4367
-"AS45102","Alibaba (US) Technology Co., Ltd.",4117
+"AS45102","Alibaba (US) Technology Co., Ltd.",4119
 "AS396998","Path Network, Inc.",3992
 "AS0","",3719
 "AS63949","Akamai Technologies, Inc.",3649
@@ -21,20 +21,20 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3234
 "AS8075","Microsoft Corporation",2856
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2729
+"AS6939","Hurricane Electric LLC",2731
 "AS142002","Scloud Pte Ltd",2569
 "AS23470","ReliableSite.Net LLC",2351
 "AS9808","China Mobile",2083
-"AS202425","IP Volume inc",1889
+"AS202425","IP Volume inc",1890
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1545
-"AS32475","Internap Holding LLC",1532
+"AS32475","Internap Holding LLC",1534
 "AS49870","Alsycon B.V.",1473
 "AS36352","HostPapa",1448
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1430
 "AS48925","VibeGAMES B.V.",1426
-"AS13335","Cloudflare, Inc.",1364
+"AS13335","Cloudflare, Inc.",1365
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1237
 "AS22552","eSited Solutions",1189
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS51167","Contabo GmbH",802
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
-"AS14618","Amazon.com, Inc.",710
+"AS14618","Amazon.com, Inc.",711
 "AS10439","CariNet, Inc.",705
 "AS4837","CHINA UNICOM China169 Backbone",604
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -60,8 +60,8 @@ ASN,Organization,IP_Count
 "AS12876","ONLINE S.A.S.",573
 "AS9009","M247 Europe SRL",569
 "AS201814","MEVSPACE sp. z o.o.",568
+"AS51115","HLL LLC",559
 "AS31148","Freenet LTD",558
-"AS51115","HLL LLC",558
 "AS401120","cheapy.host LLC",557
 "AS198953","Proton66 OOO",527
 "AS53667","FranTech Solutions",524
@@ -93,7 +93,7 @@ ASN,Organization,IP_Count
 "AS141718","haoxiangyun",254
 "AS60223","Netiface Limited",250
 "AS209272","Alviva Holding Limited",230
-"AS701","Verizon Business",227
+"AS701","Verizon Business",228
 "AS29066","velia.net Internetdienste GmbH",225
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
@@ -121,9 +121,9 @@ ASN,Organization,IP_Count
 "AS208287","DC Host INC",110
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",108
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
-"AS47331","TTNet A.S.",104
+"AS47331","TTNet A.S.",105
+"AS215240","Silent Connection Ltd.",102
 "AS4766","Korea Telecom",102
-"AS215240","Silent Connection Ltd.",101
 "AS8560","IONOS SE",101
 "AS40021","Nubes, LLC",100
 "AS199785","Cloud Hosting Solutions, Limited.",99
@@ -132,7 +132,7 @@ ASN,Organization,IP_Count
 "AS63018","Dedicated.com",92
 "AS28209","Under Servicos de Internet Ltda",90
 "AS210125","PRIAM NET Sh.p.k.",89
-"AS11320","LightEdge Solutions",87
+"AS11320","LightEdge Solutions",88
 "AS58461","Chinanet",85
 "AS271795","SERVITELCONET CIA. LTDA.",84
 "AS16735","ALGAR TELECOM S/A",83
@@ -450,6 +450,7 @@ ASN,Organization,IP_Count
 "AS24547","China Mobile",11
 "AS37611","Afrihost (Pty) Ltd",11
 "AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",11
+"AS401152","Ace Data Centers II, L.L.C.",11
 "AS44901","Belcloud LTD",11
 "AS45820","TTSL-ISP DIVISION",11
 "AS58563","CHINANET Hubei province network",11
@@ -462,7 +463,6 @@ ASN,Organization,IP_Count
 "AS328471","HERO TELECOMS (PTY) LTD",10
 "AS36903","Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",10
 "AS37705","TOPNET",10
-"AS401152","Ace Data Centers II, L.L.C.",10
 "AS41420","Xentech B.V.",10
 "AS47524","Turksat Uydu Haberlesme ve Kablo TV Isletme A.S.",10
 "AS49434","FBW NETWORKS SAS",10
