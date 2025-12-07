@@ -48,7 +48,7 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS215925","VPSVAULT.HOST LTD",838
-"AS20052","Arbor Networks, Inc.",813
+"AS20052","Arbor Networks, Inc.",814
 "AS8452","TE-AS",805
 "AS51167","Contabo GmbH",803
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
@@ -919,6 +919,7 @@ ASN,Organization,IP_Count
 "AS20454","SECURED SERVERS LLC",3
 "AS208583","Baffin Bay Networks AB",3
 "AS211826","Istqrar for Servers Services Ltd",3
+"AS212815","Dyjix SAS",3
 "AS213354","INTERNATIONAL HOSTING SOLUTIONS LLP",3
 "AS214382","Bulent Aydin trading as Hostlayici",3
 "AS21499","Host Europe GmbH",3
@@ -1198,7 +1199,6 @@ ASN,Organization,IP_Count
 "AS211895","Serverius Holding B.V.",2
 "AS212047","Civo LTD",2
 "AS212118","Malakhovskyi Hennadii",2
-"AS212815","Dyjix SAS",2
 "AS213186","Yanoor Islam Khan",2
 "AS213725","UK-03AI",2
 "AS214657","Bls Services Tecnologia em Software Ltda",2
