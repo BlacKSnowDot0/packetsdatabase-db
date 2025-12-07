@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87822
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22180
-"AS398324","Censys, Inc.",14766
+"AS398324","Censys, Inc.",14767
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10655
 "AS14061","DigitalOcean, LLC",8377
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1432
 "AS48925","VibeGAMES B.V.",1426
-"AS13335","Cloudflare, Inc.",1369
+"AS13335","Cloudflare, Inc.",1371
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1239
 "AS22552","eSited Solutions",1189
@@ -360,6 +360,7 @@ ASN,Organization,IP_Count
 "AS11427","Charter Communications Inc",16
 "AS138915","Kaopu Cloud HK Limited",16
 "AS140726","China Unicom",16
+"AS19901","Brightspeed",16
 "AS24812","NPK Home-Net Ltd.",16
 "AS25198","INTERKVM HOST SRL",16
 "AS3215","Orange S.A.",16
@@ -373,7 +374,6 @@ ASN,Organization,IP_Count
 "AS136515","Dasca Cable Services, Inc.",15
 "AS15704","XTRA TELECOM S.A.",15
 "AS19871","Network Solutions, LLC",15
-"AS19901","Brightspeed",15
 "AS199414","Noah Kolossa",15
 "AS20011","Dimension Data",15
 "AS202448","MVPS LTD",15
