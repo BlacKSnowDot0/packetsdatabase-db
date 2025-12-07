@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87820
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22176
-"AS398324","Censys, Inc.",14741
+"AS398324","Censys, Inc.",14743
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10648
 "AS14061","DigitalOcean, LLC",8367
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3419
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3234
-"AS8075","Microsoft Corporation",2856
+"AS8075","Microsoft Corporation",2857
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2734
 "AS142002","Scloud Pte Ltd",2569
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1892
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1545
-"AS32475","Internap Holding LLC",1536
+"AS32475","Internap Holding LLC",1538
 "AS49870","Alsycon B.V.",1473
 "AS36352","HostPapa",1448
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -50,7 +50,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",838
 "AS20052","Arbor Networks, Inc.",814
 "AS8452","TE-AS",805
-"AS51167","Contabo GmbH",803
+"AS51167","Contabo GmbH",804
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
 "AS14618","Amazon.com, Inc.",712
 "AS10439","CariNet, Inc.",705
@@ -122,7 +122,7 @@ ASN,Organization,IP_Count
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",108
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS47331","TTNet A.S.",105
-"AS215240","Silent Connection Ltd.",103
+"AS215240","Silent Connection Ltd.",104
 "AS4766","Korea Telecom",102
 "AS8560","IONOS SE",101
 "AS40021","Nubes, LLC",100
