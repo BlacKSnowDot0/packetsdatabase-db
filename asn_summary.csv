@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87822
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22179
+"AS211298","Driftnet Ltd",22180
 "AS398324","Censys, Inc.",14766
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10655
-"AS14061","DigitalOcean, LLC",8376
+"AS14061","DigitalOcean, LLC",8377
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5997
 "AS4134","Chinanet",5070
@@ -23,7 +23,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2736
 "AS142002","Scloud Pte Ltd",2569
-"AS23470","ReliableSite.Net LLC",2351
+"AS23470","ReliableSite.Net LLC",2352
 "AS9808","China Mobile",2083
 "AS202425","IP Volume inc",1896
 "AS214295","SKYNET NETWORK LTD",1631
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS215925","VPSVAULT.HOST LTD",838
 "AS20052","Arbor Networks, Inc.",815
-"AS51167","Contabo GmbH",807
+"AS51167","Contabo GmbH",808
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
 "AS14618","Amazon.com, Inc.",712
@@ -194,9 +194,9 @@ ASN,Organization,IP_Count
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",46
 "AS141995","Contabo Asia Private Limited",45
+"AS44592","SkyLink Data Center BV",45
 "AS210558","1337 Services GmbH",44
 "AS42708","GleSYS AB",44
-"AS44592","SkyLink Data Center BV",44
 "AS46844","Sharktech",44
 "AS152194","CTG Server Limited",43
 "AS20473","The Constant Company, LLC",42
