@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87821
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22176
-"AS398324","Censys, Inc.",14749
+"AS398324","Censys, Inc.",14750
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10651
 "AS14061","DigitalOcean, LLC",8370
@@ -57,7 +57,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",605
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",584
-"AS12876","ONLINE S.A.S.",574
+"AS12876","ONLINE S.A.S.",575
 "AS9009","M247 Europe SRL",569
 "AS201814","MEVSPACE sp. z o.o.",568
 "AS51115","HLL LLC",562
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS401120","cheapy.host LLC",557
 "AS198953","Proton66 OOO",527
 "AS53667","FranTech Solutions",525
-"AS9829","Bharat Sanchar Nigam Ltd",516
+"AS9829","Bharat Sanchar Nigam Ltd",517
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
 "AS212238","Datacamp Limited",466
@@ -120,8 +120,8 @@ ASN,Organization,IP_Count
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",111
 "AS208287","DC Host INC",110
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",108
+"AS215240","Silent Connection Ltd.",106
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
-"AS215240","Silent Connection Ltd.",105
 "AS47331","TTNet A.S.",105
 "AS4766","Korea Telecom",103
 "AS40021","Nubes, LLC",101
