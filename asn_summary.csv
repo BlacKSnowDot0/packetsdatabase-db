@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87822
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87823
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22180
 "AS398324","Censys, Inc.",14768
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10655
-"AS14061","DigitalOcean, LLC",8377
+"AS14061","DigitalOcean, LLC",8378
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5997
 "AS4134","Chinanet",5070
@@ -158,10 +158,10 @@ ASN,Organization,IP_Count
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
 "AS215590","DpkgSoft International Limited",66
 "AS57588","Hayat for Internet & communication LLC",66
+"AS2856","British Telecommunications PLC",65
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS6128","Cablevision Systems Corp.",65
-"AS2856","British Telecommunications PLC",64
 "AS5650","Frontier Communications of America, Inc.",64
 "AS17378","TierPoint, LLC",63
 "AS19318","Interserver, Inc",62
@@ -430,6 +430,7 @@ ASN,Organization,IP_Count
 "AS36992","ETISALAT MISR",12
 "AS38264","Wateen Telecom Limited",12
 "AS400992","ZhouyiSat Communications",12
+"AS401152","Ace Data Centers II, L.L.C.",12
 "AS41075","ATW Internet Kft.",12
 "AS41436","Kamatera Inc",12
 "AS4181","TDS TELECOM",12
@@ -450,7 +451,6 @@ ASN,Organization,IP_Count
 "AS24547","China Mobile",11
 "AS37611","Afrihost (Pty) Ltd",11
 "AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",11
-"AS401152","Ace Data Centers II, L.L.C.",11
 "AS44901","Belcloud LTD",11
 "AS45820","TTSL-ISP DIVISION",11
 "AS58563","CHINANET Hubei province network",11
