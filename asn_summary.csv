@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87822
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22179
-"AS398324","Censys, Inc.",14761
+"AS398324","Censys, Inc.",14762
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10652
 "AS14061","DigitalOcean, LLC",8376
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5993
+"AS16276","OVH SAS",5996
 "AS4134","Chinanet",5070
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4457
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1432
 "AS48925","VibeGAMES B.V.",1426
-"AS13335","Cloudflare, Inc.",1367
+"AS13335","Cloudflare, Inc.",1369
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1239
 "AS22552","eSited Solutions",1189
@@ -110,7 +110,7 @@ ASN,Organization,IP_Count
 "AS34984","Superonline Iletisim Hizmetleri A.S.",141
 "AS47105","Vault Dweller OU",141
 "AS14956","RouterHosting LLC",140
-"AS6739","VODAFONE ONO, S.A.",139
+"AS6739","VODAFONE ONO, S.A.",140
 "AS13238","YANDEX LLC",130
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
@@ -192,8 +192,8 @@ ASN,Organization,IP_Count
 "AS10796","Charter Communications Inc",46
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
+"AS263025","ISPTEC Sistemas de Comunicação Eireli",46
 "AS141995","Contabo Asia Private Limited",45
-"AS263025","ISPTEC Sistemas de Comunicação Eireli",45
 "AS210558","1337 Services GmbH",44
 "AS42708","GleSYS AB",44
 "AS44592","SkyLink Data Center BV",44
@@ -2925,6 +2925,7 @@ ASN,Organization,IP_Count
 "AS55799","TechAvenue Sdn Bhd",1
 "AS55821","RADIUS TELECOMS, INC.",1
 "AS55824","National Knowledge Network",1
+"AS56089","OFFRATEL",1
 "AS56150","Viet Solutions Services Trading Company Limited",1
 "AS56207","ComClark Network & Technology Corp",1
 "AS56231","MEASAT Broadcast Network Systems Sdn. Bhd.",1
