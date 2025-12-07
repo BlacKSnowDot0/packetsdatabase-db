@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14749
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10651
-"AS14061","DigitalOcean, LLC",8369
+"AS14061","DigitalOcean, LLC",8370
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5992
 "AS4134","Chinanet",5068
@@ -98,7 +98,7 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS12389","PJSC Rostelecom",214
-"AS29484","Ruhr-Universitaet Bochum",202
+"AS29484","Ruhr-Universitaet Bochum",203
 "AS12555","Data-center IMAQLIQ Ltd.",193
 "AS63199","CDS Global Cloud Co., Ltd",183
 "AS7552","Viettel Group",182
@@ -196,9 +196,9 @@ ASN,Organization,IP_Count
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",45
 "AS210558","1337 Services GmbH",44
 "AS42708","GleSYS AB",44
+"AS44592","SkyLink Data Center BV",44
 "AS46844","Sharktech",44
 "AS152194","CTG Server Limited",43
-"AS44592","SkyLink Data Center BV",43
 "AS20473","The Constant Company, LLC",42
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS21928","T-Mobile USA, Inc.",42
