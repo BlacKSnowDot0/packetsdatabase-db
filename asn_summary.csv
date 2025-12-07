@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87822
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22179
-"AS398324","Censys, Inc.",14763
+"AS398324","Censys, Inc.",14765
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10653
 "AS14061","DigitalOcean, LLC",8376
@@ -64,8 +64,8 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS198953","Proton66 OOO",527
-"AS53667","FranTech Solutions",525
-"AS9829","Bharat Sanchar Nigam Ltd",519
+"AS53667","FranTech Solutions",526
+"AS9829","Bharat Sanchar Nigam Ltd",520
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
 "AS212238","Datacamp Limited",466
@@ -96,8 +96,8 @@ ASN,Organization,IP_Count
 "AS701","Verizon Business",228
 "AS29066","velia.net Internetdienste GmbH",225
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
+"AS12389","PJSC Rostelecom",215
 "AS14987","Rethem Hosting LLC",215
-"AS12389","PJSC Rostelecom",214
 "AS29484","Ruhr-Universitaet Bochum",203
 "AS12555","Data-center IMAQLIQ Ltd.",193
 "AS63199","CDS Global Cloud Co., Ltd",183
