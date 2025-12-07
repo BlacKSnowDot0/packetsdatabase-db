@@ -8,7 +8,7 @@ ASN,Organization,IP_Count
 "AS14061","DigitalOcean, LLC",8373
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5992
-"AS4134","Chinanet",5069
+"AS4134","Chinanet",5070
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4457
 "AS16509","Amazon.com, Inc.",4367
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2569
 "AS23470","ReliableSite.Net LLC",2351
 "AS9808","China Mobile",2083
-"AS202425","IP Volume inc",1894
+"AS202425","IP Volume inc",1895
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1545
 "AS32475","Internap Holding LLC",1544
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS48925","VibeGAMES B.V.",1426
 "AS13335","Cloudflare, Inc.",1367
 "AS215269","LAZYCLOUD LTD",1312
-"AS174","Cogent Communications",1238
+"AS174","Cogent Communications",1239
 "AS22552","eSited Solutions",1189
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
@@ -57,7 +57,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",605
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",584
-"AS12876","ONLINE S.A.S.",575
+"AS12876","ONLINE S.A.S.",576
 "AS9009","M247 Europe SRL",569
 "AS201814","MEVSPACE sp. z o.o.",568
 "AS51115","HLL LLC",562
@@ -2975,6 +2975,7 @@ ASN,Organization,IP_Count
 "AS59365","BD Networks",1
 "AS59478","LLC IP SERVICE",1
 "AS59517","Multistream Ltd.",1
+"AS59600","Atlas Telecom Ltd.",1
 "AS59825","Infanet Ltd.",1
 "AS59878","BFB ONE FZ-LLC",1
 "AS60072","LLC EGS-Telecom",1
