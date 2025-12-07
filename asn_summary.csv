@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14745
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10649
-"AS14061","DigitalOcean, LLC",8368
+"AS14061","DigitalOcean, LLC",8369
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5992
 "AS4134","Chinanet",5068
@@ -18,7 +18,7 @@ ASN,Organization,IP_Count
 "AS63949","Akamai Technologies, Inc.",3651
 "AS15169","Google LLC",3419
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3234
+"AS51396","Pfcloud UG",3235
 "AS8075","Microsoft Corporation",2857
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2735
@@ -121,8 +121,8 @@ ASN,Organization,IP_Count
 "AS208287","DC Host INC",110
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",108
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
+"AS215240","Silent Connection Ltd.",105
 "AS47331","TTNet A.S.",105
-"AS215240","Silent Connection Ltd.",104
 "AS4766","Korea Telecom",103
 "AS8560","IONOS SE",101
 "AS40021","Nubes, LLC",100
@@ -256,11 +256,11 @@ ASN,Organization,IP_Count
 "AS141679","China Telecom",28
 "AS30860","Virtual Systems LLC",28
 "AS3269","Telecom Italia S.p.A.",28
+"AS3786","LG DACOM Corporation",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS852","TELUS Communications Inc.",28
 "AS329490","Promethean Consulting Limited",27
 "AS34534","FBW NETWORKS SAS",27
-"AS3786","LG DACOM Corporation",27
 "AS53118","NETLINE TELECOM",27
 "AS56067","Metrabyte Co.,Ltd",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
@@ -576,6 +576,7 @@ ASN,Organization,IP_Count
 "AS9981","Saero Network Service LTD",7
 "AS11562","Net Uno, C.A.",6
 "AS11888","Television Internacional, S.A. de C.V.",6
+"AS12975","Palestine Telecommunications Company (PALTEL)",6
 "AS132116","Ani Network Pvt Ltd",6
 "AS13430","THE WISP.NET CORP.",6
 "AS135523","Multinet Broadband",6
@@ -646,7 +647,6 @@ ASN,Organization,IP_Count
 "AS10429","TELEFÔNICA BRASIL S.A",5
 "AS11492","CABLE ONE, INC.",5
 "AS12714","PJSC MegaFon",5
-"AS12975","Palestine Telecommunications Company (PALTEL)",5
 "AS131090","CAT Telecom Public Company Limited",5
 "AS131267","Star Telecom",5
 "AS13188","CONTENT DELIVERY NETWORK LTD",5
