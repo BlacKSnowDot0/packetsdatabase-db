@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87819
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87820
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22176
-"AS398324","Censys, Inc.",14739
+"AS398324","Censys, Inc.",14740
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10648
 "AS14061","DigitalOcean, LLC",8367
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1432
 "AS48925","VibeGAMES B.V.",1426
-"AS13335","Cloudflare, Inc.",1365
+"AS13335","Cloudflare, Inc.",1366
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1237
 "AS22552","eSited Solutions",1189
@@ -64,7 +64,7 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS198953","Proton66 OOO",527
-"AS53667","FranTech Solutions",524
+"AS53667","FranTech Solutions",525
 "AS9829","Bharat Sanchar Nigam Ltd",514
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
@@ -906,6 +906,7 @@ ASN,Organization,IP_Count
 "AS17665","ONEOTT INTERTAINMENT LIMITED",3
 "AS17931","Netforest,Inc.",3
 "AS18318","LG HelloVision Corp.",3
+"AS19108","Suddenlink Communications",3
 "AS19331","Twin Lakes Telephone Cooperative Corporation",3
 "AS196949","Natalia Sergeevna Filicheva",3
 "AS199468","GRAIN COMMUNICATIONS LIMITED",3
@@ -1164,7 +1165,6 @@ ASN,Organization,IP_Count
 "AS18126","Chubu Telecommunications Company, Inc.",2
 "AS18233","Philippine Telelgraph & Telephone",2
 "AS18501","CyberCloud Professionals LLC",2
-"AS19108","Suddenlink Communications",2
 "AS19429","ETB - Colombia",2
 "AS198227","New Telecom Ltd",2
 "AS198381","Star Satellite Communications Company - PJSC",2
