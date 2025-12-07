@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87822
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22179
-"AS398324","Censys, Inc.",14756
+"AS398324","Censys, Inc.",14760
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10652
-"AS14061","DigitalOcean, LLC",8373
+"AS14061","DigitalOcean, LLC",8375
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5992
+"AS16276","OVH SAS",5993
 "AS4134","Chinanet",5070
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4457
@@ -54,7 +54,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
 "AS14618","Amazon.com, Inc.",712
 "AS10439","CariNet, Inc.",705
-"AS4837","CHINA UNICOM China169 Backbone",605
+"AS4837","CHINA UNICOM China169 Backbone",606
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",584
 "AS12876","ONLINE S.A.S.",576
@@ -148,9 +148,9 @@ ASN,Organization,IP_Count
 "AS31898","Oracle Corporation",74
 "AS56046","China Mobile Communications Corporation",74
 "AS150263","PT Alnet Telekomunikasi Indonesia",69
+"AS200514","KnownSRV Ltd.",69
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",69
 "AS52053","REDHEBERG Association declaree",69
-"AS200514","KnownSRV Ltd.",68
 "AS834","IPXO LLC",68
 "AS328867","Corebach Backbone SARL",67
 "AS55720","Gigabit Hosting Sdn Bhd",67
@@ -161,9 +161,9 @@ ASN,Organization,IP_Count
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS6128","Cablevision Systems Corp.",65
+"AS2856","British Telecommunications PLC",64
 "AS5650","Frontier Communications of America, Inc.",64
 "AS17378","TierPoint, LLC",63
-"AS2856","British Telecommunications PLC",63
 "AS19318","Interserver, Inc",62
 "AS140717","China Unicom",61
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
@@ -3065,6 +3065,7 @@ ASN,Organization,IP_Count
 "AS9303","The Digital Lab 2007 Limited",1
 "AS932","XNNET LLC",1
 "AS9371","SAKURA Internet Inc.",1
+"AS9443","VOCUS PTY LTD",1
 "AS9500","One New Zealand Group Limited",1
 "AS9583","Sify Limited",1
 "AS9595","NTT-ME Corporation",1
