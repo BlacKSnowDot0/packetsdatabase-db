@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87819
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22176
-"AS398324","Censys, Inc.",14738
+"AS398324","Censys, Inc.",14739
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10648
 "AS14061","DigitalOcean, LLC",8367
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2569
 "AS23470","ReliableSite.Net LLC",2351
 "AS9808","China Mobile",2083
-"AS202425","IP Volume inc",1891
+"AS202425","IP Volume inc",1892
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1545
 "AS32475","Internap Holding LLC",1534
@@ -47,7 +47,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",846
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
-"AS215925","VPSVAULT.HOST LTD",837
+"AS215925","VPSVAULT.HOST LTD",838
 "AS20052","Arbor Networks, Inc.",813
 "AS8452","TE-AS",805
 "AS51167","Contabo GmbH",803
@@ -848,6 +848,7 @@ ASN,Organization,IP_Count
 "AS9845","LG HelloVision Corp.",4
 "AS9922","New Kaohsiung Broadband LTD.",4
 "AS10001","Mics Network Corporation",3
+"AS10013","FreeBit Co.,Ltd.",3
 "AS10029","SHYAM SPECTRA PVT LTD",3
 "AS10620","Telmex Colombia S.A.",3
 "AS1101","SURF B.V.",3
@@ -1045,7 +1046,6 @@ ASN,Organization,IP_Count
 "AS9329","Sri Lanka Telecom Ltd",3
 "AS9381","HKBN Enterprise Solutions HK Limited",3
 "AS9506","Singapore Telecommunications Ltd, Magix Services",3
-"AS10013","FreeBit Co.,Ltd.",2
 "AS10030","Celcom Axiata Berhad",2
 "AS10036","DLIVE",2
 "AS10066","LG HelloVision Corp.",2
