@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87821
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22176
-"AS398324","Censys, Inc.",14744
+"AS398324","Censys, Inc.",14745
 "AS32934","Facebook, Inc.",12868
-"AS396982","Google LLC",10648
-"AS14061","DigitalOcean, LLC",8367
+"AS396982","Google LLC",10649
+"AS14061","DigitalOcean, LLC",8368
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5991
+"AS16276","OVH SAS",5992
 "AS4134","Chinanet",5068
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4457
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2569
 "AS23470","ReliableSite.Net LLC",2351
 "AS9808","China Mobile",2083
-"AS202425","IP Volume inc",1892
+"AS202425","IP Volume inc",1893
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1545
 "AS32475","Internap Holding LLC",1538
@@ -123,7 +123,7 @@ ASN,Organization,IP_Count
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS47331","TTNet A.S.",105
 "AS215240","Silent Connection Ltd.",104
-"AS4766","Korea Telecom",102
+"AS4766","Korea Telecom",103
 "AS8560","IONOS SE",101
 "AS40021","Nubes, LLC",100
 "AS199785","Cloud Hosting Solutions, Limited.",99
@@ -307,6 +307,7 @@ ASN,Organization,IP_Count
 "AS214668","AxusHost B.V.",21
 "AS24348","CERNET2 IX at Tsinghua University",21
 "AS2914","NTT America, Inc.",21
+"AS3257","GTT Communications Inc.",21
 "AS3320","Deutsche Telekom AG",21
 "AS400536","Nodestop LLC",21
 "AS45758","Triple T Broadband Public Company Limited",21
@@ -321,7 +322,6 @@ ASN,Organization,IP_Count
 "AS202306","HOSTGLOBAL.PLUS LTD",20
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
-"AS3257","GTT Communications Inc.",20
 "AS6181","Cincinnati Bell Telephone Company LLC",20
 "AS11426","Charter Communications Inc",19
 "AS12874","Fastweb SpA",19
