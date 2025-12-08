@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87825
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22186
-"AS398324","Censys, Inc.",14812
+"AS211298","Driftnet Ltd",22188
+"AS398324","Censys, Inc.",14813
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10663
 "AS14061","DigitalOcean, LLC",8396
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4457
 "AS16509","Amazon.com, Inc.",4367
-"AS45102","Alibaba (US) Technology Co., Ltd.",4125
+"AS45102","Alibaba (US) Technology Co., Ltd.",4126
 "AS396998","Path Network, Inc.",3992
 "AS0","",3736
 "AS63949","Akamai Technologies, Inc.",3653
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1433
 "AS48925","VibeGAMES B.V.",1426
-"AS13335","Cloudflare, Inc.",1374
+"AS13335","Cloudflare, Inc.",1375
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1240
 "AS22552","eSited Solutions",1190
@@ -107,7 +107,7 @@ ASN,Organization,IP_Count
 "AS42237","w1n ltd",159
 "AS206264","Amarutu Technology Ltd",153
 "AS262551","Farol Telecom",152
-"AS34984","Superonline Iletisim Hizmetleri A.S.",141
+"AS34984","Superonline Iletisim Hizmetleri A.S.",142
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
 "AS14956","RouterHosting LLC",140
@@ -522,6 +522,7 @@ ASN,Organization,IP_Count
 "AS38283","CHINANET SiChuan Telecom Internet Data Center",8
 "AS41608","NextGenWebs, S.L.",8
 "AS4761","PT. INDOSAT Tbk",8
+"AS5410","Bouygues Telecom SA",8
 "AS5432","Proximus NV",8
 "AS5483","Magyar Telekom plc.",8
 "AS56005","Zhengzhou Fastidc Technology Co.,Ltd.",8
@@ -567,7 +568,6 @@ ASN,Organization,IP_Count
 "AS5056","Aureon Network Services",7
 "AS50923","Metroset Ltd.",7
 "AS51604","JSC ""ER-Telecom Holding""",7
-"AS5410","Bouygues Telecom SA",7
 "AS55423","JasTel Network",7
 "AS58821","PT Lintas Jaringan Nusantara",7
 "AS63023","GTHost",7
