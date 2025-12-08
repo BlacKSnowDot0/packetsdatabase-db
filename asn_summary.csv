@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87824
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87825
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22186
-"AS398324","Censys, Inc.",14804
+"AS398324","Censys, Inc.",14805
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10661
-"AS14061","DigitalOcean, LLC",8390
+"AS14061","DigitalOcean, LLC",8391
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6000
 "AS4134","Chinanet",5071
@@ -57,7 +57,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",606
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",584
-"AS12876","ONLINE S.A.S.",580
+"AS12876","ONLINE S.A.S.",581
 "AS9009","M247 Europe SRL",569
 "AS201814","MEVSPACE sp. z o.o.",568
 "AS51115","HLL LLC",562
@@ -124,8 +124,8 @@ ASN,Organization,IP_Count
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS47331","TTNet A.S.",105
 "AS4766","Korea Telecom",105
+"AS8560","IONOS SE",103
 "AS40021","Nubes, LLC",102
-"AS8560","IONOS SE",102
 "AS199785","Cloud Hosting Solutions, Limited.",100
 "AS136435","ELITE COMMUNICATION",94
 "AS205352","KABELNET LTD",93
@@ -1324,6 +1324,7 @@ ASN,Organization,IP_Count
 "AS28890","INSYS LLC",2
 "AS29119","AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",2
 "AS29222","Infomaniak Network SA",2
+"AS29256","Syrian Telecom",2
 "AS29456","PJSC Rostelecom",2
 "AS30844","Liquid Telecommunications Ltd",2
 "AS30936","RENET COM Ltd.",2
@@ -2538,7 +2539,6 @@ ASN,Organization,IP_Count
 "AS29091","ipNX Nigeria Limited",1
 "AS29177","Acantho S.p.a",1
 "AS29247","Ote SA (Hellenic Telecommunications Organisation)",1
-"AS29256","Syrian Telecom",1
 "AS29303","Perm Internet Company LLC",1
 "AS29319","Informational-measuring systems Ltd.",1
 "AS29355","Kcell JSC",1
