@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87823
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22181
-"AS398324","Censys, Inc.",14773
+"AS398324","Censys, Inc.",14774
 "AS32934","Facebook, Inc.",12868
-"AS396982","Google LLC",10657
+"AS396982","Google LLC",10659
 "AS14061","DigitalOcean, LLC",8380
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5998
@@ -25,16 +25,16 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2569
 "AS23470","ReliableSite.Net LLC",2353
 "AS9808","China Mobile",2083
-"AS202425","IP Volume inc",1897
+"AS202425","IP Volume inc",1898
 "AS214295","SKYNET NETWORK LTD",1631
-"AS32475","Internap Holding LLC",1548
+"AS32475","Internap Holding LLC",1549
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1473
 "AS36352","HostPapa",1450
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1432
 "AS48925","VibeGAMES B.V.",1426
-"AS13335","Cloudflare, Inc.",1371
+"AS13335","Cloudflare, Inc.",1372
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1239
 "AS22552","eSited Solutions",1190
@@ -42,7 +42,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
-"AS208684","BHA CONSEIL SARL",1011
+"AS208684","BHA CONSEIL SARL",1012
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",847
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -115,7 +115,7 @@ ASN,Organization,IP_Count
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
 "AS36007","Kamatera, Inc.",122
-"AS151185","China Telecom",117
+"AS151185","China Telecom",118
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",111
 "AS208287","DC Host INC",110
@@ -138,7 +138,7 @@ ASN,Organization,IP_Count
 "AS16735","ALGAR TELECOM S/A",83
 "AS8402","PJSC ""Vimpelcom""",83
 "AS5617","Orange Polska Spolka Akcyjna",81
-"AS23724","IDC, China Telecommunications Corporation",79
+"AS23724","IDC, China Telecommunications Corporation",80
 "AS200019","ALEXHOST SRL",78
 "AS22773","Cox Communications Inc.",78
 "AS3920","ESTOXY OU",77
