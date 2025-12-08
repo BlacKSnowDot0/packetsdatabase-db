@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87825
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22186
-"AS398324","Censys, Inc.",14805
+"AS398324","Censys, Inc.",14806
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10661
 "AS14061","DigitalOcean, LLC",8394
@@ -24,10 +24,10 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2741
 "AS142002","Scloud Pte Ltd",2569
 "AS23470","ReliableSite.Net LLC",2369
-"AS9808","China Mobile",2083
+"AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1901
 "AS214295","SKYNET NETWORK LTD",1631
-"AS32475","Internap Holding LLC",1557
+"AS32475","Internap Holding LLC",1558
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1473
 "AS36352","HostPapa",1455
@@ -124,8 +124,8 @@ ASN,Organization,IP_Count
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS47331","TTNet A.S.",105
 "AS4766","Korea Telecom",105
+"AS40021","Nubes, LLC",103
 "AS8560","IONOS SE",103
-"AS40021","Nubes, LLC",102
 "AS199785","Cloud Hosting Solutions, Limited.",100
 "AS136435","ELITE COMMUNICATION",94
 "AS205352","KABELNET LTD",93
@@ -203,10 +203,10 @@ ASN,Organization,IP_Count
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS21928","T-Mobile USA, Inc.",42
 "AS262378","Compuservice Empreendimentos Ltda",42
+"AS30083","velia.net",42
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",42
 "AS7738","V tal",42
 "AS12322","Free SAS",41
-"AS30083","velia.net",41
 "AS23969","TOT Public Company Limited",40
 "AS27699","TELEFÔNICA BRASIL S.A",40
 "AS43641","SOLLUTIUM EU Sp z.o.o.",40
