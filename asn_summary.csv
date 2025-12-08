@@ -27,7 +27,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2083
 "AS202425","IP Volume inc",1899
 "AS214295","SKYNET NETWORK LTD",1631
-"AS32475","Internap Holding LLC",1552
+"AS32475","Internap Holding LLC",1553
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1473
 "AS36352","HostPapa",1453
@@ -48,7 +48,7 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS215925","VPSVAULT.HOST LTD",838
-"AS20052","Arbor Networks, Inc.",816
+"AS20052","Arbor Networks, Inc.",817
 "AS51167","Contabo GmbH",808
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
@@ -540,6 +540,7 @@ ASN,Organization,IP_Count
 "AS149360","PT Indo Telemedia Solusi",7
 "AS153096","PT High Speed Connection Network",7
 "AS17762","Tata Teleservices (Maharashtra) Ltd",7
+"AS17858","LG POWERCOMM",7
 "AS19148","Leaseweb USA, Inc.",7
 "AS203684","Imen Sanat Novin Alighapoo Private Joint Stock Company",7
 "AS204044","PACKET STAR NETWORKS LIMITED",7
@@ -588,7 +589,6 @@ ASN,Organization,IP_Count
 "AS16058","Gabon Telecom Internet Network Autonomous System",6
 "AS16611","InfiniaHost.com",6
 "AS17754","Excellmedia",6
-"AS17858","LG POWERCOMM",6
 "AS198253","Kukushkin Anatoly Valerievich",6
 "AS198323","TOV Informatsiyni Kirovohrads'ki Systemy",6
 "AS201838","Community Fibre Limited",6
