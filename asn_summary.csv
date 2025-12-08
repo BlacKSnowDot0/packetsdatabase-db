@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14812
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10662
-"AS14061","DigitalOcean, LLC",8394
+"AS14061","DigitalOcean, LLC",8396
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6002
 "AS4134","Chinanet",5071
@@ -246,8 +246,8 @@ ASN,Organization,IP_Count
 "AS4847","China Networks Inter-Exchange",31
 "AS200593","PROSPERO OOO",30
 "AS214417","Andrii Hrosh",30
+"AS215762","Bullet Group LTD",30
 "AS55933","Cloudie Limited",30
-"AS215762","Bullet Group LTD",29
 "AS28546","Servnet Mexico, S.A. de C.V.",29
 "AS6134","XNNET LLC",29
 "AS852","TELUS Communications Inc.",29
@@ -490,6 +490,7 @@ ASN,Organization,IP_Count
 "AS46606","Unified Layer",9
 "AS48874","HOSTMAZE INC SRL-D",9
 "AS56694","LLC Smart Ape",9
+"AS59134","PT. Datacomm Diangraha",9
 "AS8346","SONATEL-AS Autonomous System",9
 "AS9038","Batelco Jordan",9
 "AS11172","Alestra, S. de R.L. de C.V.",8
@@ -525,7 +526,6 @@ ASN,Organization,IP_Count
 "AS5483","Magyar Telekom plc.",8
 "AS56005","Zhengzhou Fastidc Technology Co.,Ltd.",8
 "AS56041","China Mobile Communications Corporation",8
-"AS59134","PT. Datacomm Diangraha",8
 "AS6698","Virtual Systems LLC",8
 "AS7418","TELEFÓNICA CHILE S.A.",8
 "AS8386","VODAFONE NET ILETISIM HIZMETLERI ANONIM SIRKETI",8
