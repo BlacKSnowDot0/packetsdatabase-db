@@ -5,9 +5,9 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14774
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10659
-"AS14061","DigitalOcean, LLC",8380
+"AS14061","DigitalOcean, LLC",8381
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",5998
+"AS16276","OVH SAS",5999
 "AS4134","Chinanet",5070
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4457
@@ -27,7 +27,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2083
 "AS202425","IP Volume inc",1898
 "AS214295","SKYNET NETWORK LTD",1631
-"AS32475","Internap Holding LLC",1549
+"AS32475","Internap Holding LLC",1550
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1473
 "AS36352","HostPapa",1450
@@ -48,12 +48,12 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS215925","VPSVAULT.HOST LTD",838
-"AS20052","Arbor Networks, Inc.",815
+"AS20052","Arbor Networks, Inc.",816
 "AS51167","Contabo GmbH",808
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
 "AS14618","Amazon.com, Inc.",712
-"AS10439","CariNet, Inc.",707
+"AS10439","CariNet, Inc.",708
 "AS4837","CHINA UNICOM China169 Backbone",606
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",584
@@ -588,6 +588,7 @@ ASN,Organization,IP_Count
 "AS16058","Gabon Telecom Internet Network Autonomous System",6
 "AS16611","InfiniaHost.com",6
 "AS17754","Excellmedia",6
+"AS17858","LG POWERCOMM",6
 "AS198253","Kukushkin Anatoly Valerievich",6
 "AS198323","TOV Informatsiyni Kirovohrads'ki Systemy",6
 "AS201838","Community Fibre Limited",6
@@ -667,7 +668,6 @@ ASN,Organization,IP_Count
 "AS151858","INTERDIGI JOINT STOCK COMPANY",5
 "AS16010","Magticom Ltd.",5
 "AS16223","MAXNET TELECOM, LTD",5
-"AS17858","LG POWERCOMM",5
 "AS18229","CtrlS",5
 "AS18809","Cable Onda",5
 "AS198983","Joseph Hofmann trading as 'Tornado Datacenter GmbH & Co. KG'",5
