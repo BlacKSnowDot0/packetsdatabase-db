@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87823
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22181
-"AS398324","Censys, Inc.",14775
+"AS398324","Censys, Inc.",14776
 "AS32934","Facebook, Inc.",12868
-"AS396982","Google LLC",10659
-"AS14061","DigitalOcean, LLC",8382
+"AS396982","Google LLC",10660
+"AS14061","DigitalOcean, LLC",8384
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5999
 "AS4134","Chinanet",5070
@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",4123
 "AS396998","Path Network, Inc.",3992
 "AS0","",3732
-"AS63949","Akamai Technologies, Inc.",3651
+"AS63949","Akamai Technologies, Inc.",3652
 "AS15169","Google LLC",3419
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3237
@@ -209,10 +209,10 @@ ASN,Organization,IP_Count
 "AS23969","TOT Public Company Limited",40
 "AS27699","TELEFÔNICA BRASIL S.A",40
 "AS43641","SOLLUTIUM EU Sp z.o.o.",40
+"AS30083","velia.net",39
 "AS5089","Virgin Media Limited",39
 "AS8048","CANTV Servicios, Venezuela",39
 "AS26599","TELEFÔNICA BRASIL S.A",38
-"AS30083","velia.net",38
 "AS4538","China Education and Research Network Center",38
 "AS9198","JSC Kazakhtelecom",38
 "AS1680","Cellcom Fixed Line Communication L.P",37
