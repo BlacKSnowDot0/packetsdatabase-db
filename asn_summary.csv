@@ -1,7 +1,7 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87823
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22181
+"AS211298","Driftnet Ltd",22183
 "AS398324","Censys, Inc.",14777
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10660
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3419
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3237
-"AS8075","Microsoft Corporation",2860
+"AS8075","Microsoft Corporation",2861
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2738
 "AS142002","Scloud Pte Ltd",2569
@@ -64,7 +64,7 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS198953","Proton66 OOO",527
-"AS53667","FranTech Solutions",526
+"AS53667","FranTech Solutions",527
 "AS9829","Bharat Sanchar Nigam Ltd",521
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
@@ -243,9 +243,9 @@ ASN,Organization,IP_Count
 "AS13213","UK-2 Limited",31
 "AS17557","Pakistan Telecommuication company limited",31
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",31
+"AS4847","China Networks Inter-Exchange",31
 "AS200593","PROSPERO OOO",30
 "AS214417","Andrii Hrosh",30
-"AS4847","China Networks Inter-Exchange",30
 "AS55933","Cloudie Limited",30
 "AS215762","Bullet Group LTD",29
 "AS28546","Servnet Mexico, S.A. de C.V.",29
