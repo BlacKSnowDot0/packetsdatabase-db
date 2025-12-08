@@ -1,10 +1,10 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87823
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87824
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22185
-"AS398324","Censys, Inc.",14803
+"AS398324","Censys, Inc.",14804
 "AS32934","Facebook, Inc.",12868
-"AS396982","Google LLC",10660
+"AS396982","Google LLC",10661
 "AS14061","DigitalOcean, LLC",8389
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5999
@@ -12,10 +12,10 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4457
 "AS16509","Amazon.com, Inc.",4367
-"AS45102","Alibaba (US) Technology Co., Ltd.",4124
+"AS45102","Alibaba (US) Technology Co., Ltd.",4125
 "AS396998","Path Network, Inc.",3992
 "AS0","",3736
-"AS63949","Akamai Technologies, Inc.",3652
+"AS63949","Akamai Technologies, Inc.",3653
 "AS15169","Google LLC",3419
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3237
@@ -23,7 +23,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2740
 "AS142002","Scloud Pte Ltd",2569
-"AS23470","ReliableSite.Net LLC",2355
+"AS23470","ReliableSite.Net LLC",2369
 "AS9808","China Mobile",2083
 "AS202425","IP Volume inc",1900
 "AS214295","SKYNET NETWORK LTD",1631
@@ -88,7 +88,7 @@ ASN,Organization,IP_Count
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",295
 "AS213613","BOTSHIELD LTD",294
 "AS208843","Alpha Strike Labs GmbH",292
-"AS48090","TECHOFF SRV LIMITED",260
+"AS48090","TECHOFF SRV LIMITED",261
 "AS18403","FPT Telecom Company",258
 "AS141718","haoxiangyun",255
 "AS60223","Netiface Limited",250
@@ -206,9 +206,9 @@ ASN,Organization,IP_Count
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",42
 "AS7738","V tal",42
 "AS12322","Free SAS",41
+"AS30083","velia.net",41
 "AS23969","TOT Public Company Limited",40
 "AS27699","TELEFÔNICA BRASIL S.A",40
-"AS30083","velia.net",40
 "AS43641","SOLLUTIUM EU Sp z.o.o.",40
 "AS5089","Virgin Media Limited",39
 "AS8048","CANTV Servicios, Venezuela",39
@@ -293,6 +293,7 @@ ASN,Organization,IP_Count
 "AS7303","Telecom Argentina S.A.",23
 "AS16591","Google Fiber Inc.",22
 "AS17561","Larus Limited",22
+"AS20853","eTOP sp. z o.o.",22
 "AS213010","Gening Nikita Dmitrievich",22
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",22
 "AS2914","NTT America, Inc.",22
@@ -305,7 +306,6 @@ ASN,Organization,IP_Count
 "AS12479","Orange Espagne SA",21
 "AS138886","PT Data Buana Nusantara",21
 "AS17816","China Unicom IP network China169 Guangdong province",21
-"AS20853","eTOP sp. z o.o.",21
 "AS214668","AxusHost B.V.",21
 "AS24348","CERNET2 IX at Tsinghua University",21
 "AS3257","GTT Communications Inc.",21
