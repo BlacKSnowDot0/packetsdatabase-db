@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87823
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22185
-"AS398324","Censys, Inc.",14802
+"AS398324","Censys, Inc.",14803
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10660
 "AS14061","DigitalOcean, LLC",8389
@@ -27,10 +27,10 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2083
 "AS202425","IP Volume inc",1900
 "AS214295","SKYNET NETWORK LTD",1631
-"AS32475","Internap Holding LLC",1554
+"AS32475","Internap Holding LLC",1555
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1473
-"AS36352","HostPapa",1454
+"AS36352","HostPapa",1455
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1433
 "AS48925","VibeGAMES B.V.",1426
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS215925","VPSVAULT.HOST LTD",838
 "AS20052","Arbor Networks, Inc.",817
-"AS51167","Contabo GmbH",809
+"AS51167","Contabo GmbH",810
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
 "AS14618","Amazon.com, Inc.",713
@@ -516,6 +516,7 @@ ASN,Organization,IP_Count
 "AS27967","Gobernacion de la Provincia de Buenos Aires",8
 "AS2860","NOS COMUNICACOES, S.A.",8
 "AS30722","Vodafone Italia S.p.A.",8
+"AS32613","Leaseweb Canada Inc.",8
 "AS328723","Telasera Technologies PTY LTD",8
 "AS38283","CHINANET SiChuan Telecom Internet Data Center",8
 "AS41608","NextGenWebs, S.L.",8
@@ -557,7 +558,6 @@ ASN,Organization,IP_Count
 "AS31042","Serbia BroadBand-Srpske Kablovske mreze d.o.o.",7
 "AS31122","Digiweb ltd",7
 "AS3216","PJSC ""Vimpelcom""",7
-"AS32613","Leaseweb Canada Inc.",7
 "AS3329","VODAFONE-PANAFON HELLENIC TELECOMMUNICATIONS COMPANY SA",7
 "AS36924","GVA Cote d'Ivoire SAS",7
 "AS400529","Infraly, LLC",7
