@@ -5,9 +5,9 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14805
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10661
-"AS14061","DigitalOcean, LLC",8391
+"AS14061","DigitalOcean, LLC",8394
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6000
+"AS16276","OVH SAS",6001
 "AS4134","Chinanet",5071
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4457
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2569
 "AS23470","ReliableSite.Net LLC",2369
 "AS9808","China Mobile",2083
-"AS202425","IP Volume inc",1900
+"AS202425","IP Volume inc",1901
 "AS214295","SKYNET NETWORK LTD",1631
 "AS32475","Internap Holding LLC",1557
 "AS209605","UAB Host Baltic",1545
@@ -73,8 +73,8 @@ ASN,Organization,IP_Count
 "AS24186","RailTel Corporation of India Ltd.",406
 "AS7018","AT&T Enterprises, LLC",393
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
+"AS47890","UNMANAGED LTD",385
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",384
-"AS47890","UNMANAGED LTD",384
 "AS21859","Zenlayer Inc",369
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS7922","Comcast Cable Communications, LLC",351
@@ -772,6 +772,7 @@ ASN,Organization,IP_Count
 "AS208208","Marco Lingl trading as Cyberse GmbH & Co. KG",4
 "AS211301","Collin Schneeweiss trading as Unesty Company",4
 "AS212042","Istqrar for Servers Services Ltd",4
+"AS212271","Cinzia Tocci trading as C1V",4
 "AS21334","One Hungary Ltd.",4
 "AS214996","netcup GmbH",4
 "AS215439","PLAY2GO INTERNATIONAL LIMITED",4
@@ -920,7 +921,6 @@ ASN,Organization,IP_Count
 "AS20454","SECURED SERVERS LLC",3
 "AS208583","Baffin Bay Networks AB",3
 "AS211826","Istqrar for Servers Services Ltd",3
-"AS212271","Cinzia Tocci trading as C1V",3
 "AS212815","Dyjix SAS",3
 "AS213354","INTERNATIONAL HOSTING SOLUTIONS LLP",3
 "AS214382","Bulent Aydin trading as Hostlayici",3
@@ -967,6 +967,7 @@ ASN,Organization,IP_Count
 "AS28220","CABO SERVICOS DE TELECOMUNICACOES LTDA",3
 "AS28548","Cablevisión, S.A. de C.V.",3
 "AS28885","Oman Telecommunications Company (S.A.O.G)",3
+"AS29119","AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",3
 "AS29447","SCALEWAY S.A.S.",3
 "AS29571","ORANGE COTE D'IVOIRE",3
 "AS29580","A1 Bulgaria EAD",3
@@ -1216,6 +1217,7 @@ ASN,Organization,IP_Count
 "AS23532","IOVZ NETWORKS INC",2
 "AS23679","PT. Media Antar Nusa",2
 "AS23750","Gerrys Information Technology (PVT) Ltd",2
+"AS23884","Proen Corp Public Company Limited",2
 "AS23956","Dhakacom Limited",2
 "AS24139","Huashu media&Network Limited",2
 "AS24163","UNION BROADBAND NETWORK",2
@@ -1322,7 +1324,6 @@ ASN,Organization,IP_Count
 "AS28656","BTT TELECOMUNICACOES S.A.",2
 "AS28669","America-NET Ltda.",2
 "AS28890","INSYS LLC",2
-"AS29119","AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",2
 "AS29222","Infomaniak Network SA",2
 "AS29256","Syrian Telecom",2
 "AS29456","PJSC Rostelecom",2
@@ -2036,7 +2037,6 @@ ASN,Organization,IP_Count
 "AS23756","PADINET - Padi Internet",1
 "AS2386","AT&T Enterprises, LLC",1
 "AS23872","delDSL Internet Pvt. Ltd.",1
-"AS23884","Proen Corp Public Company Limited",1
 "AS23888","National Telecommunication Corporation",1
 "AS23889","MauritiusTelecom",1
 "AS23923","Agni Systems Limited",1
