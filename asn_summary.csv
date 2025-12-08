@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87823
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22181
-"AS398324","Censys, Inc.",14776
+"AS398324","Censys, Inc.",14777
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10660
-"AS14061","DigitalOcean, LLC",8384
+"AS14061","DigitalOcean, LLC",8385
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5999
 "AS4134","Chinanet",5070
@@ -23,7 +23,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2738
 "AS142002","Scloud Pte Ltd",2569
-"AS23470","ReliableSite.Net LLC",2354
+"AS23470","ReliableSite.Net LLC",2355
 "AS9808","China Mobile",2083
 "AS202425","IP Volume inc",1898
 "AS214295","SKYNET NETWORK LTD",1631
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1432
 "AS48925","VibeGAMES B.V.",1426
-"AS13335","Cloudflare, Inc.",1372
+"AS13335","Cloudflare, Inc.",1373
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1239
 "AS22552","eSited Solutions",1190
@@ -148,8 +148,8 @@ ASN,Organization,IP_Count
 "AS31898","Oracle Corporation",74
 "AS56046","China Mobile Communications Corporation",74
 "AS150263","PT Alnet Telekomunikasi Indonesia",70
+"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",70
 "AS200514","KnownSRV Ltd.",69
-"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",69
 "AS52053","REDHEBERG Association declaree",69
 "AS834","IPXO LLC",68
 "AS328867","Corebach Backbone SARL",67
