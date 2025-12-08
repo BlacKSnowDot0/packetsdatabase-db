@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14774
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10659
-"AS14061","DigitalOcean, LLC",8381
+"AS14061","DigitalOcean, LLC",8382
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5999
 "AS4134","Chinanet",5070
@@ -100,7 +100,7 @@ ASN,Organization,IP_Count
 "AS14987","Rethem Hosting LLC",215
 "AS29484","Ruhr-Universitaet Bochum",203
 "AS12555","Data-center IMAQLIQ Ltd.",193
-"AS63199","CDS Global Cloud Co., Ltd",184
+"AS63199","CDS Global Cloud Co., Ltd",185
 "AS7552","Viettel Group",182
 "AS401116","Nybula LLC",170
 "AS50219","LNK SYSTEMS MUNTENIA SRL",165
@@ -920,6 +920,7 @@ ASN,Organization,IP_Count
 "AS20454","SECURED SERVERS LLC",3
 "AS208583","Baffin Bay Networks AB",3
 "AS211826","Istqrar for Servers Services Ltd",3
+"AS212271","Cinzia Tocci trading as C1V",3
 "AS212815","Dyjix SAS",3
 "AS213354","INTERNATIONAL HOSTING SOLUTIONS LLP",3
 "AS214382","Bulent Aydin trading as Hostlayici",3
@@ -1199,7 +1200,6 @@ ASN,Organization,IP_Count
 "AS211895","Serverius Holding B.V.",2
 "AS212047","Civo LTD",2
 "AS212118","Malakhovskyi Hennadii",2
-"AS212271","Cinzia Tocci trading as C1V",2
 "AS213186","Yanoor Islam Khan",2
 "AS213725","UK-03AI",2
 "AS214657","Bls Services Tecnologia em Software Ltda",2
