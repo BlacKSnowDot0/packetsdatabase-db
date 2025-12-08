@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14782
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10660
-"AS14061","DigitalOcean, LLC",8386
+"AS14061","DigitalOcean, LLC",8387
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5999
 "AS4134","Chinanet",5071
@@ -720,6 +720,7 @@ ASN,Organization,IP_Count
 "AS4721","JCOM Co., Ltd.",5
 "AS47702","Teleradiocompany Discovery Ltd.",5
 "AS4780","Digital United Inc.",5
+"AS48678","PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi",5
 "AS53062","GGNET TELECOM BACKBONE",5
 "AS53167","SEBRATEL TECNOLOGIA LTDA",5
 "AS56044","China Mobile Communications Corporation",5
@@ -823,7 +824,6 @@ ASN,Organization,IP_Count
 "AS46690","Southern New England Telephone Company and SNET America, Inc.",4
 "AS47165","Omskie kabelnye seti Ltd.",4
 "AS47898","NPK Home-Net Ltd.",4
-"AS48678","PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi",4
 "AS49800","GNC-Alfa CJSC",4
 "AS50274","Alfanet LLC",4
 "AS50576","FREEWAY Plus LLC",4
@@ -2957,6 +2957,7 @@ ASN,Organization,IP_Count
 "AS57896","YNET MANAGEMENT PAWEL SKRODZKI",1
 "AS57910","Soluciones Corporativas IP, SL",1
 "AS57962","LLC "" Ug telekom grup """,1
+"AS57990","PE Aliev Murad Ahmedovich",1
 "AS58037","""Masterra.ru"" LLC",1
 "AS58061","Scalaxy B.V.",1
 "AS58172","FREEDOM TELECOM LLP",1
