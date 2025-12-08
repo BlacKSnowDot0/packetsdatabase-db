@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87823
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22185
-"AS398324","Censys, Inc.",14798
+"AS398324","Censys, Inc.",14802
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10660
-"AS14061","DigitalOcean, LLC",8388
+"AS14061","DigitalOcean, LLC",8389
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",5999
 "AS4134","Chinanet",5071
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4367
 "AS45102","Alibaba (US) Technology Co., Ltd.",4124
 "AS396998","Path Network, Inc.",3992
-"AS0","",3735
+"AS0","",3736
 "AS63949","Akamai Technologies, Inc.",3652
 "AS15169","Google LLC",3419
 "AS398705","Censys, Inc.",3238
@@ -295,6 +295,7 @@ ASN,Organization,IP_Count
 "AS17561","Larus Limited",22
 "AS213010","Gening Nikita Dmitrievich",22
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",22
+"AS2914","NTT America, Inc.",22
 "AS3320","Deutsche Telekom AG",22
 "AS43289","Trabia SRL",22
 "AS51430","AltusHost B.V.",22
@@ -307,7 +308,6 @@ ASN,Organization,IP_Count
 "AS20853","eTOP sp. z o.o.",21
 "AS214668","AxusHost B.V.",21
 "AS24348","CERNET2 IX at Tsinghua University",21
-"AS2914","NTT America, Inc.",21
 "AS3257","GTT Communications Inc.",21
 "AS400536","Nodestop LLC",21
 "AS45758","Triple T Broadband Public Company Limited",21
