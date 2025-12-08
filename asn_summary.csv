@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3237
 "AS8075","Microsoft Corporation",2861
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2738
+"AS6939","Hurricane Electric LLC",2739
 "AS142002","Scloud Pte Ltd",2569
 "AS23470","ReliableSite.Net LLC",2355
 "AS9808","China Mobile",2083
@@ -74,7 +74,7 @@ ASN,Organization,IP_Count
 "AS7018","AT&T Enterprises, LLC",393
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",384
-"AS47890","UNMANAGED LTD",383
+"AS47890","UNMANAGED LTD",384
 "AS21859","Zenlayer Inc",369
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS7922","Comcast Cable Communications, LLC",351
@@ -403,6 +403,7 @@ ASN,Organization,IP_Count
 "AS37457","Telkom SA Ltd.",14
 "AS4808","China Unicom Beijing Province Network",14
 "AS48721","Flyservers S.A.",14
+"AS9318","SK Broadband Co Ltd",14
 "AS11351","Charter Communications Inc",13
 "AS1221","Telstra Limited",13
 "AS134420","Chongqing Telecom",13
@@ -437,7 +438,6 @@ ASN,Organization,IP_Count
 "AS62442","Dade Samane Fanava Company (PJS)",12
 "AS8400","TELEKOM SRBIJA a.d.",12
 "AS8708","RCS & RDS SA",12
-"AS9318","SK Broadband Co Ltd",12
 "AS984","OCTOPUS WEB SOLUTION INC",12
 "AS12271","Charter Communications Inc",11
 "AS135059","Lao Asia Pacific Satellite Co., Ltd.",11
