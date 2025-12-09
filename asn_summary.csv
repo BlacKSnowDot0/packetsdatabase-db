@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87825
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22189
-"AS398324","Censys, Inc.",14828
+"AS398324","Censys, Inc.",14830
 "AS32934","Facebook, Inc.",12868
-"AS396982","Google LLC",10665
+"AS396982","Google LLC",10667
 "AS14061","DigitalOcean, LLC",8401
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6002
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3238
 "AS8075","Microsoft Corporation",2863
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2742
+"AS6939","Hurricane Electric LLC",2743
 "AS142002","Scloud Pte Ltd",2569
 "AS23470","ReliableSite.Net LLC",2371
 "AS9808","China Mobile",2084
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1433
 "AS48925","VibeGAMES B.V.",1426
-"AS13335","Cloudflare, Inc.",1377
+"AS13335","Cloudflare, Inc.",1379
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1240
 "AS22552","eSited Solutions",1190
@@ -42,7 +42,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
-"AS208684","BHA CONSEIL SARL",1012
+"AS208684","BHA CONSEIL SARL",1013
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",847
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -119,8 +119,8 @@ ASN,Organization,IP_Count
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",111
 "AS208287","DC Host INC",110
+"AS215240","Silent Connection Ltd.",108
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",108
-"AS215240","Silent Connection Ltd.",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS47331","TTNet A.S.",105
 "AS4766","Korea Telecom",105
@@ -420,6 +420,7 @@ ASN,Organization,IP_Count
 "AS3243","MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.",13
 "AS37105","RAIN GROUP HOLDINGS (PTY) LTD",13
 "AS38841","kbro CO. Ltd.",13
+"AS401152","Ace Data Centers II, L.L.C.",13
 "AS50304","Blix Solutions AS",13
 "AS53006","ALGAR TELECOM S/A",13
 "AS9770","LG HelloVision Corp.",13
@@ -431,7 +432,6 @@ ASN,Organization,IP_Count
 "AS36992","ETISALAT MISR",12
 "AS38264","Wateen Telecom Limited",12
 "AS400992","ZhouyiSat Communications",12
-"AS401152","Ace Data Centers II, L.L.C.",12
 "AS41075","ATW Internet Kft.",12
 "AS41436","Kamatera Inc",12
 "AS4181","TDS TELECOM",12
