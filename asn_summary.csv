@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",1561
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1473
-"AS36352","HostPapa",1459
+"AS36352","HostPapa",1460
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1433
 "AS48925","VibeGAMES B.V.",1426
@@ -96,7 +96,7 @@ ASN,Organization,IP_Count
 "AS701","Verizon Business",228
 "AS29066","velia.net Internetdienste GmbH",225
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
-"AS12389","PJSC Rostelecom",215
+"AS12389","PJSC Rostelecom",216
 "AS14987","Rethem Hosting LLC",215
 "AS29484","Ruhr-Universitaet Bochum",204
 "AS12555","Data-center IMAQLIQ Ltd.",194
@@ -249,9 +249,9 @@ ASN,Organization,IP_Count
 "AS214417","Andrii Hrosh",30
 "AS215762","Bullet Group LTD",30
 "AS55933","Cloudie Limited",30
+"AS852","TELUS Communications Inc.",30
 "AS28546","Servnet Mexico, S.A. de C.V.",29
 "AS6134","XNNET LLC",29
-"AS852","TELUS Communications Inc.",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS141679","China Telecom",28
