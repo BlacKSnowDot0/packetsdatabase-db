@@ -7,7 +7,7 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",10674
 "AS14061","DigitalOcean, LLC",8414
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6004
+"AS16276","OVH SAS",6007
 "AS4134","Chinanet",5073
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4457
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2569
 "AS23470","ReliableSite.Net LLC",2373
 "AS9808","China Mobile",2084
-"AS202425","IP Volume inc",1908
+"AS202425","IP Volume inc",1909
 "AS214295","SKYNET NETWORK LTD",1631
 "AS32475","Internap Holding LLC",1569
 "AS209605","UAB Host Baltic",1545
@@ -63,7 +63,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",568
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS53667","FranTech Solutions",530
+"AS53667","FranTech Solutions",531
 "AS198953","Proton66 OOO",527
 "AS9829","Bharat Sanchar Nigam Ltd",523
 "AS140292","China Telecom",509
@@ -185,10 +185,10 @@ ASN,Organization,IP_Count
 "AS30633","Leaseweb USA, Inc.",52
 "AS396356","Latitude.sh",52
 "AS200590","NLS Kazakhstan LLC",51
+"AS30083","velia.net",49
 "AS44592","SkyLink Data Center BV",49
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
-"AS30083","velia.net",48
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",47
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",47
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",47
@@ -1141,6 +1141,7 @@ ASN,Organization,IP_Count
 "AS150208","PT Internusa Duta Makmur",2
 "AS150461","PT Iftalink Media Karya",2
 "AS150855","MAY SOC COMPANY LIMITED",2
+"AS150862","VPSTTT COMPUTER COMPANY LIMITED",2
 "AS150880","FAST BYTE FAST DATA COMPANY LIMITED",2
 "AS15100","Bevcomm",2
 "AS151003","PT. Tri Akses Nusantara",2
@@ -1791,7 +1792,6 @@ ASN,Organization,IP_Count
 "AS150683","FASTTEL BROADBAND (PRIVATE) LIMITED",1
 "AS150774","Exabyte ltd",1
 "AS150778","M/S ROMS NETWORK",1
-"AS150862","VPSTTT COMPUTER COMPANY LIMITED",1
 "AS150867","LP TECHNOLOGY ELECTRONIC COMMERCE COMPANY LIMITED",1
 "AS150933","PT Cmdj Network Solution",1
 "AS150944","PT Mediatama Internusa Persada",1
