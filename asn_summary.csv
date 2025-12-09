@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87829
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22194
-"AS398324","Censys, Inc.",14855
+"AS398324","Censys, Inc.",14856
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10673
 "AS14061","DigitalOcean, LLC",8412
@@ -14,12 +14,12 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4368
 "AS45102","Alibaba (US) Technology Co., Ltd.",4128
 "AS396998","Path Network, Inc.",3992
-"AS0","",3741
+"AS0","",3743
 "AS63949","Akamai Technologies, Inc.",3654
 "AS15169","Google LLC",3420
 "AS51396","Pfcloud UG",3239
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2865
+"AS8075","Microsoft Corporation",2866
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2749
 "AS142002","Scloud Pte Ltd",2569
@@ -49,11 +49,11 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS215925","VPSVAULT.HOST LTD",838
 "AS20052","Arbor Networks, Inc.",819
-"AS51167","Contabo GmbH",812
+"AS51167","Contabo GmbH",813
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
 "AS14618","Amazon.com, Inc.",715
-"AS10439","CariNet, Inc.",712
+"AS10439","CariNet, Inc.",713
 "AS4837","CHINA UNICOM China169 Backbone",607
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",585
@@ -116,8 +116,8 @@ ASN,Organization,IP_Count
 "AS19905","Neustar Security Services",127
 "AS36007","Kamatera, Inc.",122
 "AS151185","China Telecom",120
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",113
 "AS211298","Constantine Cybersecurity Ltd.",113
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",112
 "AS215240","Silent Connection Ltd.",112
 "AS208287","DC Host INC",110
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",108
@@ -153,11 +153,11 @@ ASN,Organization,IP_Count
 "AS52053","REDHEBERG Association declaree",69
 "AS2856","British Telecommunications PLC",68
 "AS834","IPXO LLC",68
+"AS215590","DpkgSoft International Limited",67
 "AS328867","Corebach Backbone SARL",67
 "AS55720","Gigabit Hosting Sdn Bhd",67
 "AS210644","AEZA INTERNATIONAL LTD",66
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
-"AS215590","DpkgSoft International Limited",66
 "AS57588","Hayat for Internet & communication LLC",66
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
@@ -2894,6 +2894,7 @@ ASN,Organization,IP_Count
 "AS52935","Infobarra Solucoes em Informatica Ltda",1
 "AS52951","Catanduva sistemas a cabo ltda.",1
 "AS52965","1TELECOM SERVICOS DE TECNOLOGIA EM INTERNET LTDA",1
+"AS52999","STARTNET COMERCIO E SERVICOS DE INFORMATICA LTDA",1
 "AS53004","Downup Telecomunicacoes e servico LTDA",1
 "AS53022","BROSEGHINI LTDA EPP",1
 "AS53047","Intercol Serviços de Internet Ltda",1
@@ -3076,5 +3077,6 @@ ASN,Organization,IP_Count
 "AS9583","Sify Limited",1
 "AS9595","NTT-ME Corporation",1
 "AS9617","JCOM Co., Ltd.",1
+"AS9644","SK Telecom",1
 "AS9891","CS Loxinfo Public Company Limited",1
 "AS9924","Taiwan Fixed Network, Telco and Network Service Provider.",1
