@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87829
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22194
-"AS398324","Censys, Inc.",14856
+"AS398324","Censys, Inc.",14857
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10673
 "AS14061","DigitalOcean, LLC",8413
@@ -60,7 +60,7 @@ ASN,Organization,IP_Count
 "AS12876","ONLINE S.A.S.",584
 "AS9009","M247 Europe SRL",570
 "AS201814","MEVSPACE sp. z o.o.",569
-"AS51115","HLL LLC",567
+"AS51115","HLL LLC",568
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS53667","FranTech Solutions",530
@@ -466,6 +466,7 @@ ASN,Organization,IP_Count
 "AS37705","TOPNET",10
 "AS41420","Xentech B.V.",10
 "AS47524","Turksat Uydu Haberlesme ve Kablo TV Isletme A.S.",10
+"AS48874","HOSTMAZE INC SRL-D",10
 "AS49434","FBW NETWORKS SAS",10
 "AS52468","UFINET PANAMA S.A.",10
 "AS57269","DIGI SPAIN TELECOM S.L.U.",10
@@ -488,7 +489,6 @@ ASN,Organization,IP_Count
 "AS40244","Turnkey Internet Inc.",9
 "AS4609","Companhia de Telecomunicacoes de Macau",9
 "AS46606","Unified Layer",9
-"AS48874","HOSTMAZE INC SRL-D",9
 "AS56694","LLC Smart Ape",9
 "AS59134","PT. Datacomm Diangraha",9
 "AS8346","SONATEL-AS Autonomous System",9
