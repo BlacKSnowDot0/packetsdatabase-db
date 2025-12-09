@@ -1,10 +1,10 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87828
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22190
+"AS211298","Driftnet Ltd",22191
 "AS398324","Censys, Inc.",14838
 "AS32934","Facebook, Inc.",12868
-"AS396982","Google LLC",10670
+"AS396982","Google LLC",10671
 "AS14061","DigitalOcean, LLC",8405
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6004
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2569
 "AS23470","ReliableSite.Net LLC",2371
 "AS9808","China Mobile",2084
-"AS202425","IP Volume inc",1904
+"AS202425","IP Volume inc",1905
 "AS214295","SKYNET NETWORK LTD",1631
 "AS32475","Internap Holding LLC",1562
 "AS209605","UAB Host Baltic",1545
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1433
 "AS48925","VibeGAMES B.V.",1426
-"AS13335","Cloudflare, Inc.",1380
+"AS13335","Cloudflare, Inc.",1381
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1240
 "AS22552","eSited Solutions",1190
@@ -57,7 +57,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",607
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",584
-"AS12876","ONLINE S.A.S.",582
+"AS12876","ONLINE S.A.S.",583
 "AS9009","M247 Europe SRL",570
 "AS201814","MEVSPACE sp. z o.o.",568
 "AS51115","HLL LLC",564
@@ -195,8 +195,8 @@ ASN,Organization,IP_Count
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
 "AS141995","Contabo Asia Private Limited",45
+"AS30083","velia.net",45
 "AS210558","1337 Services GmbH",44
-"AS30083","velia.net",44
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
 "AS152194","CTG Server Limited",43
