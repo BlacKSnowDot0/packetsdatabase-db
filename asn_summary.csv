@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22194
 "AS398324","Censys, Inc.",14845
 "AS32934","Facebook, Inc.",12868
-"AS396982","Google LLC",10671
+"AS396982","Google LLC",10672
 "AS14061","DigitalOcean, LLC",8411
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6004
@@ -14,16 +14,16 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4368
 "AS45102","Alibaba (US) Technology Co., Ltd.",4128
 "AS396998","Path Network, Inc.",3992
-"AS0","",3739
+"AS0","",3740
 "AS63949","Akamai Technologies, Inc.",3653
 "AS15169","Google LLC",3420
 "AS51396","Pfcloud UG",3239
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2864
+"AS8075","Microsoft Corporation",2865
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2748
 "AS142002","Scloud Pte Ltd",2569
-"AS23470","ReliableSite.Net LLC",2371
+"AS23470","ReliableSite.Net LLC",2372
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1907
 "AS214295","SKYNET NETWORK LTD",1631
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1433
 "AS48925","VibeGAMES B.V.",1426
-"AS13335","Cloudflare, Inc.",1381
+"AS13335","Cloudflare, Inc.",1382
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1242
 "AS22552","eSited Solutions",1190
@@ -1050,6 +1050,7 @@ ASN,Organization,IP_Count
 "AS9329","Sri Lanka Telecom Ltd",3
 "AS9381","HKBN Enterprise Solutions HK Limited",3
 "AS9506","Singapore Telecommunications Ltd, Magix Services",3
+"AS963","N963",3
 "AS10030","Celcom Axiata Berhad",2
 "AS10036","DLIVE",2
 "AS10066","LG HelloVision Corp.",2
@@ -1524,7 +1525,6 @@ ASN,Organization,IP_Count
 "AS9319","HCN CHUNGBUK CABLE TV SYSTEMS",2
 "AS9336","XYZ Telecom Pty Ltd",2
 "AS9534","Maxis Broadband Sdn Bhd",2
-"AS963","N963",2
 "AS9790","Two Degrees Mobile Limited",2
 "AS9821","Advanced Science and Technology Institute",2
 "AS9905","Linknet ASN",2
