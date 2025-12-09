@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87829
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22195
-"AS398324","Censys, Inc.",14860
+"AS398324","Censys, Inc.",14862
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10674
-"AS14061","DigitalOcean, LLC",8414
+"AS14061","DigitalOcean, LLC",8415
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6007
 "AS4134","Chinanet",5073
@@ -297,6 +297,7 @@ ASN,Organization,IP_Count
 "AS20853","eTOP sp. z o.o.",22
 "AS213010","Gening Nikita Dmitrievich",22
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",22
+"AS3257","GTT Communications Inc.",22
 "AS3320","Deutsche Telekom AG",22
 "AS43289","Trabia SRL",22
 "AS51430","AltusHost B.V.",22
@@ -308,7 +309,6 @@ ASN,Organization,IP_Count
 "AS17816","China Unicom IP network China169 Guangdong province",21
 "AS214668","AxusHost B.V.",21
 "AS24348","CERNET2 IX at Tsinghua University",21
-"AS3257","GTT Communications Inc.",21
 "AS400536","Nodestop LLC",21
 "AS45758","Triple T Broadband Public Company Limited",21
 "AS46573","LayerHost",21
