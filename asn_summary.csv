@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87829
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22194
-"AS398324","Censys, Inc.",14848
+"AS398324","Censys, Inc.",14850
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10672
 "AS14061","DigitalOcean, LLC",8411
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1433
 "AS48925","VibeGAMES B.V.",1426
-"AS13335","Cloudflare, Inc.",1382
+"AS13335","Cloudflare, Inc.",1383
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1242
 "AS22552","eSited Solutions",1190
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS51167","Contabo GmbH",811
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
-"AS14618","Amazon.com, Inc.",714
+"AS14618","Amazon.com, Inc.",715
 "AS10439","CariNet, Inc.",712
 "AS4837","CHINA UNICOM China169 Backbone",607
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -83,7 +83,7 @@ ASN,Organization,IP_Count
 "AS214943","Railnet LLC",317
 "AS45899","VNPT Corp",316
 "AS24863","LINKdotNET AS number",307
-"AS213613","BOTSHIELD LTD",297
+"AS213613","BOTSHIELD LTD",298
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS208843","Alpha Strike Labs GmbH",295
@@ -118,11 +118,11 @@ ASN,Organization,IP_Count
 "AS151185","China Telecom",120
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",112
-"AS215240","Silent Connection Ltd.",111
+"AS215240","Silent Connection Ltd.",112
 "AS208287","DC Host INC",110
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",108
+"AS4766","Korea Telecom",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
-"AS4766","Korea Telecom",106
 "AS47331","TTNet A.S.",105
 "AS8560","IONOS SE",105
 "AS40021","Nubes, LLC",103
