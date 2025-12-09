@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87828
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22191
-"AS398324","Censys, Inc.",14838
+"AS398324","Censys, Inc.",14841
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10671
-"AS14061","DigitalOcean, LLC",8406
+"AS14061","DigitalOcean, LLC",8407
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6004
 "AS4134","Chinanet",5073
@@ -122,8 +122,8 @@ ASN,Organization,IP_Count
 "AS215240","Silent Connection Ltd.",109
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",108
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
+"AS4766","Korea Telecom",106
 "AS47331","TTNet A.S.",105
-"AS4766","Korea Telecom",105
 "AS8560","IONOS SE",105
 "AS40021","Nubes, LLC",103
 "AS199785","Cloud Hosting Solutions, Limited.",100
@@ -661,6 +661,7 @@ ASN,Organization,IP_Count
 "AS137697","CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou , Jiangsu Province, P.",5
 "AS138109","PT. Rasi Bintang Perkasa",5
 "AS138195","MOACK.Co.LTD",5
+"AS140869","Turing Group Limited",5
 "AS141140","PT Jinde Grup Indonesia",5
 "AS14315","1GSERVERS, LLC",5
 "AS150034","FOFO NETWORKS PVT LTD",5
@@ -747,7 +748,6 @@ ASN,Organization,IP_Count
 "AS137872","China Mobile Hong Kong Company Limited",4
 "AS140791","BKHOST TECHNOLOGY VIETNAM JOINT STOCK COMPANY",4
 "AS14080","Telmex Colombia S.A.",4
-"AS140869","Turing Group Limited",4
 "AS14117","Telefonica del Sur S.A.",4
 "AS141673","PT Mamura Inter Media",4
 "AS141862","AL HUTAIB NETSOL PRIVATE LIMITED",4
