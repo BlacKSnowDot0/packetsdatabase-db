@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87829
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22191
-"AS398324","Censys, Inc.",14844
+"AS211298","Driftnet Ltd",22194
+"AS398324","Censys, Inc.",14845
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10671
 "AS14061","DigitalOcean, LLC",8410
@@ -17,8 +17,8 @@ ASN,Organization,IP_Count
 "AS0","",3739
 "AS63949","Akamai Technologies, Inc.",3653
 "AS15169","Google LLC",3420
+"AS51396","Pfcloud UG",3239
 "AS398705","Censys, Inc.",3238
-"AS51396","Pfcloud UG",3238
 "AS8075","Microsoft Corporation",2864
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2748
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS48925","VibeGAMES B.V.",1426
 "AS13335","Cloudflare, Inc.",1381
 "AS215269","LAZYCLOUD LTD",1312
-"AS174","Cogent Communications",1241
+"AS174","Cogent Communications",1242
 "AS22552","eSited Solutions",1190
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
@@ -48,7 +48,7 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS215925","VPSVAULT.HOST LTD",838
-"AS20052","Arbor Networks, Inc.",818
+"AS20052","Arbor Networks, Inc.",819
 "AS51167","Contabo GmbH",811
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
@@ -103,7 +103,7 @@ ASN,Organization,IP_Count
 "AS63199","CDS Global Cloud Co., Ltd",185
 "AS7552","Viettel Group",182
 "AS401116","Nybula LLC",170
-"AS50219","LNK SYSTEMS MUNTENIA SRL",168
+"AS50219","LNK SYSTEMS MUNTENIA SRL",169
 "AS42237","w1n ltd",159
 "AS206264","Amarutu Technology Ltd",153
 "AS262551","Farol Telecom",152
@@ -117,9 +117,9 @@ ASN,Organization,IP_Count
 "AS36007","Kamatera, Inc.",122
 "AS151185","China Telecom",120
 "AS211298","Constantine Cybersecurity Ltd.",113
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",111
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",112
 "AS208287","DC Host INC",110
-"AS215240","Silent Connection Ltd.",109
+"AS215240","Silent Connection Ltd.",110
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",108
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS4766","Korea Telecom",106
@@ -210,8 +210,8 @@ ASN,Organization,IP_Count
 "AS23969","TOT Public Company Limited",40
 "AS27699","TELEFÔNICA BRASIL S.A",40
 "AS43641","SOLLUTIUM EU Sp z.o.o.",40
+"AS5089","Virgin Media Limited",40
 "AS202796","JSR IT B.V.",39
-"AS5089","Virgin Media Limited",39
 "AS8048","CANTV Servicios, Venezuela",39
 "AS9198","JSC Kazakhtelecom",39
 "AS26599","TELEFÔNICA BRASIL S.A",38
@@ -425,6 +425,7 @@ ASN,Organization,IP_Count
 "AS53006","ALGAR TELECOM S/A",13
 "AS9770","LG HelloVision Corp.",13
 "AS2116","GLOBALCONNECT AS",12
+"AS214209","Internet Magnate (Pty) Ltd",12
 "AS2637","Georgia Institute of Technology",12
 "AS29302","Hosting Services Inc",12
 "AS35042","Layer7 Networks GmbH",12
@@ -446,7 +447,6 @@ ASN,Organization,IP_Count
 "AS200651","FlokiNET ehf",11
 "AS205119","TELEKS DOOEL Skopje",11
 "AS206804","EstNOC OY",11
-"AS214209","Internet Magnate (Pty) Ltd",11
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
 "AS24547","China Mobile",11
 "AS37611","Afrihost (Pty) Ltd",11
@@ -1059,6 +1059,7 @@ ASN,Organization,IP_Count
 "AS1136","KPN B.V.",2
 "AS11620","Succeed.Net",2
 "AS11776","Breezeline",2
+"AS11816","SERVICIO DI TELECOMUNICACION DI ARUBA (SETAR) N.V.",2
 "AS12083","WideOpenWest Finance LLC",2
 "AS12091","MTN SA",2
 "AS12301","Invitech ICT Services Kft.",2
@@ -1547,7 +1548,6 @@ ASN,Organization,IP_Count
 "AS11404","Wave Broadband",1
 "AS11550","Smithville Digital, LLC",1
 "AS11650","Pioneer Long Distance Inc.",1
-"AS11816","SERVICIO DI TELECOMUNICACION DI ARUBA (SETAR) N.V.",1
 "AS11830","Instituto Costarricense de Electricidad y Telecom.",1
 "AS11961","Mid-Rivers Telephone Cooperative",1
 "AS12042","Consolidated Communications, Inc.",1
