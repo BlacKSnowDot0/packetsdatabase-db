@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87829
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22194
-"AS398324","Censys, Inc.",14854
+"AS398324","Censys, Inc.",14855
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10673
-"AS14061","DigitalOcean, LLC",8411
+"AS14061","DigitalOcean, LLC",8412
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6004
 "AS4134","Chinanet",5073
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS401120","cheapy.host LLC",557
 "AS53667","FranTech Solutions",530
 "AS198953","Proton66 OOO",527
-"AS9829","Bharat Sanchar Nigam Ltd",522
+"AS9829","Bharat Sanchar Nigam Ltd",523
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
 "AS212238","Datacamp Limited",466
@@ -188,8 +188,8 @@ ASN,Organization,IP_Count
 "AS44592","SkyLink Data Center BV",49
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
+"AS30083","velia.net",48
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",47
-"AS30083","velia.net",47
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",47
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",47
 "AS10796","Charter Communications Inc",46
@@ -413,6 +413,7 @@ ASN,Organization,IP_Count
 "AS15895","""Kyivstar"" PJSC",13
 "AS202520","SkyPass Solutions Sp. z.o.o.",13
 "AS213194","Nechaev Dmitry Sergeevich",13
+"AS214209","Internet Magnate (Pty) Ltd",13
 "AS25369","Hydra Communications Ltd",13
 "AS272928","P&C ON LINE S.R.L. (NETWAY INTERNET)",13
 "AS28840","PJSC ""TATTELECOM""",13
@@ -425,7 +426,6 @@ ASN,Organization,IP_Count
 "AS53006","ALGAR TELECOM S/A",13
 "AS9770","LG HelloVision Corp.",13
 "AS2116","GLOBALCONNECT AS",12
-"AS214209","Internet Magnate (Pty) Ltd",12
 "AS2637","Georgia Institute of Technology",12
 "AS29302","Hosting Services Inc",12
 "AS35042","Layer7 Networks GmbH",12
