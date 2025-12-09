@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87829
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22194
-"AS398324","Censys, Inc.",14857
+"AS211298","Driftnet Ltd",22195
+"AS398324","Censys, Inc.",14859
 "AS32934","Facebook, Inc.",12868
-"AS396982","Google LLC",10673
-"AS14061","DigitalOcean, LLC",8413
+"AS396982","Google LLC",10674
+"AS14061","DigitalOcean, LLC",8414
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6004
 "AS4134","Chinanet",5073
@@ -27,12 +27,12 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1908
 "AS214295","SKYNET NETWORK LTD",1631
-"AS32475","Internap Holding LLC",1568
+"AS32475","Internap Holding LLC",1569
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1474
 "AS36352","HostPapa",1468
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS398722","Censys, Inc.",1433
+"AS398722","Censys, Inc.",1434
 "AS48925","VibeGAMES B.V.",1426
 "AS13335","Cloudflare, Inc.",1383
 "AS215269","LAZYCLOUD LTD",1312
@@ -44,7 +44,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1014
 "AS51852","Private Layer INC",907
-"AS208046","ColocationX Ltd.",850
+"AS208046","ColocationX Ltd.",851
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS215925","VPSVAULT.HOST LTD",838
@@ -85,8 +85,8 @@ ASN,Organization,IP_Count
 "AS24863","LINKdotNET AS number",307
 "AS213613","BOTSHIELD LTD",298
 "AS9341","PT Indonesia Comnets Plus",297
+"AS208843","Alpha Strike Labs GmbH",296
 "AS210848","Telkom Internet LTD",296
-"AS208843","Alpha Strike Labs GmbH",295
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",295
 "AS48090","TECHOFF SRV LIMITED",261
 "AS18403","FPT Telecom Company",258
