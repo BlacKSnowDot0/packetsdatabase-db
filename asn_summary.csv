@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87828
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22190
-"AS398324","Censys, Inc.",14837
+"AS398324","Censys, Inc.",14838
 "AS32934","Facebook, Inc.",12868
-"AS396982","Google LLC",10669
+"AS396982","Google LLC",10670
 "AS14061","DigitalOcean, LLC",8405
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6004
@@ -25,12 +25,12 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2569
 "AS23470","ReliableSite.Net LLC",2371
 "AS9808","China Mobile",2084
-"AS202425","IP Volume inc",1903
+"AS202425","IP Volume inc",1904
 "AS214295","SKYNET NETWORK LTD",1631
 "AS32475","Internap Holding LLC",1562
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1473
-"AS36352","HostPapa",1461
+"AS36352","HostPapa",1462
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1433
 "AS48925","VibeGAMES B.V.",1426
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS51167","Contabo GmbH",811
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
-"AS14618","Amazon.com, Inc.",713
+"AS14618","Amazon.com, Inc.",714
 "AS10439","CariNet, Inc.",711
 "AS4837","CHINA UNICOM China169 Backbone",607
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -63,7 +63,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",564
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS53667","FranTech Solutions",528
+"AS53667","FranTech Solutions",529
 "AS198953","Proton66 OOO",527
 "AS9829","Bharat Sanchar Nigam Ltd",522
 "AS140292","China Telecom",509
@@ -238,12 +238,12 @@ ASN,Organization,IP_Count
 "AS204834","Shabakieh Isfahan Co PJSC",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
 "AS269193","Iktelecom Ltda",32
+"AS4847","China Networks Inter-Exchange",32
 "AS8796","FD-298-8796",32
 "AS1241","RIPE Network Coordination Centre",31
 "AS13213","UK-2 Limited",31
 "AS17557","Pakistan Telecommuication company limited",31
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",31
-"AS4847","China Networks Inter-Exchange",31
 "AS9123","TimeWeb Ltd.",31
 "AS200593","PROSPERO OOO",30
 "AS214417","Andrii Hrosh",30
