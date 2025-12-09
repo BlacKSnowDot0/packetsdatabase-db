@@ -5,14 +5,14 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14843
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10671
-"AS14061","DigitalOcean, LLC",8408
+"AS14061","DigitalOcean, LLC",8409
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6004
 "AS4134","Chinanet",5073
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4457
 "AS16509","Amazon.com, Inc.",4368
-"AS45102","Alibaba (US) Technology Co., Ltd.",4126
+"AS45102","Alibaba (US) Technology Co., Ltd.",4128
 "AS396998","Path Network, Inc.",3992
 "AS0","",3739
 "AS63949","Akamai Technologies, Inc.",3653
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3238
 "AS8075","Microsoft Corporation",2864
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2746
+"AS6939","Hurricane Electric LLC",2747
 "AS142002","Scloud Pte Ltd",2569
 "AS23470","ReliableSite.Net LLC",2371
 "AS9808","China Mobile",2084
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",1564
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1473
-"AS36352","HostPapa",1462
+"AS36352","HostPapa",1464
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1433
 "AS48925","VibeGAMES B.V.",1426
@@ -60,7 +60,7 @@ ASN,Organization,IP_Count
 "AS3462","Chunghwa Telecom Co., Ltd.",584
 "AS9009","M247 Europe SRL",570
 "AS201814","MEVSPACE sp. z o.o.",568
-"AS51115","HLL LLC",565
+"AS51115","HLL LLC",566
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS53667","FranTech Solutions",530
@@ -184,7 +184,7 @@ ASN,Organization,IP_Count
 "AS46475","Limestone Networks, Inc.",53
 "AS30633","Leaseweb USA, Inc.",52
 "AS396356","Latitude.sh",52
-"AS200590","NLS Kazakhstan LLC",50
+"AS200590","NLS Kazakhstan LLC",51
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
 "AS44592","SkyLink Data Center BV",48
