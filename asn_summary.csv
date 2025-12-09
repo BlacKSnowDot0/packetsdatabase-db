@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14838
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10671
-"AS14061","DigitalOcean, LLC",8405
+"AS14061","DigitalOcean, LLC",8406
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6004
 "AS4134","Chinanet",5073
@@ -21,11 +21,11 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3238
 "AS8075","Microsoft Corporation",2864
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2744
+"AS6939","Hurricane Electric LLC",2745
 "AS142002","Scloud Pte Ltd",2569
 "AS23470","ReliableSite.Net LLC",2371
 "AS9808","China Mobile",2084
-"AS202425","IP Volume inc",1905
+"AS202425","IP Volume inc",1906
 "AS214295","SKYNET NETWORK LTD",1631
 "AS32475","Internap Holding LLC",1562
 "AS209605","UAB Host Baltic",1545
@@ -60,7 +60,7 @@ ASN,Organization,IP_Count
 "AS12876","ONLINE S.A.S.",583
 "AS9009","M247 Europe SRL",570
 "AS201814","MEVSPACE sp. z o.o.",568
-"AS51115","HLL LLC",564
+"AS51115","HLL LLC",565
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS53667","FranTech Solutions",529
@@ -98,7 +98,7 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS12389","PJSC Rostelecom",216
 "AS14987","Rethem Hosting LLC",215
-"AS29484","Ruhr-Universitaet Bochum",204
+"AS29484","Ruhr-Universitaet Bochum",205
 "AS12555","Data-center IMAQLIQ Ltd.",194
 "AS63199","CDS Global Cloud Co., Ltd",185
 "AS7552","Viettel Group",182
@@ -127,7 +127,7 @@ ASN,Organization,IP_Count
 "AS8560","IONOS SE",105
 "AS40021","Nubes, LLC",103
 "AS199785","Cloud Hosting Solutions, Limited.",100
-"AS136435","ELITE COMMUNICATION",94
+"AS136435","ELITE COMMUNICATION",95
 "AS205352","KABELNET LTD",93
 "AS63018","Dedicated.com",92
 "AS28209","Under Servicos de Internet Ltda",90
