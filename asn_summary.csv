@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87825
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22188
-"AS398324","Censys, Inc.",14817
+"AS398324","Censys, Inc.",14821
 "AS32934","Facebook, Inc.",12868
-"AS396982","Google LLC",10664
-"AS14061","DigitalOcean, LLC",8398
+"AS396982","Google LLC",10665
+"AS14061","DigitalOcean, LLC",8400
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6002
 "AS4134","Chinanet",5071
@@ -14,18 +14,18 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4367
 "AS45102","Alibaba (US) Technology Co., Ltd.",4126
 "AS396998","Path Network, Inc.",3992
-"AS0","",3737
+"AS0","",3738
 "AS63949","Akamai Technologies, Inc.",3653
 "AS15169","Google LLC",3419
 "AS398705","Censys, Inc.",3238
 "AS51396","Pfcloud UG",3237
-"AS8075","Microsoft Corporation",2861
+"AS8075","Microsoft Corporation",2863
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2741
 "AS142002","Scloud Pte Ltd",2569
 "AS23470","ReliableSite.Net LLC",2370
 "AS9808","China Mobile",2084
-"AS202425","IP Volume inc",1901
+"AS202425","IP Volume inc",1902
 "AS214295","SKYNET NETWORK LTD",1631
 "AS32475","Internap Holding LLC",1559
 "AS209605","UAB Host Baltic",1545
@@ -115,7 +115,7 @@ ASN,Organization,IP_Count
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
 "AS36007","Kamatera, Inc.",122
-"AS151185","China Telecom",119
+"AS151185","China Telecom",120
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",111
 "AS208287","DC Host INC",110
@@ -288,6 +288,7 @@ ASN,Organization,IP_Count
 "AS8193","""Uzbektelekom"" Joint Stock Company",24
 "AS197309","RS-Media LLC",23
 "AS198037","SPACECORE SOLUTION LTD",23
+"AS2914","NTT America, Inc.",23
 "AS41745","Baykov Ilya Sergeevich",23
 "AS62240","Clouvider Limited",23
 "AS7303","Telecom Argentina S.A.",23
@@ -296,7 +297,6 @@ ASN,Organization,IP_Count
 "AS20853","eTOP sp. z o.o.",22
 "AS213010","Gening Nikita Dmitrievich",22
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",22
-"AS2914","NTT America, Inc.",22
 "AS3320","Deutsche Telekom AG",22
 "AS43289","Trabia SRL",22
 "AS51430","AltusHost B.V.",22
@@ -537,6 +537,7 @@ ASN,Organization,IP_Count
 "AS133661","Netplus Broadband Services Private Limited",7
 "AS135478","PT. Cyberindo Aditama",7
 "AS135905","VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",7
+"AS135953","Vietnam Online Network Solution Joint Stock Compnay",7
 "AS13977","Consolidated Communications, Inc.",7
 "AS141433","Netcom Internet Service",7
 "AS149360","PT Indo Telemedia Solusi",7
@@ -581,7 +582,6 @@ ASN,Organization,IP_Count
 "AS132116","Ani Network Pvt Ltd",6
 "AS13430","THE WISP.NET CORP.",6
 "AS135523","Multinet Broadband",6
-"AS135953","Vietnam Online Network Solution Joint Stock Compnay",6
 "AS13999","Mega Cable, S.A. de C.V.",6
 "AS141167","AgotoZ HK Limited",6
 "AS149078","VPSMMO TECHNOLOGY COMPANY LIMITED",6
