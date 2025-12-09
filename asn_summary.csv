@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87829
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22195
-"AS398324","Censys, Inc.",14859
+"AS398324","Censys, Inc.",14860
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10674
 "AS14061","DigitalOcean, LLC",8414
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1434
 "AS48925","VibeGAMES B.V.",1426
-"AS13335","Cloudflare, Inc.",1383
+"AS13335","Cloudflare, Inc.",1384
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1242
 "AS22552","eSited Solutions",1190
@@ -515,6 +515,7 @@ ASN,Organization,IP_Count
 "AS262459","Osirnet Info Telecom Ltda.",8
 "AS27831","Colombia Móvil",8
 "AS27967","Gobernacion de la Provincia de Buenos Aires",8
+"AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",8
 "AS2860","NOS COMUNICACOES, S.A.",8
 "AS30722","Vodafone Italia S.p.A.",8
 "AS32613","Leaseweb Canada Inc.",8
@@ -556,7 +557,6 @@ ASN,Organization,IP_Count
 "AS263238","Eliana Vanessa Morocho Oña",7
 "AS267507","SRX TECNOLOGIA DA INFORMACAO LTDA",7
 "AS269003","KIMNET SOLUCOES",7
-"AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",7
 "AS31042","Serbia BroadBand-Srpske Kablovske mreze d.o.o.",7
 "AS31122","Digiweb ltd",7
 "AS3216","PJSC ""Vimpelcom""",7
