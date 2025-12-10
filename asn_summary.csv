@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",4130
 "AS396998","Path Network, Inc.",3992
 "AS0","",3746
-"AS63949","Akamai Technologies, Inc.",3657
+"AS63949","Akamai Technologies, Inc.",3658
 "AS15169","Google LLC",3420
 "AS51396","Pfcloud UG",3239
 "AS398705","Censys, Inc.",3238
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS48925","VibeGAMES B.V.",1426
 "AS13335","Cloudflare, Inc.",1388
 "AS215269","LAZYCLOUD LTD",1312
-"AS174","Cogent Communications",1244
+"AS174","Cogent Communications",1245
 "AS22552","eSited Solutions",1190
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
@@ -56,8 +56,8 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",714
 "AS4837","CHINA UNICOM China169 Backbone",607
 "AS211849","Kakharov Orinbassar Maratuly",596
+"AS201814","MEVSPACE sp. z o.o.",587
 "AS12876","ONLINE S.A.S.",586
-"AS201814","MEVSPACE sp. z o.o.",586
 "AS3462","Chunghwa Telecom Co., Ltd.",585
 "AS9009","M247 Europe SRL",570
 "AS51115","HLL LLC",568
@@ -540,6 +540,7 @@ ASN,Organization,IP_Count
 "AS135905","VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",7
 "AS135953","Vietnam Online Network Solution Joint Stock Compnay",7
 "AS13977","Consolidated Communications, Inc.",7
+"AS140869","Turing Group Limited",7
 "AS141433","Netcom Internet Service",7
 "AS149360","PT Indo Telemedia Solusi",7
 "AS153096","PT High Speed Connection Network",7
@@ -584,7 +585,6 @@ ASN,Organization,IP_Count
 "AS13430","THE WISP.NET CORP.",6
 "AS135523","Multinet Broadband",6
 "AS13999","Mega Cable, S.A. de C.V.",6
-"AS140869","Turing Group Limited",6
 "AS141167","AgotoZ HK Limited",6
 "AS149078","VPSMMO TECHNOLOGY COMPANY LIMITED",6
 "AS150034","FOFO NETWORKS PVT LTD",6
