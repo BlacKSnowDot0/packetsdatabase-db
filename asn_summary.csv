@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87830
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22197
-"AS398324","Censys, Inc.",14884
+"AS398324","Censys, Inc.",14885
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10678
 "AS14061","DigitalOcean, LLC",8431
@@ -12,16 +12,16 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4457
 "AS16509","Amazon.com, Inc.",4368
-"AS45102","Alibaba (US) Technology Co., Ltd.",4130
+"AS45102","Alibaba (US) Technology Co., Ltd.",4136
 "AS396998","Path Network, Inc.",3992
-"AS0","",3748
+"AS0","",3749
 "AS63949","Akamai Technologies, Inc.",3659
 "AS15169","Google LLC",3420
 "AS51396","Pfcloud UG",3240
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2867
+"AS8075","Microsoft Corporation",2868
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2753
+"AS6939","Hurricane Electric LLC",2755
 "AS142002","Scloud Pte Ltd",2569
 "AS23470","ReliableSite.Net LLC",2378
 "AS9808","China Mobile",2084
@@ -73,7 +73,7 @@ ASN,Organization,IP_Count
 "AS24186","RailTel Corporation of India Ltd.",406
 "AS7018","AT&T Enterprises, LLC",393
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",386
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",387
 "AS47890","UNMANAGED LTD",385
 "AS21859","Zenlayer Inc",371
 "AS7713","Telekomunikasi Indonesia (PT)",366
@@ -181,9 +181,9 @@ ASN,Organization,IP_Count
 "AS12816","Leibniz-Rechenzentrum",54
 "AS213877","u1host ltd",54
 "AS30058","FDCservers.net",54
+"AS30083","velia.net",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS46475","Limestone Networks, Inc.",54
-"AS30083","velia.net",53
 "AS30633","Leaseweb USA, Inc.",52
 "AS44592","SkyLink Data Center BV",52
 "AS200590","NLS Kazakhstan LLC",51
