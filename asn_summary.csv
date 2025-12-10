@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87829
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22196
-"AS398324","Censys, Inc.",14874
+"AS398324","Censys, Inc.",14875
 "AS32934","Facebook, Inc.",12868
-"AS396982","Google LLC",10677
+"AS396982","Google LLC",10678
 "AS14061","DigitalOcean, LLC",8427
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6007
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4457
 "AS16509","Amazon.com, Inc.",4368
-"AS45102","Alibaba (US) Technology Co., Ltd.",4129
+"AS45102","Alibaba (US) Technology Co., Ltd.",4130
 "AS396998","Path Network, Inc.",3992
 "AS0","",3746
 "AS63949","Akamai Technologies, Inc.",3655
@@ -58,7 +58,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS12876","ONLINE S.A.S.",585
 "AS3462","Chunghwa Telecom Co., Ltd.",585
-"AS201814","MEVSPACE sp. z o.o.",577
+"AS201814","MEVSPACE sp. z o.o.",578
 "AS9009","M247 Europe SRL",570
 "AS51115","HLL LLC",568
 "AS31148","Freenet LTD",558
@@ -186,7 +186,7 @@ ASN,Organization,IP_Count
 "AS30633","Leaseweb USA, Inc.",52
 "AS200590","NLS Kazakhstan LLC",51
 "AS30083","velia.net",51
-"AS44592","SkyLink Data Center BV",50
+"AS44592","SkyLink Data Center BV",51
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",47
