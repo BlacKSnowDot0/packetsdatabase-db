@@ -7,7 +7,7 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",10678
 "AS14061","DigitalOcean, LLC",8430
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6008
+"AS16276","OVH SAS",6010
 "AS4134","Chinanet",5073
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4457
@@ -17,7 +17,7 @@ ASN,Organization,IP_Count
 "AS0","",3746
 "AS63949","Akamai Technologies, Inc.",3658
 "AS15169","Google LLC",3420
-"AS51396","Pfcloud UG",3239
+"AS51396","Pfcloud UG",3240
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2867
 "AS213412","ONYPHE SAS",2795
@@ -30,13 +30,13 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",1572
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1474
-"AS36352","HostPapa",1471
+"AS36352","HostPapa",1472
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1434
 "AS48925","VibeGAMES B.V.",1426
 "AS13335","Cloudflare, Inc.",1388
 "AS215269","LAZYCLOUD LTD",1312
-"AS174","Cogent Communications",1246
+"AS174","Cogent Communications",1247
 "AS22552","eSited Solutions",1190
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",840
 "AS56042","China Mobile Communications Corporation",840
 "AS20052","Arbor Networks, Inc.",821
-"AS51167","Contabo GmbH",816
+"AS51167","Contabo GmbH",817
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
 "AS14618","Amazon.com, Inc.",715
@@ -183,7 +183,7 @@ ASN,Organization,IP_Count
 "AS30058","FDCservers.net",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS46475","Limestone Networks, Inc.",54
-"AS30083","velia.net",52
+"AS30083","velia.net",53
 "AS30633","Leaseweb USA, Inc.",52
 "AS44592","SkyLink Data Center BV",52
 "AS200590","NLS Kazakhstan LLC",51
