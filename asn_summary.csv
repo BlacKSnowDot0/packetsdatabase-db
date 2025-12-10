@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14870
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10675
-"AS14061","DigitalOcean, LLC",8425
+"AS14061","DigitalOcean, LLC",8426
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6007
 "AS4134","Chinanet",5073
@@ -47,7 +47,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",852
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
-"AS215925","VPSVAULT.HOST LTD",838
+"AS215925","VPSVAULT.HOST LTD",839
 "AS20052","Arbor Networks, Inc.",820
 "AS51167","Contabo GmbH",816
 "AS8452","TE-AS",805
@@ -83,7 +83,7 @@ ASN,Organization,IP_Count
 "AS214943","Railnet LLC",317
 "AS45899","VNPT Corp",316
 "AS24863","LINKdotNET AS number",307
-"AS213613","BOTSHIELD LTD",298
+"AS213613","BOTSHIELD LTD",299
 "AS9341","PT Indonesia Comnets Plus",297
 "AS208843","Alpha Strike Labs GmbH",296
 "AS210848","Telkom Internet LTD",296
@@ -555,6 +555,7 @@ ASN,Organization,IP_Count
 "AS24961","WIIT AG",7
 "AS25490","PJSC Rostelecom",7
 "AS263238","Eliana Vanessa Morocho Oña",7
+"AS264323","OXMAN TECNOLOGIA LTDA",7
 "AS267507","SRX TECNOLOGIA DA INFORMACAO LTDA",7
 "AS269003","KIMNET SOLUCOES",7
 "AS31042","Serbia BroadBand-Srpske Kablovske mreze d.o.o.",7
@@ -612,7 +613,6 @@ ASN,Organization,IP_Count
 "AS25513","PJSC Moscow city telephone network",6
 "AS262262","METRONET",6
 "AS262773","PROXXIMA TELECOMUNICACOES LTDA",6
-"AS264323","OXMAN TECNOLOGIA LTDA",6
 "AS268976","Weclix Telecom S/A",6
 "AS273683","ALLREDE TELECOM LTDA",6
 "AS27747","Telecentro S.A.",6
