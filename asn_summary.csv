@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87829
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22196
-"AS398324","Censys, Inc.",14873
+"AS398324","Censys, Inc.",14874
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10677
 "AS14061","DigitalOcean, LLC",8427
@@ -15,13 +15,13 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",4129
 "AS396998","Path Network, Inc.",3992
 "AS0","",3746
-"AS63949","Akamai Technologies, Inc.",3654
+"AS63949","Akamai Technologies, Inc.",3655
 "AS15169","Google LLC",3420
 "AS51396","Pfcloud UG",3239
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2866
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2751
+"AS6939","Hurricane Electric LLC",2752
 "AS142002","Scloud Pte Ltd",2569
 "AS23470","ReliableSite.Net LLC",2375
 "AS9808","China Mobile",2084
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1434
 "AS48925","VibeGAMES B.V.",1426
-"AS13335","Cloudflare, Inc.",1385
+"AS13335","Cloudflare, Inc.",1386
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1243
 "AS22552","eSited Solutions",1190
@@ -58,7 +58,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS12876","ONLINE S.A.S.",585
 "AS3462","Chunghwa Telecom Co., Ltd.",585
-"AS201814","MEVSPACE sp. z o.o.",576
+"AS201814","MEVSPACE sp. z o.o.",577
 "AS9009","M247 Europe SRL",570
 "AS51115","HLL LLC",568
 "AS31148","Freenet LTD",558
@@ -182,10 +182,10 @@ ASN,Organization,IP_Count
 "AS213877","u1host ltd",54
 "AS30058","FDCservers.net",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
-"AS46475","Limestone Networks, Inc.",53
+"AS46475","Limestone Networks, Inc.",54
 "AS30633","Leaseweb USA, Inc.",52
 "AS200590","NLS Kazakhstan LLC",51
-"AS30083","velia.net",50
+"AS30083","velia.net",51
 "AS44592","SkyLink Data Center BV",50
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
@@ -357,6 +357,7 @@ ASN,Organization,IP_Count
 "AS5607","Sky UK Limited",17
 "AS56630","Melbikomas UAB",17
 "AS9269","Hong Kong Broadband Network Ltd",17
+"AS9304","HGC Global Communications Limited",17
 "AS11427","Charter Communications Inc",16
 "AS138915","Kaopu Cloud HK Limited",16
 "AS140726","China Unicom",16
@@ -368,7 +369,6 @@ ASN,Organization,IP_Count
 "AS39351","31173 Services AB",16
 "AS46261","QuickPacket, LLC",16
 "AS6597","Coloblox Data Centers Inc",16
-"AS9304","HGC Global Communications Limited",16
 "AS1267","RIPE Network Coordination Centre",15
 "AS12849","Hot-Net internet services Ltd.",15
 "AS136515","Dasca Cable Services, Inc.",15
