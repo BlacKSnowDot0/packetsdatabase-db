@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87830
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22197
-"AS398324","Censys, Inc.",14885
+"AS398324","Censys, Inc.",14887
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10678
 "AS14061","DigitalOcean, LLC",8431
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS401120","cheapy.host LLC",557
 "AS53667","FranTech Solutions",532
 "AS198953","Proton66 OOO",527
-"AS9829","Bharat Sanchar Nigam Ltd",523
+"AS9829","Bharat Sanchar Nigam Ltd",524
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
 "AS212238","Datacamp Limited",466
@@ -96,7 +96,7 @@ ASN,Organization,IP_Count
 "AS701","Verizon Business",228
 "AS29066","velia.net Internetdienste GmbH",225
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
-"AS12389","PJSC Rostelecom",217
+"AS12389","PJSC Rostelecom",218
 "AS14987","Rethem Hosting LLC",215
 "AS29484","Ruhr-Universitaet Bochum",206
 "AS12555","Data-center IMAQLIQ Ltd.",194
@@ -150,8 +150,8 @@ ASN,Organization,IP_Count
 "AS150263","PT Alnet Telekomunikasi Indonesia",71
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",71
 "AS200514","KnownSRV Ltd.",69
+"AS2856","British Telecommunications PLC",69
 "AS52053","REDHEBERG Association declaree",69
-"AS2856","British Telecommunications PLC",68
 "AS834","IPXO LLC",68
 "AS215590","DpkgSoft International Limited",67
 "AS328867","Corebach Backbone SARL",67
@@ -174,10 +174,10 @@ ASN,Organization,IP_Count
 "AS149746","PT Blip Integrator Provider",58
 "AS20001","Charter Communications Inc",58
 "AS20278","Nexeon Technologies, Inc.",57
+"AS396356","Latitude.sh",56
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
-"AS396356","Latitude.sh",55
 "AS12816","Leibniz-Rechenzentrum",54
 "AS213877","u1host ltd",54
 "AS30058","FDCservers.net",54
@@ -453,6 +453,7 @@ ASN,Organization,IP_Count
 "AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",11
 "AS44901","Belcloud LTD",11
 "AS45820","TTSL-ISP DIVISION",11
+"AS48874","HOSTMAZE INC SRL-D",11
 "AS58563","CHINANET Hubei province network",11
 "AS62068","SpectraIP B.V.",11
 "AS149359","PT Persada Data Multimedia",10
@@ -466,7 +467,6 @@ ASN,Organization,IP_Count
 "AS37705","TOPNET",10
 "AS41420","Xentech B.V.",10
 "AS47524","Turksat Uydu Haberlesme ve Kablo TV Isletme A.S.",10
-"AS48874","HOSTMAZE INC SRL-D",10
 "AS49434","FBW NETWORKS SAS",10
 "AS52468","UFINET PANAMA S.A.",10
 "AS57269","DIGI SPAIN TELECOM S.L.U.",10
