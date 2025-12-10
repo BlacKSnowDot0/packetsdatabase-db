@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87830
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70578
 "AS211298","Driftnet Ltd",22200
-"AS398324","Censys, Inc.",14894
+"AS398324","Censys, Inc.",14895
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10681
 "AS14061","DigitalOcean, LLC",8433
@@ -14,8 +14,8 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4368
 "AS45102","Alibaba (US) Technology Co., Ltd.",4136
 "AS396998","Path Network, Inc.",3992
-"AS0","",3749
-"AS63949","Akamai Technologies, Inc.",3660
+"AS0","",3750
+"AS63949","Akamai Technologies, Inc.",3661
 "AS15169","Google LLC",3420
 "AS51396","Pfcloud UG",3240
 "AS398705","Censys, Inc.",3238
@@ -52,18 +52,18 @@ ASN,Organization,IP_Count
 "AS51167","Contabo GmbH",817
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
-"AS14618","Amazon.com, Inc.",716
+"AS14618","Amazon.com, Inc.",717
 "AS10439","CariNet, Inc.",715
 "AS4837","CHINA UNICOM China169 Backbone",607
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS201814","MEVSPACE sp. z o.o.",590
-"AS12876","ONLINE S.A.S.",587
+"AS12876","ONLINE S.A.S.",588
 "AS3462","Chunghwa Telecom Co., Ltd.",585
 "AS9009","M247 Europe SRL",571
 "AS51115","HLL LLC",568
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS53667","FranTech Solutions",533
+"AS53667","FranTech Solutions",534
 "AS198953","Proton66 OOO",527
 "AS9829","Bharat Sanchar Nigam Ltd",527
 "AS140292","China Telecom",509
@@ -261,11 +261,11 @@ ASN,Organization,IP_Count
 "AS3786","LG DACOM Corporation",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS56067","Metrabyte Co.,Ltd",28
+"AS17995","PT iForte Global Internet",27
 "AS34534","FBW NETWORKS SAS",27
 "AS53118","NETLINE TELECOM",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",26
-"AS17995","PT iForte Global Internet",26
 "AS2200","Renater",26
 "AS23693","PT. Telekomunikasi Selular",26
 "AS271597","NEW LINK CONNECT",26
