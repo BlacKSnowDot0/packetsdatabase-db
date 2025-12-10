@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87829
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22196
-"AS398324","Censys, Inc.",14868
+"AS398324","Censys, Inc.",14870
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10675
 "AS14061","DigitalOcean, LLC",8425
@@ -23,14 +23,14 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2750
 "AS142002","Scloud Pte Ltd",2569
-"AS23470","ReliableSite.Net LLC",2373
+"AS23470","ReliableSite.Net LLC",2375
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1910
 "AS214295","SKYNET NETWORK LTD",1631
 "AS32475","Internap Holding LLC",1571
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1474
-"AS36352","HostPapa",1470
+"AS36352","HostPapa",1471
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1434
 "AS48925","VibeGAMES B.V.",1426
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS215925","VPSVAULT.HOST LTD",838
 "AS20052","Arbor Networks, Inc.",820
-"AS51167","Contabo GmbH",815
+"AS51167","Contabo GmbH",816
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
 "AS14618","Amazon.com, Inc.",715
@@ -108,9 +108,9 @@ ASN,Organization,IP_Count
 "AS206264","Amarutu Technology Ltd",153
 "AS262551","Farol Telecom",152
 "AS34984","Superonline Iletisim Hizmetleri A.S.",143
+"AS14956","RouterHosting LLC",141
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
-"AS14956","RouterHosting LLC",140
 "AS13238","YANDEX LLC",131
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
@@ -148,7 +148,7 @@ ASN,Organization,IP_Count
 "AS31898","Oracle Corporation",74
 "AS56046","China Mobile Communications Corporation",74
 "AS150263","PT Alnet Telekomunikasi Indonesia",71
-"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",70
+"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",71
 "AS200514","KnownSRV Ltd.",69
 "AS52053","REDHEBERG Association declaree",69
 "AS2856","British Telecommunications PLC",68
