@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87829
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22196
-"AS398324","Censys, Inc.",14865
+"AS398324","Censys, Inc.",14868
 "AS32934","Facebook, Inc.",12868
-"AS396982","Google LLC",10674
-"AS14061","DigitalOcean, LLC",8423
+"AS396982","Google LLC",10675
+"AS14061","DigitalOcean, LLC",8425
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6007
 "AS4134","Chinanet",5073
@@ -25,18 +25,18 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2569
 "AS23470","ReliableSite.Net LLC",2373
 "AS9808","China Mobile",2084
-"AS202425","IP Volume inc",1909
+"AS202425","IP Volume inc",1910
 "AS214295","SKYNET NETWORK LTD",1631
 "AS32475","Internap Holding LLC",1571
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1474
-"AS36352","HostPapa",1469
+"AS36352","HostPapa",1470
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1434
 "AS48925","VibeGAMES B.V.",1426
-"AS13335","Cloudflare, Inc.",1384
+"AS13335","Cloudflare, Inc.",1385
 "AS215269","LAZYCLOUD LTD",1312
-"AS174","Cogent Communications",1242
+"AS174","Cogent Communications",1243
 "AS22552","eSited Solutions",1190
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
@@ -44,7 +44,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1014
 "AS51852","Private Layer INC",907
-"AS208046","ColocationX Ltd.",851
+"AS208046","ColocationX Ltd.",852
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS215925","VPSVAULT.HOST LTD",838
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
 "AS14618","Amazon.com, Inc.",715
-"AS10439","CariNet, Inc.",713
+"AS10439","CariNet, Inc.",714
 "AS4837","CHINA UNICOM China169 Backbone",607
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",585
@@ -177,16 +177,16 @@ ASN,Organization,IP_Count
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
+"AS396356","Latitude.sh",55
 "AS12816","Leibniz-Rechenzentrum",54
 "AS213877","u1host ltd",54
 "AS30058","FDCservers.net",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS46475","Limestone Networks, Inc.",53
 "AS30633","Leaseweb USA, Inc.",52
-"AS396356","Latitude.sh",52
 "AS200590","NLS Kazakhstan LLC",51
+"AS44592","SkyLink Data Center BV",50
 "AS30083","velia.net",49
-"AS44592","SkyLink Data Center BV",49
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS266181","GOLDEN LINK",48
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",47
@@ -2616,6 +2616,7 @@ ASN,Organization,IP_Count
 "AS34876","""SMART SISTEMZ TECHNOLOJI"" MMM",1
 "AS34977","PROCONO S.A.",1
 "AS35004","Branch Enterprise ""Netgroup-Service""",1
+"AS35032","LLC SIP ""NIS""",1
 "AS35047","Abissnet sh.a.",1
 "AS35125","PJSC Rostelecom",1
 "AS35298","PJSC MegaFon",1
