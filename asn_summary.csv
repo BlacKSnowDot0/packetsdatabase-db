@@ -1,7 +1,7 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87829
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22196
+"AS211298","Driftnet Ltd",22197
 "AS398324","Censys, Inc.",14883
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10678
@@ -23,18 +23,18 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2753
 "AS142002","Scloud Pte Ltd",2569
-"AS23470","ReliableSite.Net LLC",2377
+"AS23470","ReliableSite.Net LLC",2378
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1915
 "AS214295","SKYNET NETWORK LTD",1631
-"AS32475","Internap Holding LLC",1573
+"AS32475","Internap Holding LLC",1574
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1474
 "AS36352","HostPapa",1472
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1434
 "AS48925","VibeGAMES B.V.",1426
-"AS13335","Cloudflare, Inc.",1388
+"AS13335","Cloudflare, Inc.",1390
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1247
 "AS22552","eSited Solutions",1190
@@ -566,6 +566,7 @@ ASN,Organization,IP_Count
 "AS36924","GVA Cote d'Ivoire SAS",7
 "AS400529","Infraly, LLC",7
 "AS42610","PJSC Rostelecom",7
+"AS4771","Spark New Zealand Trading Limited",7
 "AS4811","China Telecom (Group)",7
 "AS49505","JSC Selectel",7
 "AS5056","Aureon Network Services",7
@@ -632,7 +633,6 @@ ASN,Organization,IP_Count
 "AS397270","NetInformatik Inc.",6
 "AS399765","FasNET Services LLC",6
 "AS44486","Oliver Horscht is trading as ""SYNLINQ""",6
-"AS4771","Spark New Zealand Trading Limited",6
 "AS48314","Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG",6
 "AS48347","JSC Mediasoft ekspert",6
 "AS48642","Joint stock company ""For""",6
