@@ -1,10 +1,10 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87830
-"AS49581","Ferdinand Zink trading as Tube-Hosting",70577
+"AS49581","Ferdinand Zink trading as Tube-Hosting",70578
 "AS211298","Driftnet Ltd",22197
-"AS398324","Censys, Inc.",14888
+"AS398324","Censys, Inc.",14889
 "AS32934","Facebook, Inc.",12868
-"AS396982","Google LLC",10678
+"AS396982","Google LLC",10679
 "AS14061","DigitalOcean, LLC",8431
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6011
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",852
 "AS9465","AGOTOZ PTE. LTD.",845
-"AS215925","VPSVAULT.HOST LTD",840
+"AS215925","VPSVAULT.HOST LTD",841
 "AS56042","China Mobile Communications Corporation",840
 "AS20052","Arbor Networks, Inc.",821
 "AS51167","Contabo GmbH",817
@@ -125,12 +125,13 @@ ASN,Organization,IP_Count
 "AS8560","IONOS SE",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS47331","TTNet A.S.",105
-"AS40021","Nubes, LLC",103
+"AS40021","Nubes, LLC",104
 "AS199785","Cloud Hosting Solutions, Limited.",100
 "AS136435","ELITE COMMUNICATION",96
 "AS205352","KABELNET LTD",93
 "AS63018","Dedicated.com",92
 "AS28209","Under Servicos de Internet Ltda",91
+"AS5617","Orange Polska Spolka Akcyjna",91
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS11320","LightEdge Solutions",88
 "AS271795","SERVITELCONET CIA. LTDA.",85
@@ -138,7 +139,6 @@ ASN,Organization,IP_Count
 "AS16735","ALGAR TELECOM S/A",84
 "AS8402","PJSC ""Vimpelcom""",83
 "AS23724","IDC, China Telecommunications Corporation",82
-"AS5617","Orange Polska Spolka Akcyjna",81
 "AS200019","ALEXHOST SRL",78
 "AS22773","Cox Communications Inc.",78
 "AS3920","ESTOXY OU",77
@@ -153,10 +153,10 @@ ASN,Organization,IP_Count
 "AS2856","British Telecommunications PLC",69
 "AS52053","REDHEBERG Association declaree",69
 "AS834","IPXO LLC",68
+"AS210644","AEZA INTERNATIONAL LTD",67
 "AS215590","DpkgSoft International Limited",67
 "AS328867","Corebach Backbone SARL",67
 "AS55720","Gigabit Hosting Sdn Bhd",67
-"AS210644","AEZA INTERNATIONAL LTD",66
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
 "AS57588","Hayat for Internet & communication LLC",66
 "AS398101","GoDaddy.com, LLC",65
@@ -289,12 +289,12 @@ ASN,Organization,IP_Count
 "AS8193","""Uzbektelekom"" Joint Stock Company",24
 "AS197309","RS-Media LLC",23
 "AS198037","SPACECORE SOLUTION LTD",23
+"AS20853","eTOP sp. z o.o.",23
 "AS41745","Baykov Ilya Sergeevich",23
 "AS62240","Clouvider Limited",23
 "AS7303","Telecom Argentina S.A.",23
 "AS16591","Google Fiber Inc.",22
 "AS17561","Larus Limited",22
-"AS20853","eTOP sp. z o.o.",22
 "AS213010","Gening Nikita Dmitrievich",22
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",22
 "AS3257","GTT Communications Inc.",22
