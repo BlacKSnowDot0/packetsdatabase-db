@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87829
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22196
-"AS398324","Censys, Inc.",14876
+"AS398324","Censys, Inc.",14877
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10678
 "AS14061","DigitalOcean, LLC",8427
@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",4130
 "AS396998","Path Network, Inc.",3992
 "AS0","",3746
-"AS63949","Akamai Technologies, Inc.",3656
+"AS63949","Akamai Technologies, Inc.",3657
 "AS15169","Google LLC",3420
 "AS51396","Pfcloud UG",3239
 "AS398705","Censys, Inc.",3238
@@ -23,7 +23,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2752
 "AS142002","Scloud Pte Ltd",2569
-"AS23470","ReliableSite.Net LLC",2375
+"AS23470","ReliableSite.Net LLC",2376
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1913
 "AS214295","SKYNET NETWORK LTD",1631
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1434
 "AS48925","VibeGAMES B.V.",1426
-"AS13335","Cloudflare, Inc.",1386
+"AS13335","Cloudflare, Inc.",1387
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1243
 "AS22552","eSited Solutions",1190
@@ -58,12 +58,12 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS12876","ONLINE S.A.S.",586
 "AS3462","Chunghwa Telecom Co., Ltd.",585
-"AS201814","MEVSPACE sp. z o.o.",581
+"AS201814","MEVSPACE sp. z o.o.",582
 "AS9009","M247 Europe SRL",570
 "AS51115","HLL LLC",568
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS53667","FranTech Solutions",531
+"AS53667","FranTech Solutions",532
 "AS198953","Proton66 OOO",527
 "AS9829","Bharat Sanchar Nigam Ltd",523
 "AS140292","China Telecom",509
@@ -116,9 +116,9 @@ ASN,Organization,IP_Count
 "AS19905","Neustar Security Services",127
 "AS36007","Kamatera, Inc.",122
 "AS151185","China Telecom",120
+"AS215240","Silent Connection Ltd.",114
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",113
 "AS211298","Constantine Cybersecurity Ltd.",113
-"AS215240","Silent Connection Ltd.",113
 "AS208287","DC Host INC",110
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",108
 "AS4766","Korea Telecom",107
@@ -636,6 +636,7 @@ ASN,Organization,IP_Count
 "AS48314","Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG",6
 "AS48347","JSC Mediasoft ekspert",6
 "AS48642","Joint stock company ""For""",6
+"AS48678","PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi",6
 "AS55699","PT. Cemerlang Multimedia",6
 "AS5603","Telekom Slovenije, d.d.",6
 "AS56047","China Mobile Communications Corporation",6
@@ -721,7 +722,6 @@ ASN,Organization,IP_Count
 "AS4721","JCOM Co., Ltd.",5
 "AS47702","Teleradiocompany Discovery Ltd.",5
 "AS4780","Digital United Inc.",5
-"AS48678","PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi",5
 "AS53062","GGNET TELECOM BACKBONE",5
 "AS53167","SEBRATEL TECNOLOGIA LTDA",5
 "AS56044","China Mobile Communications Corporation",5
