@@ -1,33 +1,33 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87829
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
-"AS211298","Driftnet Ltd",22195
-"AS398324","Censys, Inc.",14864
+"AS211298","Driftnet Ltd",22196
+"AS398324","Censys, Inc.",14865
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10674
-"AS14061","DigitalOcean, LLC",8415
+"AS14061","DigitalOcean, LLC",8423
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6007
 "AS4134","Chinanet",5073
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4457
 "AS16509","Amazon.com, Inc.",4368
-"AS45102","Alibaba (US) Technology Co., Ltd.",4128
+"AS45102","Alibaba (US) Technology Co., Ltd.",4129
 "AS396998","Path Network, Inc.",3992
-"AS0","",3744
+"AS0","",3745
 "AS63949","Akamai Technologies, Inc.",3654
 "AS15169","Google LLC",3420
 "AS51396","Pfcloud UG",3239
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2866
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2749
+"AS6939","Hurricane Electric LLC",2750
 "AS142002","Scloud Pte Ltd",2569
 "AS23470","ReliableSite.Net LLC",2373
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1909
 "AS214295","SKYNET NETWORK LTD",1631
-"AS32475","Internap Holding LLC",1570
+"AS32475","Internap Holding LLC",1571
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1474
 "AS36352","HostPapa",1469
@@ -48,8 +48,8 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS215925","VPSVAULT.HOST LTD",838
-"AS20052","Arbor Networks, Inc.",819
-"AS51167","Contabo GmbH",814
+"AS20052","Arbor Networks, Inc.",820
+"AS51167","Contabo GmbH",815
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
 "AS14618","Amazon.com, Inc.",715
@@ -58,8 +58,8 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",585
 "AS12876","ONLINE S.A.S.",584
+"AS201814","MEVSPACE sp. z o.o.",570
 "AS9009","M247 Europe SRL",570
-"AS201814","MEVSPACE sp. z o.o.",569
 "AS51115","HLL LLC",568
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
@@ -207,11 +207,11 @@ ASN,Organization,IP_Count
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",42
 "AS7738","V tal",42
 "AS12322","Free SAS",41
+"AS202796","JSR IT B.V.",40
 "AS23969","TOT Public Company Limited",40
 "AS27699","TELEFÔNICA BRASIL S.A",40
 "AS43641","SOLLUTIUM EU Sp z.o.o.",40
 "AS5089","Virgin Media Limited",40
-"AS202796","JSR IT B.V.",39
 "AS8048","CANTV Servicios, Venezuela",39
 "AS9198","JSC Kazakhtelecom",39
 "AS26599","TELEFÔNICA BRASIL S.A",38
@@ -220,10 +220,10 @@ ASN,Organization,IP_Count
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",37
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",37
 "AS8167","V tal",37
+"AS149705","PT Wijaya Trimitra Indonesia",36
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",36
 "AS329009","Spectrum Internet Service Ltd",36
 "AS42624","Global-Data System IT Corporation",36
-"AS149705","PT Wijaya Trimitra Indonesia",35
 "AS213790","Limited Network LTD",35
 "AS4760","PCCW IMS Limited",35
 "AS1103","SURF B.V.",34
@@ -1418,6 +1418,7 @@ ASN,Organization,IP_Count
 "AS45557","Vietnam Technology and Telecommunication JSC",2
 "AS45595","Pakistan Telecom Company Limited",2
 "AS45773","HEC",2
+"AS4621","Office of Info.Tech. Admin. for Educational Development",2
 "AS46592","Tombigbee Communications, LLC",2
 "AS4685","Asahi Net",2
 "AS47236","CityLink Ltd",2
@@ -2783,7 +2784,6 @@ ASN,Organization,IP_Count
 "AS45903","CMC Telecom Infrastructure Company",1
 "AS45942","Sikka Broadband Pvt. Ltd.",1
 "AS45974","NHNCLOUD",1
-"AS4621","Office of Info.Tech. Admin. for Educational Development",1
 "AS46238","WT Services, Inc.",1
 "AS4657","Starhub Ltd.",1
 "AS46687","BCI Mississippi Broadband,LLC",1
