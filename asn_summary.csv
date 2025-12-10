@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14871
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10675
-"AS14061","DigitalOcean, LLC",8426
+"AS14061","DigitalOcean, LLC",8427
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6007
 "AS4134","Chinanet",5073
@@ -58,7 +58,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS12876","ONLINE S.A.S.",585
 "AS3462","Chunghwa Telecom Co., Ltd.",585
-"AS201814","MEVSPACE sp. z o.o.",573
+"AS201814","MEVSPACE sp. z o.o.",574
 "AS9009","M247 Europe SRL",570
 "AS51115","HLL LLC",568
 "AS31148","Freenet LTD",558
@@ -122,8 +122,8 @@ ASN,Organization,IP_Count
 "AS208287","DC Host INC",110
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",108
 "AS4766","Korea Telecom",107
+"AS8560","IONOS SE",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
-"AS8560","IONOS SE",106
 "AS47331","TTNet A.S.",105
 "AS40021","Nubes, LLC",103
 "AS199785","Cloud Hosting Solutions, Limited.",100
