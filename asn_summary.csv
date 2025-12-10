@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87829
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70577
 "AS211298","Driftnet Ltd",22196
-"AS398324","Censys, Inc.",14878
+"AS398324","Censys, Inc.",14880
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10678
-"AS14061","DigitalOcean, LLC",8429
+"AS14061","DigitalOcean, LLC",8430
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6007
 "AS4134","Chinanet",5073
@@ -23,9 +23,9 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2752
 "AS142002","Scloud Pte Ltd",2569
-"AS23470","ReliableSite.Net LLC",2376
+"AS23470","ReliableSite.Net LLC",2377
 "AS9808","China Mobile",2084
-"AS202425","IP Volume inc",1913
+"AS202425","IP Volume inc",1914
 "AS214295","SKYNET NETWORK LTD",1631
 "AS32475","Internap Holding LLC",1572
 "AS209605","UAB Host Baltic",1545
@@ -57,8 +57,8 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",607
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS12876","ONLINE S.A.S.",586
+"AS201814","MEVSPACE sp. z o.o.",586
 "AS3462","Chunghwa Telecom Co., Ltd.",585
-"AS201814","MEVSPACE sp. z o.o.",584
 "AS9009","M247 Europe SRL",570
 "AS51115","HLL LLC",568
 "AS31148","Freenet LTD",558
@@ -232,10 +232,10 @@ ASN,Organization,IP_Count
 "AS21127","Joint Stock Company TransTeleCom",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS55990","Huawei Cloud Service data center",34
+"AS204834","Shabakieh Isfahan Co PJSC",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
 "AS12912","T-Mobile Polska S.A.",32
-"AS204834","Shabakieh Isfahan Co PJSC",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
 "AS269193","Iktelecom Ltda",32
 "AS4847","China Networks Inter-Exchange",32
@@ -485,6 +485,7 @@ ASN,Organization,IP_Count
 "AS24955","JSC ""Ufanet""",9
 "AS266702","MEGALINK S.R.L.",9
 "AS267280","YELLOW CONNECT MULTIMIDIA LTDA ME",9
+"AS32613","Leaseweb Canada Inc.",9
 "AS38880","Micron21 Datacentre Pty Ltd",9
 "AS40244","Turnkey Internet Inc.",9
 "AS4609","Companhia de Telecomunicacoes de Macau",9
@@ -518,7 +519,6 @@ ASN,Organization,IP_Count
 "AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",8
 "AS2860","NOS COMUNICACOES, S.A.",8
 "AS30722","Vodafone Italia S.p.A.",8
-"AS32613","Leaseweb Canada Inc.",8
 "AS328723","Telasera Technologies PTY LTD",8
 "AS38283","CHINANET SiChuan Telecom Internet Data Center",8
 "AS41608","NextGenWebs, S.L.",8
