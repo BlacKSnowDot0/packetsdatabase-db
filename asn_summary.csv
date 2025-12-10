@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4368
 "AS45102","Alibaba (US) Technology Co., Ltd.",4129
 "AS396998","Path Network, Inc.",3992
-"AS0","",3745
+"AS0","",3746
 "AS63949","Akamai Technologies, Inc.",3654
 "AS15169","Google LLC",3420
 "AS51396","Pfcloud UG",3239
@@ -58,7 +58,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS12876","ONLINE S.A.S.",585
 "AS3462","Chunghwa Telecom Co., Ltd.",585
-"AS201814","MEVSPACE sp. z o.o.",572
+"AS201814","MEVSPACE sp. z o.o.",573
 "AS9009","M247 Europe SRL",570
 "AS51115","HLL LLC",568
 "AS31148","Freenet LTD",558
@@ -104,7 +104,7 @@ ASN,Organization,IP_Count
 "AS7552","Viettel Group",182
 "AS401116","Nybula LLC",170
 "AS50219","LNK SYSTEMS MUNTENIA SRL",170
-"AS42237","w1n ltd",159
+"AS42237","w1n ltd",160
 "AS206264","Amarutu Technology Ltd",153
 "AS262551","Farol Telecom",152
 "AS34984","Superonline Iletisim Hizmetleri A.S.",144
@@ -118,7 +118,7 @@ ASN,Organization,IP_Count
 "AS151185","China Telecom",120
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",113
 "AS211298","Constantine Cybersecurity Ltd.",113
-"AS215240","Silent Connection Ltd.",112
+"AS215240","Silent Connection Ltd.",113
 "AS208287","DC Host INC",110
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",108
 "AS4766","Korea Telecom",107
@@ -244,12 +244,12 @@ ASN,Organization,IP_Count
 "AS13213","UK-2 Limited",31
 "AS17557","Pakistan Telecommuication company limited",31
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",31
+"AS852","TELUS Communications Inc.",31
 "AS9123","TimeWeb Ltd.",31
 "AS200593","PROSPERO OOO",30
 "AS214417","Andrii Hrosh",30
 "AS215762","Bullet Group LTD",30
 "AS55933","Cloudie Limited",30
-"AS852","TELUS Communications Inc.",30
 "AS28546","Servnet Mexico, S.A. de C.V.",29
 "AS6134","XNNET LLC",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
