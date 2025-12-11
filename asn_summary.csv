@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87836
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70578
 "AS211298","Driftnet Ltd",22206
-"AS398324","Censys, Inc.",14935
+"AS398324","Censys, Inc.",14936
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10687
 "AS14061","DigitalOcean, LLC",8443
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4457
 "AS16509","Amazon.com, Inc.",4368
-"AS45102","Alibaba (US) Technology Co., Ltd.",4138
+"AS45102","Alibaba (US) Technology Co., Ltd.",4139
 "AS396998","Path Network, Inc.",3992
 "AS0","",3755
 "AS63949","Akamai Technologies, Inc.",3663
@@ -59,8 +59,8 @@ ASN,Organization,IP_Count
 "AS12876","ONLINE S.A.S.",591
 "AS201814","MEVSPACE sp. z o.o.",590
 "AS3462","Chunghwa Telecom Co., Ltd.",585
-"AS9009","M247 Europe SRL",571
-"AS51115","HLL LLC",569
+"AS9009","M247 Europe SRL",572
+"AS51115","HLL LLC",570
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS53667","FranTech Solutions",536
@@ -104,7 +104,7 @@ ASN,Organization,IP_Count
 "AS7552","Viettel Group",182
 "AS50219","LNK SYSTEMS MUNTENIA SRL",173
 "AS401116","Nybula LLC",170
-"AS42237","w1n ltd",160
+"AS42237","w1n ltd",161
 "AS206264","Amarutu Technology Ltd",153
 "AS262551","Farol Telecom",153
 "AS34984","Superonline Iletisim Hizmetleri A.S.",146
