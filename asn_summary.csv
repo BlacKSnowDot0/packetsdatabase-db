@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87832
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70578
 "AS211298","Driftnet Ltd",22202
-"AS398324","Censys, Inc.",14909
+"AS398324","Censys, Inc.",14910
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10683
 "AS14061","DigitalOcean, LLC",8435
@@ -57,7 +57,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",607
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS201814","MEVSPACE sp. z o.o.",590
-"AS12876","ONLINE S.A.S.",588
+"AS12876","ONLINE S.A.S.",589
 "AS3462","Chunghwa Telecom Co., Ltd.",585
 "AS9009","M247 Europe SRL",571
 "AS51115","HLL LLC",568
@@ -124,8 +124,8 @@ ASN,Organization,IP_Count
 "AS8560","IONOS SE",108
 "AS4766","Korea Telecom",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
+"AS40021","Nubes, LLC",105
 "AS47331","TTNet A.S.",105
-"AS40021","Nubes, LLC",104
 "AS199785","Cloud Hosting Solutions, Limited.",100
 "AS136435","ELITE COMMUNICATION",96
 "AS205352","KABELNET LTD",93
@@ -568,6 +568,7 @@ ASN,Organization,IP_Count
 "AS42610","PJSC Rostelecom",7
 "AS4771","Spark New Zealand Trading Limited",7
 "AS4811","China Telecom (Group)",7
+"AS48678","PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi",7
 "AS49505","JSC Selectel",7
 "AS5056","Aureon Network Services",7
 "AS50923","Metroset Ltd.",7
@@ -636,7 +637,6 @@ ASN,Organization,IP_Count
 "AS48314","Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG",6
 "AS48347","JSC Mediasoft ekspert",6
 "AS48642","Joint stock company ""For""",6
-"AS48678","PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi",6
 "AS55699","PT. Cemerlang Multimedia",6
 "AS5603","Telekom Slovenije, d.d.",6
 "AS56047","China Mobile Communications Corporation",6
