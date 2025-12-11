@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14936
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10687
-"AS14061","DigitalOcean, LLC",8443
+"AS14061","DigitalOcean, LLC",8444
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6014
 "AS4134","Chinanet",5074
@@ -116,7 +116,7 @@ ASN,Organization,IP_Count
 "AS19905","Neustar Security Services",127
 "AS36007","Kamatera, Inc.",122
 "AS151185","China Telecom",121
-"AS215240","Silent Connection Ltd.",116
+"AS215240","Silent Connection Ltd.",117
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",114
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
@@ -487,6 +487,7 @@ ASN,Organization,IP_Count
 "AS24955","JSC ""Ufanet""",9
 "AS266702","MEGALINK S.R.L.",9
 "AS267280","YELLOW CONNECT MULTIMIDIA LTDA ME",9
+"AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",9
 "AS32613","Leaseweb Canada Inc.",9
 "AS38880","Micron21 Datacentre Pty Ltd",9
 "AS40244","Turnkey Internet Inc.",9
@@ -516,7 +517,6 @@ ASN,Organization,IP_Count
 "AS262459","Osirnet Info Telecom Ltda.",8
 "AS27831","Colombia Móvil",8
 "AS27967","Gobernacion de la Provincia de Buenos Aires",8
-"AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",8
 "AS2860","NOS COMUNICACOES, S.A.",8
 "AS30722","Vodafone Italia S.p.A.",8
 "AS328723","Telasera Technologies PTY LTD",8
