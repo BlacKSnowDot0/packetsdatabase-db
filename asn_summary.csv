@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87836
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70578
 "AS211298","Driftnet Ltd",22206
-"AS398324","Censys, Inc.",14938
+"AS398324","Censys, Inc.",14939
 "AS32934","Facebook, Inc.",12868
-"AS396982","Google LLC",10687
+"AS396982","Google LLC",10688
 "AS14061","DigitalOcean, LLC",8445
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6014
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4457
 "AS16509","Amazon.com, Inc.",4368
-"AS45102","Alibaba (US) Technology Co., Ltd.",4139
+"AS45102","Alibaba (US) Technology Co., Ltd.",4140
 "AS396998","Path Network, Inc.",3992
 "AS0","",3755
 "AS63949","Akamai Technologies, Inc.",3663
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1437
 "AS48925","VibeGAMES B.V.",1426
-"AS13335","Cloudflare, Inc.",1396
+"AS13335","Cloudflare, Inc.",1397
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1252
 "AS22552","eSited Solutions",1190
@@ -48,8 +48,8 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS215925","VPSVAULT.HOST LTD",842
 "AS56042","China Mobile Communications Corporation",840
+"AS51167","Contabo GmbH",824
 "AS20052","Arbor Networks, Inc.",823
-"AS51167","Contabo GmbH",823
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
 "AS14618","Amazon.com, Inc.",718
@@ -60,7 +60,7 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",590
 "AS3462","Chunghwa Telecom Co., Ltd.",585
 "AS9009","M247 Europe SRL",572
-"AS51115","HLL LLC",570
+"AS51115","HLL LLC",571
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS53667","FranTech Solutions",536
@@ -166,7 +166,7 @@ ASN,Organization,IP_Count
 "AS17378","TierPoint, LLC",63
 "AS19318","Interserver, Inc",62
 "AS140717","China Unicom",61
-"AS30083","velia.net",60
+"AS30083","velia.net",61
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS4812","China Telecom (Group)",60
 "AS20115","Charter Communications",59
