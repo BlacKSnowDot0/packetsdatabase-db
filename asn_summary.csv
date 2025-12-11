@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87834
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87835
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70578
 "AS211298","Driftnet Ltd",22205
 "AS398324","Censys, Inc.",14928
 "AS32934","Facebook, Inc.",12868
-"AS396982","Google LLC",10685
-"AS14061","DigitalOcean, LLC",8441
+"AS396982","Google LLC",10686
+"AS14061","DigitalOcean, LLC",8443
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6014
 "AS4134","Chinanet",5074
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",842
 "AS56042","China Mobile Communications Corporation",840
 "AS20052","Arbor Networks, Inc.",823
-"AS51167","Contabo GmbH",819
+"AS51167","Contabo GmbH",820
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
 "AS14618","Amazon.com, Inc.",717
@@ -173,9 +173,9 @@ ASN,Organization,IP_Count
 "AS49544","i3D.net B.V",59
 "AS149746","PT Blip Integrator Provider",58
 "AS20001","Charter Communications Inc",58
+"AS30083","velia.net",58
 "AS396356","Latitude.sh",58
 "AS20278","Nexeon Technologies, Inc.",57
-"AS30083","velia.net",57
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
