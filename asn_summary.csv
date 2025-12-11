@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87832
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87833
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70578
-"AS211298","Driftnet Ltd",22204
-"AS398324","Censys, Inc.",14922
+"AS211298","Driftnet Ltd",22205
+"AS398324","Censys, Inc.",14926
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10685
 "AS14061","DigitalOcean, LLC",8438
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4368
 "AS45102","Alibaba (US) Technology Co., Ltd.",4138
 "AS396998","Path Network, Inc.",3992
-"AS0","",3753
+"AS0","",3754
 "AS63949","Akamai Technologies, Inc.",3662
 "AS15169","Google LLC",3420
 "AS51396","Pfcloud UG",3240
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2569
 "AS23470","ReliableSite.Net LLC",2392
 "AS9808","China Mobile",2084
-"AS202425","IP Volume inc",1920
+"AS202425","IP Volume inc",1921
 "AS214295","SKYNET NETWORK LTD",1631
 "AS32475","Internap Holding LLC",1579
 "AS209605","UAB Host Baltic",1545
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1436
 "AS48925","VibeGAMES B.V.",1426
-"AS13335","Cloudflare, Inc.",1395
+"AS13335","Cloudflare, Inc.",1396
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1249
 "AS22552","eSited Solutions",1190
@@ -102,7 +102,7 @@ ASN,Organization,IP_Count
 "AS12555","Data-center IMAQLIQ Ltd.",194
 "AS63199","CDS Global Cloud Co., Ltd",186
 "AS7552","Viettel Group",182
-"AS50219","LNK SYSTEMS MUNTENIA SRL",172
+"AS50219","LNK SYSTEMS MUNTENIA SRL",173
 "AS401116","Nybula LLC",170
 "AS42237","w1n ltd",160
 "AS206264","Amarutu Technology Ltd",153
@@ -175,7 +175,7 @@ ASN,Organization,IP_Count
 "AS20001","Charter Communications Inc",58
 "AS396356","Latitude.sh",58
 "AS20278","Nexeon Technologies, Inc.",57
-"AS30083","velia.net",56
+"AS30083","velia.net",57
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
@@ -480,6 +480,7 @@ ASN,Organization,IP_Count
 "AS139994","PT XL Axiata Tbk",9
 "AS17451","BIZNET NETWORKS",9
 "AS17676","SoftBank Corp.",9
+"AS18779","EGIHosting",9
 "AS212504","AdKyNet SAS",9
 "AS213520","Senko Digital Ltd",9
 "AS214481","Wojciech Czapkowicz",9
@@ -501,7 +502,6 @@ ASN,Organization,IP_Count
 "AS150179","KAAL TECH CO., LIMITED",8
 "AS17882","MCS Com Co Ltd",8
 "AS18209","Atria Convergence Technologies Pvt. Ltd.,",8
-"AS18779","EGIHosting",8
 "AS18986","Calligo (Canada) Inc.",8
 "AS198154","Pars Abr Toseeh Ertebatat Company",8
 "AS198361","Yaglom Labs Ltd",8
