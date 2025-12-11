@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87832
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70578
 "AS211298","Driftnet Ltd",22202
-"AS398324","Censys, Inc.",14915
+"AS398324","Censys, Inc.",14917
 "AS32934","Facebook, Inc.",12868
-"AS396982","Google LLC",10684
-"AS14061","DigitalOcean, LLC",8437
+"AS396982","Google LLC",10685
+"AS14061","DigitalOcean, LLC",8438
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6013
 "AS4134","Chinanet",5074
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",852
 "AS9465","AGOTOZ PTE. LTD.",845
-"AS215925","VPSVAULT.HOST LTD",841
+"AS215925","VPSVAULT.HOST LTD",842
 "AS56042","China Mobile Communications Corporation",840
 "AS20052","Arbor Networks, Inc.",821
 "AS51167","Contabo GmbH",819
@@ -56,14 +56,14 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",715
 "AS4837","CHINA UNICOM China169 Backbone",607
 "AS211849","Kakharov Orinbassar Maratuly",596
+"AS12876","ONLINE S.A.S.",590
 "AS201814","MEVSPACE sp. z o.o.",590
-"AS12876","ONLINE S.A.S.",589
 "AS3462","Chunghwa Telecom Co., Ltd.",585
 "AS9009","M247 Europe SRL",571
 "AS51115","HLL LLC",568
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS53667","FranTech Solutions",535
+"AS53667","FranTech Solutions",536
 "AS198953","Proton66 OOO",527
 "AS9829","Bharat Sanchar Nigam Ltd",527
 "AS140292","China Telecom",509
@@ -134,9 +134,9 @@ ASN,Organization,IP_Count
 "AS5617","Orange Polska Spolka Akcyjna",91
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS11320","LightEdge Solutions",88
+"AS16735","ALGAR TELECOM S/A",85
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
-"AS16735","ALGAR TELECOM S/A",84
 "AS8402","PJSC ""Vimpelcom""",83
 "AS23724","IDC, China Telecommunications Corporation",82
 "AS200019","ALEXHOST SRL",78
@@ -469,6 +469,7 @@ ASN,Organization,IP_Count
 "AS47524","Turksat Uydu Haberlesme ve Kablo TV Isletme A.S.",10
 "AS49434","FBW NETWORKS SAS",10
 "AS52468","UFINET PANAMA S.A.",10
+"AS56694","LLC Smart Ape",10
 "AS57269","DIGI SPAIN TELECOM S.L.U.",10
 "AS9930","TT DOTCOM SDN BHD",10
 "AS12353","Vodafone Portugal - Communicacoes Pessoais S.A.",9
@@ -490,7 +491,6 @@ ASN,Organization,IP_Count
 "AS40244","Turnkey Internet Inc.",9
 "AS4609","Companhia de Telecomunicacoes de Macau",9
 "AS46606","Unified Layer",9
-"AS56694","LLC Smart Ape",9
 "AS59134","PT. Datacomm Diangraha",9
 "AS8346","SONATEL-AS Autonomous System",9
 "AS9038","Batelco Jordan",9
