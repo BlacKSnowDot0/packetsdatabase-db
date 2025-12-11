@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87832
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70578
 "AS211298","Driftnet Ltd",22202
-"AS398324","Censys, Inc.",14903
+"AS398324","Censys, Inc.",14906
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10683
 "AS14061","DigitalOcean, LLC",8434
@@ -12,16 +12,16 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4457
 "AS16509","Amazon.com, Inc.",4368
-"AS45102","Alibaba (US) Technology Co., Ltd.",4137
+"AS45102","Alibaba (US) Technology Co., Ltd.",4138
 "AS396998","Path Network, Inc.",3992
-"AS0","",3751
+"AS0","",3753
 "AS63949","Akamai Technologies, Inc.",3661
 "AS15169","Google LLC",3420
 "AS51396","Pfcloud UG",3240
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2870
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2755
+"AS6939","Hurricane Electric LLC",2756
 "AS142002","Scloud Pte Ltd",2569
 "AS23470","ReliableSite.Net LLC",2381
 "AS9808","China Mobile",2084
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1494
 "AS36352","HostPapa",1474
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS398722","Censys, Inc.",1435
+"AS398722","Censys, Inc.",1436
 "AS48925","VibeGAMES B.V.",1426
 "AS13335","Cloudflare, Inc.",1394
 "AS215269","LAZYCLOUD LTD",1312
@@ -184,7 +184,7 @@ ASN,Organization,IP_Count
 "AS30058","FDCservers.net",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS46475","Limestone Networks, Inc.",54
-"AS30633","Leaseweb USA, Inc.",52
+"AS30633","Leaseweb USA, Inc.",53
 "AS44592","SkyLink Data Center BV",52
 "AS200590","NLS Kazakhstan LLC",51
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
@@ -200,13 +200,13 @@ ASN,Organization,IP_Count
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
 "AS152194","CTG Server Limited",43
+"AS12322","Free SAS",42
 "AS20473","The Constant Company, LLC",42
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS21928","T-Mobile USA, Inc.",42
 "AS262378","Compuservice Empreendimentos Ltda",42
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",42
 "AS7738","V tal",42
-"AS12322","Free SAS",41
 "AS202796","JSR IT B.V.",41
 "AS23969","TOT Public Company Limited",40
 "AS27699","TELEFÔNICA BRASIL S.A",40
@@ -3019,6 +3019,7 @@ ASN,Organization,IP_Count
 "AS61868","NETFACIL INTERNET VIA RADIO E INFORMATICA LTDA - M",1
 "AS61951","BRASIL-IP TELECOMUNICACOES LTDA - ME",1
 "AS62044","Zscaler Switzerland GmbH",1
+"AS62468","VpsQuan L.L.C.",1
 "AS62563","GLOBALTELEHOST Corp.",1
 "AS62646","WireStar, Inc.",1
 "AS62738","ZochNet",1
