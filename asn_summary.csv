@@ -21,9 +21,9 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2873
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2758
+"AS6939","Hurricane Electric LLC",2759
 "AS142002","Scloud Pte Ltd",2569
-"AS23470","ReliableSite.Net LLC",2392
+"AS23470","ReliableSite.Net LLC",2393
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1922
 "AS214295","SKYNET NETWORK LTD",1631
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS48925","VibeGAMES B.V.",1426
 "AS13335","Cloudflare, Inc.",1396
 "AS215269","LAZYCLOUD LTD",1312
-"AS174","Cogent Communications",1250
+"AS174","Cogent Communications",1251
 "AS22552","eSited Solutions",1190
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",842
 "AS56042","China Mobile Communications Corporation",840
 "AS20052","Arbor Networks, Inc.",823
-"AS51167","Contabo GmbH",821
+"AS51167","Contabo GmbH",822
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
 "AS14618","Amazon.com, Inc.",718
@@ -1258,6 +1258,7 @@ ASN,Organization,IP_Count
 "AS262761","Sinal Br Telecom Ltda",2
 "AS262785","GIGA MAIS FIBRA TELECOMUNICACOES S.A. (CLICK)",2
 "AS262805","REDE MINAS TELECOM LTDA",2
+"AS262813","Superimagem Tecnologia em Eletrônica Ltda",2
 "AS262834","REDECONESUL TELECOMUNICACOES LTDA",2
 "AS262847","Hoinaski & Sklasky Ltda",2
 "AS262979","OesteLine Informática Ltda.",2
@@ -2120,7 +2121,6 @@ ASN,Organization,IP_Count
 "AS262807","Redfox Telecomunicações Ltda.",1
 "AS262808","Brasilnet Telecomunicações Ltda ME",1
 "AS262809","Talklink Informática EIRELI ME.",1
-"AS262813","Superimagem Tecnologia em Eletrônica Ltda",1
 "AS262854","AFINET SOLUCOES EM TECNOLOGIA DA INFORMACAO LTDA",1
 "AS262865","Ired Internet",1
 "AS262891","M. I. Internet Ltda.",1
