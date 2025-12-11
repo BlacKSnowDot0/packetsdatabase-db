@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87831
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87832
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70578
-"AS211298","Driftnet Ltd",22201
-"AS398324","Censys, Inc.",14899
+"AS211298","Driftnet Ltd",22202
+"AS398324","Censys, Inc.",14903
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10683
 "AS14061","DigitalOcean, LLC",8434
@@ -30,13 +30,13 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",1578
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1494
-"AS36352","HostPapa",1473
+"AS36352","HostPapa",1474
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1435
 "AS48925","VibeGAMES B.V.",1426
-"AS13335","Cloudflare, Inc.",1392
+"AS13335","Cloudflare, Inc.",1394
 "AS215269","LAZYCLOUD LTD",1312
-"AS174","Cogent Communications",1247
+"AS174","Cogent Communications",1249
 "AS22552","eSited Solutions",1190
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",841
 "AS56042","China Mobile Communications Corporation",840
 "AS20052","Arbor Networks, Inc.",821
-"AS51167","Contabo GmbH",818
+"AS51167","Contabo GmbH",819
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",732
 "AS14618","Amazon.com, Inc.",717
@@ -71,9 +71,9 @@ ASN,Organization,IP_Count
 "AS212238","Datacamp Limited",467
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
-"AS7018","AT&T Enterprises, LLC",393
+"AS7018","AT&T Enterprises, LLC",395
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",387
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",388
 "AS47890","UNMANAGED LTD",385
 "AS21859","Zenlayer Inc",372
 "AS7713","Telekomunikasi Indonesia (PT)",366
@@ -84,7 +84,7 @@ ASN,Organization,IP_Count
 "AS45899","VNPT Corp",316
 "AS24863","LINKdotNET AS number",307
 "AS213613","BOTSHIELD LTD",300
-"AS208843","Alpha Strike Labs GmbH",297
+"AS208843","Alpha Strike Labs GmbH",298
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",295
@@ -100,10 +100,10 @@ ASN,Organization,IP_Count
 "AS14987","Rethem Hosting LLC",215
 "AS29484","Ruhr-Universitaet Bochum",206
 "AS12555","Data-center IMAQLIQ Ltd.",194
-"AS63199","CDS Global Cloud Co., Ltd",185
+"AS63199","CDS Global Cloud Co., Ltd",186
 "AS7552","Viettel Group",182
+"AS50219","LNK SYSTEMS MUNTENIA SRL",171
 "AS401116","Nybula LLC",170
-"AS50219","LNK SYSTEMS MUNTENIA SRL",170
 "AS42237","w1n ltd",160
 "AS206264","Amarutu Technology Ltd",153
 "AS262551","Farol Telecom",153
@@ -121,8 +121,8 @@ ASN,Organization,IP_Count
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",108
+"AS8560","IONOS SE",108
 "AS4766","Korea Telecom",107
-"AS8560","IONOS SE",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS47331","TTNet A.S.",105
 "AS40021","Nubes, LLC",104
