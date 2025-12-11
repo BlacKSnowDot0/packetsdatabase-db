@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14946
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10691
-"AS14061","DigitalOcean, LLC",8446
+"AS14061","DigitalOcean, LLC",8447
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6015
 "AS4134","Chinanet",5074
@@ -27,7 +27,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1924
 "AS214295","SKYNET NETWORK LTD",1631
-"AS32475","Internap Holding LLC",1581
+"AS32475","Internap Holding LLC",1582
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1494
 "AS36352","HostPapa",1476
@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS13335","Cloudflare, Inc.",1398
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1252
-"AS22552","eSited Solutions",1191
+"AS22552","eSited Solutions",1192
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
@@ -120,9 +120,9 @@ ASN,Organization,IP_Count
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",114
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
+"AS4766","Korea Telecom",108
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",108
 "AS8560","IONOS SE",108
-"AS4766","Korea Telecom",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS40021","Nubes, LLC",105
 "AS47331","TTNet A.S.",105
@@ -234,11 +234,11 @@ ASN,Organization,IP_Count
 "AS55990","Huawei Cloud Service data center",34
 "AS204834","Shabakieh Isfahan Co PJSC",33
 "AS45671","Servers Australia Pty. Ltd",33
+"AS4847","China Networks Inter-Exchange",33
 "AS9498","Bharti Airtel Limited",33
 "AS12912","T-Mobile Polska S.A.",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
 "AS269193","Iktelecom Ltda",32
-"AS4847","China Networks Inter-Exchange",32
 "AS8796","FD-298-8796",32
 "AS9123","TimeWeb Ltd.",32
 "AS1241","RIPE Network Coordination Centre",31
