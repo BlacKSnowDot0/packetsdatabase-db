@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87839
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70578
 "AS211298","Driftnet Ltd",22211
-"AS398324","Censys, Inc.",14982
+"AS398324","Censys, Inc.",14983
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10698
-"AS14061","DigitalOcean, LLC",8451
+"AS14061","DigitalOcean, LLC",8452
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6016
 "AS4134","Chinanet",5077
@@ -44,7 +44,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1014
 "AS51852","Private Layer INC",907
-"AS208046","ColocationX Ltd.",855
+"AS208046","ColocationX Ltd.",856
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS215925","VPSVAULT.HOST LTD",842
 "AS56042","China Mobile Communications Corporation",840
@@ -116,7 +116,7 @@ ASN,Organization,IP_Count
 "AS19905","Neustar Security Services",127
 "AS151185","China Telecom",122
 "AS36007","Kamatera, Inc.",122
-"AS215240","Silent Connection Ltd.",119
+"AS215240","Silent Connection Ltd.",120
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",114
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
@@ -159,10 +159,10 @@ ASN,Organization,IP_Count
 "AS328867","Corebach Backbone SARL",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
 "AS57588","Hayat for Internet & communication LLC",66
+"AS30083","velia.net",65
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS6128","Cablevision Systems Corp.",65
-"AS30083","velia.net",64
 "AS5650","Frontier Communications of America, Inc.",64
 "AS17378","TierPoint, LLC",63
 "AS19318","Interserver, Inc",62
@@ -1815,6 +1815,7 @@ ASN,Organization,IP_Count
 "AS151577","PT Geka Solusi Utama",1
 "AS151600","PT Inti Data Guna",1
 "AS151844","INetwork Pvt. Ltd.",1
+"AS151885","DATA SECURITY SOLUTIONS LIMITED",1
 "AS152045","PT Petabyte Network Indonesia",1
 "AS152304","Md Mostafizur Rahman",1
 "AS152344","PT Linea Global Teknologi",1
