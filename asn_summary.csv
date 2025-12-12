@@ -1,14 +1,14 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87838
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87839
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70578
-"AS211298","Driftnet Ltd",22210
+"AS211298","Driftnet Ltd",22211
 "AS398324","Censys, Inc.",14982
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10698
 "AS14061","DigitalOcean, LLC",8451
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6016
-"AS4134","Chinanet",5076
+"AS4134","Chinanet",5077
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4457
 "AS16509","Amazon.com, Inc.",4369
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2873
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2765
+"AS6939","Hurricane Electric LLC",2766
 "AS142002","Scloud Pte Ltd",2571
 "AS23470","ReliableSite.Net LLC",2396
 "AS9808","China Mobile",2084
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",737
 "AS14618","Amazon.com, Inc.",718
-"AS10439","CariNet, Inc.",716
+"AS10439","CariNet, Inc.",717
 "AS4837","CHINA UNICOM China169 Backbone",608
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS12876","ONLINE S.A.S.",594
@@ -98,7 +98,7 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS12389","PJSC Rostelecom",219
 "AS14987","Rethem Hosting LLC",215
-"AS29484","Ruhr-Universitaet Bochum",207
+"AS29484","Ruhr-Universitaet Bochum",208
 "AS12555","Data-center IMAQLIQ Ltd.",194
 "AS63199","CDS Global Cloud Co., Ltd",186
 "AS7552","Viettel Group",182
@@ -200,8 +200,8 @@ ASN,Organization,IP_Count
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
 "AS152194","CTG Server Limited",43
+"AS202796","JSR IT B.V.",43
 "AS12322","Free SAS",42
-"AS202796","JSR IT B.V.",42
 "AS20473","The Constant Company, LLC",42
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS21928","T-Mobile USA, Inc.",42
@@ -325,6 +325,7 @@ ASN,Organization,IP_Count
 "AS24151","China Internet Network Infomation Center",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS6181","Cincinnati Bell Telephone Company LLC",20
+"AS9304","HGC Global Communications Limited",20
 "AS11426","Charter Communications Inc",19
 "AS12874","Fastweb SpA",19
 "AS136142","Enigma Fiber Pvt Ltd",19
@@ -340,7 +341,6 @@ ASN,Organization,IP_Count
 "AS49531","""NetCom-R"" LLC",19
 "AS6167","Verizon Business",19
 "AS6697","Republican Unitary Telecommunication Enterprise Beltelecom",19
-"AS9304","HGC Global Communications Limited",19
 "AS11878","tzulo, inc.",18
 "AS18049","Taiwan Infrastructure Network Technologie",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
