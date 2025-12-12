@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87838
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70578
 "AS211298","Driftnet Ltd",22210
-"AS398324","Censys, Inc.",14974
+"AS398324","Censys, Inc.",14976
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10697
 "AS14061","DigitalOcean, LLC",8451
@@ -48,7 +48,7 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS215925","VPSVAULT.HOST LTD",842
 "AS56042","China Mobile Communications Corporation",840
-"AS51167","Contabo GmbH",828
+"AS51167","Contabo GmbH",829
 "AS20052","Arbor Networks, Inc.",824
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",737
@@ -162,9 +162,9 @@ ASN,Organization,IP_Count
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS6128","Cablevision Systems Corp.",65
+"AS30083","velia.net",64
 "AS5650","Frontier Communications of America, Inc.",64
 "AS17378","TierPoint, LLC",63
-"AS30083","velia.net",63
 "AS19318","Interserver, Inc",62
 "AS140717","China Unicom",61
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
