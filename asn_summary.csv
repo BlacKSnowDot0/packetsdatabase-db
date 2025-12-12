@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14986
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10698
-"AS14061","DigitalOcean, LLC",8452
+"AS14061","DigitalOcean, LLC",8459
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6016
 "AS4134","Chinanet",5077
@@ -27,7 +27,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1930
 "AS214295","SKYNET NETWORK LTD",1631
-"AS32475","Internap Holding LLC",1583
+"AS32475","Internap Holding LLC",1584
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1494
 "AS36352","HostPapa",1476
@@ -48,7 +48,7 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS215925","VPSVAULT.HOST LTD",842
 "AS56042","China Mobile Communications Corporation",840
-"AS51167","Contabo GmbH",830
+"AS51167","Contabo GmbH",831
 "AS20052","Arbor Networks, Inc.",824
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",737
@@ -158,8 +158,8 @@ ASN,Organization,IP_Count
 "AS215590","DpkgSoft International Limited",67
 "AS328867","Corebach Backbone SARL",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
+"AS30083","velia.net",66
 "AS57588","Hayat for Internet & communication LLC",66
-"AS30083","velia.net",65
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS6128","Cablevision Systems Corp.",65
@@ -500,6 +500,7 @@ ASN,Organization,IP_Count
 "AS11172","Alestra, S. de R.L. de C.V.",8
 "AS13287","FALBOX S.L.",8
 "AS133982","Excitel Broadband Private Limited",8
+"AS135905","VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",8
 "AS138754","Kerala Vision Broad Band Private Limited",8
 "AS141295","Madhya Pradesh Agency For Promotion   Of Information Technology",8
 "AS150179","KAAL TECH CO., LIMITED",8
@@ -538,7 +539,6 @@ ASN,Organization,IP_Count
 "AS1257","Tele2 Sverige AB",7
 "AS133661","Netplus Broadband Services Private Limited",7
 "AS135478","PT. Cyberindo Aditama",7
-"AS135905","VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",7
 "AS135953","Vietnam Online Network Solution Joint Stock Compnay",7
 "AS13977","Consolidated Communications, Inc.",7
 "AS140869","Turing Group Limited",7
