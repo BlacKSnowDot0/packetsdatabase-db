@@ -5,9 +5,9 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",14998
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10699
-"AS14061","DigitalOcean, LLC",8462
+"AS14061","DigitalOcean, LLC",8463
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6016
+"AS16276","OVH SAS",6017
 "AS4134","Chinanet",5077
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4457
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS48925","VibeGAMES B.V.",1426
 "AS13335","Cloudflare, Inc.",1403
 "AS215269","LAZYCLOUD LTD",1312
-"AS174","Cogent Communications",1253
+"AS174","Cogent Communications",1254
 "AS22552","eSited Solutions",1192
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
@@ -48,7 +48,7 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS215925","VPSVAULT.HOST LTD",842
 "AS56042","China Mobile Communications Corporation",840
-"AS51167","Contabo GmbH",831
+"AS51167","Contabo GmbH",832
 "AS20052","Arbor Networks, Inc.",825
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",737
@@ -324,6 +324,7 @@ ASN,Organization,IP_Count
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",20
 "AS24151","China Internet Network Infomation Center",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
+"AS30823","aurologic GmbH",20
 "AS6181","Cincinnati Bell Telephone Company LLC",20
 "AS9304","HGC Global Communications Limited",20
 "AS11426","Charter Communications Inc",19
@@ -336,7 +337,6 @@ ASN,Organization,IP_Count
 "AS22927","Telefonica de Argentina",19
 "AS24757","EthioNet",19
 "AS262287","Maxihost LTDA",19
-"AS30823","aurologic GmbH",19
 "AS40676","Psychz Networks",19
 "AS49531","""NetCom-R"" LLC",19
 "AS6167","Verizon Business",19
