@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87838
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70578
 "AS211298","Driftnet Ltd",22209
-"AS398324","Censys, Inc.",14967
+"AS398324","Censys, Inc.",14968
 "AS32934","Facebook, Inc.",12868
-"AS396982","Google LLC",10695
+"AS396982","Google LLC",10696
 "AS14061","DigitalOcean, LLC",8451
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6016
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4369
 "AS45102","Alibaba (US) Technology Co., Ltd.",4140
 "AS396998","Path Network, Inc.",3992
-"AS0","",3757
+"AS0","",3758
 "AS63949","Akamai Technologies, Inc.",3666
 "AS15169","Google LLC",3420
 "AS51396","Pfcloud UG",3240
@@ -523,6 +523,7 @@ ASN,Organization,IP_Count
 "AS30722","Vodafone Italia S.p.A.",8
 "AS328723","Telasera Technologies PTY LTD",8
 "AS38283","CHINANET SiChuan Telecom Internet Data Center",8
+"AS400529","Infraly, LLC",8
 "AS41608","NextGenWebs, S.L.",8
 "AS4761","PT. INDOSAT Tbk",8
 "AS5410","Bouygues Telecom SA",8
@@ -565,7 +566,6 @@ ASN,Organization,IP_Count
 "AS3216","PJSC ""Vimpelcom""",7
 "AS3329","VODAFONE-PANAFON HELLENIC TELECOMMUNICATIONS COMPANY SA",7
 "AS36924","GVA Cote d'Ivoire SAS",7
-"AS400529","Infraly, LLC",7
 "AS42610","PJSC Rostelecom",7
 "AS4771","Spark New Zealand Trading Limited",7
 "AS4811","China Telecom (Group)",7
