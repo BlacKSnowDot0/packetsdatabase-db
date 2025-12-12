@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87838
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70578
 "AS211298","Driftnet Ltd",22209
-"AS398324","Censys, Inc.",14964
+"AS398324","Censys, Inc.",14966
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10695
 "AS14061","DigitalOcean, LLC",8449
@@ -21,11 +21,11 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2873
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2762
+"AS6939","Hurricane Electric LLC",2763
 "AS142002","Scloud Pte Ltd",2570
 "AS23470","ReliableSite.Net LLC",2396
 "AS9808","China Mobile",2084
-"AS202425","IP Volume inc",1925
+"AS202425","IP Volume inc",1926
 "AS214295","SKYNET NETWORK LTD",1631
 "AS32475","Internap Holding LLC",1583
 "AS209605","UAB Host Baltic",1545
@@ -53,17 +53,17 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",737
 "AS14618","Amazon.com, Inc.",718
-"AS10439","CariNet, Inc.",715
+"AS10439","CariNet, Inc.",716
 "AS4837","CHINA UNICOM China169 Backbone",607
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS12876","ONLINE S.A.S.",592
 "AS201814","MEVSPACE sp. z o.o.",590
 "AS3462","Chunghwa Telecom Co., Ltd.",585
-"AS51115","HLL LLC",573
+"AS51115","HLL LLC",574
 "AS9009","M247 Europe SRL",572
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS53667","FranTech Solutions",536
+"AS53667","FranTech Solutions",537
 "AS198953","Proton66 OOO",527
 "AS9829","Bharat Sanchar Nigam Ltd",527
 "AS140292","China Telecom",509
@@ -137,7 +137,7 @@ ASN,Organization,IP_Count
 "AS16735","ALGAR TELECOM S/A",85
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
-"AS8402","PJSC ""Vimpelcom""",83
+"AS8402","PJSC ""Vimpelcom""",84
 "AS23724","IDC, China Telecommunications Corporation",82
 "AS200019","ALEXHOST SRL",78
 "AS22773","Cox Communications Inc.",78
@@ -1671,6 +1671,7 @@ ASN,Organization,IP_Count
 "AS13825","Troy Cablevision, Inc.",1
 "AS138368","INSTACOM Pvt. LTD",1
 "AS138388","Pokhara Internet Pvt. Ltd.",1
+"AS138421","China Unicom",1
 "AS138423","CMPak Limited",1
 "AS138452","Click Earth Online",1
 "AS13855","The Municipal Communications Utility of the City of Cedar Falls, Iowa",1
