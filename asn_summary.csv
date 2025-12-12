@@ -2,20 +2,20 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87838
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70578
 "AS211298","Driftnet Ltd",22209
-"AS398324","Censys, Inc.",14966
+"AS398324","Censys, Inc.",14967
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10695
-"AS14061","DigitalOcean, LLC",8450
+"AS14061","DigitalOcean, LLC",8451
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6016
-"AS4134","Chinanet",5074
+"AS4134","Chinanet",5075
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4457
 "AS16509","Amazon.com, Inc.",4369
 "AS45102","Alibaba (US) Technology Co., Ltd.",4140
 "AS396998","Path Network, Inc.",3992
 "AS0","",3757
-"AS63949","Akamai Technologies, Inc.",3665
+"AS63949","Akamai Technologies, Inc.",3666
 "AS15169","Google LLC",3420
 "AS51396","Pfcloud UG",3240
 "AS398705","Censys, Inc.",3238
@@ -164,8 +164,8 @@ ASN,Organization,IP_Count
 "AS6128","Cablevision Systems Corp.",65
 "AS5650","Frontier Communications of America, Inc.",64
 "AS17378","TierPoint, LLC",63
+"AS30083","velia.net",63
 "AS19318","Interserver, Inc",62
-"AS30083","velia.net",62
 "AS140717","China Unicom",61
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS4812","China Telecom (Group)",60
@@ -498,6 +498,7 @@ ASN,Organization,IP_Count
 "AS8346","SONATEL-AS Autonomous System",9
 "AS9038","Batelco Jordan",9
 "AS11172","Alestra, S. de R.L. de C.V.",8
+"AS13287","FALBOX S.L.",8
 "AS133982","Excitel Broadband Private Limited",8
 "AS138754","Kerala Vision Broad Band Private Limited",8
 "AS141295","Madhya Pradesh Agency For Promotion   Of Information Technology",8
@@ -534,7 +535,6 @@ ASN,Organization,IP_Count
 "AS8551","Bezeq International Ltd.",8
 "AS9541","Cyber Internet Services (Private) Limited",8
 "AS1257","Tele2 Sverige AB",7
-"AS13287","FALBOX S.L.",7
 "AS133661","Netplus Broadband Services Private Limited",7
 "AS135478","PT. Cyberindo Aditama",7
 "AS135905","VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",7
