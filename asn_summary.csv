@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87840
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70578
 "AS211298","Driftnet Ltd",22214
-"AS398324","Censys, Inc.",14992
+"AS398324","Censys, Inc.",14994
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10698
-"AS14061","DigitalOcean, LLC",8461
+"AS14061","DigitalOcean, LLC",8462
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6016
 "AS4134","Chinanet",5077
@@ -17,11 +17,11 @@ ASN,Organization,IP_Count
 "AS0","",3758
 "AS63949","Akamai Technologies, Inc.",3666
 "AS15169","Google LLC",3420
-"AS51396","Pfcloud UG",3240
+"AS51396","Pfcloud UG",3241
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2876
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2766
+"AS6939","Hurricane Electric LLC",2767
 "AS142002","Scloud Pte Ltd",2571
 "AS23470","ReliableSite.Net LLC",2396
 "AS9808","China Mobile",2084
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1437
 "AS48925","VibeGAMES B.V.",1426
-"AS13335","Cloudflare, Inc.",1402
+"AS13335","Cloudflare, Inc.",1403
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1253
 "AS22552","eSited Solutions",1192
@@ -156,9 +156,9 @@ ASN,Organization,IP_Count
 "AS834","IPXO LLC",68
 "AS210644","AEZA INTERNATIONAL LTD",67
 "AS215590","DpkgSoft International Limited",67
+"AS30083","velia.net",67
 "AS328867","Corebach Backbone SARL",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
-"AS30083","velia.net",66
 "AS57588","Hayat for Internet & communication LLC",66
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
