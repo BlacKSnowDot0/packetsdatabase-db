@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87838
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70578
 "AS211298","Driftnet Ltd",22210
-"AS398324","Censys, Inc.",14979
+"AS398324","Censys, Inc.",14982
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10698
 "AS14061","DigitalOcean, LLC",8451
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1437
 "AS48925","VibeGAMES B.V.",1426
-"AS13335","Cloudflare, Inc.",1400
+"AS13335","Cloudflare, Inc.",1401
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1252
 "AS22552","eSited Solutions",1192
@@ -1834,6 +1834,7 @@ ASN,Organization,IP_Count
 "AS15897","Vodafone Telekomunikasyon A.S.",1
 "AS15962","Orange Slovensko a.s.",1
 "AS15994","A1 Hrvatska d.o.o.",1
+"AS16086","DNA Oyj",1
 "AS16190","WEB LLC",1
 "AS16232","Telecom Italia S.p.A.",1
 "AS16256","MTS PJSC",1
