@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87841
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70579
 "AS211298","Driftnet Ltd",22217
-"AS398324","Censys, Inc.",15037
+"AS398324","Censys, Inc.",15039
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10707
 "AS14061","DigitalOcean, LLC",8471
@@ -21,9 +21,9 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2877
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2772
+"AS6939","Hurricane Electric LLC",2774
 "AS142002","Scloud Pte Ltd",2571
-"AS23470","ReliableSite.Net LLC",2423
+"AS23470","ReliableSite.Net LLC",2424
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1937
 "AS214295","SKYNET NETWORK LTD",1631
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1438
 "AS48925","VibeGAMES B.V.",1426
-"AS13335","Cloudflare, Inc.",1407
+"AS13335","Cloudflare, Inc.",1408
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1255
 "AS22552","eSited Solutions",1193
@@ -48,7 +48,7 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS215925","VPSVAULT.HOST LTD",843
 "AS56042","China Mobile Communications Corporation",840
-"AS51167","Contabo GmbH",835
+"AS51167","Contabo GmbH",836
 "AS20052","Arbor Networks, Inc.",826
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",737
@@ -102,7 +102,7 @@ ASN,Organization,IP_Count
 "AS12555","Data-center IMAQLIQ Ltd.",197
 "AS63199","CDS Global Cloud Co., Ltd",188
 "AS7552","Viettel Group",182
-"AS50219","LNK SYSTEMS MUNTENIA SRL",174
+"AS50219","LNK SYSTEMS MUNTENIA SRL",175
 "AS401116","Nybula LLC",170
 "AS42237","w1n ltd",162
 "AS206264","Amarutu Technology Ltd",153
@@ -872,6 +872,7 @@ ASN,Organization,IP_Count
 "AS135882","Spark Online",3
 "AS135967","Bach Kim Network solutions Join stock company",3
 "AS136052","PT Cloud Hosting Indonesia",3
+"AS136861","PT. ARTAMEDIA CITRA TELEMATIKA INDONESIA",3
 "AS13720","Daybreak Game Company LLC",3
 "AS137236","TURBOTECH CO., LTD.",3
 "AS137449","SKYNET CHOWMUHANI",3
@@ -1103,7 +1104,6 @@ ASN,Organization,IP_Count
 "AS136258","BrainStorm Network, Inc",2
 "AS136697","In Broadband Private Limited",2
 "AS136749","KS IT SOLUTIONS SDN BHD",2
-"AS136861","PT. ARTAMEDIA CITRA TELEMATIKA INDONESIA",2
 "AS136865","PT Foura Inti Sinergi",2
 "AS137143","Minnal Digital Network Private Limited",2
 "AS137687","Luoyang, Henan Province, P.R.China.",2
