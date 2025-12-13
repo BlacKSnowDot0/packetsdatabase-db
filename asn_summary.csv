@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87841
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70579
 "AS211298","Driftnet Ltd",22217
-"AS398324","Censys, Inc.",15048
+"AS398324","Censys, Inc.",15049
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10707
 "AS14061","DigitalOcean, LLC",8475
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6019
+"AS16276","OVH SAS",6021
 "AS4134","Chinanet",5078
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4457
@@ -23,18 +23,18 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2774
 "AS142002","Scloud Pte Ltd",2571
-"AS23470","ReliableSite.Net LLC",2426
+"AS23470","ReliableSite.Net LLC",2427
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1939
 "AS214295","SKYNET NETWORK LTD",1631
-"AS32475","Internap Holding LLC",1596
+"AS32475","Internap Holding LLC",1597
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1495
 "AS36352","HostPapa",1477
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1438
 "AS48925","VibeGAMES B.V.",1426
-"AS13335","Cloudflare, Inc.",1409
+"AS13335","Cloudflare, Inc.",1410
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1255
 "AS22552","eSited Solutions",1193
@@ -71,7 +71,7 @@ ASN,Organization,IP_Count
 "AS212238","Datacamp Limited",469
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
-"AS7018","AT&T Enterprises, LLC",395
+"AS7018","AT&T Enterprises, LLC",397
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",394
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS47890","UNMANAGED LTD",386
@@ -119,7 +119,7 @@ ASN,Organization,IP_Count
 "AS36007","Kamatera, Inc.",122
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",115
 "AS211298","Constantine Cybersecurity Ltd.",113
-"AS8560","IONOS SE",112
+"AS8560","IONOS SE",113
 "AS4766","Korea Telecom",111
 "AS208287","DC Host INC",110
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",109
@@ -149,7 +149,7 @@ ASN,Organization,IP_Count
 "AS56046","China Mobile Communications Corporation",74
 "AS150263","PT Alnet Telekomunikasi Indonesia",73
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",73
-"AS200514","KnownSRV Ltd.",69
+"AS200514","KnownSRV Ltd.",70
 "AS2856","British Telecommunications PLC",69
 "AS52053","REDHEBERG Association declaree",69
 "AS210644","AEZA INTERNATIONAL LTD",68
