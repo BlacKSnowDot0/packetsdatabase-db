@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4369
 "AS45102","Alibaba (US) Technology Co., Ltd.",4148
 "AS396998","Path Network, Inc.",3992
-"AS0","",3766
+"AS0","",3767
 "AS63949","Akamai Technologies, Inc.",3669
 "AS15169","Google LLC",3420
 "AS51396","Pfcloud UG",3242
@@ -27,7 +27,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1940
 "AS214295","SKYNET NETWORK LTD",1631
-"AS32475","Internap Holding LLC",1597
+"AS32475","Internap Holding LLC",1598
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1495
 "AS36352","HostPapa",1477
@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS13335","Cloudflare, Inc.",1410
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1255
-"AS22552","eSited Solutions",1193
+"AS22552","eSited Solutions",1194
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
@@ -328,6 +328,7 @@ ASN,Organization,IP_Count
 "AS6181","Cincinnati Bell Telephone Company LLC",20
 "AS9304","HGC Global Communications Limited",20
 "AS11426","Charter Communications Inc",19
+"AS11878","tzulo, inc.",19
 "AS12874","Fastweb SpA",19
 "AS136142","Enigma Fiber Pvt Ltd",19
 "AS140061","China Telecom",19
@@ -341,7 +342,6 @@ ASN,Organization,IP_Count
 "AS49531","""NetCom-R"" LLC",19
 "AS6167","Verizon Business",19
 "AS6697","Republican Unitary Telecommunication Enterprise Beltelecom",19
-"AS11878","tzulo, inc.",18
 "AS18049","Taiwan Infrastructure Network Technologie",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
 "AS39603","P4 Sp. z o.o.",18
