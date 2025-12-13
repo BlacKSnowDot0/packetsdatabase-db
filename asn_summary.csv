@@ -4,8 +4,8 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22217
 "AS398324","Censys, Inc.",15049
 "AS32934","Facebook, Inc.",12868
-"AS396982","Google LLC",10707
-"AS14061","DigitalOcean, LLC",8475
+"AS396982","Google LLC",10709
+"AS14061","DigitalOcean, LLC",8477
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6021
 "AS4134","Chinanet",5078
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4369
 "AS45102","Alibaba (US) Technology Co., Ltd.",4148
 "AS396998","Path Network, Inc.",3992
-"AS0","",3765
+"AS0","",3766
 "AS63949","Akamai Technologies, Inc.",3669
 "AS15169","Google LLC",3420
 "AS51396","Pfcloud UG",3242
@@ -44,7 +44,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1015
 "AS51852","Private Layer INC",907
-"AS208046","ColocationX Ltd.",864
+"AS208046","ColocationX Ltd.",865
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS215925","VPSVAULT.HOST LTD",844
 "AS56042","China Mobile Communications Corporation",840
@@ -176,7 +176,7 @@ ASN,Organization,IP_Count
 "AS49544","i3D.net B.V",59
 "AS20001","Charter Communications Inc",58
 "AS20278","Nexeon Technologies, Inc.",57
-"AS44592","SkyLink Data Center BV",56
+"AS44592","SkyLink Data Center BV",57
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
@@ -744,6 +744,7 @@ ASN,Organization,IP_Count
 "AS136009","SpeedNet",4
 "AS136121","PT Digital Media Telematika",4
 "AS136280","Costel Networks P Ltd",4
+"AS136861","PT. ARTAMEDIA CITRA TELEMATIKA INDONESIA",4
 "AS137453","Orange Communication",4
 "AS137872","China Mobile Hong Kong Company Limited",4
 "AS140791","BKHOST TECHNOLOGY VIETNAM JOINT STOCK COMPANY",4
@@ -872,7 +873,6 @@ ASN,Organization,IP_Count
 "AS135882","Spark Online",3
 "AS135967","Bach Kim Network solutions Join stock company",3
 "AS136052","PT Cloud Hosting Indonesia",3
-"AS136861","PT. ARTAMEDIA CITRA TELEMATIKA INDONESIA",3
 "AS13720","Daybreak Game Company LLC",3
 "AS137236","TURBOTECH CO., LTD.",3
 "AS137449","SKYNET CHOWMUHANI",3
