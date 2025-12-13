@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87841
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70579
-"AS211298","Driftnet Ltd",22216
-"AS398324","Censys, Inc.",15035
+"AS211298","Driftnet Ltd",22217
+"AS398324","Censys, Inc.",15036
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10707
 "AS14061","DigitalOcean, LLC",8471
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2571
 "AS23470","ReliableSite.Net LLC",2423
 "AS9808","China Mobile",2084
-"AS202425","IP Volume inc",1936
+"AS202425","IP Volume inc",1937
 "AS214295","SKYNET NETWORK LTD",1631
 "AS32475","Internap Holding LLC",1593
 "AS209605","UAB Host Baltic",1545
@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS13335","Cloudflare, Inc.",1406
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1255
-"AS22552","eSited Solutions",1192
+"AS22552","eSited Solutions",1193
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
@@ -167,9 +167,9 @@ ASN,Organization,IP_Count
 "AS17378","TierPoint, LLC",63
 "AS19318","Interserver, Inc",62
 "AS140717","China Unicom",61
+"AS149746","PT Blip Integrator Provider",60
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS4812","China Telecom (Group)",60
-"AS149746","PT Blip Integrator Provider",59
 "AS20115","Charter Communications",59
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",59
 "AS49544","i3D.net B.V",59
@@ -234,12 +234,12 @@ ASN,Organization,IP_Count
 "AS4847","China Networks Inter-Exchange",34
 "AS55990","Huawei Cloud Service data center",34
 "AS204834","Shabakieh Isfahan Co PJSC",33
+"AS269193","Iktelecom Ltda",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9123","TimeWeb Ltd.",33
 "AS9498","Bharti Airtel Limited",33
 "AS12912","T-Mobile Polska S.A.",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
-"AS269193","Iktelecom Ltda",32
 "AS8796","FD-298-8796",32
 "AS1241","RIPE Network Coordination Centre",31
 "AS13213","UK-2 Limited",31
