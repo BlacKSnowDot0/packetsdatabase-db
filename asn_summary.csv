@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87841
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70578
 "AS211298","Driftnet Ltd",22216
-"AS398324","Censys, Inc.",15021
+"AS398324","Censys, Inc.",15023
 "AS32934","Facebook, Inc.",12868
-"AS396982","Google LLC",10704
+"AS396982","Google LLC",10705
 "AS14061","DigitalOcean, LLC",8470
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6018
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4369
 "AS45102","Alibaba (US) Technology Co., Ltd.",4143
 "AS396998","Path Network, Inc.",3992
-"AS0","",3762
+"AS0","",3763
 "AS63949","Akamai Technologies, Inc.",3668
 "AS15169","Google LLC",3420
 "AS51396","Pfcloud UG",3241
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",862
 "AS9465","AGOTOZ PTE. LTD.",845
-"AS215925","VPSVAULT.HOST LTD",842
+"AS215925","VPSVAULT.HOST LTD",843
 "AS56042","China Mobile Communications Corporation",840
 "AS51167","Contabo GmbH",834
 "AS20052","Arbor Networks, Inc.",826
@@ -196,11 +196,11 @@ ASN,Organization,IP_Count
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
 "AS141995","Contabo Asia Private Limited",45
+"AS202796","JSR IT B.V.",44
 "AS210558","1337 Services GmbH",44
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
 "AS152194","CTG Server Limited",43
-"AS202796","JSR IT B.V.",43
 "AS12322","Free SAS",42
 "AS20473","The Constant Company, LLC",42
 "AS214497","Whitelabel Solutions, Ltd.",42
@@ -235,12 +235,12 @@ ASN,Organization,IP_Count
 "AS55990","Huawei Cloud Service data center",34
 "AS204834","Shabakieh Isfahan Co PJSC",33
 "AS45671","Servers Australia Pty. Ltd",33
+"AS9123","TimeWeb Ltd.",33
 "AS9498","Bharti Airtel Limited",33
 "AS12912","T-Mobile Polska S.A.",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
 "AS269193","Iktelecom Ltda",32
 "AS8796","FD-298-8796",32
-"AS9123","TimeWeb Ltd.",32
 "AS1241","RIPE Network Coordination Centre",31
 "AS13213","UK-2 Limited",31
 "AS17557","Pakistan Telecommuication company limited",31
@@ -1906,6 +1906,7 @@ ASN,Organization,IP_Count
 "AS198760","Quattre Internet SL",1
 "AS199173","TechnoLux Ltd.",1
 "AS199415","Association YORKHOST",1
+"AS199524","G-Core Labs S.A.",1
 "AS199578","Technische Universitaet Kaiserslautern",1
 "AS200081","Netversor GmbH",1
 "AS200218","Tvoy Novy Telecom LLP",1
