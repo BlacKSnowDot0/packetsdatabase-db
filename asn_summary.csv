@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3420
 "AS51396","Pfcloud UG",3242
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2877
+"AS8075","Microsoft Corporation",2878
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2774
 "AS142002","Scloud Pte Ltd",2571
@@ -48,7 +48,7 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS215925","VPSVAULT.HOST LTD",844
 "AS56042","China Mobile Communications Corporation",840
-"AS51167","Contabo GmbH",836
+"AS51167","Contabo GmbH",837
 "AS20052","Arbor Networks, Inc.",826
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",737
@@ -83,7 +83,7 @@ ASN,Organization,IP_Count
 "AS214943","Railnet LLC",317
 "AS45899","VNPT Corp",316
 "AS24863","LINKdotNET AS number",307
-"AS213613","BOTSHIELD LTD",301
+"AS213613","BOTSHIELD LTD",302
 "AS208843","Alpha Strike Labs GmbH",300
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
@@ -160,9 +160,9 @@ ASN,Organization,IP_Count
 "AS328867","Corebach Backbone SARL",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
 "AS57588","Hayat for Internet & communication LLC",66
+"AS6128","Cablevision Systems Corp.",66
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
-"AS6128","Cablevision Systems Corp.",65
 "AS5650","Frontier Communications of America, Inc.",64
 "AS17378","TierPoint, LLC",63
 "AS19318","Interserver, Inc",62
@@ -1148,6 +1148,7 @@ ASN,Organization,IP_Count
 "AS15100","Bevcomm",2
 "AS151003","PT. Tri Akses Nusantara",2
 "AS151396","Sajilo Net Pvt Ltd",2
+"AS151885","DATA SECURITY SOLUTIONS LIMITED",2
 "AS152014","PT. Mitra Kita Brilian",2
 "AS152059","CV Brawijaya Giga Network",2
 "AS152363","PT Delapan Broadband Intermedia",2
@@ -1817,7 +1818,6 @@ ASN,Organization,IP_Count
 "AS151577","PT Geka Solusi Utama",1
 "AS151600","PT Inti Data Guna",1
 "AS151844","INetwork Pvt. Ltd.",1
-"AS151885","DATA SECURITY SOLUTIONS LIMITED",1
 "AS152045","PT Petabyte Network Indonesia",1
 "AS152304","Md Mostafizur Rahman",1
 "AS152344","PT Linea Global Teknologi",1
