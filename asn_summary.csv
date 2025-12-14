@@ -3,9 +3,9 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70579
 "AS211298","Driftnet Ltd",22224
 "AS398324","Censys, Inc.",15082
-"AS32934","Facebook, Inc.",13225
+"AS32934","Facebook, Inc.",13344
 "AS396982","Google LLC",10716
-"AS14061","DigitalOcean, LLC",8490
+"AS14061","DigitalOcean, LLC",8496
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6026
 "AS4134","Chinanet",5082
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4378
 "AS45102","Alibaba (US) Technology Co., Ltd.",4160
 "AS396998","Path Network, Inc.",3992
-"AS0","",3776
+"AS0","",3777
 "AS63949","Akamai Technologies, Inc.",3669
 "AS15169","Google LLC",3569
 "AS51396","Pfcloud UG",3242
@@ -27,7 +27,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1945
 "AS214295","SKYNET NETWORK LTD",1631
-"AS32475","Internap Holding LLC",1603
+"AS32475","Internap Holding LLC",1605
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1495
 "AS36352","HostPapa",1480
@@ -55,7 +55,7 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",722
 "AS10439","CariNet, Inc.",719
 "AS4837","CHINA UNICOM China169 Backbone",608
-"AS12876","ONLINE S.A.S.",600
+"AS12876","ONLINE S.A.S.",601
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS201814","MEVSPACE sp. z o.o.",591
 "AS3462","Chunghwa Telecom Co., Ltd.",585
