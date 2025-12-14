@@ -2,17 +2,17 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87841
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70579
 "AS211298","Driftnet Ltd",22218
-"AS398324","Censys, Inc.",15061
+"AS398324","Censys, Inc.",15063
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10712
 "AS14061","DigitalOcean, LLC",8481
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6021
-"AS4134","Chinanet",5080
+"AS4134","Chinanet",5081
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4458
-"AS16509","Amazon.com, Inc.",4369
-"AS45102","Alibaba (US) Technology Co., Ltd.",4151
+"AS16509","Amazon.com, Inc.",4370
+"AS45102","Alibaba (US) Technology Co., Ltd.",4153
 "AS396998","Path Network, Inc.",3992
 "AS0","",3771
 "AS63949","Akamai Technologies, Inc.",3669
@@ -59,7 +59,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS201814","MEVSPACE sp. z o.o.",590
 "AS3462","Chunghwa Telecom Co., Ltd.",585
-"AS51115","HLL LLC",576
+"AS51115","HLL LLC",577
 "AS9009","M247 Europe SRL",572
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
@@ -132,7 +132,7 @@ ASN,Organization,IP_Count
 "AS63018","Dedicated.com",92
 "AS28209","Under Servicos de Internet Ltda",91
 "AS5617","Orange Polska Spolka Akcyjna",91
-"AS11320","LightEdge Solutions",89
+"AS11320","LightEdge Solutions",90
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS16735","ALGAR TELECOM S/A",86
 "AS271795","SERVITELCONET CIA. LTDA.",85
@@ -195,9 +195,9 @@ ASN,Organization,IP_Count
 "AS10796","Charter Communications Inc",46
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
+"AS210558","1337 Services GmbH",46
 "AS141995","Contabo Asia Private Limited",45
 "AS202796","JSR IT B.V.",45
-"AS210558","1337 Services GmbH",45
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
 "AS152194","CTG Server Limited",43
@@ -403,6 +403,7 @@ ASN,Organization,IP_Count
 "AS27947","Telconet S.A",14
 "AS3352","TELEFONICA DE ESPANA S.A.U.",14
 "AS37457","Telkom SA Ltd.",14
+"AS401152","Ace Data Centers II, L.L.C.",14
 "AS4808","China Unicom Beijing Province Network",14
 "AS48721","Flyservers S.A.",14
 "AS9318","SK Broadband Co Ltd",14
@@ -422,7 +423,6 @@ ASN,Organization,IP_Count
 "AS3243","MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.",13
 "AS37105","RAIN GROUP HOLDINGS (PTY) LTD",13
 "AS38841","kbro CO. Ltd.",13
-"AS401152","Ace Data Centers II, L.L.C.",13
 "AS50304","Blix Solutions AS",13
 "AS53006","ALGAR TELECOM S/A",13
 "AS9770","LG HelloVision Corp.",13
