@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87842
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70579
 "AS211298","Driftnet Ltd",22223
-"AS398324","Censys, Inc.",15075
+"AS398324","Censys, Inc.",15076
 "AS32934","Facebook, Inc.",12879
 "AS396982","Google LLC",10715
 "AS14061","DigitalOcean, LLC",8482
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2881
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2778
+"AS6939","Hurricane Electric LLC",2779
 "AS142002","Scloud Pte Ltd",2571
 "AS23470","ReliableSite.Net LLC",2441
 "AS9808","China Mobile",2084
@@ -63,8 +63,8 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",572
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS53667","FranTech Solutions",539
-"AS9829","Bharat Sanchar Nigam Ltd",533
+"AS53667","FranTech Solutions",540
+"AS9829","Bharat Sanchar Nigam Ltd",534
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
@@ -98,7 +98,7 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS12389","PJSC Rostelecom",220
 "AS14987","Rethem Hosting LLC",215
-"AS29484","Ruhr-Universitaet Bochum",209
+"AS29484","Ruhr-Universitaet Bochum",210
 "AS12555","Data-center IMAQLIQ Ltd.",197
 "AS63199","CDS Global Cloud Co., Ltd",188
 "AS7552","Viettel Group",182
@@ -106,8 +106,8 @@ ASN,Organization,IP_Count
 "AS401116","Nybula LLC",170
 "AS42237","w1n ltd",162
 "AS262551","Farol Telecom",154
+"AS34984","Superonline Iletisim Hizmetleri A.S.",154
 "AS206264","Amarutu Technology Ltd",153
-"AS34984","Superonline Iletisim Hizmetleri A.S.",153
 "AS14956","RouterHosting LLC",141
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
