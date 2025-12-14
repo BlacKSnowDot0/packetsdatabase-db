@@ -4,8 +4,8 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22224
 "AS398324","Censys, Inc.",15082
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10717
-"AS14061","DigitalOcean, LLC",8496
+"AS396982","Google LLC",10718
+"AS14061","DigitalOcean, LLC",8498
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6026
 "AS4134","Chinanet",5082
@@ -16,7 +16,7 @@ ASN,Organization,IP_Count
 "AS396998","Path Network, Inc.",3992
 "AS0","",3777
 "AS63949","Akamai Technologies, Inc.",3669
-"AS15169","Google LLC",3569
+"AS15169","Google LLC",3576
 "AS51396","Pfcloud UG",3242
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2881
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2571
 "AS23470","ReliableSite.Net LLC",2445
 "AS9808","China Mobile",2084
-"AS202425","IP Volume inc",1945
+"AS202425","IP Volume inc",1946
 "AS214295","SKYNET NETWORK LTD",1631
 "AS32475","Internap Holding LLC",1605
 "AS209605","UAB Host Baltic",1545
@@ -42,7 +42,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
-"AS208684","BHA CONSEIL SARL",1016
+"AS208684","BHA CONSEIL SARL",1017
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",869
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -83,7 +83,7 @@ ASN,Organization,IP_Count
 "AS214943","Railnet LLC",317
 "AS45899","VNPT Corp",317
 "AS24863","LINKdotNET AS number",307
-"AS208843","Alpha Strike Labs GmbH",303
+"AS208843","Alpha Strike Labs GmbH",304
 "AS213613","BOTSHIELD LTD",303
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
