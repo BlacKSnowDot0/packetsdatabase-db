@@ -12,11 +12,11 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4458
 "AS16509","Amazon.com, Inc.",4378
-"AS45102","Alibaba (US) Technology Co., Ltd.",4159
+"AS45102","Alibaba (US) Technology Co., Ltd.",4160
 "AS396998","Path Network, Inc.",3992
 "AS0","",3775
 "AS63949","Akamai Technologies, Inc.",3669
-"AS15169","Google LLC",3431
+"AS15169","Google LLC",3470
 "AS51396","Pfcloud UG",3242
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2881
@@ -27,7 +27,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1944
 "AS214295","SKYNET NETWORK LTD",1631
-"AS32475","Internap Holding LLC",1601
+"AS32475","Internap Holding LLC",1602
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1495
 "AS36352","HostPapa",1480
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",737
 "AS14618","Amazon.com, Inc.",722
-"AS10439","CariNet, Inc.",717
+"AS10439","CariNet, Inc.",718
 "AS4837","CHINA UNICOM China169 Backbone",608
 "AS12876","ONLINE S.A.S.",600
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -105,8 +105,8 @@ ASN,Organization,IP_Count
 "AS50219","LNK SYSTEMS MUNTENIA SRL",175
 "AS401116","Nybula LLC",170
 "AS42237","w1n ltd",163
+"AS34984","Superonline Iletisim Hizmetleri A.S.",155
 "AS262551","Farol Telecom",154
-"AS34984","Superonline Iletisim Hizmetleri A.S.",154
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",141
 "AS47105","Vault Dweller OU",141
@@ -531,6 +531,7 @@ ASN,Organization,IP_Count
 "AS5432","Proximus NV",8
 "AS5483","Magyar Telekom plc.",8
 "AS56041","China Mobile Communications Corporation",8
+"AS64289","Macarne LLC",8
 "AS6698","Virtual Systems LLC",8
 "AS7418","TELEFÓNICA CHILE S.A.",8
 "AS8386","VODAFONE NET ILETISIM HIZMETLERI ANONIM SIRKETI",8
@@ -579,7 +580,6 @@ ASN,Organization,IP_Count
 "AS58821","PT Lintas Jaringan Nusantara",7
 "AS63023","GTHost",7
 "AS63838","Hengyang",7
-"AS64289","Macarne LLC",7
 "AS8764","Telia Lietuva, AB",7
 "AS9658","Eastern Telecommunications Philippines, Inc.",7
 "AS9981","Saero Network Service LTD",7
