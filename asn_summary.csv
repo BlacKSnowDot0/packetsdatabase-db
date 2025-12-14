@@ -16,7 +16,7 @@ ASN,Organization,IP_Count
 "AS396998","Path Network, Inc.",3992
 "AS0","",3776
 "AS63949","Akamai Technologies, Inc.",3669
-"AS15169","Google LLC",3567
+"AS15169","Google LLC",3568
 "AS51396","Pfcloud UG",3242
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2881
@@ -47,7 +47,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",869
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS215925","VPSVAULT.HOST LTD",844
-"AS51167","Contabo GmbH",840
+"AS51167","Contabo GmbH",841
 "AS56042","China Mobile Communications Corporation",840
 "AS20052","Arbor Networks, Inc.",827
 "AS8452","TE-AS",805
@@ -569,6 +569,7 @@ ASN,Organization,IP_Count
 "AS3329","VODAFONE-PANAFON HELLENIC TELECOMMUNICATIONS COMPANY SA",7
 "AS36924","GVA Cote d'Ivoire SAS",7
 "AS42610","PJSC Rostelecom",7
+"AS44486","Oliver Horscht is trading as ""SYNLINQ""",7
 "AS4771","Spark New Zealand Trading Limited",7
 "AS4811","China Telecom (Group)",7
 "AS48678","PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi",7
@@ -588,6 +589,7 @@ ASN,Organization,IP_Count
 "AS132116","Ani Network Pvt Ltd",6
 "AS13430","THE WISP.NET CORP.",6
 "AS135523","Multinet Broadband",6
+"AS136188","NINGBO, ZHEJIANG Province, P.R.China.",6
 "AS13999","Mega Cable, S.A. de C.V.",6
 "AS141167","AgotoZ HK Limited",6
 "AS149078","VPSMMO TECHNOLOGY COMPANY LIMITED",6
@@ -635,7 +637,6 @@ ASN,Organization,IP_Count
 "AS39521","TNGNET B.V.",6
 "AS397270","NetInformatik Inc.",6
 "AS399765","FasNET Services LLC",6
-"AS44486","Oliver Horscht is trading as ""SYNLINQ""",6
 "AS48314","Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG",6
 "AS48347","JSC Mediasoft ekspert",6
 "AS48642","Joint stock company ""For""",6
@@ -660,7 +661,6 @@ ASN,Organization,IP_Count
 "AS135089","China Telecom",5
 "AS135357","HONG KONG KOWLOON TELECOMMUNICATIONS CO.,LIMITED",5
 "AS135411","Red Grapes Pte Ltd",5
-"AS136188","NINGBO, ZHEJIANG Province, P.R.China.",5
 "AS136873","MEGADATA-ISP",5
 "AS137697","CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou , Jiangsu Province, P.",5
 "AS138109","PT. Rasi Bintang Perkasa",5
