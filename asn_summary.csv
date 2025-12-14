@@ -5,14 +5,14 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",15061
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10712
-"AS14061","DigitalOcean, LLC",8479
+"AS14061","DigitalOcean, LLC",8480
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6021
-"AS4134","Chinanet",5079
+"AS4134","Chinanet",5080
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4458
 "AS16509","Amazon.com, Inc.",4369
-"AS45102","Alibaba (US) Technology Co., Ltd.",4150
+"AS45102","Alibaba (US) Technology Co., Ltd.",4151
 "AS396998","Path Network, Inc.",3992
 "AS0","",3770
 "AS63949","Akamai Technologies, Inc.",3669
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2879
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2775
+"AS6939","Hurricane Electric LLC",2776
 "AS142002","Scloud Pte Ltd",2571
 "AS23470","ReliableSite.Net LLC",2428
 "AS9808","China Mobile",2084
@@ -34,9 +34,9 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1438
 "AS48925","VibeGAMES B.V.",1426
-"AS13335","Cloudflare, Inc.",1410
+"AS13335","Cloudflare, Inc.",1411
 "AS215269","LAZYCLOUD LTD",1312
-"AS174","Cogent Communications",1255
+"AS174","Cogent Communications",1256
 "AS22552","eSited Solutions",1194
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
@@ -44,7 +44,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1015
 "AS51852","Private Layer INC",907
-"AS208046","ColocationX Ltd.",865
+"AS208046","ColocationX Ltd.",866
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS215925","VPSVAULT.HOST LTD",844
 "AS56042","China Mobile Communications Corporation",840
@@ -55,11 +55,11 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",721
 "AS10439","CariNet, Inc.",717
 "AS4837","CHINA UNICOM China169 Backbone",608
-"AS12876","ONLINE S.A.S.",598
+"AS12876","ONLINE S.A.S.",599
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS201814","MEVSPACE sp. z o.o.",590
 "AS3462","Chunghwa Telecom Co., Ltd.",585
-"AS51115","HLL LLC",575
+"AS51115","HLL LLC",576
 "AS9009","M247 Europe SRL",572
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
@@ -120,7 +120,7 @@ ASN,Organization,IP_Count
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",115
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS8560","IONOS SE",113
-"AS4766","Korea Telecom",111
+"AS4766","Korea Telecom",112
 "AS208287","DC Host INC",110
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",109
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
