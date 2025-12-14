@@ -3,8 +3,8 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70579
 "AS211298","Driftnet Ltd",22224
 "AS398324","Censys, Inc.",15082
-"AS32934","Facebook, Inc.",13344
-"AS396982","Google LLC",10716
+"AS32934","Facebook, Inc.",13386
+"AS396982","Google LLC",10717
 "AS14061","DigitalOcean, LLC",8496
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6026
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1438
 "AS48925","VibeGAMES B.V.",1426
-"AS13335","Cloudflare, Inc.",1422
+"AS13335","Cloudflare, Inc.",1423
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1257
 "AS22552","eSited Solutions",1195
@@ -96,7 +96,7 @@ ASN,Organization,IP_Count
 "AS701","Verizon Business",229
 "AS29066","velia.net Internetdienste GmbH",225
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
-"AS12389","PJSC Rostelecom",220
+"AS12389","PJSC Rostelecom",221
 "AS14987","Rethem Hosting LLC",215
 "AS29484","Ruhr-Universitaet Bochum",210
 "AS12555","Data-center IMAQLIQ Ltd.",197
