@@ -1,13 +1,13 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87841
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70579
-"AS211298","Driftnet Ltd",22218
-"AS398324","Censys, Inc.",15063
+"AS211298","Driftnet Ltd",22220
+"AS398324","Censys, Inc.",15065
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10712
 "AS14061","DigitalOcean, LLC",8481
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6021
+"AS16276","OVH SAS",6022
 "AS4134","Chinanet",5081
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4458
@@ -23,7 +23,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2776
 "AS142002","Scloud Pte Ltd",2571
-"AS23470","ReliableSite.Net LLC",2428
+"AS23470","ReliableSite.Net LLC",2441
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1941
 "AS214295","SKYNET NETWORK LTD",1631
@@ -84,7 +84,7 @@ ASN,Organization,IP_Count
 "AS45899","VNPT Corp",316
 "AS24863","LINKdotNET AS number",307
 "AS213613","BOTSHIELD LTD",302
-"AS208843","Alpha Strike Labs GmbH",300
+"AS208843","Alpha Strike Labs GmbH",301
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",295
@@ -183,9 +183,9 @@ ASN,Organization,IP_Count
 "AS12816","Leibniz-Rechenzentrum",54
 "AS213877","u1host ltd",54
 "AS30058","FDCservers.net",54
+"AS30633","Leaseweb USA, Inc.",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS46475","Limestone Networks, Inc.",54
-"AS30633","Leaseweb USA, Inc.",53
 "AS200590","NLS Kazakhstan LLC",52
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",48
