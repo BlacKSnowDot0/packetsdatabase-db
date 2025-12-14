@@ -16,14 +16,14 @@ ASN,Organization,IP_Count
 "AS396998","Path Network, Inc.",3992
 "AS0","",3775
 "AS63949","Akamai Technologies, Inc.",3669
-"AS15169","Google LLC",3426
+"AS15169","Google LLC",3428
 "AS51396","Pfcloud UG",3242
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2881
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2780
 "AS142002","Scloud Pte Ltd",2571
-"AS23470","ReliableSite.Net LLC",2443
+"AS23470","ReliableSite.Net LLC",2444
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1943
 "AS214295","SKYNET NETWORK LTD",1631
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1438
 "AS48925","VibeGAMES B.V.",1426
-"AS13335","Cloudflare, Inc.",1414
+"AS13335","Cloudflare, Inc.",1416
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1257
 "AS22552","eSited Solutions",1194
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",844
 "AS51167","Contabo GmbH",840
 "AS56042","China Mobile Communications Corporation",840
-"AS20052","Arbor Networks, Inc.",826
+"AS20052","Arbor Networks, Inc.",827
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",737
 "AS14618","Amazon.com, Inc.",721
@@ -83,7 +83,7 @@ ASN,Organization,IP_Count
 "AS214943","Railnet LLC",317
 "AS45899","VNPT Corp",316
 "AS24863","LINKdotNET AS number",307
-"AS213613","BOTSHIELD LTD",302
+"AS213613","BOTSHIELD LTD",303
 "AS208843","Alpha Strike Labs GmbH",301
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
@@ -175,8 +175,8 @@ ASN,Organization,IP_Count
 "AS20115","Charter Communications",59
 "AS49544","i3D.net B.V",59
 "AS20001","Charter Communications Inc",58
+"AS44592","SkyLink Data Center BV",58
 "AS20278","Nexeon Technologies, Inc.",57
-"AS44592","SkyLink Data Center BV",57
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
