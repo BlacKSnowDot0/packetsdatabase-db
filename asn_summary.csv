@@ -3,7 +3,7 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70579
 "AS211298","Driftnet Ltd",22224
 "AS398324","Censys, Inc.",15081
-"AS32934","Facebook, Inc.",12966
+"AS32934","Facebook, Inc.",12988
 "AS396982","Google LLC",10715
 "AS14061","DigitalOcean, LLC",8488
 "AS26210","AXS Bolivia S. A.",7972
@@ -16,7 +16,7 @@ ASN,Organization,IP_Count
 "AS396998","Path Network, Inc.",3992
 "AS0","",3775
 "AS63949","Akamai Technologies, Inc.",3669
-"AS15169","Google LLC",3473
+"AS15169","Google LLC",3518
 "AS51396","Pfcloud UG",3242
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2881
@@ -34,7 +34,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1438
 "AS48925","VibeGAMES B.V.",1426
-"AS13335","Cloudflare, Inc.",1418
+"AS13335","Cloudflare, Inc.",1419
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1257
 "AS22552","eSited Solutions",1195
@@ -57,7 +57,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",608
 "AS12876","ONLINE S.A.S.",600
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS201814","MEVSPACE sp. z o.o.",590
+"AS201814","MEVSPACE sp. z o.o.",591
 "AS3462","Chunghwa Telecom Co., Ltd.",585
 "AS51115","HLL LLC",578
 "AS9009","M247 Europe SRL",572
@@ -114,7 +114,7 @@ ASN,Organization,IP_Count
 "AS13238","YANDEX LLC",131
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
-"AS215240","Silent Connection Ltd.",126
+"AS215240","Silent Connection Ltd.",127
 "AS151185","China Telecom",122
 "AS36007","Kamatera, Inc.",122
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",115
@@ -129,9 +129,9 @@ ASN,Organization,IP_Count
 "AS199785","Cloud Hosting Solutions, Limited.",102
 "AS136435","ELITE COMMUNICATION",99
 "AS205352","KABELNET LTD",93
+"AS5617","Orange Polska Spolka Akcyjna",92
 "AS63018","Dedicated.com",92
 "AS28209","Under Servicos de Internet Ltda",91
-"AS5617","Orange Polska Spolka Akcyjna",91
 "AS11320","LightEdge Solutions",90
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS16735","ALGAR TELECOM S/A",86
