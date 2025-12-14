@@ -1,20 +1,20 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87841
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70579
-"AS211298","Driftnet Ltd",22222
-"AS398324","Censys, Inc.",15073
+"AS211298","Driftnet Ltd",22223
+"AS398324","Censys, Inc.",15075
 "AS32934","Facebook, Inc.",12868
 "AS396982","Google LLC",10714
 "AS14061","DigitalOcean, LLC",8482
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6022
-"AS4134","Chinanet",5081
+"AS4134","Chinanet",5082
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4458
 "AS16509","Amazon.com, Inc.",4370
 "AS45102","Alibaba (US) Technology Co., Ltd.",4156
 "AS396998","Path Network, Inc.",3992
-"AS0","",3772
+"AS0","",3774
 "AS63949","Akamai Technologies, Inc.",3669
 "AS15169","Google LLC",3420
 "AS51396","Pfcloud UG",3242
@@ -536,6 +536,7 @@ ASN,Organization,IP_Count
 "AS8386","VODAFONE NET ILETISIM HIZMETLERI ANONIM SIRKETI",8
 "AS8551","Bezeq International Ltd.",8
 "AS9541","Cyber Internet Services (Private) Limited",8
+"AS11888","Television Internacional, S.A. de C.V.",7
 "AS1257","Tele2 Sverige AB",7
 "AS133661","Netplus Broadband Services Private Limited",7
 "AS135478","PT. Cyberindo Aditama",7
@@ -583,7 +584,6 @@ ASN,Organization,IP_Count
 "AS9658","Eastern Telecommunications Philippines, Inc.",7
 "AS9981","Saero Network Service LTD",7
 "AS11562","Net Uno, C.A.",6
-"AS11888","Television Internacional, S.A. de C.V.",6
 "AS12975","Palestine Telecommunications Company (PALTEL)",6
 "AS132116","Ani Network Pvt Ltd",6
 "AS13430","THE WISP.NET CORP.",6
