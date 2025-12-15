@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87845
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22227
-"AS398324","Censys, Inc.",15098
+"AS398324","Censys, Inc.",15099
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10720
 "AS14061","DigitalOcean, LLC",8499
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2571
 "AS23470","ReliableSite.Net LLC",2446
 "AS9808","China Mobile",2084
-"AS202425","IP Volume inc",1948
+"AS202425","IP Volume inc",1949
 "AS214295","SKYNET NETWORK LTD",1631
 "AS32475","Internap Holding LLC",1607
 "AS209605","UAB Host Baltic",1545
@@ -123,8 +123,8 @@ ASN,Organization,IP_Count
 "AS4766","Korea Telecom",112
 "AS208287","DC Host INC",110
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",109
+"AS40021","Nubes, LLC",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
-"AS40021","Nubes, LLC",106
 "AS47331","TTNet A.S.",106
 "AS199785","Cloud Hosting Solutions, Limited.",102
 "AS136435","ELITE COMMUNICATION",100
@@ -740,6 +740,7 @@ ASN,Organization,IP_Count
 "AS8648","dogado GmbH",5
 "AS9674","Far EastTone Telecommunication Co., Ltd.",5
 "AS12430","VODAFONE ESPANA S.A.U.",4
+"AS12735","TurkNet Iletisim Hizmetleri A.S.",4
 "AS13110","INEA sp. z o.o.",4
 "AS131607","Digidom CableTV Co., LTD.",4
 "AS136009","SpeedNet",4
@@ -861,7 +862,6 @@ ASN,Organization,IP_Count
 "AS11796","Airstream Communications, LLC",3
 "AS11845","Vox Telecom Ltd",3
 "AS12252","America Movil Peru S.A.C.",3
-"AS12735","TurkNet Iletisim Hizmetleri A.S.",3
 "AS12997","OJSC Kyrgyztelecom",3
 "AS131111","PT Mora Telematika Indonesia",3
 "AS131429","MOBIFONE Corporation",3
