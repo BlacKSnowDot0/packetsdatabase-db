@@ -5,14 +5,14 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",15103
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10720
-"AS14061","DigitalOcean, LLC",8501
+"AS14061","DigitalOcean, LLC",8502
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6031
+"AS16276","OVH SAS",6032
 "AS4134","Chinanet",5082
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4458
 "AS16509","Amazon.com, Inc.",4378
-"AS45102","Alibaba (US) Technology Co., Ltd.",4161
+"AS45102","Alibaba (US) Technology Co., Ltd.",4162
 "AS396998","Path Network, Inc.",3992
 "AS0","",3779
 "AS63949","Akamai Technologies, Inc.",3671
@@ -27,7 +27,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1949
 "AS214295","SKYNET NETWORK LTD",1631
-"AS32475","Internap Holding LLC",1607
+"AS32475","Internap Holding LLC",1608
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1495
 "AS36352","HostPapa",1480
@@ -89,7 +89,7 @@ ASN,Organization,IP_Count
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",295
 "AS18403","FPT Telecom Company",264
-"AS141718","haoxiangyun",261
+"AS141718","haoxiangyun",262
 "AS48090","TECHOFF SRV LIMITED",261
 "AS60223","Netiface Limited",250
 "AS209272","Alviva Holding Limited",230
@@ -233,10 +233,10 @@ ASN,Organization,IP_Count
 "AS34665","Petersburg Internet Network ltd.",34
 "AS4847","China Networks Inter-Exchange",34
 "AS55990","Huawei Cloud Service data center",34
+"AS9123","TimeWeb Ltd.",34
 "AS204834","Shabakieh Isfahan Co PJSC",33
 "AS269193","Iktelecom Ltda",33
 "AS45671","Servers Australia Pty. Ltd",33
-"AS9123","TimeWeb Ltd.",33
 "AS9498","Bharti Airtel Limited",33
 "AS12912","T-Mobile Polska S.A.",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
@@ -1922,6 +1922,7 @@ ASN,Organization,IP_Count
 "AS201624","ARANEA LLC",1
 "AS201749","SUPER CELL NETWORK FOR INTERNET SERVICES LTD",1
 "AS201776","Miranda-Media Ltd",1
+"AS201819","Uslugi Internetowe ""MAJESTIC"" MICHALINA SIWEK-MIEKUS, Sklep Odziezowy ""Anna"", S",1
 "AS20205","Amplex Electric, Inc.",1
 "AS202279","GYN DNR KOMTEL",1
 "AS202513","Gestioniza Infraestructuras S.L.",1
