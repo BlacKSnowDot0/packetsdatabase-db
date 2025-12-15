@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87845
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22233
-"AS398324","Censys, Inc.",15121
+"AS398324","Censys, Inc.",15124
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10720
 "AS14061","DigitalOcean, LLC",8508
@@ -27,7 +27,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1952
 "AS214295","SKYNET NETWORK LTD",1631
-"AS32475","Internap Holding LLC",1610
+"AS32475","Internap Holding LLC",1611
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1495
 "AS36352","HostPapa",1480
@@ -55,7 +55,7 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",723
 "AS14618","Amazon.com, Inc.",722
 "AS4837","CHINA UNICOM China169 Backbone",609
-"AS12876","ONLINE S.A.S.",602
+"AS12876","ONLINE S.A.S.",603
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS201814","MEVSPACE sp. z o.o.",591
 "AS3462","Chunghwa Telecom Co., Ltd.",585
@@ -129,9 +129,9 @@ ASN,Organization,IP_Count
 "AS199785","Cloud Hosting Solutions, Limited.",102
 "AS136435","ELITE COMMUNICATION",100
 "AS205352","KABELNET LTD",93
+"AS11320","LightEdge Solutions",92
 "AS5617","Orange Polska Spolka Akcyjna",92
 "AS63018","Dedicated.com",92
-"AS11320","LightEdge Solutions",91
 "AS28209","Under Servicos de Internet Ltda",91
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS16735","ALGAR TELECOM S/A",87
