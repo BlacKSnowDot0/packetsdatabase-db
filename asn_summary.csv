@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87845
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22229
-"AS398324","Censys, Inc.",15115
+"AS398324","Censys, Inc.",15116
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10720
 "AS14061","DigitalOcean, LLC",8506
@@ -10,7 +10,7 @@ ASN,Organization,IP_Count
 "AS16276","OVH SAS",6034
 "AS4134","Chinanet",5082
 "AS6568","Entel S.A. - EntelNet",4537
-"AS58466","CHINANET Guangdong province network",4458
+"AS58466","CHINANET Guangdong province network",4459
 "AS16509","Amazon.com, Inc.",4378
 "AS45102","Alibaba (US) Technology Co., Ltd.",4162
 "AS396998","Path Network, Inc.",3992
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS13335","Cloudflare, Inc.",1427
 "AS48925","VibeGAMES B.V.",1426
 "AS215269","LAZYCLOUD LTD",1312
-"AS174","Cogent Communications",1259
+"AS174","Cogent Communications",1260
 "AS22552","eSited Solutions",1195
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS51167","Contabo GmbH",845
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
-"AS20052","Arbor Networks, Inc.",830
+"AS20052","Arbor Networks, Inc.",831
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",737
 "AS10439","CariNet, Inc.",722
@@ -63,7 +63,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",573
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS53667","FranTech Solutions",541
+"AS53667","FranTech Solutions",542
 "AS9829","Bharat Sanchar Nigam Ltd",535
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
@@ -89,7 +89,7 @@ ASN,Organization,IP_Count
 "AS210848","Telkom Internet LTD",296
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",295
 "AS18403","FPT Telecom Company",264
-"AS141718","haoxiangyun",262
+"AS141718","haoxiangyun",263
 "AS48090","TECHOFF SRV LIMITED",261
 "AS60223","Netiface Limited",250
 "AS209272","Alviva Holding Limited",230
@@ -120,7 +120,7 @@ ASN,Organization,IP_Count
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",115
 "AS8560","IONOS SE",114
 "AS211298","Constantine Cybersecurity Ltd.",113
-"AS4766","Korea Telecom",112
+"AS4766","Korea Telecom",113
 "AS208287","DC Host INC",110
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",109
 "AS40021","Nubes, LLC",107
@@ -457,6 +457,7 @@ ASN,Organization,IP_Count
 "AS44901","Belcloud LTD",11
 "AS45820","TTSL-ISP DIVISION",11
 "AS48874","HOSTMAZE INC SRL-D",11
+"AS56694","LLC Smart Ape",11
 "AS58563","CHINANET Hubei province network",11
 "AS149359","PT Persada Data Multimedia",10
 "AS153443","VPSRE.NET LLC",10
@@ -471,7 +472,6 @@ ASN,Organization,IP_Count
 "AS47524","Turksat Uydu Haberlesme ve Kablo TV Isletme A.S.",10
 "AS49434","FBW NETWORKS SAS",10
 "AS52468","UFINET PANAMA S.A.",10
-"AS56694","LLC Smart Ape",10
 "AS57269","DIGI SPAIN TELECOM S.L.U.",10
 "AS59134","PT. Datacomm Diangraha",10
 "AS9930","TT DOTCOM SDN BHD",10
