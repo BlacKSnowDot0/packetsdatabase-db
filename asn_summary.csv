@@ -2,19 +2,19 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87845
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22233
-"AS398324","Censys, Inc.",15127
+"AS398324","Censys, Inc.",15128
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10721
+"AS396982","Google LLC",10722
 "AS14061","DigitalOcean, LLC",8511
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6034
-"AS4134","Chinanet",5084
+"AS4134","Chinanet",5085
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4459
 "AS16509","Amazon.com, Inc.",4378
 "AS45102","Alibaba (US) Technology Co., Ltd.",4163
 "AS396998","Path Network, Inc.",3992
-"AS0","",3782
+"AS0","",3783
 "AS63949","Akamai Technologies, Inc.",3671
 "AS15169","Google LLC",3576
 "AS51396","Pfcloud UG",3242
@@ -25,9 +25,9 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2572
 "AS23470","ReliableSite.Net LLC",2474
 "AS9808","China Mobile",2084
-"AS202425","IP Volume inc",1952
+"AS202425","IP Volume inc",1953
 "AS214295","SKYNET NETWORK LTD",1631
-"AS32475","Internap Holding LLC",1611
+"AS32475","Internap Holding LLC",1612
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1495
 "AS36352","HostPapa",1480
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",869
 "AS215925","VPSVAULT.HOST LTD",847
-"AS51167","Contabo GmbH",846
+"AS51167","Contabo GmbH",847
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS20052","Arbor Networks, Inc.",833
@@ -112,7 +112,7 @@ ASN,Organization,IP_Count
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
 "AS13238","YANDEX LLC",131
-"AS215240","Silent Connection Ltd.",129
+"AS215240","Silent Connection Ltd.",130
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
 "AS151185","China Telecom",122
@@ -252,13 +252,13 @@ ASN,Organization,IP_Count
 "AS214417","Andrii Hrosh",30
 "AS28546","Servnet Mexico, S.A. de C.V.",30
 "AS55933","Cloudie Limited",30
+"AS3269","Telecom Italia S.p.A.",29
 "AS6134","XNNET LLC",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS141679","China Telecom",28
 "AS24940","Hetzner Online GmbH",28
 "AS30860","Virtual Systems LLC",28
-"AS3269","Telecom Italia S.p.A.",28
 "AS329490","Promethean Consulting Limited",28
 "AS3786","LG DACOM Corporation",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
