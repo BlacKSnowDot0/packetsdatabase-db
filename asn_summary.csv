@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",15117
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10720
-"AS14061","DigitalOcean, LLC",8507
+"AS14061","DigitalOcean, LLC",8508
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6034
 "AS4134","Chinanet",5082
@@ -22,7 +22,7 @@ ASN,Organization,IP_Count
 "AS8075","Microsoft Corporation",2885
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2786
-"AS142002","Scloud Pte Ltd",2571
+"AS142002","Scloud Pte Ltd",2572
 "AS23470","ReliableSite.Net LLC",2452
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1951
@@ -112,8 +112,8 @@ ASN,Organization,IP_Count
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
 "AS13238","YANDEX LLC",131
+"AS215240","Silent Connection Ltd.",129
 "AS137409","GSL Networks Pty LTD",128
-"AS215240","Silent Connection Ltd.",128
 "AS19905","Neustar Security Services",127
 "AS151185","China Telecom",122
 "AS36007","Kamatera, Inc.",122
@@ -224,10 +224,10 @@ ASN,Organization,IP_Count
 "AS149705","PT Wijaya Trimitra Indonesia",36
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",36
 "AS42624","Global-Data System IT Corporation",36
+"AS4760","PCCW IMS Limited",36
 "AS1103","SURF B.V.",35
 "AS210509","Optimum Line for Internet Services Ltd.",35
 "AS213790","Limited Network LTD",35
-"AS4760","PCCW IMS Limited",35
 "AS146817","Hubei Feixun Network Co., Ltd",34
 "AS21127","Joint Stock Company TransTeleCom",34
 "AS34665","Petersburg Internet Network ltd.",34
