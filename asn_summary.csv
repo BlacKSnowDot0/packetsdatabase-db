@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87845
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22229
-"AS398324","Censys, Inc.",15106
+"AS398324","Censys, Inc.",15107
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10720
-"AS14061","DigitalOcean, LLC",8502
+"AS14061","DigitalOcean, LLC",8503
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6033
 "AS4134","Chinanet",5082
@@ -52,8 +52,8 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",828
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",737
+"AS10439","CariNet, Inc.",722
 "AS14618","Amazon.com, Inc.",722
-"AS10439","CariNet, Inc.",721
 "AS4837","CHINA UNICOM China169 Backbone",608
 "AS12876","ONLINE S.A.S.",602
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -74,7 +74,7 @@ ASN,Organization,IP_Count
 "AS7018","AT&T Enterprises, LLC",397
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",395
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS47890","UNMANAGED LTD",387
+"AS47890","UNMANAGED LTD",389
 "AS21859","Zenlayer Inc",376
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS7922","Comcast Cable Communications, LLC",352
@@ -450,6 +450,7 @@ ASN,Organization,IP_Count
 "AS206804","EstNOC OY",11
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
 "AS24547","China Mobile",11
+"AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",11
 "AS32613","Leaseweb Canada Inc.",11
 "AS37611","Afrihost (Pty) Ltd",11
 "AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",11
@@ -463,7 +464,6 @@ ASN,Organization,IP_Count
 "AS25019","Saudi Telecom Company JSC",10
 "AS2516","KDDI CORPORATION",10
 "AS264628","CORPORACION FIBEX TELECOM, C.A.",10
-"AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",10
 "AS328471","HERO TELECOMS (PTY) LTD",10
 "AS36903","Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",10
 "AS37705","TOPNET",10
