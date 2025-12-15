@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87845
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
-"AS211298","Driftnet Ltd",22226
-"AS398324","Censys, Inc.",15093
+"AS211298","Driftnet Ltd",22227
+"AS398324","Censys, Inc.",15096
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10720
 "AS14061","DigitalOcean, LLC",8499
@@ -23,7 +23,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2781
 "AS142002","Scloud Pte Ltd",2571
-"AS23470","ReliableSite.Net LLC",2445
+"AS23470","ReliableSite.Net LLC",2446
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1947
 "AS214295","SKYNET NETWORK LTD",1631
@@ -478,6 +478,7 @@ ASN,Organization,IP_Count
 "AS12353","Vodafone Portugal - Communicacoes Pessoais S.A.",9
 "AS131596","TBC",9
 "AS133481","ADVANCED WIRELESS NETWORK COMPANY LIMITED",9
+"AS135905","VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",9
 "AS135918","VIET DIGITAL TECHNOLOGY LIABILITY COMPANY",9
 "AS138089","PT.Global Media Data Prima",9
 "AS139994","PT XL Axiata Tbk",9
@@ -500,7 +501,6 @@ ASN,Organization,IP_Count
 "AS11172","Alestra, S. de R.L. de C.V.",8
 "AS13287","FALBOX S.L.",8
 "AS133982","Excitel Broadband Private Limited",8
-"AS135905","VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",8
 "AS138754","Kerala Vision Broad Band Private Limited",8
 "AS141295","Madhya Pradesh Agency For Promotion   Of Information Technology",8
 "AS150179","KAAL TECH CO., LIMITED",8
