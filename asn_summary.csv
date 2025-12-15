@@ -7,7 +7,7 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",10720
 "AS14061","DigitalOcean, LLC",8499
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6029
+"AS16276","OVH SAS",6030
 "AS4134","Chinanet",5082
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4458
@@ -45,7 +45,7 @@ ASN,Organization,IP_Count
 "AS208684","BHA CONSEIL SARL",1017
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",869
-"AS215925","VPSVAULT.HOST LTD",846
+"AS215925","VPSVAULT.HOST LTD",847
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS51167","Contabo GmbH",841
 "AS56042","China Mobile Communications Corporation",840
@@ -64,7 +64,7 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS53667","FranTech Solutions",540
-"AS9829","Bharat Sanchar Nigam Ltd",534
+"AS9829","Bharat Sanchar Nigam Ltd",535
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
@@ -578,6 +578,7 @@ ASN,Organization,IP_Count
 "AS50923","Metroset Ltd.",7
 "AS51604","JSC ""ER-Telecom Holding""",7
 "AS55423","JasTel Network",7
+"AS56971","CGI GLOBAL LIMITED",7
 "AS58821","PT Lintas Jaringan Nusantara",7
 "AS63023","GTHost",7
 "AS63838","Hengyang",7
@@ -643,7 +644,6 @@ ASN,Organization,IP_Count
 "AS55699","PT. Cemerlang Multimedia",6
 "AS5603","Telekom Slovenije, d.d.",6
 "AS56047","China Mobile Communications Corporation",6
-"AS56971","CGI GLOBAL LIMITED",6
 "AS58495","PT Parsaoran Global Datatrans",6
 "AS58519","Cloud Computing Corporation",6
 "AS6830","Liberty Global B.V.",6
