@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87845
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22229
-"AS398324","Censys, Inc.",15107
+"AS398324","Censys, Inc.",15111
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10720
 "AS14061","DigitalOcean, LLC",8503
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4378
 "AS45102","Alibaba (US) Technology Co., Ltd.",4162
 "AS396998","Path Network, Inc.",3992
-"AS0","",3779
+"AS0","",3780
 "AS63949","Akamai Technologies, Inc.",3671
 "AS15169","Google LLC",3576
 "AS51396","Pfcloud UG",3242
@@ -23,7 +23,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS6939","Hurricane Electric LLC",2784
 "AS142002","Scloud Pte Ltd",2571
-"AS23470","ReliableSite.Net LLC",2448
+"AS23470","ReliableSite.Net LLC",2449
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1950
 "AS214295","SKYNET NETWORK LTD",1631
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS13335","Cloudflare, Inc.",1427
 "AS48925","VibeGAMES B.V.",1426
 "AS215269","LAZYCLOUD LTD",1312
-"AS174","Cogent Communications",1257
+"AS174","Cogent Communications",1259
 "AS22552","eSited Solutions",1195
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
@@ -151,10 +151,10 @@ ASN,Organization,IP_Count
 "AS150263","PT Alnet Telekomunikasi Indonesia",73
 "AS200514","KnownSRV Ltd.",71
 "AS2856","British Telecommunications PLC",69
+"AS30083","velia.net",69
 "AS52053","REDHEBERG Association declaree",69
 "AS55720","Gigabit Hosting Sdn Bhd",69
 "AS210644","AEZA INTERNATIONAL LTD",68
-"AS30083","velia.net",68
 "AS834","IPXO LLC",68
 "AS215590","DpkgSoft International Limited",67
 "AS328867","Corebach Backbone SARL",67
@@ -271,6 +271,7 @@ ASN,Organization,IP_Count
 "AS58212","dataforest GmbH",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",27
+"AS197540","netcup GmbH",26
 "AS2200","Renater",26
 "AS23693","PT. Telekomunikasi Selular",26
 "AS271597","NEW LINK CONNECT",26
@@ -278,7 +279,6 @@ ASN,Organization,IP_Count
 "AS41745","Baykov Ilya Sergeevich",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS18881","TELEFÔNICA BRASIL S.A",25
-"AS197540","netcup GmbH",25
 "AS209","CenturyLink Communications, LLC",25
 "AS24560","Bharti Airtel Limited",25
 "AS2914","NTT America, Inc.",25
