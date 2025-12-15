@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",15101
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10720
-"AS14061","DigitalOcean, LLC",8500
+"AS14061","DigitalOcean, LLC",8501
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6031
 "AS4134","Chinanet",5082
@@ -63,7 +63,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",573
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS53667","FranTech Solutions",540
+"AS53667","FranTech Solutions",541
 "AS9829","Bharat Sanchar Nigam Ltd",535
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
@@ -201,9 +201,9 @@ ASN,Organization,IP_Count
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
 "AS152194","CTG Server Limited",43
+"AS20473","The Constant Company, LLC",43
 "AS21928","T-Mobile USA, Inc.",43
 "AS12322","Free SAS",42
-"AS20473","The Constant Company, LLC",42
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS262378","Compuservice Empreendimentos Ltda",42
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",42
