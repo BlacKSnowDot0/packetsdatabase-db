@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87845
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22233
-"AS398324","Censys, Inc.",15129
+"AS398324","Censys, Inc.",15130
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10723
+"AS396982","Google LLC",10724
 "AS14061","DigitalOcean, LLC",8512
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6035
@@ -317,6 +317,7 @@ ASN,Organization,IP_Count
 "AS50887","DC FIBER HOME SRL",21
 "AS812","Rogers Communications Canada Inc.",21
 "AS9299","Philippine Long Distance Telephone Co.",21
+"AS136142","Enigma Fiber Pvt Ltd",20
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS17638","ASN for TIANJIN Provincial Net of CT",20
@@ -330,7 +331,6 @@ ASN,Organization,IP_Count
 "AS11426","Charter Communications Inc",19
 "AS11878","tzulo, inc.",19
 "AS12874","Fastweb SpA",19
-"AS136142","Enigma Fiber Pvt Ltd",19
 "AS140061","China Telecom",19
 "AS14593","Space Exploration Technologies Corporation",19
 "AS207713","GLOBAL INTERNET SOLUTIONS LLC",19
