@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87847
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22234
-"AS398324","Censys, Inc.",15142
+"AS398324","Censys, Inc.",15143
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10724
-"AS14061","DigitalOcean, LLC",8516
+"AS14061","DigitalOcean, LLC",8517
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6035
 "AS4134","Chinanet",5085
@@ -16,7 +16,7 @@ ASN,Organization,IP_Count
 "AS396998","Path Network, Inc.",3992
 "AS0","",3787
 "AS63949","Akamai Technologies, Inc.",3671
-"AS15169","Google LLC",3576
+"AS15169","Google LLC",3577
 "AS51396","Pfcloud UG",3243
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2888
@@ -46,10 +46,10 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",869
 "AS51167","Contabo GmbH",849
-"AS215925","VPSVAULT.HOST LTD",847
+"AS215925","VPSVAULT.HOST LTD",848
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
-"AS20052","Arbor Networks, Inc.",833
+"AS20052","Arbor Networks, Inc.",834
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",737
 "AS10439","CariNet, Inc.",725
@@ -59,7 +59,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS201814","MEVSPACE sp. z o.o.",591
 "AS3462","Chunghwa Telecom Co., Ltd.",585
-"AS51115","HLL LLC",579
+"AS51115","HLL LLC",580
 "AS9009","M247 Europe SRL",573
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
@@ -95,8 +95,8 @@ ASN,Organization,IP_Count
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",229
 "AS29066","velia.net Internetdienste GmbH",226
+"AS12389","PJSC Rostelecom",222
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
-"AS12389","PJSC Rostelecom",221
 "AS14987","Rethem Hosting LLC",215
 "AS29484","Ruhr-Universitaet Bochum",211
 "AS12555","Data-center IMAQLIQ Ltd.",198
