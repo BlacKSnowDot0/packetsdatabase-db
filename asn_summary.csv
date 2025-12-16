@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87846
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87847
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22234
-"AS398324","Censys, Inc.",15138
+"AS398324","Censys, Inc.",15139
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10724
 "AS14061","DigitalOcean, LLC",8514
@@ -19,15 +19,15 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3576
 "AS51396","Pfcloud UG",3243
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2886
+"AS8075","Microsoft Corporation",2887
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2788
+"AS6939","Hurricane Electric LLC",2789
 "AS142002","Scloud Pte Ltd",2572
 "AS23470","ReliableSite.Net LLC",2475
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1954
 "AS214295","SKYNET NETWORK LTD",1631
-"AS32475","Internap Holding LLC",1614
+"AS32475","Internap Holding LLC",1615
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1495
 "AS36352","HostPapa",1480
@@ -54,7 +54,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",737
 "AS10439","CariNet, Inc.",725
 "AS14618","Amazon.com, Inc.",722
-"AS4837","CHINA UNICOM China169 Backbone",609
+"AS4837","CHINA UNICOM China169 Backbone",610
 "AS12876","ONLINE S.A.S.",604
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS201814","MEVSPACE sp. z o.o.",591
@@ -128,8 +128,8 @@ ASN,Organization,IP_Count
 "AS47331","TTNet A.S.",106
 "AS199785","Cloud Hosting Solutions, Limited.",102
 "AS136435","ELITE COMMUNICATION",100
+"AS11320","LightEdge Solutions",93
 "AS205352","KABELNET LTD",93
-"AS11320","LightEdge Solutions",92
 "AS28209","Under Servicos de Internet Ltda",92
 "AS5617","Orange Polska Spolka Akcyjna",92
 "AS63018","Dedicated.com",92
@@ -603,6 +603,7 @@ ASN,Organization,IP_Count
 "AS198323","TOV Informatsiyni Kirovohrads'ki Systemy",6
 "AS201838","Community Fibre Limited",6
 "AS203020","HostRoyale Technologies Pvt Ltd",6
+"AS209588","Flyservers S.A.",6
 "AS210538","KEYUBU Internet ve Bilisim Tic. Ltd. Sti.",6
 "AS21056","Vianova S.p.A",6
 "AS212219","HOSTING DUNYAM BILISIM TEKNOLOJILERI TICARET LIMITED SIRKETI",6
@@ -677,7 +678,6 @@ ASN,Organization,IP_Count
 "AS202468","Noyan Abr Arvan Co. ( Private Joint Stock)",5
 "AS20412","Clarity Telecom LLC",5
 "AS207656","Epinatura LLC",5
-"AS209588","Flyservers S.A.",5
 "AS21246","IPKO Telecommunications LLC",5
 "AS212552","BitCommand LLC",5
 "AS212695","Link Telecom Service Ltd",5
