@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87847
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22235
-"AS398324","Censys, Inc.",15177
+"AS398324","Censys, Inc.",15179
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10729
 "AS14061","DigitalOcean, LLC",8528
@@ -29,7 +29,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS32475","Internap Holding LLC",1624
 "AS209605","UAB Host Baltic",1545
-"AS49870","Alsycon B.V.",1495
+"AS49870","Alsycon B.V.",1496
 "AS36352","HostPapa",1480
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1440
@@ -163,10 +163,10 @@ ASN,Organization,IP_Count
 "AS6128","Cablevision Systems Corp.",66
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
+"AS396356","Latitude.sh",64
 "AS5650","Frontier Communications of America, Inc.",64
 "AS17378","TierPoint, LLC",63
 "AS19318","Interserver, Inc",63
-"AS396356","Latitude.sh",63
 "AS44592","SkyLink Data Center BV",62
 "AS140717","China Unicom",61
 "AS149746","PT Blip Integrator Provider",60
