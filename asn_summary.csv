@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87847
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22235
-"AS398324","Censys, Inc.",15176
+"AS398324","Censys, Inc.",15177
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10729
-"AS14061","DigitalOcean, LLC",8527
+"AS14061","DigitalOcean, LLC",8528
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6037
 "AS4134","Chinanet",5086
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS36352","HostPapa",1480
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1440
-"AS13335","Cloudflare, Inc.",1432
+"AS13335","Cloudflare, Inc.",1433
 "AS48925","VibeGAMES B.V.",1426
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1261
@@ -44,7 +44,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1020
 "AS51852","Private Layer INC",907
-"AS208046","ColocationX Ltd.",869
+"AS208046","ColocationX Ltd.",870
 "AS51167","Contabo GmbH",851
 "AS215925","VPSVAULT.HOST LTD",849
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -144,7 +144,7 @@ ASN,Organization,IP_Count
 "AS3920","ESTOXY OU",78
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",76
-"AS30083","velia.net",75
+"AS30083","velia.net",76
 "AS32475","SingleHop LLC",75
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",74
 "AS31898","Oracle Corporation",74
@@ -166,9 +166,9 @@ ASN,Organization,IP_Count
 "AS5650","Frontier Communications of America, Inc.",64
 "AS17378","TierPoint, LLC",63
 "AS19318","Interserver, Inc",63
+"AS396356","Latitude.sh",63
 "AS44592","SkyLink Data Center BV",62
 "AS140717","China Unicom",61
-"AS396356","Latitude.sh",61
 "AS149746","PT Blip Integrator Provider",60
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",60
