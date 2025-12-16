@@ -1,39 +1,39 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87845
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
-"AS211298","Driftnet Ltd",22233
-"AS398324","Censys, Inc.",15130
+"AS211298","Driftnet Ltd",22234
+"AS398324","Censys, Inc.",15135
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10724
-"AS14061","DigitalOcean, LLC",8512
+"AS14061","DigitalOcean, LLC",8513
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6035
 "AS4134","Chinanet",5085
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4459
 "AS16509","Amazon.com, Inc.",4378
-"AS45102","Alibaba (US) Technology Co., Ltd.",4163
+"AS45102","Alibaba (US) Technology Co., Ltd.",4164
 "AS396998","Path Network, Inc.",3992
-"AS0","",3783
+"AS0","",3785
 "AS63949","Akamai Technologies, Inc.",3671
 "AS15169","Google LLC",3576
 "AS51396","Pfcloud UG",3243
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2886
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2786
+"AS6939","Hurricane Electric LLC",2787
 "AS142002","Scloud Pte Ltd",2572
-"AS23470","ReliableSite.Net LLC",2474
+"AS23470","ReliableSite.Net LLC",2475
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1953
 "AS214295","SKYNET NETWORK LTD",1631
-"AS32475","Internap Holding LLC",1612
+"AS32475","Internap Holding LLC",1613
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1495
 "AS36352","HostPapa",1480
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1439
-"AS13335","Cloudflare, Inc.",1427
+"AS13335","Cloudflare, Inc.",1428
 "AS48925","VibeGAMES B.V.",1426
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1260
@@ -45,14 +45,14 @@ ASN,Organization,IP_Count
 "AS208684","BHA CONSEIL SARL",1018
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",869
-"AS51167","Contabo GmbH",848
+"AS51167","Contabo GmbH",849
 "AS215925","VPSVAULT.HOST LTD",847
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS20052","Arbor Networks, Inc.",833
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",737
-"AS10439","CariNet, Inc.",723
+"AS10439","CariNet, Inc.",724
 "AS14618","Amazon.com, Inc.",722
 "AS4837","CHINA UNICOM China169 Backbone",609
 "AS12876","ONLINE S.A.S.",604
@@ -102,9 +102,9 @@ ASN,Organization,IP_Count
 "AS12555","Data-center IMAQLIQ Ltd.",198
 "AS63199","CDS Global Cloud Co., Ltd",189
 "AS7552","Viettel Group",182
-"AS50219","LNK SYSTEMS MUNTENIA SRL",176
+"AS50219","LNK SYSTEMS MUNTENIA SRL",177
 "AS401116","Nybula LLC",170
-"AS42237","w1n ltd",163
+"AS42237","w1n ltd",164
 "AS34984","Superonline Iletisim Hizmetleri A.S.",159
 "AS262551","Farol Telecom",154
 "AS206264","Amarutu Technology Ltd",153
@@ -130,9 +130,9 @@ ASN,Organization,IP_Count
 "AS136435","ELITE COMMUNICATION",100
 "AS205352","KABELNET LTD",93
 "AS11320","LightEdge Solutions",92
+"AS28209","Under Servicos de Internet Ltda",92
 "AS5617","Orange Polska Spolka Akcyjna",92
 "AS63018","Dedicated.com",92
-"AS28209","Under Servicos de Internet Ltda",91
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS16735","ALGAR TELECOM S/A",88
 "AS271795","SERVITELCONET CIA. LTDA.",85
@@ -187,8 +187,8 @@ ASN,Organization,IP_Count
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS46475","Limestone Networks, Inc.",54
 "AS200590","NLS Kazakhstan LLC",52
+"AS263025","ISPTEC Sistemas de Comunicação Eireli",49
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",49
-"AS263025","ISPTEC Sistemas de Comunicação Eireli",48
 "AS266181","GOLDEN LINK",48
 "AS202796","JSR IT B.V.",47
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",47
@@ -389,6 +389,7 @@ ASN,Organization,IP_Count
 "AS30600","Metronet",15
 "AS31113","Artkomm LLC",15
 "AS397283","RocketNode Inc",15
+"AS401152","Ace Data Centers II, L.L.C.",15
 "AS48282","Hosting technology LTD",15
 "AS6327","Shaw Communications Inc.",15
 "AS64236","UnReal Servers, LLC",15
@@ -404,7 +405,6 @@ ASN,Organization,IP_Count
 "AS3243","MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.",14
 "AS3352","TELEFONICA DE ESPANA S.A.U.",14
 "AS37457","Telkom SA Ltd.",14
-"AS401152","Ace Data Centers II, L.L.C.",14
 "AS4808","China Unicom Beijing Province Network",14
 "AS48721","Flyservers S.A.",14
 "AS9318","SK Broadband Co Ltd",14
