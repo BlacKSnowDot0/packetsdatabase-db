@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87847
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22234
-"AS398324","Censys, Inc.",15143
+"AS398324","Censys, Inc.",15144
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10724
-"AS14061","DigitalOcean, LLC",8517
+"AS14061","DigitalOcean, LLC",8518
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6035
 "AS4134","Chinanet",5085
@@ -1540,6 +1540,7 @@ ASN,Organization,IP_Count
 "AS9821","Advanced Science and Technology Institute",2
 "AS9905","Linknet ASN",2
 "AS9908","Hong Kong Cable Television Limited",2
+"AS9924","Taiwan Fixed Network, Telco and Network Service Provider.",2
 "AS10010","TOKAI Communications Corporation",1
 "AS10075","Fiber@Home Global Limited",1
 "AS10242","US Internet Corp",1
@@ -3094,4 +3095,3 @@ ASN,Organization,IP_Count
 "AS9617","JCOM Co., Ltd.",1
 "AS9644","SK Telecom",1
 "AS9891","CS Loxinfo Public Company Limited",1
-"AS9924","Taiwan Fixed Network, Telco and Network Service Provider.",1
