@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",15164
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10728
-"AS14061","DigitalOcean, LLC",8520
+"AS14061","DigitalOcean, LLC",8521
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6036
 "AS4134","Chinanet",5086
@@ -105,7 +105,7 @@ ASN,Organization,IP_Count
 "AS50219","LNK SYSTEMS MUNTENIA SRL",178
 "AS401116","Nybula LLC",170
 "AS42237","w1n ltd",164
-"AS34984","Superonline Iletisim Hizmetleri A.S.",159
+"AS34984","Superonline Iletisim Hizmetleri A.S.",160
 "AS262551","Farol Telecom",154
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",141
@@ -117,8 +117,8 @@ ASN,Organization,IP_Count
 "AS19905","Neustar Security Services",127
 "AS151185","China Telecom",123
 "AS36007","Kamatera, Inc.",122
+"AS8560","IONOS SE",116
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",115
-"AS8560","IONOS SE",115
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS4766","Korea Telecom",113
 "AS208287","DC Host INC",110
