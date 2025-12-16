@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87847
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22234
-"AS398324","Censys, Inc.",15161
+"AS398324","Censys, Inc.",15162
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10728
 "AS14061","DigitalOcean, LLC",8520
@@ -12,9 +12,9 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4459
 "AS16509","Amazon.com, Inc.",4378
-"AS45102","Alibaba (US) Technology Co., Ltd.",4168
+"AS45102","Alibaba (US) Technology Co., Ltd.",4169
 "AS396998","Path Network, Inc.",3992
-"AS0","",3792
+"AS0","",3793
 "AS63949","Akamai Technologies, Inc.",3672
 "AS15169","Google LLC",3577
 "AS51396","Pfcloud UG",3243
@@ -27,7 +27,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1960
 "AS214295","SKYNET NETWORK LTD",1631
-"AS32475","Internap Holding LLC",1618
+"AS32475","Internap Holding LLC",1619
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1495
 "AS36352","HostPapa",1480
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",869
 "AS51167","Contabo GmbH",850
-"AS215925","VPSVAULT.HOST LTD",848
+"AS215925","VPSVAULT.HOST LTD",849
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS20052","Arbor Networks, Inc.",835
@@ -59,7 +59,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS201814","MEVSPACE sp. z o.o.",591
 "AS3462","Chunghwa Telecom Co., Ltd.",585
-"AS51115","HLL LLC",581
+"AS51115","HLL LLC",582
 "AS9009","M247 Europe SRL",573
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
@@ -221,11 +221,11 @@ ASN,Organization,IP_Count
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",37
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",37
 "AS8167","V tal",37
+"AS1103","SURF B.V.",36
 "AS149705","PT Wijaya Trimitra Indonesia",36
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",36
 "AS42624","Global-Data System IT Corporation",36
 "AS4760","PCCW IMS Limited",36
-"AS1103","SURF B.V.",35
 "AS210509","Optimum Line for Internet Services Ltd.",35
 "AS213790","Limited Network LTD",35
 "AS146817","Hubei Feixun Network Co., Ltd",34
