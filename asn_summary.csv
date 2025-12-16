@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87847
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
-"AS211298","Driftnet Ltd",22234
-"AS398324","Censys, Inc.",15164
+"AS211298","Driftnet Ltd",22235
+"AS398324","Censys, Inc.",15168
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10728
 "AS14061","DigitalOcean, LLC",8521
@@ -21,13 +21,13 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2889
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2792
+"AS6939","Hurricane Electric LLC",2793
 "AS142002","Scloud Pte Ltd",2572
-"AS23470","ReliableSite.Net LLC",2478
+"AS23470","ReliableSite.Net LLC",2479
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1960
 "AS214295","SKYNET NETWORK LTD",1631
-"AS32475","Internap Holding LLC",1620
+"AS32475","Internap Holding LLC",1621
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1495
 "AS36352","HostPapa",1480
@@ -63,7 +63,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",573
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS53667","FranTech Solutions",543
+"AS53667","FranTech Solutions",544
 "AS9829","Bharat Sanchar Nigam Ltd",539
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
@@ -72,7 +72,7 @@ ASN,Organization,IP_Count
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
 "AS7018","AT&T Enterprises, LLC",397
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",395
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",396
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS47890","UNMANAGED LTD",389
 "AS21859","Zenlayer Inc",376
@@ -112,7 +112,7 @@ ASN,Organization,IP_Count
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
 "AS13238","YANDEX LLC",132
-"AS215240","Silent Connection Ltd.",130
+"AS215240","Silent Connection Ltd.",131
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
 "AS151185","China Telecom",123
