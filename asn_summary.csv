@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87845
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87846
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22234
-"AS398324","Censys, Inc.",15135
+"AS398324","Censys, Inc.",15138
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10724
-"AS14061","DigitalOcean, LLC",8513
+"AS14061","DigitalOcean, LLC",8514
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6035
 "AS4134","Chinanet",5085
@@ -14,20 +14,20 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4378
 "AS45102","Alibaba (US) Technology Co., Ltd.",4164
 "AS396998","Path Network, Inc.",3992
-"AS0","",3785
+"AS0","",3786
 "AS63949","Akamai Technologies, Inc.",3671
 "AS15169","Google LLC",3576
 "AS51396","Pfcloud UG",3243
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2886
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2787
+"AS6939","Hurricane Electric LLC",2788
 "AS142002","Scloud Pte Ltd",2572
 "AS23470","ReliableSite.Net LLC",2475
 "AS9808","China Mobile",2084
-"AS202425","IP Volume inc",1953
+"AS202425","IP Volume inc",1954
 "AS214295","SKYNET NETWORK LTD",1631
-"AS32475","Internap Holding LLC",1613
+"AS32475","Internap Holding LLC",1614
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1495
 "AS36352","HostPapa",1480
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",833
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",737
-"AS10439","CariNet, Inc.",724
+"AS10439","CariNet, Inc.",725
 "AS14618","Amazon.com, Inc.",722
 "AS4837","CHINA UNICOM China169 Backbone",609
 "AS12876","ONLINE S.A.S.",604
@@ -63,7 +63,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",573
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS53667","FranTech Solutions",542
+"AS53667","FranTech Solutions",543
 "AS9829","Bharat Sanchar Nigam Ltd",536
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
@@ -275,13 +275,13 @@ ASN,Organization,IP_Count
 "AS2200","Renater",26
 "AS23693","PT. Telekomunikasi Selular",26
 "AS271597","NEW LINK CONNECT",26
+"AS2914","NTT America, Inc.",26
 "AS3209","Vodafone GmbH",26
 "AS41745","Baykov Ilya Sergeevich",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS18881","TELEFÔNICA BRASIL S.A",25
 "AS209","CenturyLink Communications, LLC",25
 "AS24560","Bharti Airtel Limited",25
-"AS2914","NTT America, Inc.",25
 "AS36947","Telecom Algeria",25
 "AS55836","Reliance Jio Infocomm Limited",25
 "AS58224","Iran Telecommunication Company PJS",25
