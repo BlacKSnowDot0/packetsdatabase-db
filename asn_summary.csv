@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",15169
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10728
-"AS14061","DigitalOcean, LLC",8521
+"AS14061","DigitalOcean, LLC",8522
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6036
 "AS4134","Chinanet",5086
@@ -54,7 +54,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",737
 "AS10439","CariNet, Inc.",726
 "AS14618","Amazon.com, Inc.",723
-"AS4837","CHINA UNICOM China169 Backbone",611
+"AS4837","CHINA UNICOM China169 Backbone",612
 "AS12876","ONLINE S.A.S.",605
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS201814","MEVSPACE sp. z o.o.",591
@@ -117,7 +117,7 @@ ASN,Organization,IP_Count
 "AS19905","Neustar Security Services",127
 "AS151185","China Telecom",123
 "AS36007","Kamatera, Inc.",122
-"AS8560","IONOS SE",116
+"AS8560","IONOS SE",117
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",115
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS4766","Korea Telecom",113
@@ -144,9 +144,9 @@ ASN,Organization,IP_Count
 "AS3920","ESTOXY OU",78
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",76
+"AS30083","velia.net",75
 "AS32475","SingleHop LLC",75
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",74
-"AS30083","velia.net",74
 "AS31898","Oracle Corporation",74
 "AS56046","China Mobile Communications Corporation",74
 "AS150263","PT Alnet Telekomunikasi Indonesia",73
