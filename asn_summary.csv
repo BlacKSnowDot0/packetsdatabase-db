@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87847
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22234
-"AS398324","Censys, Inc.",15156
+"AS398324","Censys, Inc.",15157
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10727
 "AS14061","DigitalOcean, LLC",8519
@@ -12,9 +12,9 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4459
 "AS16509","Amazon.com, Inc.",4378
-"AS45102","Alibaba (US) Technology Co., Ltd.",4164
+"AS45102","Alibaba (US) Technology Co., Ltd.",4165
 "AS396998","Path Network, Inc.",3992
-"AS0","",3790
+"AS0","",3792
 "AS63949","Akamai Technologies, Inc.",3672
 "AS15169","Google LLC",3577
 "AS51396","Pfcloud UG",3243
@@ -98,7 +98,7 @@ ASN,Organization,IP_Count
 "AS12389","PJSC Rostelecom",222
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
-"AS29484","Ruhr-Universitaet Bochum",211
+"AS29484","Ruhr-Universitaet Bochum",212
 "AS12555","Data-center IMAQLIQ Ltd.",198
 "AS63199","CDS Global Cloud Co., Ltd",189
 "AS7552","Viettel Group",182
@@ -139,8 +139,8 @@ ASN,Organization,IP_Count
 "AS58461","Chinanet",85
 "AS8402","PJSC ""Vimpelcom""",85
 "AS23724","IDC, China Telecommunications Corporation",83
+"AS22773","Cox Communications Inc.",79
 "AS200019","ALEXHOST SRL",78
-"AS22773","Cox Communications Inc.",78
 "AS3920","ESTOXY OU",78
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",76
@@ -215,9 +215,9 @@ ASN,Organization,IP_Count
 "AS8048","CANTV Servicios, Venezuela",39
 "AS9198","JSC Kazakhtelecom",39
 "AS26599","TELEFÔNICA BRASIL S.A",38
+"AS329009","Spectrum Internet Service Ltd",38
 "AS4538","China Education and Research Network Center",38
 "AS1680","Cellcom Fixed Line Communication L.P",37
-"AS329009","Spectrum Internet Service Ltd",37
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",37
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",37
 "AS8167","V tal",37
