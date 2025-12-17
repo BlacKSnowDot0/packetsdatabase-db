@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",15207
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10735
-"AS14061","DigitalOcean, LLC",8541
+"AS14061","DigitalOcean, LLC",8542
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6038
 "AS4134","Chinanet",5087
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3577
 "AS51396","Pfcloud UG",3245
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2893
+"AS8075","Microsoft Corporation",2895
 "AS6939","Hurricane Electric LLC",2797
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2572
@@ -29,7 +29,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS32475","Internap Holding LLC",1631
 "AS209605","UAB Host Baltic",1545
-"AS49870","Alsycon B.V.",1496
+"AS49870","Alsycon B.V.",1497
 "AS36352","HostPapa",1480
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1440
@@ -119,8 +119,8 @@ ASN,Organization,IP_Count
 "AS36007","Kamatera, Inc.",122
 "AS8560","IONOS SE",119
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",115
+"AS4766","Korea Telecom",114
 "AS211298","Constantine Cybersecurity Ltd.",113
-"AS4766","Korea Telecom",113
 "AS208287","DC Host INC",110
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",109
 "AS40021","Nubes, LLC",107
@@ -219,12 +219,12 @@ ASN,Organization,IP_Count
 "AS4538","China Education and Research Network Center",38
 "AS1680","Cellcom Fixed Line Communication L.P",37
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",37
+"AS42624","Global-Data System IT Corporation",37
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",37
 "AS8167","V tal",37
 "AS1103","SURF B.V.",36
 "AS149705","PT Wijaya Trimitra Indonesia",36
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",36
-"AS42624","Global-Data System IT Corporation",36
 "AS4760","PCCW IMS Limited",36
 "AS210509","Optimum Line for Internet Services Ltd.",35
 "AS213790","Limited Network LTD",35
