@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",15231
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10737
-"AS14061","DigitalOcean, LLC",8552
+"AS14061","DigitalOcean, LLC",8553
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6039
 "AS4134","Chinanet",5102
@@ -224,9 +224,9 @@ ASN,Organization,IP_Count
 "AS8167","V tal",37
 "AS1103","SURF B.V.",36
 "AS149705","PT Wijaya Trimitra Indonesia",36
+"AS210509","Optimum Line for Internet Services Ltd.",36
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",36
 "AS4760","PCCW IMS Limited",36
-"AS210509","Optimum Line for Internet Services Ltd.",35
 "AS213790","Limited Network LTD",35
 "AS146817","Hubei Feixun Network Co., Ltd",34
 "AS21127","Joint Stock Company TransTeleCom",34
@@ -307,6 +307,7 @@ ASN,Organization,IP_Count
 "AS63859","PT. Eka Mas Republik",22
 "AS7029","Windstream Communications LLC",22
 "AS12479","Orange Espagne SA",21
+"AS136142","Enigma Fiber Pvt Ltd",21
 "AS138886","PT Data Buana Nusantara",21
 "AS214668","AxusHost B.V.",21
 "AS24348","CERNET2 IX at Tsinghua University",21
@@ -317,7 +318,6 @@ ASN,Organization,IP_Count
 "AS50887","DC FIBER HOME SRL",21
 "AS812","Rogers Communications Canada Inc.",21
 "AS9299","Philippine Long Distance Telephone Co.",21
-"AS136142","Enigma Fiber Pvt Ltd",20
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS17638","ASN for TIANJIN Provincial Net of CT",20
