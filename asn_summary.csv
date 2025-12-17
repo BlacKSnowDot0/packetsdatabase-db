@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87847
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22240
-"AS398324","Censys, Inc.",15211
+"AS398324","Censys, Inc.",15214
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10735
-"AS14061","DigitalOcean, LLC",8543
+"AS14061","DigitalOcean, LLC",8544
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6038
 "AS4134","Chinanet",5087
@@ -17,9 +17,9 @@ ASN,Organization,IP_Count
 "AS0","",3795
 "AS63949","Akamai Technologies, Inc.",3674
 "AS15169","Google LLC",3577
-"AS51396","Pfcloud UG",3245
+"AS51396","Pfcloud UG",3246
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2895
+"AS8075","Microsoft Corporation",2896
 "AS6939","Hurricane Electric LLC",2797
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2572
@@ -99,7 +99,7 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS29484","Ruhr-Universitaet Bochum",213
-"AS12555","Data-center IMAQLIQ Ltd.",200
+"AS12555","Data-center IMAQLIQ Ltd.",201
 "AS63199","CDS Global Cloud Co., Ltd",189
 "AS7552","Viettel Group",182
 "AS50219","LNK SYSTEMS MUNTENIA SRL",178
@@ -147,9 +147,9 @@ ASN,Organization,IP_Count
 "AS27882","Telefónica Celular de Bolivia S.A.",76
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",75
 "AS32475","SingleHop LLC",75
+"AS150263","PT Alnet Telekomunikasi Indonesia",74
 "AS31898","Oracle Corporation",74
 "AS56046","China Mobile Communications Corporation",74
-"AS150263","PT Alnet Telekomunikasi Indonesia",73
 "AS200514","KnownSRV Ltd.",72
 "AS55720","Gigabit Hosting Sdn Bhd",70
 "AS2856","British Telecommunications PLC",69
@@ -158,12 +158,12 @@ ASN,Organization,IP_Count
 "AS834","IPXO LLC",68
 "AS215590","DpkgSoft International Limited",67
 "AS328867","Corebach Backbone SARL",67
+"AS396356","Latitude.sh",67
 "AS57588","Hayat for Internet & communication LLC",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
 "AS6128","Cablevision Systems Corp.",66
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
-"AS396356","Latitude.sh",64
 "AS44592","SkyLink Data Center BV",64
 "AS5650","Frontier Communications of America, Inc.",64
 "AS17378","TierPoint, LLC",63
@@ -433,6 +433,7 @@ ASN,Organization,IP_Count
 "AS35297","Dataline LLC",12
 "AS36992","ETISALAT MISR",12
 "AS38264","Wateen Telecom Limited",12
+"AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",12
 "AS400992","ZhouyiSat Communications",12
 "AS41075","ATW Internet Kft.",12
 "AS41436","Kamatera Inc",12
@@ -453,7 +454,6 @@ ASN,Organization,IP_Count
 "AS24547","China Mobile",11
 "AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",11
 "AS37611","Afrihost (Pty) Ltd",11
-"AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",11
 "AS44901","Belcloud LTD",11
 "AS45820","TTSL-ISP DIVISION",11
 "AS48874","HOSTMAZE INC SRL-D",11
