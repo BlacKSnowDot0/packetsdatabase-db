@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87847
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22237
-"AS398324","Censys, Inc.",15194
+"AS398324","Censys, Inc.",15199
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10734
 "AS14061","DigitalOcean, LLC",8539
@@ -141,8 +141,8 @@ ASN,Organization,IP_Count
 "AS23724","IDC, China Telecommunications Corporation",83
 "AS22773","Cox Communications Inc.",79
 "AS200019","ALEXHOST SRL",78
+"AS30083","velia.net",78
 "AS3920","ESTOXY OU",78
-"AS30083","velia.net",77
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",76
 "AS32475","SingleHop LLC",75
