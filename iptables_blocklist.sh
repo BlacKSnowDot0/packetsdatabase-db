@@ -2,6 +2,25 @@
 # This script will add all IPs from the list to your iptables DROP chain.
 iptables -A INPUT -s 202.96.99.82 -j DROP
 iptables -A INPUT -s 202.96.99.82 -j DROP
+iptables -A INPUT -s 202.96.99.82 -j DROP
+iptables -A INPUT -s 202.96.99.82 -j DROP
+iptables -A INPUT -s 202.96.99.82 -j DROP
+iptables -A INPUT -s 202.96.99.82 -j DROP
+iptables -A INPUT -s 162.142.125.253 -j DROP
+iptables -A INPUT -s 202.96.99.83 -j DROP
+iptables -A INPUT -s 202.96.99.83 -j DROP
+iptables -A INPUT -s 80.82.77.139 -j DROP
+iptables -A INPUT -s 202.96.99.83 -j DROP
+iptables -A INPUT -s 185.242.226.68 -j DROP
+iptables -A INPUT -s 185.243.5.129 -j DROP
+iptables -A INPUT -s 162.142.125.241 -j DROP
+iptables -A INPUT -s 193.163.125.100 -j DROP
+iptables -A INPUT -s 162.142.125.242 -j DROP
+iptables -A INPUT -s 87.120.191.127 -j DROP
+iptables -A INPUT -s 204.76.203.12 -j DROP
+iptables -A INPUT -s 202.96.99.83 -j DROP
+iptables -A INPUT -s 202.96.99.82 -j DROP
+iptables -A INPUT -s 202.96.99.82 -j DROP
 iptables -A INPUT -s 194.164.107.5 -j DROP
 iptables -A INPUT -s 202.96.99.83 -j DROP
 iptables -A INPUT -s 201.173.216.17 -j DROP
