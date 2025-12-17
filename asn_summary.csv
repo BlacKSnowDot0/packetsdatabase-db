@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87847
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22237
-"AS398324","Censys, Inc.",15199
+"AS398324","Censys, Inc.",15201
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10734
-"AS14061","DigitalOcean, LLC",8539
+"AS14061","DigitalOcean, LLC",8540
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6037
 "AS4134","Chinanet",5087
@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",4172
 "AS396998","Path Network, Inc.",3992
 "AS0","",3794
-"AS63949","Akamai Technologies, Inc.",3673
+"AS63949","Akamai Technologies, Inc.",3674
 "AS15169","Google LLC",3577
 "AS51396","Pfcloud UG",3245
 "AS398705","Censys, Inc.",3238
@@ -85,7 +85,7 @@ ASN,Organization,IP_Count
 "AS24863","LINKdotNET AS number",307
 "AS208843","Alpha Strike Labs GmbH",306
 "AS213613","BOTSHIELD LTD",304
-"AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",297
+"AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",298
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS141718","haoxiangyun",264
@@ -913,6 +913,7 @@ ASN,Organization,IP_Count
 "AS19108","Suddenlink Communications",3
 "AS19331","Twin Lakes Telephone Cooperative Corporation",3
 "AS196949","Natalia Sergeevna Filicheva",3
+"AS197450","SUNUCUN BILGI ILETISIM TEKNOLOJILERI VE TICARET LIMITED SIRKETI",3
 "AS199468","GRAIN COMMUNICATIONS LIMITED",3
 "AS200359","Grupo Proveedor tecnologico Universal SL",3
 "AS20055","Wholesail networks LLC",3
@@ -1182,7 +1183,6 @@ ASN,Organization,IP_Count
 "AS18233","Philippine Telelgraph & Telephone",2
 "AS18501","CyberCloud Professionals LLC",2
 "AS19429","ETB - Colombia",2
-"AS197450","SUNUCUN BILGI ILETISIM TEKNOLOJILERI VE TICARET LIMITED SIRKETI",2
 "AS198227","New Telecom Ltd",2
 "AS198381","Star Satellite Communications Company - PJSC",2
 "AS198551","REZOCEAN SAS",2
