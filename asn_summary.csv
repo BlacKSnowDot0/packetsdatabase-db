@@ -2,13 +2,13 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87847
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22237
-"AS398324","Censys, Inc.",15190
+"AS398324","Censys, Inc.",15191
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10733
-"AS14061","DigitalOcean, LLC",8538
+"AS14061","DigitalOcean, LLC",8539
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6037
-"AS4134","Chinanet",5086
+"AS4134","Chinanet",5087
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4459
 "AS16509","Amazon.com, Inc.",4378
@@ -27,13 +27,13 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1963
 "AS214295","SKYNET NETWORK LTD",1631
-"AS32475","Internap Holding LLC",1627
+"AS32475","Internap Holding LLC",1628
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1496
 "AS36352","HostPapa",1480
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1440
-"AS13335","Cloudflare, Inc.",1433
+"AS13335","Cloudflare, Inc.",1434
 "AS48925","VibeGAMES B.V.",1426
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1261
@@ -99,7 +99,7 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS29484","Ruhr-Universitaet Bochum",212
-"AS12555","Data-center IMAQLIQ Ltd.",198
+"AS12555","Data-center IMAQLIQ Ltd.",200
 "AS63199","CDS Global Cloud Co., Ltd",189
 "AS7552","Viettel Group",182
 "AS50219","LNK SYSTEMS MUNTENIA SRL",178
@@ -485,6 +485,7 @@ ASN,Organization,IP_Count
 "AS17451","BIZNET NETWORKS",9
 "AS17676","SoftBank Corp.",9
 "AS18779","EGIHosting",9
+"AS209588","Flyservers S.A.",9
 "AS212504","AdKyNet SAS",9
 "AS213520","Senko Digital Ltd",9
 "AS214481","Wojciech Czapkowicz",9
@@ -512,7 +513,6 @@ ASN,Organization,IP_Count
 "AS198361","Yaglom Labs Ltd",8
 "AS202870","Dimensione S.r.l.",8
 "AS206262","TelKos L.L.C",8
-"AS209588","Flyservers S.A.",8
 "AS209956","Telkoturk Iletisim Hizmetleri A.S.",8
 "AS211507","Julian Achter",8
 "AS2119","Telenor Norge AS",8
