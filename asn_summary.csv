@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4378
 "AS45102","Alibaba (US) Technology Co., Ltd.",4180
 "AS396998","Path Network, Inc.",3992
-"AS0","",3795
+"AS0","",3796
 "AS63949","Akamai Technologies, Inc.",3675
 "AS15169","Google LLC",3577
 "AS51396","Pfcloud UG",3247
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2497
 "AS9808","China Mobile",2084
-"AS202425","IP Volume inc",1968
+"AS202425","IP Volume inc",1969
 "AS32475","Internap Holding LLC",1632
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1545
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS36352","HostPapa",1480
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1440
-"AS13335","Cloudflare, Inc.",1435
+"AS13335","Cloudflare, Inc.",1436
 "AS48925","VibeGAMES B.V.",1426
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1263
@@ -266,12 +266,12 @@ ASN,Organization,IP_Count
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",27
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",27
 "AS17995","PT iForte Global Internet",27
+"AS197540","netcup GmbH",27
 "AS34534","FBW NETWORKS SAS",27
 "AS4713","NTT Communications Corporation",27
 "AS53118","NETLINE TELECOM",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",27
-"AS197540","netcup GmbH",26
 "AS2200","Renater",26
 "AS23693","PT. Telekomunikasi Selular",26
 "AS271597","NEW LINK CONNECT",26
