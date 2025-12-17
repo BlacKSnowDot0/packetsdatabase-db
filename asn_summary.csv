@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87856
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22243
-"AS398324","Censys, Inc.",15232
+"AS398324","Censys, Inc.",15233
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10737
 "AS14061","DigitalOcean, LLC",8555
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2497
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1970
-"AS32475","Internap Holding LLC",1635
+"AS32475","Internap Holding LLC",1636
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1497
@@ -421,6 +421,7 @@ ASN,Organization,IP_Count
 "AS272928","P&C ON LINE S.R.L. (NETWAY INTERNET)",13
 "AS28840","PJSC ""TATTELECOM""",13
 "AS29465","MTN NIGERIA Communication limited",13
+"AS32613","Leaseweb Canada Inc.",13
 "AS37105","RAIN GROUP HOLDINGS (PTY) LTD",13
 "AS38841","kbro CO. Ltd.",13
 "AS50304","Blix Solutions AS",13
@@ -428,7 +429,6 @@ ASN,Organization,IP_Count
 "AS9770","LG HelloVision Corp.",13
 "AS2637","Georgia Institute of Technology",12
 "AS29302","Hosting Services Inc",12
-"AS32613","Leaseweb Canada Inc.",12
 "AS35042","Layer7 Networks GmbH",12
 "AS35297","Dataline LLC",12
 "AS36992","ETISALAT MISR",12
