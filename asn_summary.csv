@@ -1,7 +1,7 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87856
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
-"AS211298","Driftnet Ltd",22242
+"AS211298","Driftnet Ltd",22243
 "AS398324","Censys, Inc.",15232
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10737
@@ -14,8 +14,8 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4378
 "AS45102","Alibaba (US) Technology Co., Ltd.",4180
 "AS396998","Path Network, Inc.",3992
-"AS0","",3797
-"AS63949","Akamai Technologies, Inc.",3676
+"AS0","",3798
+"AS63949","Akamai Technologies, Inc.",3677
 "AS15169","Google LLC",3577
 "AS51396","Pfcloud UG",3248
 "AS398705","Censys, Inc.",3238
@@ -82,7 +82,7 @@ ASN,Organization,IP_Count
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS214943","Railnet LLC",318
 "AS45899","VNPT Corp",317
-"AS208843","Alpha Strike Labs GmbH",307
+"AS208843","Alpha Strike Labs GmbH",308
 "AS24863","LINKdotNET AS number",307
 "AS213613","BOTSHIELD LTD",305
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",298
@@ -257,6 +257,7 @@ ASN,Organization,IP_Count
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS141679","China Telecom",28
+"AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",28
 "AS24940","Hetzner Online GmbH",28
 "AS30860","Virtual Systems LLC",28
 "AS329490","Promethean Consulting Limited",28
@@ -264,7 +265,6 @@ ASN,Organization,IP_Count
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS58212","dataforest GmbH",28
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",27
-"AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",27
 "AS17995","PT iForte Global Internet",27
 "AS197540","netcup GmbH",27
 "AS34534","FBW NETWORKS SAS",27
@@ -2706,6 +2706,7 @@ ASN,Organization,IP_Count
 "AS395662","OzarksGo, LLC",1
 "AS396073","Majestic Hosting Solutions, LLC",1
 "AS396420","Valley Fiber Ltd.",1
+"AS397031","GALAXYGATE, LLC",1
 "AS397373","H4Y Technologies LLC",1
 "AS39798","MivoCloud SRL",1
 "AS39811","MTS PJSC",1
