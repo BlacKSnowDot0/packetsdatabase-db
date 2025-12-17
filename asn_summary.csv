@@ -2,13 +2,13 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87847
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22240
-"AS398324","Censys, Inc.",15214
+"AS398324","Censys, Inc.",15218
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10735
 "AS14061","DigitalOcean, LLC",8544
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6038
-"AS4134","Chinanet",5087
+"AS4134","Chinanet",5091
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4459
 "AS16509","Amazon.com, Inc.",4378
@@ -63,7 +63,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",574
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS53667","FranTech Solutions",546
+"AS53667","FranTech Solutions",547
 "AS9829","Bharat Sanchar Nigam Ltd",540
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
@@ -102,7 +102,7 @@ ASN,Organization,IP_Count
 "AS12555","Data-center IMAQLIQ Ltd.",201
 "AS63199","CDS Global Cloud Co., Ltd",189
 "AS7552","Viettel Group",182
-"AS50219","LNK SYSTEMS MUNTENIA SRL",178
+"AS50219","LNK SYSTEMS MUNTENIA SRL",179
 "AS401116","Nybula LLC",170
 "AS42237","w1n ltd",165
 "AS34984","Superonline Iletisim Hizmetleri A.S.",161
@@ -208,7 +208,7 @@ ASN,Organization,IP_Count
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS262378","Compuservice Empreendimentos Ltda",42
 "AS7738","V tal",42
-"AS23969","TOT Public Company Limited",40
+"AS23969","TOT Public Company Limited",41
 "AS27699","TELEFÔNICA BRASIL S.A",40
 "AS43641","SOLLUTIUM EU Sp z.o.o.",40
 "AS5089","Virgin Media Limited",40
@@ -501,6 +501,7 @@ ASN,Organization,IP_Count
 "AS8346","SONATEL-AS Autonomous System",9
 "AS9038","Batelco Jordan",9
 "AS11172","Alestra, S. de R.L. de C.V.",8
+"AS11888","Television Internacional, S.A. de C.V.",8
 "AS13287","FALBOX S.L.",8
 "AS133982","Excitel Broadband Private Limited",8
 "AS138754","Kerala Vision Broad Band Private Limited",8
@@ -538,7 +539,6 @@ ASN,Organization,IP_Count
 "AS8386","VODAFONE NET ILETISIM HIZMETLERI ANONIM SIRKETI",8
 "AS8551","Bezeq International Ltd.",8
 "AS9541","Cyber Internet Services (Private) Limited",8
-"AS11888","Television Internacional, S.A. de C.V.",7
 "AS1257","Tele2 Sverige AB",7
 "AS133661","Netplus Broadband Services Private Limited",7
 "AS135478","PT. Cyberindo Aditama",7
