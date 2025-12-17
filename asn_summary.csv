@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2572
 "AS23470","ReliableSite.Net LLC",2483
 "AS9808","China Mobile",2084
-"AS202425","IP Volume inc",1965
+"AS202425","IP Volume inc",1966
 "AS214295","SKYNET NETWORK LTD",1631
 "AS32475","Internap Holding LLC",1629
 "AS209605","UAB Host Baltic",1545
@@ -1036,6 +1036,7 @@ ASN,Organization,IP_Count
 "AS55685","PT Jala Lintas Media",3
 "AS56400","SPD Chernega Aleksandr Anatolevich",3
 "AS56478","Hyperoptic Ltd",3
+"AS58087","Florian Kolb",3
 "AS58715","Earth Telecommunication ( pvt ) Limited",3
 "AS59497","Buknet LLC",3
 "AS6057","Administracion Nacional de Telecomunicaciones",3
@@ -1486,7 +1487,6 @@ ASN,Organization,IP_Count
 "AS56465","Therecom Ltd",2
 "AS56607","Privately owned entrepreneur Chabanov Andrey Alexandrovich",2
 "AS57494","Adman LLC",2
-"AS58087","Florian Kolb",2
 "AS58291","ColoCenter b.v.",2
 "AS58309","Langate Ltd",2
 "AS58397","PT Infinys System Indonesia",2
