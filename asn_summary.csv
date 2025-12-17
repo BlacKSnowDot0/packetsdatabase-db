@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87847
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22237
-"AS398324","Censys, Inc.",15191
+"AS398324","Censys, Inc.",15193
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10733
 "AS14061","DigitalOcean, LLC",8539
@@ -25,15 +25,15 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2572
 "AS23470","ReliableSite.Net LLC",2482
 "AS9808","China Mobile",2084
-"AS202425","IP Volume inc",1963
+"AS202425","IP Volume inc",1965
 "AS214295","SKYNET NETWORK LTD",1631
-"AS32475","Internap Holding LLC",1628
+"AS32475","Internap Holding LLC",1629
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1496
 "AS36352","HostPapa",1480
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1440
-"AS13335","Cloudflare, Inc.",1434
+"AS13335","Cloudflare, Inc.",1435
 "AS48925","VibeGAMES B.V.",1426
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1261
@@ -142,9 +142,9 @@ ASN,Organization,IP_Count
 "AS22773","Cox Communications Inc.",79
 "AS200019","ALEXHOST SRL",78
 "AS3920","ESTOXY OU",78
+"AS30083","velia.net",77
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",76
-"AS30083","velia.net",76
 "AS32475","SingleHop LLC",75
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",74
 "AS31898","Oracle Corporation",74
