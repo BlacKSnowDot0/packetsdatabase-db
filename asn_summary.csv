@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87847
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87856
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22242
-"AS398324","Censys, Inc.",15225
+"AS398324","Censys, Inc.",15226
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10736
-"AS14061","DigitalOcean, LLC",8545
+"AS14061","DigitalOcean, LLC",8552
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6039
 "AS4134","Chinanet",5102
@@ -22,7 +22,7 @@ ASN,Organization,IP_Count
 "AS8075","Microsoft Corporation",2896
 "AS6939","Hurricane Electric LLC",2799
 "AS213412","ONYPHE SAS",2795
-"AS142002","Scloud Pte Ltd",2572
+"AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2497
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1968
@@ -55,7 +55,7 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",728
 "AS14618","Amazon.com, Inc.",725
 "AS4837","CHINA UNICOM China169 Backbone",612
-"AS12876","ONLINE S.A.S.",607
+"AS12876","ONLINE S.A.S.",608
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS201814","MEVSPACE sp. z o.o.",592
 "AS51115","HLL LLC",586
@@ -139,7 +139,7 @@ ASN,Organization,IP_Count
 "AS58461","Chinanet",85
 "AS8402","PJSC ""Vimpelcom""",85
 "AS23724","IDC, China Telecommunications Corporation",83
-"AS30083","velia.net",81
+"AS30083","velia.net",82
 "AS22773","Cox Communications Inc.",79
 "AS200019","ALEXHOST SRL",78
 "AS3920","ESTOXY OU",78
@@ -819,6 +819,7 @@ ASN,Organization,IP_Count
 "AS399296","Rackdog, LLC",4
 "AS400391","Pacific Wyyerd LLC",4
 "AS42961","Mobile Telecommunications Company",4
+"AS43588","IM Level 7 SRL",4
 "AS43612","Company for communications services A1 Makedonija DOOEL Skopje",4
 "AS43754","Asiatech Data Transmission company",4
 "AS44395","Ucom CJSC",4
@@ -1009,7 +1010,6 @@ ASN,Organization,IP_Count
 "AS42772","Unitary enterprise A1",3
 "AS43047","Stream-Network Ltd.",3
 "AS43350","NForce Entertainment B.V.",3
-"AS43588","IM Level 7 SRL",3
 "AS44866","FOP Fedasiuk Oksana Petrivna",3
 "AS44925","1984 ehf",3
 "AS45544","SUPERDATA-VN",3
