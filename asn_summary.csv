@@ -1,13 +1,13 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87847
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
-"AS211298","Driftnet Ltd",22241
+"AS211298","Driftnet Ltd",22242
 "AS398324","Censys, Inc.",15225
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10736
-"AS14061","DigitalOcean, LLC",8544
+"AS14061","DigitalOcean, LLC",8545
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6038
+"AS16276","OVH SAS",6039
 "AS4134","Chinanet",5102
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4459
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3247
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2896
-"AS6939","Hurricane Electric LLC",2797
+"AS6939","Hurricane Electric LLC",2799
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2572
 "AS23470","ReliableSite.Net LLC",2497
@@ -776,6 +776,7 @@ ASN,Organization,IP_Count
 "AS211301","Collin Schneeweiss trading as Unesty Company",4
 "AS212042","Istqrar for Servers Services Ltd",4
 "AS212271","Cinzia Tocci trading as C1V",4
+"AS212815","Dyjix SAS",4
 "AS21334","One Hungary Ltd.",4
 "AS214996","netcup GmbH",4
 "AS215439","PLAY2GO INTERNATIONAL LIMITED",4
@@ -924,7 +925,6 @@ ASN,Organization,IP_Count
 "AS20454","SECURED SERVERS LLC",3
 "AS208583","Baffin Bay Networks AB",3
 "AS211826","Istqrar for Servers Services Ltd",3
-"AS212815","Dyjix SAS",3
 "AS213354","INTERNATIONAL HOSTING SOLUTIONS LLP",3
 "AS214382","Bulent Aydin trading as Hostlayici",3
 "AS21499","Host Europe GmbH",3
