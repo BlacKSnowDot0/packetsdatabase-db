@@ -1,7 +1,7 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87847
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
-"AS211298","Driftnet Ltd",22237
+"AS211298","Driftnet Ltd",22239
 "AS398324","Censys, Inc.",15203
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10735
@@ -27,7 +27,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1966
 "AS214295","SKYNET NETWORK LTD",1631
-"AS32475","Internap Holding LLC",1630
+"AS32475","Internap Holding LLC",1631
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1496
 "AS36352","HostPapa",1480
@@ -55,7 +55,7 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",728
 "AS14618","Amazon.com, Inc.",725
 "AS4837","CHINA UNICOM China169 Backbone",612
-"AS12876","ONLINE S.A.S.",606
+"AS12876","ONLINE S.A.S.",607
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS201814","MEVSPACE sp. z o.o.",592
 "AS3462","Chunghwa Telecom Co., Ltd.",585
@@ -117,7 +117,7 @@ ASN,Organization,IP_Count
 "AS19905","Neustar Security Services",127
 "AS151185","China Telecom",123
 "AS36007","Kamatera, Inc.",122
-"AS8560","IONOS SE",118
+"AS8560","IONOS SE",119
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",115
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS4766","Korea Telecom",113
@@ -140,8 +140,8 @@ ASN,Organization,IP_Count
 "AS8402","PJSC ""Vimpelcom""",85
 "AS23724","IDC, China Telecommunications Corporation",83
 "AS22773","Cox Communications Inc.",79
+"AS30083","velia.net",79
 "AS200019","ALEXHOST SRL",78
-"AS30083","velia.net",78
 "AS3920","ESTOXY OU",78
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",76
