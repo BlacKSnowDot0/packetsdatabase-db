@@ -20,8 +20,8 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3245
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2893
+"AS6939","Hurricane Electric LLC",2796
 "AS213412","ONYPHE SAS",2795
-"AS6939","Hurricane Electric LLC",2795
 "AS142002","Scloud Pte Ltd",2572
 "AS23470","ReliableSite.Net LLC",2483
 "AS9808","China Mobile",2084
@@ -111,7 +111,7 @@ ASN,Organization,IP_Count
 "AS14956","RouterHosting LLC",141
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
-"AS215240","Silent Connection Ltd.",135
+"AS215240","Silent Connection Ltd.",136
 "AS13238","YANDEX LLC",132
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
@@ -145,8 +145,8 @@ ASN,Organization,IP_Count
 "AS3920","ESTOXY OU",78
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",76
+"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",75
 "AS32475","SingleHop LLC",75
-"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",74
 "AS31898","Oracle Corporation",74
 "AS56046","China Mobile Communications Corporation",74
 "AS150263","PT Alnet Telekomunikasi Indonesia",73
