@@ -12,10 +12,10 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4459
 "AS16509","Amazon.com, Inc.",4378
-"AS45102","Alibaba (US) Technology Co., Ltd.",4179
+"AS45102","Alibaba (US) Technology Co., Ltd.",4180
 "AS396998","Path Network, Inc.",3992
 "AS0","",3795
-"AS63949","Akamai Technologies, Inc.",3674
+"AS63949","Akamai Technologies, Inc.",3675
 "AS15169","Google LLC",3577
 "AS51396","Pfcloud UG",3246
 "AS398705","Censys, Inc.",3238
@@ -23,7 +23,7 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2797
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2572
-"AS23470","ReliableSite.Net LLC",2483
+"AS23470","ReliableSite.Net LLC",2496
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1966
 "AS214295","SKYNET NETWORK LTD",1631
@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS48925","VibeGAMES B.V.",1426
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1262
-"AS22552","eSited Solutions",1195
+"AS22552","eSited Solutions",1196
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
@@ -45,7 +45,7 @@ ASN,Organization,IP_Count
 "AS208684","BHA CONSEIL SARL",1020
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",871
-"AS51167","Contabo GmbH",852
+"AS51167","Contabo GmbH",853
 "AS215925","VPSVAULT.HOST LTD",849
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -139,7 +139,7 @@ ASN,Organization,IP_Count
 "AS58461","Chinanet",85
 "AS8402","PJSC ""Vimpelcom""",85
 "AS23724","IDC, China Telecommunications Corporation",83
-"AS30083","velia.net",80
+"AS30083","velia.net",81
 "AS22773","Cox Communications Inc.",79
 "AS200019","ALEXHOST SRL",78
 "AS3920","ESTOXY OU",78
@@ -178,10 +178,10 @@ ASN,Organization,IP_Count
 "AS20001","Charter Communications Inc",58
 "AS20278","Nexeon Technologies, Inc.",57
 "AS48090","PPTECHNOLOGY LIMITED",56
+"AS12816","Leibniz-Rechenzentrum",55
 "AS18345","Servers Australia Pty. Ltd",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
 "AS30633","Leaseweb USA, Inc.",55
-"AS12816","Leibniz-Rechenzentrum",54
 "AS213877","u1host ltd",54
 "AS30058","FDCservers.net",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
