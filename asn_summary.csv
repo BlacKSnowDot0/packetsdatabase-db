@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87856
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22242
-"AS398324","Censys, Inc.",15231
+"AS398324","Censys, Inc.",15232
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10737
-"AS14061","DigitalOcean, LLC",8554
+"AS14061","DigitalOcean, LLC",8555
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6039
 "AS4134","Chinanet",5102
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2497
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1969
-"AS32475","Internap Holding LLC",1634
+"AS32475","Internap Holding LLC",1635
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1497
@@ -84,7 +84,7 @@ ASN,Organization,IP_Count
 "AS45899","VNPT Corp",317
 "AS208843","Alpha Strike Labs GmbH",307
 "AS24863","LINKdotNET AS number",307
-"AS213613","BOTSHIELD LTD",304
+"AS213613","BOTSHIELD LTD",305
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",298
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
@@ -138,8 +138,8 @@ ASN,Organization,IP_Count
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
 "AS8402","PJSC ""Vimpelcom""",85
+"AS30083","velia.net",84
 "AS23724","IDC, China Telecommunications Corporation",83
-"AS30083","velia.net",83
 "AS22773","Cox Communications Inc.",80
 "AS200019","ALEXHOST SRL",78
 "AS3920","ESTOXY OU",78
@@ -450,6 +450,7 @@ ASN,Organization,IP_Count
 "AS200651","FlokiNET ehf",11
 "AS205119","TELEKS DOOEL Skopje",11
 "AS206804","EstNOC OY",11
+"AS209588","Flyservers S.A.",11
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
 "AS24547","China Mobile",11
 "AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",11
@@ -461,7 +462,6 @@ ASN,Organization,IP_Count
 "AS58563","CHINANET Hubei province network",11
 "AS149359","PT Persada Data Multimedia",10
 "AS153443","VPSRE.NET LLC",10
-"AS209588","Flyservers S.A.",10
 "AS24835","Vodafone Data - Egypt",10
 "AS25019","Saudi Telecom Company JSC",10
 "AS2516","KDDI CORPORATION",10
