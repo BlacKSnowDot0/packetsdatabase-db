@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87858
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
-"AS211298","Driftnet Ltd",22246
-"AS398324","Censys, Inc.",15246
+"AS211298","Driftnet Ltd",22247
+"AS398324","Censys, Inc.",15251
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10739
 "AS14061","DigitalOcean, LLC",8562
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2502
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1972
-"AS32475","Internap Holding LLC",1639
+"AS32475","Internap Holding LLC",1640
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1498
@@ -49,7 +49,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",849
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
-"AS20052","Arbor Networks, Inc.",838
+"AS20052","Arbor Networks, Inc.",839
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",756
 "AS10439","CariNet, Inc.",728
@@ -60,7 +60,7 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",592
 "AS51115","HLL LLC",586
 "AS3462","Chunghwa Telecom Co., Ltd.",585
-"AS9009","M247 Europe SRL",575
+"AS9009","M247 Europe SRL",576
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS53667","FranTech Solutions",547
