@@ -109,7 +109,7 @@ ASN,Organization,IP_Count
 "AS262551","Farol Telecom",154
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",143
-"AS215240","Silent Connection Ltd.",142
+"AS215240","Silent Connection Ltd.",143
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
 "AS13238","YANDEX LLC",132
@@ -605,6 +605,7 @@ ASN,Organization,IP_Count
 "AS198323","TOV Informatsiyni Kirovohrads'ki Systemy",6
 "AS201838","Community Fibre Limited",6
 "AS203020","HostRoyale Technologies Pvt Ltd",6
+"AS207957","SERV.HOST GROUP LTD",6
 "AS210538","KEYUBU Internet ve Bilisim Tic. Ltd. Sti.",6
 "AS21056","Vianova S.p.A",6
 "AS212219","HOSTING DUNYAM BILISIM TEKNOLOJILERI TICARET LIMITED SIRKETI",6
@@ -679,7 +680,6 @@ ASN,Organization,IP_Count
 "AS202468","Noyan Abr Arvan Co. ( Private Joint Stock)",5
 "AS20412","Clarity Telecom LLC",5
 "AS207656","Epinatura LLC",5
-"AS207957","SERV.HOST GROUP LTD",5
 "AS21246","IPKO Telecommunications LLC",5
 "AS212552","BitCommand LLC",5
 "AS212695","Link Telecom Service Ltd",5
