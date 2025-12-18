@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87858
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
-"AS211298","Driftnet Ltd",22251
-"AS398324","Censys, Inc.",15267
+"AS211298","Driftnet Ltd",22252
+"AS398324","Censys, Inc.",15268
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10742
 "AS14061","DigitalOcean, LLC",8567
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3249
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2898
-"AS6939","Hurricane Electric LLC",2807
+"AS6939","Hurricane Electric LLC",2808
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2504
@@ -28,8 +28,8 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1976
 "AS32475","Internap Holding LLC",1646
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1547
-"AS49870","Alsycon B.V.",1498
+"AS209605","UAB Host Baltic",1548
+"AS49870","Alsycon B.V.",1499
 "AS36352","HostPapa",1481
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS13335","Cloudflare, Inc.",1441
@@ -52,10 +52,10 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",839
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",756
-"AS10439","CariNet, Inc.",728
+"AS10439","CariNet, Inc.",729
 "AS14618","Amazon.com, Inc.",726
 "AS4837","CHINA UNICOM China169 Backbone",613
-"AS12876","ONLINE S.A.S.",609
+"AS12876","ONLINE S.A.S.",610
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS201814","MEVSPACE sp. z o.o.",592
 "AS51115","HLL LLC",587
@@ -259,6 +259,7 @@ ASN,Organization,IP_Count
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",28
 "AS141679","China Telecom",28
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",28
+"AS197540","netcup GmbH",28
 "AS24940","Hetzner Online GmbH",28
 "AS30860","Virtual Systems LLC",28
 "AS329490","Promethean Consulting Limited",28
@@ -266,7 +267,6 @@ ASN,Organization,IP_Count
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS58212","dataforest GmbH",28
 "AS17995","PT iForte Global Internet",27
-"AS197540","netcup GmbH",27
 "AS34534","FBW NETWORKS SAS",27
 "AS4713","NTT Communications Corporation",27
 "AS53118","NETLINE TELECOM",27
