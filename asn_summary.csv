@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87858
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22252
-"AS398324","Censys, Inc.",15279
+"AS398324","Censys, Inc.",15280
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10746
 "AS14061","DigitalOcean, LLC",8569
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3577
 "AS51396","Pfcloud UG",3249
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2898
+"AS8075","Microsoft Corporation",2899
 "AS6939","Hurricane Electric LLC",2808
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
@@ -58,7 +58,7 @@ ASN,Organization,IP_Count
 "AS12876","ONLINE S.A.S.",611
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS201814","MEVSPACE sp. z o.o.",592
-"AS51115","HLL LLC",589
+"AS51115","HLL LLC",590
 "AS3462","Chunghwa Telecom Co., Ltd.",585
 "AS9009","M247 Europe SRL",576
 "AS31148","Freenet LTD",558
@@ -104,8 +104,8 @@ ASN,Organization,IP_Count
 "AS7552","Viettel Group",182
 "AS50219","LNK SYSTEMS MUNTENIA SRL",179
 "AS401116","Nybula LLC",170
+"AS42237","w1n ltd",166
 "AS34984","Superonline Iletisim Hizmetleri A.S.",165
-"AS42237","w1n ltd",165
 "AS262551","Farol Telecom",154
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",143
@@ -150,7 +150,7 @@ ASN,Organization,IP_Count
 "AS150263","PT Alnet Telekomunikasi Indonesia",74
 "AS31898","Oracle Corporation",74
 "AS56046","China Mobile Communications Corporation",74
-"AS200514","KnownSRV Ltd.",72
+"AS200514","KnownSRV Ltd.",73
 "AS55720","Gigabit Hosting Sdn Bhd",70
 "AS2856","British Telecommunications PLC",69
 "AS52053","REDHEBERG Association declaree",69
@@ -389,6 +389,7 @@ ASN,Organization,IP_Count
 "AS28201","Companhia Itabirana Telecomunicações Ltda",15
 "AS30600","Metronet",15
 "AS31113","Artkomm LLC",15
+"AS32613","Leaseweb Canada Inc.",15
 "AS397283","RocketNode Inc",15
 "AS48282","Hosting technology LTD",15
 "AS6327","Shaw Communications Inc.",15
@@ -403,7 +404,6 @@ ASN,Organization,IP_Count
 "AS266015","JC2000 Telecomunicações Ltda",14
 "AS27947","Telconet S.A",14
 "AS3243","MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.",14
-"AS32613","Leaseweb Canada Inc.",14
 "AS3352","TELEFONICA DE ESPANA S.A.U.",14
 "AS37457","Telkom SA Ltd.",14
 "AS4808","China Unicom Beijing Province Network",14
