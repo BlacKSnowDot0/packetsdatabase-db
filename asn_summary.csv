@@ -23,7 +23,7 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2803
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
-"AS23470","ReliableSite.Net LLC",2502
+"AS23470","ReliableSite.Net LLC",2503
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1973
 "AS32475","Internap Holding LLC",1640
@@ -45,7 +45,7 @@ ASN,Organization,IP_Count
 "AS208684","BHA CONSEIL SARL",1020
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",871
-"AS51167","Contabo GmbH",855
+"AS51167","Contabo GmbH",856
 "AS215925","VPSVAULT.HOST LTD",850
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -164,9 +164,9 @@ ASN,Organization,IP_Count
 "AS6128","Cablevision Systems Corp.",66
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
+"AS149746","PT Blip Integrator Provider",64
 "AS44592","SkyLink Data Center BV",64
 "AS5650","Frontier Communications of America, Inc.",64
-"AS149746","PT Blip Integrator Provider",63
 "AS17378","TierPoint, LLC",63
 "AS19318","Interserver, Inc",63
 "AS140717","China Unicom",61
@@ -843,6 +843,7 @@ ASN,Organization,IP_Count
 "AS5378","Vodafone Limited",4
 "AS5416","BEYON B.S.C.",4
 "AS57043","HOSTKEY B.V.",4
+"AS58087","Florian Kolb",4
 "AS58369","PT. Fiber Networks Indonesia",4
 "AS59142","Pemerintah Kota Batam",4
 "AS60404","The Infrastructure Group B.V.",4
@@ -1037,7 +1038,6 @@ ASN,Organization,IP_Count
 "AS55685","PT Jala Lintas Media",3
 "AS56400","SPD Chernega Aleksandr Anatolevich",3
 "AS56478","Hyperoptic Ltd",3
-"AS58087","Florian Kolb",3
 "AS58715","Earth Telecommunication ( pvt ) Limited",3
 "AS59497","Buknet LLC",3
 "AS6057","Administracion Nacional de Telecomunicaciones",3
