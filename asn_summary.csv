@@ -1,7 +1,7 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87858
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
-"AS211298","Driftnet Ltd",22247
+"AS211298","Driftnet Ltd",22248
 "AS398324","Censys, Inc.",15256
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10739
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1974
 "AS32475","Internap Holding LLC",1641
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1545
+"AS209605","UAB Host Baltic",1546
 "AS49870","Alsycon B.V.",1498
 "AS36352","HostPapa",1481
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -42,7 +42,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
-"AS208684","BHA CONSEIL SARL",1020
+"AS208684","BHA CONSEIL SARL",1021
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",871
 "AS51167","Contabo GmbH",856
@@ -135,7 +135,7 @@ ASN,Organization,IP_Count
 "AS63018","Dedicated.com",92
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS16735","ALGAR TELECOM S/A",88
-"AS30083","velia.net",87
+"AS30083","velia.net",88
 "AS8402","PJSC ""Vimpelcom""",86
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
@@ -423,6 +423,7 @@ ASN,Organization,IP_Count
 "AS28840","PJSC ""TATTELECOM""",13
 "AS29465","MTN NIGERIA Communication limited",13
 "AS37105","RAIN GROUP HOLDINGS (PTY) LTD",13
+"AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",13
 "AS38841","kbro CO. Ltd.",13
 "AS50304","Blix Solutions AS",13
 "AS53006","ALGAR TELECOM S/A",13
@@ -435,7 +436,6 @@ ASN,Organization,IP_Count
 "AS35297","Dataline LLC",12
 "AS36992","ETISALAT MISR",12
 "AS38264","Wateen Telecom Limited",12
-"AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",12
 "AS400992","ZhouyiSat Communications",12
 "AS41075","ATW Internet Kft.",12
 "AS41436","Kamatera Inc",12
