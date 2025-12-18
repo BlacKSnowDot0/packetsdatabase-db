@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87858
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22248
-"AS398324","Censys, Inc.",15260
+"AS398324","Censys, Inc.",15261
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10741
 "AS14061","DigitalOcean, LLC",8565
@@ -20,15 +20,15 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3249
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2898
-"AS6939","Hurricane Electric LLC",2803
+"AS6939","Hurricane Electric LLC",2804
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2503
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1975
-"AS32475","Internap Holding LLC",1642
+"AS32475","Internap Holding LLC",1643
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1546
+"AS209605","UAB Host Baltic",1547
 "AS49870","Alsycon B.V.",1498
 "AS36352","HostPapa",1481
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1440
 "AS48925","VibeGAMES B.V.",1426
 "AS215269","LAZYCLOUD LTD",1312
-"AS174","Cogent Communications",1267
+"AS174","Cogent Communications",1268
 "AS22552","eSited Solutions",1197
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
@@ -177,12 +177,12 @@ ASN,Organization,IP_Count
 "AS49544","i3D.net B.V",59
 "AS20001","Charter Communications Inc",58
 "AS20278","Nexeon Technologies, Inc.",57
+"AS30633","Leaseweb USA, Inc.",56
 "AS46475","Limestone Networks, Inc.",56
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS12816","Leibniz-Rechenzentrum",55
 "AS18345","Servers Australia Pty. Ltd",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
-"AS30633","Leaseweb USA, Inc.",55
 "AS213877","u1host ltd",54
 "AS30058","FDCservers.net",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
@@ -479,6 +479,7 @@ ASN,Organization,IP_Count
 "AS9930","TT DOTCOM SDN BHD",10
 "AS12353","Vodafone Portugal - Communicacoes Pessoais S.A.",9
 "AS131596","TBC",9
+"AS13287","FALBOX S.L.",9
 "AS133481","ADVANCED WIRELESS NETWORK COMPANY LIMITED",9
 "AS135905","VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",9
 "AS135918","VIET DIGITAL TECHNOLOGY LIABILITY COMPANY",9
@@ -502,7 +503,6 @@ ASN,Organization,IP_Count
 "AS9038","Batelco Jordan",9
 "AS11172","Alestra, S. de R.L. de C.V.",8
 "AS11888","Television Internacional, S.A. de C.V.",8
-"AS13287","FALBOX S.L.",8
 "AS133982","Excitel Broadband Private Limited",8
 "AS138754","Kerala Vision Broad Band Private Limited",8
 "AS141295","Madhya Pradesh Agency For Promotion   Of Information Technology",8
