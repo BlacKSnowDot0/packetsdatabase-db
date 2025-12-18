@@ -20,13 +20,13 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3249
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2898
-"AS6939","Hurricane Electric LLC",2804
+"AS6939","Hurricane Electric LLC",2805
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2503
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1975
-"AS32475","Internap Holding LLC",1643
+"AS32475","Internap Holding LLC",1644
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1547
 "AS49870","Alsycon B.V.",1498
@@ -124,8 +124,8 @@ ASN,Organization,IP_Count
 "AS208287","DC Host INC",110
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",109
 "AS40021","Nubes, LLC",107
+"AS47331","TTNet A.S.",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
-"AS47331","TTNet A.S.",106
 "AS199785","Cloud Hosting Solutions, Limited.",102
 "AS136435","ELITE COMMUNICATION",100
 "AS11320","LightEdge Solutions",93
@@ -162,9 +162,9 @@ ASN,Organization,IP_Count
 "AS57588","Hayat for Internet & communication LLC",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
 "AS6128","Cablevision Systems Corp.",66
+"AS149746","PT Blip Integrator Provider",65
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
-"AS149746","PT Blip Integrator Provider",64
 "AS44592","SkyLink Data Center BV",64
 "AS5650","Frontier Communications of America, Inc.",64
 "AS17378","TierPoint, LLC",63
@@ -1383,6 +1383,7 @@ ASN,Organization,IP_Count
 "AS37642","Comnet Pty Ltd",2
 "AS37693","OOREDOO TUNISIE SA",2
 "AS38200","BTS Communications (BD) Ltd",2
+"AS38700","SMILESERV",2
 "AS38732","CMC Telecom Infrastructure Company",2
 "AS39232","Uninet LLC",2
 "AS39308","ANDISHE SABZ KHAZAR CO. P.J.S.",2
@@ -1913,6 +1914,7 @@ ASN,Organization,IP_Count
 "AS198760","Quattre Internet SL",1
 "AS199173","TechnoLux Ltd.",1
 "AS199415","Association YORKHOST",1
+"AS199496","E-PORTS AMPLE DE BANDA I INTERNET S.L.",1
 "AS199578","Technische Universitaet Kaiserslautern",1
 "AS200081","Netversor GmbH",1
 "AS200218","Tvoy Novy Telecom LLP",1
@@ -2683,7 +2685,6 @@ ASN,Organization,IP_Count
 "AS38600","Smart Axiata Co., Ltd.",1
 "AS38669","LG HelloVision Corp.",1
 "AS38673","Korea Cable TV Kwangju Broadcasting",1
-"AS38700","SMILESERV",1
 "AS38713","Satcomm (Pvt.) Ltd.",1
 "AS38758","PT. HIPERNET INDODATA",1
 "AS38778","PT. Dutakom Wibawa Putra",1
