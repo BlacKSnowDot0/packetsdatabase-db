@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87858
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22246
-"AS398324","Censys, Inc.",15241
+"AS398324","Censys, Inc.",15242
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10739
-"AS14061","DigitalOcean, LLC",8558
+"AS14061","DigitalOcean, LLC",8560
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6044
 "AS4134","Chinanet",5105
@@ -14,8 +14,8 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4378
 "AS45102","Alibaba (US) Technology Co., Ltd.",4181
 "AS396998","Path Network, Inc.",3992
-"AS0","",3799
-"AS63949","Akamai Technologies, Inc.",3677
+"AS0","",3800
+"AS63949","Akamai Technologies, Inc.",3678
 "AS15169","Google LLC",3577
 "AS51396","Pfcloud UG",3249
 "AS398705","Censys, Inc.",3238
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2501
 "AS9808","China Mobile",2084
-"AS202425","IP Volume inc",1971
+"AS202425","IP Volume inc",1972
 "AS32475","Internap Holding LLC",1639
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1545
@@ -135,9 +135,9 @@ ASN,Organization,IP_Count
 "AS63018","Dedicated.com",92
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS16735","ALGAR TELECOM S/A",88
+"AS30083","velia.net",86
 "AS8402","PJSC ""Vimpelcom""",86
 "AS271795","SERVITELCONET CIA. LTDA.",85
-"AS30083","velia.net",85
 "AS58461","Chinanet",85
 "AS23724","IDC, China Telecommunications Corporation",83
 "AS22773","Cox Communications Inc.",80
