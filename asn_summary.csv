@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87858
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22247
-"AS398324","Censys, Inc.",15253
+"AS398324","Censys, Inc.",15256
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10739
 "AS14061","DigitalOcean, LLC",8563
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2503
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1974
-"AS32475","Internap Holding LLC",1640
+"AS32475","Internap Holding LLC",1641
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1545
 "AS49870","Alsycon B.V.",1498
@@ -98,7 +98,7 @@ ASN,Organization,IP_Count
 "AS12389","PJSC Rostelecom",222
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
-"AS29484","Ruhr-Universitaet Bochum",213
+"AS29484","Ruhr-Universitaet Bochum",214
 "AS12555","Data-center IMAQLIQ Ltd.",201
 "AS63199","CDS Global Cloud Co., Ltd",190
 "AS7552","Viettel Group",182
@@ -256,6 +256,7 @@ ASN,Organization,IP_Count
 "AS6134","XNNET LLC",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
+"AS132203","Shenzhen Tencent Computer Systems Company Limited",28
 "AS141679","China Telecom",28
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",28
 "AS24940","Hetzner Online GmbH",28
@@ -264,7 +265,6 @@ ASN,Organization,IP_Count
 "AS3786","LG DACOM Corporation",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS58212","dataforest GmbH",28
-"AS132203","Shenzhen Tencent Computer Systems Company Limited",27
 "AS17995","PT iForte Global Internet",27
 "AS197540","netcup GmbH",27
 "AS34534","FBW NETWORKS SAS",27
