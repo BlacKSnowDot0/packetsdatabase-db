@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87857
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22245
-"AS398324","Censys, Inc.",15239
+"AS398324","Censys, Inc.",15240
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10738
 "AS14061","DigitalOcean, LLC",8558
@@ -23,7 +23,7 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2801
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
-"AS23470","ReliableSite.Net LLC",2499
+"AS23470","ReliableSite.Net LLC",2500
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1971
 "AS32475","Internap Holding LLC",1638
@@ -33,7 +33,7 @@ ASN,Organization,IP_Count
 "AS36352","HostPapa",1480
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1440
-"AS13335","Cloudflare, Inc.",1438
+"AS13335","Cloudflare, Inc.",1439
 "AS48925","VibeGAMES B.V.",1426
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1264
@@ -104,14 +104,14 @@ ASN,Organization,IP_Count
 "AS7552","Viettel Group",182
 "AS50219","LNK SYSTEMS MUNTENIA SRL",179
 "AS401116","Nybula LLC",170
+"AS34984","Superonline Iletisim Hizmetleri A.S.",165
 "AS42237","w1n ltd",165
-"AS34984","Superonline Iletisim Hizmetleri A.S.",164
 "AS262551","Farol Telecom",154
 "AS206264","Amarutu Technology Ltd",153
-"AS14956","RouterHosting LLC",141
+"AS14956","RouterHosting LLC",142
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
-"AS215240","Silent Connection Ltd.",138
+"AS215240","Silent Connection Ltd.",139
 "AS13238","YANDEX LLC",132
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
@@ -166,9 +166,9 @@ ASN,Organization,IP_Count
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS44592","SkyLink Data Center BV",64
 "AS5650","Frontier Communications of America, Inc.",64
+"AS149746","PT Blip Integrator Provider",63
 "AS17378","TierPoint, LLC",63
 "AS19318","Interserver, Inc",63
-"AS149746","PT Blip Integrator Provider",62
 "AS140717","China Unicom",61
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",61
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
@@ -403,6 +403,7 @@ ASN,Organization,IP_Count
 "AS266015","JC2000 Telecomunicações Ltda",14
 "AS27947","Telconet S.A",14
 "AS3243","MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.",14
+"AS32613","Leaseweb Canada Inc.",14
 "AS3352","TELEFONICA DE ESPANA S.A.U.",14
 "AS37457","Telkom SA Ltd.",14
 "AS4808","China Unicom Beijing Province Network",14
@@ -421,7 +422,6 @@ ASN,Organization,IP_Count
 "AS272928","P&C ON LINE S.R.L. (NETWAY INTERNET)",13
 "AS28840","PJSC ""TATTELECOM""",13
 "AS29465","MTN NIGERIA Communication limited",13
-"AS32613","Leaseweb Canada Inc.",13
 "AS37105","RAIN GROUP HOLDINGS (PTY) LTD",13
 "AS38841","kbro CO. Ltd.",13
 "AS50304","Blix Solutions AS",13
