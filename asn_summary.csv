@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87858
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22246
-"AS398324","Censys, Inc.",15244
+"AS398324","Censys, Inc.",15246
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10739
-"AS14061","DigitalOcean, LLC",8561
+"AS14061","DigitalOcean, LLC",8562
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6044
 "AS4134","Chinanet",5105
@@ -1561,6 +1561,7 @@ ASN,Organization,IP_Count
 "AS11550","Smithville Digital, LLC",1
 "AS11650","Pioneer Long Distance Inc.",1
 "AS11830","Instituto Costarricense de Electricidad y Telecom.",1
+"AS11831","eSecureData",1
 "AS11961","Mid-Rivers Telephone Cooperative",1
 "AS12042","Consolidated Communications, Inc.",1
 "AS12097","Massillon Cable Communications",1
