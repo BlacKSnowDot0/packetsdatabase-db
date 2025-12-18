@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87858
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22248
-"AS398324","Censys, Inc.",15258
+"AS398324","Censys, Inc.",15260
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10741
-"AS14061","DigitalOcean, LLC",8564
+"AS14061","DigitalOcean, LLC",8565
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6046
 "AS4134","Chinanet",5105
@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",4182
 "AS396998","Path Network, Inc.",3992
 "AS0","",3800
-"AS63949","Akamai Technologies, Inc.",3678
+"AS63949","Akamai Technologies, Inc.",3679
 "AS15169","Google LLC",3577
 "AS51396","Pfcloud UG",3249
 "AS398705","Censys, Inc.",3238
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2503
 "AS9808","China Mobile",2084
-"AS202425","IP Volume inc",1974
+"AS202425","IP Volume inc",1975
 "AS32475","Internap Holding LLC",1642
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1546
@@ -63,7 +63,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",576
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS53667","FranTech Solutions",547
+"AS53667","FranTech Solutions",548
 "AS9829","Bharat Sanchar Nigam Ltd",542
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
@@ -119,7 +119,7 @@ ASN,Organization,IP_Count
 "AS36007","Kamatera, Inc.",122
 "AS8560","IONOS SE",120
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",115
-"AS4766","Korea Telecom",114
+"AS4766","Korea Telecom",115
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",109
@@ -134,8 +134,8 @@ ASN,Organization,IP_Count
 "AS5617","Orange Polska Spolka Akcyjna",92
 "AS63018","Dedicated.com",92
 "AS210125","PRIAM NET Sh.p.k.",89
+"AS30083","velia.net",89
 "AS16735","ALGAR TELECOM S/A",88
-"AS30083","velia.net",88
 "AS8402","PJSC ""Vimpelcom""",86
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
@@ -239,10 +239,10 @@ ASN,Organization,IP_Count
 "AS28546","Servnet Mexico, S.A. de C.V.",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS56067","Metrabyte Co.,Ltd",33
+"AS8796","FD-298-8796",33
 "AS9498","Bharti Airtel Limited",33
 "AS12912","T-Mobile Polska S.A.",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
-"AS8796","FD-298-8796",32
 "AS1241","RIPE Network Coordination Centre",31
 "AS13213","UK-2 Limited",31
 "AS17557","Pakistan Telecommuication company limited",31
@@ -460,6 +460,7 @@ ASN,Organization,IP_Count
 "AS48874","HOSTMAZE INC SRL-D",11
 "AS56694","LLC Smart Ape",11
 "AS58563","CHINANET Hubei province network",11
+"AS59134","PT. Datacomm Diangraha",11
 "AS149359","PT Persada Data Multimedia",10
 "AS153443","VPSRE.NET LLC",10
 "AS17676","SoftBank Corp.",10
@@ -475,7 +476,6 @@ ASN,Organization,IP_Count
 "AS49434","FBW NETWORKS SAS",10
 "AS52468","UFINET PANAMA S.A.",10
 "AS57269","DIGI SPAIN TELECOM S.L.U.",10
-"AS59134","PT. Datacomm Diangraha",10
 "AS9930","TT DOTCOM SDN BHD",10
 "AS12353","Vodafone Portugal - Communicacoes Pessoais S.A.",9
 "AS131596","TBC",9
