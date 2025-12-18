@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87858
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
-"AS211298","Driftnet Ltd",22248
-"AS398324","Censys, Inc.",15261
+"AS211298","Driftnet Ltd",22251
+"AS398324","Censys, Inc.",15263
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10742
-"AS14061","DigitalOcean, LLC",8565
+"AS14061","DigitalOcean, LLC",8566
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6047
 "AS4134","Chinanet",5105
@@ -23,9 +23,9 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2805
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
-"AS23470","ReliableSite.Net LLC",2503
+"AS23470","ReliableSite.Net LLC",2504
 "AS9808","China Mobile",2084
-"AS202425","IP Volume inc",1975
+"AS202425","IP Volume inc",1976
 "AS32475","Internap Holding LLC",1645
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1547
@@ -1484,6 +1484,7 @@ ASN,Organization,IP_Count
 "AS55701","PT. Usaha Adisanggoro",2
 "AS56040","China Mobile Communications Corporation",2
 "AS56048","China Mobile Communications Corporation",2
+"AS56089","OFFRATEL",2
 "AS5610","O2 Czech Republic, a.s.",2
 "AS56272","Pulse Telesystems Pvt Ltd",2
 "AS56465","Therecom Ltd",2
@@ -2952,7 +2953,6 @@ ASN,Organization,IP_Count
 "AS55799","TechAvenue Sdn Bhd",1
 "AS55821","RADIUS TELECOMS, INC.",1
 "AS55824","National Knowledge Network",1
-"AS56089","OFFRATEL",1
 "AS56150","Viet Solutions Services Trading Company Limited",1
 "AS56207","ComClark Network & Technology Corp",1
 "AS56231","MEASAT Broadcast Network Systems Sdn. Bhd.",1
