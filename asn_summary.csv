@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87858
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22247
-"AS398324","Censys, Inc.",15251
+"AS398324","Censys, Inc.",15253
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10739
-"AS14061","DigitalOcean, LLC",8562
+"AS14061","DigitalOcean, LLC",8563
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6044
 "AS4134","Chinanet",5105
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2502
 "AS9808","China Mobile",2084
-"AS202425","IP Volume inc",1972
+"AS202425","IP Volume inc",1973
 "AS32475","Internap Holding LLC",1640
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1545
@@ -46,14 +46,14 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",871
 "AS51167","Contabo GmbH",855
-"AS215925","VPSVAULT.HOST LTD",849
+"AS215925","VPSVAULT.HOST LTD",850
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS20052","Arbor Networks, Inc.",839
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",756
 "AS10439","CariNet, Inc.",728
-"AS14618","Amazon.com, Inc.",725
+"AS14618","Amazon.com, Inc.",726
 "AS4837","CHINA UNICOM China169 Backbone",612
 "AS12876","ONLINE S.A.S.",609
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -64,7 +64,7 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS53667","FranTech Solutions",547
-"AS9829","Bharat Sanchar Nigam Ltd",541
+"AS9829","Bharat Sanchar Nigam Ltd",542
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
@@ -135,7 +135,7 @@ ASN,Organization,IP_Count
 "AS63018","Dedicated.com",92
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS16735","ALGAR TELECOM S/A",88
-"AS30083","velia.net",86
+"AS30083","velia.net",87
 "AS8402","PJSC ""Vimpelcom""",86
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
@@ -281,12 +281,12 @@ ASN,Organization,IP_Count
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS18881","TELEFÔNICA BRASIL S.A",25
 "AS209","CenturyLink Communications, LLC",25
+"AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",25
 "AS24560","Bharti Airtel Limited",25
 "AS36947","Telecom Algeria",25
 "AS55836","Reliance Jio Infocomm Limited",25
 "AS58224","Iran Telecommunication Company PJS",25
 "AS197309","RS-Media LLC",24
-"AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",24
 "AS577","Bell Canada",24
 "AS60068","Datacamp Limited",24
 "AS8193","""Uzbektelekom"" Joint Stock Company",24
