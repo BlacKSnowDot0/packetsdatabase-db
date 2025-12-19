@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87859
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22253
-"AS398324","Censys, Inc.",15297
+"AS398324","Censys, Inc.",15299
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10750
 "AS14061","DigitalOcean, LLC",8578
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3249
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2901
-"AS6939","Hurricane Electric LLC",2811
+"AS6939","Hurricane Electric LLC",2812
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2507
@@ -491,6 +491,7 @@ ASN,Organization,IP_Count
 "AS213520","Senko Digital Ltd",9
 "AS214481","Wojciech Czapkowicz",9
 "AS24955","JSC ""Ufanet""",9
+"AS2527","Sony Network Communications Inc.",9
 "AS266702","MEGALINK S.R.L.",9
 "AS267280","YELLOW CONNECT MULTIMIDIA LTDA ME",9
 "AS30722","Vodafone Italia S.p.A.",9
@@ -519,7 +520,6 @@ ASN,Organization,IP_Count
 "AS2119","Telenor Norge AS",8
 "AS215730","H2NEXUS LTD",8
 "AS24086","Viettel Corporation",8
-"AS2527","Sony Network Communications Inc.",8
 "AS262459","Osirnet Info Telecom Ltda.",8
 "AS27831","Colombia Móvil",8
 "AS27967","Gobernacion de la Provincia de Buenos Aires",8
