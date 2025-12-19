@@ -4,8 +4,8 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22254
 "AS398324","Censys, Inc.",15313
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10751
-"AS14061","DigitalOcean, LLC",8588
+"AS396982","Google LLC",10752
+"AS14061","DigitalOcean, LLC",8589
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6050
 "AS4134","Chinanet",5105
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2508
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1984
-"AS32475","Internap Holding LLC",1655
+"AS32475","Internap Holding LLC",1656
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1549
 "AS49870","Alsycon B.V.",1500
@@ -102,7 +102,7 @@ ASN,Organization,IP_Count
 "AS12555","Data-center IMAQLIQ Ltd.",201
 "AS63199","CDS Global Cloud Co., Ltd",190
 "AS7552","Viettel Group",182
-"AS50219","LNK SYSTEMS MUNTENIA SRL",179
+"AS50219","LNK SYSTEMS MUNTENIA SRL",180
 "AS401116","Nybula LLC",170
 "AS34984","Superonline Iletisim Hizmetleri A.S.",168
 "AS42237","w1n ltd",166
@@ -177,8 +177,8 @@ ASN,Organization,IP_Count
 "AS49544","i3D.net B.V",59
 "AS20001","Charter Communications Inc",58
 "AS20278","Nexeon Technologies, Inc.",57
+"AS30633","Leaseweb USA, Inc.",57
 "AS46475","Limestone Networks, Inc.",57
-"AS30633","Leaseweb USA, Inc.",56
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS12816","Leibniz-Rechenzentrum",55
 "AS18345","Servers Australia Pty. Ltd",55
@@ -541,6 +541,7 @@ ASN,Organization,IP_Count
 "AS9541","Cyber Internet Services (Private) Limited",8
 "AS1257","Tele2 Sverige AB",7
 "AS133661","Netplus Broadband Services Private Limited",7
+"AS13430","THE WISP.NET CORP.",7
 "AS135478","PT. Cyberindo Aditama",7
 "AS135953","Vietnam Online Network Solution Joint Stock Compnay",7
 "AS13977","Consolidated Communications, Inc.",7
@@ -592,7 +593,6 @@ ASN,Organization,IP_Count
 "AS11562","Net Uno, C.A.",6
 "AS12975","Palestine Telecommunications Company (PALTEL)",6
 "AS132116","Ani Network Pvt Ltd",6
-"AS13430","THE WISP.NET CORP.",6
 "AS135523","Multinet Broadband",6
 "AS136188","NINGBO, ZHEJIANG Province, P.R.China.",6
 "AS13999","Mega Cable, S.A. de C.V.",6
