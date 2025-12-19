@@ -5,14 +5,14 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",15311
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10751
-"AS14061","DigitalOcean, LLC",8586
+"AS14061","DigitalOcean, LLC",8587
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6049
 "AS4134","Chinanet",5105
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4460
 "AS16509","Amazon.com, Inc.",4378
-"AS45102","Alibaba (US) Technology Co., Ltd.",4195
+"AS45102","Alibaba (US) Technology Co., Ltd.",4196
 "AS396998","Path Network, Inc.",3992
 "AS0","",3804
 "AS63949","Akamai Technologies, Inc.",3683
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2508
 "AS9808","China Mobile",2084
-"AS202425","IP Volume inc",1983
+"AS202425","IP Volume inc",1984
 "AS32475","Internap Holding LLC",1654
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1549
@@ -128,7 +128,7 @@ ASN,Organization,IP_Count
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS199785","Cloud Hosting Solutions, Limited.",102
 "AS136435","ELITE COMMUNICATION",100
-"AS30083","velia.net",94
+"AS30083","velia.net",95
 "AS11320","LightEdge Solutions",93
 "AS205352","KABELNET LTD",93
 "AS63018","Dedicated.com",93
@@ -154,11 +154,11 @@ ASN,Organization,IP_Count
 "AS2856","British Telecommunications PLC",70
 "AS55720","Gigabit Hosting Sdn Bhd",70
 "AS210644","AEZA INTERNATIONAL LTD",69
+"AS396356","Latitude.sh",69
 "AS52053","REDHEBERG Association declaree",69
 "AS834","IPXO LLC",68
 "AS215590","DpkgSoft International Limited",67
 "AS328867","Corebach Backbone SARL",67
-"AS396356","Latitude.sh",67
 "AS57588","Hayat for Internet & communication LLC",67
 "AS149746","PT Blip Integrator Provider",66
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
