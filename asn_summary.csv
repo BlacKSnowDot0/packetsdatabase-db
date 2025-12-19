@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87859
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22253
-"AS398324","Censys, Inc.",15302
+"AS398324","Censys, Inc.",15303
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10751
 "AS14061","DigitalOcean, LLC",8578
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3249
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2901
-"AS6939","Hurricane Electric LLC",2812
+"AS6939","Hurricane Electric LLC",2813
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2507
@@ -104,7 +104,7 @@ ASN,Organization,IP_Count
 "AS7552","Viettel Group",182
 "AS50219","LNK SYSTEMS MUNTENIA SRL",179
 "AS401116","Nybula LLC",170
-"AS34984","Superonline Iletisim Hizmetleri A.S.",166
+"AS34984","Superonline Iletisim Hizmetleri A.S.",167
 "AS42237","w1n ltd",166
 "AS262551","Farol Telecom",154
 "AS206264","Amarutu Technology Ltd",153
@@ -139,7 +139,7 @@ ASN,Organization,IP_Count
 "AS8402","PJSC ""Vimpelcom""",86
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
-"AS23724","IDC, China Telecommunications Corporation",83
+"AS23724","IDC, China Telecommunications Corporation",84
 "AS22773","Cox Communications Inc.",80
 "AS200019","ALEXHOST SRL",78
 "AS3920","ESTOXY OU",78
@@ -228,6 +228,7 @@ ASN,Organization,IP_Count
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",36
 "AS4760","PCCW IMS Limited",36
 "AS213790","Limited Network LTD",35
+"AS9123","TimeWeb Ltd.",35
 "AS146817","Hubei Feixun Network Co., Ltd",34
 "AS21127","Joint Stock Company TransTeleCom",34
 "AS269193","Iktelecom Ltda",34
@@ -235,7 +236,6 @@ ASN,Organization,IP_Count
 "AS34665","Petersburg Internet Network ltd.",34
 "AS4847","China Networks Inter-Exchange",34
 "AS55990","Huawei Cloud Service data center",34
-"AS9123","TimeWeb Ltd.",34
 "AS204834","Shabakieh Isfahan Co PJSC",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS56067","Metrabyte Co.,Ltd",33
