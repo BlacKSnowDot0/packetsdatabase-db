@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",15294
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10747
-"AS14061","DigitalOcean, LLC",8574
+"AS14061","DigitalOcean, LLC",8575
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6049
 "AS4134","Chinanet",5105
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4378
 "AS45102","Alibaba (US) Technology Co., Ltd.",4186
 "AS396998","Path Network, Inc.",3992
-"AS0","",3801
+"AS0","",3802
 "AS63949","Akamai Technologies, Inc.",3683
 "AS15169","Google LLC",3577
 "AS51396","Pfcloud UG",3249
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2507
 "AS9808","China Mobile",2084
-"AS202425","IP Volume inc",1979
+"AS202425","IP Volume inc",1980
 "AS32475","Internap Holding LLC",1649
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1549
@@ -82,7 +82,7 @@ ASN,Organization,IP_Count
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS214943","Railnet LLC",318
 "AS45899","VNPT Corp",318
-"AS208843","Alpha Strike Labs GmbH",311
+"AS208843","Alpha Strike Labs GmbH",312
 "AS24863","LINKdotNET AS number",307
 "AS213613","BOTSHIELD LTD",306
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",298
@@ -108,8 +108,8 @@ ASN,Organization,IP_Count
 "AS34984","Superonline Iletisim Hizmetleri A.S.",165
 "AS262551","Farol Telecom",154
 "AS206264","Amarutu Technology Ltd",153
+"AS215240","Silent Connection Ltd.",144
 "AS14956","RouterHosting LLC",143
-"AS215240","Silent Connection Ltd.",143
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
 "AS13238","YANDEX LLC",132
