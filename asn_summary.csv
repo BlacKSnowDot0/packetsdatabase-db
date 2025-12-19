@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22254
 "AS398324","Censys, Inc.",15316
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10752
+"AS396982","Google LLC",10753
 "AS14061","DigitalOcean, LLC",8591
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6051
@@ -306,6 +306,7 @@ ASN,Organization,IP_Count
 "AS5384","EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",22
 "AS63859","PT. Eka Mas Republik",22
 "AS7029","Windstream Communications LLC",22
+"AS9304","HGC Global Communications Limited",22
 "AS12479","Orange Espagne SA",21
 "AS136142","Enigma Fiber Pvt Ltd",21
 "AS138886","PT Data Buana Nusantara",21
@@ -318,7 +319,6 @@ ASN,Organization,IP_Count
 "AS50887","DC FIBER HOME SRL",21
 "AS812","Rogers Communications Canada Inc.",21
 "AS9299","Philippine Long Distance Telephone Co.",21
-"AS9304","HGC Global Communications Limited",21
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS17638","ASN for TIANJIN Provincial Net of CT",20
