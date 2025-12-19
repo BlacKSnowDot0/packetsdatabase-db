@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87861
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
-"AS211298","Driftnet Ltd",22253
-"AS398324","Censys, Inc.",15311
+"AS211298","Driftnet Ltd",22254
+"AS398324","Censys, Inc.",15312
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10751
-"AS14061","DigitalOcean, LLC",8587
+"AS14061","DigitalOcean, LLC",8588
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6049
 "AS4134","Chinanet",5105
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3249
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2901
-"AS6939","Hurricane Electric LLC",2813
+"AS6939","Hurricane Electric LLC",2814
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2508
@@ -68,7 +68,7 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
-"AS212238","Datacamp Limited",473
+"AS212238","Datacamp Limited",474
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",400
@@ -104,11 +104,11 @@ ASN,Organization,IP_Count
 "AS7552","Viettel Group",182
 "AS50219","LNK SYSTEMS MUNTENIA SRL",179
 "AS401116","Nybula LLC",170
-"AS34984","Superonline Iletisim Hizmetleri A.S.",167
+"AS34984","Superonline Iletisim Hizmetleri A.S.",168
 "AS42237","w1n ltd",166
 "AS262551","Farol Telecom",154
 "AS206264","Amarutu Technology Ltd",153
-"AS215240","Silent Connection Ltd.",145
+"AS215240","Silent Connection Ltd.",146
 "AS14956","RouterHosting LLC",143
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
@@ -118,8 +118,8 @@ ASN,Organization,IP_Count
 "AS151185","China Telecom",125
 "AS36007","Kamatera, Inc.",122
 "AS8560","IONOS SE",122
+"AS4766","Korea Telecom",116
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",115
-"AS4766","Korea Telecom",115
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",109
@@ -152,9 +152,9 @@ ASN,Organization,IP_Count
 "AS56046","China Mobile Communications Corporation",74
 "AS200514","KnownSRV Ltd.",73
 "AS2856","British Telecommunications PLC",70
+"AS396356","Latitude.sh",70
 "AS55720","Gigabit Hosting Sdn Bhd",70
 "AS210644","AEZA INTERNATIONAL LTD",69
-"AS396356","Latitude.sh",69
 "AS52053","REDHEBERG Association declaree",69
 "AS834","IPXO LLC",68
 "AS215590","DpkgSoft International Limited",67
@@ -187,8 +187,8 @@ ASN,Organization,IP_Count
 "AS30058","FDCservers.net",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS200590","NLS Kazakhstan LLC",52
+"AS202796","JSR IT B.V.",52
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",52
-"AS202796","JSR IT B.V.",51
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",50
 "AS266181","GOLDEN LINK",48
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",47
