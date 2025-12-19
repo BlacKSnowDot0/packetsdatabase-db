@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87861
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22254
-"AS398324","Censys, Inc.",15313
+"AS398324","Censys, Inc.",15314
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10752
-"AS14061","DigitalOcean, LLC",8589
+"AS14061","DigitalOcean, LLC",8590
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6050
 "AS4134","Chinanet",5105
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2508
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1984
-"AS32475","Internap Holding LLC",1656
+"AS32475","Internap Holding LLC",1657
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1549
 "AS49870","Alsycon B.V.",1500
@@ -128,7 +128,7 @@ ASN,Organization,IP_Count
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS199785","Cloud Hosting Solutions, Limited.",102
 "AS136435","ELITE COMMUNICATION",100
-"AS30083","velia.net",95
+"AS30083","velia.net",96
 "AS11320","LightEdge Solutions",93
 "AS205352","KABELNET LTD",93
 "AS63018","Dedicated.com",93
@@ -136,8 +136,8 @@ ASN,Organization,IP_Count
 "AS5617","Orange Polska Spolka Akcyjna",92
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS16735","ALGAR TELECOM S/A",88
+"AS23724","IDC, China Telecommunications Corporation",86
 "AS8402","PJSC ""Vimpelcom""",86
-"AS23724","IDC, China Telecommunications Corporation",85
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
 "AS22773","Cox Communications Inc.",80
@@ -850,6 +850,7 @@ ASN,Organization,IP_Count
 "AS60404","The Infrastructure Group B.V.",4
 "AS7482","Asia Pacific On-line Service Inc.",4
 "AS7545","TPG Internet Pty Ltd",4
+"AS786","RIPE Network Coordination Centre",4
 "AS8376","Jordan Data Communications Company LLC",4
 "AS8781","Ooredoo Q.S.C.",4
 "AS8866","Vivacom Bulgaria EAD",4
@@ -1054,7 +1055,6 @@ ASN,Organization,IP_Count
 "AS7122","Bell Canada",3
 "AS7643","Vietnam Posts and Telecommunications (VNPT)",3
 "AS786","Jisc Services Limited",3
-"AS786","RIPE Network Coordination Centre",3
 "AS8220","COLT Technology Services Group Limited",3
 "AS8473","Bahnhof AB",3
 "AS8585","Crnogorski Telekom a.d.Podgorica",3
