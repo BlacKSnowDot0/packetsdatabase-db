@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87861
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22253
-"AS398324","Censys, Inc.",15306
+"AS398324","Censys, Inc.",15308
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10751
 "AS14061","DigitalOcean, LLC",8580
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4460
 "AS16509","Amazon.com, Inc.",4378
-"AS45102","Alibaba (US) Technology Co., Ltd.",4188
+"AS45102","Alibaba (US) Technology Co., Ltd.",4190
 "AS396998","Path Network, Inc.",3992
 "AS0","",3803
 "AS63949","Akamai Technologies, Inc.",3683
@@ -26,13 +26,13 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2507
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1982
-"AS32475","Internap Holding LLC",1652
+"AS32475","Internap Holding LLC",1653
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1549
 "AS49870","Alsycon B.V.",1500
 "AS36352","HostPapa",1481
+"AS13335","Cloudflare, Inc.",1447
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS13335","Cloudflare, Inc.",1445
 "AS398722","Censys, Inc.",1442
 "AS48925","VibeGAMES B.V.",1426
 "AS215269","LAZYCLOUD LTD",1312
@@ -46,14 +46,14 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",871
 "AS51167","Contabo GmbH",858
-"AS215925","VPSVAULT.HOST LTD",852
+"AS215925","VPSVAULT.HOST LTD",853
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS20052","Arbor Networks, Inc.",842
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",756
 "AS10439","CariNet, Inc.",729
-"AS14618","Amazon.com, Inc.",726
+"AS14618","Amazon.com, Inc.",727
 "AS4837","CHINA UNICOM China169 Backbone",614
 "AS12876","ONLINE S.A.S.",612
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -137,9 +137,9 @@ ASN,Organization,IP_Count
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS16735","ALGAR TELECOM S/A",88
 "AS8402","PJSC ""Vimpelcom""",86
+"AS23724","IDC, China Telecommunications Corporation",85
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
-"AS23724","IDC, China Telecommunications Corporation",84
 "AS22773","Cox Communications Inc.",80
 "AS200019","ALEXHOST SRL",78
 "AS3920","ESTOXY OU",78
@@ -487,6 +487,7 @@ ASN,Organization,IP_Count
 "AS139994","PT XL Axiata Tbk",9
 "AS17451","BIZNET NETWORKS",9
 "AS18779","EGIHosting",9
+"AS206262","TelKos L.L.C",9
 "AS212504","AdKyNet SAS",9
 "AS213520","Senko Digital Ltd",9
 "AS214481","Wojciech Czapkowicz",9
@@ -514,7 +515,6 @@ ASN,Organization,IP_Count
 "AS198154","Pars Abr Toseeh Ertebatat Company",8
 "AS198361","Yaglom Labs Ltd",8
 "AS202870","Dimensione S.r.l.",8
-"AS206262","TelKos L.L.C",8
 "AS209956","Telkoturk Iletisim Hizmetleri A.S.",8
 "AS211507","Julian Achter",8
 "AS2119","Telenor Norge AS",8
@@ -581,6 +581,7 @@ ASN,Organization,IP_Count
 "AS50923","Metroset Ltd.",7
 "AS51604","JSC ""ER-Telecom Holding""",7
 "AS55423","JasTel Network",7
+"AS55699","PT. Cemerlang Multimedia",7
 "AS56971","CGI GLOBAL LIMITED",7
 "AS58821","PT Lintas Jaringan Nusantara",7
 "AS63023","GTHost",7
@@ -643,7 +644,6 @@ ASN,Organization,IP_Count
 "AS48314","Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG",6
 "AS48347","JSC Mediasoft ekspert",6
 "AS48642","Joint stock company ""For""",6
-"AS55699","PT. Cemerlang Multimedia",6
 "AS5603","Telekom Slovenije, d.d.",6
 "AS56047","China Mobile Communications Corporation",6
 "AS58495","PT Parsaoran Global Datatrans",6
@@ -942,6 +942,7 @@ ASN,Organization,IP_Count
 "AS262161","COTES Ltda.",3
 "AS262469","WISP ICONECTA SERVICOS DE REDE LTDA",3
 "AS262907","BRASIL TECNOLOGIA E PARTICIPACOES S/A",3
+"AS263269","RAGTEK TECNOLOGIA",3
 "AS263478","DUFIBRANET TELECOM LTDA",3
 "AS263627","Wnetsistem Comercio e Servicos de Informatica Ltda",3
 "AS263652","FAXT Telecomunicações Ltda.",3
@@ -1275,7 +1276,6 @@ ASN,Organization,IP_Count
 "AS262847","Hoinaski & Sklasky Ltda",2
 "AS262979","OesteLine Informática Ltda.",2
 "AS263073","DTEL TELECOM",2
-"AS263269","RAGTEK TECNOLOGIA",2
 "AS263442","GIALES FISCHER GRUTZMANN & CIA LTDA",2
 "AS263481","Nova Serv de Com Multimidia Ltda",2
 "AS263567","LOViZ Servico",2
@@ -2600,6 +2600,7 @@ ASN,Organization,IP_Count
 "AS328309","Globacom Limited",1
 "AS328341","Capricom Networks",1
 "AS328361","VOIZACOM (PTY) LTD",1
+"AS328366","FIRSTNET TECHNOLOGY SERVICES (PTY) LTD",1
 "AS328418","Olena Trading cc",1
 "AS328490","Unwired Communications Limited",1
 "AS328562","Swift Connect Private Company",1
