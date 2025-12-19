@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87859
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22253
-"AS398324","Censys, Inc.",15294
+"AS398324","Censys, Inc.",15295
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10750
-"AS14061","DigitalOcean, LLC",8576
+"AS14061","DigitalOcean, LLC",8578
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6049
 "AS4134","Chinanet",5105
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3249
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2901
-"AS6939","Hurricane Electric LLC",2810
+"AS6939","Hurricane Electric LLC",2811
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2507
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1500
 "AS36352","HostPapa",1481
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS13335","Cloudflare, Inc.",1443
+"AS13335","Cloudflare, Inc.",1444
 "AS398722","Censys, Inc.",1442
 "AS48925","VibeGAMES B.V.",1426
 "AS215269","LAZYCLOUD LTD",1312
@@ -128,9 +128,9 @@ ASN,Organization,IP_Count
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS199785","Cloud Hosting Solutions, Limited.",102
 "AS136435","ELITE COMMUNICATION",100
+"AS30083","velia.net",94
 "AS11320","LightEdge Solutions",93
 "AS205352","KABELNET LTD",93
-"AS30083","velia.net",93
 "AS63018","Dedicated.com",93
 "AS28209","Under Servicos de Internet Ltda",92
 "AS5617","Orange Polska Spolka Akcyjna",92
@@ -160,9 +160,9 @@ ASN,Organization,IP_Count
 "AS328867","Corebach Backbone SARL",67
 "AS396356","Latitude.sh",67
 "AS57588","Hayat for Internet & communication LLC",67
+"AS149746","PT Blip Integrator Provider",66
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
 "AS6128","Cablevision Systems Corp.",66
-"AS149746","PT Blip Integrator Provider",65
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS44592","SkyLink Data Center BV",64
