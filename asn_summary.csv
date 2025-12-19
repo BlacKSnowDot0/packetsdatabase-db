@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",15294
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10749
-"AS14061","DigitalOcean, LLC",8575
+"AS14061","DigitalOcean, LLC",8576
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6049
 "AS4134","Chinanet",5105
@@ -25,8 +25,8 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2507
 "AS9808","China Mobile",2084
-"AS202425","IP Volume inc",1980
-"AS32475","Internap Holding LLC",1649
+"AS202425","IP Volume inc",1981
+"AS32475","Internap Holding LLC",1650
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1549
 "AS49870","Alsycon B.V.",1500
@@ -48,7 +48,7 @@ ASN,Organization,IP_Count
 "AS51167","Contabo GmbH",857
 "AS215925","VPSVAULT.HOST LTD",852
 "AS9465","AGOTOZ PTE. LTD.",845
-"AS20052","Arbor Networks, Inc.",840
+"AS20052","Arbor Networks, Inc.",841
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",756
@@ -231,12 +231,12 @@ ASN,Organization,IP_Count
 "AS146817","Hubei Feixun Network Co., Ltd",34
 "AS21127","Joint Stock Company TransTeleCom",34
 "AS269193","Iktelecom Ltda",34
+"AS28546","Servnet Mexico, S.A. de C.V.",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS4847","China Networks Inter-Exchange",34
 "AS55990","Huawei Cloud Service data center",34
 "AS9123","TimeWeb Ltd.",34
 "AS204834","Shabakieh Isfahan Co PJSC",33
-"AS28546","Servnet Mexico, S.A. de C.V.",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS56067","Metrabyte Co.,Ltd",33
 "AS8796","FD-298-8796",33
