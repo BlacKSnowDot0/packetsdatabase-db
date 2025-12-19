@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87858
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
-"AS211298","Driftnet Ltd",22252
-"AS398324","Censys, Inc.",15287
+"AS211298","Driftnet Ltd",22253
+"AS398324","Censys, Inc.",15289
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10747
-"AS14061","DigitalOcean, LLC",8569
+"AS14061","DigitalOcean, LLC",8572
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6048
 "AS4134","Chinanet",5105
@@ -20,13 +20,13 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3249
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2900
-"AS6939","Hurricane Electric LLC",2808
+"AS6939","Hurricane Electric LLC",2809
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2505
 "AS9808","China Mobile",2084
-"AS202425","IP Volume inc",1978
-"AS32475","Internap Holding LLC",1648
+"AS202425","IP Volume inc",1979
+"AS32475","Internap Holding LLC",1649
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1548
 "AS49870","Alsycon B.V.",1500
@@ -48,8 +48,8 @@ ASN,Organization,IP_Count
 "AS51167","Contabo GmbH",856
 "AS215925","VPSVAULT.HOST LTD",851
 "AS9465","AGOTOZ PTE. LTD.",845
+"AS20052","Arbor Networks, Inc.",840
 "AS56042","China Mobile Communications Corporation",840
-"AS20052","Arbor Networks, Inc.",839
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",756
 "AS10439","CariNet, Inc.",729
@@ -64,7 +64,7 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS53667","FranTech Solutions",550
-"AS9829","Bharat Sanchar Nigam Ltd",542
+"AS9829","Bharat Sanchar Nigam Ltd",543
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
@@ -81,8 +81,8 @@ ASN,Organization,IP_Count
 "AS8151","Uninet S.A. de C.V.",340
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS214943","Railnet LLC",318
-"AS45899","VNPT Corp",317
-"AS208843","Alpha Strike Labs GmbH",310
+"AS45899","VNPT Corp",318
+"AS208843","Alpha Strike Labs GmbH",311
 "AS24863","LINKdotNET AS number",307
 "AS213613","BOTSHIELD LTD",305
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",298
@@ -153,8 +153,8 @@ ASN,Organization,IP_Count
 "AS200514","KnownSRV Ltd.",73
 "AS2856","British Telecommunications PLC",70
 "AS55720","Gigabit Hosting Sdn Bhd",70
+"AS210644","AEZA INTERNATIONAL LTD",69
 "AS52053","REDHEBERG Association declaree",69
-"AS210644","AEZA INTERNATIONAL LTD",68
 "AS834","IPXO LLC",68
 "AS215590","DpkgSoft International Limited",67
 "AS328867","Corebach Backbone SARL",67
