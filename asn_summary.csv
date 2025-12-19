@@ -1,7 +1,7 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87861
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
-"AS211298","Driftnet Ltd",22254
+"AS211298","Driftnet Ltd",22255
 "AS398324","Censys, Inc.",15320
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10753
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3577
 "AS51396","Pfcloud UG",3249
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2901
+"AS8075","Microsoft Corporation",2902
 "AS6939","Hurricane Electric LLC",2814
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
@@ -55,7 +55,7 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",730
 "AS14618","Amazon.com, Inc.",729
 "AS4837","CHINA UNICOM China169 Backbone",616
-"AS12876","ONLINE S.A.S.",612
+"AS12876","ONLINE S.A.S.",613
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS201814","MEVSPACE sp. z o.o.",592
 "AS51115","HLL LLC",591
@@ -293,13 +293,13 @@ ASN,Organization,IP_Count
 "AS17816","China Unicom IP network China169 Guangdong province",23
 "AS198037","SPACECORE SOLUTION LTD",23
 "AS20853","eTOP sp. z o.o.",23
+"AS3257","GTT Communications Inc.",23
 "AS62240","Clouvider Limited",23
 "AS7303","Telecom Argentina S.A.",23
 "AS9304","HGC Global Communications Limited",23
 "AS16591","Google Fiber Inc.",22
 "AS17561","Larus Limited",22
 "AS213010","Gening Nikita Dmitrievich",22
-"AS3257","GTT Communications Inc.",22
 "AS3320","Deutsche Telekom AG",22
 "AS43289","Trabia SRL",22
 "AS45758","Triple T Broadband Public Company Limited",22
