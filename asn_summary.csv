@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87861
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22253
-"AS398324","Censys, Inc.",15310
+"AS398324","Censys, Inc.",15311
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10751
 "AS14061","DigitalOcean, LLC",8586
@@ -23,10 +23,10 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2813
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
-"AS23470","ReliableSite.Net LLC",2507
+"AS23470","ReliableSite.Net LLC",2508
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1983
-"AS32475","Internap Holding LLC",1653
+"AS32475","Internap Holding LLC",1654
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1549
 "AS49870","Alsycon B.V.",1500
@@ -54,7 +54,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",756
 "AS10439","CariNet, Inc.",730
 "AS14618","Amazon.com, Inc.",728
-"AS4837","CHINA UNICOM China169 Backbone",614
+"AS4837","CHINA UNICOM China169 Backbone",615
 "AS12876","ONLINE S.A.S.",612
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS201814","MEVSPACE sp. z o.o.",592
@@ -73,8 +73,8 @@ ASN,Organization,IP_Count
 "AS24186","RailTel Corporation of India Ltd.",406
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",400
 "AS7018","AT&T Enterprises, LLC",397
+"AS47890","UNMANAGED LTD",390
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS47890","UNMANAGED LTD",389
 "AS21859","Zenlayer Inc",377
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS7922","Comcast Cable Communications, LLC",352
