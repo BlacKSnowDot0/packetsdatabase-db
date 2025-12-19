@@ -5,14 +5,14 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",15310
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10751
-"AS14061","DigitalOcean, LLC",8580
+"AS14061","DigitalOcean, LLC",8586
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6049
 "AS4134","Chinanet",5105
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4460
 "AS16509","Amazon.com, Inc.",4378
-"AS45102","Alibaba (US) Technology Co., Ltd.",4192
+"AS45102","Alibaba (US) Technology Co., Ltd.",4195
 "AS396998","Path Network, Inc.",3992
 "AS0","",3804
 "AS63949","Akamai Technologies, Inc.",3683
@@ -45,7 +45,7 @@ ASN,Organization,IP_Count
 "AS208684","BHA CONSEIL SARL",1022
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",871
-"AS51167","Contabo GmbH",859
+"AS51167","Contabo GmbH",861
 "AS215925","VPSVAULT.HOST LTD",853
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS20052","Arbor Networks, Inc.",843
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",756
 "AS10439","CariNet, Inc.",730
-"AS14618","Amazon.com, Inc.",727
+"AS14618","Amazon.com, Inc.",728
 "AS4837","CHINA UNICOM China169 Backbone",614
 "AS12876","ONLINE S.A.S.",612
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -68,7 +68,7 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
-"AS212238","Datacamp Limited",470
+"AS212238","Datacamp Limited",473
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",400
@@ -117,7 +117,7 @@ ASN,Organization,IP_Count
 "AS19905","Neustar Security Services",127
 "AS151185","China Telecom",125
 "AS36007","Kamatera, Inc.",122
-"AS8560","IONOS SE",121
+"AS8560","IONOS SE",122
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",115
 "AS4766","Korea Telecom",115
 "AS211298","Constantine Cybersecurity Ltd.",113
