@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22253
 "AS398324","Censys, Inc.",15299
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10750
+"AS396982","Google LLC",10751
 "AS14061","DigitalOcean, LLC",8578
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6049
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2507
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1982
-"AS32475","Internap Holding LLC",1651
+"AS32475","Internap Holding LLC",1652
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1549
 "AS49870","Alsycon B.V.",1500
@@ -45,7 +45,7 @@ ASN,Organization,IP_Count
 "AS208684","BHA CONSEIL SARL",1022
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",871
-"AS51167","Contabo GmbH",857
+"AS51167","Contabo GmbH",858
 "AS215925","VPSVAULT.HOST LTD",852
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS20052","Arbor Networks, Inc.",841
@@ -63,7 +63,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",576
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS53667","FranTech Solutions",550
+"AS53667","FranTech Solutions",551
 "AS9829","Bharat Sanchar Nigam Ltd",543
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
@@ -104,8 +104,8 @@ ASN,Organization,IP_Count
 "AS7552","Viettel Group",182
 "AS50219","LNK SYSTEMS MUNTENIA SRL",179
 "AS401116","Nybula LLC",170
+"AS34984","Superonline Iletisim Hizmetleri A.S.",166
 "AS42237","w1n ltd",166
-"AS34984","Superonline Iletisim Hizmetleri A.S.",165
 "AS262551","Farol Telecom",154
 "AS206264","Amarutu Technology Ltd",153
 "AS215240","Silent Connection Ltd.",145
