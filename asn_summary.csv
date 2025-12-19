@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2508
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1984
-"AS32475","Internap Holding LLC",1654
+"AS32475","Internap Holding LLC",1655
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1549
 "AS49870","Alsycon B.V.",1500
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1442
 "AS48925","VibeGAMES B.V.",1426
 "AS215269","LAZYCLOUD LTD",1312
-"AS174","Cogent Communications",1271
+"AS174","Cogent Communications",1272
 "AS22552","eSited Solutions",1197
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
@@ -63,7 +63,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",576
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS53667","FranTech Solutions",551
+"AS53667","FranTech Solutions",552
 "AS9829","Bharat Sanchar Nigam Ltd",543
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
@@ -82,7 +82,7 @@ ASN,Organization,IP_Count
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS214943","Railnet LLC",318
 "AS45899","VNPT Corp",318
-"AS208843","Alpha Strike Labs GmbH",312
+"AS208843","Alpha Strike Labs GmbH",313
 "AS213613","BOTSHIELD LTD",307
 "AS24863","LINKdotNET AS number",307
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",298
@@ -248,10 +248,11 @@ ASN,Organization,IP_Count
 "AS13213","UK-2 Limited",31
 "AS17557","Pakistan Telecommuication company limited",31
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",31
+"AS55933","Cloudie Limited",31
 "AS852","TELUS Communications Inc.",31
 "AS200593","PROSPERO OOO",30
 "AS214417","Andrii Hrosh",30
-"AS55933","Cloudie Limited",30
+"AS197540","netcup GmbH",29
 "AS3269","Telecom Italia S.p.A.",29
 "AS6134","XNNET LLC",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
@@ -259,7 +260,6 @@ ASN,Organization,IP_Count
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",28
 "AS141679","China Telecom",28
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",28
-"AS197540","netcup GmbH",28
 "AS24940","Hetzner Online GmbH",28
 "AS30860","Virtual Systems LLC",28
 "AS329490","Promethean Consulting Limited",28

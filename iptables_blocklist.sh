@@ -1,5 +1,11 @@
 #!/bin/bash
 # This script will add all IPs from the list to your iptables DROP chain.
+iptables -A INPUT -s 193.30.121.122 -j DROP
+iptables -A INPUT -s 103.215.81.240 -j DROP
+iptables -A INPUT -s 2.59.22.234 -j DROP
+iptables -A INPUT -s 64.95.96.69 -j DROP
+iptables -A INPUT -s 194.187.176.135 -j DROP
+iptables -A INPUT -s 209.141.51.29 -j DROP
 iptables -A INPUT -s 8.211.162.45 -j DROP
 iptables -A INPUT -s 45.156.87.22 -j DROP
 iptables -A INPUT -s 103.56.61.130 -j DROP
