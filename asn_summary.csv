@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87861
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22253
-"AS398324","Censys, Inc.",15309
+"AS398324","Censys, Inc.",15310
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10751
 "AS14061","DigitalOcean, LLC",8580
@@ -83,8 +83,8 @@ ASN,Organization,IP_Count
 "AS214943","Railnet LLC",318
 "AS45899","VNPT Corp",318
 "AS208843","Alpha Strike Labs GmbH",312
+"AS213613","BOTSHIELD LTD",307
 "AS24863","LINKdotNET AS number",307
-"AS213613","BOTSHIELD LTD",306
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",298
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
@@ -95,7 +95,7 @@ ASN,Organization,IP_Count
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",229
 "AS29066","velia.net Internetdienste GmbH",226
-"AS12389","PJSC Rostelecom",223
+"AS12389","PJSC Rostelecom",224
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS29484","Ruhr-Universitaet Bochum",215
@@ -117,7 +117,7 @@ ASN,Organization,IP_Count
 "AS19905","Neustar Security Services",127
 "AS151185","China Telecom",125
 "AS36007","Kamatera, Inc.",122
-"AS8560","IONOS SE",120
+"AS8560","IONOS SE",121
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",115
 "AS4766","Korea Telecom",115
 "AS211298","Constantine Cybersecurity Ltd.",113
