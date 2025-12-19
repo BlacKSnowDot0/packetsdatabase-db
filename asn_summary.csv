@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22253
 "AS398324","Censys, Inc.",15294
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10747
+"AS396982","Google LLC",10748
 "AS14061","DigitalOcean, LLC",8575
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6049
@@ -130,8 +130,8 @@ ASN,Organization,IP_Count
 "AS136435","ELITE COMMUNICATION",100
 "AS11320","LightEdge Solutions",93
 "AS205352","KABELNET LTD",93
+"AS30083","velia.net",93
 "AS28209","Under Servicos de Internet Ltda",92
-"AS30083","velia.net",92
 "AS5617","Orange Polska Spolka Akcyjna",92
 "AS63018","Dedicated.com",92
 "AS210125","PRIAM NET Sh.p.k.",89
@@ -2650,6 +2650,7 @@ ASN,Organization,IP_Count
 "AS36012","HUNTER COMMUNICATIONS",1
 "AS36048","Berry-IT Incorporated",1
 "AS36149","Hawaiian Telcom Services Company, Inc.",1
+"AS36351","IBM Cloud",1
 "AS36351","SoftLayer Technologies Inc.",1
 "AS36374","Stellar Association, LLC",1
 "AS36445","Coextro",1
