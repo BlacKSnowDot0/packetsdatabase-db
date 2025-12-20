@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87861
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22256
-"AS398324","Censys, Inc.",15331
+"AS398324","Censys, Inc.",15333
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10756
-"AS14061","DigitalOcean, LLC",8596
+"AS14061","DigitalOcean, LLC",8597
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6051
 "AS4134","Chinanet",5106
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",1987
 "AS32475","Internap Holding LLC",1662
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1549
+"AS209605","UAB Host Baltic",1550
 "AS49870","Alsycon B.V.",1501
 "AS36352","HostPapa",1482
 "AS13335","Cloudflare, Inc.",1447
@@ -47,8 +47,8 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",871
 "AS51167","Contabo GmbH",863
 "AS215925","VPSVAULT.HOST LTD",854
+"AS20052","Arbor Networks, Inc.",845
 "AS9465","AGOTOZ PTE. LTD.",845
-"AS20052","Arbor Networks, Inc.",844
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",756
@@ -63,7 +63,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",576
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS53667","FranTech Solutions",553
+"AS53667","FranTech Solutions",554
 "AS9829","Bharat Sanchar Nigam Ltd",543
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
@@ -82,13 +82,13 @@ ASN,Organization,IP_Count
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS214943","Railnet LLC",318
 "AS45899","VNPT Corp",318
-"AS208843","Alpha Strike Labs GmbH",315
+"AS208843","Alpha Strike Labs GmbH",316
 "AS213613","BOTSHIELD LTD",307
 "AS24863","LINKdotNET AS number",307
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",298
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
-"AS141718","haoxiangyun",265
+"AS141718","haoxiangyun",266
 "AS18403","FPT Telecom Company",264
 "AS48090","TECHOFF SRV LIMITED",261
 "AS60223","Netiface Limited",250
@@ -128,7 +128,7 @@ ASN,Organization,IP_Count
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS199785","Cloud Hosting Solutions, Limited.",102
 "AS136435","ELITE COMMUNICATION",100
-"AS30083","velia.net",97
+"AS30083","velia.net",98
 "AS63018","Dedicated.com",94
 "AS11320","LightEdge Solutions",93
 "AS205352","KABELNET LTD",93
