@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87862
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22263
-"AS398324","Censys, Inc.",15356
+"AS398324","Censys, Inc.",15357
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10759
 "AS14061","DigitalOcean, LLC",8606
@@ -58,7 +58,7 @@ ASN,Organization,IP_Count
 "AS12876","ONLINE S.A.S.",614
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS201814","MEVSPACE sp. z o.o.",594
-"AS51115","HLL LLC",591
+"AS51115","HLL LLC",592
 "AS3462","Chunghwa Telecom Co., Ltd.",586
 "AS9009","M247 Europe SRL",576
 "AS31148","Freenet LTD",558
@@ -71,7 +71,7 @@ ASN,Organization,IP_Count
 "AS212238","Datacamp Limited",475
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",401
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",402
 "AS7018","AT&T Enterprises, LLC",397
 "AS47890","UNMANAGED LTD",390
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -767,6 +767,7 @@ ASN,Organization,IP_Count
 "AS15735","GO p.l.c.",4
 "AS15802","Emirates Integrated Telecommunications Company PJSC",4
 "AS15924","Vodafone Net Iletisim Hizmetler AS",4
+"AS17511","OPTAGE Inc.",4
 "AS197450","SUNUCUN BILGI ILETISIM TEKNOLOJILERI VE TICARET LIMITED SIRKETI",4
 "AS200845","AVATEL TELECOM, SA",4
 "AS20150","anyNode",4
@@ -914,7 +915,6 @@ ASN,Organization,IP_Count
 "AS1659","Taiwan Academic Network (TANet) Information Center",3
 "AS17488","HATHWAY CABLE AND DATACOM LIMITED",3
 "AS17501","WorldLink Communications",3
-"AS17511","OPTAGE Inc.",3
 "AS17665","ONEOTT INTERTAINMENT LIMITED",3
 "AS17931","Netforest,Inc.",3
 "AS18318","LG HelloVision Corp.",3
