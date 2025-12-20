@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87861
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70581
 "AS211298","Driftnet Ltd",22255
-"AS398324","Censys, Inc.",15322
+"AS398324","Censys, Inc.",15324
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10753
+"AS396982","Google LLC",10754
 "AS14061","DigitalOcean, LLC",8592
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6051
@@ -14,13 +14,13 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4378
 "AS45102","Alibaba (US) Technology Co., Ltd.",4198
 "AS396998","Path Network, Inc.",3992
-"AS0","",3806
+"AS0","",3807
 "AS63949","Akamai Technologies, Inc.",3683
 "AS15169","Google LLC",3577
 "AS51396","Pfcloud UG",3249
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2902
-"AS6939","Hurricane Electric LLC",2814
+"AS6939","Hurricane Electric LLC",2815
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2532
@@ -29,7 +29,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",1659
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1549
-"AS49870","Alsycon B.V.",1500
+"AS49870","Alsycon B.V.",1501
 "AS36352","HostPapa",1482
 "AS13335","Cloudflare, Inc.",1447
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -68,7 +68,7 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
-"AS212238","Datacamp Limited",474
+"AS212238","Datacamp Limited",475
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",400
@@ -366,6 +366,7 @@ ASN,Organization,IP_Count
 "AS24812","NPK Home-Net Ltd.",16
 "AS25198","INTERKVM HOST SRL",16
 "AS3215","Orange S.A.",16
+"AS32613","Leaseweb Canada Inc.",16
 "AS328539","Giga for Telecommunication and Technology Limited",16
 "AS39351","31173 Services AB",16
 "AS46261","QuickPacket, LLC",16
@@ -389,7 +390,6 @@ ASN,Organization,IP_Count
 "AS28201","Companhia Itabirana Telecomunicações Ltda",15
 "AS30600","Metronet",15
 "AS31113","Artkomm LLC",15
-"AS32613","Leaseweb Canada Inc.",15
 "AS397283","RocketNode Inc",15
 "AS48282","Hosting technology LTD",15
 "AS6327","Shaw Communications Inc.",15
@@ -421,6 +421,7 @@ ASN,Organization,IP_Count
 "AS214209","Internet Magnate (Pty) Ltd",13
 "AS25369","Hydra Communications Ltd",13
 "AS272928","P&C ON LINE S.R.L. (NETWAY INTERNET)",13
+"AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",13
 "AS28840","PJSC ""TATTELECOM""",13
 "AS29465","MTN NIGERIA Communication limited",13
 "AS37105","RAIN GROUP HOLDINGS (PTY) LTD",13
@@ -430,7 +431,6 @@ ASN,Organization,IP_Count
 "AS53006","ALGAR TELECOM S/A",13
 "AS9770","LG HelloVision Corp.",13
 "AS2637","Georgia Institute of Technology",12
-"AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",12
 "AS29302","Hosting Services Inc",12
 "AS35042","Layer7 Networks GmbH",12
 "AS35297","Dataline LLC",12
