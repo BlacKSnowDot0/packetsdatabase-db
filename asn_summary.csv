@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87861
-"AS49581","Ferdinand Zink trading as Tube-Hosting",70583
+"AS49581","Ferdinand Zink trading as Tube-Hosting",70584
 "AS211298","Driftnet Ltd",22256
-"AS398324","Censys, Inc.",15326
+"AS398324","Censys, Inc.",15328
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10755
-"AS14061","DigitalOcean, LLC",8593
+"AS396982","Google LLC",10756
+"AS14061","DigitalOcean, LLC",8594
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6051
 "AS4134","Chinanet",5106
@@ -23,10 +23,10 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2816
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
-"AS23470","ReliableSite.Net LLC",2533
+"AS23470","ReliableSite.Net LLC",2534
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1986
-"AS32475","Internap Holding LLC",1659
+"AS32475","Internap Holding LLC",1661
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1549
 "AS49870","Alsycon B.V.",1501
@@ -45,7 +45,7 @@ ASN,Organization,IP_Count
 "AS208684","BHA CONSEIL SARL",1022
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",871
-"AS51167","Contabo GmbH",861
+"AS51167","Contabo GmbH",863
 "AS215925","VPSVAULT.HOST LTD",853
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS20052","Arbor Networks, Inc.",843
@@ -108,7 +108,7 @@ ASN,Organization,IP_Count
 "AS42237","w1n ltd",166
 "AS262551","Farol Telecom",154
 "AS206264","Amarutu Technology Ltd",153
-"AS215240","Silent Connection Ltd.",146
+"AS215240","Silent Connection Ltd.",147
 "AS14956","RouterHosting LLC",143
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
@@ -129,9 +129,9 @@ ASN,Organization,IP_Count
 "AS199785","Cloud Hosting Solutions, Limited.",102
 "AS136435","ELITE COMMUNICATION",100
 "AS30083","velia.net",97
+"AS63018","Dedicated.com",94
 "AS11320","LightEdge Solutions",93
 "AS205352","KABELNET LTD",93
-"AS63018","Dedicated.com",93
 "AS28209","Under Servicos de Internet Ltda",92
 "AS5617","Orange Polska Spolka Akcyjna",92
 "AS210125","PRIAM NET Sh.p.k.",89
@@ -346,13 +346,13 @@ ASN,Organization,IP_Count
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
 "AS39603","P4 Sp. z o.o.",18
 "AS400655","NixLabs Networks",18
+"AS401152","Ace Data Centers II, L.L.C.",18
 "AS11427","Charter Communications Inc",17
 "AS136958","China Unicom Guangdong IP network",17
 "AS148981","China Telecom",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
 "AS33363","Charter Communications, Inc",17
-"AS401152","Ace Data Centers II, L.L.C.",17
 "AS45117","Ishan's Network",17
 "AS46375","Sonic Telecom LLC",17
 "AS48753","AVA HOST SRL",17
