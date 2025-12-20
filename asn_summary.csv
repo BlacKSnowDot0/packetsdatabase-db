@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87861
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22258
-"AS398324","Censys, Inc.",15340
+"AS398324","Censys, Inc.",15341
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10757
 "AS14061","DigitalOcean, LLC",8601
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3250
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2904
-"AS6939","Hurricane Electric LLC",2817
+"AS6939","Hurricane Electric LLC",2818
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2534
@@ -396,6 +396,7 @@ ASN,Organization,IP_Count
 "AS64236","UnReal Servers, LLC",15
 "AS6849","JSC ""Ukrtelecom""",15
 "AS11232","Midcontinent Communications",14
+"AS1221","Telstra Limited",14
 "AS12400","Partner Communications Ltd.",14
 "AS17621","China Unicom Shanghai network",14
 "AS17639","ComClark Network & Technology Corp",14
@@ -410,7 +411,6 @@ ASN,Organization,IP_Count
 "AS48721","Flyservers S.A.",14
 "AS9318","SK Broadband Co Ltd",14
 "AS11351","Charter Communications Inc",13
-"AS1221","Telstra Limited",13
 "AS134420","Chongqing Telecom",13
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",13
 "AS15895","""Kyivstar"" PJSC",13
