@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4378
 "AS45102","Alibaba (US) Technology Co., Ltd.",4199
 "AS396998","Path Network, Inc.",3992
-"AS0","",3809
+"AS0","",3810
 "AS63949","Akamai Technologies, Inc.",3685
 "AS15169","Google LLC",3577
 "AS51396","Pfcloud UG",3251
@@ -82,7 +82,7 @@ ASN,Organization,IP_Count
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS214943","Railnet LLC",318
 "AS45899","VNPT Corp",318
-"AS208843","Alpha Strike Labs GmbH",316
+"AS208843","Alpha Strike Labs GmbH",317
 "AS213613","BOTSHIELD LTD",308
 "AS24863","LINKdotNET AS number",307
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",298
@@ -157,10 +157,10 @@ ASN,Organization,IP_Count
 "AS210644","AEZA INTERNATIONAL LTD",69
 "AS52053","REDHEBERG Association declaree",69
 "AS834","IPXO LLC",68
+"AS149746","PT Blip Integrator Provider",67
 "AS215590","DpkgSoft International Limited",67
 "AS328867","Corebach Backbone SARL",67
 "AS57588","Hayat for Internet & communication LLC",67
-"AS149746","PT Blip Integrator Provider",66
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
 "AS6128","Cablevision Systems Corp.",66
 "AS398101","GoDaddy.com, LLC",65
