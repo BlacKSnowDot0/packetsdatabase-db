@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87861
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22256
-"AS398324","Censys, Inc.",15334
+"AS398324","Censys, Inc.",15337
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10757
-"AS14061","DigitalOcean, LLC",8600
+"AS14061","DigitalOcean, LLC",8601
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6051
 "AS4134","Chinanet",5106
@@ -99,7 +99,7 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS29484","Ruhr-Universitaet Bochum",215
-"AS12555","Data-center IMAQLIQ Ltd.",201
+"AS12555","Data-center IMAQLIQ Ltd.",203
 "AS63199","CDS Global Cloud Co., Ltd",190
 "AS7552","Viettel Group",182
 "AS50219","LNK SYSTEMS MUNTENIA SRL",180
@@ -122,7 +122,7 @@ ASN,Organization,IP_Count
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",115
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
-"AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",109
+"AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",110
 "AS40021","Nubes, LLC",108
 "AS47331","TTNet A.S.",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
@@ -359,6 +359,7 @@ ASN,Organization,IP_Count
 "AS50340","JSC Selectel",17
 "AS5607","Sky UK Limited",17
 "AS56630","Melbikomas UAB",17
+"AS60781","LeaseWeb Netherlands B.V.",17
 "AS9269","Hong Kong Broadband Network Ltd",17
 "AS138915","Kaopu Cloud HK Limited",16
 "AS140726","China Unicom",16
@@ -370,7 +371,6 @@ ASN,Organization,IP_Count
 "AS328539","Giga for Telecommunication and Technology Limited",16
 "AS39351","31173 Services AB",16
 "AS46261","QuickPacket, LLC",16
-"AS60781","LeaseWeb Netherlands B.V.",16
 "AS6597","Coloblox Data Centers Inc",16
 "AS1267","RIPE Network Coordination Centre",15
 "AS12849","Hot-Net internet services Ltd.",15
