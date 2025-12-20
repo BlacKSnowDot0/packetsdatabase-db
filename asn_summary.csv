@@ -1,7 +1,7 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87862
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22260
+"AS211298","Driftnet Ltd",22263
 "AS398324","Censys, Inc.",15356
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10759
@@ -23,7 +23,7 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2820
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
-"AS23470","ReliableSite.Net LLC",2536
+"AS23470","ReliableSite.Net LLC",2537
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1991
 "AS32475","Internap Holding LLC",1669
@@ -55,7 +55,7 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",732
 "AS14618","Amazon.com, Inc.",729
 "AS4837","CHINA UNICOM China169 Backbone",616
-"AS12876","ONLINE S.A.S.",613
+"AS12876","ONLINE S.A.S.",614
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS201814","MEVSPACE sp. z o.o.",594
 "AS51115","HLL LLC",591
@@ -227,14 +227,14 @@ ASN,Organization,IP_Count
 "AS210509","Optimum Line for Internet Services Ltd.",36
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",36
 "AS4760","PCCW IMS Limited",36
+"AS204834","Shabakieh Isfahan Co PJSC",35
 "AS213790","Limited Network LTD",35
+"AS28546","Servnet Mexico, S.A. de C.V.",35
 "AS9123","TimeWeb Ltd.",35
 "AS146817","Hubei Feixun Network Co., Ltd",34
-"AS204834","Shabakieh Isfahan Co PJSC",34
 "AS21127","Joint Stock Company TransTeleCom",34
 "AS215762","Bullet Group LTD",34
 "AS269193","Iktelecom Ltda",34
-"AS28546","Servnet Mexico, S.A. de C.V.",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS4847","China Networks Inter-Exchange",34
 "AS55990","Huawei Cloud Service data center",34
@@ -795,6 +795,7 @@ ASN,Organization,IP_Count
 "AS262916","Mega Cable, S.A. de C.V.",4
 "AS265379","JULIO CESAR DAS NEVES - ME",4
 "AS265586","INBTEL, S.A. DE C.V.",4
+"AS266274","NETWEST TELECOM",4
 "AS266541","ItaNet - Provedor de Internet",4
 "AS26727","Brandenburg Telephone Company",4
 "AS269820","FULL DATA COMUNICACIONES C.A.",4
@@ -955,7 +956,6 @@ ASN,Organization,IP_Count
 "AS265523","Sierra Madre Internet SA de CV",3
 "AS265744","COOPERATIVA DE PROVISIÓN DE SERVICIOS PÚBLICOS DE FREYRE LTDA.",3
 "AS266092","R. COSTA DO NASCIMENTO",3
-"AS266274","NETWEST TELECOM",3
 "AS267450","oliveira & sousa comunicações Ltda",3
 "AS267765","COTAP LTDA",3
 "AS268323","AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA",3
