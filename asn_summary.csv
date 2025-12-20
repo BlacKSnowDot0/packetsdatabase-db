@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87861
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87862
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22260
-"AS398324","Censys, Inc.",15352
+"AS398324","Censys, Inc.",15354
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10757
 "AS14061","DigitalOcean, LLC",8606
@@ -23,10 +23,10 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2820
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
-"AS23470","ReliableSite.Net LLC",2535
+"AS23470","ReliableSite.Net LLC",2536
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1990
-"AS32475","Internap Holding LLC",1667
+"AS32475","Internap Holding LLC",1668
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1551
 "AS49870","Alsycon B.V.",1501
@@ -477,6 +477,7 @@ ASN,Organization,IP_Count
 "AS52468","UFINET PANAMA S.A.",10
 "AS57269","DIGI SPAIN TELECOM S.L.U.",10
 "AS9930","TT DOTCOM SDN BHD",10
+"AS11172","Alestra, S. de R.L. de C.V.",9
 "AS12353","Vodafone Portugal - Communicacoes Pessoais S.A.",9
 "AS131596","TBC",9
 "AS13287","FALBOX S.L.",9
@@ -503,7 +504,6 @@ ASN,Organization,IP_Count
 "AS56005","Zhengzhou Fastidc Technology Co.,Ltd.",9
 "AS8346","SONATEL-AS Autonomous System",9
 "AS9038","Batelco Jordan",9
-"AS11172","Alestra, S. de R.L. de C.V.",8
 "AS11888","Television Internacional, S.A. de C.V.",8
 "AS133982","Excitel Broadband Private Limited",8
 "AS138754","Kerala Vision Broad Band Private Limited",8
@@ -1188,6 +1188,7 @@ ASN,Organization,IP_Count
 "AS198381","Star Satellite Communications Company - PJSC",2
 "AS198551","REZOCEAN SAS",2
 "AS198820","Limited Liability Company Radio Network",2
+"AS199496","E-PORTS AMPLE DE BANDA I INTERNET S.L.",2
 "AS199524","G-Core Labs S.A.",2
 "AS199739","Earthlink Telecommunications Equipment Trading & Services DMCC",2
 "AS199995","Omega Telecom LLC",2
@@ -1915,7 +1916,6 @@ ASN,Organization,IP_Count
 "AS198760","Quattre Internet SL",1
 "AS199173","TechnoLux Ltd.",1
 "AS199415","Association YORKHOST",1
-"AS199496","E-PORTS AMPLE DE BANDA I INTERNET S.L.",1
 "AS199578","Technische Universitaet Kaiserslautern",1
 "AS200081","Netversor GmbH",1
 "AS200218","Tvoy Novy Telecom LLP",1
