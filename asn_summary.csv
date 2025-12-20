@@ -7,7 +7,7 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",10757
 "AS14061","DigitalOcean, LLC",8601
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6051
+"AS16276","OVH SAS",6062
 "AS4134","Chinanet",5106
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4460
@@ -83,7 +83,7 @@ ASN,Organization,IP_Count
 "AS214943","Railnet LLC",318
 "AS45899","VNPT Corp",318
 "AS208843","Alpha Strike Labs GmbH",316
-"AS213613","BOTSHIELD LTD",307
+"AS213613","BOTSHIELD LTD",308
 "AS24863","LINKdotNET AS number",307
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",298
 "AS9341","PT Indonesia Comnets Plus",297
@@ -97,8 +97,8 @@ ASN,Organization,IP_Count
 "AS29066","velia.net Internetdienste GmbH",226
 "AS12389","PJSC Rostelecom",224
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
+"AS29484","Ruhr-Universitaet Bochum",216
 "AS14987","Rethem Hosting LLC",215
-"AS29484","Ruhr-Universitaet Bochum",215
 "AS12555","Data-center IMAQLIQ Ltd.",204
 "AS63199","CDS Global Cloud Co., Ltd",190
 "AS7552","Viettel Group",182
@@ -115,7 +115,7 @@ ASN,Organization,IP_Count
 "AS13238","YANDEX LLC",132
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
-"AS151185","China Telecom",125
+"AS151185","China Telecom",126
 "AS36007","Kamatera, Inc.",122
 "AS8560","IONOS SE",122
 "AS4766","Korea Telecom",116
