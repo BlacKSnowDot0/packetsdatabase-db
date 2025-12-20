@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87861
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22256
-"AS398324","Censys, Inc.",15339
+"AS211298","Driftnet Ltd",22258
+"AS398324","Censys, Inc.",15340
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10757
 "AS14061","DigitalOcean, LLC",8601
@@ -17,7 +17,7 @@ ASN,Organization,IP_Count
 "AS0","",3808
 "AS63949","Akamai Technologies, Inc.",3685
 "AS15169","Google LLC",3577
-"AS51396","Pfcloud UG",3249
+"AS51396","Pfcloud UG",3250
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2904
 "AS6939","Hurricane Electric LLC",2817
@@ -99,7 +99,7 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS29484","Ruhr-Universitaet Bochum",215
-"AS12555","Data-center IMAQLIQ Ltd.",203
+"AS12555","Data-center IMAQLIQ Ltd.",204
 "AS63199","CDS Global Cloud Co., Ltd",190
 "AS7552","Viettel Group",182
 "AS50219","LNK SYSTEMS MUNTENIA SRL",180
@@ -128,7 +128,7 @@ ASN,Organization,IP_Count
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS199785","Cloud Hosting Solutions, Limited.",102
 "AS136435","ELITE COMMUNICATION",100
-"AS30083","velia.net",98
+"AS30083","velia.net",99
 "AS63018","Dedicated.com",94
 "AS11320","LightEdge Solutions",93
 "AS205352","KABELNET LTD",93
@@ -169,8 +169,8 @@ ASN,Organization,IP_Count
 "AS5650","Frontier Communications of America, Inc.",64
 "AS17378","TierPoint, LLC",63
 "AS19318","Interserver, Inc",63
+"AS44477","STARK INDUSTRIES SOLUTIONS LTD",62
 "AS140717","China Unicom",61
-"AS44477","STARK INDUSTRIES SOLUTIONS LTD",61
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS4812","China Telecom (Group)",60
 "AS20115","Charter Communications",59
