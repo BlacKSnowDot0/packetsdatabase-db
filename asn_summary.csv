@@ -17,16 +17,16 @@ ASN,Organization,IP_Count
 "AS0","",3809
 "AS63949","Akamai Technologies, Inc.",3685
 "AS15169","Google LLC",3577
-"AS51396","Pfcloud UG",3250
+"AS51396","Pfcloud UG",3251
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2905
-"AS6939","Hurricane Electric LLC",2819
+"AS6939","Hurricane Electric LLC",2820
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2535
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1990
-"AS32475","Internap Holding LLC",1664
+"AS32475","Internap Holding LLC",1665
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1551
 "AS49870","Alsycon B.V.",1501
@@ -129,7 +129,7 @@ ASN,Organization,IP_Count
 "AS199785","Cloud Hosting Solutions, Limited.",102
 "AS136435","ELITE COMMUNICATION",100
 "AS30083","velia.net",99
-"AS63018","Dedicated.com",94
+"AS63018","Dedicated.com",95
 "AS11320","LightEdge Solutions",93
 "AS205352","KABELNET LTD",93
 "AS28209","Under Servicos de Internet Ltda",92
@@ -429,6 +429,7 @@ ASN,Organization,IP_Count
 "AS38841","kbro CO. Ltd.",13
 "AS50304","Blix Solutions AS",13
 "AS53006","ALGAR TELECOM S/A",13
+"AS62068","SpectraIP B.V.",13
 "AS9770","LG HelloVision Corp.",13
 "AS2637","Georgia Institute of Technology",12
 "AS29302","Hosting Services Inc",12
@@ -440,7 +441,6 @@ ASN,Organization,IP_Count
 "AS41075","ATW Internet Kft.",12
 "AS41436","Kamatera Inc",12
 "AS4181","TDS TELECOM",12
-"AS62068","SpectraIP B.V.",12
 "AS62442","Dade Samane Fanava Company (PJS)",12
 "AS8400","TELEKOM SRBIJA a.d.",12
 "AS8708","RCS & RDS SA",12
@@ -683,6 +683,7 @@ ASN,Organization,IP_Count
 "AS21246","IPKO Telecommunications LLC",5
 "AS212552","BitCommand LLC",5
 "AS212695","Link Telecom Service Ltd",5
+"AS212815","Dyjix SAS",5
 "AS213851","Marcel Hanisch",5
 "AS215311","Regxa Company for Information Technology Ltd",5
 "AS22612","Namecheap, Inc.",5
@@ -777,7 +778,6 @@ ASN,Organization,IP_Count
 "AS211301","Collin Schneeweiss trading as Unesty Company",4
 "AS212042","Istqrar for Servers Services Ltd",4
 "AS212271","Cinzia Tocci trading as C1V",4
-"AS212815","Dyjix SAS",4
 "AS21334","One Hungary Ltd.",4
 "AS214996","netcup GmbH",4
 "AS215439","PLAY2GO INTERNATIONAL LIMITED",4
