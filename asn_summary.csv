@@ -4,8 +4,8 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22268
 "AS398324","Censys, Inc.",15389
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10767
-"AS14061","DigitalOcean, LLC",8618
+"AS396982","Google LLC",10768
+"AS14061","DigitalOcean, LLC",8620
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6078
 "AS4134","Chinanet",5106
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3252
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2908
+"AS8075","Microsoft Corporation",2909
 "AS6939","Hurricane Electric LLC",2825
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
@@ -54,8 +54,8 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",756
 "AS10439","CariNet, Inc.",733
 "AS14618","Amazon.com, Inc.",730
+"AS12876","ONLINE S.A.S.",617
 "AS4837","CHINA UNICOM China169 Backbone",617
-"AS12876","ONLINE S.A.S.",616
 "AS51115","HLL LLC",597
 "AS201814","MEVSPACE sp. z o.o.",596
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -64,7 +64,7 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS53667","FranTech Solutions",555
-"AS9829","Bharat Sanchar Nigam Ltd",549
+"AS9829","Bharat Sanchar Nigam Ltd",550
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
@@ -118,8 +118,8 @@ ASN,Organization,IP_Count
 "AS151185","China Telecom",126
 "AS8560","IONOS SE",125
 "AS36007","Kamatera, Inc.",122
+"AS4766","Korea Telecom",118
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",117
-"AS4766","Korea Telecom",117
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",110
