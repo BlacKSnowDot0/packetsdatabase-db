@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87866
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22271
-"AS398324","Censys, Inc.",15406
+"AS398324","Censys, Inc.",15409
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10769
+"AS396982","Google LLC",10770
 "AS14061","DigitalOcean, LLC",8622
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6078
@@ -71,7 +71,7 @@ ASN,Organization,IP_Count
 "AS212238","Datacamp Limited",475
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",402
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",403
 "AS7018","AT&T Enterprises, LLC",399
 "AS47890","UNMANAGED LTD",390
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -151,8 +151,8 @@ ASN,Organization,IP_Count
 "AS31898","Oracle Corporation",74
 "AS56046","China Mobile Communications Corporation",74
 "AS200514","KnownSRV Ltd.",73
+"AS396356","Latitude.sh",72
 "AS2856","British Telecommunications PLC",70
-"AS396356","Latitude.sh",70
 "AS55720","Gigabit Hosting Sdn Bhd",70
 "AS210644","AEZA INTERNATIONAL LTD",69
 "AS52053","REDHEBERG Association declaree",69
@@ -404,6 +404,7 @@ ASN,Organization,IP_Count
 "AS213438","ColocaTel Inc.",14
 "AS266015","JC2000 Telecomunicações Ltda",14
 "AS27947","Telconet S.A",14
+"AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",14
 "AS3243","MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.",14
 "AS3352","TELEFONICA DE ESPANA S.A.U.",14
 "AS37457","Telkom SA Ltd.",14
@@ -421,7 +422,6 @@ ASN,Organization,IP_Count
 "AS214209","Internet Magnate (Pty) Ltd",13
 "AS25369","Hydra Communications Ltd",13
 "AS272928","P&C ON LINE S.R.L. (NETWAY INTERNET)",13
-"AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",13
 "AS28840","PJSC ""TATTELECOM""",13
 "AS29465","MTN NIGERIA Communication limited",13
 "AS37105","RAIN GROUP HOLDINGS (PTY) LTD",13
