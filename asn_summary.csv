@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87865
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22268
-"AS398324","Censys, Inc.",15391
+"AS211298","Driftnet Ltd",22271
+"AS398324","Censys, Inc.",15394
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10768
 "AS14061","DigitalOcean, LLC",8621
@@ -20,13 +20,13 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3252
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2909
-"AS6939","Hurricane Electric LLC",2825
+"AS6939","Hurricane Electric LLC",2827
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2541
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1997
-"AS32475","Internap Holding LLC",1677
+"AS32475","Internap Holding LLC",1678
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1552
 "AS49870","Alsycon B.V.",1503
@@ -99,7 +99,7 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS29484","Ruhr-Universitaet Bochum",217
 "AS14987","Rethem Hosting LLC",215
-"AS12555","Data-center IMAQLIQ Ltd.",204
+"AS12555","Data-center IMAQLIQ Ltd.",205
 "AS63199","CDS Global Cloud Co., Ltd",190
 "AS7552","Viettel Group",182
 "AS50219","LNK SYSTEMS MUNTENIA SRL",180
@@ -165,10 +165,10 @@ ASN,Organization,IP_Count
 "AS6128","Cablevision Systems Corp.",66
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
+"AS19318","Interserver, Inc",64
 "AS44592","SkyLink Data Center BV",64
 "AS5650","Frontier Communications of America, Inc.",64
 "AS17378","TierPoint, LLC",63
-"AS19318","Interserver, Inc",63
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",62
 "AS140717","China Unicom",61
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
