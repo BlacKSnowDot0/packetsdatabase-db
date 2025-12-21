@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87865
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22266
-"AS398324","Censys, Inc.",15373
+"AS398324","Censys, Inc.",15374
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10764
-"AS14061","DigitalOcean, LLC",8612
+"AS14061","DigitalOcean, LLC",8613
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6078
 "AS4134","Chinanet",5106
@@ -25,10 +25,10 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2540
 "AS9808","China Mobile",2084
-"AS202425","IP Volume inc",1993
+"AS202425","IP Volume inc",1994
 "AS32475","Internap Holding LLC",1673
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1551
+"AS209605","UAB Host Baltic",1552
 "AS49870","Alsycon B.V.",1503
 "AS36352","HostPapa",1482
 "AS13335","Cloudflare, Inc.",1450
@@ -58,13 +58,13 @@ ASN,Organization,IP_Count
 "AS12876","ONLINE S.A.S.",616
 "AS201814","MEVSPACE sp. z o.o.",596
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS51115","HLL LLC",593
+"AS51115","HLL LLC",594
 "AS3462","Chunghwa Telecom Co., Ltd.",586
 "AS9009","M247 Europe SRL",577
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS53667","FranTech Solutions",554
-"AS9829","Bharat Sanchar Nigam Ltd",548
+"AS9829","Bharat Sanchar Nigam Ltd",549
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
@@ -327,6 +327,7 @@ ASN,Organization,IP_Count
 "AS24151","China Internet Network Infomation Center",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS30823","aurologic GmbH",20
+"AS401152","Ace Data Centers II, L.L.C.",20
 "AS6181","Cincinnati Bell Telephone Company LLC",20
 "AS11426","Charter Communications Inc",19
 "AS11878","tzulo, inc.",19
@@ -338,7 +339,6 @@ ASN,Organization,IP_Count
 "AS22927","Telefonica de Argentina",19
 "AS24757","EthioNet",19
 "AS262287","Maxihost LTDA",19
-"AS401152","Ace Data Centers II, L.L.C.",19
 "AS40676","Psychz Networks",19
 "AS49531","""NetCom-R"" LLC",19
 "AS6167","Verizon Business",19
