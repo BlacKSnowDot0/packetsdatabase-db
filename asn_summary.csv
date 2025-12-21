@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87865
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22268
-"AS398324","Censys, Inc.",15390
+"AS398324","Censys, Inc.",15391
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10768
-"AS14061","DigitalOcean, LLC",8620
+"AS14061","DigitalOcean, LLC",8621
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6078
 "AS4134","Chinanet",5106
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4379
 "AS45102","Alibaba (US) Technology Co., Ltd.",4203
 "AS396998","Path Network, Inc.",3992
-"AS0","",3813
+"AS0","",3814
 "AS63949","Akamai Technologies, Inc.",3686
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3252
@@ -63,7 +63,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",577
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS53667","FranTech Solutions",555
+"AS53667","FranTech Solutions",556
 "AS9829","Bharat Sanchar Nigam Ltd",550
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
@@ -83,7 +83,7 @@ ASN,Organization,IP_Count
 "AS208843","Alpha Strike Labs GmbH",318
 "AS214943","Railnet LLC",318
 "AS45899","VNPT Corp",318
-"AS213613","BOTSHIELD LTD",309
+"AS213613","BOTSHIELD LTD",310
 "AS24863","LINKdotNET AS number",307
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",298
 "AS9341","PT Indonesia Comnets Plus",297
@@ -127,8 +127,8 @@ ASN,Organization,IP_Count
 "AS47331","TTNet A.S.",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS199785","Cloud Hosting Solutions, Limited.",102
+"AS30083","velia.net",101
 "AS136435","ELITE COMMUNICATION",100
-"AS30083","velia.net",100
 "AS63018","Dedicated.com",95
 "AS11320","LightEdge Solutions",94
 "AS205352","KABELNET LTD",93
@@ -2821,6 +2821,7 @@ ASN,Organization,IP_Count
 "AS47253","BCI Telecommunication & Advanced Technology Company",1
 "AS4750","CS Loxinfo Public Company Limited",1
 "AS47626","Timer, LLC",1
+"AS4764","Wideband Networks Pty Ltd",1
 "AS4775","Globe Telecom (GMCR,INC)",1
 "AS47782","FastNet Ltd.",1
 "AS47883","KIBRIS MOBILE TELEKOMUNIKASYON LTD.",1
