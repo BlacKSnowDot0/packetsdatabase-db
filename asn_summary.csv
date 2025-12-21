@@ -45,7 +45,7 @@ ASN,Organization,IP_Count
 "AS208684","BHA CONSEIL SARL",1022
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",871
-"AS51167","Contabo GmbH",867
+"AS51167","Contabo GmbH",868
 "AS215925","VPSVAULT.HOST LTD",854
 "AS20052","Arbor Networks, Inc.",846
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -128,7 +128,7 @@ ASN,Organization,IP_Count
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS199785","Cloud Hosting Solutions, Limited.",102
 "AS136435","ELITE COMMUNICATION",100
-"AS30083","velia.net",99
+"AS30083","velia.net",100
 "AS63018","Dedicated.com",95
 "AS11320","LightEdge Solutions",94
 "AS205352","KABELNET LTD",93
@@ -238,8 +238,8 @@ ASN,Organization,IP_Count
 "AS34665","Petersburg Internet Network ltd.",34
 "AS4847","China Networks Inter-Exchange",34
 "AS55990","Huawei Cloud Service data center",34
+"AS56067","Metrabyte Co.,Ltd",34
 "AS45671","Servers Australia Pty. Ltd",33
-"AS56067","Metrabyte Co.,Ltd",33
 "AS8796","FD-298-8796",33
 "AS9498","Bharti Airtel Limited",33
 "AS12912","T-Mobile Polska S.A.",32
@@ -612,6 +612,7 @@ ASN,Organization,IP_Count
 "AS212219","HOSTING DUNYAM BILISIM TEKNOLOJILERI TICARET LIMITED SIRKETI",6
 "AS212374","Virtuozzo International GmbH",6
 "AS212598","SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.",6
+"AS212815","Dyjix SAS",6
 "AS213893","IPTransit Business LTD",6
 "AS214762","Sebastian Stefanek trading as MatHost.eu",6
 "AS216158","Teleport Rus LLC",6
@@ -683,7 +684,6 @@ ASN,Organization,IP_Count
 "AS21246","IPKO Telecommunications LLC",5
 "AS212552","BitCommand LLC",5
 "AS212695","Link Telecom Service Ltd",5
-"AS212815","Dyjix SAS",5
 "AS213851","Marcel Hanisch",5
 "AS215311","Regxa Company for Information Technology Ltd",5
 "AS22612","Namecheap, Inc.",5
