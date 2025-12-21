@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87867
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87868
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22271
-"AS398324","Censys, Inc.",15416
+"AS398324","Censys, Inc.",15417
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10770
-"AS14061","DigitalOcean, LLC",8623
+"AS14061","DigitalOcean, LLC",8624
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6079
 "AS4134","Chinanet",5107
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4379
 "AS45102","Alibaba (US) Technology Co., Ltd.",4210
 "AS396998","Path Network, Inc.",3992
-"AS0","",3815
+"AS0","",3821
 "AS63949","Akamai Technologies, Inc.",3686
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3252
@@ -45,7 +45,7 @@ ASN,Organization,IP_Count
 "AS208684","BHA CONSEIL SARL",1023
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",871
-"AS51167","Contabo GmbH",870
+"AS51167","Contabo GmbH",871
 "AS215925","VPSVAULT.HOST LTD",855
 "AS20052","Arbor Networks, Inc.",847
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -1320,6 +1320,7 @@ ASN,Organization,IP_Count
 "AS270581","JET NETWORK TELECOMUNICAÇÃO LTDA",2
 "AS270605","Agatha.net Informatica EIRELI",2
 "AS270961","SIM INTERNET PROVEDORES DE INTERNET EIRELI.",2
+"AS271074","Brasil Fibra comunicação multimidia LTD",2
 "AS271187","Garbin Center Informatica Ltda Me",2
 "AS271907","COLNETWORK C.A.",2
 "AS27202","City of Bardstown, Kentucky",2
@@ -2452,7 +2453,6 @@ ASN,Organization,IP_Count
 "AS271018","Alexandre B. de Souza",1
 "AS271062","RL MultiFibra Internet",1
 "AS271063","GF WEB TELECOM",1
-"AS271074","Brasil Fibra comunicação multimidia LTD",1
 "AS271111","NET7 PROVEDOR DE INTERNET",1
 "AS271116","DTS TELECOMUNICAÇÕES",1
 "AS271136","ACK TELECOMUNICACOES LTDA ­ ME",1
