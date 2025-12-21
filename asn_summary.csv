@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87865
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22265
-"AS398324","Censys, Inc.",15366
+"AS211298","Driftnet Ltd",22266
+"AS398324","Censys, Inc.",15371
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10764
-"AS14061","DigitalOcean, LLC",8610
+"AS14061","DigitalOcean, LLC",8611
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6078
 "AS4134","Chinanet",5106
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2539
 "AS9808","China Mobile",2084
-"AS202425","IP Volume inc",1992
+"AS202425","IP Volume inc",1993
 "AS32475","Internap Holding LLC",1673
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1551
@@ -118,8 +118,8 @@ ASN,Organization,IP_Count
 "AS151185","China Telecom",126
 "AS8560","IONOS SE",123
 "AS36007","Kamatera, Inc.",122
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",117
 "AS4766","Korea Telecom",117
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",116
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",110
