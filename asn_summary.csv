@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87865
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22271
-"AS398324","Censys, Inc.",15394
+"AS398324","Censys, Inc.",15395
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10768
 "AS14061","DigitalOcean, LLC",8621
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2541
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1997
-"AS32475","Internap Holding LLC",1678
+"AS32475","Internap Holding LLC",1679
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1552
 "AS49870","Alsycon B.V.",1503
@@ -45,7 +45,7 @@ ASN,Organization,IP_Count
 "AS208684","BHA CONSEIL SARL",1023
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",871
-"AS51167","Contabo GmbH",869
+"AS51167","Contabo GmbH",870
 "AS215925","VPSVAULT.HOST LTD",855
 "AS20052","Arbor Networks, Inc.",847
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -229,11 +229,11 @@ ASN,Organization,IP_Count
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",36
 "AS4760","PCCW IMS Limited",36
 "AS213790","Limited Network LTD",35
+"AS215762","Bullet Group LTD",35
 "AS28546","Servnet Mexico, S.A. de C.V.",35
 "AS9123","TimeWeb Ltd.",35
 "AS146817","Hubei Feixun Network Co., Ltd",34
 "AS21127","Joint Stock Company TransTeleCom",34
-"AS215762","Bullet Group LTD",34
 "AS269193","Iktelecom Ltda",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS4847","China Networks Inter-Exchange",34
@@ -2930,6 +2930,7 @@ ASN,Organization,IP_Count
 "AS53047","Intercol Serviços de Internet Ltda",1
 "AS53054","GREEN TELECOMUNICACOES",1
 "AS53065","Opcao Telecom",1
+"AS53088","FORNET COMUNICACOES LTDA",1
 "AS53142","Friburgo Online LTDA ME",1
 "AS53146","R2 Telecom Com. Prod. Inform. Ltda",1
 "AS53169","Tche Turbo Provedor de Internet LTDA",1
