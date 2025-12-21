@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87866
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22271
-"AS398324","Censys, Inc.",15402
+"AS398324","Censys, Inc.",15404
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10768
-"AS14061","DigitalOcean, LLC",8621
+"AS14061","DigitalOcean, LLC",8622
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6078
 "AS4134","Chinanet",5107
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2541
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1997
-"AS32475","Internap Holding LLC",1679
+"AS32475","Internap Holding LLC",1680
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1553
 "AS49870","Alsycon B.V.",1503
@@ -116,7 +116,7 @@ ASN,Organization,IP_Count
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
 "AS151185","China Telecom",126
-"AS8560","IONOS SE",125
+"AS8560","IONOS SE",126
 "AS36007","Kamatera, Inc.",122
 "AS4766","Korea Telecom",118
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",117
@@ -1031,6 +1031,7 @@ ASN,Organization,IP_Count
 "AS49242","Internet Union Spolka Akcyjna",3
 "AS49332","Lanet Network Ltd",3
 "AS49981","WorldStream B.V.",3
+"AS50028","EDGOO NETWORKS UNIPESSOAL LDA",3
 "AS5065","Bunny Communications",3
 "AS51742","FOP Molochko Nina Vasilievna,",3
 "AS52041","Scaleblade, Ltd.",3
@@ -1452,7 +1453,6 @@ ASN,Organization,IP_Count
 "AS49724","CJSC Vainah Telecom",2
 "AS49889","Crystal Telecom Ltd",2
 "AS50012","LLC ""BEST-LINK""",2
-"AS50028","EDGOO NETWORKS UNIPESSOAL LDA",2
 "AS50648","PE UAinet",2
 "AS50852","INTERRA Ltd.",2
 "AS50886","NETFIL SRL",2
@@ -2768,6 +2768,7 @@ ASN,Organization,IP_Count
 "AS42548","PJSC Rostelecom",1
 "AS42560","Telemach BH d.o.o. Sarajevo",1
 "AS42574","Novaya Sibir Plus Ltd.",1
+"AS42831","UK Dedicated Servers Limited",1
 "AS42841","ANTIK Telecom s.r.o",1
 "AS42922","KaspNet Ltd.",1
 "AS42925","Internet Rimon LTD",1
