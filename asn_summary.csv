@@ -5,14 +5,14 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",15382
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10767
-"AS14061","DigitalOcean, LLC",8614
+"AS14061","DigitalOcean, LLC",8617
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6078
 "AS4134","Chinanet",5106
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4460
 "AS16509","Amazon.com, Inc.",4379
-"AS45102","Alibaba (US) Technology Co., Ltd.",4201
+"AS45102","Alibaba (US) Technology Co., Ltd.",4202
 "AS396998","Path Network, Inc.",3992
 "AS0","",3813
 "AS63949","Akamai Technologies, Inc.",3686
@@ -47,7 +47,7 @@ ASN,Organization,IP_Count
 "AS208046","ColocationX Ltd.",871
 "AS51167","Contabo GmbH",866
 "AS215925","VPSVAULT.HOST LTD",854
-"AS20052","Arbor Networks, Inc.",845
+"AS20052","Arbor Networks, Inc.",846
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",805
