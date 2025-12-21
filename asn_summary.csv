@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87865
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22268
-"AS398324","Censys, Inc.",15389
+"AS398324","Censys, Inc.",15390
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10768
 "AS14061","DigitalOcean, LLC",8620
@@ -25,8 +25,8 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2541
 "AS9808","China Mobile",2084
-"AS202425","IP Volume inc",1996
-"AS32475","Internap Holding LLC",1676
+"AS202425","IP Volume inc",1997
+"AS32475","Internap Holding LLC",1677
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1552
 "AS49870","Alsycon B.V.",1503
@@ -46,13 +46,13 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",871
 "AS51167","Contabo GmbH",869
-"AS215925","VPSVAULT.HOST LTD",854
-"AS20052","Arbor Networks, Inc.",846
+"AS215925","VPSVAULT.HOST LTD",855
+"AS20052","Arbor Networks, Inc.",847
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",756
-"AS10439","CariNet, Inc.",733
+"AS10439","CariNet, Inc.",734
 "AS14618","Amazon.com, Inc.",730
 "AS12876","ONLINE S.A.S.",617
 "AS4837","CHINA UNICOM China169 Backbone",617
@@ -268,6 +268,7 @@ ASN,Organization,IP_Count
 "AS58212","dataforest GmbH",28
 "AS17995","PT iForte Global Internet",27
 "AS271597","NEW LINK CONNECT",27
+"AS2914","NTT America, Inc.",27
 "AS34534","FBW NETWORKS SAS",27
 "AS4713","NTT Communications Corporation",27
 "AS53118","NETLINE TELECOM",27
@@ -276,7 +277,6 @@ ASN,Organization,IP_Count
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",26
 "AS2200","Renater",26
 "AS23693","PT. Telekomunikasi Selular",26
-"AS2914","NTT America, Inc.",26
 "AS3209","Vodafone GmbH",26
 "AS41745","Baykov Ilya Sergeevich",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
@@ -3054,6 +3054,7 @@ ASN,Organization,IP_Count
 "AS63473","HostHatch, LLC",1
 "AS63491","Universitas Katolik Widya Mandala",1
 "AS63497","PT. Arana Teknologi Indonesia",1
+"AS6364","Atlantic.net, Inc.",1
 "AS63835","No.293,Wanbao Avenue",1
 "AS63885","PT Inovasi Tjaraka Buana",1
 "AS6389","AT&T Enterprises, LLC",1
