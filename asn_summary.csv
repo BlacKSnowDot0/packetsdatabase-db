@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87865
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22268
-"AS398324","Censys, Inc.",15385
+"AS398324","Censys, Inc.",15386
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10767
 "AS14061","DigitalOcean, LLC",8618
@@ -16,17 +16,17 @@ ASN,Organization,IP_Count
 "AS396998","Path Network, Inc.",3992
 "AS0","",3813
 "AS63949","Akamai Technologies, Inc.",3686
-"AS15169","Google LLC",3577
+"AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3252
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2908
-"AS6939","Hurricane Electric LLC",2824
+"AS6939","Hurricane Electric LLC",2825
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2540
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",1995
-"AS32475","Internap Holding LLC",1675
+"AS32475","Internap Holding LLC",1676
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1552
 "AS49870","Alsycon B.V.",1503
@@ -58,7 +58,7 @@ ASN,Organization,IP_Count
 "AS12876","ONLINE S.A.S.",616
 "AS201814","MEVSPACE sp. z o.o.",596
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS51115","HLL LLC",595
+"AS51115","HLL LLC",596
 "AS3462","Chunghwa Telecom Co., Ltd.",586
 "AS9009","M247 Europe SRL",577
 "AS31148","Freenet LTD",558
@@ -116,7 +116,7 @@ ASN,Organization,IP_Count
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
 "AS151185","China Telecom",126
-"AS8560","IONOS SE",124
+"AS8560","IONOS SE",125
 "AS36007","Kamatera, Inc.",122
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",117
 "AS4766","Korea Telecom",117
@@ -313,6 +313,7 @@ ASN,Organization,IP_Count
 "AS214668","AxusHost B.V.",21
 "AS24348","CERNET2 IX at Tsinghua University",21
 "AS400536","Nodestop LLC",21
+"AS401152","Ace Data Centers II, L.L.C.",21
 "AS46573","LayerHost",21
 "AS4800","PT Aplikanusa Lintasarta",21
 "AS4816","China Telecom (Group)",21
@@ -327,7 +328,6 @@ ASN,Organization,IP_Count
 "AS24151","China Internet Network Infomation Center",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS30823","aurologic GmbH",20
-"AS401152","Ace Data Centers II, L.L.C.",20
 "AS6181","Cincinnati Bell Telephone Company LLC",20
 "AS11426","Charter Communications Inc",19
 "AS11878","tzulo, inc.",19
@@ -1452,6 +1452,7 @@ ASN,Organization,IP_Count
 "AS49724","CJSC Vainah Telecom",2
 "AS49889","Crystal Telecom Ltd",2
 "AS50012","LLC ""BEST-LINK""",2
+"AS50028","EDGOO NETWORKS UNIPESSOAL LDA",2
 "AS50648","PE UAinet",2
 "AS50852","INTERRA Ltd.",2
 "AS50886","NETFIL SRL",2
@@ -2852,7 +2853,6 @@ ASN,Organization,IP_Count
 "AS49909","Direct One SA",1
 "AS50010","Omani Qatari Telecommunications Company SAOC",1
 "AS50013","Multicomp Ltd.",1
-"AS50028","EDGOO NETWORKS UNIPESSOAL LDA",1
 "AS5009","REV",1
 "AS50241","UnitTelecom Ltd",1
 "AS50266","Odido Netherlands B.V.",1
