@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87868
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22271
-"AS398324","Censys, Inc.",15417
+"AS398324","Censys, Inc.",15421
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10770
-"AS14061","DigitalOcean, LLC",8624
+"AS396982","Google LLC",10773
+"AS14061","DigitalOcean, LLC",8625
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6079
 "AS4134","Chinanet",5107
@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",4210
 "AS396998","Path Network, Inc.",3992
 "AS0","",3821
-"AS63949","Akamai Technologies, Inc.",3686
+"AS63949","Akamai Technologies, Inc.",3687
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3252
 "AS398705","Censys, Inc.",3238
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",871
 "AS51167","Contabo GmbH",871
-"AS215925","VPSVAULT.HOST LTD",855
+"AS215925","VPSVAULT.HOST LTD",856
 "AS20052","Arbor Networks, Inc.",847
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -247,10 +247,10 @@ ASN,Organization,IP_Count
 "AS1241","RIPE Network Coordination Centre",31
 "AS13213","UK-2 Limited",31
 "AS17557","Pakistan Telecommuication company limited",31
+"AS197540","netcup GmbH",31
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",31
 "AS55933","Cloudie Limited",31
 "AS852","TELUS Communications Inc.",31
-"AS197540","netcup GmbH",30
 "AS200593","PROSPERO OOO",30
 "AS214417","Andrii Hrosh",30
 "AS3269","Telecom Italia S.p.A.",29
@@ -509,6 +509,7 @@ ASN,Organization,IP_Count
 "AS138754","Kerala Vision Broad Band Private Limited",8
 "AS141295","Madhya Pradesh Agency For Promotion   Of Information Technology",8
 "AS150179","KAAL TECH CO., LIMITED",8
+"AS16611","InfiniaHost.com",8
 "AS17882","MCS Com Co Ltd",8
 "AS18209","Atria Convergence Technologies Pvt. Ltd.,",8
 "AS18986","Calligo (Canada) Inc.",8
@@ -550,7 +551,6 @@ ASN,Organization,IP_Count
 "AS149360","PT Indo Telemedia Solusi",7
 "AS150034","FOFO NETWORKS PVT LTD",7
 "AS153096","PT High Speed Connection Network",7
-"AS16611","InfiniaHost.com",7
 "AS17762","Tata Teleservices (Maharashtra) Ltd",7
 "AS17858","LG POWERCOMM",7
 "AS19148","Leaseweb USA, Inc.",7
