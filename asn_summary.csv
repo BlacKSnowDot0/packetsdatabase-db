@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87871
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22272
-"AS398324","Censys, Inc.",15443
+"AS398324","Censys, Inc.",15444
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10776
 "AS14061","DigitalOcean, LLC",8629
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4379
 "AS45102","Alibaba (US) Technology Co., Ltd.",4212
 "AS396998","Path Network, Inc.",3992
-"AS0","",3825
+"AS0","",3826
 "AS63949","Akamai Technologies, Inc.",3689
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3254
@@ -71,7 +71,7 @@ ASN,Organization,IP_Count
 "AS212238","Datacamp Limited",476
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",403
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",404
 "AS7018","AT&T Enterprises, LLC",399
 "AS47890","UNMANAGED LTD",390
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -108,7 +108,7 @@ ASN,Organization,IP_Count
 "AS42237","w1n ltd",167
 "AS262551","Farol Telecom",154
 "AS206264","Amarutu Technology Ltd",153
-"AS215240","Silent Connection Ltd.",152
+"AS215240","Silent Connection Ltd.",153
 "AS14956","RouterHosting LLC",144
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
@@ -185,9 +185,9 @@ ASN,Organization,IP_Count
 "AS202796","JSR IT B.V.",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
 "AS213877","u1host ltd",54
+"AS263025","ISPTEC Sistemas de Comunicação Eireli",54
 "AS30058","FDCservers.net",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
-"AS263025","ISPTEC Sistemas de Comunicação Eireli",53
 "AS200590","NLS Kazakhstan LLC",52
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",50
 "AS266181","GOLDEN LINK",48
@@ -264,6 +264,7 @@ ASN,Organization,IP_Count
 "AS30860","Virtual Systems LLC",28
 "AS329490","Promethean Consulting Limited",28
 "AS3786","LG DACOM Corporation",28
+"AS4713","NTT Communications Corporation",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS58212","dataforest GmbH",28
 "AS17995","PT iForte Global Internet",27
@@ -271,7 +272,6 @@ ASN,Organization,IP_Count
 "AS271597","NEW LINK CONNECT",27
 "AS2914","NTT America, Inc.",27
 "AS34534","FBW NETWORKS SAS",27
-"AS4713","NTT Communications Corporation",27
 "AS53118","NETLINE TELECOM",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",27
