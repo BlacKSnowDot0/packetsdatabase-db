@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87871
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22274
-"AS398324","Censys, Inc.",15454
+"AS398324","Censys, Inc.",15456
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10776
-"AS14061","DigitalOcean, LLC",8632
+"AS14061","DigitalOcean, LLC",8633
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6081
 "AS4134","Chinanet",5109
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2563
 "AS9808","China Mobile",2085
 "AS202425","IP Volume inc",2005
-"AS32475","Internap Holding LLC",1688
+"AS32475","Internap Holding LLC",1689
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1555
 "AS49870","Alsycon B.V.",1524
@@ -115,8 +115,8 @@ ASN,Organization,IP_Count
 "AS13238","YANDEX LLC",133
 "AS8560","IONOS SE",131
 "AS137409","GSL Networks Pty LTD",128
+"AS151185","China Telecom",127
 "AS19905","Neustar Security Services",127
-"AS151185","China Telecom",126
 "AS36007","Kamatera, Inc.",122
 "AS4766","Korea Telecom",118
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",117
@@ -295,6 +295,7 @@ ASN,Organization,IP_Count
 "AS198037","SPACECORE SOLUTION LTD",23
 "AS20853","eTOP sp. z o.o.",23
 "AS3257","GTT Communications Inc.",23
+"AS401152","Ace Data Centers II, L.L.C.",23
 "AS62240","Clouvider Limited",23
 "AS7303","Telecom Argentina S.A.",23
 "AS136142","Enigma Fiber Pvt Ltd",22
@@ -302,7 +303,6 @@ ASN,Organization,IP_Count
 "AS17561","Larus Limited",22
 "AS213010","Gening Nikita Dmitrievich",22
 "AS3320","Deutsche Telekom AG",22
-"AS401152","Ace Data Centers II, L.L.C.",22
 "AS40676","Psychz Networks",22
 "AS43289","Trabia SRL",22
 "AS45758","Triple T Broadband Public Company Limited",22
@@ -2088,6 +2088,7 @@ ASN,Organization,IP_Count
 "AS25310","Vodafone Limited",1
 "AS25403","Firm Delta PE",1
 "AS2549","Universidad de Guadalajara",1
+"AS25512","CD-Telematika a.s.",1
 "AS25515","PJSC Rostelecom",1
 "AS25520","JSC ""Futures Telecom""",1
 "AS25521","Industrial Media Network LLC",1
