@@ -353,6 +353,7 @@ ASN,Organization,IP_Count
 "AS148981","China Telecom",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
+"AS32613","Leaseweb Canada Inc.",17
 "AS33363","Charter Communications, Inc",17
 "AS45117","Ishan's Network",17
 "AS46375","Sonic Telecom LLC",17
@@ -367,7 +368,6 @@ ASN,Organization,IP_Count
 "AS24812","NPK Home-Net Ltd.",16
 "AS25198","INTERKVM HOST SRL",16
 "AS3215","Orange S.A.",16
-"AS32613","Leaseweb Canada Inc.",16
 "AS328539","Giga for Telecommunication and Technology Limited",16
 "AS39351","31173 Services AB",16
 "AS46261","QuickPacket, LLC",16
@@ -769,6 +769,7 @@ ASN,Organization,IP_Count
 "AS15924","Vodafone Net Iletisim Hizmetler AS",4
 "AS17511","OPTAGE Inc.",4
 "AS197450","SUNUCUN BILGI ILETISIM TEKNOLOJILERI VE TICARET LIMITED SIRKETI",4
+"AS199152","Virtual Data Center Inc",4
 "AS200845","AVATEL TELECOM, SA",4
 "AS20150","anyNode",4
 "AS203380","DA International Group Ltd.",4
@@ -922,7 +923,6 @@ ASN,Organization,IP_Count
 "AS19108","Suddenlink Communications",3
 "AS19331","Twin Lakes Telephone Cooperative Corporation",3
 "AS196949","Natalia Sergeevna Filicheva",3
-"AS199152","Virtual Data Center Inc",3
 "AS199468","GRAIN COMMUNICATIONS LIMITED",3
 "AS200359","Grupo Proveedor tecnologico Universal SL",3
 "AS20055","Wholesail networks LLC",3
