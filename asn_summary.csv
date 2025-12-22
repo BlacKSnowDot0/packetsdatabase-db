@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87869
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22272
-"AS398324","Censys, Inc.",15427
+"AS398324","Censys, Inc.",15428
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10774
 "AS14061","DigitalOcean, LLC",8627
@@ -14,8 +14,8 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4379
 "AS45102","Alibaba (US) Technology Co., Ltd.",4210
 "AS396998","Path Network, Inc.",3992
-"AS0","",3823
-"AS63949","Akamai Technologies, Inc.",3688
+"AS0","",3824
+"AS63949","Akamai Technologies, Inc.",3689
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3254
 "AS398705","Censys, Inc.",3238
@@ -23,7 +23,7 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2828
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
-"AS23470","ReliableSite.Net LLC",2555
+"AS23470","ReliableSite.Net LLC",2556
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",2000
 "AS32475","Internap Holding LLC",1684
@@ -129,8 +129,8 @@ ASN,Organization,IP_Count
 "AS199785","Cloud Hosting Solutions, Limited.",103
 "AS30083","velia.net",101
 "AS136435","ELITE COMMUNICATION",100
+"AS11320","LightEdge Solutions",95
 "AS63018","Dedicated.com",95
-"AS11320","LightEdge Solutions",94
 "AS205352","KABELNET LTD",93
 "AS5617","Orange Polska Spolka Akcyjna",93
 "AS28209","Under Servicos de Internet Ltda",92
@@ -213,9 +213,9 @@ ASN,Organization,IP_Count
 "AS27699","TELEFÔNICA BRASIL S.A",40
 "AS43641","SOLLUTIUM EU Sp z.o.o.",40
 "AS5089","Virgin Media Limited",40
+"AS329009","Spectrum Internet Service Ltd",39
 "AS8048","CANTV Servicios, Venezuela",39
 "AS9198","JSC Kazakhtelecom",39
-"AS329009","Spectrum Internet Service Ltd",38
 "AS4538","China Education and Research Network Center",38
 "AS1680","Cellcom Fixed Line Communication L.P",37
 "AS204834","Shabakieh Isfahan Co PJSC",37
@@ -227,10 +227,10 @@ ASN,Organization,IP_Count
 "AS149705","PT Wijaya Trimitra Indonesia",36
 "AS210509","Optimum Line for Internet Services Ltd.",36
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",36
+"AS28546","Servnet Mexico, S.A. de C.V.",36
 "AS4760","PCCW IMS Limited",36
 "AS213790","Limited Network LTD",35
 "AS215762","Bullet Group LTD",35
-"AS28546","Servnet Mexico, S.A. de C.V.",35
 "AS9123","TimeWeb Ltd.",35
 "AS146817","Hubei Feixun Network Co., Ltd",34
 "AS21127","Joint Stock Company TransTeleCom",34
@@ -328,6 +328,7 @@ ASN,Organization,IP_Count
 "AS24151","China Internet Network Infomation Center",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS30823","aurologic GmbH",20
+"AS40676","Psychz Networks",20
 "AS6181","Cincinnati Bell Telephone Company LLC",20
 "AS11426","Charter Communications Inc",19
 "AS11878","tzulo, inc.",19
@@ -339,7 +340,6 @@ ASN,Organization,IP_Count
 "AS22927","Telefonica de Argentina",19
 "AS24757","EthioNet",19
 "AS262287","Maxihost LTDA",19
-"AS40676","Psychz Networks",19
 "AS49531","""NetCom-R"" LLC",19
 "AS6167","Verizon Business",19
 "AS6697","Republican Unitary Telecommunication Enterprise Beltelecom",19
