@@ -2,17 +2,17 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87871
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22272
-"AS398324","Censys, Inc.",15449
+"AS398324","Censys, Inc.",15450
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10776
-"AS14061","DigitalOcean, LLC",8629
+"AS14061","DigitalOcean, LLC",8630
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6081
 "AS4134","Chinanet",5109
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4460
 "AS16509","Amazon.com, Inc.",4379
-"AS45102","Alibaba (US) Technology Co., Ltd.",4212
+"AS45102","Alibaba (US) Technology Co., Ltd.",4213
 "AS396998","Path Network, Inc.",3992
 "AS0","",3828
 "AS63949","Akamai Technologies, Inc.",3689
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3254
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2912
-"AS6939","Hurricane Electric LLC",2833
+"AS6939","Hurricane Electric LLC",2835
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2560
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1555
 "AS49870","Alsycon B.V.",1523
-"AS36352","HostPapa",1483
+"AS36352","HostPapa",1484
 "AS13335","Cloudflare, Inc.",1451
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1445
@@ -100,7 +100,7 @@ ASN,Organization,IP_Count
 "AS29484","Ruhr-Universitaet Bochum",218
 "AS14987","Rethem Hosting LLC",215
 "AS12555","Data-center IMAQLIQ Ltd.",206
-"AS63199","CDS Global Cloud Co., Ltd",190
+"AS63199","CDS Global Cloud Co., Ltd",191
 "AS7552","Viettel Group",182
 "AS50219","LNK SYSTEMS MUNTENIA SRL",180
 "AS34984","Superonline Iletisim Hizmetleri A.S.",171
@@ -216,8 +216,8 @@ ASN,Organization,IP_Count
 "AS329009","Spectrum Internet Service Ltd",39
 "AS8048","CANTV Servicios, Venezuela",39
 "AS9198","JSC Kazakhtelecom",39
+"AS1103","SURF B.V.",38
 "AS4538","China Education and Research Network Center",38
-"AS1103","SURF B.V.",37
 "AS1680","Cellcom Fixed Line Communication L.P",37
 "AS204834","Shabakieh Isfahan Co PJSC",37
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",37
@@ -1412,6 +1412,7 @@ ASN,Organization,IP_Count
 "AS42109","MTS Armenia CJSC",2
 "AS4213","Krypt Technologies",2
 "AS42313","ONE ALBANIA SH.A.",2
+"AS42560","Telemach BH d.o.o. Sarajevo",2
 "AS42683","JSC ""ER-Telecom Holding""",2
 "AS42714","Kichkas Network Ltd.",2
 "AS42723","TRK Vektor Ltd.",2
@@ -2766,7 +2767,6 @@ ASN,Organization,IP_Count
 "AS42489","Zemlyanoy Bogdan Olegovich",1
 "AS42504","SPD Bilopol Roman Leonidovich",1
 "AS42548","PJSC Rostelecom",1
-"AS42560","Telemach BH d.o.o. Sarajevo",1
 "AS42574","Novaya Sibir Plus Ltd.",1
 "AS42831","UK Dedicated Servers Limited",1
 "AS42841","ANTIK Telecom s.r.o",1
