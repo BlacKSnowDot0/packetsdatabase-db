@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87871
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22272
-"AS398324","Censys, Inc.",15446
+"AS398324","Censys, Inc.",15448
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10776
 "AS14061","DigitalOcean, LLC",8629
@@ -20,13 +20,13 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3254
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2911
-"AS6939","Hurricane Electric LLC",2832
+"AS6939","Hurricane Electric LLC",2833
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2560
 "AS9808","China Mobile",2084
 "AS202425","IP Volume inc",2004
-"AS32475","Internap Holding LLC",1685
+"AS32475","Internap Holding LLC",1686
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1555
 "AS49870","Alsycon B.V.",1523
@@ -42,7 +42,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
-"AS208684","BHA CONSEIL SARL",1024
+"AS208684","BHA CONSEIL SARL",1025
 "AS51852","Private Layer INC",907
 "AS51167","Contabo GmbH",875
 "AS208046","ColocationX Ltd.",871
@@ -106,9 +106,9 @@ ASN,Organization,IP_Count
 "AS34984","Superonline Iletisim Hizmetleri A.S.",171
 "AS401116","Nybula LLC",170
 "AS42237","w1n ltd",167
+"AS215240","Silent Connection Ltd.",154
 "AS262551","Farol Telecom",154
 "AS206264","Amarutu Technology Ltd",153
-"AS215240","Silent Connection Ltd.",153
 "AS14956","RouterHosting LLC",144
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
@@ -126,8 +126,8 @@ ASN,Organization,IP_Count
 "AS40021","Nubes, LLC",109
 "AS47331","TTNet A.S.",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
+"AS30083","velia.net",104
 "AS199785","Cloud Hosting Solutions, Limited.",103
-"AS30083","velia.net",103
 "AS136435","ELITE COMMUNICATION",100
 "AS11320","LightEdge Solutions",95
 "AS63018","Dedicated.com",95
@@ -675,6 +675,7 @@ ASN,Organization,IP_Count
 "AS151858","INTERDIGI JOINT STOCK COMPANY",5
 "AS16010","Magticom Ltd.",5
 "AS16223","MAXNET TELECOM, LTD",5
+"AS17511","OPTAGE Inc.",5
 "AS18229","CtrlS",5
 "AS18809","Cable Onda",5
 "AS198983","Joseph Hofmann trading as 'Tornado Datacenter GmbH & Co. KG'",5
@@ -767,7 +768,6 @@ ASN,Organization,IP_Count
 "AS15735","GO p.l.c.",4
 "AS15802","Emirates Integrated Telecommunications Company PJSC",4
 "AS15924","Vodafone Net Iletisim Hizmetler AS",4
-"AS17511","OPTAGE Inc.",4
 "AS197450","SUNUCUN BILGI ILETISIM TEKNOLOJILERI VE TICARET LIMITED SIRKETI",4
 "AS199152","Virtual Data Center Inc",4
 "AS200845","AVATEL TELECOM, SA",4
