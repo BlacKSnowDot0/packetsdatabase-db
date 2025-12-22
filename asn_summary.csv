@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1555
 "AS49870","Alsycon B.V.",1524
-"AS36352","HostPapa",1484
+"AS36352","HostPapa",1485
 "AS13335","Cloudflare, Inc.",1451
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS398722","Censys, Inc.",1445
@@ -89,7 +89,7 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS141718","haoxiangyun",269
-"AS18403","FPT Telecom Company",264
+"AS18403","FPT Telecom Company",265
 "AS48090","TECHOFF SRV LIMITED",261
 "AS60223","Netiface Limited",250
 "AS209272","Alviva Holding Limited",230
@@ -126,7 +126,7 @@ ASN,Organization,IP_Count
 "AS40021","Nubes, LLC",109
 "AS47331","TTNet A.S.",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
-"AS30083","velia.net",105
+"AS30083","velia.net",106
 "AS199785","Cloud Hosting Solutions, Limited.",104
 "AS136435","ELITE COMMUNICATION",100
 "AS11320","LightEdge Solutions",96
@@ -353,6 +353,7 @@ ASN,Organization,IP_Count
 "AS148981","China Telecom",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
+"AS3215","Orange S.A.",17
 "AS32613","Leaseweb Canada Inc.",17
 "AS33363","Charter Communications, Inc",17
 "AS45117","Ishan's Network",17
@@ -367,7 +368,6 @@ ASN,Organization,IP_Count
 "AS19901","Brightspeed",16
 "AS24812","NPK Home-Net Ltd.",16
 "AS25198","INTERKVM HOST SRL",16
-"AS3215","Orange S.A.",16
 "AS328539","Giga for Telecommunication and Technology Limited",16
 "AS39351","31173 Services AB",16
 "AS46261","QuickPacket, LLC",16
