@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",15454
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10776
-"AS14061","DigitalOcean, LLC",8630
+"AS14061","DigitalOcean, LLC",8631
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6081
 "AS4134","Chinanet",5109
@@ -23,13 +23,13 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2835
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
-"AS23470","ReliableSite.Net LLC",2562
+"AS23470","ReliableSite.Net LLC",2563
 "AS9808","China Mobile",2085
 "AS202425","IP Volume inc",2004
-"AS32475","Internap Holding LLC",1687
+"AS32475","Internap Holding LLC",1688
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1555
-"AS49870","Alsycon B.V.",1523
+"AS49870","Alsycon B.V.",1524
 "AS36352","HostPapa",1484
 "AS13335","Cloudflare, Inc.",1451
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -461,6 +461,7 @@ ASN,Organization,IP_Count
 "AS45820","TTSL-ISP DIVISION",11
 "AS48874","HOSTMAZE INC SRL-D",11
 "AS58563","CHINANET Hubei province network",11
+"AS13287","FALBOX S.L.",10
 "AS149359","PT Persada Data Multimedia",10
 "AS153443","VPSRE.NET LLC",10
 "AS17676","SoftBank Corp.",10
@@ -480,7 +481,6 @@ ASN,Organization,IP_Count
 "AS11172","Alestra, S. de R.L. de C.V.",9
 "AS12353","Vodafone Portugal - Communicacoes Pessoais S.A.",9
 "AS131596","TBC",9
-"AS13287","FALBOX S.L.",9
 "AS133481","ADVANCED WIRELESS NETWORK COMPANY LIMITED",9
 "AS135905","VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",9
 "AS135918","VIET DIGITAL TECHNOLOGY LIABILITY COMPANY",9
