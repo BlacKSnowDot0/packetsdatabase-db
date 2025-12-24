@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87873
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87874
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22274
-"AS398324","Censys, Inc.",15460
+"AS398324","Censys, Inc.",15462
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10777
-"AS14061","DigitalOcean, LLC",8635
+"AS14061","DigitalOcean, LLC",8636
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6082
 "AS4134","Chinanet",5109
@@ -14,13 +14,13 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4379
 "AS45102","Alibaba (US) Technology Co., Ltd.",4216
 "AS396998","Path Network, Inc.",3992
-"AS0","",3829
+"AS0","",3830
 "AS63949","Akamai Technologies, Inc.",3690
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3254
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2913
-"AS6939","Hurricane Electric LLC",2835
+"AS6939","Hurricane Electric LLC",2837
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2563
@@ -47,13 +47,13 @@ ASN,Organization,IP_Count
 "AS51167","Contabo GmbH",876
 "AS208046","ColocationX Ltd.",871
 "AS215925","VPSVAULT.HOST LTD",858
-"AS20052","Arbor Networks, Inc.",850
+"AS20052","Arbor Networks, Inc.",852
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",756
 "AS10439","CariNet, Inc.",737
-"AS14618","Amazon.com, Inc.",732
+"AS14618","Amazon.com, Inc.",733
 "AS12876","ONLINE S.A.S.",619
 "AS4837","CHINA UNICOM China169 Backbone",618
 "AS51115","HLL LLC",597
@@ -78,7 +78,7 @@ ASN,Organization,IP_Count
 "AS21859","Zenlayer Inc",378
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS7922","Comcast Cable Communications, LLC",352
-"AS8151","Uninet S.A. de C.V.",340
+"AS8151","Uninet S.A. de C.V.",341
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS208843","Alpha Strike Labs GmbH",318
 "AS214943","Railnet LLC",318
@@ -124,9 +124,9 @@ ASN,Organization,IP_Count
 "AS208287","DC Host INC",110
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",110
 "AS40021","Nubes, LLC",109
+"AS30083","velia.net",107
 "AS47331","TTNet A.S.",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
-"AS30083","velia.net",106
 "AS199785","Cloud Hosting Solutions, Limited.",104
 "AS136435","ELITE COMMUNICATION",100
 "AS11320","LightEdge Solutions",96
@@ -145,11 +145,11 @@ ASN,Organization,IP_Count
 "AS3920","ESTOXY OU",78
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",76
+"AS396356","Latitude.sh",76
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",75
 "AS32475","SingleHop LLC",75
 "AS150263","PT Alnet Telekomunikasi Indonesia",74
 "AS31898","Oracle Corporation",74
-"AS396356","Latitude.sh",74
 "AS56046","China Mobile Communications Corporation",74
 "AS200514","KnownSRV Ltd.",73
 "AS55720","Gigabit Hosting Sdn Bhd",71
