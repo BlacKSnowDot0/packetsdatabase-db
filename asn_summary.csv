@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87876
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22278
-"AS398324","Censys, Inc.",15483
+"AS398324","Censys, Inc.",15485
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10779
 "AS14061","DigitalOcean, LLC",8643
@@ -14,12 +14,12 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4379
 "AS45102","Alibaba (US) Technology Co., Ltd.",4222
 "AS396998","Path Network, Inc.",3992
-"AS0","",3831
+"AS0","",3832
 "AS63949","Akamai Technologies, Inc.",3694
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3254
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2919
+"AS8075","Microsoft Corporation",2920
 "AS6939","Hurricane Electric LLC",2845
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
@@ -121,8 +121,8 @@ ASN,Organization,IP_Count
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",119
 "AS4766","Korea Telecom",119
 "AS211298","Constantine Cybersecurity Ltd.",113
+"AS30083","velia.net",111
 "AS208287","DC Host INC",110
-"AS30083","velia.net",110
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",110
 "AS40021","Nubes, LLC",109
 "AS47331","TTNet A.S.",107
@@ -487,6 +487,7 @@ ASN,Organization,IP_Count
 "AS135918","VIET DIGITAL TECHNOLOGY LIABILITY COMPANY",9
 "AS138089","PT.Global Media Data Prima",9
 "AS139994","PT XL Axiata Tbk",9
+"AS16611","InfiniaHost.com",9
 "AS17451","BIZNET NETWORKS",9
 "AS18779","EGIHosting",9
 "AS206262","TelKos L.L.C",9
@@ -509,7 +510,6 @@ ASN,Organization,IP_Count
 "AS138754","Kerala Vision Broad Band Private Limited",8
 "AS141295","Madhya Pradesh Agency For Promotion   Of Information Technology",8
 "AS150179","KAAL TECH CO., LIMITED",8
-"AS16611","InfiniaHost.com",8
 "AS17882","MCS Com Co Ltd",8
 "AS18209","Atria Convergence Technologies Pvt. Ltd.,",8
 "AS18986","Calligo (Canada) Inc.",8
@@ -2721,6 +2721,7 @@ ASN,Organization,IP_Count
 "AS396420","Valley Fiber Ltd.",1
 "AS397031","GALAXYGATE, LLC",1
 "AS397373","H4Y Technologies LLC",1
+"AS397911","Wifi Squared",1
 "AS39798","MivoCloud SRL",1
 "AS39811","MTS PJSC",1
 "AS398113","Gateway Fiber LLC",1
