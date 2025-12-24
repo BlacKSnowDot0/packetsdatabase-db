@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87876
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22278
-"AS398324","Censys, Inc.",15489
+"AS398324","Censys, Inc.",15490
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10780
 "AS14061","DigitalOcean, LLC",8644
@@ -10,12 +10,12 @@ ASN,Organization,IP_Count
 "AS16276","OVH SAS",6087
 "AS4134","Chinanet",5111
 "AS6568","Entel S.A. - EntelNet",4537
-"AS58466","CHINANET Guangdong province network",4460
+"AS58466","CHINANET Guangdong province network",4461
 "AS16509","Amazon.com, Inc.",4379
 "AS45102","Alibaba (US) Technology Co., Ltd.",4222
 "AS396998","Path Network, Inc.",3992
 "AS0","",3834
-"AS63949","Akamai Technologies, Inc.",3694
+"AS63949","Akamai Technologies, Inc.",3695
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3254
 "AS398705","Censys, Inc.",3238
@@ -42,7 +42,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
-"AS208684","BHA CONSEIL SARL",1027
+"AS208684","BHA CONSEIL SARL",1028
 "AS51852","Private Layer INC",907
 "AS51167","Contabo GmbH",877
 "AS208046","ColocationX Ltd.",871
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",756
 "AS10439","CariNet, Inc.",739
-"AS14618","Amazon.com, Inc.",734
+"AS14618","Amazon.com, Inc.",735
 "AS12876","ONLINE S.A.S.",619
 "AS4837","CHINA UNICOM China169 Backbone",619
 "AS51115","HLL LLC",600
@@ -1925,6 +1925,7 @@ ASN,Organization,IP_Count
 "AS199415","Association YORKHOST",1
 "AS199578","Technische Universitaet Kaiserslautern",1
 "AS200081","Netversor GmbH",1
+"AS200195","Verasel, Inc.",1
 "AS200218","Tvoy Novy Telecom LLP",1
 "AS200406","Javid Berbid Mamasani Information Technology Company PJS",1
 "AS200814","LIMNET , LLC",1
