@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87875
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22278
-"AS398324","Censys, Inc.",15479
+"AS398324","Censys, Inc.",15480
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10778
 "AS14061","DigitalOcean, LLC",8642
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6085
+"AS16276","OVH SAS",6086
 "AS4134","Chinanet",5110
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4460
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1524
 "AS36352","HostPapa",1485
 "AS13335","Cloudflare, Inc.",1452
-"AS398722","Censys, Inc.",1449
+"AS398722","Censys, Inc.",1450
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
 "AS215269","LAZYCLOUD LTD",1312
@@ -88,7 +88,7 @@ ASN,Organization,IP_Count
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",298
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
-"AS141718","haoxiangyun",271
+"AS141718","haoxiangyun",272
 "AS18403","FPT Telecom Company",265
 "AS48090","TECHOFF SRV LIMITED",261
 "AS60223","Netiface Limited",250
@@ -106,7 +106,7 @@ ASN,Organization,IP_Count
 "AS34984","Superonline Iletisim Hizmetleri A.S.",171
 "AS401116","Nybula LLC",170
 "AS42237","w1n ltd",167
-"AS215240","Silent Connection Ltd.",159
+"AS215240","Silent Connection Ltd.",160
 "AS262551","Farol Telecom",154
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",145
@@ -118,12 +118,12 @@ ASN,Organization,IP_Count
 "AS151185","China Telecom",127
 "AS19905","Neustar Security Services",127
 "AS36007","Kamatera, Inc.",122
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",119
 "AS4766","Korea Telecom",119
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",118
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
+"AS30083","velia.net",110
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",110
-"AS30083","velia.net",109
 "AS40021","Nubes, LLC",109
 "AS47331","TTNet A.S.",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
