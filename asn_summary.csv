@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87875
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22278
-"AS398324","Censys, Inc.",15475
+"AS398324","Censys, Inc.",15479
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10778
-"AS14061","DigitalOcean, LLC",8641
+"AS14061","DigitalOcean, LLC",8642
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6083
+"AS16276","OVH SAS",6084
 "AS4134","Chinanet",5110
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4460
@@ -23,7 +23,7 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2845
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
-"AS23470","ReliableSite.Net LLC",2565
+"AS23470","ReliableSite.Net LLC",2566
 "AS9808","China Mobile",2085
 "AS202425","IP Volume inc",2009
 "AS32475","Internap Holding LLC",1691
@@ -56,7 +56,7 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",734
 "AS12876","ONLINE S.A.S.",619
 "AS4837","CHINA UNICOM China169 Backbone",618
-"AS51115","HLL LLC",599
+"AS51115","HLL LLC",600
 "AS201814","MEVSPACE sp. z o.o.",596
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",586
@@ -101,8 +101,8 @@ ASN,Organization,IP_Count
 "AS14987","Rethem Hosting LLC",215
 "AS12555","Data-center IMAQLIQ Ltd.",206
 "AS63199","CDS Global Cloud Co., Ltd",191
+"AS50219","LNK SYSTEMS MUNTENIA SRL",182
 "AS7552","Viettel Group",182
-"AS50219","LNK SYSTEMS MUNTENIA SRL",181
 "AS34984","Superonline Iletisim Hizmetleri A.S.",171
 "AS401116","Nybula LLC",170
 "AS42237","w1n ltd",167
@@ -113,7 +113,7 @@ ASN,Organization,IP_Count
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
 "AS13238","YANDEX LLC",133
-"AS8560","IONOS SE",132
+"AS8560","IONOS SE",133
 "AS137409","GSL Networks Pty LTD",128
 "AS151185","China Telecom",127
 "AS19905","Neustar Security Services",127
