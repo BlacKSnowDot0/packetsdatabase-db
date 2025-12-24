@@ -1,13 +1,13 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87874
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22274
-"AS398324","Censys, Inc.",15463
+"AS211298","Driftnet Ltd",22275
+"AS398324","Censys, Inc.",15466
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10777
 "AS14061","DigitalOcean, LLC",8636
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6082
+"AS16276","OVH SAS",6083
 "AS4134","Chinanet",5109
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4460
@@ -19,13 +19,13 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3254
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2914
+"AS8075","Microsoft Corporation",2916
 "AS6939","Hurricane Electric LLC",2840
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
-"AS23470","ReliableSite.Net LLC",2563
+"AS23470","ReliableSite.Net LLC",2564
 "AS9808","China Mobile",2085
-"AS202425","IP Volume inc",2006
+"AS202425","IP Volume inc",2007
 "AS32475","Internap Holding LLC",1689
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1556
@@ -33,10 +33,10 @@ ASN,Organization,IP_Count
 "AS36352","HostPapa",1485
 "AS13335","Cloudflare, Inc.",1451
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS398722","Censys, Inc.",1445
+"AS398722","Censys, Inc.",1446
 "AS48925","VibeGAMES B.V.",1426
 "AS215269","LAZYCLOUD LTD",1312
-"AS174","Cogent Communications",1276
+"AS174","Cogent Communications",1277
 "AS22552","eSited Solutions",1198
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
@@ -44,10 +44,10 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1026
 "AS51852","Private Layer INC",907
-"AS51167","Contabo GmbH",876
+"AS51167","Contabo GmbH",877
 "AS208046","ColocationX Ltd.",871
 "AS215925","VPSVAULT.HOST LTD",858
-"AS20052","Arbor Networks, Inc.",853
+"AS20052","Arbor Networks, Inc.",854
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",805
@@ -113,7 +113,7 @@ ASN,Organization,IP_Count
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
 "AS13238","YANDEX LLC",133
-"AS8560","IONOS SE",131
+"AS8560","IONOS SE",132
 "AS137409","GSL Networks Pty LTD",128
 "AS151185","China Telecom",127
 "AS19905","Neustar Security Services",127
@@ -156,8 +156,8 @@ ASN,Organization,IP_Count
 "AS210644","AEZA INTERNATIONAL LTD",70
 "AS2856","British Telecommunications PLC",70
 "AS52053","REDHEBERG Association declaree",69
+"AS149746","PT Blip Integrator Provider",68
 "AS834","IPXO LLC",68
-"AS149746","PT Blip Integrator Provider",67
 "AS215590","DpkgSoft International Limited",67
 "AS328867","Corebach Backbone SARL",67
 "AS57588","Hayat for Internet & communication LLC",67
@@ -383,6 +383,7 @@ ASN,Organization,IP_Count
 "AS202448","MVPS LTD",15
 "AS211619","MAXKO d.o.o.",15
 "AS212027","Daniel Jackson",15
+"AS214209","Internet Magnate (Pty) Ltd",15
 "AS214309","Aurorix Gaming Solutions Limited",15
 "AS263767","CORPORACIÓN GALA IT, C.A.",15
 "AS272547","Servicos de Infraestrutura e Datacenter",15
@@ -420,7 +421,6 @@ ASN,Organization,IP_Count
 "AS202520","SkyPass Solutions Sp. z.o.o.",13
 "AS2116","GLOBALCONNECT AS",13
 "AS213194","Nechaev Dmitry Sergeevich",13
-"AS214209","Internet Magnate (Pty) Ltd",13
 "AS25369","Hydra Communications Ltd",13
 "AS272928","P&C ON LINE S.R.L. (NETWAY INTERNET)",13
 "AS28840","PJSC ""TATTELECOM""",13
@@ -559,6 +559,7 @@ ASN,Organization,IP_Count
 "AS204044","PACKET STAR NETWORKS LIMITED",7
 "AS204631","VIVANET GmbH",7
 "AS207506","""NEWNET"" LLC",7
+"AS212815","Dyjix SAS",7
 "AS215599","Zkillu SAS",7
 "AS215672","MoeChuang Network Limited",7
 "AS216300","Closed Joint Stock Company ""AbkhazMedia""",7
@@ -612,7 +613,6 @@ ASN,Organization,IP_Count
 "AS212219","HOSTING DUNYAM BILISIM TEKNOLOJILERI TICARET LIMITED SIRKETI",6
 "AS212374","Virtuozzo International GmbH",6
 "AS212598","SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.",6
-"AS212815","Dyjix SAS",6
 "AS213893","IPTransit Business LTD",6
 "AS214762","Sebastian Stefanek trading as MatHost.eu",6
 "AS216158","Teleport Rus LLC",6
