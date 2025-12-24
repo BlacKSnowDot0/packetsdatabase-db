@@ -1,13 +1,13 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87871
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87873
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22274
-"AS398324","Censys, Inc.",15459
+"AS398324","Censys, Inc.",15460
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10777
 "AS14061","DigitalOcean, LLC",8635
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6081
+"AS16276","OVH SAS",6082
 "AS4134","Chinanet",5109
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4460
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3254
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2912
+"AS8075","Microsoft Corporation",2913
 "AS6939","Hurricane Electric LLC",2835
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
@@ -42,12 +42,12 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
-"AS208684","BHA CONSEIL SARL",1025
+"AS208684","BHA CONSEIL SARL",1026
 "AS51852","Private Layer INC",907
 "AS51167","Contabo GmbH",876
 "AS208046","ColocationX Ltd.",871
 "AS215925","VPSVAULT.HOST LTD",858
-"AS20052","Arbor Networks, Inc.",849
+"AS20052","Arbor Networks, Inc.",850
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",805
@@ -1517,6 +1517,7 @@ ASN,Organization,IP_Count
 "AS62013","Societatea Comerciala Click-COM SRL",2
 "AS62206","Pitline Ltd",2
 "AS62468","VpsQuan L.L.C.",2
+"AS6364","Atlantic.net, Inc.",2
 "AS64024","PT Yesi Media Utama",2
 "AS6580","Golden West Telecommunications Coop., Inc.",2
 "AS6724","Strato AG",2
@@ -3058,7 +3059,6 @@ ASN,Organization,IP_Count
 "AS63473","HostHatch, LLC",1
 "AS63491","Universitas Katolik Widya Mandala",1
 "AS63497","PT. Arana Teknologi Indonesia",1
-"AS6364","Atlantic.net, Inc.",1
 "AS63835","No.293,Wanbao Avenue",1
 "AS63885","PT Inovasi Tjaraka Buana",1
 "AS6389","AT&T Enterprises, LLC",1
