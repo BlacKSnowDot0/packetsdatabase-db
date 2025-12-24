@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87874
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22275
-"AS398324","Censys, Inc.",15466
+"AS398324","Censys, Inc.",15469
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10777
-"AS14061","DigitalOcean, LLC",8636
+"AS14061","DigitalOcean, LLC",8638
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6083
 "AS4134","Chinanet",5109
@@ -28,12 +28,12 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",2007
 "AS32475","Internap Holding LLC",1689
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1556
+"AS209605","UAB Host Baltic",1557
 "AS49870","Alsycon B.V.",1524
 "AS36352","HostPapa",1485
 "AS13335","Cloudflare, Inc.",1451
+"AS398722","Censys, Inc.",1447
 "AS43260","DGN TEKNOLOJI A.S.",1447
-"AS398722","Censys, Inc.",1446
 "AS48925","VibeGAMES B.V.",1426
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1277
@@ -64,7 +64,7 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS53667","FranTech Solutions",557
-"AS9829","Bharat Sanchar Nigam Ltd",553
+"AS9829","Bharat Sanchar Nigam Ltd",554
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
@@ -145,8 +145,8 @@ ASN,Organization,IP_Count
 "AS3920","ESTOXY OU",78
 "AS396356","Latitude.sh",77
 "AS211736","FOP Dmytro Nedilskyi",76
+"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",76
 "AS27882","Telefónica Celular de Bolivia S.A.",76
-"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",75
 "AS32475","SingleHop LLC",75
 "AS150263","PT Alnet Telekomunikasi Indonesia",74
 "AS31898","Oracle Corporation",74
@@ -296,6 +296,7 @@ ASN,Organization,IP_Count
 "AS20853","eTOP sp. z o.o.",23
 "AS3257","GTT Communications Inc.",23
 "AS401152","Ace Data Centers II, L.L.C.",23
+"AS40676","Psychz Networks",23
 "AS62240","Clouvider Limited",23
 "AS7303","Telecom Argentina S.A.",23
 "AS136142","Enigma Fiber Pvt Ltd",22
@@ -303,7 +304,6 @@ ASN,Organization,IP_Count
 "AS17561","Larus Limited",22
 "AS213010","Gening Nikita Dmitrievich",22
 "AS3320","Deutsche Telekom AG",22
-"AS40676","Psychz Networks",22
 "AS43289","Trabia SRL",22
 "AS45758","Triple T Broadband Public Company Limited",22
 "AS51430","AltusHost B.V.",22
@@ -1387,6 +1387,7 @@ ASN,Organization,IP_Count
 "AS37642","Comnet Pty Ltd",2
 "AS37693","OOREDOO TUNISIE SA",2
 "AS38200","BTS Communications (BD) Ltd",2
+"AS38333","Symbio Networks Pty Ltd",2
 "AS38700","SMILESERV",2
 "AS38732","CMC Telecom Infrastructure Company",2
 "AS39232","Uninet LLC",2
@@ -2685,7 +2686,6 @@ ASN,Organization,IP_Count
 "AS3816","COLOMBIA TELECOMUNICACIONES S.A. ESP",1
 "AS38193","TRANSWORLD ASSOCIATES (PVT) LIMITED",1
 "AS38195","SUPERLOOP (AUSTRALIA) PTY LTD",1
-"AS38333","Symbio Networks Pty Ltd",1
 "AS3842","InMotion Hosting, Inc.",1
 "AS38482","BIZNET",1
 "AS38505","PT Graha Multimedia Nusantara",1
