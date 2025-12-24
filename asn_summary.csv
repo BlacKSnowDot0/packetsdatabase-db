@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4460
 "AS16509","Amazon.com, Inc.",4379
-"AS45102","Alibaba (US) Technology Co., Ltd.",4217
+"AS45102","Alibaba (US) Technology Co., Ltd.",4218
 "AS396998","Path Network, Inc.",3992
 "AS0","",3830
 "AS63949","Akamai Technologies, Inc.",3693
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2565
 "AS9808","China Mobile",2085
-"AS202425","IP Volume inc",2007
+"AS202425","IP Volume inc",2008
 "AS32475","Internap Holding LLC",1691
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1557
@@ -46,14 +46,14 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS51167","Contabo GmbH",877
 "AS208046","ColocationX Ltd.",871
+"AS20052","Arbor Networks, Inc.",859
 "AS215925","VPSVAULT.HOST LTD",858
-"AS20052","Arbor Networks, Inc.",857
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",756
 "AS10439","CariNet, Inc.",737
-"AS14618","Amazon.com, Inc.",733
+"AS14618","Amazon.com, Inc.",734
 "AS12876","ONLINE S.A.S.",619
 "AS4837","CHINA UNICOM China169 Backbone",618
 "AS51115","HLL LLC",599
@@ -149,9 +149,9 @@ ASN,Organization,IP_Count
 "AS27882","Telefónica Celular de Bolivia S.A.",76
 "AS32475","SingleHop LLC",75
 "AS150263","PT Alnet Telekomunikasi Indonesia",74
+"AS200514","KnownSRV Ltd.",74
 "AS31898","Oracle Corporation",74
 "AS56046","China Mobile Communications Corporation",74
-"AS200514","KnownSRV Ltd.",73
 "AS55720","Gigabit Hosting Sdn Bhd",71
 "AS210644","AEZA INTERNATIONAL LTD",70
 "AS2856","British Telecommunications PLC",70
