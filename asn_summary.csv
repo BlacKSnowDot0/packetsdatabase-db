@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87875
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22276
-"AS398324","Censys, Inc.",15473
+"AS211298","Driftnet Ltd",22278
+"AS398324","Censys, Inc.",15475
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10778
 "AS14061","DigitalOcean, LLC",8641
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4460
 "AS16509","Amazon.com, Inc.",4379
-"AS45102","Alibaba (US) Technology Co., Ltd.",4219
+"AS45102","Alibaba (US) Technology Co., Ltd.",4221
 "AS396998","Path Network, Inc.",3992
 "AS0","",3830
 "AS63949","Akamai Technologies, Inc.",3693
@@ -102,11 +102,11 @@ ASN,Organization,IP_Count
 "AS12555","Data-center IMAQLIQ Ltd.",206
 "AS63199","CDS Global Cloud Co., Ltd",191
 "AS7552","Viettel Group",182
-"AS50219","LNK SYSTEMS MUNTENIA SRL",180
+"AS50219","LNK SYSTEMS MUNTENIA SRL",181
 "AS34984","Superonline Iletisim Hizmetleri A.S.",171
 "AS401116","Nybula LLC",170
 "AS42237","w1n ltd",167
-"AS215240","Silent Connection Ltd.",157
+"AS215240","Silent Connection Ltd.",158
 "AS262551","Farol Telecom",154
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",145
@@ -1667,6 +1667,7 @@ ASN,Organization,IP_Count
 "AS136373","Allied It Infrastructure And Services Pvt Ltd",1
 "AS136514","Onesky Communications Limited.",1
 "AS136698","Devdarpan Broadband Pvt. Ltd.",1
+"AS136994","Southern Phone Company Ltd",1
 "AS137029","Chittagong Multi Channel Limited",1
 "AS137047","TELECOMMUNICATION AND TECHNOLOGY MASTERS (PVT.) LIMITED",1
 "AS137048","Penta Solutions Limited",1
