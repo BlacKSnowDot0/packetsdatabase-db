@@ -5,14 +5,14 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",15469
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10777
-"AS14061","DigitalOcean, LLC",8638
+"AS14061","DigitalOcean, LLC",8639
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6083
-"AS4134","Chinanet",5109
+"AS4134","Chinanet",5110
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4460
 "AS16509","Amazon.com, Inc.",4379
-"AS45102","Alibaba (US) Technology Co., Ltd.",4216
+"AS45102","Alibaba (US) Technology Co., Ltd.",4217
 "AS396998","Path Network, Inc.",3992
 "AS0","",3830
 "AS63949","Akamai Technologies, Inc.",3693
@@ -20,10 +20,10 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3254
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2916
-"AS6939","Hurricane Electric LLC",2840
+"AS6939","Hurricane Electric LLC",2842
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
-"AS23470","ReliableSite.Net LLC",2564
+"AS23470","ReliableSite.Net LLC",2565
 "AS9808","China Mobile",2085
 "AS202425","IP Volume inc",2007
 "AS32475","Internap Holding LLC",1689
@@ -56,7 +56,7 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",733
 "AS12876","ONLINE S.A.S.",619
 "AS4837","CHINA UNICOM China169 Backbone",618
-"AS51115","HLL LLC",597
+"AS51115","HLL LLC",598
 "AS201814","MEVSPACE sp. z o.o.",596
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",586
@@ -69,9 +69,9 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
 "AS212238","Datacamp Limited",476
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",406
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",404
 "AS7018","AT&T Enterprises, LLC",399
 "AS47890","UNMANAGED LTD",390
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -83,7 +83,7 @@ ASN,Organization,IP_Count
 "AS208843","Alpha Strike Labs GmbH",318
 "AS214943","Railnet LLC",318
 "AS45899","VNPT Corp",318
-"AS213613","BOTSHIELD LTD",311
+"AS213613","BOTSHIELD LTD",312
 "AS24863","LINKdotNET AS number",307
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",298
 "AS9341","PT Indonesia Comnets Plus",297
@@ -106,7 +106,7 @@ ASN,Organization,IP_Count
 "AS34984","Superonline Iletisim Hizmetleri A.S.",171
 "AS401116","Nybula LLC",170
 "AS42237","w1n ltd",167
-"AS215240","Silent Connection Ltd.",155
+"AS215240","Silent Connection Ltd.",157
 "AS262551","Farol Telecom",154
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",145
@@ -124,7 +124,7 @@ ASN,Organization,IP_Count
 "AS208287","DC Host INC",110
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",110
 "AS40021","Nubes, LLC",109
-"AS30083","velia.net",107
+"AS30083","velia.net",108
 "AS47331","TTNet A.S.",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS199785","Cloud Hosting Solutions, Limited.",104
@@ -172,9 +172,9 @@ ASN,Organization,IP_Count
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",62
 "AS140717","China Unicom",61
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
+"AS46475","Limestone Networks, Inc.",60
 "AS4812","China Telecom (Group)",60
 "AS20115","Charter Communications",59
-"AS46475","Limestone Networks, Inc.",59
 "AS49544","i3D.net B.V",59
 "AS20001","Charter Communications Inc",58
 "AS20278","Nexeon Technologies, Inc.",57
@@ -184,8 +184,8 @@ ASN,Organization,IP_Count
 "AS18345","Servers Australia Pty. Ltd",55
 "AS202796","JSR IT B.V.",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
+"AS263025","ISPTEC Sistemas de Comunicação Eireli",55
 "AS213877","u1host ltd",54
-"AS263025","ISPTEC Sistemas de Comunicação Eireli",54
 "AS30058","FDCservers.net",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS200590","NLS Kazakhstan LLC",52
@@ -468,6 +468,7 @@ ASN,Organization,IP_Count
 "AS24835","Vodafone Data - Egypt",10
 "AS25019","Saudi Telecom Company JSC",10
 "AS2516","KDDI CORPORATION",10
+"AS2527","Sony Network Communications Inc.",10
 "AS264628","CORPORACION FIBEX TELECOM, C.A.",10
 "AS328471","HERO TELECOMS (PTY) LTD",10
 "AS36903","Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",10
@@ -493,7 +494,6 @@ ASN,Organization,IP_Count
 "AS213520","Senko Digital Ltd",9
 "AS214481","Wojciech Czapkowicz",9
 "AS24955","JSC ""Ufanet""",9
-"AS2527","Sony Network Communications Inc.",9
 "AS266702","MEGALINK S.R.L.",9
 "AS267280","YELLOW CONNECT MULTIMIDIA LTDA ME",9
 "AS30722","Vodafone Italia S.p.A.",9
