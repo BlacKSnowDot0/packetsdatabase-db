@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87878
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22281
-"AS398324","Censys, Inc.",15516
+"AS398324","Censys, Inc.",15518
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10800
 "AS14061","DigitalOcean, LLC",8650
@@ -19,8 +19,8 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3255
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2925
-"AS6939","Hurricane Electric LLC",2866
+"AS8075","Microsoft Corporation",2926
+"AS6939","Hurricane Electric LLC",2867
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2570
@@ -72,10 +72,10 @@ ASN,Organization,IP_Count
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",406
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
-"AS7018","AT&T Enterprises, LLC",399
+"AS7018","AT&T Enterprises, LLC",400
 "AS47890","UNMANAGED LTD",390
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS21859","Zenlayer Inc",379
+"AS21859","Zenlayer Inc",380
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS7922","Comcast Cable Communications, LLC",352
 "AS8151","Uninet S.A. de C.V.",341
@@ -83,7 +83,7 @@ ASN,Organization,IP_Count
 "AS208843","Alpha Strike Labs GmbH",319
 "AS214943","Railnet LLC",318
 "AS45899","VNPT Corp",318
-"AS213613","BOTSHIELD LTD",312
+"AS213613","BOTSHIELD LTD",313
 "AS24863","LINKdotNET AS number",307
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",300
 "AS9341","PT Indonesia Comnets Plus",297
@@ -97,7 +97,7 @@ ASN,Organization,IP_Count
 "AS29066","velia.net Internetdienste GmbH",227
 "AS12389","PJSC Rostelecom",224
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
-"AS29484","Ruhr-Universitaet Bochum",220
+"AS29484","Ruhr-Universitaet Bochum",221
 "AS14987","Rethem Hosting LLC",215
 "AS12555","Data-center IMAQLIQ Ltd.",207
 "AS63199","CDS Global Cloud Co., Ltd",191
