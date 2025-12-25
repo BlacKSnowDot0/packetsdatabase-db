@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87878
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22281
-"AS398324","Censys, Inc.",15536
+"AS398324","Censys, Inc.",15537
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10802
 "AS14061","DigitalOcean, LLC",8651
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6093
+"AS16276","OVH SAS",6094
 "AS4134","Chinanet",5113
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4463
@@ -15,18 +15,18 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",4229
 "AS396998","Path Network, Inc.",3992
 "AS0","",3836
-"AS63949","Akamai Technologies, Inc.",3702
+"AS63949","Akamai Technologies, Inc.",3703
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3255
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2929
-"AS6939","Hurricane Electric LLC",2868
+"AS6939","Hurricane Electric LLC",2870
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
-"AS23470","ReliableSite.Net LLC",2570
+"AS23470","ReliableSite.Net LLC",2571
 "AS9808","China Mobile",2085
 "AS202425","IP Volume inc",2016
-"AS32475","Internap Holding LLC",1695
+"AS32475","Internap Holding LLC",1696
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1559
 "AS49870","Alsycon B.V.",1524
@@ -54,8 +54,8 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",756
 "AS10439","CariNet, Inc.",741
 "AS14618","Amazon.com, Inc.",735
+"AS4837","CHINA UNICOM China169 Backbone",622
 "AS12876","ONLINE S.A.S.",621
-"AS4837","CHINA UNICOM China169 Backbone",621
 "AS51115","HLL LLC",600
 "AS201814","MEVSPACE sp. z o.o.",596
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -120,7 +120,7 @@ ASN,Organization,IP_Count
 "AS36007","Kamatera, Inc.",122
 "AS4766","Korea Telecom",120
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",119
-"AS30083","velia.net",115
+"AS30083","velia.net",116
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",111
 "AS208287","DC Host INC",110
@@ -232,13 +232,13 @@ ASN,Organization,IP_Count
 "AS4760","PCCW IMS Limited",36
 "AS9123","TimeWeb Ltd.",36
 "AS213790","Limited Network LTD",35
+"AS56067","Metrabyte Co.,Ltd",35
 "AS146817","Hubei Feixun Network Co., Ltd",34
 "AS21127","Joint Stock Company TransTeleCom",34
 "AS269193","Iktelecom Ltda",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS4847","China Networks Inter-Exchange",34
 "AS55990","Huawei Cloud Service data center",34
-"AS56067","Metrabyte Co.,Ltd",34
 "AS197540","netcup GmbH",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS8796","FD-298-8796",33
@@ -461,6 +461,7 @@ ASN,Organization,IP_Count
 "AS45820","TTSL-ISP DIVISION",11
 "AS48874","HOSTMAZE INC SRL-D",11
 "AS58563","CHINANET Hubei province network",11
+"AS11172","Alestra, S. de R.L. de C.V.",10
 "AS13287","FALBOX S.L.",10
 "AS149359","PT Persada Data Multimedia",10
 "AS153443","VPSRE.NET LLC",10
@@ -479,7 +480,6 @@ ASN,Organization,IP_Count
 "AS52468","UFINET PANAMA S.A.",10
 "AS57269","DIGI SPAIN TELECOM S.L.U.",10
 "AS9930","TT DOTCOM SDN BHD",10
-"AS11172","Alestra, S. de R.L. de C.V.",9
 "AS11888","Television Internacional, S.A. de C.V.",9
 "AS12353","Vodafone Portugal - Communicacoes Pessoais S.A.",9
 "AS131596","TBC",9
@@ -1357,6 +1357,7 @@ ASN,Organization,IP_Count
 "AS31566","SkyNetwork Ltd.",2
 "AS31725","ISP Shtorm LTD",2
 "AS3212","Telemach Slovenija d.o.o.",2
+"AS3214","xTom GmbH",2
 "AS32329","Another Corporate ISP, LLC",2
 "AS32489","Amanah Tech Inc.",2
 "AS3262","SAREnet, S.A.",2
@@ -2598,7 +2599,6 @@ ASN,Organization,IP_Count
 "AS32020","Transact Ltd.",1
 "AS32097","WholeSale Internet, Inc.",1
 "AS32133","Ting Fiber Inc.",1
-"AS3214","xTom GmbH",1
 "AS3226","OOO ""NI""",1
 "AS32365","City of Sandy",1
 "AS3238","Alands Telekommunikation Ab",1
