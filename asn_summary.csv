@@ -2,17 +2,17 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87878
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22281
-"AS398324","Censys, Inc.",15527
+"AS398324","Censys, Inc.",15528
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10801
 "AS14061","DigitalOcean, LLC",8650
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6090
+"AS16276","OVH SAS",6091
 "AS4134","Chinanet",5113
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4463
 "AS16509","Amazon.com, Inc.",4380
-"AS45102","Alibaba (US) Technology Co., Ltd.",4227
+"AS45102","Alibaba (US) Technology Co., Ltd.",4228
 "AS396998","Path Network, Inc.",3992
 "AS0","",3836
 "AS63949","Akamai Technologies, Inc.",3701
@@ -31,8 +31,8 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1559
 "AS49870","Alsycon B.V.",1524
 "AS36352","HostPapa",1488
-"AS13335","Cloudflare, Inc.",1453
-"AS398722","Censys, Inc.",1451
+"AS13335","Cloudflare, Inc.",1454
+"AS398722","Censys, Inc.",1452
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
 "AS215269","LAZYCLOUD LTD",1312
@@ -45,7 +45,7 @@ ASN,Organization,IP_Count
 "AS208684","BHA CONSEIL SARL",1029
 "AS51852","Private Layer INC",907
 "AS51167","Contabo GmbH",877
-"AS20052","Arbor Networks, Inc.",873
+"AS20052","Arbor Networks, Inc.",875
 "AS208046","ColocationX Ltd.",871
 "AS215925","VPSVAULT.HOST LTD",858
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -120,7 +120,7 @@ ASN,Organization,IP_Count
 "AS36007","Kamatera, Inc.",122
 "AS4766","Korea Telecom",120
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",119
-"AS30083","velia.net",114
+"AS30083","velia.net",115
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",111
 "AS208287","DC Host INC",110
@@ -217,10 +217,10 @@ ASN,Organization,IP_Count
 "AS8048","CANTV Servicios, Venezuela",39
 "AS9198","JSC Kazakhtelecom",39
 "AS1103","SURF B.V.",38
+"AS149705","PT Wijaya Trimitra Indonesia",38
 "AS210509","Optimum Line for Internet Services Ltd.",38
 "AS215762","Bullet Group LTD",38
 "AS4538","China Education and Research Network Center",38
-"AS149705","PT Wijaya Trimitra Indonesia",37
 "AS1680","Cellcom Fixed Line Communication L.P",37
 "AS204834","Shabakieh Isfahan Co PJSC",37
 "AS28546","Servnet Mexico, S.A. de C.V.",37
@@ -488,6 +488,7 @@ ASN,Organization,IP_Count
 "AS135918","VIET DIGITAL TECHNOLOGY LIABILITY COMPANY",9
 "AS138089","PT.Global Media Data Prima",9
 "AS139994","PT XL Axiata Tbk",9
+"AS150179","KAAL TECH CO., LIMITED",9
 "AS16611","InfiniaHost.com",9
 "AS17451","BIZNET NETWORKS",9
 "AS18779","EGIHosting",9
@@ -510,7 +511,6 @@ ASN,Organization,IP_Count
 "AS133982","Excitel Broadband Private Limited",8
 "AS138754","Kerala Vision Broad Band Private Limited",8
 "AS141295","Madhya Pradesh Agency For Promotion   Of Information Technology",8
-"AS150179","KAAL TECH CO., LIMITED",8
 "AS17882","MCS Com Co Ltd",8
 "AS18209","Atria Convergence Technologies Pvt. Ltd.,",8
 "AS18986","Calligo (Canada) Inc.",8
