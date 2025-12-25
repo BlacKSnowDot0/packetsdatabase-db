@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22283
 "AS398324","Censys, Inc.",15551
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10809
+"AS396982","Google LLC",10811
 "AS14061","DigitalOcean, LLC",8654
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6095
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4463
 "AS16509","Amazon.com, Inc.",4380
-"AS45102","Alibaba (US) Technology Co., Ltd.",4238
+"AS45102","Alibaba (US) Technology Co., Ltd.",4241
 "AS396998","Path Network, Inc.",3992
 "AS0","",3839
 "AS63949","Akamai Technologies, Inc.",3705
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",2019
 "AS32475","Internap Holding LLC",1698
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1560
+"AS209605","UAB Host Baltic",1561
 "AS49870","Alsycon B.V.",1525
 "AS36352","HostPapa",1489
 "AS13335","Cloudflare, Inc.",1454
@@ -100,10 +100,10 @@ ASN,Organization,IP_Count
 "AS29484","Ruhr-Universitaet Bochum",221
 "AS14987","Rethem Hosting LLC",215
 "AS12555","Data-center IMAQLIQ Ltd.",207
-"AS63199","CDS Global Cloud Co., Ltd",191
+"AS63199","CDS Global Cloud Co., Ltd",192
 "AS50219","LNK SYSTEMS MUNTENIA SRL",183
 "AS7552","Viettel Group",182
-"AS34984","Superonline Iletisim Hizmetleri A.S.",174
+"AS34984","Superonline Iletisim Hizmetleri A.S.",175
 "AS401116","Nybula LLC",170
 "AS42237","w1n ltd",168
 "AS215240","Silent Connection Ltd.",164
@@ -213,13 +213,13 @@ ASN,Organization,IP_Count
 "AS27699","TELEFÔNICA BRASIL S.A",40
 "AS43641","SOLLUTIUM EU Sp z.o.o.",40
 "AS5089","Virgin Media Limited",40
+"AS215762","Bullet Group LTD",39
 "AS329009","Spectrum Internet Service Ltd",39
 "AS8048","CANTV Servicios, Venezuela",39
 "AS9198","JSC Kazakhtelecom",39
 "AS1103","SURF B.V.",38
 "AS149705","PT Wijaya Trimitra Indonesia",38
 "AS210509","Optimum Line for Internet Services Ltd.",38
-"AS215762","Bullet Group LTD",38
 "AS4538","China Education and Research Network Center",38
 "AS1680","Cellcom Fixed Line Communication L.P",37
 "AS204834","Shabakieh Isfahan Co PJSC",37
@@ -1041,6 +1041,7 @@ ASN,Organization,IP_Count
 "AS52771","GIGA BYTE TELECOMUNICACOES LTDA",3
 "AS52783","ALCANS TELECOM LTDA",3
 "AS5391","Hrvatski Telekom d.d.",3
+"AS5466","Eircom Limited",3
 "AS55685","PT Jala Lintas Media",3
 "AS56400","SPD Chernega Aleksandr Anatolevich",3
 "AS56478","Hyperoptic Ltd",3
@@ -1485,7 +1486,6 @@ ASN,Organization,IP_Count
 "AS53435","JACKSON ENERGY AUTHORITY",2
 "AS53850","GorillaServers, Inc.",2
 "AS5413","Daisy Corporate Services Trading Ltd",2
-"AS5466","Eircom Limited",2
 "AS54936","Wyyerd Group",2
 "AS55341","51/A RACHNA MIDAS GOKULPETH",2
 "AS55430","Starhub Internet Pte Ltd",2
