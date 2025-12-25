@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87878
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22281
-"AS398324","Censys, Inc.",15540
+"AS211298","Driftnet Ltd",22282
+"AS398324","Censys, Inc.",15541
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10803
 "AS14061","DigitalOcean, LLC",8651
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4380
 "AS45102","Alibaba (US) Technology Co., Ltd.",4230
 "AS396998","Path Network, Inc.",3992
-"AS0","",3836
+"AS0","",3837
 "AS63949","Akamai Technologies, Inc.",3703
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3255
@@ -61,9 +61,9 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",586
 "AS9009","M247 Europe SRL",580
+"AS9829","Bharat Sanchar Nigam Ltd",559
 "AS31148","Freenet LTD",558
 "AS53667","FranTech Solutions",558
-"AS9829","Bharat Sanchar Nigam Ltd",558
 "AS401120","cheapy.host LLC",557
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
@@ -464,6 +464,7 @@ ASN,Organization,IP_Count
 "AS11172","Alestra, S. de R.L. de C.V.",10
 "AS13287","FALBOX S.L.",10
 "AS149359","PT Persada Data Multimedia",10
+"AS150179","KAAL TECH CO., LIMITED",10
 "AS153443","VPSRE.NET LLC",10
 "AS17676","SoftBank Corp.",10
 "AS24835","Vodafone Data - Egypt",10
@@ -488,7 +489,6 @@ ASN,Organization,IP_Count
 "AS135918","VIET DIGITAL TECHNOLOGY LIABILITY COMPANY",9
 "AS138089","PT.Global Media Data Prima",9
 "AS139994","PT XL Axiata Tbk",9
-"AS150179","KAAL TECH CO., LIMITED",9
 "AS16611","InfiniaHost.com",9
 "AS17451","BIZNET NETWORKS",9
 "AS18779","EGIHosting",9
