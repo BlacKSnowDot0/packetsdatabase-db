@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87880
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22283
-"AS398324","Censys, Inc.",15546
+"AS398324","Censys, Inc.",15547
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10804
+"AS396982","Google LLC",10808
 "AS14061","DigitalOcean, LLC",8653
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6094
@@ -23,7 +23,7 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2871
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
-"AS23470","ReliableSite.Net LLC",2573
+"AS23470","ReliableSite.Net LLC",2594
 "AS9808","China Mobile",2085
 "AS202425","IP Volume inc",2019
 "AS32475","Internap Holding LLC",1698
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS51167","Contabo GmbH",877
 "AS20052","Arbor Networks, Inc.",876
-"AS208046","ColocationX Ltd.",871
+"AS208046","ColocationX Ltd.",872
 "AS215925","VPSVAULT.HOST LTD",858
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -253,8 +253,8 @@ ASN,Organization,IP_Count
 "AS852","TELUS Communications Inc.",31
 "AS200593","PROSPERO OOO",30
 "AS214417","Andrii Hrosh",30
+"AS4713","NTT Communications Corporation",30
 "AS3269","Telecom Italia S.p.A.",29
-"AS4713","NTT Communications Corporation",29
 "AS6134","XNNET LLC",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
