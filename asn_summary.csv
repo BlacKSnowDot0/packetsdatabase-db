@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87877
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22281
-"AS398324","Censys, Inc.",15509
+"AS398324","Censys, Inc.",15511
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10793
+"AS396982","Google LLC",10794
 "AS14061","DigitalOcean, LLC",8650
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6090
@@ -19,8 +19,8 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3255
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2924
-"AS6939","Hurricane Electric LLC",2858
+"AS8075","Microsoft Corporation",2925
+"AS6939","Hurricane Electric LLC",2860
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2570
@@ -97,7 +97,7 @@ ASN,Organization,IP_Count
 "AS29066","velia.net Internetdienste GmbH",227
 "AS12389","PJSC Rostelecom",224
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
-"AS29484","Ruhr-Universitaet Bochum",219
+"AS29484","Ruhr-Universitaet Bochum",220
 "AS14987","Rethem Hosting LLC",215
 "AS12555","Data-center IMAQLIQ Ltd.",207
 "AS63199","CDS Global Cloud Co., Ltd",191
@@ -254,6 +254,7 @@ ASN,Organization,IP_Count
 "AS200593","PROSPERO OOO",30
 "AS214417","Andrii Hrosh",30
 "AS3269","Telecom Italia S.p.A.",29
+"AS4713","NTT Communications Corporation",29
 "AS6134","XNNET LLC",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
@@ -265,7 +266,6 @@ ASN,Organization,IP_Count
 "AS30860","Virtual Systems LLC",28
 "AS329490","Promethean Consulting Limited",28
 "AS3786","LG DACOM Corporation",28
-"AS4713","NTT Communications Corporation",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS58212","dataforest GmbH",28
 "AS17995","PT iForte Global Internet",27
@@ -277,12 +277,12 @@ ASN,Organization,IP_Count
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",27
 "AS2200","Renater",26
 "AS23693","PT. Telekomunikasi Selular",26
+"AS24560","Bharti Airtel Limited",26
 "AS3209","Vodafone GmbH",26
 "AS41745","Baykov Ilya Sergeevich",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS18881","TELEFÔNICA BRASIL S.A",25
 "AS209","CenturyLink Communications, LLC",25
-"AS24560","Bharti Airtel Limited",25
 "AS36947","Telecom Algeria",25
 "AS55836","Reliance Jio Infocomm Limited",25
 "AS58224","Iran Telecommunication Company PJS",25
