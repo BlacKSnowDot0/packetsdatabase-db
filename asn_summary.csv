@@ -2,31 +2,31 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87878
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22281
-"AS398324","Censys, Inc.",15518
+"AS398324","Censys, Inc.",15527
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10800
+"AS396982","Google LLC",10801
 "AS14061","DigitalOcean, LLC",8650
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6090
-"AS4134","Chinanet",5112
+"AS4134","Chinanet",5113
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4463
 "AS16509","Amazon.com, Inc.",4380
-"AS45102","Alibaba (US) Technology Co., Ltd.",4226
+"AS45102","Alibaba (US) Technology Co., Ltd.",4227
 "AS396998","Path Network, Inc.",3992
 "AS0","",3836
-"AS63949","Akamai Technologies, Inc.",3700
+"AS63949","Akamai Technologies, Inc.",3701
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3255
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2926
-"AS6939","Hurricane Electric LLC",2867
+"AS8075","Microsoft Corporation",2928
+"AS6939","Hurricane Electric LLC",2868
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2570
 "AS9808","China Mobile",2085
 "AS202425","IP Volume inc",2016
-"AS32475","Internap Holding LLC",1694
+"AS32475","Internap Holding LLC",1695
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1559
 "AS49870","Alsycon B.V.",1524
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
 "AS215269","LAZYCLOUD LTD",1312
-"AS174","Cogent Communications",1282
+"AS174","Cogent Communications",1283
 "AS22552","eSited Solutions",1198
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
@@ -45,7 +45,7 @@ ASN,Organization,IP_Count
 "AS208684","BHA CONSEIL SARL",1029
 "AS51852","Private Layer INC",907
 "AS51167","Contabo GmbH",877
-"AS20052","Arbor Networks, Inc.",872
+"AS20052","Arbor Networks, Inc.",873
 "AS208046","ColocationX Ltd.",871
 "AS215925","VPSVAULT.HOST LTD",858
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -144,10 +144,10 @@ ASN,Organization,IP_Count
 "AS200019","ALEXHOST SRL",78
 "AS3920","ESTOXY OU",78
 "AS396356","Latitude.sh",77
+"AS150263","PT Alnet Telekomunikasi Indonesia",76
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",76
 "AS27882","Telefónica Celular de Bolivia S.A.",76
-"AS150263","PT Alnet Telekomunikasi Indonesia",75
 "AS32475","SingleHop LLC",75
 "AS200514","KnownSRV Ltd.",74
 "AS31898","Oracle Corporation",74
