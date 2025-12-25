@@ -11,11 +11,11 @@ ASN,Organization,IP_Count
 "AS4134","Chinanet",5112
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4463
-"AS16509","Amazon.com, Inc.",4379
+"AS16509","Amazon.com, Inc.",4380
 "AS45102","Alibaba (US) Technology Co., Ltd.",4225
 "AS396998","Path Network, Inc.",3992
 "AS0","",3836
-"AS63949","Akamai Technologies, Inc.",3699
+"AS63949","Akamai Technologies, Inc.",3700
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3255
 "AS398705","Censys, Inc.",3238
@@ -25,8 +25,8 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2570
 "AS9808","China Mobile",2085
-"AS202425","IP Volume inc",2014
-"AS32475","Internap Holding LLC",1693
+"AS202425","IP Volume inc",2015
+"AS32475","Internap Holding LLC",1694
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1559
 "AS49870","Alsycon B.V.",1524
@@ -106,7 +106,7 @@ ASN,Organization,IP_Count
 "AS34984","Superonline Iletisim Hizmetleri A.S.",171
 "AS401116","Nybula LLC",170
 "AS42237","w1n ltd",168
-"AS215240","Silent Connection Ltd.",162
+"AS215240","Silent Connection Ltd.",163
 "AS262551","Farol Telecom",154
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",145
@@ -245,11 +245,11 @@ ASN,Organization,IP_Count
 "AS12912","T-Mobile Polska S.A.",32
 "AS197540","netcup GmbH",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
+"AS55933","Cloudie Limited",32
 "AS1241","RIPE Network Coordination Centre",31
 "AS13213","UK-2 Limited",31
 "AS17557","Pakistan Telecommuication company limited",31
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",31
-"AS55933","Cloudie Limited",31
 "AS852","TELUS Communications Inc.",31
 "AS200593","PROSPERO OOO",30
 "AS214417","Andrii Hrosh",30
