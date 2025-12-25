@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87877
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87878
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22281
-"AS398324","Censys, Inc.",15514
+"AS398324","Censys, Inc.",15516
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10799
 "AS14061","DigitalOcean, LLC",8650
@@ -20,12 +20,12 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3255
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2925
-"AS6939","Hurricane Electric LLC",2865
+"AS6939","Hurricane Electric LLC",2866
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2570
 "AS9808","China Mobile",2085
-"AS202425","IP Volume inc",2013
+"AS202425","IP Volume inc",2014
 "AS32475","Internap Holding LLC",1693
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1559
@@ -45,8 +45,8 @@ ASN,Organization,IP_Count
 "AS208684","BHA CONSEIL SARL",1028
 "AS51852","Private Layer INC",907
 "AS51167","Contabo GmbH",877
+"AS20052","Arbor Networks, Inc.",871
 "AS208046","ColocationX Ltd.",871
-"AS20052","Arbor Networks, Inc.",869
 "AS215925","VPSVAULT.HOST LTD",858
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -120,8 +120,8 @@ ASN,Organization,IP_Count
 "AS36007","Kamatera, Inc.",122
 "AS4766","Korea Telecom",120
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",119
+"AS30083","velia.net",114
 "AS211298","Constantine Cybersecurity Ltd.",113
-"AS30083","velia.net",113
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",111
 "AS208287","DC Host INC",110
 "AS40021","Nubes, LLC",110
@@ -1444,6 +1444,7 @@ ASN,Organization,IP_Count
 "AS47304","NEF Fonden",2
 "AS47394","""Albanian Satellite Communications"" sh.p.k.",2
 "AS47441","Comfortel Ltd.",2
+"AS4764","Wideband Networks Pty Ltd",2
 "AS4773","M1 LIMITED",2
 "AS4787","PT Cyberindo Aditama",2
 "AS48004","PE Tsibrankov Konstantin Igorevich",2
@@ -2828,7 +2829,6 @@ ASN,Organization,IP_Count
 "AS47253","BCI Telecommunication & Advanced Technology Company",1
 "AS4750","CS Loxinfo Public Company Limited",1
 "AS47626","Timer, LLC",1
-"AS4764","Wideband Networks Pty Ltd",1
 "AS4775","Globe Telecom (GMCR,INC)",1
 "AS47782","FastNet Ltd.",1
 "AS47883","KIBRIS MOBILE TELEKOMUNIKASYON LTD.",1
