@@ -26,9 +26,9 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2573
 "AS9808","China Mobile",2085
 "AS202425","IP Volume inc",2019
-"AS32475","Internap Holding LLC",1697
+"AS32475","Internap Holding LLC",1698
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1559
+"AS209605","UAB Host Baltic",1560
 "AS49870","Alsycon B.V.",1525
 "AS36352","HostPapa",1489
 "AS13335","Cloudflare, Inc.",1454
@@ -135,8 +135,8 @@ ASN,Organization,IP_Count
 "AS5617","Orange Polska Spolka Akcyjna",93
 "AS28209","Under Servicos de Internet Ltda",92
 "AS210125","PRIAM NET Sh.p.k.",89
+"AS23724","IDC, China Telecommunications Corporation",89
 "AS16735","ALGAR TELECOM S/A",88
-"AS23724","IDC, China Telecommunications Corporation",88
 "AS8402","PJSC ""Vimpelcom""",87
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
@@ -228,9 +228,9 @@ ASN,Organization,IP_Count
 "AS42624","Global-Data System IT Corporation",37
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",37
 "AS8167","V tal",37
+"AS9123","TimeWeb Ltd.",37
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",36
 "AS4760","PCCW IMS Limited",36
-"AS9123","TimeWeb Ltd.",36
 "AS213790","Limited Network LTD",35
 "AS56067","Metrabyte Co.,Ltd",35
 "AS146817","Hubei Feixun Network Co., Ltd",34
@@ -940,6 +940,7 @@ ASN,Organization,IP_Count
 "AS21565","Horry Telephone Cooperative, Inc.",3
 "AS216071","SERVERS TECH FZCO",3
 "AS23650","Chinanet Jiangsu",3
+"AS24163","UNION BROADBAND NETWORK",3
 "AS24165","UNION BROADBAND NETWORK",3
 "AS25082","Viner Telecom LLC",3
 "AS2518","BIGLOBE Inc.",3
@@ -1241,7 +1242,6 @@ ASN,Organization,IP_Count
 "AS23884","Proen Corp Public Company Limited",2
 "AS23956","Dhakacom Limited",2
 "AS24139","Huashu media&Network Limited",2
-"AS24163","UNION BROADBAND NETWORK",2
 "AS24164","UNION BROADBAND NETWORK",2
 "AS24282","KAGOYA JAPAN Inc.",2
 "AS24364","CERNET2 IX at Shanghai Jiaotong University",2
