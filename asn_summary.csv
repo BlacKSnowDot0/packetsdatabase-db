@@ -4,23 +4,23 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22281
 "AS398324","Censys, Inc.",15507
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10789
+"AS396982","Google LLC",10791
 "AS14061","DigitalOcean, LLC",8649
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6087
+"AS16276","OVH SAS",6090
 "AS4134","Chinanet",5111
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4462
 "AS16509","Amazon.com, Inc.",4379
 "AS45102","Alibaba (US) Technology Co., Ltd.",4223
 "AS396998","Path Network, Inc.",3992
-"AS0","",3835
+"AS0","",3836
 "AS63949","Akamai Technologies, Inc.",3698
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3255
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2922
-"AS6939","Hurricane Electric LLC",2851
+"AS8075","Microsoft Corporation",2923
+"AS6939","Hurricane Electric LLC",2853
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2570
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1559
 "AS49870","Alsycon B.V.",1524
 "AS36352","HostPapa",1487
-"AS13335","Cloudflare, Inc.",1452
+"AS13335","Cloudflare, Inc.",1453
 "AS398722","Censys, Inc.",1451
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS51167","Contabo GmbH",877
 "AS208046","ColocationX Ltd.",871
-"AS20052","Arbor Networks, Inc.",863
+"AS20052","Arbor Networks, Inc.",865
 "AS215925","VPSVAULT.HOST LTD",858
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -118,13 +118,13 @@ ASN,Organization,IP_Count
 "AS151185","China Telecom",127
 "AS19905","Neustar Security Services",127
 "AS36007","Kamatera, Inc.",122
+"AS4766","Korea Telecom",120
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",119
-"AS4766","Korea Telecom",119
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS30083","velia.net",112
+"AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",111
 "AS208287","DC Host INC",110
 "AS40021","Nubes, LLC",110
-"AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",110
 "AS47331","TTNet A.S.",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
 "AS199785","Cloud Hosting Solutions, Limited.",104
