@@ -2,25 +2,25 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87877
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22281
-"AS398324","Censys, Inc.",15508
+"AS398324","Censys, Inc.",15509
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10792
-"AS14061","DigitalOcean, LLC",8649
+"AS396982","Google LLC",10793
+"AS14061","DigitalOcean, LLC",8650
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6090
 "AS4134","Chinanet",5111
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4462
 "AS16509","Amazon.com, Inc.",4379
-"AS45102","Alibaba (US) Technology Co., Ltd.",4223
+"AS45102","Alibaba (US) Technology Co., Ltd.",4224
 "AS396998","Path Network, Inc.",3992
 "AS0","",3836
-"AS63949","Akamai Technologies, Inc.",3698
+"AS63949","Akamai Technologies, Inc.",3699
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3255
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2924
-"AS6939","Hurricane Electric LLC",2855
+"AS6939","Hurricane Electric LLC",2858
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2570
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS51167","Contabo GmbH",877
 "AS208046","ColocationX Ltd.",871
-"AS20052","Arbor Networks, Inc.",866
+"AS20052","Arbor Networks, Inc.",867
 "AS215925","VPSVAULT.HOST LTD",858
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -62,9 +62,9 @@ ASN,Organization,IP_Count
 "AS3462","Chunghwa Telecom Co., Ltd.",586
 "AS9009","M247 Europe SRL",580
 "AS31148","Freenet LTD",558
+"AS53667","FranTech Solutions",558
 "AS9829","Bharat Sanchar Nigam Ltd",558
 "AS401120","cheapy.host LLC",557
-"AS53667","FranTech Solutions",557
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
@@ -97,7 +97,7 @@ ASN,Organization,IP_Count
 "AS29066","velia.net Internetdienste GmbH",227
 "AS12389","PJSC Rostelecom",224
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
-"AS29484","Ruhr-Universitaet Bochum",218
+"AS29484","Ruhr-Universitaet Bochum",219
 "AS14987","Rethem Hosting LLC",215
 "AS12555","Data-center IMAQLIQ Ltd.",207
 "AS63199","CDS Global Cloud Co., Ltd",191
@@ -147,8 +147,8 @@ ASN,Organization,IP_Count
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",76
 "AS27882","Telefónica Celular de Bolivia S.A.",76
+"AS150263","PT Alnet Telekomunikasi Indonesia",75
 "AS32475","SingleHop LLC",75
-"AS150263","PT Alnet Telekomunikasi Indonesia",74
 "AS200514","KnownSRV Ltd.",74
 "AS31898","Oracle Corporation",74
 "AS56046","China Mobile Communications Corporation",74
