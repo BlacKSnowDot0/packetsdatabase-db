@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87877
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22281
-"AS398324","Censys, Inc.",15504
+"AS398324","Censys, Inc.",15507
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10788
-"AS14061","DigitalOcean, LLC",8647
+"AS396982","Google LLC",10789
+"AS14061","DigitalOcean, LLC",8649
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6087
 "AS4134","Chinanet",5111
@@ -17,15 +17,15 @@ ASN,Organization,IP_Count
 "AS0","",3835
 "AS63949","Akamai Technologies, Inc.",3698
 "AS15169","Google LLC",3581
-"AS51396","Pfcloud UG",3254
+"AS51396","Pfcloud UG",3255
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2922
-"AS6939","Hurricane Electric LLC",2849
+"AS6939","Hurricane Electric LLC",2851
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2570
 "AS9808","China Mobile",2085
-"AS202425","IP Volume inc",2012
+"AS202425","IP Volume inc",2013
 "AS32475","Internap Holding LLC",1693
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1559
@@ -46,15 +46,15 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS51167","Contabo GmbH",877
 "AS208046","ColocationX Ltd.",871
-"AS20052","Arbor Networks, Inc.",859
+"AS20052","Arbor Networks, Inc.",863
 "AS215925","VPSVAULT.HOST LTD",858
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",756
-"AS10439","CariNet, Inc.",740
+"AS10439","CariNet, Inc.",741
 "AS14618","Amazon.com, Inc.",735
-"AS12876","ONLINE S.A.S.",620
+"AS12876","ONLINE S.A.S.",621
 "AS4837","CHINA UNICOM China169 Backbone",620
 "AS51115","HLL LLC",600
 "AS201814","MEVSPACE sp. z o.o.",596
@@ -121,7 +121,7 @@ ASN,Organization,IP_Count
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",119
 "AS4766","Korea Telecom",119
 "AS211298","Constantine Cybersecurity Ltd.",113
-"AS30083","velia.net",111
+"AS30083","velia.net",112
 "AS208287","DC Host INC",110
 "AS40021","Nubes, LLC",110
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",110
@@ -217,17 +217,17 @@ ASN,Organization,IP_Count
 "AS8048","CANTV Servicios, Venezuela",39
 "AS9198","JSC Kazakhtelecom",39
 "AS1103","SURF B.V.",38
+"AS215762","Bullet Group LTD",38
 "AS4538","China Education and Research Network Center",38
 "AS1680","Cellcom Fixed Line Communication L.P",37
 "AS204834","Shabakieh Isfahan Co PJSC",37
-"AS215762","Bullet Group LTD",37
+"AS210509","Optimum Line for Internet Services Ltd.",37
 "AS28546","Servnet Mexico, S.A. de C.V.",37
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",37
 "AS42624","Global-Data System IT Corporation",37
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",37
 "AS8167","V tal",37
 "AS149705","PT Wijaya Trimitra Indonesia",36
-"AS210509","Optimum Line for Internet Services Ltd.",36
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",36
 "AS4760","PCCW IMS Limited",36
 "AS9123","TimeWeb Ltd.",36
