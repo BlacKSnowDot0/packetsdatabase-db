@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22281
 "AS398324","Censys, Inc.",15516
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10799
+"AS396982","Google LLC",10800
 "AS14061","DigitalOcean, LLC",8650
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6090
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4463
 "AS16509","Amazon.com, Inc.",4379
-"AS45102","Alibaba (US) Technology Co., Ltd.",4224
+"AS45102","Alibaba (US) Technology Co., Ltd.",4225
 "AS396998","Path Network, Inc.",3992
 "AS0","",3836
 "AS63949","Akamai Technologies, Inc.",3699
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1559
 "AS49870","Alsycon B.V.",1524
-"AS36352","HostPapa",1487
+"AS36352","HostPapa",1488
 "AS13335","Cloudflare, Inc.",1453
 "AS398722","Censys, Inc.",1451
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -45,7 +45,7 @@ ASN,Organization,IP_Count
 "AS208684","BHA CONSEIL SARL",1028
 "AS51852","Private Layer INC",907
 "AS51167","Contabo GmbH",877
-"AS20052","Arbor Networks, Inc.",871
+"AS20052","Arbor Networks, Inc.",872
 "AS208046","ColocationX Ltd.",871
 "AS215925","VPSVAULT.HOST LTD",858
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -106,7 +106,7 @@ ASN,Organization,IP_Count
 "AS34984","Superonline Iletisim Hizmetleri A.S.",171
 "AS401116","Nybula LLC",170
 "AS42237","w1n ltd",168
-"AS215240","Silent Connection Ltd.",161
+"AS215240","Silent Connection Ltd.",162
 "AS262551","Farol Telecom",154
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",145
@@ -152,7 +152,7 @@ ASN,Organization,IP_Count
 "AS200514","KnownSRV Ltd.",74
 "AS31898","Oracle Corporation",74
 "AS56046","China Mobile Communications Corporation",74
-"AS210644","AEZA INTERNATIONAL LTD",71
+"AS210644","AEZA INTERNATIONAL LTD",72
 "AS55720","Gigabit Hosting Sdn Bhd",71
 "AS2856","British Telecommunications PLC",70
 "AS52053","REDHEBERG Association declaree",69
@@ -366,6 +366,7 @@ ASN,Organization,IP_Count
 "AS137718","Beijing Volcano Engine Technology Co., Ltd.",16
 "AS138915","Kaopu Cloud HK Limited",16
 "AS140726","China Unicom",16
+"AS15704","XTRA TELECOM S.A.",16
 "AS19901","Brightspeed",16
 "AS24812","NPK Home-Net Ltd.",16
 "AS25198","INTERKVM HOST SRL",16
@@ -376,7 +377,6 @@ ASN,Organization,IP_Count
 "AS1267","RIPE Network Coordination Centre",15
 "AS12849","Hot-Net internet services Ltd.",15
 "AS136515","Dasca Cable Services, Inc.",15
-"AS15704","XTRA TELECOM S.A.",15
 "AS19871","Network Solutions, LLC",15
 "AS199414","Noah Kolossa",15
 "AS20011","Dimension Data",15
@@ -480,6 +480,7 @@ ASN,Organization,IP_Count
 "AS57269","DIGI SPAIN TELECOM S.L.U.",10
 "AS9930","TT DOTCOM SDN BHD",10
 "AS11172","Alestra, S. de R.L. de C.V.",9
+"AS11888","Television Internacional, S.A. de C.V.",9
 "AS12353","Vodafone Portugal - Communicacoes Pessoais S.A.",9
 "AS131596","TBC",9
 "AS133481","ADVANCED WIRELESS NETWORK COMPANY LIMITED",9
@@ -506,7 +507,6 @@ ASN,Organization,IP_Count
 "AS56005","Zhengzhou Fastidc Technology Co.,Ltd.",9
 "AS8346","SONATEL-AS Autonomous System",9
 "AS9038","Batelco Jordan",9
-"AS11888","Television Internacional, S.A. de C.V.",8
 "AS133982","Excitel Broadband Private Limited",8
 "AS138754","Kerala Vision Broad Band Private Limited",8
 "AS141295","Madhya Pradesh Agency For Promotion   Of Information Technology",8
