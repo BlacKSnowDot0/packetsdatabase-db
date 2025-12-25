@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3255
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2925
-"AS6939","Hurricane Electric LLC",2863
+"AS6939","Hurricane Electric LLC",2865
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2570
@@ -80,7 +80,7 @@ ASN,Organization,IP_Count
 "AS7922","Comcast Cable Communications, LLC",352
 "AS8151","Uninet S.A. de C.V.",341
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
-"AS208843","Alpha Strike Labs GmbH",318
+"AS208843","Alpha Strike Labs GmbH",319
 "AS214943","Railnet LLC",318
 "AS45899","VNPT Corp",318
 "AS213613","BOTSHIELD LTD",312
@@ -220,6 +220,7 @@ ASN,Organization,IP_Count
 "AS210509","Optimum Line for Internet Services Ltd.",38
 "AS215762","Bullet Group LTD",38
 "AS4538","China Education and Research Network Center",38
+"AS149705","PT Wijaya Trimitra Indonesia",37
 "AS1680","Cellcom Fixed Line Communication L.P",37
 "AS204834","Shabakieh Isfahan Co PJSC",37
 "AS28546","Servnet Mexico, S.A. de C.V.",37
@@ -227,7 +228,6 @@ ASN,Organization,IP_Count
 "AS42624","Global-Data System IT Corporation",37
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",37
 "AS8167","V tal",37
-"AS149705","PT Wijaya Trimitra Indonesia",36
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",36
 "AS4760","PCCW IMS Limited",36
 "AS9123","TimeWeb Ltd.",36
