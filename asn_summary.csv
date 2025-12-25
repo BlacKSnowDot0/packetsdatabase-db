@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87878
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22281
-"AS398324","Censys, Inc.",15537
+"AS398324","Censys, Inc.",15540
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10802
 "AS14061","DigitalOcean, LLC",8651
@@ -19,8 +19,8 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3255
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2929
-"AS6939","Hurricane Electric LLC",2870
+"AS8075","Microsoft Corporation",2930
+"AS6939","Hurricane Electric LLC",2871
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2571
@@ -56,7 +56,7 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",735
 "AS4837","CHINA UNICOM China169 Backbone",622
 "AS12876","ONLINE S.A.S.",621
-"AS51115","HLL LLC",600
+"AS51115","HLL LLC",601
 "AS201814","MEVSPACE sp. z o.o.",596
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",586
@@ -103,7 +103,7 @@ ASN,Organization,IP_Count
 "AS63199","CDS Global Cloud Co., Ltd",191
 "AS50219","LNK SYSTEMS MUNTENIA SRL",183
 "AS7552","Viettel Group",182
-"AS34984","Superonline Iletisim Hizmetleri A.S.",172
+"AS34984","Superonline Iletisim Hizmetleri A.S.",173
 "AS401116","Nybula LLC",170
 "AS42237","w1n ltd",168
 "AS215240","Silent Connection Ltd.",163
@@ -136,7 +136,7 @@ ASN,Organization,IP_Count
 "AS28209","Under Servicos de Internet Ltda",92
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS16735","ALGAR TELECOM S/A",88
-"AS23724","IDC, China Telecommunications Corporation",87
+"AS23724","IDC, China Telecommunications Corporation",88
 "AS8402","PJSC ""Vimpelcom""",87
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
@@ -284,11 +284,11 @@ ASN,Organization,IP_Count
 "AS18881","TELEFÔNICA BRASIL S.A",25
 "AS209","CenturyLink Communications, LLC",25
 "AS36947","Telecom Algeria",25
+"AS40676","Psychz Networks",25
 "AS55836","Reliance Jio Infocomm Limited",25
 "AS58224","Iran Telecommunication Company PJS",25
 "AS8193","""Uzbektelekom"" Joint Stock Company",25
 "AS197309","RS-Media LLC",24
-"AS40676","Psychz Networks",24
 "AS577","Bell Canada",24
 "AS60068","Datacamp Limited",24
 "AS9304","HGC Global Communications Limited",24
