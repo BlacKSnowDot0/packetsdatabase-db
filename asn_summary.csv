@@ -12,9 +12,9 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4463
 "AS16509","Amazon.com, Inc.",4380
-"AS45102","Alibaba (US) Technology Co., Ltd.",4230
+"AS45102","Alibaba (US) Technology Co., Ltd.",4232
 "AS396998","Path Network, Inc.",3992
-"AS0","",3837
+"AS0","",3838
 "AS63949","Akamai Technologies, Inc.",3703
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3255
@@ -23,13 +23,13 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2871
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
-"AS23470","ReliableSite.Net LLC",2571
+"AS23470","ReliableSite.Net LLC",2573
 "AS9808","China Mobile",2085
 "AS202425","IP Volume inc",2017
-"AS32475","Internap Holding LLC",1696
+"AS32475","Internap Holding LLC",1697
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1559
-"AS49870","Alsycon B.V.",1524
+"AS49870","Alsycon B.V.",1525
 "AS36352","HostPapa",1488
 "AS13335","Cloudflare, Inc.",1454
 "AS398722","Censys, Inc.",1454
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",756
 "AS10439","CariNet, Inc.",741
-"AS14618","Amazon.com, Inc.",737
+"AS14618","Amazon.com, Inc.",738
 "AS4837","CHINA UNICOM China169 Backbone",622
 "AS12876","ONLINE S.A.S.",621
 "AS51115","HLL LLC",601
@@ -88,7 +88,7 @@ ASN,Organization,IP_Count
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",300
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
-"AS141718","haoxiangyun",272
+"AS141718","haoxiangyun",273
 "AS18403","FPT Telecom Company",265
 "AS48090","TECHOFF SRV LIMITED",261
 "AS60223","Netiface Limited",250
@@ -120,7 +120,7 @@ ASN,Organization,IP_Count
 "AS36007","Kamatera, Inc.",122
 "AS4766","Korea Telecom",120
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",119
-"AS30083","velia.net",116
+"AS30083","velia.net",117
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",111
 "AS208287","DC Host INC",110
@@ -2161,6 +2161,7 @@ ASN,Organization,IP_Count
 "AS263009","FORTE TELECOM LTDA.",1
 "AS263011","6P Telecom Ltda",1
 "AS263032","VERO S.A",1
+"AS263047","Speednet Provedor de Acesso a Internet Ltda",1
 "AS263057","Connect Network",1
 "AS263077","RazaoInfo Internet Ltda",1
 "AS263087","Rawnet Informatica LTDA",1
