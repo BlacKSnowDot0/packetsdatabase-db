@@ -4,10 +4,10 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22288
 "AS398324","Censys, Inc.",15590
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10836
-"AS14061","DigitalOcean, LLC",8666
+"AS396982","Google LLC",10837
+"AS14061","DigitalOcean, LLC",8667
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6102
+"AS16276","OVH SAS",6103
 "AS4134","Chinanet",5116
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4463
@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",4247
 "AS396998","Path Network, Inc.",3992
 "AS0","",3841
-"AS63949","Akamai Technologies, Inc.",3709
+"AS63949","Akamai Technologies, Inc.",3710
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3256
 "AS398705","Censys, Inc.",3238
@@ -54,9 +54,9 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",756
 "AS10439","CariNet, Inc.",745
 "AS14618","Amazon.com, Inc.",739
-"AS4837","CHINA UNICOM China169 Backbone",623
+"AS4837","CHINA UNICOM China169 Backbone",624
 "AS12876","ONLINE S.A.S.",622
-"AS51115","HLL LLC",610
+"AS51115","HLL LLC",611
 "AS201814","MEVSPACE sp. z o.o.",596
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",586
@@ -965,6 +965,7 @@ ASN,Organization,IP_Count
 "AS268323","AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA",3
 "AS268365","VALDEMIR DE SANTANA ROLIM - ELETROTEL",3
 "AS268470","CONECTAR TELECOM BANDA LARGA LTDA",3
+"AS268581","QNAX LTDA",3
 "AS269750","Gandalf Comunicaciones C.A.",3
 "AS269795","MLV SA",3
 "AS270353","Tyna Host - Datacenter no Brasil",3
@@ -1316,7 +1317,6 @@ ASN,Organization,IP_Count
 "AS268310","IBNET TELECOM LTDA",2
 "AS268401","NETSTART MULTIMIDIA E COMUNICACAO LTDA",2
 "AS268437","BRAXTEL TELECOM E TI",2
-"AS268581","QNAX LTDA",2
 "AS268671","RLNET PROVEDOR",2
 "AS269597","STALKER ENGENHARIA EIRELI",2
 "AS269931","WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L",2
