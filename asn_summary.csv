@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22284
 "AS398324","Censys, Inc.",15569
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10823
+"AS396982","Google LLC",10825
 "AS14061","DigitalOcean, LLC",8657
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6099
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3256
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2932
+"AS8075","Microsoft Corporation",2933
 "AS6939","Hurricane Electric LLC",2872
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
@@ -44,7 +44,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1030
 "AS51852","Private Layer INC",907
-"AS20052","Arbor Networks, Inc.",880
+"AS20052","Arbor Networks, Inc.",881
 "AS51167","Contabo GmbH",878
 "AS208046","ColocationX Ltd.",872
 "AS215925","VPSVAULT.HOST LTD",858
@@ -61,7 +61,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",586
 "AS9009","M247 Europe SRL",580
-"AS9829","Bharat Sanchar Nigam Ltd",560
+"AS9829","Bharat Sanchar Nigam Ltd",561
 "AS31148","Freenet LTD",558
 "AS53667","FranTech Solutions",558
 "AS401120","cheapy.host LLC",557
@@ -254,6 +254,7 @@ ASN,Organization,IP_Count
 "AS200593","PROSPERO OOO",30
 "AS214417","Andrii Hrosh",30
 "AS4713","NTT Communications Corporation",30
+"AS271597","NEW LINK CONNECT",29
 "AS3269","Telecom Italia S.p.A.",29
 "AS6134","XNNET LLC",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
@@ -263,7 +264,6 @@ ASN,Organization,IP_Count
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",28
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",28
 "AS24940","Hetzner Online GmbH",28
-"AS271597","NEW LINK CONNECT",28
 "AS30860","Virtual Systems LLC",28
 "AS329490","Promethean Consulting Limited",28
 "AS3786","LG DACOM Corporation",28
