@@ -4,8 +4,8 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22288
 "AS398324","Censys, Inc.",15590
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10838
-"AS14061","DigitalOcean, LLC",8667
+"AS396982","Google LLC",10841
+"AS14061","DigitalOcean, LLC",8668
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6103
 "AS4134","Chinanet",5116
@@ -20,13 +20,13 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3256
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2937
-"AS6939","Hurricane Electric LLC",2874
+"AS6939","Hurricane Electric LLC",2876
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2598
 "AS9808","China Mobile",2086
 "AS202425","IP Volume inc",2025
-"AS32475","Internap Holding LLC",1702
+"AS32475","Internap Holding LLC",1704
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1561
 "AS49870","Alsycon B.V.",1525
@@ -80,7 +80,7 @@ ASN,Organization,IP_Count
 "AS7922","Comcast Cable Communications, LLC",352
 "AS8151","Uninet S.A. de C.V.",341
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
-"AS208843","Alpha Strike Labs GmbH",320
+"AS208843","Alpha Strike Labs GmbH",321
 "AS214943","Railnet LLC",318
 "AS45899","VNPT Corp",318
 "AS213613","BOTSHIELD LTD",314
@@ -112,12 +112,12 @@ ASN,Organization,IP_Count
 "AS14956","RouterHosting LLC",145
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
-"AS8560","IONOS SE",136
+"AS8560","IONOS SE",137
 "AS13238","YANDEX LLC",133
 "AS137409","GSL Networks Pty LTD",128
 "AS151185","China Telecom",127
 "AS19905","Neustar Security Services",127
-"AS30083","velia.net",122
+"AS30083","velia.net",123
 "AS36007","Kamatera, Inc.",122
 "AS4766","Korea Telecom",120
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",119
@@ -494,6 +494,7 @@ ASN,Organization,IP_Count
 "AS18779","EGIHosting",9
 "AS206262","TelKos L.L.C",9
 "AS212504","AdKyNet SAS",9
+"AS212815","Dyjix SAS",9
 "AS213520","Senko Digital Ltd",9
 "AS214481","Wojciech Czapkowicz",9
 "AS24955","JSC ""Ufanet""",9
@@ -520,7 +521,6 @@ ASN,Organization,IP_Count
 "AS209956","Telkoturk Iletisim Hizmetleri A.S.",8
 "AS211507","Julian Achter",8
 "AS2119","Telenor Norge AS",8
-"AS212815","Dyjix SAS",8
 "AS215730","H2NEXUS LTD",8
 "AS24086","Viettel Corporation",8
 "AS262459","Osirnet Info Telecom Ltda.",8
