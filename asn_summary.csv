@@ -4,10 +4,10 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22288
 "AS398324","Censys, Inc.",15588
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10831
+"AS396982","Google LLC",10832
 "AS14061","DigitalOcean, LLC",8659
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6099
+"AS16276","OVH SAS",6100
 "AS4134","Chinanet",5116
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4463
@@ -19,18 +19,18 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3256
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2935
+"AS8075","Microsoft Corporation",2936
 "AS6939","Hurricane Electric LLC",2873
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
-"AS23470","ReliableSite.Net LLC",2597
+"AS23470","ReliableSite.Net LLC",2598
 "AS9808","China Mobile",2086
 "AS202425","IP Volume inc",2025
-"AS32475","Internap Holding LLC",1700
+"AS32475","Internap Holding LLC",1702
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1561
 "AS49870","Alsycon B.V.",1525
-"AS36352","HostPapa",1491
+"AS36352","HostPapa",1492
 "AS398722","Censys, Inc.",1455
 "AS13335","Cloudflare, Inc.",1454
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -44,7 +44,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1031
 "AS51852","Private Layer INC",907
-"AS20052","Arbor Networks, Inc.",884
+"AS20052","Arbor Networks, Inc.",885
 "AS51167","Contabo GmbH",879
 "AS208046","ColocationX Ltd.",873
 "AS215925","VPSVAULT.HOST LTD",858
@@ -56,7 +56,7 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",739
 "AS4837","CHINA UNICOM China169 Backbone",623
 "AS12876","ONLINE S.A.S.",621
-"AS51115","HLL LLC",609
+"AS51115","HLL LLC",610
 "AS201814","MEVSPACE sp. z o.o.",596
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",586
