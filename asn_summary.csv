@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87880
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22288
-"AS398324","Censys, Inc.",15588
+"AS398324","Censys, Inc.",15589
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10832
-"AS14061","DigitalOcean, LLC",8659
+"AS396982","Google LLC",10834
+"AS14061","DigitalOcean, LLC",8660
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6100
 "AS4134","Chinanet",5116
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3256
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2936
-"AS6939","Hurricane Electric LLC",2873
+"AS6939","Hurricane Electric LLC",2874
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2598
@@ -44,7 +44,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1031
 "AS51852","Private Layer INC",907
-"AS20052","Arbor Networks, Inc.",885
+"AS20052","Arbor Networks, Inc.",886
 "AS51167","Contabo GmbH",879
 "AS208046","ColocationX Ltd.",873
 "AS215925","VPSVAULT.HOST LTD",858
@@ -103,7 +103,7 @@ ASN,Organization,IP_Count
 "AS63199","CDS Global Cloud Co., Ltd",193
 "AS50219","LNK SYSTEMS MUNTENIA SRL",183
 "AS7552","Viettel Group",182
-"AS34984","Superonline Iletisim Hizmetleri A.S.",175
+"AS34984","Superonline Iletisim Hizmetleri A.S.",176
 "AS401116","Nybula LLC",170
 "AS42237","w1n ltd",169
 "AS215240","Silent Connection Ltd.",167
@@ -117,8 +117,8 @@ ASN,Organization,IP_Count
 "AS137409","GSL Networks Pty LTD",128
 "AS151185","China Telecom",127
 "AS19905","Neustar Security Services",127
+"AS30083","velia.net",122
 "AS36007","Kamatera, Inc.",122
-"AS30083","velia.net",121
 "AS4766","Korea Telecom",120
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",119
 "AS211298","Constantine Cybersecurity Ltd.",113
