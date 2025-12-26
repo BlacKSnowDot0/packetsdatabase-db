@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87880
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22288
-"AS398324","Censys, Inc.",15584
+"AS398324","Censys, Inc.",15588
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10831
 "AS14061","DigitalOcean, LLC",8659
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4463
 "AS16509","Amazon.com, Inc.",4380
-"AS45102","Alibaba (US) Technology Co., Ltd.",4244
+"AS45102","Alibaba (US) Technology Co., Ltd.",4246
 "AS396998","Path Network, Inc.",3992
 "AS0","",3841
 "AS63949","Akamai Technologies, Inc.",3709
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
 "AS215269","LAZYCLOUD LTD",1312
-"AS174","Cogent Communications",1288
+"AS174","Cogent Communications",1289
 "AS22552","eSited Solutions",1198
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
@@ -44,7 +44,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1031
 "AS51852","Private Layer INC",907
-"AS20052","Arbor Networks, Inc.",883
+"AS20052","Arbor Networks, Inc.",884
 "AS51167","Contabo GmbH",879
 "AS208046","ColocationX Ltd.",873
 "AS215925","VPSVAULT.HOST LTD",858
@@ -99,7 +99,7 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS29484","Ruhr-Universitaet Bochum",222
 "AS14987","Rethem Hosting LLC",215
-"AS12555","Data-center IMAQLIQ Ltd.",207
+"AS12555","Data-center IMAQLIQ Ltd.",208
 "AS63199","CDS Global Cloud Co., Ltd",193
 "AS50219","LNK SYSTEMS MUNTENIA SRL",183
 "AS7552","Viettel Group",182
@@ -170,8 +170,8 @@ ASN,Organization,IP_Count
 "AS5650","Frontier Communications of America, Inc.",64
 "AS17378","TierPoint, LLC",63
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",62
+"AS46475","Limestone Networks, Inc.",62
 "AS140717","China Unicom",61
-"AS46475","Limestone Networks, Inc.",61
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS4812","China Telecom (Group)",60
 "AS20115","Charter Communications",59
