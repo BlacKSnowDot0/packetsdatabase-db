@@ -1,7 +1,7 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87880
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22288
+"AS211298","Driftnet Ltd",22289
 "AS398324","Censys, Inc.",15591
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10841
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4463
 "AS16509","Amazon.com, Inc.",4380
-"AS45102","Alibaba (US) Technology Co., Ltd.",4252
+"AS45102","Alibaba (US) Technology Co., Ltd.",4253
 "AS396998","Path Network, Inc.",3992
 "AS0","",3841
 "AS63949","Akamai Technologies, Inc.",3710
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1561
 "AS49870","Alsycon B.V.",1525
-"AS36352","HostPapa",1492
+"AS36352","HostPapa",1493
 "AS398722","Censys, Inc.",1455
 "AS13335","Cloudflare, Inc.",1454
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -44,7 +44,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1031
 "AS51852","Private Layer INC",907
-"AS20052","Arbor Networks, Inc.",887
+"AS20052","Arbor Networks, Inc.",888
 "AS51167","Contabo GmbH",880
 "AS208046","ColocationX Ltd.",873
 "AS215925","VPSVAULT.HOST LTD",858
@@ -88,7 +88,7 @@ ASN,Organization,IP_Count
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",300
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
-"AS141718","haoxiangyun",273
+"AS141718","haoxiangyun",274
 "AS18403","FPT Telecom Company",265
 "AS48090","TECHOFF SRV LIMITED",261
 "AS60223","Netiface Limited",250
@@ -341,13 +341,13 @@ ASN,Organization,IP_Count
 "AS24757","EthioNet",19
 "AS262287","Maxihost LTDA",19
 "AS49531","""NetCom-R"" LLC",19
+"AS60781","LeaseWeb Netherlands B.V.",19
 "AS6167","Verizon Business",19
 "AS6697","Republican Unitary Telecommunication Enterprise Beltelecom",19
 "AS18049","Taiwan Infrastructure Network Technologie",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
 "AS39603","P4 Sp. z o.o.",18
 "AS400655","NixLabs Networks",18
-"AS60781","LeaseWeb Netherlands B.V.",18
 "AS11427","Charter Communications Inc",17
 "AS136958","China Unicom Guangdong IP network",17
 "AS148981","China Telecom",17
