@@ -2,13 +2,13 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87880
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22284
-"AS398324","Censys, Inc.",15575
+"AS398324","Censys, Inc.",15577
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10829
 "AS14061","DigitalOcean, LLC",8657
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6099
-"AS4134","Chinanet",5115
+"AS4134","Chinanet",5116
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4463
 "AS16509","Amazon.com, Inc.",4380
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS20052","Arbor Networks, Inc.",882
 "AS51167","Contabo GmbH",879
-"AS208046","ColocationX Ltd.",872
+"AS208046","ColocationX Ltd.",873
 "AS215925","VPSVAULT.HOST LTD",858
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -120,7 +120,7 @@ ASN,Organization,IP_Count
 "AS36007","Kamatera, Inc.",122
 "AS4766","Korea Telecom",120
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",119
-"AS30083","velia.net",118
+"AS30083","velia.net",119
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",111
 "AS208287","DC Host INC",110
@@ -215,6 +215,7 @@ ASN,Organization,IP_Count
 "AS43641","SOLLUTIUM EU Sp z.o.o.",40
 "AS5089","Virgin Media Limited",40
 "AS329009","Spectrum Internet Service Ltd",39
+"AS4538","China Education and Research Network Center",39
 "AS8048","CANTV Servicios, Venezuela",39
 "AS9198","JSC Kazakhtelecom",39
 "AS1103","SURF B.V.",38
@@ -222,7 +223,6 @@ ASN,Organization,IP_Count
 "AS204834","Shabakieh Isfahan Co PJSC",38
 "AS210509","Optimum Line for Internet Services Ltd.",38
 "AS28546","Servnet Mexico, S.A. de C.V.",38
-"AS4538","China Education and Research Network Center",38
 "AS1680","Cellcom Fixed Line Communication L.P",37
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",37
 "AS42624","Global-Data System IT Corporation",37
@@ -2581,6 +2581,7 @@ ASN,Organization,IP_Count
 "AS29534","IntornTechnic Ltd.",1
 "AS29584","AZEDUNET LLC",1
 "AS29744","United Telephone Mutual Aid Corporation",1
+"AS29802","HIVELOCITY, Inc.",1
 "AS29968","Dunkirk & Fredonia Telephone Company",1
 "AS30848","TWT S.p.A.",1
 "AS30881","MTS PJSC",1
@@ -2721,6 +2722,7 @@ ASN,Organization,IP_Count
 "AS395165","Madison Telephone LLC",1
 "AS39529","Osipenko Alexander Nikolaevich",1
 "AS395662","OzarksGo, LLC",1
+"AS395954","Leaseweb USA, Inc.",1
 "AS396073","Majestic Hosting Solutions, LLC",1
 "AS396420","Valley Fiber Ltd.",1
 "AS397031","GALAXYGATE, LLC",1
