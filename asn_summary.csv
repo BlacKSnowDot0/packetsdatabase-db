@@ -2,17 +2,17 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87880
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22289
-"AS398324","Censys, Inc.",15599
+"AS398324","Censys, Inc.",15600
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10848
-"AS14061","DigitalOcean, LLC",8670
+"AS14061","DigitalOcean, LLC",8671
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6103
 "AS4134","Chinanet",5118
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4463
 "AS16509","Amazon.com, Inc.",4380
-"AS45102","Alibaba (US) Technology Co., Ltd.",4254
+"AS45102","Alibaba (US) Technology Co., Ltd.",4255
 "AS396998","Path Network, Inc.",3992
 "AS0","",3841
 "AS63949","Akamai Technologies, Inc.",3712
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2600
 "AS9808","China Mobile",2086
 "AS202425","IP Volume inc",2028
-"AS32475","Internap Holding LLC",1705
+"AS32475","Internap Holding LLC",1706
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1562
 "AS49870","Alsycon B.V.",1525
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",756
-"AS10439","CariNet, Inc.",745
+"AS10439","CariNet, Inc.",746
 "AS14618","Amazon.com, Inc.",740
 "AS4837","CHINA UNICOM China169 Backbone",624
 "AS12876","ONLINE S.A.S.",623
@@ -115,7 +115,7 @@ ASN,Organization,IP_Count
 "AS8560","IONOS SE",137
 "AS13238","YANDEX LLC",133
 "AS137409","GSL Networks Pty LTD",128
-"AS151185","China Telecom",127
+"AS151185","China Telecom",128
 "AS19905","Neustar Security Services",127
 "AS30083","velia.net",124
 "AS36007","Kamatera, Inc.",122
