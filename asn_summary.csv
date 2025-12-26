@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87880
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22284
-"AS398324","Censys, Inc.",15577
+"AS211298","Driftnet Ltd",22285
+"AS398324","Censys, Inc.",15578
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10829
 "AS14061","DigitalOcean, LLC",8657
@@ -44,7 +44,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1031
 "AS51852","Private Layer INC",907
-"AS20052","Arbor Networks, Inc.",882
+"AS20052","Arbor Networks, Inc.",883
 "AS51167","Contabo GmbH",879
 "AS208046","ColocationX Ltd.",873
 "AS215925","VPSVAULT.HOST LTD",858
@@ -56,7 +56,7 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",738
 "AS4837","CHINA UNICOM China169 Backbone",623
 "AS12876","ONLINE S.A.S.",621
-"AS51115","HLL LLC",607
+"AS51115","HLL LLC",608
 "AS201814","MEVSPACE sp. z o.o.",596
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",586
@@ -118,9 +118,9 @@ ASN,Organization,IP_Count
 "AS151185","China Telecom",127
 "AS19905","Neustar Security Services",127
 "AS36007","Kamatera, Inc.",122
+"AS30083","velia.net",120
 "AS4766","Korea Telecom",120
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",119
-"AS30083","velia.net",119
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",111
 "AS208287","DC Host INC",110
