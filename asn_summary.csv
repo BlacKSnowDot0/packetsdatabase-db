@@ -4,8 +4,8 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22289
 "AS398324","Censys, Inc.",15594
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10842
-"AS14061","DigitalOcean, LLC",8668
+"AS396982","Google LLC",10844
+"AS14061","DigitalOcean, LLC",8670
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6103
 "AS4134","Chinanet",5118
@@ -25,10 +25,10 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2599
 "AS9808","China Mobile",2086
-"AS202425","IP Volume inc",2027
+"AS202425","IP Volume inc",2028
 "AS32475","Internap Holding LLC",1704
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1561
+"AS209605","UAB Host Baltic",1562
 "AS49870","Alsycon B.V.",1525
 "AS36352","HostPapa",1493
 "AS398722","Censys, Inc.",1455
@@ -272,6 +272,7 @@ ASN,Organization,IP_Count
 "AS17995","PT iForte Global Internet",27
 "AS2914","NTT America, Inc.",27
 "AS34534","FBW NETWORKS SAS",27
+"AS40676","Psychz Networks",27
 "AS53118","NETLINE TELECOM",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",27
@@ -279,7 +280,6 @@ ASN,Organization,IP_Count
 "AS23693","PT. Telekomunikasi Selular",26
 "AS24560","Bharti Airtel Limited",26
 "AS3209","Vodafone GmbH",26
-"AS40676","Psychz Networks",26
 "AS41745","Baykov Ilya Sergeevich",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS18881","TELEFÔNICA BRASIL S.A",25
