@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22299
 "AS398324","Censys, Inc.",15652
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10870
+"AS396982","Google LLC",10872
 "AS14061","DigitalOcean, LLC",8678
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6109
@@ -14,12 +14,12 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4380
 "AS45102","Alibaba (US) Technology Co., Ltd.",4262
 "AS396998","Path Network, Inc.",3992
-"AS0","",3854
+"AS0","",3855
 "AS63949","Akamai Technologies, Inc.",3715
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3259
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2943
+"AS8075","Microsoft Corporation",2944
 "AS6939","Hurricane Electric LLC",2884
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2616
@@ -42,10 +42,10 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
-"AS208684","BHA CONSEIL SARL",1032
+"AS208684","BHA CONSEIL SARL",1033
 "AS51852","Private Layer INC",907
 "AS20052","Arbor Networks, Inc.",899
-"AS51167","Contabo GmbH",881
+"AS51167","Contabo GmbH",882
 "AS208046","ColocationX Ltd.",874
 "AS215925","VPSVAULT.HOST LTD",861
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -100,7 +100,7 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS12555","Data-center IMAQLIQ Ltd.",208
-"AS63199","CDS Global Cloud Co., Ltd",194
+"AS63199","CDS Global Cloud Co., Ltd",195
 "AS50219","LNK SYSTEMS MUNTENIA SRL",183
 "AS7552","Viettel Group",182
 "AS34984","Superonline Iletisim Hizmetleri A.S.",177
@@ -119,7 +119,7 @@ ASN,Organization,IP_Count
 "AS151185","China Telecom",128
 "AS19905","Neustar Security Services",127
 "AS36007","Kamatera, Inc.",122
-"AS4766","Korea Telecom",121
+"AS4766","Korea Telecom",122
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",119
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",112
@@ -141,9 +141,9 @@ ASN,Organization,IP_Count
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
 "AS22773","Cox Communications Inc.",80
+"AS396356","Latitude.sh",80
 "AS200019","ALEXHOST SRL",79
 "AS3920","ESTOXY OU",78
-"AS396356","Latitude.sh",78
 "AS150263","PT Alnet Telekomunikasi Indonesia",76
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",76
@@ -211,10 +211,10 @@ ASN,Organization,IP_Count
 "AS7738","V tal",42
 "AS23969","TOT Public Company Limited",41
 "AS26599","TELEFÔNICA BRASIL S.A",41
+"AS210509","Optimum Line for Internet Services Ltd.",40
 "AS27699","TELEFÔNICA BRASIL S.A",40
 "AS43641","SOLLUTIUM EU Sp z.o.o.",40
 "AS5089","Virgin Media Limited",40
-"AS210509","Optimum Line for Internet Services Ltd.",39
 "AS28546","Servnet Mexico, S.A. de C.V.",39
 "AS329009","Spectrum Internet Service Ltd",39
 "AS4538","China Education and Research Network Center",39
