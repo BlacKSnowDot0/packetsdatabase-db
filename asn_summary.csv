@@ -4,8 +4,8 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22299
 "AS398324","Censys, Inc.",15652
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10868
-"AS14061","DigitalOcean, LLC",8677
+"AS396982","Google LLC",10870
+"AS14061","DigitalOcean, LLC",8678
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6109
 "AS4134","Chinanet",5120
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4380
 "AS45102","Alibaba (US) Technology Co., Ltd.",4262
 "AS396998","Path Network, Inc.",3992
-"AS0","",3853
+"AS0","",3854
 "AS63949","Akamai Technologies, Inc.",3715
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3259
@@ -143,7 +143,7 @@ ASN,Organization,IP_Count
 "AS22773","Cox Communications Inc.",80
 "AS200019","ALEXHOST SRL",79
 "AS3920","ESTOXY OU",78
-"AS396356","Latitude.sh",77
+"AS396356","Latitude.sh",78
 "AS150263","PT Alnet Telekomunikasi Indonesia",76
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",76
