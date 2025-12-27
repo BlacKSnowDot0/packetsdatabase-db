@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87880
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22292
-"AS398324","Censys, Inc.",15615
+"AS398324","Censys, Inc.",15619
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10856
+"AS396982","Google LLC",10858
 "AS14061","DigitalOcean, LLC",8673
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6103
@@ -14,8 +14,8 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4380
 "AS45102","Alibaba (US) Technology Co., Ltd.",4259
 "AS396998","Path Network, Inc.",3992
-"AS0","",3842
-"AS63949","Akamai Technologies, Inc.",3713
+"AS0","",3843
+"AS63949","Akamai Technologies, Inc.",3714
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3256
 "AS398705","Censys, Inc.",3238
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1563
 "AS49870","Alsycon B.V.",1526
 "AS36352","HostPapa",1493
-"AS398722","Censys, Inc.",1456
+"AS398722","Censys, Inc.",1457
 "AS13335","Cloudflare, Inc.",1454
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",756
-"AS10439","CariNet, Inc.",746
+"AS10439","CariNet, Inc.",747
 "AS14618","Amazon.com, Inc.",741
 "AS4837","CHINA UNICOM China169 Backbone",624
 "AS12876","ONLINE S.A.S.",623
@@ -122,7 +122,7 @@ ASN,Organization,IP_Count
 "AS4766","Korea Telecom",121
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",119
 "AS211298","Constantine Cybersecurity Ltd.",113
-"AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",111
+"AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",112
 "AS208287","DC Host INC",110
 "AS40021","Nubes, LLC",110
 "AS47331","TTNet A.S.",108
@@ -206,9 +206,9 @@ ASN,Organization,IP_Count
 "AS20473","The Constant Company, LLC",43
 "AS21928","T-Mobile USA, Inc.",43
 "AS214497","Whitelabel Solutions, Ltd.",42
+"AS215762","Bullet Group LTD",42
 "AS262378","Compuservice Empreendimentos Ltda",42
 "AS7738","V tal",42
-"AS215762","Bullet Group LTD",41
 "AS23969","TOT Public Company Limited",41
 "AS26599","TELEFÔNICA BRASIL S.A",41
 "AS27699","TELEFÔNICA BRASIL S.A",40
