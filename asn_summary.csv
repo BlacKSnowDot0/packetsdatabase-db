@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87881
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22294
-"AS398324","Censys, Inc.",15636
+"AS398324","Censys, Inc.",15639
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10863
 "AS14061","DigitalOcean, LLC",8676
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6105
+"AS16276","OVH SAS",6106
 "AS4134","Chinanet",5120
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4463
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",756
 "AS10439","CariNet, Inc.",747
-"AS14618","Amazon.com, Inc.",741
+"AS14618","Amazon.com, Inc.",742
 "AS12876","ONLINE S.A.S.",624
 "AS4837","CHINA UNICOM China169 Backbone",624
 "AS51115","HLL LLC",612
@@ -131,7 +131,7 @@ ASN,Organization,IP_Count
 "AS136435","ELITE COMMUNICATION",100
 "AS11320","LightEdge Solutions",96
 "AS63018","Dedicated.com",96
-"AS28209","Under Servicos de Internet Ltda",94
+"AS28209","Under Servicos de Internet Ltda",95
 "AS205352","KABELNET LTD",93
 "AS5617","Orange Polska Spolka Akcyjna",93
 "AS210125","PRIAM NET Sh.p.k.",89
@@ -175,9 +175,9 @@ ASN,Organization,IP_Count
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS4812","China Telecom (Group)",60
 "AS20115","Charter Communications",59
+"AS202796","JSR IT B.V.",59
 "AS49544","i3D.net B.V",59
 "AS20001","Charter Communications Inc",58
-"AS202796","JSR IT B.V.",58
 "AS20278","Nexeon Technologies, Inc.",57
 "AS30633","Leaseweb USA, Inc.",57
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",56
