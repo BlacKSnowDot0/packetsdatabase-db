@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87881
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22294
-"AS398324","Censys, Inc.",15635
+"AS398324","Censys, Inc.",15636
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10863
 "AS14061","DigitalOcean, LLC",8676
@@ -23,9 +23,9 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2881
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
-"AS23470","ReliableSite.Net LLC",2612
+"AS23470","ReliableSite.Net LLC",2613
 "AS9808","China Mobile",2086
-"AS202425","IP Volume inc",2033
+"AS202425","IP Volume inc",2034
 "AS32475","Internap Holding LLC",1709
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1563
@@ -44,7 +44,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1031
 "AS51852","Private Layer INC",907
-"AS20052","Arbor Networks, Inc.",897
+"AS20052","Arbor Networks, Inc.",898
 "AS51167","Contabo GmbH",880
 "AS208046","ColocationX Ltd.",873
 "AS215925","VPSVAULT.HOST LTD",861
@@ -801,6 +801,7 @@ ASN,Organization,IP_Count
 "AS266274","NETWEST TELECOM",4
 "AS266541","ItaNet - Provedor de Internet",4
 "AS26727","Brandenburg Telephone Company",4
+"AS268581","QNAX LTDA",4
 "AS269820","FULL DATA COMUNICACIONES C.A.",4
 "AS270020","T.V. SANV S A S (ALPAVISION HD)",4
 "AS270814","ZAAZ PROVEDOR DE INTERNET E TELECOMUNICACOES LTDA",4
@@ -965,7 +966,6 @@ ASN,Organization,IP_Count
 "AS268323","AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA",3
 "AS268365","VALDEMIR DE SANTANA ROLIM - ELETROTEL",3
 "AS268470","CONECTAR TELECOM BANDA LARGA LTDA",3
-"AS268581","QNAX LTDA",3
 "AS269750","Gandalf Comunicaciones C.A.",3
 "AS269795","MLV SA",3
 "AS270353","Tyna Host - Datacenter no Brasil",3
