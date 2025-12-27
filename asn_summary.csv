@@ -4,10 +4,10 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22294
 "AS398324","Censys, Inc.",15635
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10862
+"AS396982","Google LLC",10863
 "AS14061","DigitalOcean, LLC",8676
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6104
+"AS16276","OVH SAS",6105
 "AS4134","Chinanet",5120
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4463
@@ -96,8 +96,8 @@ ASN,Organization,IP_Count
 "AS701","Verizon Business",229
 "AS29066","velia.net Internetdienste GmbH",227
 "AS12389","PJSC Rostelecom",225
+"AS29484","Ruhr-Universitaet Bochum",223
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
-"AS29484","Ruhr-Universitaet Bochum",222
 "AS14987","Rethem Hosting LLC",215
 "AS12555","Data-center IMAQLIQ Ltd.",208
 "AS63199","CDS Global Cloud Co., Ltd",194
@@ -126,8 +126,8 @@ ASN,Organization,IP_Count
 "AS208287","DC Host INC",110
 "AS40021","Nubes, LLC",110
 "AS47331","TTNet A.S.",108
+"AS199785","Cloud Hosting Solutions, Limited.",106
 "AS28573","Claro NXT Telecomunicacoes Ltda",106
-"AS199785","Cloud Hosting Solutions, Limited.",105
 "AS136435","ELITE COMMUNICATION",100
 "AS11320","LightEdge Solutions",96
 "AS63018","Dedicated.com",96
@@ -169,8 +169,8 @@ ASN,Organization,IP_Count
 "AS44592","SkyLink Data Center BV",64
 "AS5650","Frontier Communications of America, Inc.",64
 "AS17378","TierPoint, LLC",63
+"AS44477","STARK INDUSTRIES SOLUTIONS LTD",63
 "AS46475","Limestone Networks, Inc.",63
-"AS44477","STARK INDUSTRIES SOLUTIONS LTD",62
 "AS140717","China Unicom",61
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS4812","China Telecom (Group)",60
