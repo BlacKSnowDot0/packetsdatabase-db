@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87880
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22293
-"AS398324","Censys, Inc.",15624
+"AS398324","Censys, Inc.",15625
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10861
-"AS14061","DigitalOcean, LLC",8673
+"AS14061","DigitalOcean, LLC",8674
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6103
 "AS4134","Chinanet",5119
@@ -17,7 +17,7 @@ ASN,Organization,IP_Count
 "AS0","",3844
 "AS63949","Akamai Technologies, Inc.",3715
 "AS15169","Google LLC",3581
-"AS51396","Pfcloud UG",3256
+"AS51396","Pfcloud UG",3257
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2941
 "AS6939","Hurricane Electric LLC",2879
@@ -44,7 +44,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1031
 "AS51852","Private Layer INC",907
-"AS20052","Arbor Networks, Inc.",895
+"AS20052","Arbor Networks, Inc.",896
 "AS51167","Contabo GmbH",880
 "AS208046","ColocationX Ltd.",873
 "AS215925","VPSVAULT.HOST LTD",860
@@ -105,8 +105,8 @@ ASN,Organization,IP_Count
 "AS7552","Viettel Group",182
 "AS34984","Superonline Iletisim Hizmetleri A.S.",176
 "AS401116","Nybula LLC",170
+"AS215240","Silent Connection Ltd.",169
 "AS42237","w1n ltd",169
-"AS215240","Silent Connection Ltd.",168
 "AS262551","Farol Telecom",154
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",146
@@ -304,6 +304,7 @@ ASN,Organization,IP_Count
 "AS17561","Larus Limited",22
 "AS213010","Gening Nikita Dmitrievich",22
 "AS3320","Deutsche Telekom AG",22
+"AS400536","Nodestop LLC",22
 "AS43289","Trabia SRL",22
 "AS45758","Triple T Broadband Public Company Limited",22
 "AS51430","AltusHost B.V.",22
@@ -314,7 +315,6 @@ ASN,Organization,IP_Count
 "AS138886","PT Data Buana Nusantara",21
 "AS214668","AxusHost B.V.",21
 "AS24348","CERNET2 IX at Tsinghua University",21
-"AS400536","Nodestop LLC",21
 "AS46573","LayerHost",21
 "AS4800","PT Aplikanusa Lintasarta",21
 "AS4816","China Telecom (Group)",21
@@ -650,6 +650,7 @@ ASN,Organization,IP_Count
 "AS56047","China Mobile Communications Corporation",6
 "AS58495","PT Parsaoran Global Datatrans",6
 "AS58519","Cloud Computing Corporation",6
+"AS59441","NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)",6
 "AS6830","Liberty Global B.V.",6
 "AS8926","Moldtelecom SA",6
 "AS9416","Hoshin Multimedia Center Inc.",6
@@ -735,7 +736,6 @@ ASN,Organization,IP_Count
 "AS56329","Gigaclear Limited",5
 "AS58118","SC ADINET-Com SRL",5
 "AS58898","Rainbow communications India Pvt Ltd",5
-"AS59441","NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)",5
 "AS59504","LLC Vpsville",5
 "AS61135","COMNET BILGI ILETISIM TEKNOLOJILERI TICARET A.S.",5
 "AS61461","Airtek Solutions C.A.",5
