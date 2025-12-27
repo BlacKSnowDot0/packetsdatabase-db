@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87880
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22292
-"AS398324","Censys, Inc.",15619
+"AS398324","Censys, Inc.",15621
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10858
+"AS396982","Google LLC",10859
 "AS14061","DigitalOcean, LLC",8673
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6103
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4380
 "AS45102","Alibaba (US) Technology Co., Ltd.",4259
 "AS396998","Path Network, Inc.",3992
-"AS0","",3843
+"AS0","",3844
 "AS63949","Akamai Technologies, Inc.",3714
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3256
@@ -23,7 +23,7 @@ ASN,Organization,IP_Count
 "AS6939","Hurricane Electric LLC",2878
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
-"AS23470","ReliableSite.Net LLC",2600
+"AS23470","ReliableSite.Net LLC",2611
 "AS9808","China Mobile",2086
 "AS202425","IP Volume inc",2031
 "AS32475","Internap Holding LLC",1708
@@ -44,7 +44,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1031
 "AS51852","Private Layer INC",907
-"AS20052","Arbor Networks, Inc.",894
+"AS20052","Arbor Networks, Inc.",895
 "AS51167","Contabo GmbH",880
 "AS208046","ColocationX Ltd.",873
 "AS215925","VPSVAULT.HOST LTD",860
@@ -130,7 +130,7 @@ ASN,Organization,IP_Count
 "AS199785","Cloud Hosting Solutions, Limited.",104
 "AS136435","ELITE COMMUNICATION",100
 "AS11320","LightEdge Solutions",96
-"AS63018","Dedicated.com",95
+"AS63018","Dedicated.com",96
 "AS28209","Under Servicos de Internet Ltda",94
 "AS205352","KABELNET LTD",93
 "AS5617","Orange Polska Spolka Akcyjna",93
@@ -153,8 +153,8 @@ ASN,Organization,IP_Count
 "AS31898","Oracle Corporation",74
 "AS56046","China Mobile Communications Corporation",74
 "AS210644","AEZA INTERNATIONAL LTD",72
+"AS2856","British Telecommunications PLC",71
 "AS55720","Gigabit Hosting Sdn Bhd",71
-"AS2856","British Telecommunications PLC",70
 "AS149746","PT Blip Integrator Provider",69
 "AS52053","REDHEBERG Association declaree",69
 "AS834","IPXO LLC",68
@@ -1937,6 +1937,7 @@ ASN,Organization,IP_Count
 "AS201094","Mulgin Alexander Sergeevich",1
 "AS201174","Tbilisi City Hall",1
 "AS201224","Tikhomirov Evgeny Viktorovich",1
+"AS201337","AVATEL TELECOM, SA",1
 "AS201624","ARANEA LLC",1
 "AS201749","SUPER CELL NETWORK FOR INTERNET SERVICES LTD",1
 "AS201776","Miranda-Media Ltd",1
