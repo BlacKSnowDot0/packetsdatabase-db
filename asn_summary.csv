@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3256
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2941
-"AS6939","Hurricane Electric LLC",2878
+"AS6939","Hurricane Electric LLC",2879
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2614
 "AS23470","ReliableSite.Net LLC",2611
@@ -75,7 +75,7 @@ ASN,Organization,IP_Count
 "AS7018","AT&T Enterprises, LLC",400
 "AS47890","UNMANAGED LTD",390
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS21859","Zenlayer Inc",381
+"AS21859","Zenlayer Inc",382
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS7922","Comcast Cable Communications, LLC",352
 "AS8151","Uninet S.A. de C.V.",341
@@ -95,7 +95,7 @@ ASN,Organization,IP_Count
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",229
 "AS29066","velia.net Internetdienste GmbH",227
-"AS12389","PJSC Rostelecom",224
+"AS12389","PJSC Rostelecom",225
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS29484","Ruhr-Universitaet Bochum",222
 "AS14987","Rethem Hosting LLC",215
@@ -114,9 +114,9 @@ ASN,Organization,IP_Count
 "AS6739","VODAFONE ONO, S.A.",141
 "AS8560","IONOS SE",137
 "AS13238","YANDEX LLC",133
+"AS30083","velia.net",129
 "AS137409","GSL Networks Pty LTD",128
 "AS151185","China Telecom",128
-"AS30083","velia.net",128
 "AS19905","Neustar Security Services",127
 "AS36007","Kamatera, Inc.",122
 "AS4766","Korea Telecom",121
@@ -546,6 +546,7 @@ ASN,Organization,IP_Count
 "AS13430","THE WISP.NET CORP.",7
 "AS135478","PT. Cyberindo Aditama",7
 "AS135953","Vietnam Online Network Solution Joint Stock Compnay",7
+"AS137697","CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou , Jiangsu Province, P.",7
 "AS13977","Consolidated Communications, Inc.",7
 "AS140869","Turing Group Limited",7
 "AS141433","Netcom Internet Service",7
@@ -598,7 +599,6 @@ ASN,Organization,IP_Count
 "AS132116","Ani Network Pvt Ltd",6
 "AS135523","Multinet Broadband",6
 "AS136188","NINGBO, ZHEJIANG Province, P.R.China.",6
-"AS137697","CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou , Jiangsu Province, P.",6
 "AS13999","Mega Cable, S.A. de C.V.",6
 "AS141167","AgotoZ HK Limited",6
 "AS149078","VPSMMO TECHNOLOGY COMPANY LIMITED",6
