@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87884
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22303
-"AS398324","Censys, Inc.",15693
+"AS398324","Censys, Inc.",15695
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10889
 "AS14061","DigitalOcean, LLC",8696
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3259
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2946
+"AS8075","Microsoft Corporation",2947
 "AS6939","Hurricane Electric LLC",2887
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2625
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1564
 "AS49870","Alsycon B.V.",1532
-"AS36352","HostPapa",1494
+"AS36352","HostPapa",1495
 "AS398722","Censys, Inc.",1457
 "AS13335","Cloudflare, Inc.",1454
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -42,7 +42,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
-"AS208684","BHA CONSEIL SARL",1034
+"AS208684","BHA CONSEIL SARL",1035
 "AS20052","Arbor Networks, Inc.",908
 "AS51852","Private Layer INC",907
 "AS51167","Contabo GmbH",888
@@ -2677,6 +2677,7 @@ ASN,Organization,IP_Count
 "AS37144","Unified Payment Services Limited",1
 "AS37148","Globacom Limited",1
 "AS37182","Tanzania Education And Research Network",1
+"AS37228","KT RWANDA NETWORK Ltd",1
 "AS37334","JASCO CONVERGED SOLUTIONS (Pty) Ltd",1
 "AS37340","SPECTRANET LIMITED",1
 "AS37350","Dimension Data Ltd",1
