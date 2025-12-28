@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87883
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22301
-"AS398324","Censys, Inc.",15683
+"AS398324","Censys, Inc.",15686
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10885
+"AS396982","Google LLC",10887
 "AS14061","DigitalOcean, LLC",8685
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6110
@@ -20,13 +20,13 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3259
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2946
-"AS6939","Hurricane Electric LLC",2886
+"AS6939","Hurricane Electric LLC",2887
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2623
 "AS142002","Scloud Pte Ltd",2614
 "AS9808","China Mobile",2086
 "AS202425","IP Volume inc",2041
-"AS32475","Internap Holding LLC",1721
+"AS32475","Internap Holding LLC",1722
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1564
 "AS49870","Alsycon B.V.",1532
@@ -56,7 +56,7 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",744
 "AS4837","CHINA UNICOM China169 Backbone",628
 "AS12876","ONLINE S.A.S.",625
-"AS51115","HLL LLC",616
+"AS51115","HLL LLC",617
 "AS201814","MEVSPACE sp. z o.o.",600
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",586
@@ -113,7 +113,7 @@ ASN,Organization,IP_Count
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
 "AS8560","IONOS SE",139
-"AS30083","velia.net",135
+"AS30083","velia.net",136
 "AS13238","YANDEX LLC",134
 "AS137409","GSL Networks Pty LTD",128
 "AS151185","China Telecom",128
@@ -152,7 +152,7 @@ ASN,Organization,IP_Count
 "AS32475","SingleHop LLC",75
 "AS31898","Oracle Corporation",74
 "AS56046","China Mobile Communications Corporation",74
-"AS210644","AEZA INTERNATIONAL LTD",72
+"AS210644","AEZA INTERNATIONAL LTD",73
 "AS2856","British Telecommunications PLC",71
 "AS55720","Gigabit Hosting Sdn Bhd",71
 "AS149746","PT Blip Integrator Provider",69
