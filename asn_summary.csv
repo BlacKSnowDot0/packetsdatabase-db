@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4380
 "AS45102","Alibaba (US) Technology Co., Ltd.",4267
 "AS396998","Path Network, Inc.",3992
-"AS0","",3865
+"AS0","",3866
 "AS63949","Akamai Technologies, Inc.",3716
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3259
@@ -113,7 +113,7 @@ ASN,Organization,IP_Count
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
 "AS8560","IONOS SE",139
-"AS30083","velia.net",136
+"AS30083","velia.net",137
 "AS13238","YANDEX LLC",134
 "AS137409","GSL Networks Pty LTD",128
 "AS151185","China Telecom",128
@@ -727,6 +727,7 @@ ASN,Organization,IP_Count
 "AS45458","ADVANCED WIRELESS NETWORK COMPANY LIMITED",5
 "AS45650","VIA NET COMMUNICATION PUBLIC LIMITED",5
 "AS4721","JCOM Co., Ltd.",5
+"AS4755","Tata Communications Limited",5
 "AS47702","Teleradiocompany Discovery Ltd.",5
 "AS4780","Digital United Inc.",5
 "AS53062","GGNET TELECOM BACKBONE",5
@@ -838,7 +839,6 @@ ASN,Organization,IP_Count
 "AS4618","Internet Thailand Company Ltd.",4
 "AS46690","Southern New England Telephone Company and SNET America, Inc.",4
 "AS47165","Omskie kabelnye seti Ltd.",4
-"AS4755","Tata Communications Limited",4
 "AS47898","NPK Home-Net Ltd.",4
 "AS49800","GNC-Alfa CJSC",4
 "AS50274","Alfanet LLC",4
