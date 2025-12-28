@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87883
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22301
-"AS398324","Censys, Inc.",15672
+"AS398324","Censys, Inc.",15673
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10885
 "AS14061","DigitalOcean, LLC",8680
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2622
 "AS142002","Scloud Pte Ltd",2614
 "AS9808","China Mobile",2086
-"AS202425","IP Volume inc",2039
+"AS202425","IP Volume inc",2040
 "AS32475","Internap Holding LLC",1716
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1563
@@ -56,7 +56,7 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",742
 "AS4837","CHINA UNICOM China169 Backbone",626
 "AS12876","ONLINE S.A.S.",624
-"AS51115","HLL LLC",615
+"AS51115","HLL LLC",616
 "AS201814","MEVSPACE sp. z o.o.",600
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",586
@@ -96,7 +96,7 @@ ASN,Organization,IP_Count
 "AS701","Verizon Business",229
 "AS29066","velia.net Internetdienste GmbH",227
 "AS12389","PJSC Rostelecom",225
-"AS29484","Ruhr-Universitaet Bochum",223
+"AS29484","Ruhr-Universitaet Bochum",224
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS12555","Data-center IMAQLIQ Ltd.",210
@@ -114,7 +114,7 @@ ASN,Organization,IP_Count
 "AS6739","VODAFONE ONO, S.A.",141
 "AS8560","IONOS SE",139
 "AS13238","YANDEX LLC",134
-"AS30083","velia.net",133
+"AS30083","velia.net",134
 "AS137409","GSL Networks Pty LTD",128
 "AS151185","China Telecom",128
 "AS19905","Neustar Security Services",127
@@ -197,8 +197,8 @@ ASN,Organization,IP_Count
 "AS10796","Charter Communications Inc",46
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
+"AS215762","Bullet Group LTD",46
 "AS141995","Contabo Asia Private Limited",45
-"AS215762","Bullet Group LTD",45
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",44
