@@ -4,13 +4,13 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22301
 "AS398324","Censys, Inc.",15686
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10887
+"AS396982","Google LLC",10888
 "AS14061","DigitalOcean, LLC",8685
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6110
 "AS4134","Chinanet",5121
 "AS6568","Entel S.A. - EntelNet",4537
-"AS58466","CHINANET Guangdong province network",4465
+"AS58466","CHINANET Guangdong province network",4466
 "AS16509","Amazon.com, Inc.",4380
 "AS45102","Alibaba (US) Technology Co., Ltd.",4267
 "AS396998","Path Network, Inc.",3992
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2623
 "AS142002","Scloud Pte Ltd",2614
 "AS9808","China Mobile",2086
-"AS202425","IP Volume inc",2041
+"AS202425","IP Volume inc",2042
 "AS32475","Internap Holding LLC",1722
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1564
@@ -132,8 +132,8 @@ ASN,Organization,IP_Count
 "AS11320","LightEdge Solutions",97
 "AS63018","Dedicated.com",96
 "AS28209","Under Servicos de Internet Ltda",95
+"AS5617","Orange Polska Spolka Akcyjna",94
 "AS205352","KABELNET LTD",93
-"AS5617","Orange Polska Spolka Akcyjna",93
 "AS16735","ALGAR TELECOM S/A",89
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS23724","IDC, China Telecommunications Corporation",89
