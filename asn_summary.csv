@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2623
 "AS142002","Scloud Pte Ltd",2614
 "AS9808","China Mobile",2086
-"AS202425","IP Volume inc",2040
+"AS202425","IP Volume inc",2041
 "AS32475","Internap Holding LLC",1721
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1564
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",756
 "AS10439","CariNet, Inc.",749
-"AS14618","Amazon.com, Inc.",743
+"AS14618","Amazon.com, Inc.",744
 "AS4837","CHINA UNICOM China169 Backbone",628
 "AS12876","ONLINE S.A.S.",625
 "AS51115","HLL LLC",616
@@ -118,9 +118,9 @@ ASN,Organization,IP_Count
 "AS137409","GSL Networks Pty LTD",128
 "AS151185","China Telecom",128
 "AS19905","Neustar Security Services",127
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",123
 "AS4766","Korea Telecom",123
 "AS36007","Kamatera, Inc.",122
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",121
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",112
 "AS208287","DC Host INC",110
@@ -432,6 +432,7 @@ ASN,Organization,IP_Count
 "AS50304","Blix Solutions AS",13
 "AS53006","ALGAR TELECOM S/A",13
 "AS9770","LG HelloVision Corp.",13
+"AS150179","KAAL TECH CO., LIMITED",12
 "AS2637","Georgia Institute of Technology",12
 "AS29302","Hosting Services Inc",12
 "AS35042","Layer7 Networks GmbH",12
@@ -450,7 +451,6 @@ ASN,Organization,IP_Count
 "AS12271","Charter Communications Inc",11
 "AS135059","Lao Asia Pacific Satellite Co., Ltd.",11
 "AS142032","High Family Technology Co., Limited",11
-"AS150179","KAAL TECH CO., LIMITED",11
 "AS17552","TRUE INTERNET CORPORATION CO. LTD.",11
 "AS200651","FlokiNET ehf",11
 "AS205119","TELEKS DOOEL Skopje",11
