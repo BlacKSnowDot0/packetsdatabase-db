@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87883
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22301
-"AS398324","Censys, Inc.",15668
+"AS398324","Censys, Inc.",15672
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10885
 "AS14061","DigitalOcean, LLC",8680
@@ -44,7 +44,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1034
 "AS51852","Private Layer INC",907
-"AS20052","Arbor Networks, Inc.",905
+"AS20052","Arbor Networks, Inc.",906
 "AS51167","Contabo GmbH",886
 "AS208046","ColocationX Ltd.",874
 "AS215925","VPSVAULT.HOST LTD",863
@@ -148,8 +148,8 @@ ASN,Organization,IP_Count
 "AS150263","PT Alnet Telekomunikasi Indonesia",76
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",76
+"AS200514","KnownSRV Ltd.",75
 "AS32475","SingleHop LLC",75
-"AS200514","KnownSRV Ltd.",74
 "AS31898","Oracle Corporation",74
 "AS56046","China Mobile Communications Corporation",74
 "AS210644","AEZA INTERNATIONAL LTD",72
@@ -253,10 +253,10 @@ ASN,Organization,IP_Count
 "AS852","TELUS Communications Inc.",31
 "AS200593","PROSPERO OOO",30
 "AS214417","Andrii Hrosh",30
+"AS271597","NEW LINK CONNECT",30
 "AS40676","Psychz Networks",30
 "AS4713","NTT Communications Corporation",30
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",29
-"AS271597","NEW LINK CONNECT",29
 "AS3269","Telecom Italia S.p.A.",29
 "AS3786","LG DACOM Corporation",29
 "AS58212","dataforest GmbH",29
