@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22301
 "AS398324","Censys, Inc.",15668
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10882
+"AS396982","Google LLC",10884
 "AS14061","DigitalOcean, LLC",8680
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6110
@@ -19,17 +19,17 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3259
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2944
+"AS8075","Microsoft Corporation",2946
 "AS6939","Hurricane Electric LLC",2885
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2622
 "AS142002","Scloud Pte Ltd",2614
 "AS9808","China Mobile",2086
-"AS202425","IP Volume inc",2038
-"AS32475","Internap Holding LLC",1715
+"AS202425","IP Volume inc",2039
+"AS32475","Internap Holding LLC",1716
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1563
-"AS49870","Alsycon B.V.",1528
+"AS49870","Alsycon B.V.",1529
 "AS36352","HostPapa",1493
 "AS398722","Censys, Inc.",1457
 "AS13335","Cloudflare, Inc.",1454
@@ -56,7 +56,7 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",742
 "AS4837","CHINA UNICOM China169 Backbone",626
 "AS12876","ONLINE S.A.S.",624
-"AS51115","HLL LLC",614
+"AS51115","HLL LLC",615
 "AS201814","MEVSPACE sp. z o.o.",600
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",586
@@ -69,7 +69,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
 "AS212238","Datacamp Limited",480
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",411
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",412
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
 "AS7018","AT&T Enterprises, LLC",402
@@ -104,7 +104,7 @@ ASN,Organization,IP_Count
 "AS50219","LNK SYSTEMS MUNTENIA SRL",186
 "AS7552","Viettel Group",182
 "AS34984","Superonline Iletisim Hizmetleri A.S.",178
-"AS215240","Silent Connection Ltd.",173
+"AS215240","Silent Connection Ltd.",174
 "AS401116","Nybula LLC",170
 "AS42237","w1n ltd",170
 "AS262551","Farol Telecom",154
@@ -114,13 +114,13 @@ ASN,Organization,IP_Count
 "AS6739","VODAFONE ONO, S.A.",141
 "AS8560","IONOS SE",139
 "AS13238","YANDEX LLC",134
-"AS30083","velia.net",132
+"AS30083","velia.net",133
 "AS137409","GSL Networks Pty LTD",128
 "AS151185","China Telecom",128
 "AS19905","Neustar Security Services",127
 "AS4766","Korea Telecom",123
 "AS36007","Kamatera, Inc.",122
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",119
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",120
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",112
 "AS208287","DC Host INC",110
@@ -172,10 +172,10 @@ ASN,Organization,IP_Count
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",63
 "AS46475","Limestone Networks, Inc.",63
 "AS140717","China Unicom",61
+"AS202796","JSR IT B.V.",60
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS4812","China Telecom (Group)",60
 "AS20115","Charter Communications",59
-"AS202796","JSR IT B.V.",59
 "AS49544","i3D.net B.V",59
 "AS20001","Charter Communications Inc",58
 "AS20278","Nexeon Technologies, Inc.",57
@@ -455,6 +455,7 @@ ASN,Organization,IP_Count
 "AS200651","FlokiNET ehf",11
 "AS205119","TELEKS DOOEL Skopje",11
 "AS206804","EstNOC OY",11
+"AS212815","Dyjix SAS",11
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
 "AS24547","China Mobile",11
 "AS37611","Afrihost (Pty) Ltd",11
@@ -468,7 +469,6 @@ ASN,Organization,IP_Count
 "AS153443","VPSRE.NET LLC",10
 "AS16611","InfiniaHost.com",10
 "AS17676","SoftBank Corp.",10
-"AS212815","Dyjix SAS",10
 "AS24835","Vodafone Data - Egypt",10
 "AS25019","Saudi Telecom Company JSC",10
 "AS2516","KDDI CORPORATION",10
@@ -506,6 +506,7 @@ ASN,Organization,IP_Count
 "AS4609","Companhia de Telecomunicacoes de Macau",9
 "AS46606","Unified Layer",9
 "AS5410","Bouygues Telecom SA",9
+"AS5432","Proximus NV",9
 "AS56005","Zhengzhou Fastidc Technology Co.,Ltd.",9
 "AS8346","SONATEL-AS Autonomous System",9
 "AS9038","Batelco Jordan",9
@@ -532,7 +533,6 @@ ASN,Organization,IP_Count
 "AS400529","Infraly, LLC",8
 "AS41608","NextGenWebs, S.L.",8
 "AS4761","PT. INDOSAT Tbk",8
-"AS5432","Proximus NV",8
 "AS5483","Magyar Telekom plc.",8
 "AS56041","China Mobile Communications Corporation",8
 "AS64289","Macarne LLC",8
