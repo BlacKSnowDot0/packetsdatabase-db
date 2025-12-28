@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",15693
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10889
-"AS14061","DigitalOcean, LLC",8694
+"AS14061","DigitalOcean, LLC",8696
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6111
 "AS4134","Chinanet",5121
@@ -267,11 +267,11 @@ ASN,Organization,IP_Count
 "AS141679","China Telecom",28
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",28
 "AS24940","Hetzner Online GmbH",28
+"AS2914","NTT America, Inc.",28
 "AS30860","Virtual Systems LLC",28
 "AS329490","Promethean Consulting Limited",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS17995","PT iForte Global Internet",27
-"AS2914","NTT America, Inc.",27
 "AS34534","FBW NETWORKS SAS",27
 "AS53118","NETLINE TELECOM",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
