@@ -12,9 +12,9 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4463
 "AS16509","Amazon.com, Inc.",4380
-"AS45102","Alibaba (US) Technology Co., Ltd.",4263
+"AS45102","Alibaba (US) Technology Co., Ltd.",4266
 "AS396998","Path Network, Inc.",3992
-"AS0","",3860
+"AS0","",3861
 "AS63949","Akamai Technologies, Inc.",3716
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3259
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2614
 "AS9808","China Mobile",2086
 "AS202425","IP Volume inc",2038
-"AS32475","Internap Holding LLC",1714
+"AS32475","Internap Holding LLC",1715
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1563
 "AS49870","Alsycon B.V.",1527
@@ -44,7 +44,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1033
 "AS51852","Private Layer INC",907
-"AS20052","Arbor Networks, Inc.",901
+"AS20052","Arbor Networks, Inc.",902
 "AS51167","Contabo GmbH",883
 "AS208046","ColocationX Ltd.",874
 "AS215925","VPSVAULT.HOST LTD",863
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",756
-"AS10439","CariNet, Inc.",747
+"AS10439","CariNet, Inc.",749
 "AS14618","Amazon.com, Inc.",742
 "AS4837","CHINA UNICOM China169 Backbone",626
 "AS12876","ONLINE S.A.S.",624
@@ -228,10 +228,10 @@ ASN,Organization,IP_Count
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",37
 "AS42624","Global-Data System IT Corporation",37
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",37
+"AS56067","Metrabyte Co.,Ltd",37
 "AS8167","V tal",37
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",36
 "AS4760","PCCW IMS Limited",36
-"AS56067","Metrabyte Co.,Ltd",36
 "AS197540","netcup GmbH",35
 "AS213790","Limited Network LTD",35
 "AS8796","FD-298-8796",35
