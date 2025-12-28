@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",15679
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10885
-"AS14061","DigitalOcean, LLC",8682
+"AS14061","DigitalOcean, LLC",8683
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6110
 "AS4134","Chinanet",5121
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",2040
 "AS32475","Internap Holding LLC",1719
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1563
+"AS209605","UAB Host Baltic",1564
 "AS49870","Alsycon B.V.",1532
 "AS36352","HostPapa",1493
 "AS398722","Censys, Inc.",1457
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1034
-"AS20052","Arbor Networks, Inc.",907
+"AS20052","Arbor Networks, Inc.",908
 "AS51852","Private Layer INC",907
 "AS51167","Contabo GmbH",887
 "AS208046","ColocationX Ltd.",874
@@ -61,7 +61,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",586
 "AS9009","M247 Europe SRL",581
-"AS9829","Bharat Sanchar Nigam Ltd",563
+"AS9829","Bharat Sanchar Nigam Ltd",564
 "AS53667","FranTech Solutions",560
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
@@ -113,8 +113,8 @@ ASN,Organization,IP_Count
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
 "AS8560","IONOS SE",139
+"AS30083","velia.net",135
 "AS13238","YANDEX LLC",134
-"AS30083","velia.net",134
 "AS137409","GSL Networks Pty LTD",128
 "AS151185","China Telecom",128
 "AS19905","Neustar Security Services",127
