@@ -29,7 +29,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",1716
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1563
-"AS49870","Alsycon B.V.",1529
+"AS49870","Alsycon B.V.",1530
 "AS36352","HostPapa",1493
 "AS398722","Censys, Inc.",1457
 "AS13335","Cloudflare, Inc.",1454
@@ -42,10 +42,10 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
-"AS208684","BHA CONSEIL SARL",1033
+"AS208684","BHA CONSEIL SARL",1034
 "AS51852","Private Layer INC",907
-"AS20052","Arbor Networks, Inc.",903
-"AS51167","Contabo GmbH",883
+"AS20052","Arbor Networks, Inc.",904
+"AS51167","Contabo GmbH",885
 "AS208046","ColocationX Ltd.",874
 "AS215925","VPSVAULT.HOST LTD",863
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -73,9 +73,9 @@ ASN,Organization,IP_Count
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
 "AS7018","AT&T Enterprises, LLC",402
-"AS47890","UNMANAGED LTD",391
+"AS47890","UNMANAGED LTD",392
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS21859","Zenlayer Inc",384
+"AS21859","Zenlayer Inc",385
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS7922","Comcast Cable Communications, LLC",353
 "AS8151","Uninet S.A. de C.V.",341
@@ -413,6 +413,7 @@ ASN,Organization,IP_Count
 "AS37457","Telkom SA Ltd.",14
 "AS4808","China Unicom Beijing Province Network",14
 "AS48721","Flyservers S.A.",14
+"AS59134","PT. Datacomm Diangraha",14
 "AS9318","SK Broadband Co Ltd",14
 "AS11351","Charter Communications Inc",13
 "AS134420","Chongqing Telecom",13
@@ -430,7 +431,6 @@ ASN,Organization,IP_Count
 "AS38841","kbro CO. Ltd.",13
 "AS50304","Blix Solutions AS",13
 "AS53006","ALGAR TELECOM S/A",13
-"AS59134","PT. Datacomm Diangraha",13
 "AS9770","LG HelloVision Corp.",13
 "AS2637","Georgia Institute of Technology",12
 "AS29302","Hosting Services Inc",12
