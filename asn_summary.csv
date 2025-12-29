@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87886
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22308
-"AS398324","Censys, Inc.",15723
+"AS398324","Censys, Inc.",15725
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10892
 "AS14061","DigitalOcean, LLC",8702
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2614
 "AS9808","China Mobile",2086
 "AS202425","IP Volume inc",2048
-"AS32475","Internap Holding LLC",1724
+"AS32475","Internap Holding LLC",1725
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1564
 "AS49870","Alsycon B.V.",1532
@@ -73,7 +73,7 @@ ASN,Organization,IP_Count
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
 "AS7018","AT&T Enterprises, LLC",402
-"AS47890","UNMANAGED LTD",393
+"AS47890","UNMANAGED LTD",394
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS21859","Zenlayer Inc",386
 "AS7713","Telekomunikasi Indonesia (PT)",366
@@ -110,7 +110,7 @@ ASN,Organization,IP_Count
 "AS262551","Farol Telecom",155
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",148
-"AS30083","velia.net",141
+"AS30083","velia.net",142
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
 "AS8560","IONOS SE",140
@@ -525,6 +525,7 @@ ASN,Organization,IP_Count
 "AS215730","H2NEXUS LTD",8
 "AS24086","Viettel Corporation",8
 "AS262459","Osirnet Info Telecom Ltda.",8
+"AS269076","L DA COSTA SILVA COMUNICACOES",8
 "AS27831","Colombia Móvil",8
 "AS27967","Gobernacion de la Provincia de Buenos Aires",8
 "AS2860","NOS COMUNICACOES, S.A.",8
@@ -626,7 +627,6 @@ ASN,Organization,IP_Count
 "AS262262","METRONET",6
 "AS262773","PROXXIMA TELECOMUNICACOES LTDA",6
 "AS268976","Weclix Telecom S/A",6
-"AS269076","L DA COSTA SILVA COMUNICACOES",6
 "AS273683","ALLREDE TELECOM LTDA",6
 "AS27747","Telecentro S.A.",6
 "AS27983","Red Intercable Digital S.A.",6
