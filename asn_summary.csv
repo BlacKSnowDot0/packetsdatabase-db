@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87887
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22309
-"AS398324","Censys, Inc.",15729
+"AS398324","Censys, Inc.",15731
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10893
 "AS14061","DigitalOcean, LLC",8703
@@ -22,7 +22,7 @@ ASN,Organization,IP_Count
 "AS8075","Microsoft Corporation",2947
 "AS6939","Hurricane Electric LLC",2895
 "AS213412","ONYPHE SAS",2795
-"AS23470","ReliableSite.Net LLC",2632
+"AS23470","ReliableSite.Net LLC",2633
 "AS142002","Scloud Pte Ltd",2614
 "AS9808","China Mobile",2086
 "AS202425","IP Volume inc",2049
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",756
 "AS10439","CariNet, Inc.",754
-"AS14618","Amazon.com, Inc.",745
+"AS14618","Amazon.com, Inc.",746
 "AS4837","CHINA UNICOM China169 Backbone",629
 "AS12876","ONLINE S.A.S.",625
 "AS51115","HLL LLC",618
@@ -110,7 +110,7 @@ ASN,Organization,IP_Count
 "AS262551","Farol Telecom",155
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",148
-"AS30083","velia.net",143
+"AS30083","velia.net",144
 "AS8560","IONOS SE",142
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
@@ -274,6 +274,7 @@ ASN,Organization,IP_Count
 "AS9304","HGC Global Communications Limited",28
 "AS17995","PT iForte Global Internet",27
 "AS34534","FBW NETWORKS SAS",27
+"AS401152","Ace Data Centers II, L.L.C.",27
 "AS41745","Baykov Ilya Sergeevich",27
 "AS53118","NETLINE TELECOM",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
@@ -282,7 +283,6 @@ ASN,Organization,IP_Count
 "AS23693","PT. Telekomunikasi Selular",26
 "AS24560","Bharti Airtel Limited",26
 "AS3209","Vodafone GmbH",26
-"AS401152","Ace Data Centers II, L.L.C.",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS136142","Enigma Fiber Pvt Ltd",25
 "AS18881","TELEFÔNICA BRASIL S.A",25
