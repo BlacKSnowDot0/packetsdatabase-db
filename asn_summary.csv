@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87884
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22305
-"AS398324","Censys, Inc.",15709
+"AS398324","Censys, Inc.",15711
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10892
-"AS14061","DigitalOcean, LLC",8698
+"AS14061","DigitalOcean, LLC",8699
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6115
 "AS4134","Chinanet",5123
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4380
 "AS45102","Alibaba (US) Technology Co., Ltd.",4272
 "AS396998","Path Network, Inc.",3992
-"AS0","",3871
+"AS0","",3872
 "AS63949","Akamai Technologies, Inc.",3717
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3260
@@ -105,15 +105,15 @@ ASN,Organization,IP_Count
 "AS7552","Viettel Group",182
 "AS34984","Superonline Iletisim Hizmetleri A.S.",179
 "AS215240","Silent Connection Ltd.",175
+"AS42237","w1n ltd",171
 "AS401116","Nybula LLC",170
-"AS42237","w1n ltd",170
 "AS262551","Farol Telecom",154
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",148
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
+"AS30083","velia.net",139
 "AS8560","IONOS SE",139
-"AS30083","velia.net",138
 "AS13238","YANDEX LLC",134
 "AS137409","GSL Networks Pty LTD",128
 "AS151185","China Telecom",128
@@ -190,9 +190,9 @@ ASN,Organization,IP_Count
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS200590","NLS Kazakhstan LLC",52
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",50
+"AS215762","Bullet Group LTD",48
 "AS266181","GOLDEN LINK",48
 "AS210558","1337 Services GmbH",47
-"AS215762","Bullet Group LTD",47
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",47
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",47
 "AS10796","Charter Communications Inc",46
@@ -273,6 +273,7 @@ ASN,Organization,IP_Count
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS17995","PT iForte Global Internet",27
 "AS34534","FBW NETWORKS SAS",27
+"AS41745","Baykov Ilya Sergeevich",27
 "AS53118","NETLINE TELECOM",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",27
@@ -282,7 +283,6 @@ ASN,Organization,IP_Count
 "AS24560","Bharti Airtel Limited",26
 "AS3209","Vodafone GmbH",26
 "AS401152","Ace Data Centers II, L.L.C.",26
-"AS41745","Baykov Ilya Sergeevich",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS136142","Enigma Fiber Pvt Ltd",25
 "AS18881","TELEFÔNICA BRASIL S.A",25
