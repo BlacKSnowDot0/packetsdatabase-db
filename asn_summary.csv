@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87886
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22309
-"AS398324","Censys, Inc.",15727
+"AS398324","Censys, Inc.",15728
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10893
 "AS14061","DigitalOcean, LLC",8703
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4380
 "AS45102","Alibaba (US) Technology Co., Ltd.",4278
 "AS396998","Path Network, Inc.",3992
-"AS0","",3875
+"AS0","",3876
 "AS63949","Akamai Technologies, Inc.",3718
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3261
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
 "AS215269","LAZYCLOUD LTD",1312
-"AS174","Cogent Communications",1298
+"AS174","Cogent Communications",1299
 "AS22552","eSited Solutions",1199
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
@@ -111,9 +111,9 @@ ASN,Organization,IP_Count
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",148
 "AS30083","velia.net",143
+"AS8560","IONOS SE",142
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
-"AS8560","IONOS SE",141
 "AS13238","YANDEX LLC",134
 "AS137409","GSL Networks Pty LTD",128
 "AS151185","China Telecom",128
