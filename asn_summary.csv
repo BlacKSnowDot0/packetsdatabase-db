@@ -1,7 +1,7 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87884
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22304
+"AS211298","Driftnet Ltd",22305
 "AS398324","Censys, Inc.",15709
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10892
@@ -101,7 +101,7 @@ ASN,Organization,IP_Count
 "AS14987","Rethem Hosting LLC",215
 "AS12555","Data-center IMAQLIQ Ltd.",210
 "AS63199","CDS Global Cloud Co., Ltd",195
-"AS50219","LNK SYSTEMS MUNTENIA SRL",187
+"AS50219","LNK SYSTEMS MUNTENIA SRL",188
 "AS7552","Viettel Group",182
 "AS34984","Superonline Iletisim Hizmetleri A.S.",179
 "AS215240","Silent Connection Ltd.",175
@@ -276,6 +276,7 @@ ASN,Organization,IP_Count
 "AS53118","NETLINE TELECOM",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",27
+"AS9304","HGC Global Communications Limited",27
 "AS2200","Renater",26
 "AS23693","PT. Telekomunikasi Selular",26
 "AS24560","Bharti Airtel Limited",26
@@ -283,7 +284,6 @@ ASN,Organization,IP_Count
 "AS401152","Ace Data Centers II, L.L.C.",26
 "AS41745","Baykov Ilya Sergeevich",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
-"AS9304","HGC Global Communications Limited",26
 "AS136142","Enigma Fiber Pvt Ltd",25
 "AS18881","TELEFÔNICA BRASIL S.A",25
 "AS209","CenturyLink Communications, LLC",25
