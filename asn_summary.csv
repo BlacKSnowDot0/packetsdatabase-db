@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87886
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22308
-"AS398324","Censys, Inc.",15717
+"AS398324","Censys, Inc.",15719
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10892
 "AS14061","DigitalOcean, LLC",8700
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3261
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2947
-"AS6939","Hurricane Electric LLC",2892
+"AS6939","Hurricane Electric LLC",2893
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2628
 "AS142002","Scloud Pte Ltd",2614
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
 "AS215269","LAZYCLOUD LTD",1312
-"AS174","Cogent Communications",1297
+"AS174","Cogent Communications",1298
 "AS22552","eSited Solutions",1199
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
@@ -110,9 +110,9 @@ ASN,Organization,IP_Count
 "AS262551","Farol Telecom",155
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",148
+"AS30083","velia.net",141
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
-"AS30083","velia.net",140
 "AS8560","IONOS SE",139
 "AS13238","YANDEX LLC",134
 "AS137409","GSL Networks Pty LTD",128
@@ -190,7 +190,7 @@ ASN,Organization,IP_Count
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS200590","NLS Kazakhstan LLC",52
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",50
-"AS210558","1337 Services GmbH",48
+"AS210558","1337 Services GmbH",49
 "AS215762","Bullet Group LTD",48
 "AS266181","GOLDEN LINK",48
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",47
@@ -199,12 +199,12 @@ ASN,Organization,IP_Count
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
 "AS141995","Contabo Asia Private Limited",45
+"AS20473","The Constant Company, LLC",44
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",44
 "AS12322","Free SAS",43
 "AS152194","CTG Server Limited",43
-"AS20473","The Constant Company, LLC",43
 "AS21928","T-Mobile USA, Inc.",43
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS262378","Compuservice Empreendimentos Ltda",42
@@ -626,6 +626,7 @@ ASN,Organization,IP_Count
 "AS262262","METRONET",6
 "AS262773","PROXXIMA TELECOMUNICACOES LTDA",6
 "AS268976","Weclix Telecom S/A",6
+"AS269076","L DA COSTA SILVA COMUNICACOES",6
 "AS273683","ALLREDE TELECOM LTDA",6
 "AS27747","Telecentro S.A.",6
 "AS27983","Red Intercable Digital S.A.",6
@@ -697,7 +698,6 @@ ASN,Organization,IP_Count
 "AS267684","VISIONMAGICA SOCIEDAD ANONIMA",5
 "AS267784","Flyservers S.A.",5
 "AS268482","Connect Telecomunicações LTDA",5
-"AS269076","L DA COSTA SILVA COMUNICACOES",5
 "AS271188","VOCALNET TELECOMUNICAÇÕES EIRELI - ME",5
 "AS271874","SERVITRACTOR S.A.",5
 "AS28580","CILNET Comunicacao e Informatica LTDA.",5
