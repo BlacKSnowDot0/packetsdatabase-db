@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4380
 "AS45102","Alibaba (US) Technology Co., Ltd.",4278
 "AS396998","Path Network, Inc.",3992
-"AS0","",3874
+"AS0","",3875
 "AS63949","Akamai Technologies, Inc.",3717
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3261
@@ -25,8 +25,8 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2630
 "AS142002","Scloud Pte Ltd",2614
 "AS9808","China Mobile",2086
-"AS202425","IP Volume inc",2048
-"AS32475","Internap Holding LLC",1728
+"AS202425","IP Volume inc",2049
+"AS32475","Internap Holding LLC",1729
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1564
 "AS49870","Alsycon B.V.",1555
@@ -110,7 +110,7 @@ ASN,Organization,IP_Count
 "AS262551","Farol Telecom",155
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",148
-"AS30083","velia.net",142
+"AS30083","velia.net",143
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
 "AS8560","IONOS SE",141
@@ -223,12 +223,12 @@ ASN,Organization,IP_Count
 "AS8048","CANTV Servicios, Venezuela",39
 "AS9198","JSC Kazakhtelecom",39
 "AS149705","PT Wijaya Trimitra Indonesia",38
+"AS56067","Metrabyte Co.,Ltd",38
 "AS9123","TimeWeb Ltd.",38
 "AS1680","Cellcom Fixed Line Communication L.P",37
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",37
 "AS42624","Global-Data System IT Corporation",37
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",37
-"AS56067","Metrabyte Co.,Ltd",37
 "AS8167","V tal",37
 "AS197540","netcup GmbH",36
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",36
