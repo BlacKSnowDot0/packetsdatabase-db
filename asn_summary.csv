@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87886
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22308
-"AS398324","Censys, Inc.",15721
+"AS398324","Censys, Inc.",15723
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10892
 "AS14061","DigitalOcean, LLC",8702
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2630
 "AS142002","Scloud Pte Ltd",2614
 "AS9808","China Mobile",2086
-"AS202425","IP Volume inc",2047
+"AS202425","IP Volume inc",2048
 "AS32475","Internap Holding LLC",1724
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1564
@@ -47,7 +47,7 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS51167","Contabo GmbH",889
 "AS208046","ColocationX Ltd.",874
-"AS215925","VPSVAULT.HOST LTD",864
+"AS215925","VPSVAULT.HOST LTD",866
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",805
@@ -113,7 +113,7 @@ ASN,Organization,IP_Count
 "AS30083","velia.net",141
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
-"AS8560","IONOS SE",139
+"AS8560","IONOS SE",140
 "AS13238","YANDEX LLC",134
 "AS137409","GSL Networks Pty LTD",128
 "AS151185","China Telecom",128
@@ -448,6 +448,7 @@ ASN,Organization,IP_Count
 "AS8400","TELEKOM SRBIJA a.d.",12
 "AS8708","RCS & RDS SA",12
 "AS984","OCTOPUS WEB SOLUTION INC",12
+"AS11172","Alestra, S. de R.L. de C.V.",11
 "AS12271","Charter Communications Inc",11
 "AS135059","Lao Asia Pacific Satellite Co., Ltd.",11
 "AS142032","High Family Technology Co., Limited",11
@@ -463,7 +464,6 @@ ASN,Organization,IP_Count
 "AS45820","TTSL-ISP DIVISION",11
 "AS48874","HOSTMAZE INC SRL-D",11
 "AS58563","CHINANET Hubei province network",11
-"AS11172","Alestra, S. de R.L. de C.V.",10
 "AS13287","FALBOX S.L.",10
 "AS149359","PT Persada Data Multimedia",10
 "AS153443","VPSRE.NET LLC",10
