@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87887
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22309
-"AS398324","Censys, Inc.",15733
+"AS398324","Censys, Inc.",15734
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10893
 "AS14061","DigitalOcean, LLC",8703
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4466
 "AS16509","Amazon.com, Inc.",4380
-"AS45102","Alibaba (US) Technology Co., Ltd.",4279
+"AS45102","Alibaba (US) Technology Co., Ltd.",4280
 "AS396998","Path Network, Inc.",3992
 "AS0","",3876
 "AS63949","Akamai Technologies, Inc.",3718
@@ -45,7 +45,7 @@ ASN,Organization,IP_Count
 "AS208684","BHA CONSEIL SARL",1036
 "AS20052","Arbor Networks, Inc.",909
 "AS51852","Private Layer INC",907
-"AS51167","Contabo GmbH",889
+"AS51167","Contabo GmbH",890
 "AS208046","ColocationX Ltd.",874
 "AS215925","VPSVAULT.HOST LTD",866
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -849,6 +849,7 @@ ASN,Organization,IP_Count
 "AS52941","SPACE NETWORK",4
 "AS53449","OEC Fiber",4
 "AS5378","Vodafone Limited",4
+"AS5391","Hrvatski Telekom d.d.",4
 "AS5416","BEYON B.S.C.",4
 "AS57043","HOSTKEY B.V.",4
 "AS58087","Florian Kolb",4
@@ -1044,7 +1045,6 @@ ASN,Organization,IP_Count
 "AS52436","Cable Televisora Color",3
 "AS52771","GIGA BYTE TELECOMUNICACOES LTDA",3
 "AS52783","ALCANS TELECOM LTDA",3
-"AS5391","Hrvatski Telekom d.d.",3
 "AS5466","Eircom Limited",3
 "AS55685","PT Jala Lintas Media",3
 "AS56400","SPD Chernega Aleksandr Anatolevich",3
