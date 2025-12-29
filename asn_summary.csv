@@ -2,17 +2,17 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87886
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22308
-"AS398324","Censys, Inc.",15719
+"AS398324","Censys, Inc.",15720
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10892
-"AS14061","DigitalOcean, LLC",8700
+"AS14061","DigitalOcean, LLC",8701
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6116
 "AS4134","Chinanet",5123
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4466
 "AS16509","Amazon.com, Inc.",4380
-"AS45102","Alibaba (US) Technology Co., Ltd.",4276
+"AS45102","Alibaba (US) Technology Co., Ltd.",4277
 "AS396998","Path Network, Inc.",3992
 "AS0","",3872
 "AS63949","Akamai Technologies, Inc.",3717
@@ -22,7 +22,7 @@ ASN,Organization,IP_Count
 "AS8075","Microsoft Corporation",2947
 "AS6939","Hurricane Electric LLC",2893
 "AS213412","ONYPHE SAS",2795
-"AS23470","ReliableSite.Net LLC",2628
+"AS23470","ReliableSite.Net LLC",2629
 "AS142002","Scloud Pte Ltd",2614
 "AS9808","China Mobile",2086
 "AS202425","IP Volume inc",2047
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",756
-"AS10439","CariNet, Inc.",753
+"AS10439","CariNet, Inc.",754
 "AS14618","Amazon.com, Inc.",745
 "AS4837","CHINA UNICOM China169 Backbone",629
 "AS12876","ONLINE S.A.S.",625
@@ -1391,6 +1391,7 @@ ASN,Organization,IP_Count
 "AS36890","MTN Rwandacell",2
 "AS36907","TV CABO ANGOLA LDA",2
 "AS37168","Cell C (Pty) Ltd",2
+"AS37228","KT RWANDA NETWORK Ltd",2
 "AS37284","Aljeel Aljadeed For Technology",2
 "AS37642","Comnet Pty Ltd",2
 "AS37693","OOREDOO TUNISIE SA",2
@@ -2679,7 +2680,6 @@ ASN,Organization,IP_Count
 "AS37144","Unified Payment Services Limited",1
 "AS37148","Globacom Limited",1
 "AS37182","Tanzania Education And Research Network",1
-"AS37228","KT RWANDA NETWORK Ltd",1
 "AS37334","JASCO CONVERGED SOLUTIONS (Pty) Ltd",1
 "AS37340","SPECTRANET LIMITED",1
 "AS37350","Dimension Data Ltd",1
