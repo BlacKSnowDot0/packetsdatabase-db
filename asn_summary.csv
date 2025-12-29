@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87885
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22305
-"AS398324","Censys, Inc.",15714
+"AS211298","Driftnet Ltd",22307
+"AS398324","Censys, Inc.",15716
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10892
 "AS14061","DigitalOcean, LLC",8700
@@ -20,12 +20,12 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3260
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2947
-"AS6939","Hurricane Electric LLC",2891
+"AS6939","Hurricane Electric LLC",2892
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2628
 "AS142002","Scloud Pte Ltd",2614
 "AS9808","China Mobile",2086
-"AS202425","IP Volume inc",2046
+"AS202425","IP Volume inc",2047
 "AS32475","Internap Holding LLC",1724
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1564
@@ -130,8 +130,8 @@ ASN,Organization,IP_Count
 "AS28573","Claro NXT Telecomunicacoes Ltda",107
 "AS136435","ELITE COMMUNICATION",100
 "AS11320","LightEdge Solutions",97
+"AS28209","Under Servicos de Internet Ltda",96
 "AS63018","Dedicated.com",96
-"AS28209","Under Servicos de Internet Ltda",95
 "AS5617","Orange Polska Spolka Akcyjna",94
 "AS205352","KABELNET LTD",93
 "AS16735","ALGAR TELECOM S/A",89
@@ -175,9 +175,9 @@ ASN,Organization,IP_Count
 "AS202796","JSR IT B.V.",61
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS4812","China Telecom (Group)",60
+"AS20001","Charter Communications Inc",59
 "AS20115","Charter Communications",59
 "AS49544","i3D.net B.V",59
-"AS20001","Charter Communications Inc",58
 "AS20278","Nexeon Technologies, Inc.",57
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",57
 "AS30633","Leaseweb USA, Inc.",57
