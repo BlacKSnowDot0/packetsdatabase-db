@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87884
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22303
-"AS398324","Censys, Inc.",15696
+"AS398324","Censys, Inc.",15703
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10889
 "AS14061","DigitalOcean, LLC",8696
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3259
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2947
-"AS6939","Hurricane Electric LLC",2887
+"AS6939","Hurricane Electric LLC",2888
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2625
 "AS142002","Scloud Pte Ltd",2614
@@ -36,14 +36,14 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
 "AS215269","LAZYCLOUD LTD",1312
-"AS174","Cogent Communications",1295
+"AS174","Cogent Communications",1296
 "AS22552","eSited Solutions",1199
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1035
-"AS20052","Arbor Networks, Inc.",908
+"AS20052","Arbor Networks, Inc.",909
 "AS51852","Private Layer INC",907
 "AS51167","Contabo GmbH",888
 "AS208046","ColocationX Ltd.",874
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",756
-"AS10439","CariNet, Inc.",750
+"AS10439","CariNet, Inc.",751
 "AS14618","Amazon.com, Inc.",744
 "AS4837","CHINA UNICOM China169 Backbone",628
 "AS12876","ONLINE S.A.S.",625
@@ -141,7 +141,7 @@ ASN,Organization,IP_Count
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
 "AS396356","Latitude.sh",83
-"AS200019","ALEXHOST SRL",80
+"AS200019","ALEXHOST SRL",81
 "AS22773","Cox Communications Inc.",80
 "AS3920","ESTOXY OU",78
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",77
@@ -167,10 +167,10 @@ ASN,Organization,IP_Count
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS19318","Interserver, Inc",64
 "AS44592","SkyLink Data Center BV",64
+"AS46475","Limestone Networks, Inc.",64
 "AS5650","Frontier Communications of America, Inc.",64
 "AS17378","TierPoint, LLC",63
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",63
-"AS46475","Limestone Networks, Inc.",63
 "AS140717","China Unicom",61
 "AS202796","JSR IT B.V.",60
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
@@ -1468,6 +1468,7 @@ ASN,Organization,IP_Count
 "AS50852","INTERRA Ltd.",2
 "AS50886","NETFIL SRL",2
 "AS51069","Volodymyr Shtark",2
+"AS51177","TIPZOR MEDIA SRL",2
 "AS51248","Host-Telecom.com s.r.o.",2
 "AS51375","STC BAHRAIN B.S.C CLOSED",2
 "AS51468","One.com A/S",2
@@ -2883,7 +2884,6 @@ ASN,Organization,IP_Count
 "AS51042","Klimovsk network Ltd",1
 "AS51095","EdgeUno, Inc.",1
 "AS51158","Mobile Trend Ltd",1
-"AS51177","TIPZOR MEDIA SRL",1
 "AS51180","Lanet Network Ltd",1
 "AS51273","FOP Lizanchuk Yaroslav M.",1
 "AS51341","Gigakom Sistems OOO",1
