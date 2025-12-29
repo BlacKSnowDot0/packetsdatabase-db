@@ -250,11 +250,11 @@ ASN,Organization,IP_Count
 "AS13213","UK-2 Limited",31
 "AS17557","Pakistan Telecommuication company limited",31
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",31
+"AS40676","Psychz Networks",31
 "AS852","TELUS Communications Inc.",31
 "AS200593","PROSPERO OOO",30
 "AS214417","Andrii Hrosh",30
 "AS271597","NEW LINK CONNECT",30
-"AS40676","Psychz Networks",30
 "AS4713","NTT Communications Corporation",30
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",29
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",29
@@ -1405,6 +1405,7 @@ ASN,Organization,IP_Count
 "AS395201","Allnodes Inc",2
 "AS395379","SCI REMC",2
 "AS395839","HOSTKEY",2
+"AS395954","Leaseweb USA, Inc.",2
 "AS398991","X99",2
 "AS399065","Dixie EPA",2
 "AS39927","E-Light-Telecom Ltd.",2
@@ -2725,7 +2726,6 @@ ASN,Organization,IP_Count
 "AS395165","Madison Telephone LLC",1
 "AS39529","Osipenko Alexander Nikolaevich",1
 "AS395662","OzarksGo, LLC",1
-"AS395954","Leaseweb USA, Inc.",1
 "AS396073","Majestic Hosting Solutions, LLC",1
 "AS396420","Valley Fiber Ltd.",1
 "AS397031","GALAXYGATE, LLC",1
