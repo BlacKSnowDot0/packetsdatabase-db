@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87886
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22308
-"AS398324","Censys, Inc.",15725
+"AS398324","Censys, Inc.",15726
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10892
 "AS14061","DigitalOcean, LLC",8702
@@ -26,10 +26,10 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2614
 "AS9808","China Mobile",2086
 "AS202425","IP Volume inc",2048
-"AS32475","Internap Holding LLC",1726
+"AS32475","Internap Holding LLC",1727
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1564
-"AS49870","Alsycon B.V.",1532
+"AS49870","Alsycon B.V.",1554
 "AS36352","HostPapa",1495
 "AS398722","Censys, Inc.",1457
 "AS13335","Cloudflare, Inc.",1454
@@ -189,8 +189,8 @@ ASN,Organization,IP_Count
 "AS30058","FDCservers.net",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS200590","NLS Kazakhstan LLC",52
+"AS210558","1337 Services GmbH",50
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",50
-"AS210558","1337 Services GmbH",49
 "AS215762","Bullet Group LTD",48
 "AS266181","GOLDEN LINK",48
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",47
@@ -271,13 +271,13 @@ ASN,Organization,IP_Count
 "AS30860","Virtual Systems LLC",28
 "AS329490","Promethean Consulting Limited",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
+"AS9304","HGC Global Communications Limited",28
 "AS17995","PT iForte Global Internet",27
 "AS34534","FBW NETWORKS SAS",27
 "AS41745","Baykov Ilya Sergeevich",27
 "AS53118","NETLINE TELECOM",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",27
-"AS9304","HGC Global Communications Limited",27
 "AS2200","Renater",26
 "AS23693","PT. Telekomunikasi Selular",26
 "AS24560","Bharti Airtel Limited",26
