@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87890
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22315
-"AS398324","Censys, Inc.",15757
+"AS398324","Censys, Inc.",15758
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10896
 "AS14061","DigitalOcean, LLC",8708
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6120
+"AS16276","OVH SAS",6121
 "AS4134","Chinanet",5127
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4466
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3262
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2948
-"AS6939","Hurricane Electric LLC",2898
+"AS6939","Hurricane Electric LLC",2899
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2650
 "AS142002","Scloud Pte Ltd",2614
@@ -55,7 +55,7 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",756
 "AS14618","Amazon.com, Inc.",748
 "AS4837","CHINA UNICOM China169 Backbone",630
-"AS12876","ONLINE S.A.S.",625
+"AS12876","ONLINE S.A.S.",626
 "AS51115","HLL LLC",619
 "AS201814","MEVSPACE sp. z o.o.",600
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -134,9 +134,9 @@ ASN,Organization,IP_Count
 "AS63018","Dedicated.com",96
 "AS5617","Orange Polska Spolka Akcyjna",94
 "AS205352","KABELNET LTD",93
+"AS23724","IDC, China Telecommunications Corporation",91
 "AS16735","ALGAR TELECOM S/A",89
 "AS210125","PRIAM NET Sh.p.k.",89
-"AS23724","IDC, China Telecommunications Corporation",89
 "AS8402","PJSC ""Vimpelcom""",88
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
@@ -494,6 +494,7 @@ ASN,Organization,IP_Count
 "AS17451","BIZNET NETWORKS",9
 "AS18779","EGIHosting",9
 "AS206262","TelKos L.L.C",9
+"AS211507","Julian Achter",9
 "AS212504","AdKyNet SAS",9
 "AS213520","Senko Digital Ltd",9
 "AS214481","Wojciech Czapkowicz",9
@@ -520,7 +521,6 @@ ASN,Organization,IP_Count
 "AS198361","Yaglom Labs Ltd",8
 "AS202870","Dimensione S.r.l.",8
 "AS209956","Telkoturk Iletisim Hizmetleri A.S.",8
-"AS211507","Julian Achter",8
 "AS2119","Telenor Norge AS",8
 "AS215730","H2NEXUS LTD",8
 "AS24086","Viettel Corporation",8
