@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87892
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22317
+"AS211298","Driftnet Ltd",22319
 "AS398324","Censys, Inc.",15768
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10897
-"AS14061","DigitalOcean, LLC",8710
+"AS14061","DigitalOcean, LLC",8711
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6121
 "AS4134","Chinanet",5190
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4380
 "AS45102","Alibaba (US) Technology Co., Ltd.",4285
 "AS396998","Path Network, Inc.",3992
-"AS0","",3880
+"AS0","",3881
 "AS63949","Akamai Technologies, Inc.",3721
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3263
@@ -22,11 +22,11 @@ ASN,Organization,IP_Count
 "AS8075","Microsoft Corporation",2948
 "AS6939","Hurricane Electric LLC",2902
 "AS213412","ONYPHE SAS",2795
-"AS23470","ReliableSite.Net LLC",2651
+"AS23470","ReliableSite.Net LLC",2652
 "AS142002","Scloud Pte Ltd",2614
 "AS9808","China Mobile",2087
-"AS202425","IP Volume inc",2057
-"AS32475","Internap Holding LLC",1737
+"AS202425","IP Volume inc",2058
+"AS32475","Internap Holding LLC",1738
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1566
 "AS49870","Alsycon B.V.",1555
@@ -88,13 +88,13 @@ ASN,Organization,IP_Count
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",301
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
-"AS141718","haoxiangyun",278
+"AS141718","haoxiangyun",279
 "AS18403","FPT Telecom Company",267
 "AS48090","TECHOFF SRV LIMITED",261
 "AS60223","Netiface Limited",250
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",229
-"AS29066","velia.net Internetdienste GmbH",227
+"AS29066","velia.net Internetdienste GmbH",228
 "AS12389","PJSC Rostelecom",226
 "AS29484","Ruhr-Universitaet Bochum",226
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
@@ -212,9 +212,9 @@ ASN,Organization,IP_Count
 "AS210509","Optimum Line for Internet Services Ltd.",41
 "AS23969","TOT Public Company Limited",41
 "AS26599","TELEFÔNICA BRASIL S.A",41
+"AS28546","Servnet Mexico, S.A. de C.V.",41
 "AS204834","Shabakieh Isfahan Co PJSC",40
 "AS27699","TELEFÔNICA BRASIL S.A",40
-"AS28546","Servnet Mexico, S.A. de C.V.",40
 "AS43641","SOLLUTIUM EU Sp z.o.o.",40
 "AS5089","Virgin Media Limited",40
 "AS1103","SURF B.V.",39
