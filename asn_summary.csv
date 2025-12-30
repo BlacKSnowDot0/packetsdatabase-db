@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",15775
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10900
-"AS14061","DigitalOcean, LLC",8715
+"AS14061","DigitalOcean, LLC",8716
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6122
 "AS4134","Chinanet",5190
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3263
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2949
+"AS8075","Microsoft Corporation",2950
 "AS6939","Hurricane Electric LLC",2902
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2654
@@ -60,7 +60,7 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",600
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",586
-"AS9009","M247 Europe SRL",583
+"AS9009","M247 Europe SRL",584
 "AS9829","Bharat Sanchar Nigam Ltd",566
 "AS53667","FranTech Solutions",560
 "AS31148","Freenet LTD",558
@@ -313,6 +313,7 @@ ASN,Organization,IP_Count
 "AS7029","Windstream Communications LLC",22
 "AS12479","Orange Espagne SA",21
 "AS138886","PT Data Buana Nusantara",21
+"AS140061","China Telecom",21
 "AS17638","ASN for TIANJIN Provincial Net of CT",21
 "AS214668","AxusHost B.V.",21
 "AS24348","CERNET2 IX at Tsinghua University",21
@@ -323,7 +324,6 @@ ASN,Organization,IP_Count
 "AS50887","DC FIBER HOME SRL",21
 "AS812","Rogers Communications Canada Inc.",21
 "AS9299","Philippine Long Distance Telephone Co.",21
-"AS140061","China Telecom",20
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
