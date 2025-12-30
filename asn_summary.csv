@@ -1,20 +1,20 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87890
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87891
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22316
-"AS398324","Censys, Inc.",15759
+"AS398324","Censys, Inc.",15762
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10896
-"AS14061","DigitalOcean, LLC",8708
+"AS14061","DigitalOcean, LLC",8709
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6121
-"AS4134","Chinanet",5127
+"AS4134","Chinanet",5174
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4466
 "AS16509","Amazon.com, Inc.",4380
 "AS45102","Alibaba (US) Technology Co., Ltd.",4284
 "AS396998","Path Network, Inc.",3992
-"AS0","",3879
+"AS0","",3880
 "AS63949","Akamai Technologies, Inc.",3721
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3262
@@ -53,10 +53,10 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",779
 "AS10439","CariNet, Inc.",756
-"AS14618","Amazon.com, Inc.",749
+"AS14618","Amazon.com, Inc.",750
 "AS4837","CHINA UNICOM China169 Backbone",630
 "AS12876","ONLINE S.A.S.",626
-"AS51115","HLL LLC",619
+"AS51115","HLL LLC",620
 "AS201814","MEVSPACE sp. z o.o.",600
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",586
@@ -99,7 +99,7 @@ ASN,Organization,IP_Count
 "AS29484","Ruhr-Universitaet Bochum",226
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
-"AS12555","Data-center IMAQLIQ Ltd.",210
+"AS12555","Data-center IMAQLIQ Ltd.",212
 "AS63199","CDS Global Cloud Co., Ltd",196
 "AS50219","LNK SYSTEMS MUNTENIA SRL",188
 "AS7552","Viettel Group",182
@@ -139,8 +139,8 @@ ASN,Organization,IP_Count
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS8402","PJSC ""Vimpelcom""",88
 "AS271795","SERVITELCONET CIA. LTDA.",85
+"AS396356","Latitude.sh",85
 "AS58461","Chinanet",85
-"AS396356","Latitude.sh",83
 "AS200019","ALEXHOST SRL",82
 "AS22773","Cox Communications Inc.",80
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",79
@@ -256,6 +256,7 @@ ASN,Organization,IP_Count
 "AS200593","PROSPERO OOO",30
 "AS214417","Andrii Hrosh",30
 "AS4713","NTT Communications Corporation",30
+"AS9304","HGC Global Communications Limited",30
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",29
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",29
 "AS3269","Telecom Italia S.p.A.",29
@@ -263,7 +264,6 @@ ASN,Organization,IP_Count
 "AS58212","dataforest GmbH",29
 "AS6134","XNNET LLC",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
-"AS9304","HGC Global Communications Limited",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",28
 "AS141679","China Telecom",28
