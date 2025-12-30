@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87888
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22314
-"AS398324","Censys, Inc.",15752
+"AS398324","Censys, Inc.",15753
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10895
+"AS396982","Google LLC",10896
 "AS14061","DigitalOcean, LLC",8708
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6120
@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",4284
 "AS396998","Path Network, Inc.",3992
 "AS0","",3878
-"AS63949","Akamai Technologies, Inc.",3720
+"AS63949","Akamai Technologies, Inc.",3721
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3262
 "AS398705","Censys, Inc.",3238
@@ -72,7 +72,7 @@ ASN,Organization,IP_Count
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",415
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
-"AS7018","AT&T Enterprises, LLC",402
+"AS7018","AT&T Enterprises, LLC",404
 "AS47890","UNMANAGED LTD",398
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS21859","Zenlayer Inc",387
@@ -110,7 +110,7 @@ ASN,Organization,IP_Count
 "AS262551","Farol Telecom",155
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",148
-"AS30083","velia.net",145
+"AS30083","velia.net",146
 "AS8560","IONOS SE",144
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
