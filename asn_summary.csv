@@ -14,12 +14,12 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4380
 "AS45102","Alibaba (US) Technology Co., Ltd.",4284
 "AS396998","Path Network, Inc.",3992
-"AS0","",3878
+"AS0","",3879
 "AS63949","Akamai Technologies, Inc.",3721
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3262
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2947
+"AS8075","Microsoft Corporation",2948
 "AS6939","Hurricane Electric LLC",2898
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2649
@@ -69,7 +69,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
 "AS212238","Datacamp Limited",480
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",415
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",416
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
 "AS7018","AT&T Enterprises, LLC",404
@@ -841,6 +841,7 @@ ASN,Organization,IP_Count
 "AS47165","Omskie kabelnye seti Ltd.",4
 "AS47898","NPK Home-Net Ltd.",4
 "AS49800","GNC-Alfa CJSC",4
+"AS50028","EDGOO NETWORKS UNIPESSOAL LDA",4
 "AS50274","Alfanet LLC",4
 "AS50576","FREEWAY Plus LLC",4
 "AS51765","Oy Crea Nova Hosting Solution Ltd",4
@@ -1040,7 +1041,6 @@ ASN,Organization,IP_Count
 "AS49242","Internet Union Spolka Akcyjna",3
 "AS49332","Lanet Network Ltd",3
 "AS49981","WorldStream B.V.",3
-"AS50028","EDGOO NETWORKS UNIPESSOAL LDA",3
 "AS5065","Bunny Communications",3
 "AS51177","TIPZOR MEDIA SRL",3
 "AS51742","FOP Molochko Nina Vasilievna,",3
