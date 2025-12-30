@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87891
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22316
-"AS398324","Censys, Inc.",15763
+"AS398324","Censys, Inc.",15764
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10896
 "AS14061","DigitalOcean, LLC",8709
@@ -25,10 +25,10 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2650
 "AS142002","Scloud Pte Ltd",2614
 "AS9808","China Mobile",2087
-"AS202425","IP Volume inc",2055
-"AS32475","Internap Holding LLC",1734
+"AS202425","IP Volume inc",2056
+"AS32475","Internap Holding LLC",1735
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1565
+"AS209605","UAB Host Baltic",1566
 "AS49870","Alsycon B.V.",1555
 "AS36352","HostPapa",1498
 "AS398722","Censys, Inc.",1459
@@ -36,7 +36,7 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
 "AS215269","LAZYCLOUD LTD",1312
-"AS174","Cogent Communications",1299
+"AS174","Cogent Communications",1301
 "AS22552","eSited Solutions",1200
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
@@ -45,7 +45,7 @@ ASN,Organization,IP_Count
 "AS208684","BHA CONSEIL SARL",1036
 "AS20052","Arbor Networks, Inc.",910
 "AS51852","Private Layer INC",907
-"AS51167","Contabo GmbH",892
+"AS51167","Contabo GmbH",893
 "AS208046","ColocationX Ltd.",875
 "AS215925","VPSVAULT.HOST LTD",867
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -138,8 +138,8 @@ ASN,Organization,IP_Count
 "AS16735","ALGAR TELECOM S/A",89
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS8402","PJSC ""Vimpelcom""",88
+"AS396356","Latitude.sh",86
 "AS271795","SERVITELCONET CIA. LTDA.",85
-"AS396356","Latitude.sh",85
 "AS58461","Chinanet",85
 "AS200019","ALEXHOST SRL",82
 "AS22773","Cox Communications Inc.",80
