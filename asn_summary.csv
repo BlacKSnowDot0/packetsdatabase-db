@@ -22,11 +22,11 @@ ASN,Organization,IP_Count
 "AS8075","Microsoft Corporation",2947
 "AS6939","Hurricane Electric LLC",2898
 "AS213412","ONYPHE SAS",2795
-"AS23470","ReliableSite.Net LLC",2648
+"AS23470","ReliableSite.Net LLC",2649
 "AS142002","Scloud Pte Ltd",2614
 "AS9808","China Mobile",2087
-"AS202425","IP Volume inc",2052
-"AS32475","Internap Holding LLC",1732
+"AS202425","IP Volume inc",2053
+"AS32475","Internap Holding LLC",1733
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1565
 "AS49870","Alsycon B.V.",1555
@@ -220,11 +220,11 @@ ASN,Organization,IP_Count
 "AS1103","SURF B.V.",39
 "AS329009","Spectrum Internet Service Ltd",39
 "AS4538","China Education and Research Network Center",39
+"AS56067","Metrabyte Co.,Ltd",39
 "AS8048","CANTV Servicios, Venezuela",39
 "AS9198","JSC Kazakhtelecom",39
 "AS149705","PT Wijaya Trimitra Indonesia",38
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",38
-"AS56067","Metrabyte Co.,Ltd",38
 "AS9123","TimeWeb Ltd.",38
 "AS1680","Cellcom Fixed Line Communication L.P",37
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",37
@@ -864,6 +864,7 @@ ASN,Organization,IP_Count
 "AS8866","Vivacom Bulgaria EAD",4
 "AS9260","Multinet Broadband",4
 "AS9335","CAT Telecom Public Company Limited",4
+"AS9506","Singapore Telecommunications Ltd, Magix Services",4
 "AS979","NetLab Global",4
 "AS9845","LG HelloVision Corp.",4
 "AS9922","New Kaohsiung Broadband LTD.",4
@@ -1073,7 +1074,6 @@ ASN,Organization,IP_Count
 "AS8612","Tiscali Italia S.P.A.",3
 "AS9329","Sri Lanka Telecom Ltd",3
 "AS9381","HKBN Enterprise Solutions HK Limited",3
-"AS9506","Singapore Telecommunications Ltd, Magix Services",3
 "AS963","N963",3
 "AS10030","Celcom Axiata Berhad",2
 "AS10036","DLIVE",2
