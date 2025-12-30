@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87890
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22315
-"AS398324","Censys, Inc.",15758
+"AS211298","Driftnet Ltd",22316
+"AS398324","Censys, Inc.",15759
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10896
 "AS14061","DigitalOcean, LLC",8708
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2614
 "AS9808","China Mobile",2087
 "AS202425","IP Volume inc",2054
-"AS32475","Internap Holding LLC",1733
+"AS32475","Internap Holding LLC",1734
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1565
 "AS49870","Alsycon B.V.",1555
@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS48925","VibeGAMES B.V.",1426
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1299
-"AS22552","eSited Solutions",1199
+"AS22552","eSited Solutions",1200
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
@@ -45,7 +45,7 @@ ASN,Organization,IP_Count
 "AS208684","BHA CONSEIL SARL",1036
 "AS20052","Arbor Networks, Inc.",910
 "AS51852","Private Layer INC",907
-"AS51167","Contabo GmbH",891
+"AS51167","Contabo GmbH",892
 "AS208046","ColocationX Ltd.",875
 "AS215925","VPSVAULT.HOST LTD",867
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",779
 "AS10439","CariNet, Inc.",756
-"AS14618","Amazon.com, Inc.",748
+"AS14618","Amazon.com, Inc.",749
 "AS4837","CHINA UNICOM China169 Backbone",630
 "AS12876","ONLINE S.A.S.",626
 "AS51115","HLL LLC",619
@@ -89,7 +89,7 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS141718","haoxiangyun",278
-"AS18403","FPT Telecom Company",266
+"AS18403","FPT Telecom Company",267
 "AS48090","TECHOFF SRV LIMITED",261
 "AS60223","Netiface Limited",250
 "AS209272","Alviva Holding Limited",230
@@ -110,7 +110,7 @@ ASN,Organization,IP_Count
 "AS262551","Farol Telecom",155
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",148
-"AS30083","velia.net",147
+"AS30083","velia.net",148
 "AS8560","IONOS SE",144
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
@@ -322,6 +322,7 @@ ASN,Organization,IP_Count
 "AS50887","DC FIBER HOME SRL",21
 "AS812","Rogers Communications Canada Inc.",21
 "AS9299","Philippine Long Distance Telephone Co.",21
+"AS140061","China Telecom",20
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS17638","ASN for TIANJIN Provincial Net of CT",20
@@ -333,7 +334,6 @@ ASN,Organization,IP_Count
 "AS11426","Charter Communications Inc",19
 "AS11878","tzulo, inc.",19
 "AS12874","Fastweb SpA",19
-"AS140061","China Telecom",19
 "AS14593","Space Exploration Technologies Corporation",19
 "AS207713","GLOBAL INTERNET SOLUTIONS LLC",19
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",19
