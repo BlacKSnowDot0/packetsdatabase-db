@@ -1,5 +1,5 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87888
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87890
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22315
 "AS398324","Censys, Inc.",15754
@@ -22,7 +22,7 @@ ASN,Organization,IP_Count
 "AS8075","Microsoft Corporation",2948
 "AS6939","Hurricane Electric LLC",2898
 "AS213412","ONYPHE SAS",2795
-"AS23470","ReliableSite.Net LLC",2649
+"AS23470","ReliableSite.Net LLC",2650
 "AS142002","Scloud Pte Ltd",2614
 "AS9808","China Mobile",2087
 "AS202425","IP Volume inc",2054
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1565
 "AS49870","Alsycon B.V.",1555
-"AS36352","HostPapa",1497
+"AS36352","HostPapa",1498
 "AS398722","Censys, Inc.",1459
 "AS13335","Cloudflare, Inc.",1454
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",779
 "AS10439","CariNet, Inc.",756
-"AS14618","Amazon.com, Inc.",747
+"AS14618","Amazon.com, Inc.",748
 "AS4837","CHINA UNICOM China169 Backbone",630
 "AS12876","ONLINE S.A.S.",625
 "AS51115","HLL LLC",619
@@ -110,7 +110,7 @@ ASN,Organization,IP_Count
 "AS262551","Farol Telecom",155
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",148
-"AS30083","velia.net",146
+"AS30083","velia.net",147
 "AS8560","IONOS SE",144
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
@@ -145,7 +145,7 @@ ASN,Organization,IP_Count
 "AS22773","Cox Communications Inc.",80
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",79
 "AS3920","ESTOXY OU",78
-"AS150263","PT Alnet Telekomunikasi Indonesia",76
+"AS150263","PT Alnet Telekomunikasi Indonesia",77
 "AS200514","KnownSRV Ltd.",76
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",76
@@ -241,11 +241,11 @@ ASN,Organization,IP_Count
 "AS34665","Petersburg Internet Network ltd.",34
 "AS4847","China Networks Inter-Exchange",34
 "AS55990","Huawei Cloud Service data center",34
+"AS40676","Psychz Networks",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
 "AS12912","T-Mobile Polska S.A.",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
-"AS40676","Psychz Networks",32
 "AS55933","Cloudie Limited",32
 "AS1241","RIPE Network Coordination Centre",31
 "AS13213","UK-2 Limited",31
@@ -1519,6 +1519,7 @@ ASN,Organization,IP_Count
 "AS59165","Auspice Infratel Pvt. Ltd.",2
 "AS59187","NEEVAI SUPERCLOUD PVT LTD",2
 "AS59930","Telegram Messenger Inc",2
+"AS60117","Host Sailor Ltd",2
 "AS60246","Consumer Internet Cooperative PG-19",2
 "AS60522","KomMITT-Ratingen GmbH",2
 "AS6079","RCN",2
@@ -3031,7 +3032,6 @@ ASN,Organization,IP_Count
 "AS59825","Infanet Ltd.",1
 "AS59878","BFB ONE FZ-LLC",1
 "AS60072","LLC EGS-Telecom",1
-"AS60117","Host Sailor Ltd",1
 "AS60139","Sever Telecom JSC",1
 "AS60352","S E L C O M SHPK",1
 "AS60446","Datema Bilisim Ticaret Anonim Sirketi",1
