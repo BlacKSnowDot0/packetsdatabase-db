@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",15752
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10895
-"AS14061","DigitalOcean, LLC",8707
+"AS14061","DigitalOcean, LLC",8708
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6120
 "AS4134","Chinanet",5127
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1565
 "AS49870","Alsycon B.V.",1555
-"AS36352","HostPapa",1496
+"AS36352","HostPapa",1497
 "AS398722","Censys, Inc.",1459
 "AS13335","Cloudflare, Inc.",1454
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -141,9 +141,9 @@ ASN,Organization,IP_Count
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
 "AS396356","Latitude.sh",83
-"AS200019","ALEXHOST SRL",81
+"AS200019","ALEXHOST SRL",82
 "AS22773","Cox Communications Inc.",80
-"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",78
+"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",79
 "AS3920","ESTOXY OU",78
 "AS150263","PT Alnet Telekomunikasi Indonesia",76
 "AS200514","KnownSRV Ltd.",76
@@ -263,6 +263,7 @@ ASN,Organization,IP_Count
 "AS58212","dataforest GmbH",29
 "AS6134","XNNET LLC",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
+"AS9304","HGC Global Communications Limited",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",28
 "AS141679","China Telecom",28
@@ -272,7 +273,6 @@ ASN,Organization,IP_Count
 "AS329490","Promethean Consulting Limited",28
 "AS401152","Ace Data Centers II, L.L.C.",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
-"AS9304","HGC Global Communications Limited",28
 "AS17995","PT iForte Global Internet",27
 "AS34534","FBW NETWORKS SAS",27
 "AS41745","Baykov Ilya Sergeevich",27
