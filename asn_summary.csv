@@ -1,13 +1,13 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87888
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22310
-"AS398324","Censys, Inc.",15735
+"AS211298","Driftnet Ltd",22312
+"AS398324","Censys, Inc.",15741
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10893
-"AS14061","DigitalOcean, LLC",8703
+"AS396982","Google LLC",10894
+"AS14061","DigitalOcean, LLC",8705
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6117
+"AS16276","OVH SAS",6118
 "AS4134","Chinanet",5126
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4466
@@ -17,12 +17,12 @@ ASN,Organization,IP_Count
 "AS0","",3876
 "AS63949","Akamai Technologies, Inc.",3718
 "AS15169","Google LLC",3581
-"AS51396","Pfcloud UG",3261
+"AS51396","Pfcloud UG",3262
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2947
 "AS6939","Hurricane Electric LLC",2895
 "AS213412","ONYPHE SAS",2795
-"AS23470","ReliableSite.Net LLC",2633
+"AS23470","ReliableSite.Net LLC",2646
 "AS142002","Scloud Pte Ltd",2614
 "AS9808","China Mobile",2087
 "AS202425","IP Volume inc",2051
@@ -51,10 +51,10 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",805
+"AS10439","CariNet, Inc.",756
 "AS211680","NSEC - Sistemas Informaticos, S.A.",756
-"AS10439","CariNet, Inc.",755
 "AS14618","Amazon.com, Inc.",746
-"AS4837","CHINA UNICOM China169 Backbone",629
+"AS4837","CHINA UNICOM China169 Backbone",630
 "AS12876","ONLINE S.A.S.",625
 "AS51115","HLL LLC",618
 "AS201814","MEVSPACE sp. z o.o.",600
@@ -69,7 +69,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
 "AS212238","Datacamp Limited",480
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",413
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",414
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
 "AS7018","AT&T Enterprises, LLC",402
@@ -111,7 +111,7 @@ ASN,Organization,IP_Count
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",148
 "AS30083","velia.net",144
-"AS8560","IONOS SE",142
+"AS8560","IONOS SE",143
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
 "AS13238","YANDEX LLC",134
@@ -189,7 +189,7 @@ ASN,Organization,IP_Count
 "AS30058","FDCservers.net",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS200590","NLS Kazakhstan LLC",52
-"AS210558","1337 Services GmbH",50
+"AS210558","1337 Services GmbH",51
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",50
 "AS215762","Bullet Group LTD",49
 "AS266181","GOLDEN LINK",48
@@ -644,6 +644,7 @@ ASN,Organization,IP_Count
 "AS39521","TNGNET B.V.",6
 "AS397270","NetInformatik Inc.",6
 "AS399765","FasNET Services LLC",6
+"AS4755","Tata Communications Limited",6
 "AS48314","Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG",6
 "AS48347","JSC Mediasoft ekspert",6
 "AS48642","Joint stock company ""For""",6
@@ -690,6 +691,7 @@ ASN,Organization,IP_Count
 "AS213851","Marcel Hanisch",5
 "AS215311","Regxa Company for Information Technology Ltd",5
 "AS22612","Namecheap, Inc.",5
+"AS23028","Team Cymru Inc.",5
 "AS23974","Ministry of Education - EMISC",5
 "AS25084","Politechnika Czestochowska",5
 "AS263569","DIRECT WIFI TELECOM LTDA",5
@@ -727,7 +729,6 @@ ASN,Organization,IP_Count
 "AS45458","ADVANCED WIRELESS NETWORK COMPANY LIMITED",5
 "AS45650","VIA NET COMMUNICATION PUBLIC LIMITED",5
 "AS4721","JCOM Co., Ltd.",5
-"AS4755","Tata Communications Limited",5
 "AS47702","Teleradiocompany Discovery Ltd.",5
 "AS4780","Digital United Inc.",5
 "AS53062","GGNET TELECOM BACKBONE",5
@@ -791,7 +792,6 @@ ASN,Organization,IP_Count
 "AS22047","VTR BANDA ANCHA S.A.",4
 "AS22418","Cologuard",4
 "AS22611","InMotion Hosting, Inc.",4
-"AS23028","Team Cymru Inc.",4
 "AS23674","Nayatel (Pvt) Ltd",4
 "AS2514","NTT PC Communications, Inc.",4
 "AS25472","Nova Telecommunications & Media Single Member S.A",4
@@ -1010,6 +1010,7 @@ ASN,Organization,IP_Count
 "AS36884","Wana Corporate",3
 "AS36925","MEDITELECOM",3
 "AS37049","South African Digital Villages (Pty) Ltd",3
+"AS37228","KT RWANDA NETWORK Ltd",3
 "AS37671","3S INF",3
 "AS399244","AME Hosting LLC",3
 "AS40065","CNSERVERS LLC",3
@@ -1391,7 +1392,6 @@ ASN,Organization,IP_Count
 "AS36890","MTN Rwandacell",2
 "AS36907","TV CABO ANGOLA LDA",2
 "AS37168","Cell C (Pty) Ltd",2
-"AS37228","KT RWANDA NETWORK Ltd",2
 "AS37284","Aljeel Aljadeed For Technology",2
 "AS37642","Comnet Pty Ltd",2
 "AS37693","OOREDOO TUNISIE SA",2
