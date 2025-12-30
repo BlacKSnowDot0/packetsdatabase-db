@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87892
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22316
-"AS398324","Censys, Inc.",15766
+"AS211298","Driftnet Ltd",22317
+"AS398324","Censys, Inc.",15768
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10896
 "AS14061","DigitalOcean, LLC",8709
@@ -352,6 +352,7 @@ ASN,Organization,IP_Count
 "AS136958","China Unicom Guangdong IP network",17
 "AS148981","China Telecom",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
+"AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",17
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
 "AS3215","Orange S.A.",17
 "AS32613","Leaseweb Canada Inc.",17
@@ -370,10 +371,10 @@ ASN,Organization,IP_Count
 "AS19901","Brightspeed",16
 "AS24812","NPK Home-Net Ltd.",16
 "AS25198","INTERKVM HOST SRL",16
-"AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",16
 "AS328539","Giga for Telecommunication and Technology Limited",16
 "AS39351","31173 Services AB",16
 "AS46261","QuickPacket, LLC",16
+"AS62068","SpectraIP B.V.",16
 "AS6597","Coloblox Data Centers Inc",16
 "AS1267","RIPE Network Coordination Centre",15
 "AS12849","Hot-Net internet services Ltd.",15
@@ -395,7 +396,6 @@ ASN,Organization,IP_Count
 "AS31113","Artkomm LLC",15
 "AS397283","RocketNode Inc",15
 "AS48282","Hosting technology LTD",15
-"AS62068","SpectraIP B.V.",15
 "AS6327","Shaw Communications Inc.",15
 "AS64236","UnReal Servers, LLC",15
 "AS6849","JSC ""Ukrtelecom""",15
