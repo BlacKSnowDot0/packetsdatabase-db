@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87888
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22315
-"AS398324","Censys, Inc.",15753
+"AS398324","Censys, Inc.",15754
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10896
 "AS14061","DigitalOcean, LLC",8708
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2649
 "AS142002","Scloud Pte Ltd",2614
 "AS9808","China Mobile",2087
-"AS202425","IP Volume inc",2053
+"AS202425","IP Volume inc",2054
 "AS32475","Internap Holding LLC",1733
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1565
@@ -47,7 +47,7 @@ ASN,Organization,IP_Count
 "AS51852","Private Layer INC",907
 "AS51167","Contabo GmbH",891
 "AS208046","ColocationX Ltd.",875
-"AS215925","VPSVAULT.HOST LTD",866
+"AS215925","VPSVAULT.HOST LTD",867
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",805
@@ -56,12 +56,12 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",747
 "AS4837","CHINA UNICOM China169 Backbone",630
 "AS12876","ONLINE S.A.S.",625
-"AS51115","HLL LLC",618
+"AS51115","HLL LLC",619
 "AS201814","MEVSPACE sp. z o.o.",600
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",586
 "AS9009","M247 Europe SRL",582
-"AS9829","Bharat Sanchar Nigam Ltd",564
+"AS9829","Bharat Sanchar Nigam Ltd",565
 "AS53667","FranTech Solutions",560
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
@@ -115,8 +115,8 @@ ASN,Organization,IP_Count
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
 "AS13238","YANDEX LLC",134
+"AS151185","China Telecom",129
 "AS137409","GSL Networks Pty LTD",128
-"AS151185","China Telecom",128
 "AS19905","Neustar Security Services",127
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",124
 "AS4766","Korea Telecom",123
@@ -181,8 +181,8 @@ ASN,Organization,IP_Count
 "AS20278","Nexeon Technologies, Inc.",57
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",57
 "AS30633","Leaseweb USA, Inc.",57
+"AS12816","Leibniz-Rechenzentrum",56
 "AS48090","PPTECHNOLOGY LIMITED",56
-"AS12816","Leibniz-Rechenzentrum",55
 "AS18345","Servers Australia Pty. Ltd",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
 "AS213877","u1host ltd",54
