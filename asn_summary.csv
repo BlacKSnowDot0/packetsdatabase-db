@@ -1,37 +1,37 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87888
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22312
-"AS398324","Censys, Inc.",15741
+"AS211298","Driftnet Ltd",22313
+"AS398324","Censys, Inc.",15746
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10894
-"AS14061","DigitalOcean, LLC",8705
+"AS14061","DigitalOcean, LLC",8706
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6118
+"AS16276","OVH SAS",6119
 "AS4134","Chinanet",5126
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4466
 "AS16509","Amazon.com, Inc.",4380
-"AS45102","Alibaba (US) Technology Co., Ltd.",4280
+"AS45102","Alibaba (US) Technology Co., Ltd.",4284
 "AS396998","Path Network, Inc.",3992
-"AS0","",3876
-"AS63949","Akamai Technologies, Inc.",3718
+"AS0","",3877
+"AS63949","Akamai Technologies, Inc.",3719
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3262
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2947
-"AS6939","Hurricane Electric LLC",2895
+"AS6939","Hurricane Electric LLC",2896
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2646
 "AS142002","Scloud Pte Ltd",2614
 "AS9808","China Mobile",2087
-"AS202425","IP Volume inc",2051
+"AS202425","IP Volume inc",2052
 "AS32475","Internap Holding LLC",1731
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1564
 "AS49870","Alsycon B.V.",1555
 "AS36352","HostPapa",1495
-"AS398722","Censys, Inc.",1457
+"AS398722","Censys, Inc.",1458
 "AS13335","Cloudflare, Inc.",1454
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1036
-"AS20052","Arbor Networks, Inc.",909
+"AS20052","Arbor Networks, Inc.",910
 "AS51852","Private Layer INC",907
 "AS51167","Contabo GmbH",890
 "AS208046","ColocationX Ltd.",874
@@ -51,9 +51,9 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",805
+"AS211680","NSEC - Sistemas Informaticos, S.A.",779
 "AS10439","CariNet, Inc.",756
-"AS211680","NSEC - Sistemas Informaticos, S.A.",756
-"AS14618","Amazon.com, Inc.",746
+"AS14618","Amazon.com, Inc.",747
 "AS4837","CHINA UNICOM China169 Backbone",630
 "AS12876","ONLINE S.A.S.",625
 "AS51115","HLL LLC",618
@@ -69,7 +69,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
 "AS212238","Datacamp Limited",480
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",414
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",415
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
 "AS7018","AT&T Enterprises, LLC",402
@@ -80,7 +80,7 @@ ASN,Organization,IP_Count
 "AS7922","Comcast Cable Communications, LLC",353
 "AS8151","Uninet S.A. de C.V.",341
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
-"AS208843","Alpha Strike Labs GmbH",321
+"AS208843","Alpha Strike Labs GmbH",322
 "AS214943","Railnet LLC",318
 "AS45899","VNPT Corp",318
 "AS213613","BOTSHIELD LTD",315
@@ -212,12 +212,12 @@ ASN,Organization,IP_Count
 "AS210509","Optimum Line for Internet Services Ltd.",41
 "AS23969","TOT Public Company Limited",41
 "AS26599","TELEFÔNICA BRASIL S.A",41
+"AS204834","Shabakieh Isfahan Co PJSC",40
 "AS27699","TELEFÔNICA BRASIL S.A",40
 "AS28546","Servnet Mexico, S.A. de C.V.",40
 "AS43641","SOLLUTIUM EU Sp z.o.o.",40
 "AS5089","Virgin Media Limited",40
 "AS1103","SURF B.V.",39
-"AS204834","Shabakieh Isfahan Co PJSC",39
 "AS329009","Spectrum Internet Service Ltd",39
 "AS4538","China Education and Research Network Center",39
 "AS8048","CANTV Servicios, Venezuela",39
@@ -1041,6 +1041,7 @@ ASN,Organization,IP_Count
 "AS49981","WorldStream B.V.",3
 "AS50028","EDGOO NETWORKS UNIPESSOAL LDA",3
 "AS5065","Bunny Communications",3
+"AS51177","TIPZOR MEDIA SRL",3
 "AS51742","FOP Molochko Nina Vasilievna,",3
 "AS52041","Scaleblade, Ltd.",3
 "AS52436","Cable Televisora Color",3
@@ -1471,7 +1472,6 @@ ASN,Organization,IP_Count
 "AS50852","INTERRA Ltd.",2
 "AS50886","NETFIL SRL",2
 "AS51069","Volodymyr Shtark",2
-"AS51177","TIPZOR MEDIA SRL",2
 "AS51248","Host-Telecom.com s.r.o.",2
 "AS51375","STC BAHRAIN B.S.C CLOSED",2
 "AS51468","One.com A/S",2
