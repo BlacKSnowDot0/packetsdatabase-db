@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87899
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22323
-"AS398324","Censys, Inc.",15797
+"AS398324","Censys, Inc.",15799
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10905
-"AS14061","DigitalOcean, LLC",8728
+"AS14061","DigitalOcean, LLC",8729
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6125
 "AS4134","Chinanet",5192
@@ -14,13 +14,13 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4381
 "AS45102","Alibaba (US) Technology Co., Ltd.",4288
 "AS396998","Path Network, Inc.",3992
-"AS0","",3888
+"AS0","",3889
 "AS63949","Akamai Technologies, Inc.",3725
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3264
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2952
-"AS6939","Hurricane Electric LLC",2904
+"AS8075","Microsoft Corporation",2953
+"AS6939","Hurricane Electric LLC",2906
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2659
 "AS142002","Scloud Pte Ltd",2616
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",780
-"AS10439","CariNet, Inc.",758
+"AS10439","CariNet, Inc.",759
 "AS14618","Amazon.com, Inc.",750
 "AS4837","CHINA UNICOM China169 Backbone",631
 "AS12876","ONLINE S.A.S.",627
@@ -118,8 +118,8 @@ ASN,Organization,IP_Count
 "AS151185","China Telecom",129
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
+"AS4766","Korea Telecom",125
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",124
-"AS4766","Korea Telecom",124
 "AS36007","Kamatera, Inc.",122
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",112
