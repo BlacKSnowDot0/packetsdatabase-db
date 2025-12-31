@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87898
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22323
-"AS398324","Censys, Inc.",15795
+"AS398324","Censys, Inc.",15796
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10905
 "AS14061","DigitalOcean, LLC",8728
@@ -15,14 +15,14 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",4287
 "AS396998","Path Network, Inc.",3992
 "AS0","",3888
-"AS63949","Akamai Technologies, Inc.",3724
+"AS63949","Akamai Technologies, Inc.",3725
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3264
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2952
 "AS6939","Hurricane Electric LLC",2904
 "AS213412","ONYPHE SAS",2795
-"AS23470","ReliableSite.Net LLC",2657
+"AS23470","ReliableSite.Net LLC",2659
 "AS142002","Scloud Pte Ltd",2616
 "AS9808","China Mobile",2087
 "AS202425","IP Volume inc",2061
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS3462","Chunghwa Telecom Co., Ltd.",586
 "AS9009","M247 Europe SRL",584
 "AS9829","Bharat Sanchar Nigam Ltd",566
-"AS53667","FranTech Solutions",560
+"AS53667","FranTech Solutions",561
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS198953","Proton66 OOO",527
@@ -253,10 +253,10 @@ ASN,Organization,IP_Count
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",31
 "AS271597","NEW LINK CONNECT",31
 "AS852","TELUS Communications Inc.",31
+"AS9304","HGC Global Communications Limited",31
 "AS200593","PROSPERO OOO",30
 "AS214417","Andrii Hrosh",30
 "AS4713","NTT Communications Corporation",30
-"AS9304","HGC Global Communications Limited",30
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",29
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",29
 "AS3269","Telecom Italia S.p.A.",29
