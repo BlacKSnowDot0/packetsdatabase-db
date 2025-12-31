@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87905
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22324
-"AS398324","Censys, Inc.",15821
+"AS398324","Censys, Inc.",15822
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10907
 "AS14061","DigitalOcean, LLC",8731
@@ -83,7 +83,7 @@ ASN,Organization,IP_Count
 "AS208843","Alpha Strike Labs GmbH",322
 "AS45899","VNPT Corp",319
 "AS214943","Railnet LLC",318
-"AS213613","BOTSHIELD LTD",316
+"AS213613","BOTSHIELD LTD",317
 "AS24863","LINKdotNET AS number",307
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",302
 "AS9341","PT Indonesia Comnets Plus",297
@@ -119,7 +119,7 @@ ASN,Organization,IP_Count
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
 "AS4766","Korea Telecom",126
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",124
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",125
 "AS36007","Kamatera, Inc.",122
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",112
@@ -208,11 +208,11 @@ ASN,Organization,IP_Count
 "AS21928","T-Mobile USA, Inc.",43
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS262378","Compuservice Empreendimentos Ltda",42
+"AS28546","Servnet Mexico, S.A. de C.V.",42
 "AS7738","V tal",42
 "AS210509","Optimum Line for Internet Services Ltd.",41
 "AS23969","TOT Public Company Limited",41
 "AS26599","TELEFÔNICA BRASIL S.A",41
-"AS28546","Servnet Mexico, S.A. de C.V.",41
 "AS56067","Metrabyte Co.,Ltd",41
 "AS204834","Shabakieh Isfahan Co PJSC",40
 "AS27699","TELEFÔNICA BRASIL S.A",40
@@ -1054,6 +1054,7 @@ ASN,Organization,IP_Count
 "AS56478","Hyperoptic Ltd",3
 "AS58715","Earth Telecommunication ( pvt ) Limited",3
 "AS59497","Buknet LLC",3
+"AS60117","Host Sailor Ltd",3
 "AS6057","Administracion Nacional de Telecomunicaciones",3
 "AS61112","AKILE LTD",3
 "AS61317","Hivelocity Inc",3
@@ -1521,7 +1522,6 @@ ASN,Organization,IP_Count
 "AS59165","Auspice Infratel Pvt. Ltd.",2
 "AS59187","NEEVAI SUPERCLOUD PVT LTD",2
 "AS59930","Telegram Messenger Inc",2
-"AS60117","Host Sailor Ltd",2
 "AS60246","Consumer Internet Cooperative PG-19",2
 "AS60522","KomMITT-Ratingen GmbH",2
 "AS6079","RCN",2
