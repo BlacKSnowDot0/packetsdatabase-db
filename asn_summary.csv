@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87900
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22323
-"AS398324","Censys, Inc.",15801
+"AS398324","Censys, Inc.",15802
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10905
 "AS14061","DigitalOcean, LLC",8730
@@ -12,10 +12,10 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4468
 "AS16509","Amazon.com, Inc.",4381
-"AS45102","Alibaba (US) Technology Co., Ltd.",4288
+"AS45102","Alibaba (US) Technology Co., Ltd.",4294
 "AS396998","Path Network, Inc.",3992
 "AS0","",3889
-"AS63949","Akamai Technologies, Inc.",3725
+"AS63949","Akamai Technologies, Inc.",3726
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3264
 "AS398705","Censys, Inc.",3238
@@ -36,14 +36,14 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
 "AS215269","LAZYCLOUD LTD",1312
-"AS174","Cogent Communications",1303
+"AS174","Cogent Communications",1304
 "AS22552","eSited Solutions",1202
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1036
-"AS20052","Arbor Networks, Inc.",910
+"AS20052","Arbor Networks, Inc.",911
 "AS51852","Private Layer INC",907
 "AS51167","Contabo GmbH",897
 "AS208046","ColocationX Ltd.",875
@@ -115,7 +115,7 @@ ASN,Organization,IP_Count
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
 "AS13238","YANDEX LLC",134
-"AS151185","China Telecom",129
+"AS151185","China Telecom",130
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
 "AS4766","Korea Telecom",125
