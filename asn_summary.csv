@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87900
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87901
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22323
 "AS398324","Censys, Inc.",15802
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10905
-"AS14061","DigitalOcean, LLC",8730
+"AS14061","DigitalOcean, LLC",8731
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6126
 "AS4134","Chinanet",5192
@@ -61,7 +61,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",586
 "AS9009","M247 Europe SRL",584
-"AS9829","Bharat Sanchar Nigam Ltd",566
+"AS9829","Bharat Sanchar Nigam Ltd",567
 "AS53667","FranTech Solutions",561
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
@@ -100,7 +100,7 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS12555","Data-center IMAQLIQ Ltd.",213
-"AS63199","CDS Global Cloud Co., Ltd",197
+"AS63199","CDS Global Cloud Co., Ltd",198
 "AS50219","LNK SYSTEMS MUNTENIA SRL",190
 "AS7552","Viettel Group",182
 "AS34984","Superonline Iletisim Hizmetleri A.S.",180
@@ -138,7 +138,7 @@ ASN,Organization,IP_Count
 "AS16735","ALGAR TELECOM S/A",89
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS8402","PJSC ""Vimpelcom""",88
-"AS396356","Latitude.sh",86
+"AS396356","Latitude.sh",87
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
 "AS200019","ALEXHOST SRL",82
@@ -1389,6 +1389,7 @@ ASN,Organization,IP_Count
 "AS35278","SPRINTHOST.RU LLC",2
 "AS35586","VOLYN OPTICAL NETWORKS LLC",2
 "AS35986","Vyve Broadband",2
+"AS36351","IBM Cloud",2
 "AS36375","University of Michigan",2
 "AS36692","Cisco OpenDNS, LLC",2
 "AS36728","Emery Telcom",2
@@ -2672,7 +2673,6 @@ ASN,Organization,IP_Count
 "AS36012","HUNTER COMMUNICATIONS",1
 "AS36048","Berry-IT Incorporated",1
 "AS36149","Hawaiian Telcom Services Company, Inc.",1
-"AS36351","IBM Cloud",1
 "AS36351","SoftLayer Technologies Inc.",1
 "AS36374","Stellar Association, LLC",1
 "AS36445","Coextro",1
