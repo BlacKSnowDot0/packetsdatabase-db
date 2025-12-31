@@ -7,7 +7,7 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",10906
 "AS14061","DigitalOcean, LLC",8731
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6126
+"AS16276","OVH SAS",6127
 "AS4134","Chinanet",5192
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4468
@@ -19,13 +19,13 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3264
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2954
+"AS8075","Microsoft Corporation",2955
 "AS6939","Hurricane Electric LLC",2909
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2662
 "AS142002","Scloud Pte Ltd",2621
 "AS9808","China Mobile",2087
-"AS202425","IP Volume inc",2065
+"AS202425","IP Volume inc",2066
 "AS32475","Internap Holding LLC",1749
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1569
@@ -346,6 +346,7 @@ ASN,Organization,IP_Count
 "AS6697","Republican Unitary Telecommunication Enterprise Beltelecom",19
 "AS18049","Taiwan Infrastructure Network Technologie",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
+"AS33363","Charter Communications, Inc",18
 "AS39603","P4 Sp. z o.o.",18
 "AS400655","NixLabs Networks",18
 "AS11427","Charter Communications Inc",17
@@ -357,7 +358,6 @@ ASN,Organization,IP_Count
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
 "AS3215","Orange S.A.",17
 "AS32613","Leaseweb Canada Inc.",17
-"AS33363","Charter Communications, Inc",17
 "AS45117","Ishan's Network",17
 "AS46375","Sonic Telecom LLC",17
 "AS48753","AVA HOST SRL",17
