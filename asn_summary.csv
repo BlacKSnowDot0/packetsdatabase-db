@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87902
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87903
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22324
-"AS398324","Censys, Inc.",15812
+"AS398324","Censys, Inc.",15815
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10905
 "AS14061","DigitalOcean, LLC",8731
@@ -15,14 +15,14 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",4296
 "AS396998","Path Network, Inc.",3992
 "AS0","",3891
-"AS63949","Akamai Technologies, Inc.",3726
+"AS63949","Akamai Technologies, Inc.",3727
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3264
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2953
-"AS6939","Hurricane Electric LLC",2908
+"AS6939","Hurricane Electric LLC",2909
 "AS213412","ONYPHE SAS",2795
-"AS23470","ReliableSite.Net LLC",2661
+"AS23470","ReliableSite.Net LLC",2662
 "AS142002","Scloud Pte Ltd",2621
 "AS9808","China Mobile",2087
 "AS202425","IP Volume inc",2065
@@ -213,11 +213,11 @@ ASN,Organization,IP_Count
 "AS23969","TOT Public Company Limited",41
 "AS26599","TELEFÔNICA BRASIL S.A",41
 "AS28546","Servnet Mexico, S.A. de C.V.",41
+"AS56067","Metrabyte Co.,Ltd",41
 "AS204834","Shabakieh Isfahan Co PJSC",40
 "AS27699","TELEFÔNICA BRASIL S.A",40
 "AS43641","SOLLUTIUM EU Sp z.o.o.",40
 "AS5089","Virgin Media Limited",40
-"AS56067","Metrabyte Co.,Ltd",40
 "AS1103","SURF B.V.",39
 "AS329009","Spectrum Internet Service Ltd",39
 "AS4538","China Education and Research Network Center",39
@@ -351,6 +351,7 @@ ASN,Organization,IP_Count
 "AS11427","Charter Communications Inc",17
 "AS136958","China Unicom Guangdong IP network",17
 "AS148981","China Telecom",17
+"AS15704","XTRA TELECOM S.A.",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
 "AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",17
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
@@ -367,7 +368,6 @@ ASN,Organization,IP_Count
 "AS137718","Beijing Volcano Engine Technology Co., Ltd.",16
 "AS138915","Kaopu Cloud HK Limited",16
 "AS140726","China Unicom",16
-"AS15704","XTRA TELECOM S.A.",16
 "AS19901","Brightspeed",16
 "AS214309","Aurorix Gaming Solutions Limited",16
 "AS24812","NPK Home-Net Ltd.",16
