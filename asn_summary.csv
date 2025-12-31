@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87899
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87900
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22323
 "AS398324","Censys, Inc.",15801
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10905
-"AS14061","DigitalOcean, LLC",8729
+"AS14061","DigitalOcean, LLC",8730
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6125
 "AS4134","Chinanet",5192
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3264
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2953
-"AS6939","Hurricane Electric LLC",2906
+"AS6939","Hurricane Electric LLC",2908
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2659
 "AS142002","Scloud Pte Ltd",2616
@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS48925","VibeGAMES B.V.",1426
 "AS215269","LAZYCLOUD LTD",1312
 "AS174","Cogent Communications",1303
-"AS22552","eSited Solutions",1200
+"AS22552","eSited Solutions",1202
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
@@ -95,8 +95,8 @@ ASN,Organization,IP_Count
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",229
 "AS29066","velia.net Internetdienste GmbH",228
+"AS29484","Ruhr-Universitaet Bochum",227
 "AS12389","PJSC Rostelecom",226
-"AS29484","Ruhr-Universitaet Bochum",226
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS12555","Data-center IMAQLIQ Ltd.",213
@@ -1469,6 +1469,7 @@ ASN,Organization,IP_Count
 "AS49635","CLOUDI NEXTGEN SL",2
 "AS49724","CJSC Vainah Telecom",2
 "AS49889","Crystal Telecom Ltd",2
+"AS49909","Direct One SA",2
 "AS50012","LLC ""BEST-LINK""",2
 "AS50648","PE UAinet",2
 "AS50852","INTERRA Ltd.",2
@@ -2868,7 +2869,6 @@ ASN,Organization,IP_Count
 "AS49808","Energie AG Oberoesterreich Telekom GmbH",1
 "AS49814","TomGate LLC",1
 "AS49840","Enson Net Ltd",1
-"AS49909","Direct One SA",1
 "AS50010","Omani Qatari Telecommunications Company SAOC",1
 "AS50013","Multicomp Ltd.",1
 "AS5009","REV",1
