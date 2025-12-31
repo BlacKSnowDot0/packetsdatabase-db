@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4468
 "AS16509","Amazon.com, Inc.",4381
-"AS45102","Alibaba (US) Technology Co., Ltd.",4294
+"AS45102","Alibaba (US) Technology Co., Ltd.",4295
 "AS396998","Path Network, Inc.",3992
 "AS0","",3889
 "AS63949","Akamai Technologies, Inc.",3726
@@ -22,10 +22,10 @@ ASN,Organization,IP_Count
 "AS8075","Microsoft Corporation",2953
 "AS6939","Hurricane Electric LLC",2908
 "AS213412","ONYPHE SAS",2795
-"AS23470","ReliableSite.Net LLC",2659
+"AS23470","ReliableSite.Net LLC",2660
 "AS142002","Scloud Pte Ltd",2616
 "AS9808","China Mobile",2087
-"AS202425","IP Volume inc",2062
+"AS202425","IP Volume inc",2063
 "AS32475","Internap Holding LLC",1745
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1568
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1036
-"AS20052","Arbor Networks, Inc.",911
+"AS20052","Arbor Networks, Inc.",912
 "AS51852","Private Layer INC",907
 "AS51167","Contabo GmbH",897
 "AS208046","ColocationX Ltd.",875
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",780
-"AS10439","CariNet, Inc.",759
+"AS10439","CariNet, Inc.",760
 "AS14618","Amazon.com, Inc.",750
 "AS4837","CHINA UNICOM China169 Backbone",631
 "AS12876","ONLINE S.A.S.",627
@@ -83,7 +83,7 @@ ASN,Organization,IP_Count
 "AS208843","Alpha Strike Labs GmbH",322
 "AS45899","VNPT Corp",319
 "AS214943","Railnet LLC",318
-"AS213613","BOTSHIELD LTD",315
+"AS213613","BOTSHIELD LTD",316
 "AS24863","LINKdotNET AS number",307
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",302
 "AS9341","PT Indonesia Comnets Plus",297
@@ -108,7 +108,7 @@ ASN,Organization,IP_Count
 "AS42237","w1n ltd",172
 "AS401116","Nybula LLC",170
 "AS262551","Farol Telecom",156
-"AS30083","velia.net",154
+"AS30083","velia.net",155
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",149
 "AS8560","IONOS SE",145
@@ -137,8 +137,8 @@ ASN,Organization,IP_Count
 "AS23724","IDC, China Telecommunications Corporation",91
 "AS16735","ALGAR TELECOM S/A",89
 "AS210125","PRIAM NET Sh.p.k.",89
+"AS396356","Latitude.sh",89
 "AS8402","PJSC ""Vimpelcom""",88
-"AS396356","Latitude.sh",87
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
 "AS200019","ALEXHOST SRL",82
