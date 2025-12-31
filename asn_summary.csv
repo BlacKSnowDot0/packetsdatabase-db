@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3264
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2953
+"AS8075","Microsoft Corporation",2954
 "AS6939","Hurricane Electric LLC",2909
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2662
@@ -60,7 +60,7 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",600
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",586
-"AS9009","M247 Europe SRL",584
+"AS9009","M247 Europe SRL",585
 "AS9829","Bharat Sanchar Nigam Ltd",567
 "AS53667","FranTech Solutions",561
 "AS31148","Freenet LTD",558
@@ -107,8 +107,8 @@ ASN,Organization,IP_Count
 "AS215240","Silent Connection Ltd.",175
 "AS42237","w1n ltd",172
 "AS401116","Nybula LLC",170
+"AS30083","velia.net",157
 "AS262551","Farol Telecom",156
-"AS30083","velia.net",156
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",149
 "AS8560","IONOS SE",145
@@ -2899,6 +2899,7 @@ ASN,Organization,IP_Count
 "AS51814","Yeninet Fiber internet Limited Sirketi",1
 "AS51904","Utex-Telecom LLC",1
 "AS51973","Koltushsky Internet Ltd",1
+"AS52055","NetIX Communications JSC",1
 "AS52292","Fiber2home S.A",1
 "AS52308","AGUAS DEL COLORADO SAPEM",1
 "AS52312","TV MUSIC HOUSE JUJUY",1
