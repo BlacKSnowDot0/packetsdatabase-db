@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87901
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22323
-"AS398324","Censys, Inc.",15805
+"AS398324","Censys, Inc.",15806
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10905
 "AS14061","DigitalOcean, LLC",8731
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4381
 "AS45102","Alibaba (US) Technology Co., Ltd.",4295
 "AS396998","Path Network, Inc.",3992
-"AS0","",3889
+"AS0","",3890
 "AS63949","Akamai Technologies, Inc.",3726
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3264
@@ -396,6 +396,7 @@ ASN,Organization,IP_Count
 "AS31113","Artkomm LLC",15
 "AS397283","RocketNode Inc",15
 "AS48282","Hosting technology LTD",15
+"AS59134","PT. Datacomm Diangraha",15
 "AS6327","Shaw Communications Inc.",15
 "AS64236","UnReal Servers, LLC",15
 "AS6849","JSC ""Ukrtelecom""",15
@@ -414,7 +415,6 @@ ASN,Organization,IP_Count
 "AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",14
 "AS4808","China Unicom Beijing Province Network",14
 "AS48721","Flyservers S.A.",14
-"AS59134","PT. Datacomm Diangraha",14
 "AS9318","SK Broadband Co Ltd",14
 "AS11351","Charter Communications Inc",13
 "AS134420","Chongqing Telecom",13
@@ -2975,6 +2975,7 @@ ASN,Organization,IP_Count
 "AS55690","PT Andira Infomedia",1
 "AS55769","SOUTH EAST ASIA TELECOM (Cambodia) Co., LTD",1
 "AS55799","TechAvenue Sdn Bhd",1
+"AS55803","Hostopia Australia Web Pty Ltd",1
 "AS55821","RADIUS TELECOMS, INC.",1
 "AS55824","National Knowledge Network",1
 "AS56150","Viet Solutions Services Trading Company Limited",1
