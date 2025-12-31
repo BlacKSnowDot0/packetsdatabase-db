@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87899
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22323
-"AS398324","Censys, Inc.",15799
+"AS398324","Censys, Inc.",15800
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10905
 "AS14061","DigitalOcean, LLC",8729
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2659
 "AS142002","Scloud Pte Ltd",2616
 "AS9808","China Mobile",2087
-"AS202425","IP Volume inc",2061
+"AS202425","IP Volume inc",2062
 "AS32475","Internap Holding LLC",1743
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1568
@@ -108,8 +108,8 @@ ASN,Organization,IP_Count
 "AS42237","w1n ltd",172
 "AS401116","Nybula LLC",170
 "AS262551","Farol Telecom",156
+"AS30083","velia.net",154
 "AS206264","Amarutu Technology Ltd",153
-"AS30083","velia.net",153
 "AS14956","RouterHosting LLC",149
 "AS8560","IONOS SE",145
 "AS47105","Vault Dweller OU",141
@@ -369,6 +369,7 @@ ASN,Organization,IP_Count
 "AS140726","China Unicom",16
 "AS15704","XTRA TELECOM S.A.",16
 "AS19901","Brightspeed",16
+"AS214309","Aurorix Gaming Solutions Limited",16
 "AS24812","NPK Home-Net Ltd.",16
 "AS25198","INTERKVM HOST SRL",16
 "AS328539","Giga for Telecommunication and Technology Limited",16
@@ -387,7 +388,6 @@ ASN,Organization,IP_Count
 "AS211619","MAXKO d.o.o.",15
 "AS212027","Daniel Jackson",15
 "AS214209","Internet Magnate (Pty) Ltd",15
-"AS214309","Aurorix Gaming Solutions Limited",15
 "AS263767","CORPORACIÓN GALA IT, C.A.",15
 "AS272547","Servicos de Infraestrutura e Datacenter",15
 "AS28126","BRISANET SERVICOS DE TELECOMUNICACOES LTDA",15
