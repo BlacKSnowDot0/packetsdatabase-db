@@ -1,10 +1,10 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87908
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87909
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22331
-"AS398324","Censys, Inc.",15859
+"AS398324","Censys, Inc.",15861
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10914
+"AS396982","Google LLC",10915
 "AS14061","DigitalOcean, LLC",8737
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6128
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4382
 "AS45102","Alibaba (US) Technology Co., Ltd.",4300
 "AS396998","Path Network, Inc.",3992
-"AS0","",3897
+"AS0","",3898
 "AS63949","Akamai Technologies, Inc.",3729
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3264
@@ -22,7 +22,7 @@ ASN,Organization,IP_Count
 "AS8075","Microsoft Corporation",2957
 "AS6939","Hurricane Electric LLC",2913
 "AS213412","ONYPHE SAS",2795
-"AS23470","ReliableSite.Net LLC",2671
+"AS23470","ReliableSite.Net LLC",2672
 "AS142002","Scloud Pte Ltd",2621
 "AS9808","China Mobile",2089
 "AS202425","IP Volume inc",2072
@@ -307,6 +307,7 @@ ASN,Organization,IP_Count
 "AS400536","Nodestop LLC",22
 "AS43289","Trabia SRL",22
 "AS45758","Triple T Broadband Public Company Limited",22
+"AS4816","China Telecom (Group)",22
 "AS51430","AltusHost B.V.",22
 "AS5384","EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",22
 "AS63859","PT. Eka Mas Republik",22
@@ -320,7 +321,6 @@ ASN,Organization,IP_Count
 "AS30823","aurologic GmbH",21
 "AS46573","LayerHost",21
 "AS4800","PT Aplikanusa Lintasarta",21
-"AS4816","China Telecom (Group)",21
 "AS50887","DC FIBER HOME SRL",21
 "AS812","Rogers Communications Canada Inc.",21
 "AS9299","Philippine Long Distance Telephone Co.",21
