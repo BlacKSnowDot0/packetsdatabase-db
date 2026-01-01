@@ -4,8 +4,8 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22328
 "AS398324","Censys, Inc.",15840
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10909
-"AS14061","DigitalOcean, LLC",8734
+"AS396982","Google LLC",10910
+"AS14061","DigitalOcean, LLC",8735
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6127
 "AS4134","Chinanet",5193
@@ -55,7 +55,7 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",767
 "AS14618","Amazon.com, Inc.",750
 "AS4837","CHINA UNICOM China169 Backbone",632
-"AS12876","ONLINE S.A.S.",627
+"AS12876","ONLINE S.A.S.",629
 "AS51115","HLL LLC",623
 "AS201814","MEVSPACE sp. z o.o.",600
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -107,7 +107,7 @@ ASN,Organization,IP_Count
 "AS215240","Silent Connection Ltd.",175
 "AS42237","w1n ltd",173
 "AS401116","Nybula LLC",170
-"AS30083","velia.net",161
+"AS30083","velia.net",162
 "AS262551","Farol Telecom",157
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",149
