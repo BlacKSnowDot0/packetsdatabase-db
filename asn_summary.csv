@@ -22,10 +22,10 @@ ASN,Organization,IP_Count
 "AS8075","Microsoft Corporation",2955
 "AS6939","Hurricane Electric LLC",2910
 "AS213412","ONYPHE SAS",2795
-"AS23470","ReliableSite.Net LLC",2663
+"AS23470","ReliableSite.Net LLC",2664
 "AS142002","Scloud Pte Ltd",2621
 "AS9808","China Mobile",2088
-"AS202425","IP Volume inc",2067
+"AS202425","IP Volume inc",2068
 "AS32475","Internap Holding LLC",1752
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1569
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",780
-"AS10439","CariNet, Inc.",766
+"AS10439","CariNet, Inc.",767
 "AS14618","Amazon.com, Inc.",750
 "AS4837","CHINA UNICOM China169 Backbone",632
 "AS12876","ONLINE S.A.S.",627
@@ -105,9 +105,9 @@ ASN,Organization,IP_Count
 "AS7552","Viettel Group",182
 "AS34984","Superonline Iletisim Hizmetleri A.S.",180
 "AS215240","Silent Connection Ltd.",175
-"AS42237","w1n ltd",172
+"AS42237","w1n ltd",173
 "AS401116","Nybula LLC",170
-"AS30083","velia.net",158
+"AS30083","velia.net",159
 "AS262551","Farol Telecom",156
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",149
@@ -247,13 +247,13 @@ ASN,Organization,IP_Count
 "AS12912","T-Mobile Polska S.A.",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
 "AS55933","Cloudie Limited",32
+"AS9304","HGC Global Communications Limited",32
 "AS1241","RIPE Network Coordination Centre",31
 "AS13213","UK-2 Limited",31
 "AS17557","Pakistan Telecommuication company limited",31
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",31
 "AS271597","NEW LINK CONNECT",31
 "AS852","TELUS Communications Inc.",31
-"AS9304","HGC Global Communications Limited",31
 "AS200593","PROSPERO OOO",30
 "AS214417","Andrii Hrosh",30
 "AS4713","NTT Communications Corporation",30
@@ -584,6 +584,7 @@ ASN,Organization,IP_Count
 "AS4811","China Telecom (Group)",7
 "AS48678","PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi",7
 "AS49505","JSC Selectel",7
+"AS50028","EDGOO NETWORKS UNIPESSOAL LDA",7
 "AS5056","Aureon Network Services",7
 "AS50923","Metroset Ltd.",7
 "AS51604","JSC ""ER-Telecom Holding""",7
@@ -648,7 +649,6 @@ ASN,Organization,IP_Count
 "AS48314","Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG",6
 "AS48347","JSC Mediasoft ekspert",6
 "AS48642","Joint stock company ""For""",6
-"AS50028","EDGOO NETWORKS UNIPESSOAL LDA",6
 "AS5603","Telekom Slovenije, d.d.",6
 "AS56047","China Mobile Communications Corporation",6
 "AS58495","PT Parsaoran Global Datatrans",6
@@ -2717,6 +2717,7 @@ ASN,Organization,IP_Count
 "AS39184","UltraNET Ltd",1
 "AS39199","Private Enterprise RadioNet",1
 "AS39307","OLL-KOM LLC",1
+"AS39318","PS Internet Company LLC",1
 "AS393458","Nuclearfallout Enterprises, Inc.",1
 "AS393686","G.P.N. Wireless Network Solutions Ltd.",1
 "AS39375","Telekomunikacja Podlasie Sp. z o.o.",1
