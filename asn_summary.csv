@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2665
 "AS142002","Scloud Pte Ltd",2621
 "AS9808","China Mobile",2088
-"AS202425","IP Volume inc",2068
+"AS202425","IP Volume inc",2069
 "AS32475","Internap Holding LLC",1752
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1569
@@ -42,7 +42,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
-"AS208684","BHA CONSEIL SARL",1036
+"AS208684","BHA CONSEIL SARL",1037
 "AS20052","Arbor Networks, Inc.",913
 "AS51852","Private Layer INC",907
 "AS51167","Contabo GmbH",900
@@ -68,7 +68,7 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
-"AS212238","Datacamp Limited",481
+"AS212238","Datacamp Limited",482
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",417
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
@@ -513,6 +513,7 @@ ASN,Organization,IP_Count
 "AS8346","SONATEL-AS Autonomous System",9
 "AS9038","Batelco Jordan",9
 "AS133982","Excitel Broadband Private Limited",8
+"AS137697","CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou , Jiangsu Province, P.",8
 "AS138754","Kerala Vision Broad Band Private Limited",8
 "AS141295","Madhya Pradesh Agency For Promotion   Of Information Technology",8
 "AS17882","MCS Com Co Ltd",8
@@ -547,7 +548,6 @@ ASN,Organization,IP_Count
 "AS13430","THE WISP.NET CORP.",7
 "AS135478","PT. Cyberindo Aditama",7
 "AS135953","Vietnam Online Network Solution Joint Stock Compnay",7
-"AS137697","CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou , Jiangsu Province, P.",7
 "AS13977","Consolidated Communications, Inc.",7
 "AS140869","Turing Group Limited",7
 "AS141433","Netcom Internet Service",7
