@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22326
 "AS398324","Censys, Inc.",15835
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10908
+"AS396982","Google LLC",10909
 "AS14061","DigitalOcean, LLC",8732
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6127
@@ -20,9 +20,9 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3264
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2955
-"AS6939","Hurricane Electric LLC",2910
+"AS6939","Hurricane Electric LLC",2911
 "AS213412","ONYPHE SAS",2795
-"AS23470","ReliableSite.Net LLC",2664
+"AS23470","ReliableSite.Net LLC",2665
 "AS142002","Scloud Pte Ltd",2621
 "AS9808","China Mobile",2088
 "AS202425","IP Volume inc",2068
@@ -100,7 +100,7 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS12555","Data-center IMAQLIQ Ltd.",213
-"AS63199","CDS Global Cloud Co., Ltd",199
+"AS63199","CDS Global Cloud Co., Ltd",200
 "AS50219","LNK SYSTEMS MUNTENIA SRL",191
 "AS7552","Viettel Group",182
 "AS34984","Superonline Iletisim Hizmetleri A.S.",180
@@ -1014,6 +1014,7 @@ ASN,Organization,IP_Count
 "AS36925","MEDITELECOM",3
 "AS37049","South African Digital Villages (Pty) Ltd",3
 "AS37671","3S INF",3
+"AS395954","Leaseweb USA, Inc.",3
 "AS399244","AME Hosting LLC",3
 "AS40065","CNSERVERS LLC",3
 "AS41704","JSC ""Ufanet""",3
@@ -1412,7 +1413,6 @@ ASN,Organization,IP_Count
 "AS395201","Allnodes Inc",2
 "AS395379","SCI REMC",2
 "AS395839","HOSTKEY",2
-"AS395954","Leaseweb USA, Inc.",2
 "AS398991","X99",2
 "AS399065","Dixie EPA",2
 "AS39927","E-Light-Telecom Ltd.",2
