@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87909
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22331
-"AS398324","Censys, Inc.",15861
+"AS398324","Censys, Inc.",15863
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10915
 "AS14061","DigitalOcean, LLC",8737
@@ -246,13 +246,13 @@ ASN,Organization,IP_Count
 "AS9498","Bharti Airtel Limited",33
 "AS12912","T-Mobile Polska S.A.",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
+"AS271597","NEW LINK CONNECT",32
 "AS55933","Cloudie Limited",32
 "AS9304","HGC Global Communications Limited",32
 "AS1241","RIPE Network Coordination Centre",31
 "AS13213","UK-2 Limited",31
 "AS17557","Pakistan Telecommuication company limited",31
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",31
-"AS271597","NEW LINK CONNECT",31
 "AS852","TELUS Communications Inc.",31
 "AS200593","PROSPERO OOO",30
 "AS214417","Andrii Hrosh",30
@@ -699,6 +699,7 @@ ASN,Organization,IP_Count
 "AS263569","DIRECT WIFI TELECOM LTDA",5
 "AS26383","Baxet Group Inc.",5
 "AS265702","AZUL NETWORKS S.R.L",5
+"AS266274","NETWEST TELECOM",5
 "AS267684","VISIONMAGICA SOCIEDAD ANONIMA",5
 "AS267784","Flyservers S.A.",5
 "AS268482","Connect Telecomunicações LTDA",5
@@ -804,7 +805,6 @@ ASN,Organization,IP_Count
 "AS264439","OuriNet TELECOM",4
 "AS265379","JULIO CESAR DAS NEVES - ME",4
 "AS265586","INBTEL, S.A. DE C.V.",4
-"AS266274","NETWEST TELECOM",4
 "AS266541","ItaNet - Provedor de Internet",4
 "AS26727","Brandenburg Telephone Company",4
 "AS268581","QNAX LTDA",4
