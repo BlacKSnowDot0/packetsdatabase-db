@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87906
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22324
-"AS398324","Censys, Inc.",15826
+"AS211298","Driftnet Ltd",22325
+"AS398324","Censys, Inc.",15830
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10908
 "AS14061","DigitalOcean, LLC",8731
@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS4134","Chinanet",5192
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4468
-"AS16509","Amazon.com, Inc.",4381
+"AS16509","Amazon.com, Inc.",4382
 "AS45102","Alibaba (US) Technology Co., Ltd.",4297
 "AS396998","Path Network, Inc.",3992
 "AS0","",3892
@@ -22,11 +22,11 @@ ASN,Organization,IP_Count
 "AS8075","Microsoft Corporation",2955
 "AS6939","Hurricane Electric LLC",2909
 "AS213412","ONYPHE SAS",2795
-"AS23470","ReliableSite.Net LLC",2662
+"AS23470","ReliableSite.Net LLC",2663
 "AS142002","Scloud Pte Ltd",2621
 "AS9808","China Mobile",2087
 "AS202425","IP Volume inc",2067
-"AS32475","Internap Holding LLC",1751
+"AS32475","Internap Holding LLC",1752
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1569
 "AS49870","Alsycon B.V.",1555
@@ -91,7 +91,7 @@ ASN,Organization,IP_Count
 "AS141718","haoxiangyun",279
 "AS18403","FPT Telecom Company",268
 "AS48090","TECHOFF SRV LIMITED",261
-"AS60223","Netiface Limited",250
+"AS60223","Netiface Limited",251
 "AS209272","Alviva Holding Limited",230
 "AS29066","velia.net Internetdienste GmbH",230
 "AS701","Verizon Business",229
@@ -364,6 +364,7 @@ ASN,Organization,IP_Count
 "AS50340","JSC Selectel",17
 "AS5607","Sky UK Limited",17
 "AS56630","Melbikomas UAB",17
+"AS62068","SpectraIP B.V.",17
 "AS9269","Hong Kong Broadband Network Ltd",17
 "AS137718","Beijing Volcano Engine Technology Co., Ltd.",16
 "AS138915","Kaopu Cloud HK Limited",16
@@ -375,7 +376,6 @@ ASN,Organization,IP_Count
 "AS328539","Giga for Telecommunication and Technology Limited",16
 "AS39351","31173 Services AB",16
 "AS46261","QuickPacket, LLC",16
-"AS62068","SpectraIP B.V.",16
 "AS6597","Coloblox Data Centers Inc",16
 "AS1267","RIPE Network Coordination Centre",15
 "AS12849","Hot-Net internet services Ltd.",15
