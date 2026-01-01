@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87906
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22326
-"AS398324","Censys, Inc.",15834
+"AS398324","Censys, Inc.",15835
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10908
-"AS14061","DigitalOcean, LLC",8731
+"AS14061","DigitalOcean, LLC",8732
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6127
 "AS4134","Chinanet",5192
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4382
 "AS45102","Alibaba (US) Technology Co., Ltd.",4297
 "AS396998","Path Network, Inc.",3992
-"AS0","",3892
+"AS0","",3893
 "AS63949","Akamai Technologies, Inc.",3727
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3264
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2663
 "AS142002","Scloud Pte Ltd",2621
-"AS9808","China Mobile",2087
+"AS9808","China Mobile",2088
 "AS202425","IP Volume inc",2067
 "AS32475","Internap Holding LLC",1752
 "AS214295","SKYNET NETWORK LTD",1631
@@ -100,7 +100,7 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS12555","Data-center IMAQLIQ Ltd.",213
-"AS63199","CDS Global Cloud Co., Ltd",198
+"AS63199","CDS Global Cloud Co., Ltd",199
 "AS50219","LNK SYSTEMS MUNTENIA SRL",191
 "AS7552","Viettel Group",182
 "AS34984","Superonline Iletisim Hizmetleri A.S.",180
@@ -227,10 +227,10 @@ ASN,Organization,IP_Count
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",38
 "AS9123","TimeWeb Ltd.",38
 "AS1680","Cellcom Fixed Line Communication L.P",37
+"AS197540","netcup GmbH",37
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",37
 "AS42624","Global-Data System IT Corporation",37
 "AS8167","V tal",37
-"AS197540","netcup GmbH",36
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",36
 "AS4760","PCCW IMS Limited",36
 "AS8796","FD-298-8796",36
