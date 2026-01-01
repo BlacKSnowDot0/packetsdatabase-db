@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3264
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2955
+"AS8075","Microsoft Corporation",2956
 "AS6939","Hurricane Electric LLC",2911
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2665
@@ -107,7 +107,7 @@ ASN,Organization,IP_Count
 "AS215240","Silent Connection Ltd.",175
 "AS42237","w1n ltd",173
 "AS401116","Nybula LLC",170
-"AS30083","velia.net",160
+"AS30083","velia.net",161
 "AS262551","Farol Telecom",157
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",149
@@ -346,6 +346,7 @@ ASN,Organization,IP_Count
 "AS6697","Republican Unitary Telecommunication Enterprise Beltelecom",19
 "AS18049","Taiwan Infrastructure Network Technologie",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
+"AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",18
 "AS33363","Charter Communications, Inc",18
 "AS39603","P4 Sp. z o.o.",18
 "AS400655","NixLabs Networks",18
@@ -354,7 +355,6 @@ ASN,Organization,IP_Count
 "AS148981","China Telecom",17
 "AS15704","XTRA TELECOM S.A.",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
-"AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",17
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
 "AS3215","Orange S.A.",17
 "AS32613","Leaseweb Canada Inc.",17
