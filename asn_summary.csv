@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87910
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22333
-"AS398324","Censys, Inc.",15868
+"AS398324","Censys, Inc.",15870
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10916
 "AS14061","DigitalOcean, LLC",8738
@@ -20,12 +20,12 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3264
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2957
-"AS6939","Hurricane Electric LLC",2915
+"AS6939","Hurricane Electric LLC",2917
 "AS213412","ONYPHE SAS",2795
-"AS23470","ReliableSite.Net LLC",2673
+"AS23470","ReliableSite.Net LLC",2674
 "AS142002","Scloud Pte Ltd",2621
 "AS9808","China Mobile",2089
-"AS202425","IP Volume inc",2074
+"AS202425","IP Volume inc",2075
 "AS32475","Internap Holding LLC",1760
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1570
@@ -36,14 +36,14 @@ ASN,Organization,IP_Count
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
 "AS215269","LAZYCLOUD LTD",1312
-"AS174","Cogent Communications",1308
+"AS174","Cogent Communications",1309
 "AS22552","eSited Solutions",1202
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1037
-"AS20052","Arbor Networks, Inc.",914
+"AS20052","Arbor Networks, Inc.",915
 "AS51852","Private Layer INC",907
 "AS51167","Contabo GmbH",900
 "AS208046","ColocationX Ltd.",875
@@ -242,11 +242,11 @@ ASN,Organization,IP_Count
 "AS34665","Petersburg Internet Network ltd.",34
 "AS4847","China Networks Inter-Exchange",34
 "AS55990","Huawei Cloud Service data center",34
+"AS271597","NEW LINK CONNECT",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
 "AS12912","T-Mobile Polska S.A.",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
-"AS271597","NEW LINK CONNECT",32
 "AS55933","Cloudie Limited",32
 "AS9304","HGC Global Communications Limited",32
 "AS1241","RIPE Network Coordination Centre",31
@@ -3034,6 +3034,7 @@ ASN,Organization,IP_Count
 "AS59478","LLC IP SERVICE",1
 "AS59517","Multistream Ltd.",1
 "AS59600","Atlas Telecom Ltd.",1
+"AS59711","HZ Hosting Ltd",1
 "AS59825","Infanet Ltd.",1
 "AS59878","BFB ONE FZ-LLC",1
 "AS60072","LLC EGS-Telecom",1
