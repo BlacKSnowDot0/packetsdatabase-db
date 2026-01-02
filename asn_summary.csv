@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22333
 "AS398324","Censys, Inc.",15871
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10916
+"AS396982","Google LLC",10917
 "AS14061","DigitalOcean, LLC",8739
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6131
@@ -56,12 +56,12 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",752
 "AS4837","CHINA UNICOM China169 Backbone",634
 "AS12876","ONLINE S.A.S.",630
-"AS51115","HLL LLC",626
+"AS51115","HLL LLC",627
 "AS201814","MEVSPACE sp. z o.o.",600
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",586
 "AS9009","M247 Europe SRL",585
-"AS9829","Bharat Sanchar Nigam Ltd",569
+"AS9829","Bharat Sanchar Nigam Ltd",570
 "AS53667","FranTech Solutions",561
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
@@ -125,7 +125,7 @@ ASN,Organization,IP_Count
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",112
 "AS208287","DC Host INC",110
 "AS40021","Nubes, LLC",110
-"AS47331","TTNet A.S.",108
+"AS47331","TTNet A.S.",109
 "AS199785","Cloud Hosting Solutions, Limited.",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",107
 "AS136435","ELITE COMMUNICATION",100
@@ -266,6 +266,7 @@ ASN,Organization,IP_Count
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",28
+"AS136142","Enigma Fiber Pvt Ltd",28
 "AS141679","China Telecom",28
 "AS24940","Hetzner Online GmbH",28
 "AS2914","NTT America, Inc.",28
@@ -273,7 +274,6 @@ ASN,Organization,IP_Count
 "AS329490","Promethean Consulting Limited",28
 "AS401152","Ace Data Centers II, L.L.C.",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
-"AS136142","Enigma Fiber Pvt Ltd",27
 "AS17995","PT iForte Global Internet",27
 "AS34534","FBW NETWORKS SAS",27
 "AS41745","Baykov Ilya Sergeevich",27
