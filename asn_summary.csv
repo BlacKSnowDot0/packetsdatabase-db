@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",15904
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10924
-"AS14061","DigitalOcean, LLC",8749
+"AS14061","DigitalOcean, LLC",8750
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6134
 "AS4134","Chinanet",5194
@@ -22,7 +22,7 @@ ASN,Organization,IP_Count
 "AS8075","Microsoft Corporation",2959
 "AS6939","Hurricane Electric LLC",2920
 "AS213412","ONYPHE SAS",2795
-"AS23470","ReliableSite.Net LLC",2709
+"AS23470","ReliableSite.Net LLC",2710
 "AS142002","Scloud Pte Ltd",2621
 "AS9808","China Mobile",2089
 "AS202425","IP Volume inc",2079
@@ -60,7 +60,7 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",600
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",586
-"AS9009","M247 Europe SRL",585
+"AS9009","M247 Europe SRL",586
 "AS9829","Bharat Sanchar Nigam Ltd",570
 "AS53667","FranTech Solutions",562
 "AS31148","Freenet LTD",558
@@ -107,7 +107,7 @@ ASN,Organization,IP_Count
 "AS215240","Silent Connection Ltd.",175
 "AS42237","w1n ltd",174
 "AS401116","Nybula LLC",170
-"AS30083","velia.net",167
+"AS30083","velia.net",168
 "AS262551","Farol Telecom",157
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",150
@@ -124,8 +124,8 @@ ASN,Organization,IP_Count
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",112
 "AS40021","Nubes, LLC",111
+"AS47331","TTNet A.S.",111
 "AS208287","DC Host INC",110
-"AS47331","TTNet A.S.",110
 "AS199785","Cloud Hosting Solutions, Limited.",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",107
 "AS136435","ELITE COMMUNICATION",100
