@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87910
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22338
-"AS398324","Censys, Inc.",15886
+"AS398324","Censys, Inc.",15891
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10922
+"AS396982","Google LLC",10923
 "AS14061","DigitalOcean, LLC",8746
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6132
@@ -1417,6 +1417,7 @@ ASN,Organization,IP_Count
 "AS398991","X99",2
 "AS399065","Dixie EPA",2
 "AS39927","E-Light-Telecom Ltd.",2
+"AS399629","BL Networks",2
 "AS399804","Hostodo",2
 "AS399898","Conexon Connect",2
 "AS400136","Volt Broadband",2
@@ -2747,7 +2748,6 @@ ASN,Organization,IP_Count
 "AS398876","Round Valley Indian Tribes",1
 "AS398885","Aerwave, Inc.",1
 "AS399220","Finger Lakes Communications Group, Inc",1
-"AS399629","BL Networks",1
 "AS399725","ALAWEB Internet Services",1
 "AS399820","Atomic Networks LLC",1
 "AS400220","PearlComm",1
