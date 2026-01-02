@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87910
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22334
-"AS398324","Censys, Inc.",15872
+"AS398324","Censys, Inc.",15873
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10918
 "AS14061","DigitalOcean, LLC",8739
@@ -22,7 +22,7 @@ ASN,Organization,IP_Count
 "AS8075","Microsoft Corporation",2957
 "AS6939","Hurricane Electric LLC",2917
 "AS213412","ONYPHE SAS",2795
-"AS23470","ReliableSite.Net LLC",2674
+"AS23470","ReliableSite.Net LLC",2675
 "AS142002","Scloud Pte Ltd",2621
 "AS9808","China Mobile",2089
 "AS202425","IP Volume inc",2075
@@ -450,6 +450,7 @@ ASN,Organization,IP_Count
 "AS984","OCTOPUS WEB SOLUTION INC",12
 "AS11172","Alestra, S. de R.L. de C.V.",11
 "AS12271","Charter Communications Inc",11
+"AS13287","FALBOX S.L.",11
 "AS135059","Lao Asia Pacific Satellite Co., Ltd.",11
 "AS142032","High Family Technology Co., Limited",11
 "AS17552","TRUE INTERNET CORPORATION CO. LTD.",11
@@ -464,7 +465,6 @@ ASN,Organization,IP_Count
 "AS45820","TTSL-ISP DIVISION",11
 "AS48874","HOSTMAZE INC SRL-D",11
 "AS58563","CHINANET Hubei province network",11
-"AS13287","FALBOX S.L.",10
 "AS149359","PT Persada Data Multimedia",10
 "AS153443","VPSRE.NET LLC",10
 "AS16611","InfiniaHost.com",10
@@ -933,6 +933,7 @@ ASN,Organization,IP_Count
 "AS19331","Twin Lakes Telephone Cooperative Corporation",3
 "AS196949","Natalia Sergeevna Filicheva",3
 "AS199468","GRAIN COMMUNICATIONS LIMITED",3
+"AS200195","Verasel, Inc.",3
 "AS200359","Grupo Proveedor tecnologico Universal SL",3
 "AS20055","Wholesail networks LLC",3
 "AS203257","Layth Zuhair Zahid",3
@@ -1205,7 +1206,6 @@ ASN,Organization,IP_Count
 "AS199496","E-PORTS AMPLE DE BANDA I INTERNET S.L.",2
 "AS199739","Earthlink Telecommunications Equipment Trading & Services DMCC",2
 "AS199995","Omega Telecom LLC",2
-"AS200195","Verasel, Inc.",2
 "AS201409","HOSTSHIELD LTD",2
 "AS202103","Lanet Network Ltd",2
 "AS202422","G-Core Labs S.A.",2
@@ -1222,6 +1222,7 @@ ASN,Organization,IP_Count
 "AS20632","PJSC MegaFon",2
 "AS206476","Neten S.p.A.",2
 "AS206728","Media Land LLC",2
+"AS207459","TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI.",2
 "AS207802","Provider ""Setka"" LLC",2
 "AS208592","LLC ""NET SOLUTIONS""",2
 "AS209737","Meric Internet Teknolojileri A.S.",2
@@ -1990,7 +1991,6 @@ ASN,Organization,IP_Count
 "AS207227","Bootstrap srl",1
 "AS207369","Skynet Telecom, LLC",1
 "AS207375","Fiber Operator B.V.",1
-"AS207459","TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI.",1
 "AS207541","Eco Net d.o.o.",1
 "AS207594","Connectivia S.r.l",1
 "AS207645","F & W Networks Ltd",1
