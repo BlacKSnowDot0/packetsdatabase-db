@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87910
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22333
-"AS398324","Censys, Inc.",15870
+"AS398324","Censys, Inc.",15871
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10916
-"AS14061","DigitalOcean, LLC",8738
+"AS14061","DigitalOcean, LLC",8739
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6131
 "AS4134","Chinanet",5193
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1037
-"AS20052","Arbor Networks, Inc.",915
+"AS20052","Arbor Networks, Inc.",916
 "AS51852","Private Layer INC",907
 "AS51167","Contabo GmbH",900
 "AS208046","ColocationX Ltd.",875
@@ -69,7 +69,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
 "AS212238","Datacamp Limited",482
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",419
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",420
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
 "AS7018","AT&T Enterprises, LLC",404
@@ -512,6 +512,7 @@ ASN,Organization,IP_Count
 "AS56005","Zhengzhou Fastidc Technology Co.,Ltd.",9
 "AS8346","SONATEL-AS Autonomous System",9
 "AS9038","Batelco Jordan",9
+"AS1257","Tele2 Sverige AB",8
 "AS133982","Excitel Broadband Private Limited",8
 "AS137697","CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou , Jiangsu Province, P.",8
 "AS138754","Kerala Vision Broad Band Private Limited",8
@@ -543,7 +544,6 @@ ASN,Organization,IP_Count
 "AS8386","VODAFONE NET ILETISIM HIZMETLERI ANONIM SIRKETI",8
 "AS8551","Bezeq International Ltd.",8
 "AS9541","Cyber Internet Services (Private) Limited",8
-"AS1257","Tele2 Sverige AB",7
 "AS133661","Netplus Broadband Services Private Limited",7
 "AS13430","THE WISP.NET CORP.",7
 "AS135478","PT. Cyberindo Aditama",7
