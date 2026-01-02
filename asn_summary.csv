@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87911
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22341
-"AS398324","Censys, Inc.",15898
+"AS398324","Censys, Inc.",15899
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10924
-"AS14061","DigitalOcean, LLC",8747
+"AS14061","DigitalOcean, LLC",8748
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6132
 "AS4134","Chinanet",5194
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4382
 "AS45102","Alibaba (US) Technology Co., Ltd.",4305
 "AS396998","Path Network, Inc.",3992
-"AS0","",3909
+"AS0","",3910
 "AS63949","Akamai Technologies, Inc.",3731
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3264
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2621
 "AS9808","China Mobile",2089
 "AS202425","IP Volume inc",2078
-"AS32475","Internap Holding LLC",1763
+"AS32475","Internap Holding LLC",1764
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1572
 "AS49870","Alsycon B.V.",1556
@@ -94,9 +94,9 @@ ASN,Organization,IP_Count
 "AS60223","Netiface Limited",251
 "AS29066","velia.net Internetdienste GmbH",238
 "AS209272","Alviva Holding Limited",230
+"AS12389","PJSC Rostelecom",229
 "AS29484","Ruhr-Universitaet Bochum",229
 "AS701","Verizon Business",229
-"AS12389","PJSC Rostelecom",228
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS12555","Data-center IMAQLIQ Ltd.",213
@@ -125,7 +125,7 @@ ASN,Organization,IP_Count
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",112
 "AS40021","Nubes, LLC",111
 "AS208287","DC Host INC",110
-"AS47331","TTNet A.S.",109
+"AS47331","TTNet A.S.",110
 "AS199785","Cloud Hosting Solutions, Limited.",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",107
 "AS136435","ELITE COMMUNICATION",100
