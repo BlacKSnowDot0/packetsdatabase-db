@@ -5,10 +5,10 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",15880
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10921
-"AS14061","DigitalOcean, LLC",8740
+"AS14061","DigitalOcean, LLC",8742
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6131
-"AS4134","Chinanet",5193
+"AS4134","Chinanet",5194
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4468
 "AS16509","Amazon.com, Inc.",4382
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3264
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2958
+"AS8075","Microsoft Corporation",2959
 "AS6939","Hurricane Electric LLC",2918
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2676
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1570
 "AS49870","Alsycon B.V.",1556
 "AS36352","HostPapa",1501
-"AS398722","Censys, Inc.",1462
+"AS398722","Censys, Inc.",1463
 "AS13335","Cloudflare, Inc.",1454
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
@@ -92,11 +92,11 @@ ASN,Organization,IP_Count
 "AS18403","FPT Telecom Company",268
 "AS48090","TECHOFF SRV LIMITED",261
 "AS60223","Netiface Limited",251
-"AS29066","velia.net Internetdienste GmbH",237
+"AS29066","velia.net Internetdienste GmbH",238
 "AS209272","Alviva Holding Limited",230
 "AS29484","Ruhr-Universitaet Bochum",229
 "AS701","Verizon Business",229
-"AS12389","PJSC Rostelecom",226
+"AS12389","PJSC Rostelecom",227
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS12555","Data-center IMAQLIQ Ltd.",213
@@ -111,11 +111,11 @@ ASN,Organization,IP_Count
 "AS262551","Farol Telecom",157
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",150
-"AS8560","IONOS SE",148
+"AS8560","IONOS SE",149
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
 "AS13238","YANDEX LLC",134
-"AS151185","China Telecom",131
+"AS151185","China Telecom",132
 "AS4766","Korea Telecom",130
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
@@ -160,9 +160,9 @@ ASN,Organization,IP_Count
 "AS834","IPXO LLC",68
 "AS215590","DpkgSoft International Limited",67
 "AS328867","Corebach Backbone SARL",67
+"AS44477","STARK INDUSTRIES SOLUTIONS LTD",67
 "AS57588","Hayat for Internet & communication LLC",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
-"AS44477","STARK INDUSTRIES SOLUTIONS LTD",66
 "AS6128","Cablevision Systems Corp.",66
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
@@ -190,7 +190,7 @@ ASN,Organization,IP_Count
 "AS30058","FDCservers.net",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS210558","1337 Services GmbH",51
-"AS215762","Bullet Group LTD",50
+"AS215762","Bullet Group LTD",51
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",50
 "AS266181","GOLDEN LINK",48
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",47
