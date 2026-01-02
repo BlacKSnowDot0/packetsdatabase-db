@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87910
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22337
-"AS398324","Censys, Inc.",15882
+"AS211298","Driftnet Ltd",22338
+"AS398324","Censys, Inc.",15883
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10921
-"AS14061","DigitalOcean, LLC",8744
+"AS14061","DigitalOcean, LLC",8745
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6131
 "AS4134","Chinanet",5194
@@ -22,7 +22,7 @@ ASN,Organization,IP_Count
 "AS8075","Microsoft Corporation",2959
 "AS6939","Hurricane Electric LLC",2918
 "AS213412","ONYPHE SAS",2795
-"AS23470","ReliableSite.Net LLC",2676
+"AS23470","ReliableSite.Net LLC",2707
 "AS142002","Scloud Pte Ltd",2621
 "AS9808","China Mobile",2089
 "AS202425","IP Volume inc",2077
@@ -45,7 +45,7 @@ ASN,Organization,IP_Count
 "AS208684","BHA CONSEIL SARL",1039
 "AS20052","Arbor Networks, Inc.",917
 "AS51852","Private Layer INC",907
-"AS51167","Contabo GmbH",901
+"AS51167","Contabo GmbH",903
 "AS208046","ColocationX Ltd.",875
 "AS215925","VPSVAULT.HOST LTD",871
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -69,7 +69,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
 "AS212238","Datacamp Limited",482
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",420
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",421
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
 "AS7018","AT&T Enterprises, LLC",404
@@ -96,7 +96,7 @@ ASN,Organization,IP_Count
 "AS209272","Alviva Holding Limited",230
 "AS29484","Ruhr-Universitaet Bochum",229
 "AS701","Verizon Business",229
-"AS12389","PJSC Rostelecom",227
+"AS12389","PJSC Rostelecom",228
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS12555","Data-center IMAQLIQ Ltd.",213
