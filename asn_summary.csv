@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4468
 "AS16509","Amazon.com, Inc.",4382
-"AS45102","Alibaba (US) Technology Co., Ltd.",4304
+"AS45102","Alibaba (US) Technology Co., Ltd.",4305
 "AS396998","Path Network, Inc.",3992
 "AS0","",3908
 "AS63949","Akamai Technologies, Inc.",3731
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1556
 "AS36352","HostPapa",1502
 "AS398722","Censys, Inc.",1463
-"AS13335","Cloudflare, Inc.",1456
+"AS13335","Cloudflare, Inc.",1457
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
 "AS174","Cogent Communications",1312
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS20052","Arbor Networks, Inc.",917
 "AS51852","Private Layer INC",907
 "AS51167","Contabo GmbH",903
-"AS208046","ColocationX Ltd.",875
+"AS208046","ColocationX Ltd.",876
 "AS215925","VPSVAULT.HOST LTD",871
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -722,6 +722,7 @@ ASN,Organization,IP_Count
 "AS35682","BEST INTERNET SOLUTION XK",5
 "AS36914","Kenya Education Network",5
 "AS37061","Safaricom Limited",5
+"AS37228","KT RWANDA NETWORK Ltd",5
 "AS37337","MUNI S.A",5
 "AS3737","PenTeleData Inc.",5
 "AS38511","PT Remala Abadi",5
@@ -825,7 +826,6 @@ ASN,Organization,IP_Count
 "AS3356","Level 3 Communications, Inc.",4
 "AS35104","Jusan Mobile JSC",4
 "AS36994","Vodacom",4
-"AS37228","KT RWANDA NETWORK Ltd",4
 "AS37517","CABO VERDE TELECOM, S.A",4
 "AS395570","Beanfield Technologies Inc.",4
 "AS39816","Volta Communications Sp.z.o.o.",4
