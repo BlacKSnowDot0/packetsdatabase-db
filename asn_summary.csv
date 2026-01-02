@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87911
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22341
-"AS398324","Censys, Inc.",15897
+"AS398324","Censys, Inc.",15898
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10924
-"AS14061","DigitalOcean, LLC",8746
+"AS14061","DigitalOcean, LLC",8747
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6132
 "AS4134","Chinanet",5194
@@ -26,9 +26,9 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2621
 "AS9808","China Mobile",2089
 "AS202425","IP Volume inc",2078
-"AS32475","Internap Holding LLC",1762
+"AS32475","Internap Holding LLC",1763
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1571
+"AS209605","UAB Host Baltic",1572
 "AS49870","Alsycon B.V.",1556
 "AS36352","HostPapa",1502
 "AS398722","Censys, Inc.",1463
@@ -75,7 +75,7 @@ ASN,Organization,IP_Count
 "AS7018","AT&T Enterprises, LLC",404
 "AS47890","UNMANAGED LTD",398
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS21859","Zenlayer Inc",387
+"AS21859","Zenlayer Inc",388
 "AS7713","Telekomunikasi Indonesia (PT)",366
 "AS7922","Comcast Cable Communications, LLC",353
 "AS8151","Uninet S.A. de C.V.",341
@@ -224,12 +224,12 @@ ASN,Organization,IP_Count
 "AS8048","CANTV Servicios, Venezuela",39
 "AS9198","JSC Kazakhtelecom",39
 "AS149705","PT Wijaya Trimitra Indonesia",38
+"AS40676","Psychz Networks",38
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",38
 "AS9123","TimeWeb Ltd.",38
 "AS1680","Cellcom Fixed Line Communication L.P",37
 "AS197540","netcup GmbH",37
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",37
-"AS40676","Psychz Networks",37
 "AS42624","Global-Data System IT Corporation",37
 "AS8167","V tal",37
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",36
@@ -1342,6 +1342,7 @@ ASN,Organization,IP_Count
 "AS27323","Wowrack.com",2
 "AS27693","NipBr - NipCable do Brasil Telecom LTDA",2
 "AS27768","CO.PA.CO.",2
+"AS27823","Dattatec.com",2
 "AS27901","Pacifico Cable SPA.",2
 "AS28158","Ampernet Telecomunicações Ltda",2
 "AS28166","Telecom South America S/A",2
@@ -2529,7 +2530,6 @@ ASN,Organization,IP_Count
 "AS27720","CITTA TELECOM LTDA",1
 "AS27734","New Technologies Group N.V.",1
 "AS27800","Digicel Trinidad and Tobago Ltd.",1
-"AS27823","Dattatec.com",1
 "AS27828","UNIVERSIDAD MAYOR DE SAN ANDRES",1
 "AS27839","Comteco Ltda",1
 "AS27879","Informática y Telecomunicaciones S.A.",1
