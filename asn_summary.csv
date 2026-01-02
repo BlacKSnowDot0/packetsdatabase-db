@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87910
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22334
-"AS398324","Censys, Inc.",15873
+"AS211298","Driftnet Ltd",22335
+"AS398324","Censys, Inc.",15874
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10918
-"AS14061","DigitalOcean, LLC",8739
+"AS396982","Google LLC",10919
+"AS14061","DigitalOcean, LLC",8740
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6131
 "AS4134","Chinanet",5193
@@ -14,13 +14,13 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4382
 "AS45102","Alibaba (US) Technology Co., Ltd.",4304
 "AS396998","Path Network, Inc.",3992
-"AS0","",3898
+"AS0","",3899
 "AS63949","Akamai Technologies, Inc.",3730
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3264
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2957
-"AS6939","Hurricane Electric LLC",2917
+"AS6939","Hurricane Electric LLC",2918
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2676
 "AS142002","Scloud Pte Ltd",2621
@@ -642,6 +642,7 @@ ASN,Organization,IP_Count
 "AS36873","Airtel Networks Limited",6
 "AS36905","Creolink Communications",6
 "AS37492","Orange Tunisie",6
+"AS38365","Beijing Baidu Netcom Science and Technology Co., Ltd.",6
 "AS39521","TNGNET B.V.",6
 "AS397270","NetInformatik Inc.",6
 "AS399765","FasNET Services LLC",6
@@ -722,7 +723,6 @@ ASN,Organization,IP_Count
 "AS37061","Safaricom Limited",5
 "AS37337","MUNI S.A",5
 "AS3737","PenTeleData Inc.",5
-"AS38365","Beijing Baidu Netcom Science and Technology Co., Ltd.",5
 "AS38511","PT Remala Abadi",5
 "AS39065","Southern Telecommunication Company Ltd.",5
 "AS39608","Lanet Network Ltd",5
