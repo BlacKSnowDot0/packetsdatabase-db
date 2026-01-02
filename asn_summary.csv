@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22338
 "AS398324","Censys, Inc.",15891
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10923
+"AS396982","Google LLC",10924
 "AS14061","DigitalOcean, LLC",8746
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6132
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",780
-"AS10439","CariNet, Inc.",767
+"AS10439","CariNet, Inc.",768
 "AS14618","Amazon.com, Inc.",752
 "AS4837","CHINA UNICOM China169 Backbone",634
 "AS12876","ONLINE S.A.S.",630
@@ -69,7 +69,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
 "AS212238","Datacamp Limited",482
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",422
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",423
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
 "AS7018","AT&T Enterprises, LLC",404
@@ -517,6 +517,7 @@ ASN,Organization,IP_Count
 "AS137697","CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou , Jiangsu Province, P.",8
 "AS138754","Kerala Vision Broad Band Private Limited",8
 "AS141295","Madhya Pradesh Agency For Promotion   Of Information Technology",8
+"AS17858","LG POWERCOMM",8
 "AS17882","MCS Com Co Ltd",8
 "AS18209","Atria Convergence Technologies Pvt. Ltd.,",8
 "AS18986","Calligo (Canada) Inc.",8
@@ -555,7 +556,6 @@ ASN,Organization,IP_Count
 "AS150034","FOFO NETWORKS PVT LTD",7
 "AS153096","PT High Speed Connection Network",7
 "AS17762","Tata Teleservices (Maharashtra) Ltd",7
-"AS17858","LG POWERCOMM",7
 "AS19148","Leaseweb USA, Inc.",7
 "AS203459","AL-MARAJ AL-ALAMIYA Co",7
 "AS203684","Imen Sanat Novin Alighapoo Private Joint Stock Company",7
