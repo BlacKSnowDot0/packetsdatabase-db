@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87910
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22338
-"AS398324","Censys, Inc.",15892
+"AS398324","Censys, Inc.",15893
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10924
 "AS14061","DigitalOcean, LLC",8746
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3264
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2959
-"AS6939","Hurricane Electric LLC",2918
+"AS6939","Hurricane Electric LLC",2919
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2708
 "AS142002","Scloud Pte Ltd",2621
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1570
 "AS49870","Alsycon B.V.",1556
-"AS36352","HostPapa",1501
+"AS36352","HostPapa",1502
 "AS398722","Censys, Inc.",1463
 "AS13335","Cloudflare, Inc.",1456
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -107,11 +107,11 @@ ASN,Organization,IP_Count
 "AS215240","Silent Connection Ltd.",175
 "AS42237","w1n ltd",174
 "AS401116","Nybula LLC",170
-"AS30083","velia.net",166
+"AS30083","velia.net",167
 "AS262551","Farol Telecom",157
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",150
-"AS8560","IONOS SE",149
+"AS8560","IONOS SE",150
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
 "AS13238","YANDEX LLC",134
@@ -684,6 +684,7 @@ ASN,Organization,IP_Count
 "AS18229","CtrlS",5
 "AS18809","Cable Onda",5
 "AS198983","Joseph Hofmann trading as 'Tornado Datacenter GmbH & Co. KG'",5
+"AS199152","Virtual Data Center Inc",5
 "AS202468","Noyan Abr Arvan Co. ( Private Joint Stock)",5
 "AS20412","Clarity Telecom LLC",5
 "AS207656","Epinatura LLC",5
@@ -776,7 +777,6 @@ ASN,Organization,IP_Count
 "AS15802","Emirates Integrated Telecommunications Company PJSC",4
 "AS15924","Vodafone Net Iletisim Hizmetler AS",4
 "AS197450","SUNUCUN BILGI ILETISIM TEKNOLOJILERI VE TICARET LIMITED SIRKETI",4
-"AS199152","Virtual Data Center Inc",4
 "AS199524","G-Core Labs S.A.",4
 "AS200845","AVATEL TELECOM, SA",4
 "AS20150","anyNode",4
