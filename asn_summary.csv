@@ -4,8 +4,8 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22345
 "AS398324","Censys, Inc.",15946
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10932
-"AS14061","DigitalOcean, LLC",8758
+"AS396982","Google LLC",10933
+"AS14061","DigitalOcean, LLC",8759
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6138
 "AS4134","Chinanet",5196
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS209605","UAB Host Baltic",1572
 "AS36352","HostPapa",1505
 "AS398722","Censys, Inc.",1466
-"AS13335","Cloudflare, Inc.",1457
+"AS13335","Cloudflare, Inc.",1458
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
 "AS174","Cogent Communications",1316
@@ -187,9 +187,9 @@ ASN,Organization,IP_Count
 "AS206092","Internet Utilities Europe and Asia Limited",55
 "AS200590","NLS Kazakhstan LLC",54
 "AS213877","u1host ltd",54
+"AS215762","Bullet Group LTD",54
 "AS30058","FDCservers.net",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
-"AS215762","Bullet Group LTD",53
 "AS210558","1337 Services GmbH",51
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",50
 "AS266181","GOLDEN LINK",48
@@ -1016,6 +1016,7 @@ ASN,Organization,IP_Count
 "AS36925","MEDITELECOM",3
 "AS37049","South African Digital Villages (Pty) Ltd",3
 "AS37671","3S INF",3
+"AS38700","SMILESERV",3
 "AS399244","AME Hosting LLC",3
 "AS40065","CNSERVERS LLC",3
 "AS41704","JSC ""Ufanet""",3
@@ -1407,7 +1408,6 @@ ASN,Organization,IP_Count
 "AS37693","OOREDOO TUNISIE SA",2
 "AS38200","BTS Communications (BD) Ltd",2
 "AS38333","Symbio Networks Pty Ltd",2
-"AS38700","SMILESERV",2
 "AS38732","CMC Telecom Infrastructure Company",2
 "AS39232","Uninet LLC",2
 "AS39308","ANDISHE SABZ KHAZAR CO. P.J.S.",2
