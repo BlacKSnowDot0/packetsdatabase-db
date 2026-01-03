@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4382
 "AS45102","Alibaba (US) Technology Co., Ltd.",4316
 "AS396998","Path Network, Inc.",3992
-"AS0","",3915
+"AS0","",3916
 "AS63949","Akamai Technologies, Inc.",3732
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3265
@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2621
 "AS9808","China Mobile",2089
 "AS202425","IP Volume inc",2084
-"AS32475","Internap Holding LLC",1770
+"AS32475","Internap Holding LLC",1771
 "AS214295","SKYNET NETWORK LTD",1631
 "AS49870","Alsycon B.V.",1578
 "AS209605","UAB Host Baltic",1572
@@ -42,7 +42,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
-"AS208684","BHA CONSEIL SARL",1039
+"AS208684","BHA CONSEIL SARL",1040
 "AS20052","Arbor Networks, Inc.",918
 "AS51852","Private Layer INC",907
 "AS51167","Contabo GmbH",906
@@ -93,9 +93,9 @@ ASN,Organization,IP_Count
 "AS48090","TECHOFF SRV LIMITED",261
 "AS60223","Netiface Limited",251
 "AS29066","velia.net Internetdienste GmbH",238
-"AS12389","PJSC Rostelecom",230
+"AS12389","PJSC Rostelecom",231
 "AS209272","Alviva Holding Limited",230
-"AS29484","Ruhr-Universitaet Bochum",229
+"AS29484","Ruhr-Universitaet Bochum",230
 "AS701","Verizon Business",229
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
@@ -114,7 +114,7 @@ ASN,Organization,IP_Count
 "AS14956","RouterHosting LLC",150
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
-"AS13238","YANDEX LLC",134
+"AS13238","YANDEX LLC",135
 "AS151185","China Telecom",132
 "AS4766","Korea Telecom",132
 "AS137409","GSL Networks Pty LTD",128
@@ -1027,6 +1027,7 @@ ASN,Organization,IP_Count
 "AS42772","Unitary enterprise A1",3
 "AS43047","Stream-Network Ltd.",3
 "AS43350","NForce Entertainment B.V.",3
+"AS43708","DATAMAT CZ s.r.o.",3
 "AS44866","FOP Fedasiuk Oksana Petrivna",3
 "AS44925","1984 ehf",3
 "AS45544","SUPERDATA-VN",3
@@ -1439,7 +1440,6 @@ ASN,Organization,IP_Count
 "AS43060","IPLUS LLC",2
 "AS43278","Castles LLC",2
 "AS43656","KP Intertelecom Ltd",2
-"AS43708","DATAMAT CZ s.r.o.",2
 "AS43764","LLC ""Electron-sevlush""",2
 "AS43766","Mobile Telecommunication Company Saudi Arabia Joint-Stock company",2
 "AS44032","PP ""TRC""City TV center""",2
