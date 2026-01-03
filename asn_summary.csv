@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87912
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22342
-"AS398324","Censys, Inc.",15913
+"AS398324","Censys, Inc.",15915
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10928
 "AS14061","DigitalOcean, LLC",8754
@@ -25,7 +25,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2711
 "AS142002","Scloud Pte Ltd",2621
 "AS9808","China Mobile",2089
-"AS202425","IP Volume inc",2081
+"AS202425","IP Volume inc",2082
 "AS32475","Internap Holding LLC",1768
 "AS214295","SKYNET NETWORK LTD",1631
 "AS49870","Alsycon B.V.",1578
@@ -45,7 +45,7 @@ ASN,Organization,IP_Count
 "AS208684","BHA CONSEIL SARL",1039
 "AS20052","Arbor Networks, Inc.",917
 "AS51852","Private Layer INC",907
-"AS51167","Contabo GmbH",905
+"AS51167","Contabo GmbH",906
 "AS208046","ColocationX Ltd.",876
 "AS215925","VPSVAULT.HOST LTD",872
 "AS9465","AGOTOZ PTE. LTD.",845
@@ -220,11 +220,11 @@ ASN,Organization,IP_Count
 "AS5089","Virgin Media Limited",40
 "AS1103","SURF B.V.",39
 "AS329009","Spectrum Internet Service Ltd",39
+"AS40676","Psychz Networks",39
 "AS4538","China Education and Research Network Center",39
 "AS8048","CANTV Servicios, Venezuela",39
 "AS9198","JSC Kazakhtelecom",39
 "AS149705","PT Wijaya Trimitra Indonesia",38
-"AS40676","Psychz Networks",38
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",38
 "AS9123","TimeWeb Ltd.",38
 "AS1680","Cellcom Fixed Line Communication L.P",37
@@ -340,13 +340,13 @@ ASN,Organization,IP_Count
 "AS22927","Telefonica de Argentina",19
 "AS24757","EthioNet",19
 "AS262287","Maxihost LTDA",19
+"AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",19
 "AS49531","""NetCom-R"" LLC",19
 "AS60781","LeaseWeb Netherlands B.V.",19
 "AS6167","Verizon Business",19
 "AS6697","Republican Unitary Telecommunication Enterprise Beltelecom",19
 "AS18049","Taiwan Infrastructure Network Technologie",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
-"AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",18
 "AS33363","Charter Communications, Inc",18
 "AS39603","P4 Sp. z o.o.",18
 "AS400655","NixLabs Networks",18
@@ -828,6 +828,7 @@ ASN,Organization,IP_Count
 "AS36994","Vodacom",4
 "AS37517","CABO VERDE TELECOM, S.A",4
 "AS395570","Beanfield Technologies Inc.",4
+"AS395954","Leaseweb USA, Inc.",4
 "AS39816","Volta Communications Sp.z.o.o.",4
 "AS39891","Saudi Telecom Company JSC",4
 "AS399296","Rackdog, LLC",4
@@ -1015,7 +1016,6 @@ ASN,Organization,IP_Count
 "AS36925","MEDITELECOM",3
 "AS37049","South African Digital Villages (Pty) Ltd",3
 "AS37671","3S INF",3
-"AS395954","Leaseweb USA, Inc.",3
 "AS399244","AME Hosting LLC",3
 "AS40065","CNSERVERS LLC",3
 "AS41704","JSC ""Ufanet""",3
@@ -2913,6 +2913,7 @@ ASN,Organization,IP_Count
 "AS52363","Jumpnet Soluciones de Internet S.R.L.",1
 "AS52413","MADACOM SRL",1
 "AS52426","I-SUR WISP S.R.L.",1
+"AS52447","Cooperativa Telefonica y Otros Servicios de Santa Clara del Mar Limitada Cootels",1
 "AS52490","COOPERATIVA DE ELECTRICIDAD DE PEDRO LURO",1
 "AS52507","Pampacom S.R.L.",1
 "AS52527","IWNET TELECOM LTDA ME",1
