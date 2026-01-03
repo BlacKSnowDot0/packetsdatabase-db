@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22345
 "AS398324","Censys, Inc.",15946
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10933
+"AS396982","Google LLC",10934
 "AS14061","DigitalOcean, LLC",8759
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6138
@@ -25,8 +25,8 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2713
 "AS142002","Scloud Pte Ltd",2621
 "AS9808","China Mobile",2089
-"AS202425","IP Volume inc",2086
-"AS32475","Internap Holding LLC",1772
+"AS202425","IP Volume inc",2087
+"AS32475","Internap Holding LLC",1773
 "AS214295","SKYNET NETWORK LTD",1631
 "AS49870","Alsycon B.V.",1578
 "AS209605","UAB Host Baltic",1572
@@ -108,7 +108,7 @@ ASN,Organization,IP_Count
 "AS42237","w1n ltd",174
 "AS401116","Nybula LLC",170
 "AS30083","velia.net",168
-"AS8560","IONOS SE",161
+"AS8560","IONOS SE",162
 "AS262551","Farol Telecom",157
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",151
@@ -135,8 +135,8 @@ ASN,Organization,IP_Count
 "AS5617","Orange Polska Spolka Akcyjna",94
 "AS205352","KABELNET LTD",93
 "AS23724","IDC, China Telecommunications Corporation",91
+"AS16735","ALGAR TELECOM S/A",90
 "AS396356","Latitude.sh",90
-"AS16735","ALGAR TELECOM S/A",89
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS8402","PJSC ""Vimpelcom""",88
 "AS271795","SERVITELCONET CIA. LTDA.",85
@@ -2429,6 +2429,7 @@ ASN,Organization,IP_Count
 "AS269435","SISTEL FIBRA SERVICOS DE COMUNICACAO MULTIMIDIA LT",1
 "AS269460","NEW NET LG SOLUCOES TELECOMUNICACOES E INFORMATICA",1
 "AS269485","JRNETWORKS Telecom",1
+"AS269499","FIBRALINK INTERNET E TELECOMUNICACOES LTDA",1
 "AS269508","M. A. L. V. da Silva Júnior e Cia Ltda",1
 "AS269570","Polly Tecnologia e Computadores Eireli-ME",1
 "AS269585","TOPLINK INTERNET E SERVIÇOS DE INFORMATICA LTDA",1
