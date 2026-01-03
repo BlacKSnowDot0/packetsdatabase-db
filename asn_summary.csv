@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87912
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22345
-"AS398324","Censys, Inc.",15949
+"AS398324","Censys, Inc.",15951
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10934
-"AS14061","DigitalOcean, LLC",8762
+"AS396982","Google LLC",10935
+"AS14061","DigitalOcean, LLC",8763
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6140
 "AS4134","Chinanet",5196
@@ -22,7 +22,7 @@ ASN,Organization,IP_Count
 "AS8075","Microsoft Corporation",2963
 "AS6939","Hurricane Electric LLC",2928
 "AS213412","ONYPHE SAS",2795
-"AS23470","ReliableSite.Net LLC",2714
+"AS23470","ReliableSite.Net LLC",2715
 "AS142002","Scloud Pte Ltd",2621
 "AS9808","China Mobile",2089
 "AS202425","IP Volume inc",2087
@@ -115,7 +115,7 @@ ASN,Organization,IP_Count
 "AS6739","VODAFONE ONO, S.A.",142
 "AS47105","Vault Dweller OU",141
 "AS13238","YANDEX LLC",135
-"AS4766","Korea Telecom",133
+"AS4766","Korea Telecom",134
 "AS151185","China Telecom",132
 "AS137409","GSL Networks Pty LTD",128
 "AS19905","Neustar Security Services",127
@@ -376,6 +376,7 @@ ASN,Organization,IP_Count
 "AS328539","Giga for Telecommunication and Technology Limited",16
 "AS39351","31173 Services AB",16
 "AS46261","QuickPacket, LLC",16
+"AS59134","PT. Datacomm Diangraha",16
 "AS6597","Coloblox Data Centers Inc",16
 "AS1267","RIPE Network Coordination Centre",15
 "AS12849","Hot-Net internet services Ltd.",15
@@ -385,6 +386,7 @@ ASN,Organization,IP_Count
 "AS199414","Noah Kolossa",15
 "AS20011","Dimension Data",15
 "AS202448","MVPS LTD",15
+"AS209588","Flyservers S.A.",15
 "AS211619","MAXKO d.o.o.",15
 "AS212027","Daniel Jackson",15
 "AS214209","Internet Magnate (Pty) Ltd",15
@@ -396,7 +398,6 @@ ASN,Organization,IP_Count
 "AS31113","Artkomm LLC",15
 "AS397283","RocketNode Inc",15
 "AS48282","Hosting technology LTD",15
-"AS59134","PT. Datacomm Diangraha",15
 "AS6327","Shaw Communications Inc.",15
 "AS64236","UnReal Servers, LLC",15
 "AS6849","JSC ""Ukrtelecom""",15
@@ -405,7 +406,6 @@ ASN,Organization,IP_Count
 "AS12400","Partner Communications Ltd.",14
 "AS17639","ComClark Network & Technology Corp",14
 "AS204104","Giti Secure Cloud LLC",14
-"AS209588","Flyservers S.A.",14
 "AS213438","ColocaTel Inc.",14
 "AS266015","JC2000 Telecomunicações Ltda",14
 "AS27947","Telconet S.A",14
@@ -1733,6 +1733,7 @@ ASN,Organization,IP_Count
 "AS139378","PT. NEX Solusi Teknologi",1
 "AS139415","PT Trinity Teknologi Nusantara",1
 "AS139425","PT RESTU PANCA ALAM",1
+"AS139449","PT Lintas Data Multimedia",1
 "AS139490","Aspt Networks Pvt Ltd",1
 "AS139565","Kord Broadband Services Pvt Ltd",1
 "AS139567","Nirija Solutions Private Limited",1
