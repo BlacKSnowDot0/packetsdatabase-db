@@ -26,7 +26,7 @@ ASN,Organization,IP_Count
 "AS142002","Scloud Pte Ltd",2621
 "AS9808","China Mobile",2089
 "AS202425","IP Volume inc",2087
-"AS32475","Internap Holding LLC",1776
+"AS32475","Internap Holding LLC",1778
 "AS214295","SKYNET NETWORK LTD",1631
 "AS49870","Alsycon B.V.",1578
 "AS209605","UAB Host Baltic",1573
@@ -61,7 +61,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",586
 "AS9009","M247 Europe SRL",586
-"AS9829","Bharat Sanchar Nigam Ltd",574
+"AS9829","Bharat Sanchar Nigam Ltd",575
 "AS53667","FranTech Solutions",565
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
@@ -135,8 +135,8 @@ ASN,Organization,IP_Count
 "AS5617","Orange Polska Spolka Akcyjna",94
 "AS205352","KABELNET LTD",93
 "AS23724","IDC, China Telecommunications Corporation",91
+"AS396356","Latitude.sh",91
 "AS16735","ALGAR TELECOM S/A",90
-"AS396356","Latitude.sh",90
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS8402","PJSC ""Vimpelcom""",88
 "AS271795","SERVITELCONET CIA. LTDA.",85
@@ -2067,6 +2067,7 @@ ASN,Organization,IP_Count
 "AS215623","OOO ""LUGALINK""",1
 "AS215691","AP INTERACTIVE SOLUTIONS SL",1
 "AS215826","Partner Hosting LTD",1
+"AS215929","Data Campus Limited",1
 "AS216135","PEDRERA TELECOM SL",1
 "AS21632","Cybernet1",1
 "AS21766","BEN LOMAND RURAL TELEPHONE COOPERATIVE, INC.",1
