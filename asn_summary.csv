@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87912
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22344
-"AS398324","Censys, Inc.",15937
+"AS398324","Censys, Inc.",15941
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10931
 "AS14061","DigitalOcean, LLC",8755
@@ -20,12 +20,12 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3265
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2963
-"AS6939","Hurricane Electric LLC",2926
+"AS6939","Hurricane Electric LLC",2927
 "AS213412","ONYPHE SAS",2795
-"AS23470","ReliableSite.Net LLC",2712
+"AS23470","ReliableSite.Net LLC",2713
 "AS142002","Scloud Pte Ltd",2621
 "AS9808","China Mobile",2089
-"AS202425","IP Volume inc",2085
+"AS202425","IP Volume inc",2086
 "AS32475","Internap Holding LLC",1771
 "AS214295","SKYNET NETWORK LTD",1631
 "AS49870","Alsycon B.V.",1578
@@ -93,7 +93,7 @@ ASN,Organization,IP_Count
 "AS48090","TECHOFF SRV LIMITED",261
 "AS60223","Netiface Limited",251
 "AS29066","velia.net Internetdienste GmbH",243
-"AS12389","PJSC Rostelecom",232
+"AS12389","PJSC Rostelecom",233
 "AS209272","Alviva Holding Limited",230
 "AS29484","Ruhr-Universitaet Bochum",230
 "AS701","Verizon Business",229
@@ -112,8 +112,8 @@ ASN,Organization,IP_Count
 "AS262551","Farol Telecom",157
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",151
+"AS6739","VODAFONE ONO, S.A.",142
 "AS47105","Vault Dweller OU",141
-"AS6739","VODAFONE ONO, S.A.",141
 "AS13238","YANDEX LLC",135
 "AS4766","Korea Telecom",133
 "AS151185","China Telecom",132
@@ -226,9 +226,9 @@ ASN,Organization,IP_Count
 "AS9198","JSC Kazakhtelecom",39
 "AS149705","PT Wijaya Trimitra Indonesia",38
 "AS1680","Cellcom Fixed Line Communication L.P",38
+"AS197540","netcup GmbH",38
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",38
 "AS9123","TimeWeb Ltd.",38
-"AS197540","netcup GmbH",37
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",37
 "AS42624","Global-Data System IT Corporation",37
 "AS8167","V tal",37
