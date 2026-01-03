@@ -8,13 +8,13 @@ ASN,Organization,IP_Count
 "AS14061","DigitalOcean, LLC",8754
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6138
-"AS4134","Chinanet",5195
+"AS4134","Chinanet",5196
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4468
 "AS16509","Amazon.com, Inc.",4382
 "AS45102","Alibaba (US) Technology Co., Ltd.",4316
 "AS396998","Path Network, Inc.",3992
-"AS0","",3917
+"AS0","",3919
 "AS63949","Akamai Technologies, Inc.",3732
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3265
@@ -30,12 +30,12 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS49870","Alsycon B.V.",1578
 "AS209605","UAB Host Baltic",1572
-"AS36352","HostPapa",1504
+"AS36352","HostPapa",1505
 "AS398722","Censys, Inc.",1465
 "AS13335","Cloudflare, Inc.",1457
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
-"AS174","Cogent Communications",1315
+"AS174","Cogent Communications",1316
 "AS215269","LAZYCLOUD LTD",1312
 "AS22552","eSited Solutions",1204
 "AS204428","SS-Net",1182
@@ -111,7 +111,7 @@ ASN,Organization,IP_Count
 "AS8560","IONOS SE",160
 "AS262551","Farol Telecom",157
 "AS206264","Amarutu Technology Ltd",153
-"AS14956","RouterHosting LLC",150
+"AS14956","RouterHosting LLC",151
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
 "AS13238","YANDEX LLC",135
