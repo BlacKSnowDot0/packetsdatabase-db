@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22342
 "AS398324","Censys, Inc.",15923
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10929
+"AS396982","Google LLC",10930
 "AS14061","DigitalOcean, LLC",8754
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6138
@@ -25,8 +25,8 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2711
 "AS142002","Scloud Pte Ltd",2621
 "AS9808","China Mobile",2089
-"AS202425","IP Volume inc",2082
-"AS32475","Internap Holding LLC",1769
+"AS202425","IP Volume inc",2083
+"AS32475","Internap Holding LLC",1770
 "AS214295","SKYNET NETWORK LTD",1631
 "AS49870","Alsycon B.V.",1578
 "AS209605","UAB Host Baltic",1572
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1039
-"AS20052","Arbor Networks, Inc.",917
+"AS20052","Arbor Networks, Inc.",918
 "AS51852","Private Layer INC",907
 "AS51167","Contabo GmbH",906
 "AS208046","ColocationX Ltd.",876
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",780
-"AS10439","CariNet, Inc.",768
+"AS10439","CariNet, Inc.",769
 "AS14618","Amazon.com, Inc.",752
 "AS4837","CHINA UNICOM China169 Backbone",637
 "AS12876","ONLINE S.A.S.",631
@@ -102,15 +102,15 @@ ASN,Organization,IP_Count
 "AS12555","Data-center IMAQLIQ Ltd.",214
 "AS63199","CDS Global Cloud Co., Ltd",201
 "AS50219","LNK SYSTEMS MUNTENIA SRL",191
-"AS34984","Superonline Iletisim Hizmetleri A.S.",182
+"AS34984","Superonline Iletisim Hizmetleri A.S.",183
 "AS7552","Viettel Group",182
 "AS215240","Silent Connection Ltd.",175
 "AS42237","w1n ltd",174
 "AS401116","Nybula LLC",170
 "AS30083","velia.net",168
 "AS262551","Farol Telecom",157
+"AS8560","IONOS SE",155
 "AS206264","Amarutu Technology Ltd",153
-"AS8560","IONOS SE",153
 "AS14956","RouterHosting LLC",150
 "AS47105","Vault Dweller OU",141
 "AS6739","VODAFONE ONO, S.A.",141
@@ -259,6 +259,7 @@ ASN,Organization,IP_Count
 "AS3269","Telecom Italia S.p.A.",30
 "AS401152","Ace Data Centers II, L.L.C.",30
 "AS4713","NTT Communications Corporation",30
+"AS136142","Enigma Fiber Pvt Ltd",29
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",29
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",29
 "AS3786","LG DACOM Corporation",29
@@ -267,7 +268,6 @@ ASN,Organization,IP_Count
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",28
-"AS136142","Enigma Fiber Pvt Ltd",28
 "AS141679","China Telecom",28
 "AS24940","Hetzner Online GmbH",28
 "AS2914","NTT America, Inc.",28
