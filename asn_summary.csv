@@ -61,7 +61,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",586
 "AS9009","M247 Europe SRL",586
-"AS9829","Bharat Sanchar Nigam Ltd",571
+"AS9829","Bharat Sanchar Nigam Ltd",572
 "AS53667","FranTech Solutions",563
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
@@ -109,7 +109,7 @@ ASN,Organization,IP_Count
 "AS401116","Nybula LLC",170
 "AS30083","velia.net",168
 "AS262551","Farol Telecom",157
-"AS8560","IONOS SE",155
+"AS8560","IONOS SE",157
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",150
 "AS47105","Vault Dweller OU",141
@@ -1035,6 +1035,7 @@ ASN,Organization,IP_Count
 "AS45916","Gujarat Telelink Pvt Ltd",3
 "AS4621","Office of Info.Tech. Admin. for Educational Development",3
 "AS47154","HUSAM A. H. HIJAZI",3
+"AS4764","Wideband Networks Pty Ltd",3
 "AS4804","SingTel Optus Pty Ltd",3
 "AS4818","DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",3
 "AS48411","FOP Samoylenko Oleksandr Volodymirovich",3
@@ -1463,7 +1464,6 @@ ASN,Organization,IP_Count
 "AS47304","NEF Fonden",2
 "AS47394","""Albanian Satellite Communications"" sh.p.k.",2
 "AS47441","Comfortel Ltd.",2
-"AS4764","Wideband Networks Pty Ltd",2
 "AS4773","M1 LIMITED",2
 "AS4787","PT Cyberindo Aditama",2
 "AS48004","PE Tsibrankov Konstantin Igorevich",2
