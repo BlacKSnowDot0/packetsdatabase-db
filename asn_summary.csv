@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87912
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22341
-"AS398324","Censys, Inc.",15906
+"AS398324","Censys, Inc.",15908
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10926
+"AS396982","Google LLC",10927
 "AS14061","DigitalOcean, LLC",8754
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6134
@@ -12,20 +12,20 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4468
 "AS16509","Amazon.com, Inc.",4382
-"AS45102","Alibaba (US) Technology Co., Ltd.",4306
+"AS45102","Alibaba (US) Technology Co., Ltd.",4309
 "AS396998","Path Network, Inc.",3992
 "AS0","",3912
 "AS63949","Akamai Technologies, Inc.",3732
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3264
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2959
+"AS8075","Microsoft Corporation",2961
 "AS6939","Hurricane Electric LLC",2920
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2710
 "AS142002","Scloud Pte Ltd",2621
 "AS9808","China Mobile",2089
-"AS202425","IP Volume inc",2080
+"AS202425","IP Volume inc",2081
 "AS32475","Internap Holding LLC",1767
 "AS214295","SKYNET NETWORK LTD",1631
 "AS49870","Alsycon B.V.",1578
@@ -54,8 +54,8 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",780
 "AS10439","CariNet, Inc.",768
 "AS14618","Amazon.com, Inc.",752
-"AS4837","CHINA UNICOM China169 Backbone",634
-"AS12876","ONLINE S.A.S.",630
+"AS4837","CHINA UNICOM China169 Backbone",635
+"AS12876","ONLINE S.A.S.",631
 "AS51115","HLL LLC",628
 "AS201814","MEVSPACE sp. z o.o.",600
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -122,8 +122,8 @@ ASN,Organization,IP_Count
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",126
 "AS36007","Kamatera, Inc.",122
 "AS211298","Constantine Cybersecurity Ltd.",113
-"AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",112
-"AS40021","Nubes, LLC",111
+"AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",113
+"AS40021","Nubes, LLC",112
 "AS47331","TTNet A.S.",111
 "AS208287","DC Host INC",110
 "AS199785","Cloud Hosting Solutions, Limited.",107
@@ -157,7 +157,7 @@ ASN,Organization,IP_Count
 "AS55720","Gigabit Hosting Sdn Bhd",71
 "AS149746","PT Blip Integrator Provider",70
 "AS52053","REDHEBERG Association declaree",69
-"AS834","IPXO LLC",68
+"AS834","IPXO LLC",69
 "AS215590","DpkgSoft International Limited",67
 "AS328867","Corebach Backbone SARL",67
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",67
@@ -256,11 +256,11 @@ ASN,Organization,IP_Count
 "AS852","TELUS Communications Inc.",31
 "AS200593","PROSPERO OOO",30
 "AS214417","Andrii Hrosh",30
+"AS3269","Telecom Italia S.p.A.",30
 "AS401152","Ace Data Centers II, L.L.C.",30
 "AS4713","NTT Communications Corporation",30
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",29
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",29
-"AS3269","Telecom Italia S.p.A.",29
 "AS3786","LG DACOM Corporation",29
 "AS58212","dataforest GmbH",29
 "AS6134","XNNET LLC",29
