@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87912
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22344
-"AS398324","Censys, Inc.",15923
+"AS398324","Censys, Inc.",15924
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10930
+"AS396982","Google LLC",10931
 "AS14061","DigitalOcean, LLC",8754
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6138
@@ -14,12 +14,12 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4382
 "AS45102","Alibaba (US) Technology Co., Ltd.",4316
 "AS396998","Path Network, Inc.",3992
-"AS0","",3914
+"AS0","",3915
 "AS63949","Akamai Technologies, Inc.",3732
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3265
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2961
+"AS8075","Microsoft Corporation",2962
 "AS6939","Hurricane Electric LLC",2925
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2711
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1578
 "AS209605","UAB Host Baltic",1572
 "AS36352","HostPapa",1504
-"AS398722","Censys, Inc.",1464
+"AS398722","Censys, Inc.",1465
 "AS13335","Cloudflare, Inc.",1457
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
@@ -93,8 +93,8 @@ ASN,Organization,IP_Count
 "AS48090","TECHOFF SRV LIMITED",261
 "AS60223","Netiface Limited",251
 "AS29066","velia.net Internetdienste GmbH",238
+"AS12389","PJSC Rostelecom",230
 "AS209272","Alviva Holding Limited",230
-"AS12389","PJSC Rostelecom",229
 "AS29484","Ruhr-Universitaet Bochum",229
 "AS701","Verizon Business",229
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
