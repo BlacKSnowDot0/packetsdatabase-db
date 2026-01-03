@@ -61,8 +61,8 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",586
 "AS9009","M247 Europe SRL",586
-"AS9829","Bharat Sanchar Nigam Ltd",573
-"AS53667","FranTech Solutions",564
+"AS9829","Bharat Sanchar Nigam Ltd",574
+"AS53667","FranTech Solutions",565
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS198953","Proton66 OOO",527
@@ -107,7 +107,7 @@ ASN,Organization,IP_Count
 "AS215240","Silent Connection Ltd.",175
 "AS42237","w1n ltd",174
 "AS401116","Nybula LLC",170
-"AS30083","velia.net",168
+"AS30083","velia.net",169
 "AS8560","IONOS SE",162
 "AS262551","Farol Telecom",157
 "AS206264","Amarutu Technology Ltd",153
@@ -201,12 +201,12 @@ ASN,Organization,IP_Count
 "AS141995","Contabo Asia Private Limited",45
 "AS12322","Free SAS",44
 "AS20473","The Constant Company, LLC",44
+"AS28546","Servnet Mexico, S.A. de C.V.",44
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",44
 "AS152194","CTG Server Limited",43
 "AS21928","T-Mobile USA, Inc.",43
-"AS28546","Servnet Mexico, S.A. de C.V.",43
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS23969","TOT Public Company Limited",42
 "AS262378","Compuservice Empreendimentos Ltda",42
@@ -344,13 +344,13 @@ ASN,Organization,IP_Count
 "AS49531","""NetCom-R"" LLC",19
 "AS60781","LeaseWeb Netherlands B.V.",19
 "AS6167","Verizon Business",19
+"AS62068","SpectraIP B.V.",19
 "AS6697","Republican Unitary Telecommunication Enterprise Beltelecom",19
 "AS18049","Taiwan Infrastructure Network Technologie",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
 "AS33363","Charter Communications, Inc",18
 "AS39603","P4 Sp. z o.o.",18
 "AS400655","NixLabs Networks",18
-"AS62068","SpectraIP B.V.",18
 "AS11427","Charter Communications Inc",17
 "AS136958","China Unicom Guangdong IP network",17
 "AS137718","Beijing Volcano Engine Technology Co., Ltd.",17
@@ -475,6 +475,7 @@ ASN,Organization,IP_Count
 "AS2516","KDDI CORPORATION",10
 "AS2527","Sony Network Communications Inc.",10
 "AS264628","CORPORACION FIBEX TELECOM, C.A.",10
+"AS269076","L DA COSTA SILVA COMUNICACOES",10
 "AS328471","HERO TELECOMS (PTY) LTD",10
 "AS36903","Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",10
 "AS37705","TOPNET",10
@@ -495,13 +496,13 @@ ASN,Organization,IP_Count
 "AS17451","BIZNET NETWORKS",9
 "AS18779","EGIHosting",9
 "AS211507","Julian Achter",9
+"AS2119","Telenor Norge AS",9
 "AS212504","AdKyNet SAS",9
 "AS213520","Senko Digital Ltd",9
 "AS214481","Wojciech Czapkowicz",9
 "AS24955","JSC ""Ufanet""",9
 "AS266702","MEGALINK S.R.L.",9
 "AS267280","YELLOW CONNECT MULTIMIDIA LTDA ME",9
-"AS269076","L DA COSTA SILVA COMUNICACOES",9
 "AS30722","Vodafone Italia S.p.A.",9
 "AS38880","Micron21 Datacentre Pty Ltd",9
 "AS40244","Turnkey Internet Inc.",9
@@ -525,7 +526,6 @@ ASN,Organization,IP_Count
 "AS198361","Yaglom Labs Ltd",8
 "AS202870","Dimensione S.r.l.",8
 "AS209956","Telkoturk Iletisim Hizmetleri A.S.",8
-"AS2119","Telenor Norge AS",8
 "AS215730","H2NEXUS LTD",8
 "AS24086","Viettel Corporation",8
 "AS262459","Osirnet Info Telecom Ltda.",8
