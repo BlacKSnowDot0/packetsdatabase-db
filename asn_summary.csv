@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87914
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22347
-"AS398324","Censys, Inc.",15969
+"AS398324","Censys, Inc.",15970
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10937
 "AS14061","DigitalOcean, LLC",8765
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4383
 "AS45102","Alibaba (US) Technology Co., Ltd.",4316
 "AS396998","Path Network, Inc.",3992
-"AS0","",3924
+"AS0","",3925
 "AS63949","Akamai Technologies, Inc.",3734
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3267
@@ -93,7 +93,7 @@ ASN,Organization,IP_Count
 "AS48090","TECHOFF SRV LIMITED",261
 "AS60223","Netiface Limited",251
 "AS29066","velia.net Internetdienste GmbH",244
-"AS12389","PJSC Rostelecom",236
+"AS12389","PJSC Rostelecom",237
 "AS209272","Alviva Holding Limited",230
 "AS29484","Ruhr-Universitaet Bochum",230
 "AS701","Verizon Business",229
@@ -247,10 +247,10 @@ ASN,Organization,IP_Count
 "AS9304","HGC Global Communications Limited",33
 "AS9498","Bharti Airtel Limited",33
 "AS12912","T-Mobile Polska S.A.",32
+"AS13213","UK-2 Limited",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
 "AS55933","Cloudie Limited",32
 "AS1241","RIPE Network Coordination Centre",31
-"AS13213","UK-2 Limited",31
 "AS17557","Pakistan Telecommuication company limited",31
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",31
 "AS852","TELUS Communications Inc.",31
