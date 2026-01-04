@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",87913
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22346
-"AS398324","Censys, Inc.",15962
+"AS398324","Censys, Inc.",15965
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10935
 "AS14061","DigitalOcean, LLC",8764
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4382
 "AS45102","Alibaba (US) Technology Co., Ltd.",4316
 "AS396998","Path Network, Inc.",3992
-"AS0","",3922
+"AS0","",3923
 "AS63949","Akamai Technologies, Inc.",3734
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3266
@@ -28,8 +28,8 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2089
 "AS32475","Internap Holding LLC",1779
 "AS214295","SKYNET NETWORK LTD",1631
-"AS49870","Alsycon B.V.",1578
-"AS209605","UAB Host Baltic",1573
+"AS49870","Alsycon B.V.",1579
+"AS209605","UAB Host Baltic",1574
 "AS36352","HostPapa",1505
 "AS398722","Censys, Inc.",1466
 "AS13335","Cloudflare, Inc.",1459
@@ -52,11 +52,11 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",780
-"AS10439","CariNet, Inc.",769
+"AS10439","CariNet, Inc.",770
 "AS14618","Amazon.com, Inc.",754
 "AS4837","CHINA UNICOM China169 Backbone",638
 "AS12876","ONLINE S.A.S.",631
-"AS51115","HLL LLC",628
+"AS51115","HLL LLC",629
 "AS201814","MEVSPACE sp. z o.o.",603
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",586
@@ -106,7 +106,7 @@ ASN,Organization,IP_Count
 "AS7552","Viettel Group",182
 "AS215240","Silent Connection Ltd.",175
 "AS42237","w1n ltd",175
-"AS30083","velia.net",170
+"AS30083","velia.net",171
 "AS401116","Nybula LLC",170
 "AS8560","IONOS SE",165
 "AS262551","Farol Telecom",157
@@ -755,6 +755,7 @@ ASN,Organization,IP_Count
 "AS12430","VODAFONE ESPANA S.A.U.",4
 "AS12735","TurkNet Iletisim Hizmetleri A.S.",4
 "AS13110","INEA sp. z o.o.",4
+"AS131429","MOBIFONE Corporation",4
 "AS131607","Digidom CableTV Co., LTD.",4
 "AS136009","SpeedNet",4
 "AS136121","PT Digital Media Telematika",4
@@ -885,7 +886,6 @@ ASN,Organization,IP_Count
 "AS12252","America Movil Peru S.A.C.",3
 "AS12997","OJSC Kyrgyztelecom",3
 "AS131111","PT Mora Telematika Indonesia",3
-"AS131429","MOBIFONE Corporation",3
 "AS131602","Hsin Yeong An Cable TV Co., Ltd.",3
 "AS13194","UAB ""Bite Lietuva""",3
 "AS132637","PT BINA INFORMATIKA SOLUSI",3
