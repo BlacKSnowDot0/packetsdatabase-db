@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22347
 "AS398324","Censys, Inc.",15968
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10936
+"AS396982","Google LLC",10937
 "AS14061","DigitalOcean, LLC",8764
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6145
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3267
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2963
+"AS8075","Microsoft Corporation",2964
 "AS6939","Hurricane Electric LLC",2931
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2715
@@ -331,6 +331,7 @@ ASN,Organization,IP_Count
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",20
 "AS24151","China Internet Network Infomation Center",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
+"AS60781","LeaseWeb Netherlands B.V.",20
 "AS6181","Cincinnati Bell Telephone Company LLC",20
 "AS11426","Charter Communications Inc",19
 "AS11878","tzulo, inc.",19
@@ -343,7 +344,6 @@ ASN,Organization,IP_Count
 "AS262287","Maxihost LTDA",19
 "AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",19
 "AS49531","""NetCom-R"" LLC",19
-"AS60781","LeaseWeb Netherlands B.V.",19
 "AS6167","Verizon Business",19
 "AS62068","SpectraIP B.V.",19
 "AS6697","Republican Unitary Telecommunication Enterprise Beltelecom",19
