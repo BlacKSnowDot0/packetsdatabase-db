@@ -14,10 +14,10 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4382
 "AS45102","Alibaba (US) Technology Co., Ltd.",4316
 "AS396998","Path Network, Inc.",3992
-"AS0","",3923
+"AS0","",3924
 "AS63949","Akamai Technologies, Inc.",3734
 "AS15169","Google LLC",3581
-"AS51396","Pfcloud UG",3266
+"AS51396","Pfcloud UG",3267
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2963
 "AS6939","Hurricane Electric LLC",2931
@@ -47,12 +47,12 @@ ASN,Organization,IP_Count
 "AS51167","Contabo GmbH",909
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",876
-"AS215925","VPSVAULT.HOST LTD",872
+"AS215925","VPSVAULT.HOST LTD",873
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",780
-"AS10439","CariNet, Inc.",770
+"AS10439","CariNet, Inc.",771
 "AS14618","Amazon.com, Inc.",754
 "AS4837","CHINA UNICOM China169 Backbone",638
 "AS12876","ONLINE S.A.S.",631
@@ -93,7 +93,7 @@ ASN,Organization,IP_Count
 "AS48090","TECHOFF SRV LIMITED",261
 "AS60223","Netiface Limited",251
 "AS29066","velia.net Internetdienste GmbH",244
-"AS12389","PJSC Rostelecom",235
+"AS12389","PJSC Rostelecom",236
 "AS209272","Alviva Holding Limited",230
 "AS29484","Ruhr-Universitaet Bochum",230
 "AS701","Verizon Business",229
@@ -207,13 +207,13 @@ ASN,Organization,IP_Count
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",44
 "AS152194","CTG Server Limited",43
 "AS21928","T-Mobile USA, Inc.",43
+"AS56067","Metrabyte Co.,Ltd",43
+"AS210509","Optimum Line for Internet Services Ltd.",42
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS23969","TOT Public Company Limited",42
 "AS262378","Compuservice Empreendimentos Ltda",42
 "AS40676","Psychz Networks",42
-"AS56067","Metrabyte Co.,Ltd",42
 "AS7738","V tal",42
-"AS210509","Optimum Line for Internet Services Ltd.",41
 "AS26599","TELEFÔNICA BRASIL S.A",41
 "AS204834","Shabakieh Isfahan Co PJSC",40
 "AS27699","TELEFÔNICA BRASIL S.A",40
