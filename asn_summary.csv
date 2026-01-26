@@ -1,20 +1,20 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88042
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88043
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22355
-"AS398324","Censys, Inc.",16011
+"AS398324","Censys, Inc.",16013
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10942
-"AS14061","DigitalOcean, LLC",8789
+"AS14061","DigitalOcean, LLC",8790
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6150
 "AS4134","Chinanet",5201
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4468
 "AS16509","Amazon.com, Inc.",4383
-"AS45102","Alibaba (US) Technology Co., Ltd.",4319
+"AS45102","Alibaba (US) Technology Co., Ltd.",4320
 "AS396998","Path Network, Inc.",3992
-"AS0","",3931
+"AS0","",3932
 "AS63949","Akamai Technologies, Inc.",3736
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3268
@@ -80,7 +80,7 @@ ASN,Organization,IP_Count
 "AS7922","Comcast Cable Communications, LLC",354
 "AS8151","Uninet S.A. de C.V.",341
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
-"AS208843","Alpha Strike Labs GmbH",324
+"AS208843","Alpha Strike Labs GmbH",325
 "AS45899","VNPT Corp",319
 "AS213613","BOTSHIELD LTD",318
 "AS214943","Railnet LLC",318
@@ -117,8 +117,8 @@ ASN,Organization,IP_Count
 "AS13238","YANDEX LLC",135
 "AS4766","Korea Telecom",134
 "AS151185","China Telecom",132
+"AS19905","Neustar Security Services",130
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",129
-"AS19905","Neustar Security Services",129
 "AS137409","GSL Networks Pty LTD",128
 "AS36007","Kamatera, Inc.",122
 "AS211298","Constantine Cybersecurity Ltd.",113
