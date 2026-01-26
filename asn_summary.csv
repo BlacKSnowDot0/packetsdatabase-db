@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88043
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22356
-"AS398324","Censys, Inc.",16016
+"AS398324","Censys, Inc.",16017
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10943
-"AS14061","DigitalOcean, LLC",8793
+"AS14061","DigitalOcean, LLC",8794
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6150
 "AS4134","Chinanet",5201
@@ -14,12 +14,12 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4383
 "AS45102","Alibaba (US) Technology Co., Ltd.",4323
 "AS396998","Path Network, Inc.",3992
-"AS0","",3934
+"AS0","",3935
 "AS63949","Akamai Technologies, Inc.",3737
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2970
+"AS8075","Microsoft Corporation",2972
 "AS6939","Hurricane Electric LLC",2934
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2719
@@ -44,7 +44,7 @@ ASN,Organization,IP_Count
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1044
 "AS20052","Arbor Networks, Inc.",920
-"AS51167","Contabo GmbH",912
+"AS51167","Contabo GmbH",913
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",877
 "AS215925","VPSVAULT.HOST LTD",873
@@ -105,9 +105,9 @@ ASN,Organization,IP_Count
 "AS34984","Superonline Iletisim Hizmetleri A.S.",185
 "AS7552","Viettel Group",182
 "AS30083","velia.net",178
+"AS42237","w1n ltd",176
+"AS8560","IONOS SE",176
 "AS215240","Silent Connection Ltd.",175
-"AS42237","w1n ltd",175
-"AS8560","IONOS SE",175
 "AS401116","Nybula LLC",170
 "AS262551","Farol Telecom",157
 "AS206264","Amarutu Technology Ltd",153
@@ -128,7 +128,7 @@ ASN,Organization,IP_Count
 "AS208287","DC Host INC",110
 "AS199785","Cloud Hosting Solutions, Limited.",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",107
-"AS136435","ELITE COMMUNICATION",100
+"AS136435","ELITE COMMUNICATION",101
 "AS11320","LightEdge Solutions",98
 "AS28209","Under Servicos de Internet Ltda",97
 "AS63018","Dedicated.com",97
@@ -335,6 +335,7 @@ ASN,Organization,IP_Count
 "AS49531","""NetCom-R"" LLC",20
 "AS60781","LeaseWeb Netherlands B.V.",20
 "AS6181","Cincinnati Bell Telephone Company LLC",20
+"AS62068","SpectraIP B.V.",20
 "AS11426","Charter Communications Inc",19
 "AS11878","tzulo, inc.",19
 "AS12874","Fastweb SpA",19
@@ -345,7 +346,6 @@ ASN,Organization,IP_Count
 "AS24757","EthioNet",19
 "AS262287","Maxihost LTDA",19
 "AS6167","Verizon Business",19
-"AS62068","SpectraIP B.V.",19
 "AS6697","Republican Unitary Telecommunication Enterprise Beltelecom",19
 "AS18049","Taiwan Infrastructure Network Technologie",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
