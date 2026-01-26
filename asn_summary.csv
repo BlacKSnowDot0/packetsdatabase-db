@@ -7,14 +7,14 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",10949
 "AS14061","DigitalOcean, LLC",8794
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6151
+"AS16276","OVH SAS",6153
 "AS4134","Chinanet",5202
 "AS6568","Entel S.A. - EntelNet",4537
-"AS58466","CHINANET Guangdong province network",4468
+"AS58466","CHINANET Guangdong province network",4469
 "AS16509","Amazon.com, Inc.",4383
 "AS45102","Alibaba (US) Technology Co., Ltd.",4325
 "AS396998","Path Network, Inc.",3992
-"AS0","",3937
+"AS0","",3939
 "AS63949","Akamai Technologies, Inc.",3739
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3268
@@ -22,7 +22,7 @@ ASN,Organization,IP_Count
 "AS8075","Microsoft Corporation",2974
 "AS6939","Hurricane Electric LLC",2934
 "AS213412","ONYPHE SAS",2795
-"AS23470","ReliableSite.Net LLC",2719
+"AS23470","ReliableSite.Net LLC",2720
 "AS142002","Scloud Pte Ltd",2621
 "AS202425","IP Volume inc",2101
 "AS9808","China Mobile",2089
@@ -56,7 +56,7 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",755
 "AS4837","CHINA UNICOM China169 Backbone",639
 "AS51115","HLL LLC",636
-"AS12876","ONLINE S.A.S.",633
+"AS12876","ONLINE S.A.S.",634
 "AS201814","MEVSPACE sp. z o.o.",603
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS9009","M247 Europe SRL",587
@@ -129,7 +129,7 @@ ASN,Organization,IP_Count
 "AS199785","Cloud Hosting Solutions, Limited.",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",107
 "AS136435","ELITE COMMUNICATION",101
-"AS11320","LightEdge Solutions",98
+"AS11320","LightEdge Solutions",99
 "AS28209","Under Servicos de Internet Ltda",97
 "AS63018","Dedicated.com",97
 "AS396356","Latitude.sh",96
