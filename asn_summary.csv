@@ -2,20 +2,20 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88043
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22355
-"AS398324","Censys, Inc.",16013
+"AS398324","Censys, Inc.",16015
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10942
-"AS14061","DigitalOcean, LLC",8790
+"AS396982","Google LLC",10943
+"AS14061","DigitalOcean, LLC",8791
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6150
 "AS4134","Chinanet",5201
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4468
 "AS16509","Amazon.com, Inc.",4383
-"AS45102","Alibaba (US) Technology Co., Ltd.",4320
+"AS45102","Alibaba (US) Technology Co., Ltd.",4321
 "AS396998","Path Network, Inc.",3992
 "AS0","",3932
-"AS63949","Akamai Technologies, Inc.",3736
+"AS63949","Akamai Technologies, Inc.",3737
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2719
 "AS142002","Scloud Pte Ltd",2621
-"AS202425","IP Volume inc",2099
+"AS202425","IP Volume inc",2100
 "AS9808","China Mobile",2089
 "AS32475","Internap Holding LLC",1787
 "AS214295","SKYNET NETWORK LTD",1631
@@ -90,7 +90,7 @@ ASN,Organization,IP_Count
 "AS210848","Telkom Internet LTD",296
 "AS141718","haoxiangyun",283
 "AS18403","FPT Telecom Company",269
-"AS48090","TECHOFF SRV LIMITED",262
+"AS48090","TECHOFF SRV LIMITED",263
 "AS60223","Netiface Limited",251
 "AS12389","PJSC Rostelecom",244
 "AS29066","velia.net Internetdienste GmbH",244
