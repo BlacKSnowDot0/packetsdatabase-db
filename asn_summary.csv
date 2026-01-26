@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88043
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22356
-"AS398324","Censys, Inc.",16017
+"AS398324","Censys, Inc.",16018
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10943
 "AS14061","DigitalOcean, LLC",8794
@@ -19,12 +19,12 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2972
+"AS8075","Microsoft Corporation",2973
 "AS6939","Hurricane Electric LLC",2934
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2719
 "AS142002","Scloud Pte Ltd",2621
-"AS202425","IP Volume inc",2100
+"AS202425","IP Volume inc",2101
 "AS9808","China Mobile",2089
 "AS32475","Internap Holding LLC",1787
 "AS214295","SKYNET NETWORK LTD",1631
@@ -145,12 +145,12 @@ ASN,Organization,IP_Count
 "AS22773","Cox Communications Inc.",80
 "AS200514","KnownSRV Ltd.",79
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",79
+"AS32475","SingleHop LLC",78
 "AS3920","ESTOXY OU",78
 "AS150263","PT Alnet Telekomunikasi Indonesia",77
 "AS210644","AEZA INTERNATIONAL LTD",76
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",76
-"AS32475","SingleHop LLC",76
 "AS31898","Oracle Corporation",74
 "AS55720","Gigabit Hosting Sdn Bhd",74
 "AS56046","China Mobile Communications Corporation",74
@@ -200,8 +200,8 @@ ASN,Organization,IP_Count
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
 "AS12322","Free SAS",45
 "AS141995","Contabo Asia Private Limited",45
+"AS28546","Servnet Mexico, S.A. de C.V.",45
 "AS20473","The Constant Company, LLC",44
-"AS28546","Servnet Mexico, S.A. de C.V.",44
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",44
