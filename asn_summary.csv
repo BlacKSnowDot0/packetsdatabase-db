@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88044
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22357
-"AS398324","Censys, Inc.",16026
+"AS211298","Driftnet Ltd",22360
+"AS398324","Censys, Inc.",16029
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10949
 "AS14061","DigitalOcean, LLC",8794
@@ -10,7 +10,7 @@ ASN,Organization,IP_Count
 "AS16276","OVH SAS",6153
 "AS4134","Chinanet",5202
 "AS6568","Entel S.A. - EntelNet",4537
-"AS58466","CHINANET Guangdong province network",4469
+"AS58466","CHINANET Guangdong province network",4470
 "AS16509","Amazon.com, Inc.",4383
 "AS45102","Alibaba (US) Technology Co., Ltd.",4325
 "AS396998","Path Network, Inc.",3992
@@ -19,12 +19,12 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2974
+"AS8075","Microsoft Corporation",2975
 "AS6939","Hurricane Electric LLC",2934
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2720
 "AS142002","Scloud Pte Ltd",2621
-"AS202425","IP Volume inc",2101
+"AS202425","IP Volume inc",2102
 "AS9808","China Mobile",2089
 "AS32475","Internap Holding LLC",1787
 "AS214295","SKYNET NETWORK LTD",1631
@@ -54,7 +54,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",780
 "AS10439","CariNet, Inc.",779
 "AS14618","Amazon.com, Inc.",755
-"AS4837","CHINA UNICOM China169 Backbone",639
+"AS4837","CHINA UNICOM China169 Backbone",640
 "AS51115","HLL LLC",636
 "AS12876","ONLINE S.A.S.",634
 "AS201814","MEVSPACE sp. z o.o.",603
@@ -201,12 +201,12 @@ ASN,Organization,IP_Count
 "AS12322","Free SAS",45
 "AS141995","Contabo Asia Private Limited",45
 "AS28546","Servnet Mexico, S.A. de C.V.",45
+"AS56067","Metrabyte Co.,Ltd",45
 "AS20473","The Constant Company, LLC",44
 "AS40676","Psychz Networks",44
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",44
-"AS56067","Metrabyte Co.,Ltd",44
 "AS152194","CTG Server Limited",43
 "AS21928","T-Mobile USA, Inc.",43
 "AS210509","Optimum Line for Internet Services Ltd.",42
