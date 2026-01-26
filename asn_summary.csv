@@ -1,10 +1,10 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88044
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88045
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22360
 "AS398324","Censys, Inc.",16030
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10949
+"AS396982","Google LLC",10951
 "AS14061","DigitalOcean, LLC",8794
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6153
@@ -61,7 +61,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS9009","M247 Europe SRL",588
 "AS3462","Chunghwa Telecom Co., Ltd.",586
-"AS9829","Bharat Sanchar Nigam Ltd",580
+"AS9829","Bharat Sanchar Nigam Ltd",581
 "AS53667","FranTech Solutions",566
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
@@ -740,6 +740,7 @@ ASN,Organization,IP_Count
 "AS4780","Digital United Inc.",5
 "AS53062","GGNET TELECOM BACKBONE",5
 "AS53167","SEBRATEL TECNOLOGIA LTDA",5
+"AS55803","Hostopia Australia Web Pty Ltd",5
 "AS56044","China Mobile Communications Corporation",5
 "AS56246","PT Sumber Data Indonesia",5
 "AS56329","Gigaclear Limited",5
@@ -860,7 +861,6 @@ ASN,Organization,IP_Count
 "AS5378","Vodafone Limited",4
 "AS5391","Hrvatski Telekom d.d.",4
 "AS5416","BEYON B.S.C.",4
-"AS55803","Hostopia Australia Web Pty Ltd",4
 "AS57043","HOSTKEY B.V.",4
 "AS58087","Florian Kolb",4
 "AS58369","PT. Fiber Networks Indonesia",4
