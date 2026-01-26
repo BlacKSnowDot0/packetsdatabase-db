@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88045
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22360
-"AS398324","Censys, Inc.",16033
+"AS398324","Censys, Inc.",16036
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10952
+"AS396982","Google LLC",10953
 "AS14061","DigitalOcean, LLC",8794
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6154
@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",4326
 "AS396998","Path Network, Inc.",3992
 "AS0","",3941
-"AS63949","Akamai Technologies, Inc.",3739
+"AS63949","Akamai Technologies, Inc.",3740
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2720
 "AS142002","Scloud Pte Ltd",2621
-"AS202425","IP Volume inc",2103
+"AS202425","IP Volume inc",2104
 "AS9808","China Mobile",2089
 "AS32475","Internap Holding LLC",1787
 "AS214295","SKYNET NETWORK LTD",1631
@@ -142,10 +142,10 @@ ASN,Organization,IP_Count
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
 "AS200019","ALEXHOST SRL",83
+"AS32475","SingleHop LLC",81
 "AS22773","Cox Communications Inc.",80
 "AS200514","KnownSRV Ltd.",79
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",79
-"AS32475","SingleHop LLC",78
 "AS3920","ESTOXY OU",78
 "AS150263","PT Alnet Telekomunikasi Indonesia",77
 "AS210644","AEZA INTERNATIONAL LTD",76
@@ -198,10 +198,10 @@ ASN,Organization,IP_Count
 "AS10796","Charter Communications Inc",46
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
+"AS56067","Metrabyte Co.,Ltd",46
 "AS12322","Free SAS",45
 "AS141995","Contabo Asia Private Limited",45
 "AS28546","Servnet Mexico, S.A. de C.V.",45
-"AS56067","Metrabyte Co.,Ltd",45
 "AS20473","The Constant Company, LLC",44
 "AS40676","Psychz Networks",44
 "AS42708","GleSYS AB",44
