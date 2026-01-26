@@ -1,20 +1,20 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88043
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22355
+"AS211298","Driftnet Ltd",22356
 "AS398324","Censys, Inc.",16016
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10943
-"AS14061","DigitalOcean, LLC",8792
+"AS14061","DigitalOcean, LLC",8793
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6150
 "AS4134","Chinanet",5201
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4468
 "AS16509","Amazon.com, Inc.",4383
-"AS45102","Alibaba (US) Technology Co., Ltd.",4322
+"AS45102","Alibaba (US) Technology Co., Ltd.",4323
 "AS396998","Path Network, Inc.",3992
-"AS0","",3933
+"AS0","",3934
 "AS63949","Akamai Technologies, Inc.",3737
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3268
@@ -42,7 +42,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
-"AS208684","BHA CONSEIL SARL",1043
+"AS208684","BHA CONSEIL SARL",1044
 "AS20052","Arbor Networks, Inc.",920
 "AS51167","Contabo GmbH",912
 "AS51852","Private Layer INC",907
@@ -90,7 +90,7 @@ ASN,Organization,IP_Count
 "AS210848","Telkom Internet LTD",296
 "AS141718","haoxiangyun",284
 "AS18403","FPT Telecom Company",269
-"AS48090","TECHOFF SRV LIMITED",263
+"AS48090","TECHOFF SRV LIMITED",264
 "AS60223","Netiface Limited",251
 "AS12389","PJSC Rostelecom",244
 "AS29066","velia.net Internetdienste GmbH",244
@@ -150,7 +150,7 @@ ASN,Organization,IP_Count
 "AS210644","AEZA INTERNATIONAL LTD",76
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",76
-"AS32475","SingleHop LLC",75
+"AS32475","SingleHop LLC",76
 "AS31898","Oracle Corporation",74
 "AS55720","Gigabit Hosting Sdn Bhd",74
 "AS56046","China Mobile Communications Corporation",74
@@ -367,6 +367,7 @@ ASN,Organization,IP_Count
 "AS48753","AVA HOST SRL",17
 "AS50340","JSC Selectel",17
 "AS56630","Melbikomas UAB",17
+"AS59134","PT. Datacomm Diangraha",17
 "AS9269","Hong Kong Broadband Network Ltd",17
 "AS138915","Kaopu Cloud HK Limited",16
 "AS140726","China Unicom",16
@@ -377,7 +378,6 @@ ASN,Organization,IP_Count
 "AS328539","Giga for Telecommunication and Technology Limited",16
 "AS39351","31173 Services AB",16
 "AS46261","QuickPacket, LLC",16
-"AS59134","PT. Datacomm Diangraha",16
 "AS6597","Coloblox Data Centers Inc",16
 "AS1267","RIPE Network Coordination Centre",15
 "AS12849","Hot-Net internet services Ltd.",15
