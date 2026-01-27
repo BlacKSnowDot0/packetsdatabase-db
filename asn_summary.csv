@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22363
 "AS398324","Censys, Inc.",16071
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10968
+"AS396982","Google LLC",10969
 "AS14061","DigitalOcean, LLC",8799
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6156
@@ -19,8 +19,8 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2984
-"AS6939","Hurricane Electric LLC",2962
+"AS8075","Microsoft Corporation",2985
+"AS6939","Hurricane Electric LLC",2963
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2720
 "AS142002","Scloud Pte Ltd",2621
@@ -139,9 +139,9 @@ ASN,Organization,IP_Count
 "AS23724","IDC, China Telecommunications Corporation",91
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS8402","PJSC ""Vimpelcom""",88
+"AS32475","SingleHop LLC",86
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
-"AS32475","SingleHop LLC",84
 "AS200019","ALEXHOST SRL",83
 "AS200514","KnownSRV Ltd.",80
 "AS22773","Cox Communications Inc.",80
