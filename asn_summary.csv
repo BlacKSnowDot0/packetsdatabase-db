@@ -4,22 +4,22 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22363
 "AS398324","Censys, Inc.",16083
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10972
-"AS14061","DigitalOcean, LLC",8801
+"AS396982","Google LLC",10973
+"AS14061","DigitalOcean, LLC",8802
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6157
-"AS4134","Chinanet",5204
+"AS16276","OVH SAS",6158
+"AS4134","Chinanet",5207
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4470
 "AS16509","Amazon.com, Inc.",4383
-"AS45102","Alibaba (US) Technology Co., Ltd.",4341
+"AS45102","Alibaba (US) Technology Co., Ltd.",4342
 "AS396998","Path Network, Inc.",3992
 "AS0","",3952
-"AS63949","Akamai Technologies, Inc.",3743
+"AS63949","Akamai Technologies, Inc.",3744
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2985
+"AS8075","Microsoft Corporation",2986
 "AS6939","Hurricane Electric LLC",2964
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2720
@@ -54,9 +54,9 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",784
 "AS211680","NSEC - Sistemas Informaticos, S.A.",780
 "AS14618","Amazon.com, Inc.",757
-"AS4837","CHINA UNICOM China169 Backbone",640
+"AS4837","CHINA UNICOM China169 Backbone",644
 "AS51115","HLL LLC",637
-"AS12876","ONLINE S.A.S.",635
+"AS12876","ONLINE S.A.S.",636
 "AS201814","MEVSPACE sp. z o.o.",603
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS9009","M247 Europe SRL",589
@@ -152,8 +152,8 @@ ASN,Organization,IP_Count
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",76
 "AS31898","Oracle Corporation",76
+"AS56046","China Mobile Communications Corporation",76
 "AS55720","Gigabit Hosting Sdn Bhd",75
-"AS56046","China Mobile Communications Corporation",74
 "AS2856","British Telecommunications PLC",72
 "AS149746","PT Blip Integrator Provider",70
 "AS52053","REDHEBERG Association declaree",69
@@ -471,6 +471,7 @@ ASN,Organization,IP_Count
 "AS153443","VPSRE.NET LLC",10
 "AS17676","SoftBank Corp.",10
 "AS206262","TelKos L.L.C",10
+"AS24445","China Mobile",10
 "AS24835","Vodafone Data - Egypt",10
 "AS25019","Saudi Telecom Company JSC",10
 "AS2516","KDDI CORPORATION",10
@@ -1271,7 +1272,6 @@ ASN,Organization,IP_Count
 "AS24378","Total Access Communication PLC.",2
 "AS24435","Supernet, PDS Limited",2
 "AS24444","China Mobile",2
-"AS24445","China Mobile",2
 "AS24529","PT. Infotama Lintas Global",2
 "AS24534","PT. Transhybrid Communication",2
 "AS24550","Websurfer Nepal Communication System Pvt. Ltd",2
