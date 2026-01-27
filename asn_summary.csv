@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88048
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22364
-"AS398324","Censys, Inc.",16100
+"AS211298","Driftnet Ltd",22365
+"AS398324","Censys, Inc.",16101
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10979
-"AS14061","DigitalOcean, LLC",8805
+"AS396982","Google LLC",10980
+"AS14061","DigitalOcean, LLC",8806
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6158
 "AS4134","Chinanet",5207
@@ -14,12 +14,12 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4383
 "AS45102","Alibaba (US) Technology Co., Ltd.",4348
 "AS396998","Path Network, Inc.",3992
-"AS0","",3958
+"AS0","",3959
 "AS63949","Akamai Technologies, Inc.",3747
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2993
+"AS8075","Microsoft Corporation",2994
 "AS6939","Hurricane Electric LLC",2964
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2720
@@ -55,7 +55,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",780
 "AS14618","Amazon.com, Inc.",758
 "AS4837","CHINA UNICOM China169 Backbone",644
-"AS51115","HLL LLC",638
+"AS51115","HLL LLC",639
 "AS12876","ONLINE S.A.S.",636
 "AS201814","MEVSPACE sp. z o.o.",603
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -69,7 +69,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",492
 "AS212238","Datacamp Limited",482
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",428
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",429
 "AS21859","Zenlayer Inc",426
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
@@ -135,9 +135,9 @@ ASN,Organization,IP_Count
 "AS63018","Dedicated.com",97
 "AS5617","Orange Polska Spolka Akcyjna",94
 "AS205352","KABELNET LTD",93
+"AS32475","SingleHop LLC",92
 "AS16735","ALGAR TELECOM S/A",91
 "AS23724","IDC, China Telecommunications Corporation",91
-"AS32475","SingleHop LLC",90
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS8402","PJSC ""Vimpelcom""",88
 "AS271795","SERVITELCONET CIA. LTDA.",85
