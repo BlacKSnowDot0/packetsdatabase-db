@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88045
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22362
-"AS398324","Censys, Inc.",16053
+"AS398324","Censys, Inc.",16055
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10964
 "AS14061","DigitalOcean, LLC",8797
@@ -15,12 +15,12 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",4327
 "AS396998","Path Network, Inc.",3992
 "AS0","",3947
-"AS63949","Akamai Technologies, Inc.",3742
+"AS63949","Akamai Technologies, Inc.",3743
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2982
-"AS6939","Hurricane Electric LLC",2946
+"AS6939","Hurricane Electric LLC",2948
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2720
 "AS142002","Scloud Pte Ltd",2621
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1601
 "AS209605","UAB Host Baltic",1576
 "AS36352","HostPapa",1505
-"AS398722","Censys, Inc.",1469
+"AS398722","Censys, Inc.",1470
 "AS13335","Cloudflare, Inc.",1461
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
@@ -100,7 +100,7 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS12555","Data-center IMAQLIQ Ltd.",217
 "AS14987","Rethem Hosting LLC",215
-"AS63199","CDS Global Cloud Co., Ltd",204
+"AS63199","CDS Global Cloud Co., Ltd",205
 "AS50219","LNK SYSTEMS MUNTENIA SRL",195
 "AS34984","Superonline Iletisim Hizmetleri A.S.",185
 "AS7552","Viettel Group",182
@@ -1061,6 +1061,7 @@ ASN,Organization,IP_Count
 "AS55685","PT Jala Lintas Media",3
 "AS56400","SPD Chernega Aleksandr Anatolevich",3
 "AS56478","Hyperoptic Ltd",3
+"AS58291","ColoCenter b.v.",3
 "AS58715","Earth Telecommunication ( pvt ) Limited",3
 "AS59497","Buknet LLC",3
 "AS60117","Host Sailor Ltd",3
@@ -1521,7 +1522,6 @@ ASN,Organization,IP_Count
 "AS56465","Therecom Ltd",2
 "AS56607","Privately owned entrepreneur Chabanov Andrey Alexandrovich",2
 "AS57494","Adman LLC",2
-"AS58291","ColoCenter b.v.",2
 "AS58309","Langate Ltd",2
 "AS58397","PT Infinys System Indonesia",2
 "AS58485","WIFIAN ID",2
