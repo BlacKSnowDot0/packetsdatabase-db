@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88047
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22363
-"AS398324","Censys, Inc.",16059
+"AS398324","Censys, Inc.",16061
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10965
+"AS396982","Google LLC",10966
 "AS14061","DigitalOcean, LLC",8798
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6156
@@ -12,14 +12,14 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4470
 "AS16509","Amazon.com, Inc.",4383
-"AS45102","Alibaba (US) Technology Co., Ltd.",4331
+"AS45102","Alibaba (US) Technology Co., Ltd.",4332
 "AS396998","Path Network, Inc.",3992
 "AS0","",3949
 "AS63949","Akamai Technologies, Inc.",3743
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2982
+"AS8075","Microsoft Corporation",2983
 "AS6939","Hurricane Electric LLC",2950
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2720
@@ -94,7 +94,7 @@ ASN,Organization,IP_Count
 "AS60223","Netiface Limited",251
 "AS12389","PJSC Rostelecom",245
 "AS29066","velia.net Internetdienste GmbH",245
-"AS29484","Ruhr-Universitaet Bochum",232
+"AS29484","Ruhr-Universitaet Bochum",233
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",229
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
@@ -114,7 +114,7 @@ ASN,Organization,IP_Count
 "AS14956","RouterHosting LLC",151
 "AS6739","VODAFONE ONO, S.A.",142
 "AS47105","Vault Dweller OU",141
-"AS19905","Neustar Security Services",137
+"AS19905","Neustar Security Services",138
 "AS13238","YANDEX LLC",135
 "AS4766","Korea Telecom",134
 "AS151185","China Telecom",132
