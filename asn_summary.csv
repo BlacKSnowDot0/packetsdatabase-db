@@ -2,25 +2,25 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88047
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22363
-"AS398324","Censys, Inc.",16071
+"AS398324","Censys, Inc.",16076
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10969
-"AS14061","DigitalOcean, LLC",8800
+"AS14061","DigitalOcean, LLC",8801
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6156
 "AS4134","Chinanet",5203
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4470
 "AS16509","Amazon.com, Inc.",4383
-"AS45102","Alibaba (US) Technology Co., Ltd.",4337
+"AS45102","Alibaba (US) Technology Co., Ltd.",4338
 "AS396998","Path Network, Inc.",3992
-"AS0","",3951
+"AS0","",3952
 "AS63949","Akamai Technologies, Inc.",3743
-"AS15169","Google LLC",3581
+"AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2985
-"AS6939","Hurricane Electric LLC",2963
+"AS6939","Hurricane Electric LLC",2964
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2720
 "AS142002","Scloud Pte Ltd",2621
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS10439","CariNet, Inc.",784
 "AS211680","NSEC - Sistemas Informaticos, S.A.",780
-"AS14618","Amazon.com, Inc.",756
+"AS14618","Amazon.com, Inc.",757
 "AS4837","CHINA UNICOM China169 Backbone",640
 "AS51115","HLL LLC",636
 "AS12876","ONLINE S.A.S.",635
@@ -139,7 +139,7 @@ ASN,Organization,IP_Count
 "AS23724","IDC, China Telecommunications Corporation",91
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS8402","PJSC ""Vimpelcom""",88
-"AS32475","SingleHop LLC",86
+"AS32475","SingleHop LLC",87
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
 "AS200019","ALEXHOST SRL",83
@@ -2759,6 +2759,7 @@ ASN,Organization,IP_Count
 "AS398826","OLink Cloud LLC",1
 "AS398876","Round Valley Indian Tribes",1
 "AS398885","Aerwave, Inc.",1
+"AS39900","SIA GOOD",1
 "AS399220","Finger Lakes Communications Group, Inc",1
 "AS399725","ALAWEB Internet Services",1
 "AS399820","Atomic Networks LLC",1
