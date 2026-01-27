@@ -1,20 +1,20 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88045
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88047
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22363
-"AS398324","Censys, Inc.",16056
+"AS398324","Censys, Inc.",16058
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10964
 "AS14061","DigitalOcean, LLC",8797
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6155
+"AS16276","OVH SAS",6156
 "AS4134","Chinanet",5203
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4470
 "AS16509","Amazon.com, Inc.",4383
 "AS45102","Alibaba (US) Technology Co., Ltd.",4328
 "AS396998","Path Network, Inc.",3992
-"AS0","",3947
+"AS0","",3948
 "AS63949","Akamai Technologies, Inc.",3743
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3268
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2720
 "AS142002","Scloud Pte Ltd",2621
-"AS202425","IP Volume inc",2105
+"AS202425","IP Volume inc",2106
 "AS9808","China Mobile",2089
 "AS32475","Internap Holding LLC",1787
 "AS214295","SKYNET NETWORK LTD",1631
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",805
-"AS10439","CariNet, Inc.",783
+"AS10439","CariNet, Inc.",784
 "AS211680","NSEC - Sistemas Informaticos, S.A.",780
 "AS14618","Amazon.com, Inc.",756
 "AS4837","CHINA UNICOM China169 Backbone",640
@@ -114,8 +114,8 @@ ASN,Organization,IP_Count
 "AS14956","RouterHosting LLC",151
 "AS6739","VODAFONE ONO, S.A.",142
 "AS47105","Vault Dweller OU",141
+"AS19905","Neustar Security Services",136
 "AS13238","YANDEX LLC",135
-"AS19905","Neustar Security Services",135
 "AS4766","Korea Telecom",134
 "AS151185","China Telecom",132
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",131
@@ -130,8 +130,8 @@ ASN,Organization,IP_Count
 "AS28573","Claro NXT Telecomunicacoes Ltda",107
 "AS136435","ELITE COMMUNICATION",101
 "AS11320","LightEdge Solutions",99
+"AS396356","Latitude.sh",98
 "AS28209","Under Servicos de Internet Ltda",97
-"AS396356","Latitude.sh",97
 "AS63018","Dedicated.com",97
 "AS5617","Orange Polska Spolka Akcyjna",94
 "AS205352","KABELNET LTD",93
@@ -151,16 +151,16 @@ ASN,Organization,IP_Count
 "AS210644","AEZA INTERNATIONAL LTD",76
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",76
+"AS31898","Oracle Corporation",75
 "AS55720","Gigabit Hosting Sdn Bhd",75
-"AS31898","Oracle Corporation",74
 "AS56046","China Mobile Communications Corporation",74
 "AS2856","British Telecommunications PLC",72
 "AS149746","PT Blip Integrator Provider",70
 "AS52053","REDHEBERG Association declaree",69
 "AS834","IPXO LLC",69
+"AS44477","STARK INDUSTRIES SOLUTIONS LTD",68
 "AS215590","DpkgSoft International Limited",67
 "AS328867","Corebach Backbone SARL",67
-"AS44477","STARK INDUSTRIES SOLUTIONS LTD",67
 "AS57588","Hayat for Internet & communication LLC",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
 "AS6128","Cablevision Systems Corp.",66
