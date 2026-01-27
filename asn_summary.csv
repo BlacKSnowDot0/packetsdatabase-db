@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88048
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22363
-"AS398324","Censys, Inc.",16097
+"AS398324","Censys, Inc.",16098
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10977
+"AS396982","Google LLC",10978
 "AS14061","DigitalOcean, LLC",8803
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6158
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2990
+"AS8075","Microsoft Corporation",2991
 "AS6939","Hurricane Electric LLC",2964
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2720
@@ -137,8 +137,8 @@ ASN,Organization,IP_Count
 "AS205352","KABELNET LTD",93
 "AS16735","ALGAR TELECOM S/A",91
 "AS23724","IDC, China Telecommunications Corporation",91
+"AS32475","SingleHop LLC",90
 "AS210125","PRIAM NET Sh.p.k.",89
-"AS32475","SingleHop LLC",89
 "AS8402","PJSC ""Vimpelcom""",88
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
@@ -199,9 +199,9 @@ ASN,Organization,IP_Count
 "AS10796","Charter Communications Inc",46
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
+"AS28546","Servnet Mexico, S.A. de C.V.",46
 "AS12322","Free SAS",45
 "AS141995","Contabo Asia Private Limited",45
-"AS28546","Servnet Mexico, S.A. de C.V.",45
 "AS40676","Psychz Networks",45
 "AS20473","The Constant Company, LLC",44
 "AS21928","T-Mobile USA, Inc.",44
@@ -322,6 +322,7 @@ ASN,Organization,IP_Count
 "AS46573","LayerHost",21
 "AS4800","PT Aplikanusa Lintasarta",21
 "AS50887","DC FIBER HOME SRL",21
+"AS62068","SpectraIP B.V.",21
 "AS812","Rogers Communications Canada Inc.",21
 "AS9299","Philippine Long Distance Telephone Co.",21
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
@@ -335,7 +336,6 @@ ASN,Organization,IP_Count
 "AS49531","""NetCom-R"" LLC",20
 "AS60781","LeaseWeb Netherlands B.V.",20
 "AS6181","Cincinnati Bell Telephone Company LLC",20
-"AS62068","SpectraIP B.V.",20
 "AS11426","Charter Communications Inc",19
 "AS11878","tzulo, inc.",19
 "AS12874","Fastweb SpA",19
@@ -1337,6 +1337,7 @@ ASN,Organization,IP_Count
 "AS268401","NETSTART MULTIMIDIA E COMUNICACAO LTDA",2
 "AS268437","BRAXTEL TELECOM E TI",2
 "AS268671","RLNET PROVEDOR",2
+"AS269096","NORTH TELECOMUNICACOES EIRELI",2
 "AS269359","CANAA TELECOMUNICAÇÕES LTDA - ME",2
 "AS269597","STALKER ENGENHARIA EIRELI",2
 "AS269931","WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L",2
@@ -2425,7 +2426,6 @@ ASN,Organization,IP_Count
 "AS269035","David Martins Ferreira Telecomunicação - ME",1
 "AS269036","ATEX NET TELECOMUNICACOES LTDA",1
 "AS269046","First Telecom LTDA",1
-"AS269096","NORTH TELECOMUNICACOES EIRELI",1
 "AS269182","PLUGAR TELECOM",1
 "AS269220","Vamos Internet Telecom Ltda",1
 "AS269249","Nexo Telecom LTDA",1
