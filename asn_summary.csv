@@ -2,17 +2,17 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88048
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22365
-"AS398324","Censys, Inc.",16101
+"AS398324","Censys, Inc.",16102
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10980
-"AS14061","DigitalOcean, LLC",8806
+"AS14061","DigitalOcean, LLC",8807
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6158
 "AS4134","Chinanet",5207
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4471
 "AS16509","Amazon.com, Inc.",4383
-"AS45102","Alibaba (US) Technology Co., Ltd.",4348
+"AS45102","Alibaba (US) Technology Co., Ltd.",4349
 "AS396998","Path Network, Inc.",3992
 "AS0","",3959
 "AS63949","Akamai Technologies, Inc.",3747
@@ -543,6 +543,7 @@ ASN,Organization,IP_Count
 "AS48678","PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi",8
 "AS50028","EDGOO NETWORKS UNIPESSOAL LDA",8
 "AS5483","Magyar Telekom plc.",8
+"AS55803","Hostopia Australia Web Pty Ltd",8
 "AS56041","China Mobile Communications Corporation",8
 "AS64289","Macarne LLC",8
 "AS6698","Virtual Systems LLC",8
@@ -593,7 +594,6 @@ ASN,Organization,IP_Count
 "AS51604","JSC ""ER-Telecom Holding""",7
 "AS55423","JasTel Network",7
 "AS55699","PT. Cemerlang Multimedia",7
-"AS55803","Hostopia Australia Web Pty Ltd",7
 "AS56971","CGI GLOBAL LIMITED",7
 "AS58821","PT Lintas Jaringan Nusantara",7
 "AS63023","GTHost",7
