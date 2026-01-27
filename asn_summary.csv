@@ -1,20 +1,20 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88048
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22363
+"AS211298","Driftnet Ltd",22364
 "AS398324","Censys, Inc.",16098
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10978
-"AS14061","DigitalOcean, LLC",8803
+"AS14061","DigitalOcean, LLC",8804
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6158
 "AS4134","Chinanet",5207
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4470
 "AS16509","Amazon.com, Inc.",4383
-"AS45102","Alibaba (US) Technology Co., Ltd.",4345
+"AS45102","Alibaba (US) Technology Co., Ltd.",4347
 "AS396998","Path Network, Inc.",3992
-"AS0","",3957
+"AS0","",3958
 "AS63949","Akamai Technologies, Inc.",3747
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
@@ -2229,6 +2229,7 @@ ASN,Organization,IP_Count
 "AS264009","INFIX TELECOM LTDA",1
 "AS264025","Arroba Banda Larga",1
 "AS264035","PG Net Comercio de Comp. LTDA",1
+"AS264046","GEORGE ALEXANDRE DIAS DE SOUSA ME",1
 "AS264076","BREM TECHNOLOGY LTDA - ME",1
 "AS264106","ANDRADE & LANDIM TELECOMUNICACOES LTDA",1
 "AS264119","UBA CONECT TELECOM LTDA - ME",1
