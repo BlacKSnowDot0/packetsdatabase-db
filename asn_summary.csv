@@ -2,17 +2,17 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88047
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22363
-"AS398324","Censys, Inc.",16076
+"AS398324","Censys, Inc.",16078
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10969
+"AS396982","Google LLC",10970
 "AS14061","DigitalOcean, LLC",8801
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6156
+"AS16276","OVH SAS",6157
 "AS4134","Chinanet",5203
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4470
 "AS16509","Amazon.com, Inc.",4383
-"AS45102","Alibaba (US) Technology Co., Ltd.",4338
+"AS45102","Alibaba (US) Technology Co., Ltd.",4341
 "AS396998","Path Network, Inc.",3992
 "AS0","",3952
 "AS63949","Akamai Technologies, Inc.",3743
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2720
 "AS142002","Scloud Pte Ltd",2621
-"AS202425","IP Volume inc",2107
+"AS202425","IP Volume inc",2108
 "AS9808","China Mobile",2089
 "AS32475","Internap Holding LLC",1787
 "AS214295","SKYNET NETWORK LTD",1631
@@ -61,7 +61,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS9009","M247 Europe SRL",589
 "AS3462","Chunghwa Telecom Co., Ltd.",586
-"AS9829","Bharat Sanchar Nigam Ltd",583
+"AS9829","Bharat Sanchar Nigam Ltd",584
 "AS53667","FranTech Solutions",566
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
@@ -92,8 +92,8 @@ ASN,Organization,IP_Count
 "AS18403","FPT Telecom Company",269
 "AS48090","TECHOFF SRV LIMITED",264
 "AS60223","Netiface Limited",251
+"AS29066","velia.net Internetdienste GmbH",246
 "AS12389","PJSC Rostelecom",245
-"AS29066","velia.net Internetdienste GmbH",245
 "AS29484","Ruhr-Universitaet Bochum",234
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",230
@@ -112,7 +112,7 @@ ASN,Organization,IP_Count
 "AS262551","Farol Telecom",157
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",151
-"AS19905","Neustar Security Services",147
+"AS19905","Neustar Security Services",148
 "AS6739","VODAFONE ONO, S.A.",142
 "AS47105","Vault Dweller OU",141
 "AS4766","Korea Telecom",136
@@ -138,8 +138,8 @@ ASN,Organization,IP_Count
 "AS16735","ALGAR TELECOM S/A",91
 "AS23724","IDC, China Telecommunications Corporation",91
 "AS210125","PRIAM NET Sh.p.k.",89
+"AS32475","SingleHop LLC",89
 "AS8402","PJSC ""Vimpelcom""",88
-"AS32475","SingleHop LLC",87
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
 "AS200019","ALEXHOST SRL",83
