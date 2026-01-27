@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88047
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22363
-"AS398324","Censys, Inc.",16063
+"AS398324","Censys, Inc.",16068
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10968
 "AS14061","DigitalOcean, LLC",8799
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2983
-"AS6939","Hurricane Electric LLC",2958
+"AS6939","Hurricane Electric LLC",2959
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2720
 "AS142002","Scloud Pte Ltd",2621
@@ -88,7 +88,7 @@ ASN,Organization,IP_Count
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",304
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
-"AS141718","haoxiangyun",286
+"AS141718","haoxiangyun",287
 "AS18403","FPT Telecom Company",269
 "AS48090","TECHOFF SRV LIMITED",264
 "AS60223","Netiface Limited",251
@@ -112,8 +112,8 @@ ASN,Organization,IP_Count
 "AS262551","Farol Telecom",157
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",151
+"AS19905","Neustar Security Services",142
 "AS6739","VODAFONE ONO, S.A.",142
-"AS19905","Neustar Security Services",141
 "AS47105","Vault Dweller OU",141
 "AS13238","YANDEX LLC",135
 "AS4766","Korea Telecom",134
