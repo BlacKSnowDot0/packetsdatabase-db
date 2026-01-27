@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88045
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22361
+"AS211298","Driftnet Ltd",22362
 "AS398324","Censys, Inc.",16053
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10964
-"AS14061","DigitalOcean, LLC",8796
+"AS14061","DigitalOcean, LLC",8797
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6155
 "AS4134","Chinanet",5203
@@ -19,8 +19,8 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3581
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",2981
-"AS6939","Hurricane Electric LLC",2944
+"AS8075","Microsoft Corporation",2982
+"AS6939","Hurricane Electric LLC",2946
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2720
 "AS142002","Scloud Pte Ltd",2621
@@ -121,8 +121,8 @@ ASN,Organization,IP_Count
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",130
 "AS137409","GSL Networks Pty LTD",128
 "AS36007","Kamatera, Inc.",122
+"AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",114
 "AS211298","Constantine Cybersecurity Ltd.",113
-"AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",113
 "AS40021","Nubes, LLC",112
 "AS47331","TTNet A.S.",111
 "AS208287","DC Host INC",110
@@ -590,6 +590,7 @@ ASN,Organization,IP_Count
 "AS51604","JSC ""ER-Telecom Holding""",7
 "AS55423","JasTel Network",7
 "AS55699","PT. Cemerlang Multimedia",7
+"AS55803","Hostopia Australia Web Pty Ltd",7
 "AS56971","CGI GLOBAL LIMITED",7
 "AS58821","PT Lintas Jaringan Nusantara",7
 "AS63023","GTHost",7
@@ -654,7 +655,6 @@ ASN,Organization,IP_Count
 "AS48314","Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG",6
 "AS48347","JSC Mediasoft ekspert",6
 "AS48642","Joint stock company ""For""",6
-"AS55803","Hostopia Australia Web Pty Ltd",6
 "AS5603","Telekom Slovenije, d.d.",6
 "AS56047","China Mobile Communications Corporation",6
 "AS58495","PT Parsaoran Global Datatrans",6
