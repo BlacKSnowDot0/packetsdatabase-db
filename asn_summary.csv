@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22363
 "AS398324","Censys, Inc.",16063
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10966
+"AS396982","Google LLC",10968
 "AS14061","DigitalOcean, LLC",8799
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6156
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",2983
-"AS6939","Hurricane Electric LLC",2953
+"AS6939","Hurricane Electric LLC",2958
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2720
 "AS142002","Scloud Pte Ltd",2621
@@ -96,7 +96,7 @@ ASN,Organization,IP_Count
 "AS29066","velia.net Internetdienste GmbH",245
 "AS29484","Ruhr-Universitaet Bochum",233
 "AS209272","Alviva Holding Limited",230
-"AS701","Verizon Business",229
+"AS701","Verizon Business",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS12555","Data-center IMAQLIQ Ltd.",217
 "AS14987","Rethem Hosting LLC",215
@@ -113,8 +113,8 @@ ASN,Organization,IP_Count
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",151
 "AS6739","VODAFONE ONO, S.A.",142
+"AS19905","Neustar Security Services",141
 "AS47105","Vault Dweller OU",141
-"AS19905","Neustar Security Services",139
 "AS13238","YANDEX LLC",135
 "AS4766","Korea Telecom",134
 "AS151185","China Telecom",132
