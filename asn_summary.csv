@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88049
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22366
-"AS398324","Censys, Inc.",16114
+"AS398324","Censys, Inc.",16115
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10985
 "AS14061","DigitalOcean, LLC",8825
@@ -14,12 +14,12 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4383
 "AS45102","Alibaba (US) Technology Co., Ltd.",4354
 "AS396998","Path Network, Inc.",3992
-"AS0","",3965
+"AS0","",3966
 "AS63949","Akamai Technologies, Inc.",3748
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3002
+"AS8075","Microsoft Corporation",3003
 "AS6939","Hurricane Electric LLC",2967
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2720
@@ -55,7 +55,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",780
 "AS14618","Amazon.com, Inc.",758
 "AS4837","CHINA UNICOM China169 Backbone",645
-"AS51115","HLL LLC",641
+"AS51115","HLL LLC",642
 "AS12876","ONLINE S.A.S.",638
 "AS201814","MEVSPACE sp. z o.o.",603
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -3146,4 +3146,5 @@ ASN,Organization,IP_Count
 "AS9595","NTT-ME Corporation",1
 "AS9617","JCOM Co., Ltd.",1
 "AS9644","SK Telecom",1
+"AS9889","Two Degrees Mobile Limited",1
 "AS9891","CS Loxinfo Public Company Limited",1
