@@ -14,12 +14,12 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4383
 "AS45102","Alibaba (US) Technology Co., Ltd.",4366
 "AS396998","Path Network, Inc.",3992
-"AS0","",3971
+"AS0","",3972
 "AS63949","Akamai Technologies, Inc.",3752
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3010
+"AS8075","Microsoft Corporation",3011
 "AS6939","Hurricane Electric LLC",2969
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2741
@@ -59,7 +59,7 @@ ASN,Organization,IP_Count
 "AS12876","ONLINE S.A.S.",640
 "AS201814","MEVSPACE sp. z o.o.",603
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS9009","M247 Europe SRL",591
+"AS9009","M247 Europe SRL",592
 "AS3462","Chunghwa Telecom Co., Ltd.",586
 "AS9829","Bharat Sanchar Nigam Ltd",585
 "AS53667","FranTech Solutions",567
@@ -69,7 +69,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",494
 "AS212238","Datacamp Limited",482
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",430
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",431
 "AS21859","Zenlayer Inc",426
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
@@ -104,7 +104,7 @@ ASN,Organization,IP_Count
 "AS50219","LNK SYSTEMS MUNTENIA SRL",195
 "AS34984","Superonline Iletisim Hizmetleri A.S.",185
 "AS7552","Viettel Group",182
-"AS8560","IONOS SE",179
+"AS8560","IONOS SE",180
 "AS30083","velia.net",178
 "AS42237","w1n ltd",177
 "AS215240","Silent Connection Ltd.",175
