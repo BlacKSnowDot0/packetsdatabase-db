@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88050
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22366
-"AS398324","Censys, Inc.",16123
+"AS211298","Driftnet Ltd",22368
+"AS398324","Censys, Inc.",16125
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10987
-"AS14061","DigitalOcean, LLC",8830
+"AS14061","DigitalOcean, LLC",8831
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6160
 "AS4134","Chinanet",5276
@@ -59,7 +59,7 @@ ASN,Organization,IP_Count
 "AS12876","ONLINE S.A.S.",640
 "AS201814","MEVSPACE sp. z o.o.",603
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS9009","M247 Europe SRL",589
+"AS9009","M247 Europe SRL",590
 "AS3462","Chunghwa Telecom Co., Ltd.",586
 "AS9829","Bharat Sanchar Nigam Ltd",585
 "AS53667","FranTech Solutions",566
@@ -445,6 +445,7 @@ ASN,Organization,IP_Count
 "AS41075","ATW Internet Kft.",12
 "AS41436","Kamatera Inc",12
 "AS4181","TDS TELECOM",12
+"AS55803","Hostopia Australia Web Pty Ltd",12
 "AS56694","LLC Smart Ape",12
 "AS62442","Dade Samane Fanava Company (PJS)",12
 "AS8400","TELEKOM SRBIJA a.d.",12
@@ -466,7 +467,6 @@ ASN,Organization,IP_Count
 "AS44901","Belcloud LTD",11
 "AS45820","TTSL-ISP DIVISION",11
 "AS48874","HOSTMAZE INC SRL-D",11
-"AS55803","Hostopia Australia Web Pty Ltd",11
 "AS58563","CHINANET Hubei province network",11
 "AS149359","PT Persada Data Multimedia",10
 "AS153443","VPSRE.NET LLC",10
