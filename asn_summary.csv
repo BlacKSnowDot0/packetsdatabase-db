@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88050
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22369
-"AS398324","Censys, Inc.",16128
+"AS398324","Censys, Inc.",16129
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10987
 "AS14061","DigitalOcean, LLC",8831
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4383
 "AS45102","Alibaba (US) Technology Co., Ltd.",4361
 "AS396998","Path Network, Inc.",3992
-"AS0","",3968
+"AS0","",3969
 "AS63949","Akamai Technologies, Inc.",3751
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
@@ -109,7 +109,7 @@ ASN,Organization,IP_Count
 "AS42237","w1n ltd",177
 "AS215240","Silent Connection Ltd.",175
 "AS401116","Nybula LLC",170
-"AS19905","Neustar Security Services",159
+"AS19905","Neustar Security Services",160
 "AS262551","Farol Telecom",157
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",151
@@ -131,8 +131,8 @@ ASN,Organization,IP_Count
 "AS136435","ELITE COMMUNICATION",101
 "AS396356","Latitude.sh",101
 "AS11320","LightEdge Solutions",100
+"AS32475","SingleHop LLC",98
 "AS28209","Under Servicos de Internet Ltda",97
-"AS32475","SingleHop LLC",97
 "AS63018","Dedicated.com",97
 "AS5617","Orange Polska Spolka Akcyjna",94
 "AS205352","KABELNET LTD",93
