@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88049
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22366
-"AS398324","Censys, Inc.",16116
+"AS398324","Censys, Inc.",16118
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10986
-"AS14061","DigitalOcean, LLC",8827
+"AS14061","DigitalOcean, LLC",8828
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6158
 "AS4134","Chinanet",5209
@@ -14,8 +14,8 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4383
 "AS45102","Alibaba (US) Technology Co., Ltd.",4354
 "AS396998","Path Network, Inc.",3992
-"AS0","",3966
-"AS63949","Akamai Technologies, Inc.",3748
+"AS0","",3967
+"AS63949","Akamai Technologies, Inc.",3749
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
@@ -56,7 +56,7 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",758
 "AS4837","CHINA UNICOM China169 Backbone",645
 "AS51115","HLL LLC",643
-"AS12876","ONLINE S.A.S.",638
+"AS12876","ONLINE S.A.S.",639
 "AS201814","MEVSPACE sp. z o.o.",603
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS9009","M247 Europe SRL",589
@@ -94,7 +94,7 @@ ASN,Organization,IP_Count
 "AS60223","Netiface Limited",251
 "AS29066","velia.net Internetdienste GmbH",247
 "AS12389","PJSC Rostelecom",245
-"AS29484","Ruhr-Universitaet Bochum",234
+"AS29484","Ruhr-Universitaet Bochum",235
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
@@ -466,6 +466,7 @@ ASN,Organization,IP_Count
 "AS44901","Belcloud LTD",11
 "AS45820","TTSL-ISP DIVISION",11
 "AS48874","HOSTMAZE INC SRL-D",11
+"AS55803","Hostopia Australia Web Pty Ltd",11
 "AS58563","CHINANET Hubei province network",11
 "AS149359","PT Persada Data Multimedia",10
 "AS153443","VPSRE.NET LLC",10
@@ -484,7 +485,6 @@ ASN,Organization,IP_Count
 "AS47524","Turksat Uydu Haberlesme ve Kablo TV Isletme A.S.",10
 "AS49434","FBW NETWORKS SAS",10
 "AS52468","UFINET PANAMA S.A.",10
-"AS55803","Hostopia Australia Web Pty Ltd",10
 "AS57269","DIGI SPAIN TELECOM S.L.U.",10
 "AS9930","TT DOTCOM SDN BHD",10
 "AS11888","Television Internacional, S.A. de C.V.",9
@@ -947,6 +947,7 @@ ASN,Organization,IP_Count
 "AS20454","SECURED SERVERS LLC",3
 "AS208583","Baffin Bay Networks AB",3
 "AS211826","Istqrar for Servers Services Ltd",3
+"AS213250","Dominic Scholz trading as ITP-Solutions GmbH & Co. KG",3
 "AS213354","INTERNATIONAL HOSTING SOLUTIONS LLP",3
 "AS214382","Bulent Aydin trading as Hostlayici",3
 "AS21499","Host Europe GmbH",3
@@ -1245,7 +1246,6 @@ ASN,Organization,IP_Count
 "AS212118","Malakhovskyi Hennadii",2
 "AS212531","UAB ""Interneto vizija""",2
 "AS213186","Yanoor Islam Khan",2
-"AS213250","Dominic Scholz trading as ITP-Solutions GmbH & Co. KG",2
 "AS213725","UK-03AI",2
 "AS214657","Bls Services Tecnologia em Software Ltda",2
 "AS21479","PJSC Rostelecom",2
