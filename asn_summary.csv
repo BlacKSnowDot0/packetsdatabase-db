@@ -1,10 +1,10 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88050
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88053
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22369
-"AS398324","Censys, Inc.",16137
+"AS398324","Censys, Inc.",16138
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10987
+"AS396982","Google LLC",10988
 "AS14061","DigitalOcean, LLC",8832
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6162
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4471
 "AS16509","Amazon.com, Inc.",4383
-"AS45102","Alibaba (US) Technology Co., Ltd.",4363
+"AS45102","Alibaba (US) Technology Co., Ltd.",4364
 "AS396998","Path Network, Inc.",3992
 "AS0","",3971
 "AS63949","Akamai Technologies, Inc.",3752
@@ -59,7 +59,7 @@ ASN,Organization,IP_Count
 "AS12876","ONLINE S.A.S.",640
 "AS201814","MEVSPACE sp. z o.o.",603
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS9009","M247 Europe SRL",590
+"AS9009","M247 Europe SRL",591
 "AS3462","Chunghwa Telecom Co., Ltd.",586
 "AS9829","Bharat Sanchar Nigam Ltd",585
 "AS53667","FranTech Solutions",567
@@ -115,8 +115,8 @@ ASN,Organization,IP_Count
 "AS14956","RouterHosting LLC",151
 "AS6739","VODAFONE ONO, S.A.",142
 "AS47105","Vault Dweller OU",141
+"AS4766","Korea Telecom",137
 "AS13238","YANDEX LLC",136
-"AS4766","Korea Telecom",136
 "AS151185","China Telecom",132
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",131
 "AS137409","GSL Networks Pty LTD",128
@@ -128,7 +128,7 @@ ASN,Organization,IP_Count
 "AS208287","DC Host INC",110
 "AS199785","Cloud Hosting Solutions, Limited.",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",107
-"AS396356","Latitude.sh",102
+"AS396356","Latitude.sh",104
 "AS136435","ELITE COMMUNICATION",101
 "AS32475","SingleHop LLC",101
 "AS11320","LightEdge Solutions",100
@@ -368,6 +368,7 @@ ASN,Organization,IP_Count
 "AS50340","JSC Selectel",17
 "AS56630","Melbikomas UAB",17
 "AS59134","PT. Datacomm Diangraha",17
+"AS6327","Shaw Communications Inc.",17
 "AS9269","Hong Kong Broadband Network Ltd",17
 "AS138915","Kaopu Cloud HK Limited",16
 "AS140726","China Unicom",16
@@ -378,7 +379,6 @@ ASN,Organization,IP_Count
 "AS328539","Giga for Telecommunication and Technology Limited",16
 "AS39351","31173 Services AB",16
 "AS46261","QuickPacket, LLC",16
-"AS6327","Shaw Communications Inc.",16
 "AS6597","Coloblox Data Centers Inc",16
 "AS1267","RIPE Network Coordination Centre",15
 "AS12849","Hot-Net internet services Ltd.",15
@@ -1535,6 +1535,7 @@ ASN,Organization,IP_Count
 "AS59187","NEEVAI SUPERCLOUD PVT LTD",2
 "AS59711","HZ Hosting Ltd",2
 "AS59930","Telegram Messenger Inc",2
+"AS60064","HOSTPALACE DATACENTERS LTD",2
 "AS60246","Consumer Internet Cooperative PG-19",2
 "AS60522","KomMITT-Ratingen GmbH",2
 "AS6079","RCN",2
@@ -3052,7 +3053,6 @@ ASN,Organization,IP_Count
 "AS59600","Atlas Telecom Ltd.",1
 "AS59825","Infanet Ltd.",1
 "AS59878","BFB ONE FZ-LLC",1
-"AS60064","HOSTPALACE DATACENTERS LTD",1
 "AS60072","LLC EGS-Telecom",1
 "AS60139","Sever Telecom JSC",1
 "AS60352","S E L C O M SHPK",1
