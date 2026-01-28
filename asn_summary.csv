@@ -2,17 +2,17 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88050
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22369
-"AS398324","Censys, Inc.",16129
+"AS398324","Censys, Inc.",16132
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10987
-"AS14061","DigitalOcean, LLC",8831
+"AS14061","DigitalOcean, LLC",8832
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6161
 "AS4134","Chinanet",5276
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4471
 "AS16509","Amazon.com, Inc.",4383
-"AS45102","Alibaba (US) Technology Co., Ltd.",4361
+"AS45102","Alibaba (US) Technology Co., Ltd.",4363
 "AS396998","Path Network, Inc.",3992
 "AS0","",3970
 "AS63949","Akamai Technologies, Inc.",3752
@@ -54,8 +54,8 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",784
 "AS211680","NSEC - Sistemas Informaticos, S.A.",780
 "AS14618","Amazon.com, Inc.",759
+"AS51115","HLL LLC",646
 "AS4837","CHINA UNICOM China169 Backbone",645
-"AS51115","HLL LLC",645
 "AS12876","ONLINE S.A.S.",640
 "AS201814","MEVSPACE sp. z o.o.",603
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -129,9 +129,9 @@ ASN,Organization,IP_Count
 "AS199785","Cloud Hosting Solutions, Limited.",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",107
 "AS136435","ELITE COMMUNICATION",101
+"AS32475","SingleHop LLC",101
 "AS396356","Latitude.sh",101
 "AS11320","LightEdge Solutions",100
-"AS32475","SingleHop LLC",100
 "AS28209","Under Servicos de Internet Ltda",97
 "AS63018","Dedicated.com",97
 "AS5617","Orange Polska Spolka Akcyjna",94
@@ -193,14 +193,14 @@ ASN,Organization,IP_Count
 "AS210558","1337 Services GmbH",51
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",50
 "AS266181","GOLDEN LINK",48
+"AS56067","Metrabyte Co.,Ltd",48
+"AS40676","Psychz Networks",47
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",47
-"AS56067","Metrabyte Co.,Ltd",47
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",47
 "AS10796","Charter Communications Inc",46
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
 "AS28546","Servnet Mexico, S.A. de C.V.",46
-"AS40676","Psychz Networks",46
 "AS12322","Free SAS",45
 "AS141995","Contabo Asia Private Limited",45
 "AS20473","The Constant Company, LLC",44
@@ -318,6 +318,7 @@ ASN,Organization,IP_Count
 "AS17638","ASN for TIANJIN Provincial Net of CT",21
 "AS214668","AxusHost B.V.",21
 "AS24348","CERNET2 IX at Tsinghua University",21
+"AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",21
 "AS30823","aurologic GmbH",21
 "AS46573","LayerHost",21
 "AS4800","PT Aplikanusa Lintasarta",21
@@ -332,7 +333,6 @@ ASN,Organization,IP_Count
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",20
 "AS22927","Telefonica de Argentina",20
 "AS24151","China Internet Network Infomation Center",20
-"AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS49531","""NetCom-R"" LLC",20
 "AS60781","LeaseWeb Netherlands B.V.",20
