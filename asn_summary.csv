@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88050
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22369
-"AS398324","Censys, Inc.",16132
+"AS398324","Censys, Inc.",16135
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10987
 "AS14061","DigitalOcean, LLC",8832
@@ -19,12 +19,12 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3009
+"AS8075","Microsoft Corporation",3010
 "AS6939","Hurricane Electric LLC",2969
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2720
 "AS142002","Scloud Pte Ltd",2621
-"AS202425","IP Volume inc",2116
+"AS202425","IP Volume inc",2117
 "AS9808","China Mobile",2089
 "AS32475","Internap Holding LLC",1787
 "AS214295","SKYNET NETWORK LTD",1631
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS13335","Cloudflare, Inc.",1462
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
-"AS174","Cogent Communications",1318
+"AS174","Cogent Communications",1319
 "AS215269","LAZYCLOUD LTD",1312
 "AS22552","eSited Solutions",1204
 "AS204428","SS-Net",1182
@@ -378,6 +378,7 @@ ASN,Organization,IP_Count
 "AS328539","Giga for Telecommunication and Technology Limited",16
 "AS39351","31173 Services AB",16
 "AS46261","QuickPacket, LLC",16
+"AS6327","Shaw Communications Inc.",16
 "AS6597","Coloblox Data Centers Inc",16
 "AS1267","RIPE Network Coordination Centre",15
 "AS12849","Hot-Net internet services Ltd.",15
@@ -398,7 +399,6 @@ ASN,Organization,IP_Count
 "AS31113","Artkomm LLC",15
 "AS397283","RocketNode Inc",15
 "AS48282","Hosting technology LTD",15
-"AS6327","Shaw Communications Inc.",15
 "AS64236","UnReal Servers, LLC",15
 "AS6849","JSC ""Ukrtelecom""",15
 "AS11232","Midcontinent Communications",14
@@ -639,6 +639,7 @@ ASN,Organization,IP_Count
 "AS27747","Telecentro S.A.",6
 "AS27983","Red Intercable Digital S.A.",6
 "AS28210","GIGA MAIS FIBRA TELECOMUNICACOES S.A.",6
+"AS30753","FHU ""COMPOWER"" Dariusz Krocz",6
 "AS33588","Charter Communications",6
 "AS33771","Safaricom Limited",6
 "AS33915","Vodafone Libertel B.V.",6
@@ -717,7 +718,6 @@ ASN,Organization,IP_Count
 "AS29049","Delta Telecom Ltd",5
 "AS29182","JSC IOT",5
 "AS30036","Mediacom Communications Corp",5
-"AS30753","FHU ""COMPOWER"" Dariusz Krocz",5
 "AS31133","PJSC MegaFon",5
 "AS328510","Ikeja Wireless (Pty) Ltd",5
 "AS329244","Connect, Surf and Smile Limited",5
