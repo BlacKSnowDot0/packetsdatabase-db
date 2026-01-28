@@ -4,7 +4,7 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22366
 "AS398324","Censys, Inc.",16115
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10985
+"AS396982","Google LLC",10986
 "AS14061","DigitalOcean, LLC",8825
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6158
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3003
-"AS6939","Hurricane Electric LLC",2967
+"AS6939","Hurricane Electric LLC",2968
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2720
 "AS142002","Scloud Pte Ltd",2621
@@ -30,12 +30,12 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS49870","Alsycon B.V.",1602
 "AS209605","UAB Host Baltic",1578
-"AS36352","HostPapa",1505
+"AS36352","HostPapa",1552
 "AS398722","Censys, Inc.",1473
 "AS13335","Cloudflare, Inc.",1462
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
-"AS174","Cogent Communications",1317
+"AS174","Cogent Communications",1318
 "AS215269","LAZYCLOUD LTD",1312
 "AS22552","eSited Solutions",1204
 "AS204428","SS-Net",1182
@@ -110,7 +110,7 @@ ASN,Organization,IP_Count
 "AS215240","Silent Connection Ltd.",175
 "AS401116","Nybula LLC",170
 "AS262551","Farol Telecom",157
-"AS19905","Neustar Security Services",154
+"AS19905","Neustar Security Services",155
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",151
 "AS6739","VODAFONE ONO, S.A.",142
@@ -252,12 +252,12 @@ ASN,Organization,IP_Count
 "AS263355","GTR NET COMUNICACOES EIRELI",32
 "AS1241","RIPE Network Coordination Centre",31
 "AS136142","Enigma Fiber Pvt Ltd",31
+"AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",31
 "AS17557","Pakistan Telecommuication company limited",31
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",31
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",31
 "AS58212","dataforest GmbH",31
 "AS852","TELUS Communications Inc.",31
-"AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",30
 "AS200593","PROSPERO OOO",30
 "AS20853","eTOP sp. z o.o.",30
 "AS214417","Andrii Hrosh",30
