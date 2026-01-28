@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88050
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22369
-"AS398324","Censys, Inc.",16135
+"AS398324","Censys, Inc.",16136
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10987
 "AS14061","DigitalOcean, LLC",8832
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6161
+"AS16276","OVH SAS",6162
 "AS4134","Chinanet",5276
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4471
@@ -54,7 +54,7 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",784
 "AS211680","NSEC - Sistemas Informaticos, S.A.",780
 "AS14618","Amazon.com, Inc.",759
-"AS51115","HLL LLC",646
+"AS51115","HLL LLC",647
 "AS4837","CHINA UNICOM China169 Backbone",645
 "AS12876","ONLINE S.A.S.",640
 "AS201814","MEVSPACE sp. z o.o.",603
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",590
 "AS3462","Chunghwa Telecom Co., Ltd.",586
 "AS9829","Bharat Sanchar Nigam Ltd",585
-"AS53667","FranTech Solutions",566
+"AS53667","FranTech Solutions",567
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS198953","Proton66 OOO",527
@@ -868,6 +868,7 @@ ASN,Organization,IP_Count
 "AS59142","Pemerintah Kota Batam",4
 "AS60404","The Infrastructure Group B.V.",4
 "AS62468","VpsQuan L.L.C.",4
+"AS7018","AT&T Services, Inc.",4
 "AS7482","Asia Pacific On-line Service Inc.",4
 "AS7545","TPG Internet Pty Ltd",4
 "AS8376","Jordan Data Communications Company LLC",4
@@ -1553,7 +1554,6 @@ ASN,Organization,IP_Count
 "AS6805","Telefonica Germany GmbH & Co.OHG",2
 "AS6871","British Telecommunications PLC",2
 "AS6876","TENET Scientific Production Enterprise LLC",2
-"AS7018","AT&T Services, Inc.",2
 "AS719","RIPE Network Coordination Centre",2
 "AS7377","University of California, San Diego",2
 "AS7459","Grande Communications Networks, LLC",2
