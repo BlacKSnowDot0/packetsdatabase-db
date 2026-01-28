@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88050
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22369
-"AS398324","Censys, Inc.",16127
+"AS398324","Censys, Inc.",16128
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10987
 "AS14061","DigitalOcean, LLC",8831
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3008
+"AS8075","Microsoft Corporation",3009
 "AS6939","Hurricane Electric LLC",2969
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2720
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1045
-"AS51167","Contabo GmbH",922
+"AS51167","Contabo GmbH",923
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",878
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS401120","cheapy.host LLC",557
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
-"AS50360","Tamatiya EOOD",492
+"AS50360","Tamatiya EOOD",493
 "AS212238","Datacamp Limited",482
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",430
 "AS21859","Zenlayer Inc",426
@@ -85,7 +85,7 @@ ASN,Organization,IP_Count
 "AS213613","BOTSHIELD LTD",318
 "AS214943","Railnet LLC",318
 "AS24863","LINKdotNET AS number",307
-"AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",304
+"AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",305
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS141718","haoxiangyun",288
@@ -109,7 +109,7 @@ ASN,Organization,IP_Count
 "AS42237","w1n ltd",177
 "AS215240","Silent Connection Ltd.",175
 "AS401116","Nybula LLC",170
-"AS19905","Neustar Security Services",158
+"AS19905","Neustar Security Services",159
 "AS262551","Farol Telecom",157
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",151
@@ -404,6 +404,7 @@ ASN,Organization,IP_Count
 "AS11232","Midcontinent Communications",14
 "AS1221","Telstra Limited",14
 "AS12400","Partner Communications Ltd.",14
+"AS16611","InfiniaHost.com",14
 "AS17639","ComClark Network & Technology Corp",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS213438","ColocaTel Inc.",14
@@ -421,7 +422,6 @@ ASN,Organization,IP_Count
 "AS134420","Chongqing Telecom",13
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",13
 "AS15895","""Kyivstar"" PJSC",13
-"AS16611","InfiniaHost.com",13
 "AS202520","SkyPass Solutions Sp. z.o.o.",13
 "AS2116","GLOBALCONNECT AS",13
 "AS213194","Nechaev Dmitry Sergeevich",13
