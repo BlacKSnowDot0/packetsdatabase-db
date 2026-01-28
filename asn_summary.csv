@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",16113
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",10984
-"AS14061","DigitalOcean, LLC",8823
+"AS14061","DigitalOcean, LLC",8824
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6158
 "AS4134","Chinanet",5209
@@ -55,7 +55,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",780
 "AS14618","Amazon.com, Inc.",758
 "AS4837","CHINA UNICOM China169 Backbone",645
-"AS51115","HLL LLC",640
+"AS51115","HLL LLC",641
 "AS12876","ONLINE S.A.S.",638
 "AS201814","MEVSPACE sp. z o.o.",603
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -92,7 +92,7 @@ ASN,Organization,IP_Count
 "AS18403","FPT Telecom Company",269
 "AS48090","TECHOFF SRV LIMITED",265
 "AS60223","Netiface Limited",251
-"AS29066","velia.net Internetdienste GmbH",246
+"AS29066","velia.net Internetdienste GmbH",247
 "AS12389","PJSC Rostelecom",245
 "AS29484","Ruhr-Universitaet Bochum",234
 "AS209272","Alviva Holding Limited",230
@@ -133,9 +133,9 @@ ASN,Organization,IP_Count
 "AS396356","Latitude.sh",98
 "AS28209","Under Servicos de Internet Ltda",97
 "AS63018","Dedicated.com",97
+"AS32475","SingleHop LLC",95
 "AS5617","Orange Polska Spolka Akcyjna",94
 "AS205352","KABELNET LTD",93
-"AS32475","SingleHop LLC",93
 "AS16735","ALGAR TELECOM S/A",91
 "AS23724","IDC, China Telecommunications Corporation",91
 "AS210125","PRIAM NET Sh.p.k.",89
