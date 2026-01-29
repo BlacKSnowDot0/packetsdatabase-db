@@ -2,24 +2,24 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88053
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22370
-"AS398324","Censys, Inc.",16147
+"AS398324","Censys, Inc.",16150
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10988
-"AS14061","DigitalOcean, LLC",8835
+"AS396982","Google LLC",10989
+"AS14061","DigitalOcean, LLC",8836
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6162
 "AS4134","Chinanet",5276
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4471
 "AS16509","Amazon.com, Inc.",4383
-"AS45102","Alibaba (US) Technology Co., Ltd.",4370
+"AS45102","Alibaba (US) Technology Co., Ltd.",4371
 "AS396998","Path Network, Inc.",3992
-"AS0","",3973
+"AS0","",3974
 "AS63949","Akamai Technologies, Inc.",3752
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3013
+"AS8075","Microsoft Corporation",3014
 "AS6939","Hurricane Electric LLC",2969
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2741
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2090
 "AS32475","Internap Holding LLC",1787
 "AS214295","SKYNET NETWORK LTD",1631
-"AS49870","Alsycon B.V.",1603
+"AS49870","Alsycon B.V.",1604
 "AS209605","UAB Host Baltic",1579
 "AS36352","HostPapa",1552
 "AS398722","Censys, Inc.",1474
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1045
-"AS51167","Contabo GmbH",924
+"AS51167","Contabo GmbH",926
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",878
@@ -56,7 +56,7 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",759
 "AS51115","HLL LLC",647
 "AS4837","CHINA UNICOM China169 Backbone",645
-"AS12876","ONLINE S.A.S.",641
+"AS12876","ONLINE S.A.S.",642
 "AS201814","MEVSPACE sp. z o.o.",603
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS9009","M247 Europe SRL",592
@@ -109,7 +109,7 @@ ASN,Organization,IP_Count
 "AS42237","w1n ltd",177
 "AS215240","Silent Connection Ltd.",175
 "AS401116","Nybula LLC",170
-"AS19905","Neustar Security Services",160
+"AS19905","Neustar Security Services",161
 "AS262551","Farol Telecom",157
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",151
@@ -194,13 +194,13 @@ ASN,Organization,IP_Count
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",50
 "AS266181","GOLDEN LINK",48
 "AS56067","Metrabyte Co.,Ltd",48
+"AS28546","Servnet Mexico, S.A. de C.V.",47
 "AS40676","Psychz Networks",47
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",47
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",47
 "AS10796","Charter Communications Inc",46
 "AS138156","CSNE Co., Ltd.",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
-"AS28546","Servnet Mexico, S.A. de C.V.",46
 "AS12322","Free SAS",45
 "AS141995","Contabo Asia Private Limited",45
 "AS20473","The Constant Company, LLC",44
@@ -1024,6 +1024,7 @@ ASN,Organization,IP_Count
 "AS37049","South African Digital Villages (Pty) Ltd",3
 "AS37671","3S INF",3
 "AS38700","SMILESERV",3
+"AS39308","ANDISHE SABZ KHAZAR CO. P.J.S.",3
 "AS39318","PS Internet Company LLC",3
 "AS399244","AME Hosting LLC",3
 "AS40065","CNSERVERS LLC",3
@@ -1418,7 +1419,6 @@ ASN,Organization,IP_Count
 "AS38333","Symbio Networks Pty Ltd",2
 "AS38732","CMC Telecom Infrastructure Company",2
 "AS39232","Uninet LLC",2
-"AS39308","ANDISHE SABZ KHAZAR CO. P.J.S.",2
 "AS393238","ImOn Communications, LLC",2
 "AS39397","Metronet LLC",2
 "AS39421","Sapinet SAS",2
