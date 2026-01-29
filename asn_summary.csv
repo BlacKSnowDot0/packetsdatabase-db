@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88054
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22377
-"AS398324","Censys, Inc.",16179
+"AS398324","Censys, Inc.",16181
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",11007
-"AS14061","DigitalOcean, LLC",8885
+"AS396982","Google LLC",11008
+"AS14061","DigitalOcean, LLC",8886
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6164
 "AS4134","Chinanet",5277
@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4384
 "AS45102","Alibaba (US) Technology Co., Ltd.",4372
 "AS396998","Path Network, Inc.",3992
-"AS0","",3980
+"AS0","",3981
 "AS63949","Akamai Technologies, Inc.",3756
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
@@ -60,7 +60,7 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",603
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS9009","M247 Europe SRL",592
-"AS9829","Bharat Sanchar Nigam Ltd",591
+"AS9829","Bharat Sanchar Nigam Ltd",592
 "AS3462","Chunghwa Telecom Co., Ltd.",586
 "AS53667","FranTech Solutions",567
 "AS31148","Freenet LTD",558
@@ -88,7 +88,7 @@ ASN,Organization,IP_Count
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",305
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
-"AS141718","haoxiangyun",290
+"AS141718","haoxiangyun",291
 "AS18403","FPT Telecom Company",269
 "AS48090","TECHOFF SRV LIMITED",265
 "AS60223","Netiface Limited",251
@@ -102,7 +102,7 @@ ASN,Organization,IP_Count
 "AS14987","Rethem Hosting LLC",215
 "AS63199","CDS Global Cloud Co., Ltd",205
 "AS50219","LNK SYSTEMS MUNTENIA SRL",198
-"AS34984","Superonline Iletisim Hizmetleri A.S.",185
+"AS34984","Superonline Iletisim Hizmetleri A.S.",186
 "AS7552","Viettel Group",182
 "AS8560","IONOS SE",180
 "AS30083","velia.net",178
@@ -228,9 +228,9 @@ ASN,Organization,IP_Count
 "AS149705","PT Wijaya Trimitra Indonesia",38
 "AS1680","Cellcom Fixed Line Communication L.P",38
 "AS197540","netcup GmbH",38
+"AS38623","VIETTEL (CAMBODIA) PTE., LTD",38
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",38
 "AS9123","TimeWeb Ltd.",38
-"AS38623","VIETTEL (CAMBODIA) PTE., LTD",37
 "AS42624","Global-Data System IT Corporation",37
 "AS8167","V tal",37
 "AS8796","FD-298-8796",37
