@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88053
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22375
-"AS398324","Censys, Inc.",16163
+"AS398324","Censys, Inc.",16165
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11003
 "AS14061","DigitalOcean, LLC",8846
@@ -12,14 +12,14 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4471
 "AS16509","Amazon.com, Inc.",4384
-"AS45102","Alibaba (US) Technology Co., Ltd.",4371
+"AS45102","Alibaba (US) Technology Co., Ltd.",4372
 "AS396998","Path Network, Inc.",3992
 "AS0","",3977
 "AS63949","Akamai Technologies, Inc.",3756
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3016
+"AS8075","Microsoft Corporation",3018
 "AS6939","Hurricane Electric LLC",2975
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2741
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS401120","cheapy.host LLC",557
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
-"AS50360","Tamatiya EOOD",494
+"AS50360","Tamatiya EOOD",495
 "AS212238","Datacamp Limited",482
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",432
 "AS21859","Zenlayer Inc",426
@@ -92,8 +92,8 @@ ASN,Organization,IP_Count
 "AS18403","FPT Telecom Company",269
 "AS48090","TECHOFF SRV LIMITED",265
 "AS60223","Netiface Limited",251
-"AS29066","velia.net Internetdienste GmbH",248
-"AS12389","PJSC Rostelecom",245
+"AS29066","velia.net Internetdienste GmbH",249
+"AS12389","PJSC Rostelecom",246
 "AS29484","Ruhr-Universitaet Bochum",236
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",230
@@ -109,7 +109,7 @@ ASN,Organization,IP_Count
 "AS42237","w1n ltd",177
 "AS215240","Silent Connection Ltd.",175
 "AS401116","Nybula LLC",170
-"AS19905","Neustar Security Services",168
+"AS19905","Neustar Security Services",169
 "AS262551","Farol Telecom",157
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",151
@@ -126,7 +126,7 @@ ASN,Organization,IP_Count
 "AS40021","Nubes, LLC",112
 "AS47331","TTNet A.S.",111
 "AS208287","DC Host INC",110
-"AS32475","SingleHop LLC",108
+"AS32475","SingleHop LLC",109
 "AS199785","Cloud Hosting Solutions, Limited.",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",107
 "AS396356","Latitude.sh",104
@@ -835,6 +835,7 @@ ASN,Organization,IP_Count
 "AS35104","Jusan Mobile JSC",4
 "AS36994","Vodacom",4
 "AS37517","CABO VERDE TELECOM, S.A",4
+"AS39308","ANDISHE SABZ KHAZAR CO. P.J.S.",4
 "AS395570","Beanfield Technologies Inc.",4
 "AS39816","Volta Communications Sp.z.o.o.",4
 "AS39891","Saudi Telecom Company JSC",4
@@ -1024,7 +1025,6 @@ ASN,Organization,IP_Count
 "AS37049","South African Digital Villages (Pty) Ltd",3
 "AS37671","3S INF",3
 "AS38700","SMILESERV",3
-"AS39308","ANDISHE SABZ KHAZAR CO. P.J.S.",3
 "AS39318","PS Internet Company LLC",3
 "AS399244","AME Hosting LLC",3
 "AS40065","CNSERVERS LLC",3
