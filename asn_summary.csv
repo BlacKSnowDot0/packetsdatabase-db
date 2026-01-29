@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88053
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22374
-"AS398324","Censys, Inc.",16158
+"AS398324","Censys, Inc.",16162
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11001
 "AS14061","DigitalOcean, LLC",8843
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3015
-"AS6939","Hurricane Electric LLC",2973
+"AS6939","Hurricane Electric LLC",2975
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2741
 "AS142002","Scloud Pte Ltd",2621
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS10439","CariNet, Inc.",787
 "AS211680","NSEC - Sistemas Informaticos, S.A.",780
-"AS14618","Amazon.com, Inc.",760
+"AS14618","Amazon.com, Inc.",761
 "AS51115","HLL LLC",647
 "AS4837","CHINA UNICOM China169 Backbone",645
 "AS12876","ONLINE S.A.S.",643
@@ -69,7 +69,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS50360","Tamatiya EOOD",494
 "AS212238","Datacamp Limited",482
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",431
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",432
 "AS21859","Zenlayer Inc",426
 "AS21299","Kar-Tel LLC",406
 "AS24186","RailTel Corporation of India Ltd.",406
@@ -109,7 +109,7 @@ ASN,Organization,IP_Count
 "AS42237","w1n ltd",177
 "AS215240","Silent Connection Ltd.",175
 "AS401116","Nybula LLC",170
-"AS19905","Neustar Security Services",165
+"AS19905","Neustar Security Services",167
 "AS262551","Farol Telecom",157
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",151
