@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88053
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22375
-"AS398324","Censys, Inc.",16162
+"AS398324","Censys, Inc.",16163
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",11002
-"AS14061","DigitalOcean, LLC",8845
+"AS396982","Google LLC",11003
+"AS14061","DigitalOcean, LLC",8846
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6164
 "AS4134","Chinanet",5276
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2741
 "AS142002","Scloud Pte Ltd",2621
-"AS202425","IP Volume inc",2121
+"AS202425","IP Volume inc",2122
 "AS9808","China Mobile",2090
 "AS32475","Internap Holding LLC",1787
 "AS214295","SKYNET NETWORK LTD",1631
@@ -94,7 +94,7 @@ ASN,Organization,IP_Count
 "AS60223","Netiface Limited",251
 "AS29066","velia.net Internetdienste GmbH",248
 "AS12389","PJSC Rostelecom",245
-"AS29484","Ruhr-Universitaet Bochum",235
+"AS29484","Ruhr-Universitaet Bochum",236
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
@@ -115,7 +115,7 @@ ASN,Organization,IP_Count
 "AS14956","RouterHosting LLC",151
 "AS6739","VODAFONE ONO, S.A.",142
 "AS47105","Vault Dweller OU",141
-"AS4766","Korea Telecom",138
+"AS4766","Korea Telecom",139
 "AS13238","YANDEX LLC",136
 "AS151185","China Telecom",132
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",131
