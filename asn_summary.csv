@@ -1,10 +1,10 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88053
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22373
-"AS398324","Censys, Inc.",16156
+"AS211298","Driftnet Ltd",22374
+"AS398324","Censys, Inc.",16158
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",11000
+"AS396982","Google LLC",11001
 "AS14061","DigitalOcean, LLC",8843
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6164
@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",4371
 "AS396998","Path Network, Inc.",3992
 "AS0","",3976
-"AS63949","Akamai Technologies, Inc.",3755
+"AS63949","Akamai Technologies, Inc.",3756
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1045
-"AS51167","Contabo GmbH",927
+"AS51167","Contabo GmbH",929
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",878
@@ -60,8 +60,8 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",603
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS9009","M247 Europe SRL",592
+"AS9829","Bharat Sanchar Nigam Ltd",588
 "AS3462","Chunghwa Telecom Co., Ltd.",586
-"AS9829","Bharat Sanchar Nigam Ltd",586
 "AS53667","FranTech Solutions",567
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
@@ -109,7 +109,7 @@ ASN,Organization,IP_Count
 "AS42237","w1n ltd",177
 "AS215240","Silent Connection Ltd.",175
 "AS401116","Nybula LLC",170
-"AS19905","Neustar Security Services",163
+"AS19905","Neustar Security Services",165
 "AS262551","Farol Telecom",157
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",151
@@ -126,9 +126,9 @@ ASN,Organization,IP_Count
 "AS40021","Nubes, LLC",112
 "AS47331","TTNet A.S.",111
 "AS208287","DC Host INC",110
+"AS32475","SingleHop LLC",108
 "AS199785","Cloud Hosting Solutions, Limited.",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",107
-"AS32475","SingleHop LLC",107
 "AS396356","Latitude.sh",104
 "AS136435","ELITE COMMUNICATION",101
 "AS11320","LightEdge Solutions",100
