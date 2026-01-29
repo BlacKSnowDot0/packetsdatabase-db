@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88054
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22377
-"AS398324","Censys, Inc.",16181
+"AS398324","Censys, Inc.",16182
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",11008
+"AS396982","Google LLC",11010
 "AS14061","DigitalOcean, LLC",8886
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6164
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2743
 "AS142002","Scloud Pte Ltd",2621
-"AS202425","IP Volume inc",2123
+"AS202425","IP Volume inc",2124
 "AS9808","China Mobile",2090
 "AS32475","Internap Holding LLC",1787
 "AS214295","SKYNET NETWORK LTD",1631
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",805
-"AS10439","CariNet, Inc.",787
+"AS10439","CariNet, Inc.",788
 "AS211680","NSEC - Sistemas Informaticos, S.A.",780
 "AS14618","Amazon.com, Inc.",761
 "AS51115","HLL LLC",647
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS401120","cheapy.host LLC",557
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
-"AS50360","Tamatiya EOOD",497
+"AS50360","Tamatiya EOOD",498
 "AS212238","Datacamp Limited",482
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",432
 "AS21859","Zenlayer Inc",426
@@ -417,6 +417,7 @@ ASN,Organization,IP_Count
 "AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",14
 "AS4808","China Unicom Beijing Province Network",14
 "AS48721","Flyservers S.A.",14
+"AS55803","Hostopia Australia Web Pty Ltd",14
 "AS9318","SK Broadband Co Ltd",14
 "AS11351","Charter Communications Inc",13
 "AS134420","Chongqing Telecom",13
@@ -433,7 +434,6 @@ ASN,Organization,IP_Count
 "AS38841","kbro CO. Ltd.",13
 "AS50304","Blix Solutions AS",13
 "AS53006","ALGAR TELECOM S/A",13
-"AS55803","Hostopia Australia Web Pty Ltd",13
 "AS9770","LG HelloVision Corp.",13
 "AS11172","Alestra, S. de R.L. de C.V.",12
 "AS150179","KAAL TECH CO., LIMITED",12
