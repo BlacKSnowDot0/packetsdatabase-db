@@ -14,12 +14,12 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4384
 "AS45102","Alibaba (US) Technology Co., Ltd.",4371
 "AS396998","Path Network, Inc.",3992
-"AS0","",3976
+"AS0","",3977
 "AS63949","Akamai Technologies, Inc.",3756
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3015
+"AS8075","Microsoft Corporation",3016
 "AS6939","Hurricane Electric LLC",2975
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2741
@@ -115,7 +115,7 @@ ASN,Organization,IP_Count
 "AS14956","RouterHosting LLC",151
 "AS6739","VODAFONE ONO, S.A.",142
 "AS47105","Vault Dweller OU",141
-"AS4766","Korea Telecom",137
+"AS4766","Korea Telecom",138
 "AS13238","YANDEX LLC",136
 "AS151185","China Telecom",132
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",131
@@ -570,6 +570,7 @@ ASN,Organization,IP_Count
 "AS207957","SERV.HOST GROUP LTD",7
 "AS215599","Zkillu SAS",7
 "AS215672","MoeChuang Network Limited",7
+"AS22612","Namecheap, Inc.",7
 "AS24961","WIIT AG",7
 "AS25490","PJSC Rostelecom",7
 "AS263238","Eliana Vanessa Morocho Oña",7
@@ -625,7 +626,6 @@ ASN,Organization,IP_Count
 "AS213893","IPTransit Business LTD",6
 "AS214762","Sebastian Stefanek trading as MatHost.eu",6
 "AS216158","Teleport Rus LLC",6
-"AS22612","Namecheap, Inc.",6
 "AS22724","PUNTONET S.A.",6
 "AS23089","Hotwire Communications",6
 "AS23201","Telecel S.A.",6
