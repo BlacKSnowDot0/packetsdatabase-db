@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88054
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22377
-"AS398324","Censys, Inc.",16184
+"AS211298","Driftnet Ltd",22378
+"AS398324","Censys, Inc.",16185
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11010
 "AS14061","DigitalOcean, LLC",8886
@@ -10,12 +10,12 @@ ASN,Organization,IP_Count
 "AS16276","OVH SAS",6164
 "AS4134","Chinanet",5277
 "AS6568","Entel S.A. - EntelNet",4537
-"AS58466","CHINANET Guangdong province network",4472
+"AS58466","CHINANET Guangdong province network",4473
 "AS16509","Amazon.com, Inc.",4384
 "AS45102","Alibaba (US) Technology Co., Ltd.",4372
 "AS396998","Path Network, Inc.",3992
 "AS0","",3983
-"AS63949","Akamai Technologies, Inc.",3756
+"AS63949","Akamai Technologies, Inc.",3757
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
@@ -123,7 +123,7 @@ ASN,Organization,IP_Count
 "AS36007","Kamatera, Inc.",122
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",114
 "AS211298","Constantine Cybersecurity Ltd.",113
-"AS32475","SingleHop LLC",112
+"AS32475","SingleHop LLC",113
 "AS40021","Nubes, LLC",112
 "AS47331","TTNet A.S.",111
 "AS208287","DC Host INC",110
@@ -354,6 +354,7 @@ ASN,Organization,IP_Count
 "AS39603","P4 Sp. z o.o.",18
 "AS400655","NixLabs Networks",18
 "AS5607","Sky UK Limited",18
+"AS59134","PT. Datacomm Diangraha",18
 "AS11427","Charter Communications Inc",17
 "AS136958","China Unicom Guangdong IP network",17
 "AS148981","China Telecom",17
@@ -367,7 +368,6 @@ ASN,Organization,IP_Count
 "AS48753","AVA HOST SRL",17
 "AS50340","JSC Selectel",17
 "AS56630","Melbikomas UAB",17
-"AS59134","PT. Datacomm Diangraha",17
 "AS6327","Shaw Communications Inc.",17
 "AS9269","Hong Kong Broadband Network Ltd",17
 "AS138915","Kaopu Cloud HK Limited",16
@@ -1278,6 +1278,7 @@ ASN,Organization,IP_Count
 "AS24444","China Mobile",2
 "AS24529","PT. Infotama Lintas Global",2
 "AS24534","PT. Transhybrid Communication",2
+"AS24544","Cloudie Limited",2
 "AS24550","Websurfer Nepal Communication System Pvt. Ltd",2
 "AS24739","JSC ""Severen-Telecom""",2
 "AS24945","Telecommunication Company Vinteleport Ltd.",2
@@ -2107,7 +2108,6 @@ ASN,Organization,IP_Count
 "AS24499","Telenor Pakistan (Pvt) Ltd",1
 "AS24521","PT. DATA Utama Dinamika",1
 "AS24525","PT Solusi Aksesindo Pratama",1
-"AS24544","Cloudie Limited",1
 "AS24608","WIND TRE S.P.A.",1
 "AS24631","Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS",1
 "AS24685","Load.me sp. z o. o.",1
