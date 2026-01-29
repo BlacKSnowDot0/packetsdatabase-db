@@ -14,8 +14,8 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4384
 "AS45102","Alibaba (US) Technology Co., Ltd.",4372
 "AS396998","Path Network, Inc.",3992
-"AS0","",3983
-"AS63949","Akamai Technologies, Inc.",3758
+"AS0","",3984
+"AS63949","Akamai Technologies, Inc.",3759
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
@@ -59,8 +59,8 @@ ASN,Organization,IP_Count
 "AS12876","ONLINE S.A.S.",644
 "AS201814","MEVSPACE sp. z o.o.",603
 "AS211849","Kakharov Orinbassar Maratuly",596
+"AS9829","Bharat Sanchar Nigam Ltd",593
 "AS9009","M247 Europe SRL",592
-"AS9829","Bharat Sanchar Nigam Ltd",592
 "AS3462","Chunghwa Telecom Co., Ltd.",586
 "AS53667","FranTech Solutions",567
 "AS31148","Freenet LTD",558
@@ -121,7 +121,7 @@ ASN,Organization,IP_Count
 "AS151185","China Telecom",132
 "AS137409","GSL Networks Pty LTD",128
 "AS36007","Kamatera, Inc.",122
-"AS32475","SingleHop LLC",114
+"AS32475","SingleHop LLC",115
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",114
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS40021","Nubes, LLC",112
@@ -191,8 +191,8 @@ ASN,Organization,IP_Count
 "AS30058","FDCservers.net",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS210558","1337 Services GmbH",51
+"AS40676","Psychz Networks",50
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",50
-"AS40676","Psychz Networks",49
 "AS266181","GOLDEN LINK",48
 "AS56067","Metrabyte Co.,Ltd",48
 "AS28546","Servnet Mexico, S.A. de C.V.",47
@@ -540,6 +540,7 @@ ASN,Organization,IP_Count
 "AS27967","Gobernacion de la Provincia de Buenos Aires",8
 "AS2860","NOS COMUNICACOES, S.A.",8
 "AS328723","Telasera Technologies PTY LTD",8
+"AS35916","MULTACOM CORPORATION",8
 "AS38283","CHINANET SiChuan Telecom Internet Data Center",8
 "AS400529","Infraly, LLC",8
 "AS41608","NextGenWebs, S.L.",8
@@ -582,7 +583,6 @@ ASN,Organization,IP_Count
 "AS31122","Digiweb ltd",7
 "AS3216","PJSC ""Vimpelcom""",7
 "AS3329","VODAFONE-PANAFON HELLENIC TELECOMMUNICATIONS COMPANY SA",7
-"AS35916","MULTACOM CORPORATION",7
 "AS36924","GVA Cote d'Ivoire SAS",7
 "AS395954","Leaseweb USA, Inc.",7
 "AS42610","PJSC Rostelecom",7
