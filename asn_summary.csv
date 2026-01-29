@@ -14,7 +14,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4384
 "AS45102","Alibaba (US) Technology Co., Ltd.",4372
 "AS396998","Path Network, Inc.",3992
-"AS0","",3981
+"AS0","",3982
 "AS63949","Akamai Technologies, Inc.",3756
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
@@ -22,7 +22,7 @@ ASN,Organization,IP_Count
 "AS8075","Microsoft Corporation",3020
 "AS6939","Hurricane Electric LLC",2975
 "AS213412","ONYPHE SAS",2795
-"AS23470","ReliableSite.Net LLC",2742
+"AS23470","ReliableSite.Net LLC",2743
 "AS142002","Scloud Pte Ltd",2621
 "AS202425","IP Volume inc",2123
 "AS9808","China Mobile",2090
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1045
-"AS51167","Contabo GmbH",931
+"AS51167","Contabo GmbH",932
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",878
@@ -56,7 +56,7 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",761
 "AS51115","HLL LLC",647
 "AS4837","CHINA UNICOM China169 Backbone",645
-"AS12876","ONLINE S.A.S.",643
+"AS12876","ONLINE S.A.S.",644
 "AS201814","MEVSPACE sp. z o.o.",603
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS9009","M247 Europe SRL",592
@@ -89,7 +89,7 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS141718","haoxiangyun",291
-"AS18403","FPT Telecom Company",269
+"AS18403","FPT Telecom Company",270
 "AS48090","TECHOFF SRV LIMITED",265
 "AS60223","Netiface Limited",251
 "AS29066","velia.net Internetdienste GmbH",249
@@ -256,6 +256,7 @@ ASN,Organization,IP_Count
 "AS17557","Pakistan Telecommuication company limited",31
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",31
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",31
+"AS41745","Baykov Ilya Sergeevich",31
 "AS58212","dataforest GmbH",31
 "AS852","TELUS Communications Inc.",31
 "AS200593","PROSPERO OOO",30
@@ -263,7 +264,6 @@ ASN,Organization,IP_Count
 "AS214417","Andrii Hrosh",30
 "AS3269","Telecom Italia S.p.A.",30
 "AS401152","Ace Data Centers II, L.L.C.",30
-"AS41745","Baykov Ilya Sergeevich",30
 "AS4713","NTT Communications Corporation",30
 "AS6134","XNNET LLC",30
 "AS3786","LG DACOM Corporation",29
@@ -2666,6 +2666,7 @@ ASN,Organization,IP_Count
 "AS34137","PJSC Rostelecom",1
 "AS34187","LLC Renome-Service",1
 "AS34204","Michail Mandryk",1
+"AS34224","Neterra Ltd.",1
 "AS34295","Geo BG Net SPLtd.",1
 "AS34470","PortTelekom LLC",1
 "AS34559","SvyazResurs-Region, ltd",1
