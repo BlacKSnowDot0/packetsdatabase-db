@@ -1,13 +1,13 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88053
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22371
-"AS398324","Censys, Inc.",16152
+"AS211298","Driftnet Ltd",22373
+"AS398324","Censys, Inc.",16155
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",10994
-"AS14061","DigitalOcean, LLC",8839
+"AS396982","Google LLC",10996
+"AS14061","DigitalOcean, LLC",8841
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6162
+"AS16276","OVH SAS",6164
 "AS4134","Chinanet",5276
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4471
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3015
-"AS6939","Hurricane Electric LLC",2970
+"AS6939","Hurricane Electric LLC",2971
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2741
 "AS142002","Scloud Pte Ltd",2621
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1604
 "AS209605","UAB Host Baltic",1579
 "AS36352","HostPapa",1552
-"AS398722","Censys, Inc.",1474
+"AS398722","Censys, Inc.",1475
 "AS13335","Cloudflare, Inc.",1462
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
@@ -61,7 +61,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS9009","M247 Europe SRL",592
 "AS3462","Chunghwa Telecom Co., Ltd.",586
-"AS9829","Bharat Sanchar Nigam Ltd",585
+"AS9829","Bharat Sanchar Nigam Ltd",586
 "AS53667","FranTech Solutions",567
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
@@ -109,7 +109,7 @@ ASN,Organization,IP_Count
 "AS42237","w1n ltd",177
 "AS215240","Silent Connection Ltd.",175
 "AS401116","Nybula LLC",170
-"AS19905","Neustar Security Services",161
+"AS19905","Neustar Security Services",163
 "AS262551","Farol Telecom",157
 "AS206264","Amarutu Technology Ltd",153
 "AS14956","RouterHosting LLC",151
@@ -128,7 +128,7 @@ ASN,Organization,IP_Count
 "AS208287","DC Host INC",110
 "AS199785","Cloud Hosting Solutions, Limited.",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",107
-"AS32475","SingleHop LLC",104
+"AS32475","SingleHop LLC",105
 "AS396356","Latitude.sh",104
 "AS136435","ELITE COMMUNICATION",101
 "AS11320","LightEdge Solutions",100
@@ -478,6 +478,7 @@ ASN,Organization,IP_Count
 "AS2516","KDDI CORPORATION",10
 "AS2527","Sony Network Communications Inc.",10
 "AS264628","CORPORACION FIBEX TELECOM, C.A.",10
+"AS266702","MEGALINK S.R.L.",10
 "AS328471","HERO TELECOMS (PTY) LTD",10
 "AS36903","Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",10
 "AS37705","TOPNET",10
@@ -503,7 +504,6 @@ ASN,Organization,IP_Count
 "AS213520","Senko Digital Ltd",9
 "AS214481","Wojciech Czapkowicz",9
 "AS24955","JSC ""Ufanet""",9
-"AS266702","MEGALINK S.R.L.",9
 "AS267280","YELLOW CONNECT MULTIMIDIA LTDA ME",9
 "AS30722","Vodafone Italia S.p.A.",9
 "AS38880","Micron21 Datacentre Pty Ltd",9
