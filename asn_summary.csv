@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88058
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22386
-"AS398324","Censys, Inc.",16210
+"AS398324","Censys, Inc.",16212
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11031
 "AS14061","DigitalOcean, LLC",8895
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1607
 "AS209605","UAB Host Baltic",1580
 "AS36352","HostPapa",1552
-"AS398722","Censys, Inc.",1478
+"AS398722","Censys, Inc.",1479
 "AS13335","Cloudflare, Inc.",1462
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
@@ -373,6 +373,7 @@ ASN,Organization,IP_Count
 "AS9269","Hong Kong Broadband Network Ltd",17
 "AS138915","Kaopu Cloud HK Limited",16
 "AS140726","China Unicom",16
+"AS17621","China Unicom Shanghai network",16
 "AS19901","Brightspeed",16
 "AS214309","Aurorix Gaming Solutions Limited",16
 "AS24812","NPK Home-Net Ltd.",16
@@ -384,7 +385,6 @@ ASN,Organization,IP_Count
 "AS1267","RIPE Network Coordination Centre",15
 "AS12849","Hot-Net internet services Ltd.",15
 "AS136515","Dasca Cable Services, Inc.",15
-"AS17621","China Unicom Shanghai network",15
 "AS19871","Network Solutions, LLC",15
 "AS199414","Noah Kolossa",15
 "AS20011","Dimension Data",15
