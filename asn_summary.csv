@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88057
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22386
-"AS398324","Censys, Inc.",16201
+"AS398324","Censys, Inc.",16202
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11029
 "AS14061","DigitalOcean, LLC",8888
@@ -14,12 +14,12 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4384
 "AS45102","Alibaba (US) Technology Co., Ltd.",4378
 "AS396998","Path Network, Inc.",3992
-"AS0","",3987
+"AS0","",3988
 "AS63949","Akamai Technologies, Inc.",3762
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3024
+"AS8075","Microsoft Corporation",3025
 "AS6939","Hurricane Electric LLC",2981
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2743
@@ -59,7 +59,7 @@ ASN,Organization,IP_Count
 "AS12876","ONLINE S.A.S.",645
 "AS201814","MEVSPACE sp. z o.o.",603
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS9829","Bharat Sanchar Nigam Ltd",595
+"AS9829","Bharat Sanchar Nigam Ltd",596
 "AS9009","M247 Europe SRL",593
 "AS3462","Chunghwa Telecom Co., Ltd.",586
 "AS53667","FranTech Solutions",567
@@ -103,7 +103,7 @@ ASN,Organization,IP_Count
 "AS63199","CDS Global Cloud Co., Ltd",205
 "AS50219","LNK SYSTEMS MUNTENIA SRL",200
 "AS34984","Superonline Iletisim Hizmetleri A.S.",186
-"AS19905","Neustar Security Services",183
+"AS19905","Neustar Security Services",184
 "AS8560","IONOS SE",183
 "AS7552","Viettel Group",182
 "AS30083","velia.net",178
@@ -191,7 +191,7 @@ ASN,Organization,IP_Count
 "AS30058","FDCservers.net",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS210558","1337 Services GmbH",51
-"AS40676","Psychz Networks",50
+"AS40676","Psychz Networks",51
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",50
 "AS266181","GOLDEN LINK",48
 "AS28546","Servnet Mexico, S.A. de C.V.",48
