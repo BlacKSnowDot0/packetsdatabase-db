@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88059
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22386
-"AS398324","Censys, Inc.",16215
+"AS398324","Censys, Inc.",16217
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",11033
+"AS396982","Google LLC",11034
 "AS14061","DigitalOcean, LLC",8896
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6170
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4474
 "AS16509","Amazon.com, Inc.",4385
 "AS45102","Alibaba (US) Technology Co., Ltd.",4378
-"AS0","",3992
+"AS0","",3993
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3765
 "AS15169","Google LLC",3582
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",805
-"AS10439","CariNet, Inc.",795
+"AS10439","CariNet, Inc.",796
 "AS211680","NSEC - Sistemas Informaticos, S.A.",780
 "AS14618","Amazon.com, Inc.",763
 "AS51115","HLL LLC",653
@@ -120,7 +120,7 @@ ASN,Organization,IP_Count
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",135
 "AS151185","China Telecom",132
 "AS137409","GSL Networks Pty LTD",128
-"AS32475","SingleHop LLC",124
+"AS32475","SingleHop LLC",125
 "AS36007","Kamatera, Inc.",122
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",114
 "AS211298","Constantine Cybersecurity Ltd.",113
@@ -353,6 +353,7 @@ ASN,Organization,IP_Count
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
 "AS39603","P4 Sp. z o.o.",18
 "AS400655","NixLabs Networks",18
+"AS55803","Hostopia Australia Web Pty Ltd",18
 "AS5607","Sky UK Limited",18
 "AS59134","PT. Datacomm Diangraha",18
 "AS11427","Charter Communications Inc",17
@@ -367,7 +368,6 @@ ASN,Organization,IP_Count
 "AS46375","Sonic Telecom LLC",17
 "AS48753","AVA HOST SRL",17
 "AS50340","JSC Selectel",17
-"AS55803","Hostopia Australia Web Pty Ltd",17
 "AS56630","Melbikomas UAB",17
 "AS6327","Shaw Communications Inc.",17
 "AS9269","Hong Kong Broadband Network Ltd",17
