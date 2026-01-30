@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88057
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22386
-"AS398324","Censys, Inc.",16202
+"AS398324","Censys, Inc.",16205
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11029
 "AS14061","DigitalOcean, LLC",8888
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2743
 "AS142002","Scloud Pte Ltd",2621
-"AS202425","IP Volume inc",2129
+"AS202425","IP Volume inc",2130
 "AS9808","China Mobile",2090
 "AS32475","Internap Holding LLC",1787
 "AS214295","SKYNET NETWORK LTD",1631
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1045
-"AS51167","Contabo GmbH",935
+"AS51167","Contabo GmbH",937
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",879
@@ -57,7 +57,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",651
 "AS4837","CHINA UNICOM China169 Backbone",647
 "AS12876","ONLINE S.A.S.",645
-"AS201814","MEVSPACE sp. z o.o.",603
+"AS201814","MEVSPACE sp. z o.o.",604
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS9829","Bharat Sanchar Nigam Ltd",596
 "AS9009","M247 Europe SRL",593
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS401120","cheapy.host LLC",557
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
-"AS50360","Tamatiya EOOD",508
+"AS50360","Tamatiya EOOD",509
 "AS212238","Datacamp Limited",482
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",432
 "AS21859","Zenlayer Inc",426
@@ -103,8 +103,8 @@ ASN,Organization,IP_Count
 "AS63199","CDS Global Cloud Co., Ltd",205
 "AS50219","LNK SYSTEMS MUNTENIA SRL",200
 "AS34984","Superonline Iletisim Hizmetleri A.S.",186
+"AS8560","IONOS SE",185
 "AS19905","Neustar Security Services",184
-"AS8560","IONOS SE",183
 "AS7552","Viettel Group",182
 "AS30083","velia.net",178
 "AS42237","w1n ltd",178
@@ -867,6 +867,7 @@ ASN,Organization,IP_Count
 "AS58087","Florian Kolb",4
 "AS58369","PT. Fiber Networks Indonesia",4
 "AS59142","Pemerintah Kota Batam",4
+"AS60064","HOSTPALACE DATACENTERS LTD",4
 "AS60404","The Infrastructure Group B.V.",4
 "AS62468","VpsQuan L.L.C.",4
 "AS7018","AT&T Services, Inc.",4
@@ -1069,7 +1070,6 @@ ASN,Organization,IP_Count
 "AS58291","ColoCenter b.v.",3
 "AS58715","Earth Telecommunication ( pvt ) Limited",3
 "AS59497","Buknet LLC",3
-"AS60064","HOSTPALACE DATACENTERS LTD",3
 "AS60117","Host Sailor Ltd",3
 "AS6057","Administracion Nacional de Telecomunicaciones",3
 "AS61112","AKILE LTD",3
