@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88055
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88056
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22386
-"AS398324","Censys, Inc.",16199
+"AS398324","Censys, Inc.",16201
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11028
 "AS14061","DigitalOcean, LLC",8888
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4474
 "AS16509","Amazon.com, Inc.",4384
-"AS45102","Alibaba (US) Technology Co., Ltd.",4373
+"AS45102","Alibaba (US) Technology Co., Ltd.",4376
 "AS396998","Path Network, Inc.",3992
 "AS0","",3987
 "AS63949","Akamai Technologies, Inc.",3762
@@ -60,14 +60,14 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",603
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS9829","Bharat Sanchar Nigam Ltd",595
-"AS9009","M247 Europe SRL",592
+"AS9009","M247 Europe SRL",593
 "AS3462","Chunghwa Telecom Co., Ltd.",586
 "AS53667","FranTech Solutions",567
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
-"AS50360","Tamatiya EOOD",506
+"AS50360","Tamatiya EOOD",507
 "AS212238","Datacamp Limited",482
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",432
 "AS21859","Zenlayer Inc",426
@@ -88,7 +88,7 @@ ASN,Organization,IP_Count
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",305
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
-"AS141718","haoxiangyun",293
+"AS141718","haoxiangyun",294
 "AS18403","FPT Telecom Company",271
 "AS48090","TECHOFF SRV LIMITED",265
 "AS60223","Netiface Limited",251
@@ -104,8 +104,8 @@ ASN,Organization,IP_Count
 "AS50219","LNK SYSTEMS MUNTENIA SRL",200
 "AS34984","Superonline Iletisim Hizmetleri A.S.",186
 "AS8560","IONOS SE",183
+"AS19905","Neustar Security Services",182
 "AS7552","Viettel Group",182
-"AS19905","Neustar Security Services",181
 "AS30083","velia.net",178
 "AS42237","w1n ltd",178
 "AS215240","Silent Connection Ltd.",175
