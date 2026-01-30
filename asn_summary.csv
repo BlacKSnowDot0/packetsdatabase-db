@@ -1,7 +1,7 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88059
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22386
+"AS211298","Driftnet Ltd",22387
 "AS398324","Censys, Inc.",16217
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11034
@@ -15,11 +15,11 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",4378
 "AS0","",3993
 "AS396998","Path Network, Inc.",3992
-"AS63949","Akamai Technologies, Inc.",3765
+"AS63949","Akamai Technologies, Inc.",3766
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3029
+"AS8075","Microsoft Corporation",3030
 "AS6939","Hurricane Electric LLC",2981
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2762
@@ -29,7 +29,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",1787
 "AS214295","SKYNET NETWORK LTD",1631
 "AS49870","Alsycon B.V.",1607
-"AS209605","UAB Host Baltic",1580
+"AS209605","UAB Host Baltic",1581
 "AS36352","HostPapa",1552
 "AS398722","Censys, Inc.",1479
 "AS13335","Cloudflare, Inc.",1462
@@ -58,7 +58,7 @@ ASN,Organization,IP_Count
 "AS12876","ONLINE S.A.S.",647
 "AS4837","CHINA UNICOM China169 Backbone",647
 "AS201814","MEVSPACE sp. z o.o.",607
-"AS9829","Bharat Sanchar Nigam Ltd",597
+"AS9829","Bharat Sanchar Nigam Ltd",598
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS9009","M247 Europe SRL",594
 "AS3462","Chunghwa Telecom Co., Ltd.",586
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS198953","Proton66 OOO",527
-"AS50360","Tamatiya EOOD",513
+"AS50360","Tamatiya EOOD",514
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",482
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",432
@@ -102,8 +102,8 @@ ASN,Organization,IP_Count
 "AS14987","Rethem Hosting LLC",215
 "AS63199","CDS Global Cloud Co., Ltd",205
 "AS50219","LNK SYSTEMS MUNTENIA SRL",200
+"AS8560","IONOS SE",189
 "AS34984","Superonline Iletisim Hizmetleri A.S.",186
-"AS8560","IONOS SE",186
 "AS19905","Neustar Security Services",185
 "AS7552","Viettel Group",182
 "AS30083","velia.net",178
