@@ -2,13 +2,13 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88054
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22382
-"AS398324","Censys, Inc.",16187
+"AS398324","Censys, Inc.",16188
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",11014
+"AS396982","Google LLC",11015
 "AS14061","DigitalOcean, LLC",8886
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6167
-"AS4134","Chinanet",5277
+"AS4134","Chinanet",5278
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4473
 "AS16509","Amazon.com, Inc.",4384
@@ -29,7 +29,7 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",1787
 "AS214295","SKYNET NETWORK LTD",1631
 "AS49870","Alsycon B.V.",1605
-"AS209605","UAB Host Baltic",1579
+"AS209605","UAB Host Baltic",1580
 "AS36352","HostPapa",1552
 "AS398722","Censys, Inc.",1477
 "AS13335","Cloudflare, Inc.",1462
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1045
-"AS51167","Contabo GmbH",932
+"AS51167","Contabo GmbH",933
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",878
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",805
-"AS10439","CariNet, Inc.",789
+"AS10439","CariNet, Inc.",791
 "AS211680","NSEC - Sistemas Informaticos, S.A.",780
 "AS14618","Amazon.com, Inc.",761
 "AS51115","HLL LLC",648
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS401120","cheapy.host LLC",557
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
-"AS50360","Tamatiya EOOD",500
+"AS50360","Tamatiya EOOD",502
 "AS212238","Datacamp Limited",482
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",432
 "AS21859","Zenlayer Inc",426
@@ -143,7 +143,7 @@ ASN,Organization,IP_Count
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
 "AS200019","ALEXHOST SRL",83
-"AS200514","KnownSRV Ltd.",81
+"AS200514","KnownSRV Ltd.",82
 "AS22773","Cox Communications Inc.",80
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",80
 "AS3920","ESTOXY OU",78
@@ -204,12 +204,12 @@ ASN,Organization,IP_Count
 "AS12322","Free SAS",45
 "AS141995","Contabo Asia Private Limited",45
 "AS20473","The Constant Company, LLC",44
+"AS210509","Optimum Line for Internet Services Ltd.",44
 "AS21928","T-Mobile USA, Inc.",44
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",44
 "AS152194","CTG Server Limited",43
-"AS210509","Optimum Line for Internet Services Ltd.",43
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS23969","TOT Public Company Limited",42
 "AS262378","Compuservice Empreendimentos Ltda",42
@@ -685,6 +685,7 @@ ASN,Organization,IP_Count
 "AS14315","1GSERVERS, LLC",5
 "AS15108","Allo Communications LLC",5
 "AS151858","INTERDIGI JOINT STOCK COMPANY",5
+"AS152605","Z COM NETWORKS",5
 "AS16010","Magticom Ltd.",5
 "AS16223","MAXNET TELECOM, LTD",5
 "AS17511","OPTAGE Inc.",5
@@ -780,7 +781,6 @@ ASN,Organization,IP_Count
 "AS150008","Pioneer Elabs Ltd.",4
 "AS15081","Omni Fiber",4
 "AS151576","PT Mahawira Nusantara Grup",4
-"AS152605","Z COM NETWORKS",4
 "AS15735","GO p.l.c.",4
 "AS15802","Emirates Integrated Telecommunications Company PJSC",4
 "AS15924","Vodafone Net Iletisim Hizmetler AS",4
