@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88059
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22387
-"AS398324","Censys, Inc.",16217
+"AS398324","Censys, Inc.",16220
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11034
-"AS14061","DigitalOcean, LLC",8896
+"AS14061","DigitalOcean, LLC",8897
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6170
 "AS4134","Chinanet",5280
@@ -718,6 +718,7 @@ ASN,Organization,IP_Count
 "AS28773","Global Technologies of Ukraine LLC",5
 "AS29049","Delta Telecom Ltd",5
 "AS29182","JSC IOT",5
+"AS29314","VECTRA S.A.",5
 "AS30036","Mediacom Communications Corp",5
 "AS31133","PJSC MegaFon",5
 "AS328510","Ikeja Wireless (Pty) Ltd",5
@@ -826,7 +827,6 @@ ASN,Organization,IP_Count
 "AS28258","VERO S.A",4
 "AS28753","Leaseweb Deutschland GmbH",4
 "AS28787","Baku Telephone Communication LLC",4
-"AS29314","VECTRA S.A.",4
 "AS30619","TMCEL - Moçambique Telecom, SA",4
 "AS327813","VIDOLU Group Pty Ltd-Web4Africa",4
 "AS329263","Libyan Spider for IT LTD.",4
