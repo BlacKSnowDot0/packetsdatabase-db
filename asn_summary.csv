@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88057
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22386
-"AS398324","Censys, Inc.",16207
+"AS398324","Censys, Inc.",16209
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11029
 "AS14061","DigitalOcean, LLC",8895
@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",4378
 "AS396998","Path Network, Inc.",3992
 "AS0","",3990
-"AS63949","Akamai Technologies, Inc.",3762
+"AS63949","Akamai Technologies, Inc.",3763
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
@@ -57,7 +57,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",653
 "AS4837","CHINA UNICOM China169 Backbone",647
 "AS12876","ONLINE S.A.S.",646
-"AS201814","MEVSPACE sp. z o.o.",604
+"AS201814","MEVSPACE sp. z o.o.",605
 "AS9829","Bharat Sanchar Nigam Ltd",597
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS9009","M247 Europe SRL",594
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS198953","Proton66 OOO",527
-"AS50360","Tamatiya EOOD",510
+"AS50360","Tamatiya EOOD",511
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",482
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",432
@@ -111,7 +111,7 @@ ASN,Organization,IP_Count
 "AS215240","Silent Connection Ltd.",175
 "AS401116","Nybula LLC",170
 "AS262551","Farol Telecom",157
-"AS14956","RouterHosting LLC",153
+"AS14956","RouterHosting LLC",154
 "AS206264","Amarutu Technology Ltd",153
 "AS6739","VODAFONE ONO, S.A.",142
 "AS47105","Vault Dweller OU",141
@@ -129,7 +129,7 @@ ASN,Organization,IP_Count
 "AS208287","DC Host INC",110
 "AS199785","Cloud Hosting Solutions, Limited.",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",107
-"AS396356","Latitude.sh",105
+"AS396356","Latitude.sh",107
 "AS136435","ELITE COMMUNICATION",101
 "AS11320","LightEdge Solutions",100
 "AS28209","Under Servicos de Internet Ltda",97
