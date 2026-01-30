@@ -1,26 +1,26 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88056
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88057
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22386
 "AS398324","Censys, Inc.",16201
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",11028
+"AS396982","Google LLC",11029
 "AS14061","DigitalOcean, LLC",8888
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6168
+"AS16276","OVH SAS",6169
 "AS4134","Chinanet",5280
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4474
 "AS16509","Amazon.com, Inc.",4384
-"AS45102","Alibaba (US) Technology Co., Ltd.",4376
+"AS45102","Alibaba (US) Technology Co., Ltd.",4378
 "AS396998","Path Network, Inc.",3992
 "AS0","",3987
 "AS63949","Akamai Technologies, Inc.",3762
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3022
-"AS6939","Hurricane Electric LLC",2980
+"AS8075","Microsoft Corporation",3024
+"AS6939","Hurricane Electric LLC",2981
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2743
 "AS142002","Scloud Pte Ltd",2621
@@ -51,9 +51,9 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",805
-"AS10439","CariNet, Inc.",792
+"AS10439","CariNet, Inc.",794
 "AS211680","NSEC - Sistemas Informaticos, S.A.",780
-"AS14618","Amazon.com, Inc.",762
+"AS14618","Amazon.com, Inc.",763
 "AS51115","HLL LLC",651
 "AS4837","CHINA UNICOM China169 Backbone",647
 "AS12876","ONLINE S.A.S.",645
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS401120","cheapy.host LLC",557
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
-"AS50360","Tamatiya EOOD",507
+"AS50360","Tamatiya EOOD",508
 "AS212238","Datacamp Limited",482
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",432
 "AS21859","Zenlayer Inc",426
@@ -121,7 +121,7 @@ ASN,Organization,IP_Count
 "AS151185","China Telecom",132
 "AS137409","GSL Networks Pty LTD",128
 "AS36007","Kamatera, Inc.",122
-"AS32475","SingleHop LLC",120
+"AS32475","SingleHop LLC",121
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",114
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS40021","Nubes, LLC",113
@@ -304,6 +304,7 @@ ASN,Organization,IP_Count
 "AS140061","China Telecom",22
 "AS16591","Google Fiber Inc.",22
 "AS213010","Gening Nikita Dmitrievich",22
+"AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",22
 "AS3320","Deutsche Telekom AG",22
 "AS400536","Nodestop LLC",22
 "AS43289","Trabia SRL",22
@@ -319,7 +320,6 @@ ASN,Organization,IP_Count
 "AS17638","ASN for TIANJIN Provincial Net of CT",21
 "AS214668","AxusHost B.V.",21
 "AS24348","CERNET2 IX at Tsinghua University",21
-"AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",21
 "AS30823","aurologic GmbH",21
 "AS46573","LayerHost",21
 "AS4800","PT Aplikanusa Lintasarta",21
