@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88058
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22386
-"AS398324","Censys, Inc.",16212
+"AS398324","Censys, Inc.",16215
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11031
 "AS14061","DigitalOcean, LLC",8895
@@ -13,8 +13,8 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4474
 "AS16509","Amazon.com, Inc.",4385
 "AS45102","Alibaba (US) Technology Co., Ltd.",4378
+"AS0","",3992
 "AS396998","Path Network, Inc.",3992
-"AS0","",3991
 "AS63949","Akamai Technologies, Inc.",3765
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2743
 "AS142002","Scloud Pte Ltd",2621
-"AS202425","IP Volume inc",2130
+"AS202425","IP Volume inc",2131
 "AS9808","China Mobile",2090
 "AS32475","Internap Holding LLC",1787
 "AS214295","SKYNET NETWORK LTD",1631
@@ -57,7 +57,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",653
 "AS4837","CHINA UNICOM China169 Backbone",647
 "AS12876","ONLINE S.A.S.",646
-"AS201814","MEVSPACE sp. z o.o.",605
+"AS201814","MEVSPACE sp. z o.o.",606
 "AS9829","Bharat Sanchar Nigam Ltd",597
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS9009","M247 Europe SRL",594
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS198953","Proton66 OOO",527
-"AS50360","Tamatiya EOOD",512
+"AS50360","Tamatiya EOOD",513
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",482
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",432
@@ -521,6 +521,7 @@ ASN,Organization,IP_Count
 "AS135953","Vietnam Online Network Solution Joint Stock Compnay",8
 "AS137697","CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou , Jiangsu Province, P.",8
 "AS138754","Kerala Vision Broad Band Private Limited",8
+"AS140869","Turing Group Limited",8
 "AS141295","Madhya Pradesh Agency For Promotion   Of Information Technology",8
 "AS17858","LG POWERCOMM",8
 "AS17882","MCS Com Co Ltd",8
@@ -558,7 +559,6 @@ ASN,Organization,IP_Count
 "AS13430","THE WISP.NET CORP.",7
 "AS135478","PT. Cyberindo Aditama",7
 "AS13977","Consolidated Communications, Inc.",7
-"AS140869","Turing Group Limited",7
 "AS141433","Netcom Internet Service",7
 "AS149360","PT Indo Telemedia Solusi",7
 "AS150034","FOFO NETWORKS PVT LTD",7
