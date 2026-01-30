@@ -1,5 +1,5 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88057
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88058
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22386
 "AS398324","Censys, Inc.",16209
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3025
+"AS8075","Microsoft Corporation",3026
 "AS6939","Hurricane Electric LLC",2981
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2743
@@ -46,7 +46,7 @@ ASN,Organization,IP_Count
 "AS51167","Contabo GmbH",938
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
-"AS208046","ColocationX Ltd.",879
+"AS208046","ColocationX Ltd.",880
 "AS215925","VPSVAULT.HOST LTD",873
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
@@ -76,7 +76,7 @@ ASN,Organization,IP_Count
 "AS7018","AT&T Enterprises, LLC",406
 "AS47890","UNMANAGED LTD",398
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
-"AS7713","Telekomunikasi Indonesia (PT)",366
+"AS7713","Telekomunikasi Indonesia (PT)",367
 "AS7922","Comcast Cable Communications, LLC",354
 "AS8151","Uninet S.A. de C.V.",341
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
@@ -103,8 +103,8 @@ ASN,Organization,IP_Count
 "AS63199","CDS Global Cloud Co., Ltd",205
 "AS50219","LNK SYSTEMS MUNTENIA SRL",200
 "AS34984","Superonline Iletisim Hizmetleri A.S.",186
+"AS8560","IONOS SE",186
 "AS19905","Neustar Security Services",185
-"AS8560","IONOS SE",185
 "AS7552","Viettel Group",182
 "AS30083","velia.net",178
 "AS42237","w1n ltd",178
@@ -611,6 +611,7 @@ ASN,Organization,IP_Count
 "AS13999","Mega Cable, S.A. de C.V.",6
 "AS141167","AgotoZ HK Limited",6
 "AS149078","VPSMMO TECHNOLOGY COMPANY LIMITED",6
+"AS152605","Z COM NETWORKS",6
 "AS15557","Societe Francaise Du Radiotelephone - SFR SA",6
 "AS16058","Gabon Telecom Internet Network Autonomous System",6
 "AS17754","Excellmedia",6
@@ -685,7 +686,6 @@ ASN,Organization,IP_Count
 "AS14315","1GSERVERS, LLC",5
 "AS15108","Allo Communications LLC",5
 "AS151858","INTERDIGI JOINT STOCK COMPANY",5
-"AS152605","Z COM NETWORKS",5
 "AS16010","Magticom Ltd.",5
 "AS16223","MAXNET TELECOM, LTD",5
 "AS17511","OPTAGE Inc.",5
