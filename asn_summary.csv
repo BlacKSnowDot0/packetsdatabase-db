@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88055
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22386
-"AS398324","Censys, Inc.",16197
+"AS398324","Censys, Inc.",16199
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",11027
+"AS396982","Google LLC",11028
 "AS14061","DigitalOcean, LLC",8888
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6168
@@ -14,13 +14,13 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4384
 "AS45102","Alibaba (US) Technology Co., Ltd.",4373
 "AS396998","Path Network, Inc.",3992
-"AS0","",3986
+"AS0","",3987
 "AS63949","Akamai Technologies, Inc.",3762
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3022
-"AS6939","Hurricane Electric LLC",2978
+"AS6939","Hurricane Electric LLC",2980
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2743
 "AS142002","Scloud Pte Ltd",2621
@@ -105,7 +105,7 @@ ASN,Organization,IP_Count
 "AS34984","Superonline Iletisim Hizmetleri A.S.",186
 "AS8560","IONOS SE",183
 "AS7552","Viettel Group",182
-"AS19905","Neustar Security Services",180
+"AS19905","Neustar Security Services",181
 "AS30083","velia.net",178
 "AS42237","w1n ltd",178
 "AS215240","Silent Connection Ltd.",175
@@ -121,7 +121,7 @@ ASN,Organization,IP_Count
 "AS151185","China Telecom",132
 "AS137409","GSL Networks Pty LTD",128
 "AS36007","Kamatera, Inc.",122
-"AS32475","SingleHop LLC",118
+"AS32475","SingleHop LLC",120
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",114
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS40021","Nubes, LLC",113
@@ -135,8 +135,8 @@ ASN,Organization,IP_Count
 "AS28209","Under Servicos de Internet Ltda",97
 "AS63018","Dedicated.com",97
 "AS5617","Orange Polska Spolka Akcyjna",94
+"AS16735","ALGAR TELECOM S/A",93
 "AS205352","KABELNET LTD",93
-"AS16735","ALGAR TELECOM S/A",92
 "AS23724","IDC, China Telecommunications Corporation",91
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS8402","PJSC ""Vimpelcom""",88
@@ -301,6 +301,7 @@ ASN,Organization,IP_Count
 "AS3257","GTT Communications Inc.",23
 "AS62240","Clouvider Limited",23
 "AS7303","Telecom Argentina S.A.",23
+"AS140061","China Telecom",22
 "AS16591","Google Fiber Inc.",22
 "AS213010","Gening Nikita Dmitrievich",22
 "AS3320","Deutsche Telekom AG",22
@@ -315,7 +316,6 @@ ASN,Organization,IP_Count
 "AS7029","Windstream Communications LLC",22
 "AS12479","Orange Espagne SA",21
 "AS138886","PT Data Buana Nusantara",21
-"AS140061","China Telecom",21
 "AS17638","ASN for TIANJIN Provincial Net of CT",21
 "AS214668","AxusHost B.V.",21
 "AS24348","CERNET2 IX at Tsinghua University",21
@@ -1567,6 +1567,7 @@ ASN,Organization,IP_Count
 "AS855","Bell Canada",2
 "AS8595","OOO WestCall Ltd.",2
 "AS8732","JSC Comcor",2
+"AS8948","099 PRIMO COMMUNICATIONS LTD",2
 "AS9050","Orange Romania S.A.",2
 "AS9070","""Cooolbox"" AD",2
 "AS9105","TalkTalk Communications Limited",2
@@ -3136,7 +3137,6 @@ ASN,Organization,IP_Count
 "AS8720","Aspan telecom",1
 "AS8728","AS INFONET",1
 "AS8814","Aztelekom LLC",1
-"AS8948","099 PRIMO COMMUNICATIONS LTD",1
 "AS9028","OHOST LLC",1
 "AS9125","Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun",1
 "AS9129","MTN Business Kenya",1
