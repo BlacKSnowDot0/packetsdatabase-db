@@ -4,8 +4,8 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22387
 "AS398324","Censys, Inc.",16220
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",11034
-"AS14061","DigitalOcean, LLC",8897
+"AS396982","Google LLC",11035
+"AS14061","DigitalOcean, LLC",8898
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6170
 "AS4134","Chinanet",5280
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3031
+"AS8075","Microsoft Corporation",3032
 "AS6939","Hurricane Electric LLC",2981
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2762
@@ -57,7 +57,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",653
 "AS12876","ONLINE S.A.S.",647
 "AS4837","CHINA UNICOM China169 Backbone",647
-"AS201814","MEVSPACE sp. z o.o.",607
+"AS201814","MEVSPACE sp. z o.o.",608
 "AS9829","Bharat Sanchar Nigam Ltd",599
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS9009","M247 Europe SRL",594
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS198953","Proton66 OOO",527
-"AS50360","Tamatiya EOOD",514
+"AS50360","Tamatiya EOOD",515
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",482
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",432
@@ -101,7 +101,7 @@ ASN,Organization,IP_Count
 "AS12555","Data-center IMAQLIQ Ltd.",219
 "AS14987","Rethem Hosting LLC",215
 "AS63199","CDS Global Cloud Co., Ltd",205
-"AS50219","LNK SYSTEMS MUNTENIA SRL",200
+"AS50219","LNK SYSTEMS MUNTENIA SRL",201
 "AS8560","IONOS SE",189
 "AS34984","Superonline Iletisim Hizmetleri A.S.",186
 "AS19905","Neustar Security Services",185
@@ -120,7 +120,7 @@ ASN,Organization,IP_Count
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",135
 "AS151185","China Telecom",132
 "AS137409","GSL Networks Pty LTD",128
-"AS32475","SingleHop LLC",125
+"AS32475","SingleHop LLC",127
 "AS36007","Kamatera, Inc.",122
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",114
 "AS211298","Constantine Cybersecurity Ltd.",113
