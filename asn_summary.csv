@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88057
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22386
-"AS398324","Censys, Inc.",16206
+"AS398324","Censys, Inc.",16207
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11029
-"AS14061","DigitalOcean, LLC",8888
+"AS14061","DigitalOcean, LLC",8895
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6169
 "AS4134","Chinanet",5280
@@ -54,13 +54,13 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",794
 "AS211680","NSEC - Sistemas Informaticos, S.A.",780
 "AS14618","Amazon.com, Inc.",763
-"AS51115","HLL LLC",651
+"AS51115","HLL LLC",653
 "AS4837","CHINA UNICOM China169 Backbone",647
 "AS12876","ONLINE S.A.S.",646
 "AS201814","MEVSPACE sp. z o.o.",604
+"AS9829","Bharat Sanchar Nigam Ltd",597
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS9829","Bharat Sanchar Nigam Ltd",596
-"AS9009","M247 Europe SRL",593
+"AS9009","M247 Europe SRL",594
 "AS3462","Chunghwa Telecom Co., Ltd.",586
 "AS53667","FranTech Solutions",567
 "AS31148","Freenet LTD",558
@@ -117,7 +117,7 @@ ASN,Organization,IP_Count
 "AS47105","Vault Dweller OU",141
 "AS4766","Korea Telecom",141
 "AS13238","YANDEX LLC",136
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",133
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",134
 "AS151185","China Telecom",132
 "AS137409","GSL Networks Pty LTD",128
 "AS32475","SingleHop LLC",122
