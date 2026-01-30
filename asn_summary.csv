@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88055
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22386
-"AS398324","Censys, Inc.",16195
+"AS398324","Censys, Inc.",16197
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11027
 "AS14061","DigitalOcean, LLC",8888
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6167
+"AS16276","OVH SAS",6168
 "AS4134","Chinanet",5280
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4474
@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",4373
 "AS396998","Path Network, Inc.",3992
 "AS0","",3986
-"AS63949","Akamai Technologies, Inc.",3761
+"AS63949","Akamai Technologies, Inc.",3762
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1607
 "AS209605","UAB Host Baltic",1580
 "AS36352","HostPapa",1552
-"AS398722","Censys, Inc.",1477
+"AS398722","Censys, Inc.",1478
 "AS13335","Cloudflare, Inc.",1462
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
@@ -51,15 +51,15 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",805
-"AS10439","CariNet, Inc.",791
+"AS10439","CariNet, Inc.",792
 "AS211680","NSEC - Sistemas Informaticos, S.A.",780
 "AS14618","Amazon.com, Inc.",762
-"AS51115","HLL LLC",650
-"AS4837","CHINA UNICOM China169 Backbone",646
+"AS51115","HLL LLC",651
+"AS4837","CHINA UNICOM China169 Backbone",647
 "AS12876","ONLINE S.A.S.",645
 "AS201814","MEVSPACE sp. z o.o.",603
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS9829","Bharat Sanchar Nigam Ltd",594
+"AS9829","Bharat Sanchar Nigam Ltd",595
 "AS9009","M247 Europe SRL",592
 "AS3462","Chunghwa Telecom Co., Ltd.",586
 "AS53667","FranTech Solutions",567
@@ -67,7 +67,7 @@ ASN,Organization,IP_Count
 "AS401120","cheapy.host LLC",557
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
-"AS50360","Tamatiya EOOD",505
+"AS50360","Tamatiya EOOD",506
 "AS212238","Datacamp Limited",482
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",432
 "AS21859","Zenlayer Inc",426
@@ -105,7 +105,7 @@ ASN,Organization,IP_Count
 "AS34984","Superonline Iletisim Hizmetleri A.S.",186
 "AS8560","IONOS SE",183
 "AS7552","Viettel Group",182
-"AS19905","Neustar Security Services",179
+"AS19905","Neustar Security Services",180
 "AS30083","velia.net",178
 "AS42237","w1n ltd",178
 "AS215240","Silent Connection Ltd.",175
@@ -346,11 +346,11 @@ ASN,Organization,IP_Count
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",19
 "AS24757","EthioNet",19
 "AS262287","Maxihost LTDA",19
+"AS33363","Charter Communications, Inc",19
 "AS6167","Verizon Business",19
 "AS6697","Republican Unitary Telecommunication Enterprise Beltelecom",19
 "AS18049","Taiwan Infrastructure Network Technologie",18
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
-"AS33363","Charter Communications, Inc",18
 "AS39603","P4 Sp. z o.o.",18
 "AS400655","NixLabs Networks",18
 "AS5607","Sky UK Limited",18
@@ -1989,6 +1989,7 @@ ASN,Organization,IP_Count
 "AS20477","Randolph Telephone Company",1
 "AS204770","UAB Cherry Servers",1
 "AS20485","Joint Stock Company TransTeleCom",1
+"AS204861","Codisa Telco Solutions S.L.",1
 "AS204929","Television, Telephony, Internet of Ukraine Ltd.",1
 "AS204997","FIRST SERVER LIMITED",1
 "AS205157","Daniel Cid",1
