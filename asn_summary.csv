@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88060
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22387
-"AS398324","Censys, Inc.",16233
+"AS398324","Censys, Inc.",16234
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",11043
+"AS396982","Google LLC",11044
 "AS14061","DigitalOcean, LLC",8899
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6173
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3033
-"AS6939","Hurricane Electric LLC",2984
+"AS6939","Hurricane Electric LLC",2985
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2763
 "AS142002","Scloud Pte Ltd",2621
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS198953","Proton66 OOO",527
-"AS50360","Tamatiya EOOD",518
+"AS50360","Tamatiya EOOD",520
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",482
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",434
@@ -324,6 +324,7 @@ ASN,Organization,IP_Count
 "AS46573","LayerHost",21
 "AS4800","PT Aplikanusa Lintasarta",21
 "AS50887","DC FIBER HOME SRL",21
+"AS55803","Hostopia Australia Web Pty Ltd",21
 "AS812","Rogers Communications Canada Inc.",21
 "AS9299","Philippine Long Distance Telephone Co.",21
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
@@ -353,7 +354,6 @@ ASN,Organization,IP_Count
 "AS207326","HostLAB Bilisim Teknolojileri A.S.",18
 "AS39603","P4 Sp. z o.o.",18
 "AS400655","NixLabs Networks",18
-"AS55803","Hostopia Australia Web Pty Ltd",18
 "AS5607","Sky UK Limited",18
 "AS59134","PT. Datacomm Diangraha",18
 "AS11427","Charter Communications Inc",17
@@ -1288,6 +1288,7 @@ ASN,Organization,IP_Count
 "AS25553","TRK Gluhov Ltd.",2
 "AS2561","Egyptian Universities Network (EUN)",2
 "AS25820","IT7 Networks Inc",2
+"AS25861","Toggle Fire Networks",2
 "AS26141","CubePath",2
 "AS262191","COLUMBUS NETWORKS COLOMBIA",2
 "AS262197","MILLICOM CABLE COSTA RICA S.A.",2
@@ -1738,6 +1739,7 @@ ASN,Organization,IP_Count
 "AS138997","Eons Data Communications Limited",1
 "AS139007","UNICOM InnerMongolia province network",1
 "AS139029","AKNetworks",1
+"AS139070","Google Asia Pacific Pte. Ltd.",1
 "AS139080","China Mobile Communications Corporation",1
 "AS139220","China Telecom",1
 "AS139282","Novus Network",1
@@ -2131,7 +2133,6 @@ ASN,Organization,IP_Count
 "AS25520","JSC ""Futures Telecom""",1
 "AS25521","Industrial Media Network LLC",1
 "AS25769","Garden Valley Telephone Company",1
-"AS25861","Toggle Fire Networks",1
 "AS25921","LUS Fiber",1
 "AS26042","FiberState, LLC",1
 "AS2609","Tunisia BackBone AS",1
