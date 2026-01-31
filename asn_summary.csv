@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88061
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22389
-"AS398324","Censys, Inc.",16237
+"AS398324","Censys, Inc.",16240
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11048
 "AS14061","DigitalOcean, LLC",8899
@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4474
 "AS16509","Amazon.com, Inc.",4385
-"AS45102","Alibaba (US) Technology Co., Ltd.",4383
+"AS45102","Alibaba (US) Technology Co., Ltd.",4384
 "AS0","",3995
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3769
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1045
-"AS51167","Contabo GmbH",942
+"AS51167","Contabo GmbH",943
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",882
@@ -122,7 +122,7 @@ ASN,Organization,IP_Count
 "AS32475","SingleHop LLC",130
 "AS137409","GSL Networks Pty LTD",128
 "AS36007","Kamatera, Inc.",122
-"AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",114
+"AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",115
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS40021","Nubes, LLC",113
 "AS47331","TTNet A.S.",111
