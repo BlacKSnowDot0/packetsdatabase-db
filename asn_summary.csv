@@ -1,10 +1,10 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88061
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22388
-"AS398324","Censys, Inc.",16236
+"AS211298","Driftnet Ltd",22389
+"AS398324","Censys, Inc.",16237
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",11046
+"AS396982","Google LLC",11048
 "AS14061","DigitalOcean, LLC",8899
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6173
@@ -20,11 +20,11 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3034
-"AS6939","Hurricane Electric LLC",2985
+"AS6939","Hurricane Electric LLC",2986
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2763
 "AS142002","Scloud Pte Ltd",2621
-"AS202425","IP Volume inc",2131
+"AS202425","IP Volume inc",2132
 "AS9808","China Mobile",2090
 "AS32475","Internap Holding LLC",1787
 "AS214295","SKYNET NETWORK LTD",1631
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS198953","Proton66 OOO",527
-"AS50360","Tamatiya EOOD",520
+"AS50360","Tamatiya EOOD",521
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",482
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",434
@@ -236,8 +236,8 @@ ASN,Organization,IP_Count
 "AS8167","V tal",37
 "AS8796","FD-298-8796",37
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",36
+"AS269193","Iktelecom Ltda",36
 "AS213790","Limited Network LTD",35
-"AS269193","Iktelecom Ltda",35
 "AS55990","Huawei Cloud Service data center",35
 "AS13213","UK-2 Limited",34
 "AS146817","Hubei Feixun Network Co., Ltd",34
@@ -385,6 +385,7 @@ ASN,Organization,IP_Count
 "AS1267","RIPE Network Coordination Centre",15
 "AS12849","Hot-Net internet services Ltd.",15
 "AS136515","Dasca Cable Services, Inc.",15
+"AS16611","InfiniaHost.com",15
 "AS19871","Network Solutions, LLC",15
 "AS199414","Noah Kolossa",15
 "AS20011","Dimension Data",15
@@ -405,7 +406,6 @@ ASN,Organization,IP_Count
 "AS11232","Midcontinent Communications",14
 "AS1221","Telstra Limited",14
 "AS12400","Partner Communications Ltd.",14
-"AS16611","InfiniaHost.com",14
 "AS17639","ComClark Network & Technology Corp",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS213438","ColocaTel Inc.",14
