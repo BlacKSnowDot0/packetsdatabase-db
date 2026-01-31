@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88064
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88065
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22389
-"AS398324","Censys, Inc.",16252
+"AS211298","Driftnet Ltd",22391
+"AS398324","Censys, Inc.",16254
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11052
-"AS14061","DigitalOcean, LLC",8900
+"AS14061","DigitalOcean, LLC",8901
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6173
 "AS4134","Chinanet",5280
@@ -24,13 +24,13 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2763
 "AS142002","Scloud Pte Ltd",2621
-"AS202425","IP Volume inc",2134
+"AS202425","IP Volume inc",2135
 "AS9808","China Mobile",2090
 "AS32475","Internap Holding LLC",1787
 "AS214295","SKYNET NETWORK LTD",1631
 "AS49870","Alsycon B.V.",1607
 "AS209605","UAB Host Baltic",1582
-"AS36352","HostPapa",1552
+"AS36352","HostPapa",1553
 "AS398722","Censys, Inc.",1481
 "AS13335","Cloudflare, Inc.",1462
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS10439","CariNet, Inc.",798
 "AS211680","NSEC - Sistemas Informaticos, S.A.",780
-"AS14618","Amazon.com, Inc.",765
+"AS14618","Amazon.com, Inc.",766
 "AS51115","HLL LLC",653
 "AS12876","ONLINE S.A.S.",648
 "AS4837","CHINA UNICOM China169 Backbone",648
@@ -432,6 +432,7 @@ ASN,Organization,IP_Count
 "AS29465","MTN NIGERIA Communication limited",13
 "AS37105","RAIN GROUP HOLDINGS (PTY) LTD",13
 "AS38841","kbro CO. Ltd.",13
+"AS45753","Netsec Limited",13
 "AS50304","Blix Solutions AS",13
 "AS53006","ALGAR TELECOM S/A",13
 "AS9770","LG HelloVision Corp.",13
@@ -589,7 +590,6 @@ ASN,Organization,IP_Count
 "AS395954","Leaseweb USA, Inc.",7
 "AS42610","PJSC Rostelecom",7
 "AS44486","Oliver Horscht is trading as ""SYNLINQ""",7
-"AS45753","Netsec Limited",7
 "AS4771","Spark New Zealand Trading Limited",7
 "AS4811","China Telecom (Group)",7
 "AS49505","JSC Selectel",7
