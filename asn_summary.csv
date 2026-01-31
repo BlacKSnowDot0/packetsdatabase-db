@@ -2,18 +2,18 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88065
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22391
-"AS398324","Censys, Inc.",16254
+"AS398324","Censys, Inc.",16255
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11052
 "AS14061","DigitalOcean, LLC",8901
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6173
+"AS16276","OVH SAS",6174
 "AS4134","Chinanet",5280
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4474
 "AS45102","Alibaba (US) Technology Co., Ltd.",4388
 "AS16509","Amazon.com, Inc.",4385
-"AS0","",4000
+"AS0","",4001
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3769
 "AS15169","Google LLC",3582
@@ -66,10 +66,10 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS198953","Proton66 OOO",527
-"AS50360","Tamatiya EOOD",524
+"AS50360","Tamatiya EOOD",525
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",482
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",434
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",435
 "AS21859","Zenlayer Inc",426
 "AS24186","RailTel Corporation of India Ltd.",407
 "AS21299","Kar-Tel LLC",406
@@ -102,7 +102,7 @@ ASN,Organization,IP_Count
 "AS14987","Rethem Hosting LLC",215
 "AS63199","CDS Global Cloud Co., Ltd",206
 "AS50219","LNK SYSTEMS MUNTENIA SRL",201
-"AS8560","IONOS SE",192
+"AS8560","IONOS SE",193
 "AS19905","Neustar Security Services",187
 "AS34984","Superonline Iletisim Hizmetleri A.S.",186
 "AS7552","Viettel Group",182
@@ -535,6 +535,7 @@ ASN,Organization,IP_Count
 "AS209956","Telkoturk Iletisim Hizmetleri A.S.",8
 "AS215730","H2NEXUS LTD",8
 "AS216300","Closed Joint Stock Company ""AbkhazMedia""",8
+"AS22612","Namecheap, Inc.",8
 "AS24086","Viettel Corporation",8
 "AS262459","Osirnet Info Telecom Ltda.",8
 "AS266274","NETWEST TELECOM",8
@@ -575,7 +576,6 @@ ASN,Organization,IP_Count
 "AS207957","SERV.HOST GROUP LTD",7
 "AS215599","Zkillu SAS",7
 "AS215672","MoeChuang Network Limited",7
-"AS22612","Namecheap, Inc.",7
 "AS24961","WIIT AG",7
 "AS25490","PJSC Rostelecom",7
 "AS263238","Eliana Vanessa Morocho Oña",7
