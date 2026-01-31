@@ -1,10 +1,10 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88062
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88064
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22389
-"AS398324","Censys, Inc.",16251
+"AS398324","Censys, Inc.",16252
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",11051
+"AS396982","Google LLC",11052
 "AS14061","DigitalOcean, LLC",8900
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6173
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4474
 "AS45102","Alibaba (US) Technology Co., Ltd.",4388
 "AS16509","Amazon.com, Inc.",4385
-"AS0","",3999
+"AS0","",4000
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3769
 "AS15169","Google LLC",3582
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1607
 "AS209605","UAB Host Baltic",1582
 "AS36352","HostPapa",1552
-"AS398722","Censys, Inc.",1480
+"AS398722","Censys, Inc.",1481
 "AS13335","Cloudflare, Inc.",1462
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1045
-"AS51167","Contabo GmbH",945
+"AS51167","Contabo GmbH",947
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",882
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS10439","CariNet, Inc.",798
 "AS211680","NSEC - Sistemas Informaticos, S.A.",780
-"AS14618","Amazon.com, Inc.",764
+"AS14618","Amazon.com, Inc.",765
 "AS51115","HLL LLC",653
 "AS12876","ONLINE S.A.S.",648
 "AS4837","CHINA UNICOM China169 Backbone",648
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS198953","Proton66 OOO",527
-"AS50360","Tamatiya EOOD",523
+"AS50360","Tamatiya EOOD",524
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",482
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",434
@@ -87,8 +87,8 @@ ASN,Organization,IP_Count
 "AS24863","LINKdotNET AS number",307
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",305
 "AS9341","PT Indonesia Comnets Plus",297
+"AS141718","haoxiangyun",296
 "AS210848","Telkom Internet LTD",296
-"AS141718","haoxiangyun",295
 "AS18403","FPT Telecom Company",271
 "AS48090","TECHOFF SRV LIMITED",265
 "AS29066","velia.net Internetdienste GmbH",251
@@ -200,11 +200,11 @@ ASN,Organization,IP_Count
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",47
 "AS10796","Charter Communications Inc",46
 "AS138156","CSNE Co., Ltd.",46
+"AS141995","Contabo Asia Private Limited",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
 "AS12322","Free SAS",45
-"AS141995","Contabo Asia Private Limited",45
+"AS210509","Optimum Line for Internet Services Ltd.",45
 "AS20473","The Constant Company, LLC",44
-"AS210509","Optimum Line for Internet Services Ltd.",44
 "AS21928","T-Mobile USA, Inc.",44
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
@@ -1974,6 +1974,7 @@ ASN,Organization,IP_Count
 "AS201776","Miranda-Media Ltd",1
 "AS201819","Uslugi Internetowe ""MAJESTIC"" MICHALINA SIWEK-MIEKUS, Sklep Odziezowy ""Anna"", S",1
 "AS20205","Amplex Electric, Inc.",1
+"AS20207","Gigared S.A.",1
 "AS202279","GYN DNR KOMTEL",1
 "AS202513","Gestioniza Infraestructuras S.L.",1
 "AS202578","""KUBANENERGOSERVICE"" LLC",1
