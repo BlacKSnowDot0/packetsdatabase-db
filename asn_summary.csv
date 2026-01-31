@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88061
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22389
-"AS398324","Censys, Inc.",16245
+"AS398324","Censys, Inc.",16246
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",11049
-"AS14061","DigitalOcean, LLC",8899
+"AS396982","Google LLC",11050
+"AS14061","DigitalOcean, LLC",8900
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6173
 "AS4134","Chinanet",5280
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4474
 "AS45102","Alibaba (US) Technology Co., Ltd.",4387
 "AS16509","Amazon.com, Inc.",4385
-"AS0","",3996
+"AS0","",3997
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3769
 "AS15169","Google LLC",3582
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS198953","Proton66 OOO",527
-"AS50360","Tamatiya EOOD",522
+"AS50360","Tamatiya EOOD",523
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",482
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",434
@@ -80,7 +80,7 @@ ASN,Organization,IP_Count
 "AS7922","Comcast Cable Communications, LLC",354
 "AS8151","Uninet S.A. de C.V.",341
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
-"AS208843","Alpha Strike Labs GmbH",327
+"AS208843","Alpha Strike Labs GmbH",328
 "AS45899","VNPT Corp",319
 "AS213613","BOTSHIELD LTD",318
 "AS214943","Railnet LLC",318
@@ -94,7 +94,7 @@ ASN,Organization,IP_Count
 "AS29066","velia.net Internetdienste GmbH",251
 "AS60223","Netiface Limited",251
 "AS12389","PJSC Rostelecom",246
-"AS29484","Ruhr-Universitaet Bochum",237
+"AS29484","Ruhr-Universitaet Bochum",238
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
@@ -102,8 +102,8 @@ ASN,Organization,IP_Count
 "AS14987","Rethem Hosting LLC",215
 "AS63199","CDS Global Cloud Co., Ltd",206
 "AS50219","LNK SYSTEMS MUNTENIA SRL",201
-"AS8560","IONOS SE",190
-"AS19905","Neustar Security Services",186
+"AS8560","IONOS SE",191
+"AS19905","Neustar Security Services",187
 "AS34984","Superonline Iletisim Hizmetleri A.S.",186
 "AS7552","Viettel Group",182
 "AS42237","w1n ltd",179
