@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88068
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22392
-"AS398324","Censys, Inc.",16258
+"AS398324","Censys, Inc.",16260
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11056
 "AS14061","DigitalOcean, LLC",8901
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3034
+"AS8075","Microsoft Corporation",3035
 "AS6939","Hurricane Electric LLC",2987
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2763
@@ -65,8 +65,8 @@ ASN,Organization,IP_Count
 "AS53667","FranTech Solutions",567
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
+"AS50360","Tamatiya EOOD",528
 "AS198953","Proton66 OOO",527
-"AS50360","Tamatiya EOOD",527
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",482
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",435
@@ -111,7 +111,7 @@ ASN,Organization,IP_Count
 "AS215240","Silent Connection Ltd.",175
 "AS401116","Nybula LLC",170
 "AS262551","Farol Telecom",158
-"AS14956","RouterHosting LLC",155
+"AS14956","RouterHosting LLC",156
 "AS206264","Amarutu Technology Ltd",153
 "AS6739","VODAFONE ONO, S.A.",143
 "AS47105","Vault Dweller OU",141
