@@ -130,7 +130,7 @@ ASN,Organization,IP_Count
 "AS199785","Cloud Hosting Solutions, Limited.",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",107
 "AS396356","Latitude.sh",107
-"AS136435","ELITE COMMUNICATION",101
+"AS136435","ELITE COMMUNICATION",102
 "AS11320","LightEdge Solutions",100
 "AS28209","Under Servicos de Internet Ltda",98
 "AS63018","Dedicated.com",97
@@ -299,6 +299,7 @@ ASN,Organization,IP_Count
 "AS17816","China Unicom IP network China169 Guangdong province",23
 "AS198037","SPACECORE SOLUTION LTD",23
 "AS3257","GTT Communications Inc.",23
+"AS55803","Hostopia Australia Web Pty Ltd",23
 "AS62240","Clouvider Limited",23
 "AS7303","Telecom Argentina S.A.",23
 "AS140061","China Telecom",22
@@ -312,7 +313,6 @@ ASN,Organization,IP_Count
 "AS4816","China Telecom (Group)",22
 "AS51430","AltusHost B.V.",22
 "AS5384","EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",22
-"AS55803","Hostopia Australia Web Pty Ltd",22
 "AS62068","SpectraIP B.V.",22
 "AS63859","PT. Eka Mas Republik",22
 "AS7029","Windstream Communications LLC",22
