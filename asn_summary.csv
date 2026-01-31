@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88069
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22392
-"AS398324","Censys, Inc.",16261
+"AS211298","Driftnet Ltd",22393
+"AS398324","Censys, Inc.",16262
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11056
 "AS14061","DigitalOcean, LLC",8901
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS53667","FranTech Solutions",567
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS50360","Tamatiya EOOD",528
+"AS50360","Tamatiya EOOD",529
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",482
@@ -116,9 +116,9 @@ ASN,Organization,IP_Count
 "AS6739","VODAFONE ONO, S.A.",143
 "AS47105","Vault Dweller OU",141
 "AS4766","Korea Telecom",141
+"AS32475","SingleHop LLC",137
 "AS13238","YANDEX LLC",136
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",136
-"AS32475","SingleHop LLC",136
 "AS151185","China Telecom",132
 "AS137409","GSL Networks Pty LTD",128
 "AS36007","Kamatera, Inc.",122
