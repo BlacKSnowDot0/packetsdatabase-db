@@ -8,7 +8,7 @@ ASN,Organization,IP_Count
 "AS14061","DigitalOcean, LLC",8901
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6174
-"AS4134","Chinanet",5280
+"AS4134","Chinanet",5281
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4474
 "AS45102","Alibaba (US) Technology Co., Ltd.",4388
@@ -66,7 +66,7 @@ ASN,Organization,IP_Count
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS198953","Proton66 OOO",527
-"AS50360","Tamatiya EOOD",525
+"AS50360","Tamatiya EOOD",526
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",482
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",435
@@ -312,6 +312,7 @@ ASN,Organization,IP_Count
 "AS4816","China Telecom (Group)",22
 "AS51430","AltusHost B.V.",22
 "AS5384","EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",22
+"AS55803","Hostopia Australia Web Pty Ltd",22
 "AS62068","SpectraIP B.V.",22
 "AS63859","PT. Eka Mas Republik",22
 "AS7029","Windstream Communications LLC",22
@@ -324,7 +325,6 @@ ASN,Organization,IP_Count
 "AS46573","LayerHost",21
 "AS4800","PT Aplikanusa Lintasarta",21
 "AS50887","DC FIBER HOME SRL",21
-"AS55803","Hostopia Australia Web Pty Ltd",21
 "AS812","Rogers Communications Canada Inc.",21
 "AS9299","Philippine Long Distance Telephone Co.",21
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
@@ -1115,6 +1115,7 @@ ASN,Organization,IP_Count
 "AS12810","A1 Hrvatska d.o.o.",2
 "AS12963","""SCIENTIFIC-INDUSTRIAL FIRM ""VOLZ"" LIMITED LIABILITY COMPANY",2
 "AS13099","AzEuroTel J.V.",2
+"AS131414","Long Van Soft Solution JSC",2
 "AS131442","Digital Network Associates Pvt Ltd",2
 "AS131584","Taiwan Intelligent Fiber Optic Network Co.,Ltd.",2
 "AS131706","PT SELARAS CITRA TERABIT",2
@@ -1626,7 +1627,6 @@ ASN,Organization,IP_Count
 "AS131178","EZECOM CO., LTD.",1
 "AS131210","2713/4 lakshmi building adipampa road v.v.mohalla",1
 "AS131398","LOTTE INNOVATE VIETNAM COMPANY LIMITED",1
-"AS131414","Long Van Soft Solution JSC",1
 "AS131445","ADVANCED WIRELESS NETWORK COMPANY LIMITED",1
 "AS131464","Digi Jadoo Broadband Ltd",1
 "AS131471","Login.Me (Pvt) Ltd",1
