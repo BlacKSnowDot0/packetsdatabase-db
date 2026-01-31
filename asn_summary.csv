@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88060
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22387
-"AS398324","Censys, Inc.",16231
+"AS398324","Censys, Inc.",16233
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",11042
-"AS14061","DigitalOcean, LLC",8898
+"AS396982","Google LLC",11043
+"AS14061","DigitalOcean, LLC",8899
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6173
 "AS4134","Chinanet",5280
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4474
 "AS16509","Amazon.com, Inc.",4385
 "AS45102","Alibaba (US) Technology Co., Ltd.",4383
-"AS0","",3994
+"AS0","",3995
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3769
 "AS15169","Google LLC",3582
@@ -22,7 +22,7 @@ ASN,Organization,IP_Count
 "AS8075","Microsoft Corporation",3033
 "AS6939","Hurricane Electric LLC",2984
 "AS213412","ONYPHE SAS",2795
-"AS23470","ReliableSite.Net LLC",2762
+"AS23470","ReliableSite.Net LLC",2763
 "AS142002","Scloud Pte Ltd",2621
 "AS202425","IP Volume inc",2131
 "AS9808","China Mobile",2090
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1045
-"AS51167","Contabo GmbH",941
+"AS51167","Contabo GmbH",942
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",882
@@ -58,7 +58,7 @@ ASN,Organization,IP_Count
 "AS12876","ONLINE S.A.S.",647
 "AS4837","CHINA UNICOM China169 Backbone",647
 "AS201814","MEVSPACE sp. z o.o.",608
-"AS9829","Bharat Sanchar Nigam Ltd",599
+"AS9829","Bharat Sanchar Nigam Ltd",600
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS9009","M247 Europe SRL",594
 "AS3462","Chunghwa Telecom Co., Ltd.",586
@@ -119,7 +119,7 @@ ASN,Organization,IP_Count
 "AS13238","YANDEX LLC",136
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",136
 "AS151185","China Telecom",132
-"AS32475","SingleHop LLC",129
+"AS32475","SingleHop LLC",130
 "AS137409","GSL Networks Pty LTD",128
 "AS36007","Kamatera, Inc.",122
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",114
