@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88062
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22389
-"AS398324","Censys, Inc.",16247
+"AS398324","Censys, Inc.",16251
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11051
 "AS14061","DigitalOcean, LLC",8900
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4474
 "AS45102","Alibaba (US) Technology Co., Ltd.",4388
 "AS16509","Amazon.com, Inc.",4385
-"AS0","",3998
+"AS0","",3999
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3769
 "AS15169","Google LLC",3582
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS10439","CariNet, Inc.",798
 "AS211680","NSEC - Sistemas Informaticos, S.A.",780
-"AS14618","Amazon.com, Inc.",763
+"AS14618","Amazon.com, Inc.",764
 "AS51115","HLL LLC",653
 "AS12876","ONLINE S.A.S.",648
 "AS4837","CHINA UNICOM China169 Backbone",648
@@ -102,7 +102,7 @@ ASN,Organization,IP_Count
 "AS14987","Rethem Hosting LLC",215
 "AS63199","CDS Global Cloud Co., Ltd",206
 "AS50219","LNK SYSTEMS MUNTENIA SRL",201
-"AS8560","IONOS SE",191
+"AS8560","IONOS SE",192
 "AS19905","Neustar Security Services",187
 "AS34984","Superonline Iletisim Hizmetleri A.S.",186
 "AS7552","Viettel Group",182
@@ -119,7 +119,7 @@ ASN,Organization,IP_Count
 "AS13238","YANDEX LLC",136
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",136
 "AS151185","China Telecom",132
-"AS32475","SingleHop LLC",130
+"AS32475","SingleHop LLC",132
 "AS137409","GSL Networks Pty LTD",128
 "AS36007","Kamatera, Inc.",122
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",115
@@ -137,7 +137,7 @@ ASN,Organization,IP_Count
 "AS5617","Orange Polska Spolka Akcyjna",94
 "AS16735","ALGAR TELECOM S/A",93
 "AS205352","KABELNET LTD",93
-"AS23724","IDC, China Telecommunications Corporation",91
+"AS23724","IDC, China Telecommunications Corporation",92
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS8402","PJSC ""Vimpelcom""",88
 "AS271795","SERVITELCONET CIA. LTDA.",85
@@ -216,10 +216,10 @@ ASN,Organization,IP_Count
 "AS7738","V tal",42
 "AS204834","Shabakieh Isfahan Co PJSC",41
 "AS26599","TELEFÔNICA BRASIL S.A",41
+"AS4760","PCCW IMS Limited",41
 "AS1103","SURF B.V.",40
 "AS27699","TELEFÔNICA BRASIL S.A",40
 "AS43641","SOLLUTIUM EU Sp z.o.o.",40
-"AS4760","PCCW IMS Limited",40
 "AS5089","Virgin Media Limited",40
 "AS329009","Spectrum Internet Service Ltd",39
 "AS4538","China Education and Research Network Center",39
@@ -752,6 +752,7 @@ ASN,Organization,IP_Count
 "AS58118","SC ADINET-Com SRL",5
 "AS58898","Rainbow communications India Pvt Ltd",5
 "AS59504","LLC Vpsville",5
+"AS60064","HOSTPALACE DATACENTERS LTD",5
 "AS60631","Pars Parva System LLC",5
 "AS61135","COMNET BILGI ILETISIM TEKNOLOJILERI TICARET A.S.",5
 "AS61461","Airtek Solutions C.A.",5
@@ -869,7 +870,6 @@ ASN,Organization,IP_Count
 "AS58087","Florian Kolb",4
 "AS58369","PT. Fiber Networks Indonesia",4
 "AS59142","Pemerintah Kota Batam",4
-"AS60064","HOSTPALACE DATACENTERS LTD",4
 "AS60404","The Infrastructure Group B.V.",4
 "AS62468","VpsQuan L.L.C.",4
 "AS7018","AT&T Services, Inc.",4
