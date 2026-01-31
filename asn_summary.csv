@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88071
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22393
-"AS398324","Censys, Inc.",16269
+"AS398324","Censys, Inc.",16270
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",11061
+"AS396982","Google LLC",11062
 "AS14061","DigitalOcean, LLC",8901
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6174
@@ -116,7 +116,7 @@ ASN,Organization,IP_Count
 "AS6739","VODAFONE ONO, S.A.",143
 "AS47105","Vault Dweller OU",141
 "AS4766","Korea Telecom",141
-"AS32475","SingleHop LLC",137
+"AS32475","SingleHop LLC",138
 "AS13238","YANDEX LLC",136
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",136
 "AS151185","China Telecom",132
@@ -1378,6 +1378,7 @@ ASN,Organization,IP_Count
 "AS29222","Infomaniak Network SA",2
 "AS29256","Syrian Telecom",2
 "AS29456","PJSC Rostelecom",2
+"AS30092","ASSERTIVENET",2
 "AS30936","RENET COM Ltd.",2
 "AS31012","A1 Hrvatska d.o.o.",2
 "AS31034","Aruba S.p.A.",2
@@ -2619,7 +2620,6 @@ ASN,Organization,IP_Count
 "AS29744","United Telephone Mutual Aid Corporation",1
 "AS29802","HIVELOCITY, Inc.",1
 "AS29968","Dunkirk & Fredonia Telephone Company",1
-"AS30092","ASSERTIVENET",1
 "AS30848","TWT S.p.A.",1
 "AS30881","MTS PJSC",1
 "AS30985","IKATEL SA",1
