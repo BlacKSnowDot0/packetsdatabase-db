@@ -1,10 +1,10 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88060
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88061
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22387
-"AS398324","Censys, Inc.",16234
+"AS398324","Censys, Inc.",16236
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",11044
+"AS396982","Google LLC",11045
 "AS14061","DigitalOcean, LLC",8899
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6173
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3033
+"AS8075","Microsoft Corporation",3034
 "AS6939","Hurricane Electric LLC",2985
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2763
@@ -113,7 +113,7 @@ ASN,Organization,IP_Count
 "AS262551","Farol Telecom",157
 "AS14956","RouterHosting LLC",155
 "AS206264","Amarutu Technology Ltd",153
-"AS6739","VODAFONE ONO, S.A.",142
+"AS6739","VODAFONE ONO, S.A.",143
 "AS47105","Vault Dweller OU",141
 "AS4766","Korea Telecom",141
 "AS13238","YANDEX LLC",136
@@ -190,8 +190,8 @@ ASN,Organization,IP_Count
 "AS215762","Bullet Group LTD",54
 "AS30058","FDCservers.net",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
+"AS40676","Psychz Networks",53
 "AS210558","1337 Services GmbH",51
-"AS40676","Psychz Networks",51
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",50
 "AS266181","GOLDEN LINK",48
 "AS28546","Servnet Mexico, S.A. de C.V.",48
@@ -1695,6 +1695,7 @@ ASN,Organization,IP_Count
 "AS136200","CHINANET Guangdong province Foshan MAN network",1
 "AS136255","Telecom International Myanmar Company Limited",1
 "AS136287","Falconet Internet Pvt.ltd.",1
+"AS136359","Hansin It Services Pvt. Ltd.",1
 "AS136373","Allied It Infrastructure And Services Pvt Ltd",1
 "AS136514","Onesky Communications Limited.",1
 "AS136698","Devdarpan Broadband Pvt. Ltd.",1
@@ -2617,6 +2618,7 @@ ASN,Organization,IP_Count
 "AS29744","United Telephone Mutual Aid Corporation",1
 "AS29802","HIVELOCITY, Inc.",1
 "AS29968","Dunkirk & Fredonia Telephone Company",1
+"AS30092","ASSERTIVENET",1
 "AS30848","TWT S.p.A.",1
 "AS30881","MTS PJSC",1
 "AS30985","IKATEL SA",1
