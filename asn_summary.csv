@@ -1,10 +1,10 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88059
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88060
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22387
-"AS398324","Censys, Inc.",16222
+"AS398324","Censys, Inc.",16226
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",11036
+"AS396982","Google LLC",11037
 "AS14061","DigitalOcean, LLC",8898
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6171
@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",4378
 "AS0","",3993
 "AS396998","Path Network, Inc.",3992
-"AS63949","Akamai Technologies, Inc.",3768
+"AS63949","Akamai Technologies, Inc.",3769
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1045
-"AS51167","Contabo GmbH",938
+"AS51167","Contabo GmbH",939
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",880
@@ -69,7 +69,7 @@ ASN,Organization,IP_Count
 "AS50360","Tamatiya EOOD",516
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",482
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",432
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",433
 "AS21859","Zenlayer Inc",426
 "AS24186","RailTel Corporation of India Ltd.",407
 "AS21299","Kar-Tel LLC",406
@@ -100,14 +100,14 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS12555","Data-center IMAQLIQ Ltd.",219
 "AS14987","Rethem Hosting LLC",215
-"AS63199","CDS Global Cloud Co., Ltd",205
+"AS63199","CDS Global Cloud Co., Ltd",206
 "AS50219","LNK SYSTEMS MUNTENIA SRL",201
 "AS8560","IONOS SE",189
+"AS19905","Neustar Security Services",186
 "AS34984","Superonline Iletisim Hizmetleri A.S.",186
-"AS19905","Neustar Security Services",185
 "AS7552","Viettel Group",182
+"AS42237","w1n ltd",179
 "AS30083","velia.net",178
-"AS42237","w1n ltd",178
 "AS215240","Silent Connection Ltd.",175
 "AS401116","Nybula LLC",170
 "AS262551","Farol Telecom",157
@@ -132,7 +132,7 @@ ASN,Organization,IP_Count
 "AS396356","Latitude.sh",107
 "AS136435","ELITE COMMUNICATION",101
 "AS11320","LightEdge Solutions",100
-"AS28209","Under Servicos de Internet Ltda",97
+"AS28209","Under Servicos de Internet Ltda",98
 "AS63018","Dedicated.com",97
 "AS5617","Orange Polska Spolka Akcyjna",94
 "AS16735","ALGAR TELECOM S/A",93
@@ -606,6 +606,7 @@ ASN,Organization,IP_Count
 "AS11562","Net Uno, C.A.",6
 "AS12975","Palestine Telecommunications Company (PALTEL)",6
 "AS132116","Ani Network Pvt Ltd",6
+"AS135357","HONG KONG KOWLOON TELECOMMUNICATIONS CO.,LIMITED",6
 "AS135523","Multinet Broadband",6
 "AS136188","NINGBO, ZHEJIANG Province, P.R.China.",6
 "AS13999","Mega Cable, S.A. de C.V.",6
@@ -676,7 +677,6 @@ ASN,Organization,IP_Count
 "AS13285","TalkTalk Communications Limited",5
 "AS13489","EPM Telecomunicaciones S.A. E.S.P.",5
 "AS135089","China Telecom",5
-"AS135357","HONG KONG KOWLOON TELECOMMUNICATIONS CO.,LIMITED",5
 "AS135411","Red Grapes Pte Ltd",5
 "AS136861","PT. ARTAMEDIA CITRA TELEMATIKA INDONESIA",5
 "AS136873","MEGADATA-ISP",5
