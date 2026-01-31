@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2763
 "AS142002","Scloud Pte Ltd",2621
-"AS202425","IP Volume inc",2133
+"AS202425","IP Volume inc",2134
 "AS9808","China Mobile",2090
 "AS32475","Internap Holding LLC",1787
 "AS214295","SKYNET NETWORK LTD",1631
@@ -557,6 +557,7 @@ ASN,Organization,IP_Count
 "AS9541","Cyber Internet Services (Private) Limited",8
 "AS133661","Netplus Broadband Services Private Limited",7
 "AS13430","THE WISP.NET CORP.",7
+"AS135357","HONG KONG KOWLOON TELECOMMUNICATIONS CO.,LIMITED",7
 "AS135478","PT. Cyberindo Aditama",7
 "AS13977","Consolidated Communications, Inc.",7
 "AS141433","Netcom Internet Service",7
@@ -608,7 +609,6 @@ ASN,Organization,IP_Count
 "AS11562","Net Uno, C.A.",6
 "AS12975","Palestine Telecommunications Company (PALTEL)",6
 "AS132116","Ani Network Pvt Ltd",6
-"AS135357","HONG KONG KOWLOON TELECOMMUNICATIONS CO.,LIMITED",6
 "AS135523","Multinet Broadband",6
 "AS136188","NINGBO, ZHEJIANG Province, P.R.China.",6
 "AS13999","Mega Cable, S.A. de C.V.",6
