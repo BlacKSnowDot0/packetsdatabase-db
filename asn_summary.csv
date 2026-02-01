@@ -7,7 +7,7 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",11073
 "AS14061","DigitalOcean, LLC",8911
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6176
+"AS16276","OVH SAS",6178
 "AS4134","Chinanet",5282
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4474
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1047
-"AS51167","Contabo GmbH",953
+"AS51167","Contabo GmbH",954
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",882
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS53667","FranTech Solutions",568
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS50360","Tamatiya EOOD",541
+"AS50360","Tamatiya EOOD",542
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",482
@@ -110,10 +110,10 @@ ASN,Organization,IP_Count
 "AS30083","velia.net",178
 "AS215240","Silent Connection Ltd.",175
 "AS401116","Nybula LLC",170
+"AS14956","RouterHosting LLC",160
 "AS262551","Farol Telecom",158
-"AS14956","RouterHosting LLC",156
 "AS206264","Amarutu Technology Ltd",153
-"AS32475","SingleHop LLC",145
+"AS32475","SingleHop LLC",146
 "AS4766","Korea Telecom",144
 "AS6739","VODAFONE ONO, S.A.",143
 "AS47105","Vault Dweller OU",141
