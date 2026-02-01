@@ -1,5 +1,5 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88076
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88077
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22401
 "AS398324","Censys, Inc.",16305
@@ -111,7 +111,7 @@ ASN,Organization,IP_Count
 "AS215240","Silent Connection Ltd.",175
 "AS401116","Nybula LLC",170
 "AS14956","RouterHosting LLC",160
-"AS262551","Farol Telecom",158
+"AS262551","Farol Telecom",159
 "AS206264","Amarutu Technology Ltd",153
 "AS32475","SingleHop LLC",146
 "AS4766","Korea Telecom",144
@@ -964,6 +964,7 @@ ASN,Organization,IP_Count
 "AS25082","Viner Telecom LLC",3
 "AS2518","BIGLOBE Inc.",3
 "AS2519","ARTERIA Networks Corporation",3
+"AS25861","Toggle Fire Networks",3
 "AS262161","COTES Ltda.",3
 "AS262469","WISP ICONECTA SERVICOS DE REDE LTDA",3
 "AS262907","BRASIL TECNOLOGIA E PARTICIPACOES S/A",3
@@ -1290,7 +1291,6 @@ ASN,Organization,IP_Count
 "AS25553","TRK Gluhov Ltd.",2
 "AS2561","Egyptian Universities Network (EUN)",2
 "AS25820","IT7 Networks Inc",2
-"AS25861","Toggle Fire Networks",2
 "AS26141","CubePath",2
 "AS262191","COLUMBUS NETWORKS COLOMBIA",2
 "AS262197","MILLICOM CABLE COSTA RICA S.A.",2
