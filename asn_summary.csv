@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4474
 "AS45102","Alibaba (US) Technology Co., Ltd.",4390
 "AS16509","Amazon.com, Inc.",4385
-"AS0","",4005
+"AS0","",4006
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3771
 "AS15169","Google LLC",3582
@@ -1404,6 +1404,7 @@ ASN,Organization,IP_Count
 "AS33765","TANZANIA TELECOMMUNICATIONS CO. LTD",2
 "AS34123","Netorn LLC",2
 "AS34168","PJSC Rostelecom",2
+"AS34224","Neterra Ltd.",2
 "AS34296","Millenicom Telekomunikasyon Hizmetleri Anonim Sirketi",2
 "AS34779","T-2, d.o.o.",2
 "AS35213","TOV ""Kompjuternie Merezhi""",2
@@ -2674,7 +2675,6 @@ ASN,Organization,IP_Count
 "AS34137","PJSC Rostelecom",1
 "AS34187","LLC Renome-Service",1
 "AS34204","Michail Mandryk",1
-"AS34224","Neterra Ltd.",1
 "AS34295","Geo BG Net SPLtd.",1
 "AS34470","PortTelekom LLC",1
 "AS34559","SvyazResurs-Region, ltd",1
