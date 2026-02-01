@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88077
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22401
-"AS398324","Censys, Inc.",16306
+"AS398324","Censys, Inc.",16307
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",11074
+"AS396982","Google LLC",11076
 "AS14061","DigitalOcean, LLC",8912
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6178
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS53667","FranTech Solutions",568
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS50360","Tamatiya EOOD",543
+"AS50360","Tamatiya EOOD",544
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",482
@@ -144,8 +144,8 @@ ASN,Organization,IP_Count
 "AS58461","Chinanet",85
 "AS200019","ALEXHOST SRL",83
 "AS200514","KnownSRV Ltd.",83
+"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",81
 "AS22773","Cox Communications Inc.",80
-"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",80
 "AS3920","ESTOXY OU",78
 "AS55720","Gigabit Hosting Sdn Bhd",78
 "AS56046","China Mobile Communications Corporation",78
