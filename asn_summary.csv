@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3041
-"AS6939","Hurricane Electric LLC",2992
+"AS6939","Hurricane Electric LLC",2993
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2764
 "AS142002","Scloud Pte Ltd",2621
@@ -54,7 +54,7 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",799
 "AS211680","NSEC - Sistemas Informaticos, S.A.",780
 "AS14618","Amazon.com, Inc.",766
-"AS51115","HLL LLC",654
+"AS51115","HLL LLC",655
 "AS12876","ONLINE S.A.S.",651
 "AS4837","CHINA UNICOM China169 Backbone",650
 "AS201814","MEVSPACE sp. z o.o.",608
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS53667","FranTech Solutions",567
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS50360","Tamatiya EOOD",538
+"AS50360","Tamatiya EOOD",539
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",482
@@ -106,7 +106,7 @@ ASN,Organization,IP_Count
 "AS19905","Neustar Security Services",188
 "AS34984","Superonline Iletisim Hizmetleri A.S.",187
 "AS7552","Viettel Group",182
-"AS42237","w1n ltd",179
+"AS42237","w1n ltd",180
 "AS30083","velia.net",178
 "AS215240","Silent Connection Ltd.",175
 "AS401116","Nybula LLC",170
@@ -487,6 +487,7 @@ ASN,Organization,IP_Count
 "AS41420","Xentech B.V.",10
 "AS47524","Turksat Uydu Haberlesme ve Kablo TV Isletme A.S.",10
 "AS49434","FBW NETWORKS SAS",10
+"AS50028","EDGOO NETWORKS UNIPESSOAL LDA",10
 "AS52468","UFINET PANAMA S.A.",10
 "AS57269","DIGI SPAIN TELECOM S.L.U.",10
 "AS9930","TT DOTCOM SDN BHD",10
@@ -511,7 +512,6 @@ ASN,Organization,IP_Count
 "AS40244","Turnkey Internet Inc.",9
 "AS4609","Companhia de Telecomunicacoes de Macau",9
 "AS46606","Unified Layer",9
-"AS50028","EDGOO NETWORKS UNIPESSOAL LDA",9
 "AS5410","Bouygues Telecom SA",9
 "AS5432","Proximus NV",9
 "AS56005","Zhengzhou Fastidc Technology Co.,Ltd.",9
