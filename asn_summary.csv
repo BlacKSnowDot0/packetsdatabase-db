@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88074
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88076
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22399
-"AS398324","Censys, Inc.",16299
+"AS398324","Censys, Inc.",16300
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11071
 "AS14061","DigitalOcean, LLC",8911
@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS4134","Chinanet",5282
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4474
-"AS45102","Alibaba (US) Technology Co., Ltd.",4390
+"AS45102","Alibaba (US) Technology Co., Ltd.",4391
 "AS16509","Amazon.com, Inc.",4385
 "AS0","",4016
 "AS396998","Path Network, Inc.",3992
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1047
-"AS51167","Contabo GmbH",952
+"AS51167","Contabo GmbH",953
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",882
@@ -89,7 +89,7 @@ ASN,Organization,IP_Count
 "AS141718","haoxiangyun",297
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
-"AS18403","FPT Telecom Company",271
+"AS18403","FPT Telecom Company",272
 "AS48090","TECHOFF SRV LIMITED",265
 "AS29066","velia.net Internetdienste GmbH",251
 "AS60223","Netiface Limited",251
@@ -113,7 +113,7 @@ ASN,Organization,IP_Count
 "AS262551","Farol Telecom",158
 "AS14956","RouterHosting LLC",156
 "AS206264","Amarutu Technology Ltd",153
-"AS32475","SingleHop LLC",144
+"AS32475","SingleHop LLC",145
 "AS4766","Korea Telecom",143
 "AS6739","VODAFONE ONO, S.A.",143
 "AS47105","Vault Dweller OU",141
