@@ -1,10 +1,10 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88072
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22394
-"AS398324","Censys, Inc.",16281
+"AS211298","Driftnet Ltd",22396
+"AS398324","Censys, Inc.",16282
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",11065
+"AS396982","Google LLC",11067
 "AS14061","DigitalOcean, LLC",8906
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6174
@@ -19,8 +19,8 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3039
-"AS6939","Hurricane Electric LLC",2988
+"AS8075","Microsoft Corporation",3040
+"AS6939","Hurricane Electric LLC",2989
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2764
 "AS142002","Scloud Pte Ltd",2621
@@ -147,14 +147,14 @@ ASN,Organization,IP_Count
 "AS22773","Cox Communications Inc.",80
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",80
 "AS3920","ESTOXY OU",78
+"AS55720","Gigabit Hosting Sdn Bhd",78
 "AS56046","China Mobile Communications Corporation",78
 "AS150263","PT Alnet Telekomunikasi Indonesia",77
-"AS55720","Gigabit Hosting Sdn Bhd",77
 "AS210644","AEZA INTERNATIONAL LTD",76
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",76
 "AS31898","Oracle Corporation",76
-"AS2856","British Telecommunications PLC",72
+"AS2856","British Telecommunications PLC",73
 "AS149746","PT Blip Integrator Provider",70
 "AS52053","REDHEBERG Association declaree",69
 "AS834","IPXO LLC",69
@@ -186,10 +186,10 @@ ASN,Organization,IP_Count
 "AS18345","Servers Australia Pty. Ltd",55
 "AS200590","NLS Kazakhstan LLC",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
+"AS40676","Psychz Networks",55
 "AS213877","u1host ltd",54
 "AS215762","Bullet Group LTD",54
 "AS30058","FDCservers.net",54
-"AS40676","Psychz Networks",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS210558","1337 Services GmbH",51
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",50
@@ -286,10 +286,10 @@ ASN,Organization,IP_Count
 "AS23693","PT. Telekomunikasi Selular",26
 "AS24560","Bharti Airtel Limited",26
 "AS3209","Vodafone GmbH",26
+"AS55803","Hostopia Australia Web Pty Ltd",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS18881","TELEFÔNICA BRASIL S.A",25
 "AS209","CenturyLink Communications, LLC",25
-"AS55803","Hostopia Australia Web Pty Ltd",25
 "AS55836","Reliance Jio Infocomm Limited",25
 "AS58224","Iran Telecommunication Company PJS",25
 "AS8193","""Uzbektelekom"" Joint Stock Company",25
