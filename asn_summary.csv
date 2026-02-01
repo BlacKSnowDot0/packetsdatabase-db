@@ -4,16 +4,16 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22404
 "AS398324","Censys, Inc.",16313
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",11079
+"AS396982","Google LLC",11080
 "AS14061","DigitalOcean, LLC",8914
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6178
 "AS4134","Chinanet",5282
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4474
-"AS45102","Alibaba (US) Technology Co., Ltd.",4392
+"AS45102","Alibaba (US) Technology Co., Ltd.",4393
 "AS16509","Amazon.com, Inc.",4385
-"AS0","",4017
+"AS0","",4018
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3771
 "AS15169","Google LLC",3582
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2765
 "AS142002","Scloud Pte Ltd",2622
-"AS202425","IP Volume inc",2144
+"AS202425","IP Volume inc",2145
 "AS9808","China Mobile",2090
 "AS32475","Internap Holding LLC",1787
 "AS214295","SKYNET NETWORK LTD",1631
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1047
-"AS51167","Contabo GmbH",955
+"AS51167","Contabo GmbH",956
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",882
@@ -56,7 +56,7 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",766
 "AS51115","HLL LLC",655
 "AS12876","ONLINE S.A.S.",651
-"AS4837","CHINA UNICOM China169 Backbone",650
+"AS4837","CHINA UNICOM China169 Backbone",651
 "AS201814","MEVSPACE sp. z o.o.",608
 "AS9829","Bharat Sanchar Nigam Ltd",601
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -113,7 +113,7 @@ ASN,Organization,IP_Count
 "AS14956","RouterHosting LLC",160
 "AS262551","Farol Telecom",159
 "AS206264","Amarutu Technology Ltd",153
-"AS32475","SingleHop LLC",150
+"AS32475","SingleHop LLC",151
 "AS4766","Korea Telecom",144
 "AS6739","VODAFONE ONO, S.A.",143
 "AS47105","Vault Dweller OU",141
