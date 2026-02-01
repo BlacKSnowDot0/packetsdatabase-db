@@ -1,10 +1,10 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88076
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22399
-"AS398324","Censys, Inc.",16300
+"AS211298","Driftnet Ltd",22400
+"AS398324","Censys, Inc.",16301
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",11071
+"AS396982","Google LLC",11072
 "AS14061","DigitalOcean, LLC",8911
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6176
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2764
 "AS142002","Scloud Pte Ltd",2621
-"AS202425","IP Volume inc",2142
+"AS202425","IP Volume inc",2143
 "AS9808","China Mobile",2090
 "AS32475","Internap Holding LLC",1787
 "AS214295","SKYNET NETWORK LTD",1631
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS53667","FranTech Solutions",568
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS50360","Tamatiya EOOD",540
+"AS50360","Tamatiya EOOD",541
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",482
@@ -114,7 +114,7 @@ ASN,Organization,IP_Count
 "AS14956","RouterHosting LLC",156
 "AS206264","Amarutu Technology Ltd",153
 "AS32475","SingleHop LLC",145
-"AS4766","Korea Telecom",143
+"AS4766","Korea Telecom",144
 "AS6739","VODAFONE ONO, S.A.",143
 "AS47105","Vault Dweller OU",141
 "AS13238","YANDEX LLC",136
