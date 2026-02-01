@@ -1,17 +1,17 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88077
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22401
-"AS398324","Censys, Inc.",16308
+"AS211298","Driftnet Ltd",22404
+"AS398324","Censys, Inc.",16309
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",11076
+"AS396982","Google LLC",11077
 "AS14061","DigitalOcean, LLC",8912
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6178
 "AS4134","Chinanet",5282
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4474
-"AS45102","Alibaba (US) Technology Co., Ltd.",4391
+"AS45102","Alibaba (US) Technology Co., Ltd.",4392
 "AS16509","Amazon.com, Inc.",4385
 "AS0","",4017
 "AS396998","Path Network, Inc.",3992
@@ -60,12 +60,12 @@ ASN,Organization,IP_Count
 "AS201814","MEVSPACE sp. z o.o.",608
 "AS9829","Bharat Sanchar Nigam Ltd",601
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS9009","M247 Europe SRL",594
+"AS9009","M247 Europe SRL",595
 "AS3462","Chunghwa Telecom Co., Ltd.",586
 "AS53667","FranTech Solutions",568
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS50360","Tamatiya EOOD",544
+"AS50360","Tamatiya EOOD",545
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",482
@@ -1693,6 +1693,7 @@ ASN,Organization,IP_Count
 "AS135818","Green Tech Net Com Pvt Ltd",1
 "AS135987","Reload Company Limited",1
 "AS136105","CV. ANINDISA KOMPUTINDO PRATAMA",1
+"AS136119","PT Bali Towerindo Sentra, Tbk",1
 "AS136171","Medha Hosting",1
 "AS136195","Qingdao, Shandong Province, P.R.China.",1
 "AS136200","CHINANET Guangdong province Foshan MAN network",1
