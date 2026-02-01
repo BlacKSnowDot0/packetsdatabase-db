@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88074
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22399
-"AS398324","Censys, Inc.",16294
+"AS398324","Censys, Inc.",16299
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11071
-"AS14061","DigitalOcean, LLC",8910
+"AS14061","DigitalOcean, LLC",8911
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6175
 "AS4134","Chinanet",5282
@@ -13,18 +13,18 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4474
 "AS45102","Alibaba (US) Technology Co., Ltd.",4390
 "AS16509","Amazon.com, Inc.",4385
-"AS0","",4014
+"AS0","",4016
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3771
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3043
-"AS6939","Hurricane Electric LLC",2993
+"AS6939","Hurricane Electric LLC",2994
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2764
 "AS142002","Scloud Pte Ltd",2621
-"AS202425","IP Volume inc",2141
+"AS202425","IP Volume inc",2142
 "AS9808","China Mobile",2090
 "AS32475","Internap Holding LLC",1787
 "AS214295","SKYNET NETWORK LTD",1631
@@ -113,7 +113,7 @@ ASN,Organization,IP_Count
 "AS262551","Farol Telecom",158
 "AS14956","RouterHosting LLC",156
 "AS206264","Amarutu Technology Ltd",153
-"AS32475","SingleHop LLC",143
+"AS32475","SingleHop LLC",144
 "AS4766","Korea Telecom",143
 "AS6739","VODAFONE ONO, S.A.",143
 "AS47105","Vault Dweller OU",141
@@ -137,7 +137,7 @@ ASN,Organization,IP_Count
 "AS16735","ALGAR TELECOM S/A",94
 "AS5617","Orange Polska Spolka Akcyjna",94
 "AS205352","KABELNET LTD",93
-"AS23724","IDC, China Telecommunications Corporation",92
+"AS23724","IDC, China Telecommunications Corporation",93
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS8402","PJSC ""Vimpelcom""",88
 "AS271795","SERVITELCONET CIA. LTDA.",85
@@ -407,6 +407,7 @@ ASN,Organization,IP_Count
 "AS1221","Telstra Limited",14
 "AS12400","Partner Communications Ltd.",14
 "AS17639","ComClark Network & Technology Corp",14
+"AS202520","SkyPass Solutions Sp. z.o.o.",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS213438","ColocaTel Inc.",14
 "AS266015","JC2000 Telecomunicações Ltda",14
@@ -424,7 +425,6 @@ ASN,Organization,IP_Count
 "AS134420","Chongqing Telecom",13
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",13
 "AS15895","""Kyivstar"" PJSC",13
-"AS202520","SkyPass Solutions Sp. z.o.o.",13
 "AS2116","GLOBALCONNECT AS",13
 "AS213194","Nechaev Dmitry Sergeevich",13
 "AS25369","Hydra Communications Ltd",13
@@ -1231,6 +1231,7 @@ ASN,Organization,IP_Count
 "AS203811","AL-MARAJ AL-ALAMIYA Co",2
 "AS204102","LLC SmartGrupp",2
 "AS204281","NETX - NG LTD",2
+"AS204861","Codisa Telco Solutions S.L.",2
 "AS204914","LABIXE LTD",2
 "AS205090","FIRST SERVER LIMITED",2
 "AS206119","Veganet Teknolojileri ve Hizmetleri LTD STI",2
@@ -1997,7 +1998,6 @@ ASN,Organization,IP_Count
 "AS20477","Randolph Telephone Company",1
 "AS204770","UAB Cherry Servers",1
 "AS20485","Joint Stock Company TransTeleCom",1
-"AS204861","Codisa Telco Solutions S.L.",1
 "AS204929","Television, Telephony, Internet of Ukraine Ltd.",1
 "AS204997","FIRST SERVER LIMITED",1
 "AS205157","Daniel Cid",1
