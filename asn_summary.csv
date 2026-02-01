@@ -4,8 +4,8 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22404
 "AS398324","Censys, Inc.",16311
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",11077
-"AS14061","DigitalOcean, LLC",8912
+"AS396982","Google LLC",11079
+"AS14061","DigitalOcean, LLC",8914
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6178
 "AS4134","Chinanet",5282
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2765
 "AS142002","Scloud Pte Ltd",2622
-"AS202425","IP Volume inc",2143
+"AS202425","IP Volume inc",2144
 "AS9808","China Mobile",2090
 "AS32475","Internap Holding LLC",1787
 "AS214295","SKYNET NETWORK LTD",1631
@@ -113,7 +113,7 @@ ASN,Organization,IP_Count
 "AS14956","RouterHosting LLC",160
 "AS262551","Farol Telecom",159
 "AS206264","Amarutu Technology Ltd",153
-"AS32475","SingleHop LLC",149
+"AS32475","SingleHop LLC",150
 "AS4766","Korea Telecom",144
 "AS6739","VODAFONE ONO, S.A.",143
 "AS47105","Vault Dweller OU",141
