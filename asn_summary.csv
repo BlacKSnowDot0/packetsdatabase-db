@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88080
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22405
-"AS398324","Censys, Inc.",16335
+"AS398324","Censys, Inc.",16336
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11086
 "AS14061","DigitalOcean, LLC",8917
@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS4134","Chinanet",5282
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4474
-"AS45102","Alibaba (US) Technology Co., Ltd.",4394
+"AS45102","Alibaba (US) Technology Co., Ltd.",4395
 "AS16509","Amazon.com, Inc.",4385
 "AS0","",4021
 "AS396998","Path Network, Inc.",3992
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3045
-"AS6939","Hurricane Electric LLC",2996
+"AS6939","Hurricane Electric LLC",2997
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2765
 "AS142002","Scloud Pte Ltd",2622
@@ -74,13 +74,13 @@ ASN,Organization,IP_Count
 "AS24186","RailTel Corporation of India Ltd.",409
 "AS21299","Kar-Tel LLC",406
 "AS7018","AT&T Enterprises, LLC",406
-"AS47890","UNMANAGED LTD",398
+"AS47890","UNMANAGED LTD",399
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS7713","Telekomunikasi Indonesia (PT)",367
 "AS7922","Comcast Cable Communications, LLC",354
 "AS8151","Uninet S.A. de C.V.",341
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
-"AS208843","Alpha Strike Labs GmbH",328
+"AS208843","Alpha Strike Labs GmbH",329
 "AS45899","VNPT Corp",319
 "AS213613","BOTSHIELD LTD",318
 "AS214943","Railnet LLC",318
@@ -94,7 +94,7 @@ ASN,Organization,IP_Count
 "AS29066","velia.net Internetdienste GmbH",251
 "AS60223","Netiface Limited",251
 "AS12389","PJSC Rostelecom",246
-"AS29484","Ruhr-Universitaet Bochum",239
+"AS29484","Ruhr-Universitaet Bochum",240
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
@@ -204,11 +204,11 @@ ASN,Organization,IP_Count
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
 "AS12322","Free SAS",45
 "AS210509","Optimum Line for Internet Services Ltd.",45
+"AS4788","TM TECHNOLOGY SERVICES SDN BHD",45
 "AS20473","The Constant Company, LLC",44
 "AS21928","T-Mobile USA, Inc.",44
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
-"AS4788","TM TECHNOLOGY SERVICES SDN BHD",44
 "AS152194","CTG Server Limited",43
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS23969","TOT Public Company Limited",42
@@ -257,6 +257,7 @@ ASN,Organization,IP_Count
 "AS17557","Pakistan Telecommuication company limited",31
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",31
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",31
+"AS55803","Hostopia Australia Web Pty Ltd",31
 "AS58212","dataforest GmbH",31
 "AS852","TELUS Communications Inc.",31
 "AS200593","PROSPERO OOO",30
@@ -268,7 +269,6 @@ ASN,Organization,IP_Count
 "AS4713","NTT Communications Corporation",30
 "AS6134","XNNET LLC",30
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",29
-"AS55803","Hostopia Australia Web Pty Ltd",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS141679","China Telecom",28
@@ -349,6 +349,7 @@ ASN,Organization,IP_Count
 "AS24757","EthioNet",19
 "AS262287","Maxihost LTDA",19
 "AS33363","Charter Communications, Inc",19
+"AS59134","PT. Datacomm Diangraha",19
 "AS6167","Verizon Business",19
 "AS6697","Republican Unitary Telecommunication Enterprise Beltelecom",19
 "AS18049","Taiwan Infrastructure Network Technologie",18
@@ -356,7 +357,6 @@ ASN,Organization,IP_Count
 "AS39603","P4 Sp. z o.o.",18
 "AS400655","NixLabs Networks",18
 "AS5607","Sky UK Limited",18
-"AS59134","PT. Datacomm Diangraha",18
 "AS11427","Charter Communications Inc",17
 "AS136958","China Unicom Guangdong IP network",17
 "AS148981","China Telecom",17
