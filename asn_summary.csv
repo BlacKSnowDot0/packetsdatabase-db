@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88080
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22405
-"AS398324","Censys, Inc.",16336
+"AS398324","Censys, Inc.",16340
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",11086
+"AS396982","Google LLC",11087
 "AS14061","DigitalOcean, LLC",8917
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6182
+"AS16276","OVH SAS",6183
 "AS4134","Chinanet",5282
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4474
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",805
 "AS10439","CariNet, Inc.",802
 "AS211680","NSEC - Sistemas Informaticos, S.A.",780
-"AS14618","Amazon.com, Inc.",766
+"AS14618","Amazon.com, Inc.",768
 "AS51115","HLL LLC",655
 "AS12876","ONLINE S.A.S.",653
 "AS4837","CHINA UNICOM China169 Backbone",652
@@ -114,7 +114,7 @@ ASN,Organization,IP_Count
 "AS262551","Farol Telecom",159
 "AS32475","SingleHop LLC",154
 "AS206264","Amarutu Technology Ltd",153
-"AS4766","Korea Telecom",144
+"AS4766","Korea Telecom",145
 "AS6739","VODAFONE ONO, S.A.",144
 "AS47105","Vault Dweller OU",141
 "AS13238","YANDEX LLC",136
