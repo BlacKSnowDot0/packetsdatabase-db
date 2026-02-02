@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88080
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88082
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22405
-"AS398324","Censys, Inc.",16340
+"AS211298","Driftnet Ltd",22407
+"AS398324","Censys, Inc.",16343
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11087
-"AS14061","DigitalOcean, LLC",8917
+"AS14061","DigitalOcean, LLC",8918
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6183
 "AS4134","Chinanet",5282
@@ -19,8 +19,8 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3045
-"AS6939","Hurricane Electric LLC",2997
+"AS8075","Microsoft Corporation",3046
+"AS6939","Hurricane Electric LLC",2998
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2765
 "AS142002","Scloud Pte Ltd",2622
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS53667","FranTech Solutions",568
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS50360","Tamatiya EOOD",550
+"AS50360","Tamatiya EOOD",551
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",482
@@ -85,7 +85,7 @@ ASN,Organization,IP_Count
 "AS213613","BOTSHIELD LTD",318
 "AS214943","Railnet LLC",318
 "AS24863","LINKdotNET AS number",307
-"AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",305
+"AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",306
 "AS141718","haoxiangyun",297
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
@@ -93,7 +93,7 @@ ASN,Organization,IP_Count
 "AS48090","TECHOFF SRV LIMITED",265
 "AS29066","velia.net Internetdienste GmbH",251
 "AS60223","Netiface Limited",251
-"AS12389","PJSC Rostelecom",246
+"AS12389","PJSC Rostelecom",247
 "AS29484","Ruhr-Universitaet Bochum",240
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",230
@@ -102,7 +102,7 @@ ASN,Organization,IP_Count
 "AS14987","Rethem Hosting LLC",215
 "AS63199","CDS Global Cloud Co., Ltd",208
 "AS50219","LNK SYSTEMS MUNTENIA SRL",202
-"AS8560","IONOS SE",199
+"AS8560","IONOS SE",200
 "AS19905","Neustar Security Services",190
 "AS34984","Superonline Iletisim Hizmetleri A.S.",188
 "AS7552","Viettel Group",182
@@ -110,7 +110,7 @@ ASN,Organization,IP_Count
 "AS30083","velia.net",178
 "AS215240","Silent Connection Ltd.",175
 "AS401116","Nybula LLC",170
-"AS14956","RouterHosting LLC",160
+"AS14956","RouterHosting LLC",161
 "AS262551","Farol Telecom",159
 "AS32475","SingleHop LLC",154
 "AS206264","Amarutu Technology Ltd",153
@@ -130,8 +130,8 @@ ASN,Organization,IP_Count
 "AS199785","Cloud Hosting Solutions, Limited.",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",107
 "AS396356","Latitude.sh",107
+"AS11320","LightEdge Solutions",102
 "AS136435","ELITE COMMUNICATION",102
-"AS11320","LightEdge Solutions",101
 "AS28209","Under Servicos de Internet Ltda",98
 "AS63018","Dedicated.com",97
 "AS16735","ALGAR TELECOM S/A",94
@@ -144,7 +144,7 @@ ASN,Organization,IP_Count
 "AS58461","Chinanet",85
 "AS200019","ALEXHOST SRL",83
 "AS200514","KnownSRV Ltd.",83
-"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",82
+"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",83
 "AS22773","Cox Communications Inc.",80
 "AS3920","ESTOXY OU",78
 "AS55720","Gigabit Hosting Sdn Bhd",78
@@ -178,11 +178,11 @@ ASN,Organization,IP_Count
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS20001","Charter Communications Inc",59
 "AS20115","Charter Communications",59
+"AS40676","Psychz Networks",59
 "AS49544","i3D.net B.V",59
 "AS12816","Leibniz-Rechenzentrum",57
 "AS20278","Nexeon Technologies, Inc.",57
 "AS30633","Leaseweb USA, Inc.",57
-"AS40676","Psychz Networks",57
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS200590","NLS Kazakhstan LLC",55
@@ -202,8 +202,8 @@ ASN,Organization,IP_Count
 "AS138156","CSNE Co., Ltd.",46
 "AS141995","Contabo Asia Private Limited",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
+"AS210509","Optimum Line for Internet Services Ltd.",46
 "AS12322","Free SAS",45
-"AS210509","Optimum Line for Internet Services Ltd.",45
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",45
 "AS20473","The Constant Company, LLC",44
 "AS21928","T-Mobile USA, Inc.",44
