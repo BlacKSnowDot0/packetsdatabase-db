@@ -1,13 +1,13 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88080
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22404
-"AS398324","Censys, Inc.",16328
+"AS211298","Driftnet Ltd",22405
+"AS398324","Censys, Inc.",16330
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",11082
+"AS396982","Google LLC",11083
 "AS14061","DigitalOcean, LLC",8916
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6180
+"AS16276","OVH SAS",6181
 "AS4134","Chinanet",5282
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4474
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2765
 "AS142002","Scloud Pte Ltd",2622
-"AS202425","IP Volume inc",2146
+"AS202425","IP Volume inc",2147
 "AS9808","China Mobile",2090
 "AS32475","Internap Holding LLC",1787
 "AS214295","SKYNET NETWORK LTD",1631
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1049
-"AS51167","Contabo GmbH",958
+"AS51167","Contabo GmbH",959
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",882
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS8452","TE-AS",805
-"AS10439","CariNet, Inc.",801
+"AS10439","CariNet, Inc.",802
 "AS211680","NSEC - Sistemas Informaticos, S.A.",780
 "AS14618","Amazon.com, Inc.",766
 "AS51115","HLL LLC",655
