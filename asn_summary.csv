@@ -1,19 +1,19 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88077
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88078
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22404
-"AS398324","Censys, Inc.",16323
+"AS398324","Censys, Inc.",16325
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11082
 "AS14061","DigitalOcean, LLC",8915
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6179
+"AS16276","OVH SAS",6180
 "AS4134","Chinanet",5282
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4474
 "AS45102","Alibaba (US) Technology Co., Ltd.",4394
 "AS16509","Amazon.com, Inc.",4385
-"AS0","",4019
+"AS0","",4020
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3771
 "AS15169","Google LLC",3582
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2090
 "AS32475","Internap Holding LLC",1787
 "AS214295","SKYNET NETWORK LTD",1631
-"AS49870","Alsycon B.V.",1608
+"AS49870","Alsycon B.V.",1609
 "AS209605","UAB Host Baltic",1583
 "AS36352","HostPapa",1554
 "AS398722","Censys, Inc.",1482
@@ -65,13 +65,13 @@ ASN,Organization,IP_Count
 "AS53667","FranTech Solutions",568
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS50360","Tamatiya EOOD",549
+"AS50360","Tamatiya EOOD",550
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",482
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",435
 "AS21859","Zenlayer Inc",427
-"AS24186","RailTel Corporation of India Ltd.",408
+"AS24186","RailTel Corporation of India Ltd.",409
 "AS21299","Kar-Tel LLC",406
 "AS7018","AT&T Enterprises, LLC",406
 "AS47890","UNMANAGED LTD",398
@@ -113,7 +113,7 @@ ASN,Organization,IP_Count
 "AS14956","RouterHosting LLC",160
 "AS262551","Farol Telecom",159
 "AS206264","Amarutu Technology Ltd",153
-"AS32475","SingleHop LLC",152
+"AS32475","SingleHop LLC",153
 "AS4766","Korea Telecom",144
 "AS6739","VODAFONE ONO, S.A.",143
 "AS47105","Vault Dweller OU",141
@@ -192,8 +192,8 @@ ASN,Organization,IP_Count
 "AS30058","FDCservers.net",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS210558","1337 Services GmbH",51
+"AS28546","Servnet Mexico, S.A. de C.V.",50
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",50
-"AS28546","Servnet Mexico, S.A. de C.V.",49
 "AS266181","GOLDEN LINK",48
 "AS56067","Metrabyte Co.,Ltd",48
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",47
@@ -217,11 +217,11 @@ ASN,Organization,IP_Count
 "AS7738","V tal",42
 "AS204834","Shabakieh Isfahan Co PJSC",41
 "AS26599","TELEFÔNICA BRASIL S.A",41
+"AS9123","TimeWeb Ltd.",41
 "AS1103","SURF B.V.",40
 "AS27699","TELEFÔNICA BRASIL S.A",40
 "AS43641","SOLLUTIUM EU Sp z.o.o.",40
 "AS5089","Virgin Media Limited",40
-"AS9123","TimeWeb Ltd.",40
 "AS329009","Spectrum Internet Service Ltd",39
 "AS4538","China Education and Research Network Center",39
 "AS8048","CANTV Servicios, Venezuela",39
@@ -268,6 +268,7 @@ ASN,Organization,IP_Count
 "AS4713","NTT Communications Corporation",30
 "AS6134","XNNET LLC",30
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",29
+"AS55803","Hostopia Australia Web Pty Ltd",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS141679","China Telecom",28
@@ -276,7 +277,6 @@ ASN,Organization,IP_Count
 "AS30860","Virtual Systems LLC",28
 "AS329490","Promethean Consulting Limited",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
-"AS55803","Hostopia Australia Web Pty Ltd",28
 "AS17995","PT iForte Global Internet",27
 "AS34534","FBW NETWORKS SAS",27
 "AS36947","Telecom Algeria",27
@@ -306,6 +306,7 @@ ASN,Organization,IP_Count
 "AS140061","China Telecom",22
 "AS16591","Google Fiber Inc.",22
 "AS213010","Gening Nikita Dmitrievich",22
+"AS24348","CERNET2 IX at Tsinghua University",22
 "AS3320","Deutsche Telekom AG",22
 "AS400536","Nodestop LLC",22
 "AS43289","Trabia SRL",22
@@ -321,7 +322,6 @@ ASN,Organization,IP_Count
 "AS138886","PT Data Buana Nusantara",21
 "AS17638","ASN for TIANJIN Provincial Net of CT",21
 "AS214668","AxusHost B.V.",21
-"AS24348","CERNET2 IX at Tsinghua University",21
 "AS30823","aurologic GmbH",21
 "AS46573","LayerHost",21
 "AS4800","PT Aplikanusa Lintasarta",21
@@ -499,6 +499,7 @@ ASN,Organization,IP_Count
 "AS138089","PT.Global Media Data Prima",9
 "AS139994","PT XL Axiata Tbk",9
 "AS17451","BIZNET NETWORKS",9
+"AS17858","LG POWERCOMM",9
 "AS18779","EGIHosting",9
 "AS211507","Julian Achter",9
 "AS2119","Telenor Norge AS",9
@@ -524,7 +525,6 @@ ASN,Organization,IP_Count
 "AS138754","Kerala Vision Broad Band Private Limited",8
 "AS140869","Turing Group Limited",8
 "AS141295","Madhya Pradesh Agency For Promotion   Of Information Technology",8
-"AS17858","LG POWERCOMM",8
 "AS17882","MCS Com Co Ltd",8
 "AS18209","Atria Convergence Technologies Pvt. Ltd.,",8
 "AS18986","Calligo (Canada) Inc.",8
