@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4385
 "AS0","",4022
 "AS396998","Path Network, Inc.",3992
-"AS63949","Akamai Technologies, Inc.",3771
+"AS63949","Akamai Technologies, Inc.",3772
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
@@ -42,7 +42,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
-"AS208684","BHA CONSEIL SARL",1049
+"AS208684","BHA CONSEIL SARL",1050
 "AS51167","Contabo GmbH",961
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
@@ -112,7 +112,7 @@ ASN,Organization,IP_Count
 "AS401116","Nybula LLC",170
 "AS14956","RouterHosting LLC",162
 "AS262551","Farol Telecom",159
-"AS32475","SingleHop LLC",156
+"AS32475","SingleHop LLC",157
 "AS206264","Amarutu Technology Ltd",153
 "AS4766","Korea Telecom",147
 "AS6739","VODAFONE ONO, S.A.",144
@@ -269,11 +269,11 @@ ASN,Organization,IP_Count
 "AS4713","NTT Communications Corporation",30
 "AS6134","XNNET LLC",30
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",29
+"AS2914","NTT America, Inc.",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS141679","China Telecom",28
 "AS24940","Hetzner Online GmbH",28
-"AS2914","NTT America, Inc.",28
 "AS30860","Virtual Systems LLC",28
 "AS329490","Promethean Consulting Limited",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
