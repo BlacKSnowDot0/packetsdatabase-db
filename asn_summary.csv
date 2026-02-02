@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88082
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22407
-"AS398324","Censys, Inc.",16350
+"AS398324","Censys, Inc.",16352
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11090
 "AS14061","DigitalOcean, LLC",8919
@@ -114,7 +114,7 @@ ASN,Organization,IP_Count
 "AS262551","Farol Telecom",159
 "AS32475","SingleHop LLC",154
 "AS206264","Amarutu Technology Ltd",153
-"AS4766","Korea Telecom",146
+"AS4766","Korea Telecom",147
 "AS6739","VODAFONE ONO, S.A.",144
 "AS47105","Vault Dweller OU",141
 "AS13238","YANDEX LLC",136
@@ -135,9 +135,9 @@ ASN,Organization,IP_Count
 "AS28209","Under Servicos de Internet Ltda",98
 "AS63018","Dedicated.com",97
 "AS16735","ALGAR TELECOM S/A",94
+"AS23724","IDC, China Telecommunications Corporation",94
 "AS5617","Orange Polska Spolka Akcyjna",94
 "AS205352","KABELNET LTD",93
-"AS23724","IDC, China Telecommunications Corporation",93
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS8402","PJSC ""Vimpelcom""",88
 "AS271795","SERVITELCONET CIA. LTDA.",85
@@ -210,12 +210,12 @@ ASN,Organization,IP_Count
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
 "AS152194","CTG Server Limited",43
+"AS1103","SURF B.V.",42
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS23969","TOT Public Company Limited",42
 "AS262378","Compuservice Empreendimentos Ltda",42
 "AS4760","PCCW IMS Limited",42
 "AS7738","V tal",42
-"AS1103","SURF B.V.",41
 "AS204834","Shabakieh Isfahan Co PJSC",41
 "AS26599","TELEFÔNICA BRASIL S.A",41
 "AS9123","TimeWeb Ltd.",41
@@ -249,11 +249,11 @@ ASN,Organization,IP_Count
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",33
 "AS41745","Baykov Ilya Sergeevich",33
 "AS45671","Servers Australia Pty. Ltd",33
+"AS55803","Hostopia Australia Web Pty Ltd",33
 "AS9498","Bharti Airtel Limited",33
 "AS12912","T-Mobile Polska S.A.",32
 "AS136142","Enigma Fiber Pvt Ltd",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
-"AS55803","Hostopia Australia Web Pty Ltd",32
 "AS1241","RIPE Network Coordination Centre",31
 "AS17557","Pakistan Telecommuication company limited",31
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",31
@@ -1224,6 +1224,7 @@ ASN,Organization,IP_Count
 "AS199739","Earthlink Telecommunications Equipment Trading & Services DMCC",2
 "AS199995","Omega Telecom LLC",2
 "AS201409","HOSTSHIELD LTD",2
+"AS20207","Gigared S.A.",2
 "AS202103","Lanet Network Ltd",2
 "AS202422","G-Core Labs S.A.",2
 "AS202561","High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.",2
@@ -1979,7 +1980,6 @@ ASN,Organization,IP_Count
 "AS201776","Miranda-Media Ltd",1
 "AS201819","Uslugi Internetowe ""MAJESTIC"" MICHALINA SIWEK-MIEKUS, Sklep Odziezowy ""Anna"", S",1
 "AS20205","Amplex Electric, Inc.",1
-"AS20207","Gigared S.A.",1
 "AS202279","GYN DNR KOMTEL",1
 "AS202513","Gestioniza Infraestructuras S.L.",1
 "AS202578","""KUBANENERGOSERVICE"" LLC",1
