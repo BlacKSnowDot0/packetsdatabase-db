@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88078
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88080
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22404
-"AS398324","Censys, Inc.",16325
+"AS398324","Censys, Inc.",16328
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11082
-"AS14061","DigitalOcean, LLC",8915
+"AS14061","DigitalOcean, LLC",8916
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6180
 "AS4134","Chinanet",5282
@@ -19,17 +19,17 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3044
-"AS6939","Hurricane Electric LLC",2994
+"AS8075","Microsoft Corporation",3045
+"AS6939","Hurricane Electric LLC",2996
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2765
 "AS142002","Scloud Pte Ltd",2622
-"AS202425","IP Volume inc",2145
+"AS202425","IP Volume inc",2146
 "AS9808","China Mobile",2090
 "AS32475","Internap Holding LLC",1787
 "AS214295","SKYNET NETWORK LTD",1631
 "AS49870","Alsycon B.V.",1609
-"AS209605","UAB Host Baltic",1583
+"AS209605","UAB Host Baltic",1584
 "AS36352","HostPapa",1554
 "AS398722","Censys, Inc.",1482
 "AS13335","Cloudflare, Inc.",1462
@@ -58,7 +58,7 @@ ASN,Organization,IP_Count
 "AS12876","ONLINE S.A.S.",653
 "AS4837","CHINA UNICOM China169 Backbone",651
 "AS201814","MEVSPACE sp. z o.o.",608
-"AS9829","Bharat Sanchar Nigam Ltd",601
+"AS9829","Bharat Sanchar Nigam Ltd",602
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS9009","M247 Europe SRL",595
 "AS3462","Chunghwa Telecom Co., Ltd.",586
@@ -115,7 +115,7 @@ ASN,Organization,IP_Count
 "AS206264","Amarutu Technology Ltd",153
 "AS32475","SingleHop LLC",153
 "AS4766","Korea Telecom",144
-"AS6739","VODAFONE ONO, S.A.",143
+"AS6739","VODAFONE ONO, S.A.",144
 "AS47105","Vault Dweller OU",141
 "AS13238","YANDEX LLC",136
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",136
