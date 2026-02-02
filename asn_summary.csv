@@ -2,16 +2,16 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88077
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22404
-"AS398324","Censys, Inc.",16313
+"AS398324","Censys, Inc.",16316
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11080
-"AS14061","DigitalOcean, LLC",8914
+"AS14061","DigitalOcean, LLC",8915
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6178
+"AS16276","OVH SAS",6179
 "AS4134","Chinanet",5282
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4474
-"AS45102","Alibaba (US) Technology Co., Ltd.",4393
+"AS45102","Alibaba (US) Technology Co., Ltd.",4394
 "AS16509","Amazon.com, Inc.",4385
 "AS0","",4018
 "AS396998","Path Network, Inc.",3992
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3043
+"AS8075","Microsoft Corporation",3044
 "AS6939","Hurricane Electric LLC",2994
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2765
@@ -55,7 +55,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",780
 "AS14618","Amazon.com, Inc.",766
 "AS51115","HLL LLC",655
-"AS12876","ONLINE S.A.S.",651
+"AS12876","ONLINE S.A.S.",652
 "AS4837","CHINA UNICOM China169 Backbone",651
 "AS201814","MEVSPACE sp. z o.o.",608
 "AS9829","Bharat Sanchar Nigam Ltd",601
@@ -65,7 +65,7 @@ ASN,Organization,IP_Count
 "AS53667","FranTech Solutions",568
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
-"AS50360","Tamatiya EOOD",545
+"AS50360","Tamatiya EOOD",546
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",482
@@ -102,8 +102,8 @@ ASN,Organization,IP_Count
 "AS14987","Rethem Hosting LLC",215
 "AS63199","CDS Global Cloud Co., Ltd",208
 "AS50219","LNK SYSTEMS MUNTENIA SRL",202
-"AS8560","IONOS SE",198
-"AS19905","Neustar Security Services",188
+"AS8560","IONOS SE",199
+"AS19905","Neustar Security Services",190
 "AS34984","Superonline Iletisim Hizmetleri A.S.",188
 "AS7552","Viettel Group",182
 "AS42237","w1n ltd",180
@@ -276,11 +276,11 @@ ASN,Organization,IP_Count
 "AS30860","Virtual Systems LLC",28
 "AS329490","Promethean Consulting Limited",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
+"AS55803","Hostopia Australia Web Pty Ltd",28
 "AS17995","PT iForte Global Internet",27
 "AS34534","FBW NETWORKS SAS",27
 "AS36947","Telecom Algeria",27
 "AS53118","NETLINE TELECOM",27
-"AS55803","Hostopia Australia Web Pty Ltd",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",27
 "AS2200","Renater",26
