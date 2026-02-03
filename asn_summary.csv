@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88083
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22409
-"AS398324","Censys, Inc.",16377
+"AS398324","Censys, Inc.",16380
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11093
 "AS14061","DigitalOcean, LLC",8926
@@ -15,12 +15,12 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4385
 "AS0","",4030
 "AS396998","Path Network, Inc.",3992
-"AS63949","Akamai Technologies, Inc.",3774
+"AS63949","Akamai Technologies, Inc.",3775
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3051
-"AS6939","Hurricane Electric LLC",3003
+"AS6939","Hurricane Electric LLC",3005
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2766
 "AS142002","Scloud Pte Ltd",2622
@@ -101,8 +101,8 @@ ASN,Organization,IP_Count
 "AS12555","Data-center IMAQLIQ Ltd.",219
 "AS14987","Rethem Hosting LLC",215
 "AS63199","CDS Global Cloud Co., Ltd",208
+"AS8560","IONOS SE",204
 "AS50219","LNK SYSTEMS MUNTENIA SRL",203
-"AS8560","IONOS SE",203
 "AS19905","Neustar Security Services",190
 "AS34984","Superonline Iletisim Hizmetleri A.S.",189
 "AS7552","Viettel Group",182
@@ -117,8 +117,8 @@ ASN,Organization,IP_Count
 "AS4766","Korea Telecom",147
 "AS6739","VODAFONE ONO, S.A.",144
 "AS47105","Vault Dweller OU",141
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",137
 "AS13238","YANDEX LLC",136
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",136
 "AS151185","China Telecom",132
 "AS137409","GSL Networks Pty LTD",128
 "AS36007","Kamatera, Inc.",122
