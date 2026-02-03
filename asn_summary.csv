@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88084
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22410
-"AS398324","Censys, Inc.",16389
+"AS211298","Driftnet Ltd",22412
+"AS398324","Censys, Inc.",16390
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11094
 "AS14061","DigitalOcean, LLC",8929
@@ -58,7 +58,7 @@ ASN,Organization,IP_Count
 "AS12876","ONLINE S.A.S.",654
 "AS4837","CHINA UNICOM China169 Backbone",652
 "AS201814","MEVSPACE sp. z o.o.",608
-"AS9829","Bharat Sanchar Nigam Ltd",603
+"AS9829","Bharat Sanchar Nigam Ltd",604
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS9009","M247 Europe SRL",595
 "AS3462","Chunghwa Telecom Co., Ltd.",586
@@ -69,7 +69,7 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",482
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",436
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",437
 "AS21859","Zenlayer Inc",428
 "AS24186","RailTel Corporation of India Ltd.",409
 "AS21299","Kar-Tel LLC",406
@@ -110,7 +110,7 @@ ASN,Organization,IP_Count
 "AS30083","velia.net",178
 "AS215240","Silent Connection Ltd.",175
 "AS401116","Nybula LLC",170
-"AS32475","SingleHop LLC",167
+"AS32475","SingleHop LLC",168
 "AS14956","RouterHosting LLC",162
 "AS262551","Farol Telecom",159
 "AS206264","Amarutu Technology Ltd",153
@@ -361,6 +361,7 @@ ASN,Organization,IP_Count
 "AS136958","China Unicom Guangdong IP network",17
 "AS148981","China Telecom",17
 "AS15704","XTRA TELECOM S.A.",17
+"AS16611","InfiniaHost.com",17
 "AS1835","Forskningsnettet - Danish network for Research and Education",17
 "AS28343","UNIFIQUE TELECOMUNICACOES S/A",17
 "AS3215","Orange S.A.",17
@@ -374,7 +375,6 @@ ASN,Organization,IP_Count
 "AS9269","Hong Kong Broadband Network Ltd",17
 "AS138915","Kaopu Cloud HK Limited",16
 "AS140726","China Unicom",16
-"AS16611","InfiniaHost.com",16
 "AS17621","China Unicom Shanghai network",16
 "AS19901","Brightspeed",16
 "AS214309","Aurorix Gaming Solutions Limited",16
@@ -956,6 +956,7 @@ ASN,Organization,IP_Count
 "AS213250","Dominic Scholz trading as ITP-Solutions GmbH & Co. KG",3
 "AS213354","INTERNATIONAL HOSTING SOLUTIONS LLP",3
 "AS214382","Bulent Aydin trading as Hostlayici",3
+"AS214918","ESAGAMES HOSTING SHIELD S.R.L.",3
 "AS21499","Host Europe GmbH",3
 "AS21565","Horry Telephone Cooperative, Inc.",3
 "AS216071","SERVERS TECH FZCO",3
@@ -1259,7 +1260,6 @@ ASN,Organization,IP_Count
 "AS214657","Bls Services Tecnologia em Software Ltda",2
 "AS21479","PJSC Rostelecom",2
 "AS214882","Hadi Santosa",2
-"AS214918","ESAGAMES HOSTING SHIELD S.R.L.",2
 "AS214967","Optibounce, LLC",2
 "AS21497","PrJSC ""VF UKRAINE""",2
 "AS21554","Wisconsin CyberLynk Network, Inc.",2
