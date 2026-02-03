@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88083
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22410
-"AS398324","Censys, Inc.",16382
+"AS398324","Censys, Inc.",16383
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",11093
+"AS396982","Google LLC",11094
 "AS14061","DigitalOcean, LLC",8927
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6186
@@ -70,7 +70,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",482
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",436
-"AS21859","Zenlayer Inc",427
+"AS21859","Zenlayer Inc",428
 "AS24186","RailTel Corporation of India Ltd.",409
 "AS21299","Kar-Tel LLC",406
 "AS7018","AT&T Enterprises, LLC",406
@@ -154,7 +154,7 @@ ASN,Organization,IP_Count
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",76
 "AS31898","Oracle Corporation",76
-"AS2856","British Telecommunications PLC",73
+"AS2856","British Telecommunications PLC",74
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",71
 "AS149746","PT Blip Integrator Provider",70
 "AS52053","REDHEBERG Association declaree",69
@@ -238,6 +238,7 @@ ASN,Organization,IP_Count
 "AS8796","FD-298-8796",37
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",36
 "AS213790","Limited Network LTD",35
+"AS55803","Hostopia Australia Web Pty Ltd",35
 "AS55933","Cloudie Limited",35
 "AS55990","Huawei Cloud Service data center",35
 "AS13213","UK-2 Limited",34
@@ -245,7 +246,6 @@ ASN,Organization,IP_Count
 "AS21127","Joint Stock Company TransTeleCom",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS4847","China Networks Inter-Exchange",34
-"AS55803","Hostopia Australia Web Pty Ltd",34
 "AS9304","HGC Global Communications Limited",34
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",33
 "AS41745","Baykov Ilya Sergeevich",33
