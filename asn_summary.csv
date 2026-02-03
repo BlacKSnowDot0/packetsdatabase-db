@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88084
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22413
-"AS398324","Censys, Inc.",16393
+"AS398324","Censys, Inc.",16395
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11095
-"AS14061","DigitalOcean, LLC",8929
+"AS14061","DigitalOcean, LLC",8935
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6187
 "AS4134","Chinanet",5282
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2766
 "AS142002","Scloud Pte Ltd",2622
-"AS202425","IP Volume inc",2157
+"AS202425","IP Volume inc",2158
 "AS9808","China Mobile",2090
 "AS32475","Internap Holding LLC",1787
 "AS49870","Alsycon B.V.",1632
@@ -109,7 +109,7 @@ ASN,Organization,IP_Count
 "AS42237","w1n ltd",181
 "AS30083","velia.net",178
 "AS215240","Silent Connection Ltd.",175
-"AS32475","SingleHop LLC",171
+"AS32475","SingleHop LLC",172
 "AS401116","Nybula LLC",170
 "AS14956","RouterHosting LLC",162
 "AS262551","Farol Telecom",159
@@ -1044,6 +1044,7 @@ ASN,Organization,IP_Count
 "AS43047","Stream-Network Ltd.",3
 "AS43350","NForce Entertainment B.V.",3
 "AS43708","DATAMAT CZ s.r.o.",3
+"AS44143","A1 Srbija d.o.o",3
 "AS44866","FOP Fedasiuk Oksana Petrivna",3
 "AS44925","1984 ehf",3
 "AS45544","SUPERDATA-VN",3
@@ -1462,7 +1463,6 @@ ASN,Organization,IP_Count
 "AS43766","Mobile Telecommunication Company Saudi Arabia Joint-Stock company",2
 "AS44032","PP ""TRC""City TV center""",2
 "AS44056","Trytek LLC",2
-"AS44143","A1 Srbija d.o.o",2
 "AS44265","Smoltelecom Ltd",2
 "AS44291","Infomir LLC",2
 "AS44327","DELTA COMM LLC",2
