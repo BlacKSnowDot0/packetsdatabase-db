@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88082
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22408
-"AS398324","Censys, Inc.",16367
+"AS398324","Censys, Inc.",16369
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11092
 "AS14061","DigitalOcean, LLC",8923
@@ -13,14 +13,14 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4474
 "AS45102","Alibaba (US) Technology Co., Ltd.",4397
 "AS16509","Amazon.com, Inc.",4385
-"AS0","",4026
+"AS0","",4027
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3773
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3049
-"AS6939","Hurricane Electric LLC",2998
+"AS8075","Microsoft Corporation",3050
+"AS6939","Hurricane Electric LLC",3000
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2766
 "AS142002","Scloud Pte Ltd",2622
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1051
-"AS51167","Contabo GmbH",963
+"AS51167","Contabo GmbH",965
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",882
@@ -69,7 +69,7 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",482
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",435
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",436
 "AS21859","Zenlayer Inc",427
 "AS24186","RailTel Corporation of India Ltd.",409
 "AS21299","Kar-Tel LLC",406
@@ -110,8 +110,8 @@ ASN,Organization,IP_Count
 "AS30083","velia.net",178
 "AS215240","Silent Connection Ltd.",175
 "AS401116","Nybula LLC",170
+"AS32475","SingleHop LLC",163
 "AS14956","RouterHosting LLC",162
-"AS32475","SingleHop LLC",162
 "AS262551","Farol Telecom",159
 "AS206264","Amarutu Technology Ltd",153
 "AS4766","Korea Telecom",147
@@ -245,11 +245,11 @@ ASN,Organization,IP_Count
 "AS21127","Joint Stock Company TransTeleCom",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS4847","China Networks Inter-Exchange",34
+"AS55803","Hostopia Australia Web Pty Ltd",34
 "AS9304","HGC Global Communications Limited",34
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",33
 "AS41745","Baykov Ilya Sergeevich",33
 "AS45671","Servers Australia Pty. Ltd",33
-"AS55803","Hostopia Australia Web Pty Ltd",33
 "AS9498","Bharti Airtel Limited",33
 "AS12912","T-Mobile Polska S.A.",32
 "AS136142","Enigma Fiber Pvt Ltd",32
