@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88084
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22410
-"AS398324","Censys, Inc.",16386
+"AS398324","Censys, Inc.",16389
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11094
-"AS14061","DigitalOcean, LLC",8928
+"AS14061","DigitalOcean, LLC",8929
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6186
 "AS4134","Chinanet",5282
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2766
 "AS142002","Scloud Pte Ltd",2622
-"AS202425","IP Volume inc",2156
+"AS202425","IP Volume inc",2157
 "AS9808","China Mobile",2090
 "AS32475","Internap Holding LLC",1787
 "AS49870","Alsycon B.V.",1632
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1052
-"AS51167","Contabo GmbH",968
+"AS51167","Contabo GmbH",969
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",882
@@ -222,6 +222,7 @@ ASN,Organization,IP_Count
 "AS27699","TELEFÔNICA BRASIL S.A",40
 "AS43641","SOLLUTIUM EU Sp z.o.o.",40
 "AS5089","Virgin Media Limited",40
+"AS271597","NEW LINK CONNECT",39
 "AS329009","Spectrum Internet Service Ltd",39
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",39
 "AS4538","China Education and Research Network Center",39
@@ -230,15 +231,14 @@ ASN,Organization,IP_Count
 "AS149705","PT Wijaya Trimitra Indonesia",38
 "AS1680","Cellcom Fixed Line Communication L.P",38
 "AS197540","netcup GmbH",38
-"AS271597","NEW LINK CONNECT",38
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",38
 "AS269193","Iktelecom Ltda",37
 "AS42624","Global-Data System IT Corporation",37
 "AS8167","V tal",37
 "AS8796","FD-298-8796",37
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",36
+"AS55803","Hostopia Australia Web Pty Ltd",36
 "AS213790","Limited Network LTD",35
-"AS55803","Hostopia Australia Web Pty Ltd",35
 "AS55933","Cloudie Limited",35
 "AS55990","Huawei Cloud Service data center",35
 "AS13213","UK-2 Limited",34
