@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88082
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22408
-"AS398324","Censys, Inc.",16370
+"AS398324","Censys, Inc.",16373
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",11092
-"AS14061","DigitalOcean, LLC",8924
+"AS396982","Google LLC",11093
+"AS14061","DigitalOcean, LLC",8925
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6186
 "AS4134","Chinanet",5282
@@ -19,12 +19,12 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3050
+"AS8075","Microsoft Corporation",3051
 "AS6939","Hurricane Electric LLC",3000
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2766
 "AS142002","Scloud Pte Ltd",2622
-"AS202425","IP Volume inc",2151
+"AS202425","IP Volume inc",2153
 "AS9808","China Mobile",2090
 "AS32475","Internap Holding LLC",1787
 "AS49870","Alsycon B.V.",1632
@@ -110,7 +110,7 @@ ASN,Organization,IP_Count
 "AS30083","velia.net",178
 "AS215240","Silent Connection Ltd.",175
 "AS401116","Nybula LLC",170
-"AS32475","SingleHop LLC",163
+"AS32475","SingleHop LLC",164
 "AS14956","RouterHosting LLC",162
 "AS262551","Farol Telecom",159
 "AS206264","Amarutu Technology Ltd",153
@@ -134,7 +134,7 @@ ASN,Organization,IP_Count
 "AS136435","ELITE COMMUNICATION",102
 "AS28209","Under Servicos de Internet Ltda",98
 "AS63018","Dedicated.com",97
-"AS23724","IDC, China Telecommunications Corporation",95
+"AS23724","IDC, China Telecommunications Corporation",96
 "AS16735","ALGAR TELECOM S/A",94
 "AS5617","Orange Polska Spolka Akcyjna",94
 "AS205352","KABELNET LTD",93
@@ -196,13 +196,13 @@ ASN,Organization,IP_Count
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",50
 "AS266181","GOLDEN LINK",48
 "AS56067","Metrabyte Co.,Ltd",48
+"AS210509","Optimum Line for Internet Services Ltd.",47
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",47
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",47
 "AS10796","Charter Communications Inc",46
 "AS138156","CSNE Co., Ltd.",46
 "AS141995","Contabo Asia Private Limited",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
-"AS210509","Optimum Line for Internet Services Ltd.",46
 "AS12322","Free SAS",45
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",45
 "AS20473","The Constant Company, LLC",44
