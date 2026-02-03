@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",16380
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11093
-"AS14061","DigitalOcean, LLC",8926
+"AS14061","DigitalOcean, LLC",8927
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6186
 "AS4134","Chinanet",5282
@@ -89,12 +89,12 @@ ASN,Organization,IP_Count
 "AS141718","haoxiangyun",297
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
-"AS18403","FPT Telecom Company",272
+"AS18403","FPT Telecom Company",273
 "AS48090","TECHOFF SRV LIMITED",265
 "AS29066","velia.net Internetdienste GmbH",251
 "AS60223","Netiface Limited",251
 "AS12389","PJSC Rostelecom",247
-"AS29484","Ruhr-Universitaet Bochum",240
+"AS29484","Ruhr-Universitaet Bochum",241
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
@@ -117,8 +117,8 @@ ASN,Organization,IP_Count
 "AS4766","Korea Telecom",147
 "AS6739","VODAFONE ONO, S.A.",144
 "AS47105","Vault Dweller OU",141
+"AS13238","YANDEX LLC",137
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",137
-"AS13238","YANDEX LLC",136
 "AS151185","China Telecom",132
 "AS137409","GSL Networks Pty LTD",128
 "AS36007","Kamatera, Inc.",122
@@ -223,6 +223,7 @@ ASN,Organization,IP_Count
 "AS43641","SOLLUTIUM EU Sp z.o.o.",40
 "AS5089","Virgin Media Limited",40
 "AS329009","Spectrum Internet Service Ltd",39
+"AS38623","VIETTEL (CAMBODIA) PTE., LTD",39
 "AS4538","China Education and Research Network Center",39
 "AS8048","CANTV Servicios, Venezuela",39
 "AS9198","JSC Kazakhtelecom",39
@@ -230,7 +231,6 @@ ASN,Organization,IP_Count
 "AS1680","Cellcom Fixed Line Communication L.P",38
 "AS197540","netcup GmbH",38
 "AS271597","NEW LINK CONNECT",38
-"AS38623","VIETTEL (CAMBODIA) PTE., LTD",38
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",38
 "AS269193","Iktelecom Ltda",37
 "AS42624","Global-Data System IT Corporation",37
@@ -374,6 +374,7 @@ ASN,Organization,IP_Count
 "AS9269","Hong Kong Broadband Network Ltd",17
 "AS138915","Kaopu Cloud HK Limited",16
 "AS140726","China Unicom",16
+"AS16611","InfiniaHost.com",16
 "AS17621","China Unicom Shanghai network",16
 "AS19901","Brightspeed",16
 "AS214309","Aurorix Gaming Solutions Limited",16
@@ -386,7 +387,6 @@ ASN,Organization,IP_Count
 "AS1267","RIPE Network Coordination Centre",15
 "AS12849","Hot-Net internet services Ltd.",15
 "AS136515","Dasca Cable Services, Inc.",15
-"AS16611","InfiniaHost.com",15
 "AS19871","Network Solutions, LLC",15
 "AS199414","Noah Kolossa",15
 "AS20011","Dimension Data",15
