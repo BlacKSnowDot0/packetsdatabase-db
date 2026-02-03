@@ -10,7 +10,7 @@ ASN,Organization,IP_Count
 "AS16276","OVH SAS",6187
 "AS4134","Chinanet",5282
 "AS6568","Entel S.A. - EntelNet",4537
-"AS58466","CHINANET Guangdong province network",4474
+"AS58466","CHINANET Guangdong province network",4475
 "AS45102","Alibaba (US) Technology Co., Ltd.",4398
 "AS16509","Amazon.com, Inc.",4385
 "AS0","",4033
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3052
+"AS8075","Microsoft Corporation",3053
 "AS6939","Hurricane Electric LLC",3005
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2766
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1052
-"AS51167","Contabo GmbH",970
+"AS51167","Contabo GmbH",972
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",882
@@ -101,7 +101,7 @@ ASN,Organization,IP_Count
 "AS12555","Data-center IMAQLIQ Ltd.",219
 "AS14987","Rethem Hosting LLC",215
 "AS63199","CDS Global Cloud Co., Ltd",208
-"AS8560","IONOS SE",205
+"AS8560","IONOS SE",206
 "AS50219","LNK SYSTEMS MUNTENIA SRL",204
 "AS19905","Neustar Security Services",190
 "AS34984","Superonline Iletisim Hizmetleri A.S.",189
@@ -109,7 +109,7 @@ ASN,Organization,IP_Count
 "AS42237","w1n ltd",181
 "AS30083","velia.net",178
 "AS215240","Silent Connection Ltd.",175
-"AS32475","SingleHop LLC",172
+"AS32475","SingleHop LLC",173
 "AS401116","Nybula LLC",170
 "AS14956","RouterHosting LLC",162
 "AS262551","Farol Telecom",159
@@ -1604,6 +1604,7 @@ ASN,Organization,IP_Count
 "AS11259","Angola Telecom",1
 "AS11260","EastLink",1
 "AS11272","C Spire Fiber",1
+"AS11353","Education Service Center Region XI",1
 "AS11385","Luna USA, LLC",1
 "AS11404","Wave Broadband",1
 "AS11550","Smithville Digital, LLC",1
