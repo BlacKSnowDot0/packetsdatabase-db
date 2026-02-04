@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88084
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22417
-"AS398324","Censys, Inc.",16415
+"AS398324","Censys, Inc.",16418
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",11096
+"AS396982","Google LLC",11097
 "AS14061","DigitalOcean, LLC",8937
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6192
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3056
-"AS6939","Hurricane Electric LLC",3007
+"AS6939","Hurricane Electric LLC",3008
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2767
 "AS142002","Scloud Pte Ltd",2622
@@ -42,7 +42,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
-"AS208684","BHA CONSEIL SARL",1053
+"AS208684","BHA CONSEIL SARL",1054
 "AS51167","Contabo GmbH",973
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
@@ -222,11 +222,11 @@ ASN,Organization,IP_Count
 "AS9123","TimeWeb Ltd.",41
 "AS27699","TELEFÔNICA BRASIL S.A",40
 "AS43641","SOLLUTIUM EU Sp z.o.o.",40
+"AS4538","China Education and Research Network Center",40
 "AS5089","Virgin Media Limited",40
 "AS55803","Hostopia Australia Web Pty Ltd",40
 "AS329009","Spectrum Internet Service Ltd",39
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",39
-"AS4538","China Education and Research Network Center",39
 "AS8048","CANTV Servicios, Venezuela",39
 "AS9198","JSC Kazakhtelecom",39
 "AS149705","PT Wijaya Trimitra Indonesia",38
@@ -795,6 +795,7 @@ ASN,Organization,IP_Count
 "AS200845","AVATEL TELECOM, SA",4
 "AS20150","anyNode",4
 "AS203380","DA International Group Ltd.",4
+"AS204861","Codisa Telco Solutions S.L.",4
 "AS206216","Advin Services LLC",4
 "AS207083","HostSlim B.V.",4
 "AS208040","RSS (RAPID SOFTWARE SYSTEMS) CYPRUS LTD",4
@@ -950,7 +951,6 @@ ASN,Organization,IP_Count
 "AS203542","IT-PROF LLC",3
 "AS204170","Awaser Oman LLC",3
 "AS20454","SECURED SERVERS LLC",3
-"AS204861","Codisa Telco Solutions S.L.",3
 "AS208583","Baffin Bay Networks AB",3
 "AS211826","Istqrar for Servers Services Ltd",3
 "AS213250","Dominic Scholz trading as ITP-Solutions GmbH & Co. KG",3
