@@ -2,18 +2,18 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88084
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22415
-"AS398324","Censys, Inc.",16407
+"AS398324","Censys, Inc.",16409
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11096
 "AS14061","DigitalOcean, LLC",8937
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6191
+"AS16276","OVH SAS",6192
 "AS4134","Chinanet",5282
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4475
 "AS45102","Alibaba (US) Technology Co., Ltd.",4404
 "AS16509","Amazon.com, Inc.",4385
-"AS0","",4036
+"AS0","",4037
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3775
 "AS15169","Google LLC",3582
@@ -42,7 +42,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
-"AS208684","BHA CONSEIL SARL",1052
+"AS208684","BHA CONSEIL SARL",1053
 "AS51167","Contabo GmbH",972
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
@@ -232,16 +232,16 @@ ASN,Organization,IP_Count
 "AS149705","PT Wijaya Trimitra Indonesia",38
 "AS1680","Cellcom Fixed Line Communication L.P",38
 "AS197540","netcup GmbH",38
+"AS269193","Iktelecom Ltda",38
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",38
-"AS269193","Iktelecom Ltda",37
 "AS42624","Global-Data System IT Corporation",37
 "AS8167","V tal",37
 "AS8796","FD-298-8796",37
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",36
+"AS13213","UK-2 Limited",35
 "AS213790","Limited Network LTD",35
 "AS55933","Cloudie Limited",35
 "AS55990","Huawei Cloud Service data center",35
-"AS13213","UK-2 Limited",34
 "AS146817","Hubei Feixun Network Co., Ltd",34
 "AS21127","Joint Stock Company TransTeleCom",34
 "AS34665","Petersburg Internet Network ltd.",34
@@ -399,6 +399,7 @@ ASN,Organization,IP_Count
 "AS272547","Servicos de Infraestrutura e Datacenter",15
 "AS28126","BRISANET SERVICOS DE TELECOMUNICACOES LTDA",15
 "AS28201","Companhia Itabirana Telecomunicações Ltda",15
+"AS29302","Hosting Services Inc",15
 "AS30600","Metronet",15
 "AS31113","Artkomm LLC",15
 "AS397283","RocketNode Inc",15
@@ -413,7 +414,6 @@ ASN,Organization,IP_Count
 "AS213438","ColocaTel Inc.",14
 "AS266015","JC2000 Telecomunicações Ltda",14
 "AS27947","Telconet S.A",14
-"AS29302","Hosting Services Inc",14
 "AS3243","MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.",14
 "AS3352","TELEFONICA DE ESPANA S.A.U.",14
 "AS37457","Telkom SA Ltd.",14
