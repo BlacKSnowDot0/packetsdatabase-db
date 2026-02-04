@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88084
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22420
-"AS398324","Censys, Inc.",16435
+"AS398324","Censys, Inc.",16438
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11099
 "AS14061","DigitalOcean, LLC",8940
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3058
+"AS8075","Microsoft Corporation",3059
 "AS6939","Hurricane Electric LLC",3009
 "AS23470","ReliableSite.Net LLC",2796
 "AS213412","ONYPHE SAS",2795
@@ -193,6 +193,7 @@ ASN,Organization,IP_Count
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS28546","Servnet Mexico, S.A. de C.V.",52
 "AS210558","1337 Services GmbH",51
+"AS45753","Netsec Limited",51
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",50
 "AS266181","GOLDEN LINK",48
 "AS56067","Metrabyte Co.,Ltd",48
@@ -204,7 +205,6 @@ ASN,Organization,IP_Count
 "AS141995","Contabo Asia Private Limited",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
 "AS12322","Free SAS",45
-"AS45753","Netsec Limited",45
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",45
 "AS20473","The Constant Company, LLC",44
 "AS21928","T-Mobile USA, Inc.",44
@@ -331,6 +331,7 @@ ASN,Organization,IP_Count
 "AS812","Rogers Communications Canada Inc.",21
 "AS9299","Philippine Long Distance Telephone Co.",21
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
+"AS16611","InfiniaHost.com",20
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
 "AS209588","Flyservers S.A.",20
@@ -345,7 +346,6 @@ ASN,Organization,IP_Count
 "AS12874","Fastweb SpA",19
 "AS137718","Beijing Volcano Engine Technology Co., Ltd.",19
 "AS14593","Space Exploration Technologies Corporation",19
-"AS16611","InfiniaHost.com",19
 "AS207713","GLOBAL INTERNET SOLUTIONS LLC",19
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",19
 "AS262287","Maxihost LTDA",19
