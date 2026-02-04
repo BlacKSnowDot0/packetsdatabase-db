@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88084
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22415
-"AS398324","Censys, Inc.",16409
+"AS211298","Driftnet Ltd",22417
+"AS398324","Censys, Inc.",16412
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11096
 "AS14061","DigitalOcean, LLC",8937
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3055
-"AS6939","Hurricane Electric LLC",3005
+"AS6939","Hurricane Electric LLC",3007
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2767
 "AS142002","Scloud Pte Ltd",2622
@@ -50,8 +50,8 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",873
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
+"AS10439","CariNet, Inc.",805
 "AS8452","TE-AS",805
-"AS10439","CariNet, Inc.",804
 "AS211680","NSEC - Sistemas Informaticos, S.A.",781
 "AS14618","Amazon.com, Inc.",771
 "AS51115","HLL LLC",657
@@ -86,7 +86,7 @@ ASN,Organization,IP_Count
 "AS214943","Railnet LLC",318
 "AS24863","LINKdotNET AS number",307
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",307
-"AS141718","haoxiangyun",297
+"AS141718","haoxiangyun",298
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS18403","FPT Telecom Company",273
@@ -103,12 +103,12 @@ ASN,Organization,IP_Count
 "AS63199","CDS Global Cloud Co., Ltd",208
 "AS8560","IONOS SE",207
 "AS50219","LNK SYSTEMS MUNTENIA SRL",204
-"AS19905","Neustar Security Services",192
+"AS19905","Neustar Security Services",193
 "AS34984","Superonline Iletisim Hizmetleri A.S.",190
 "AS7552","Viettel Group",182
 "AS42237","w1n ltd",181
+"AS32475","SingleHop LLC",179
 "AS30083","velia.net",178
-"AS32475","SingleHop LLC",177
 "AS215240","Silent Connection Ltd.",175
 "AS401116","Nybula LLC",170
 "AS14956","RouterHosting LLC",162
@@ -171,9 +171,9 @@ ASN,Organization,IP_Count
 "AS44592","SkyLink Data Center BV",64
 "AS5650","Frontier Communications of America, Inc.",64
 "AS17378","TierPoint, LLC",63
+"AS40676","Psychz Networks",63
 "AS202796","JSR IT B.V.",62
 "AS140717","China Unicom",61
-"AS40676","Psychz Networks",61
 "AS4812","China Telecom (Group)",61
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",60
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
