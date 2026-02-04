@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88084
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22420
-"AS398324","Censys, Inc.",16440
+"AS398324","Censys, Inc.",16442
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",11099
-"AS14061","DigitalOcean, LLC",8941
+"AS396982","Google LLC",11101
+"AS14061","DigitalOcean, LLC",8943
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6194
 "AS4134","Chinanet",5284
@@ -13,13 +13,13 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4475
 "AS45102","Alibaba (US) Technology Co., Ltd.",4410
 "AS16509","Amazon.com, Inc.",4385
-"AS0","",4040
+"AS0","",4041
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3777
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3059
+"AS8075","Microsoft Corporation",3060
 "AS6939","Hurricane Electric LLC",3009
 "AS23470","ReliableSite.Net LLC",2818
 "AS213412","ONYPHE SAS",2795
@@ -105,7 +105,7 @@ ASN,Organization,IP_Count
 "AS50219","LNK SYSTEMS MUNTENIA SRL",204
 "AS19905","Neustar Security Services",194
 "AS34984","Superonline Iletisim Hizmetleri A.S.",190
-"AS32475","SingleHop LLC",187
+"AS32475","SingleHop LLC",189
 "AS42237","w1n ltd",182
 "AS7552","Viettel Group",182
 "AS30083","velia.net",178
@@ -255,13 +255,13 @@ ASN,Organization,IP_Count
 "AS12912","T-Mobile Polska S.A.",32
 "AS136142","Enigma Fiber Pvt Ltd",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
+"AS852","TELUS Communications Inc.",32
 "AS1241","RIPE Network Coordination Centre",31
 "AS17557","Pakistan Telecommuication company limited",31
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",31
 "AS213807","Fanavaran Mehr Vatan Tehran Server Group LLC",31
 "AS3786","LG DACOM Corporation",31
 "AS58212","dataforest GmbH",31
-"AS852","TELUS Communications Inc.",31
 "AS200593","PROSPERO OOO",30
 "AS20853","eTOP sp. z o.o.",30
 "AS214417","Andrii Hrosh",30
