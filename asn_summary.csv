@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88084
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22417
-"AS398324","Censys, Inc.",16418
+"AS398324","Censys, Inc.",16419
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11097
 "AS14061","DigitalOcean, LLC",8937
@@ -130,7 +130,7 @@ ASN,Organization,IP_Count
 "AS199785","Cloud Hosting Solutions, Limited.",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",107
 "AS396356","Latitude.sh",107
-"AS11320","LightEdge Solutions",102
+"AS11320","LightEdge Solutions",103
 "AS136435","ELITE COMMUNICATION",102
 "AS28209","Under Servicos de Internet Ltda",99
 "AS63018","Dedicated.com",97
@@ -204,6 +204,7 @@ ASN,Organization,IP_Count
 "AS141995","Contabo Asia Private Limited",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
 "AS12322","Free SAS",45
+"AS45753","Netsec Limited",45
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",45
 "AS20473","The Constant Company, LLC",44
 "AS21928","T-Mobile USA, Inc.",44
@@ -254,7 +255,6 @@ ASN,Organization,IP_Count
 "AS12912","T-Mobile Polska S.A.",32
 "AS136142","Enigma Fiber Pvt Ltd",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
-"AS45753","Netsec Limited",32
 "AS1241","RIPE Network Coordination Centre",31
 "AS17557","Pakistan Telecommuication company limited",31
 "AS212913","FOP Hornostay Mykhaylo Ivanovych",31
