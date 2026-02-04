@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88084
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22417
-"AS398324","Censys, Inc.",16412
+"AS398324","Censys, Inc.",16415
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11096
 "AS14061","DigitalOcean, LLC",8937
@@ -13,13 +13,13 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4475
 "AS45102","Alibaba (US) Technology Co., Ltd.",4404
 "AS16509","Amazon.com, Inc.",4385
-"AS0","",4037
+"AS0","",4038
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3775
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3055
+"AS8075","Microsoft Corporation",3056
 "AS6939","Hurricane Electric LLC",3007
 "AS213412","ONYPHE SAS",2795
 "AS23470","ReliableSite.Net LLC",2767
@@ -43,14 +43,14 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1053
-"AS51167","Contabo GmbH",972
+"AS51167","Contabo GmbH",973
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",882
 "AS215925","VPSVAULT.HOST LTD",873
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
-"AS10439","CariNet, Inc.",805
+"AS10439","CariNet, Inc.",806
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",781
 "AS14618","Amazon.com, Inc.",771
@@ -70,7 +70,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",482
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",438
-"AS21859","Zenlayer Inc",428
+"AS21859","Zenlayer Inc",429
 "AS24186","RailTel Corporation of India Ltd.",409
 "AS21299","Kar-Tel LLC",406
 "AS7018","AT&T Enterprises, LLC",406
@@ -86,7 +86,7 @@ ASN,Organization,IP_Count
 "AS214943","Railnet LLC",318
 "AS24863","LINKdotNET AS number",307
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",307
-"AS141718","haoxiangyun",298
+"AS141718","haoxiangyun",299
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS18403","FPT Telecom Company",273
@@ -223,10 +223,10 @@ ASN,Organization,IP_Count
 "AS27699","TELEFÔNICA BRASIL S.A",40
 "AS43641","SOLLUTIUM EU Sp z.o.o.",40
 "AS5089","Virgin Media Limited",40
+"AS55803","Hostopia Australia Web Pty Ltd",40
 "AS329009","Spectrum Internet Service Ltd",39
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",39
 "AS4538","China Education and Research Network Center",39
-"AS55803","Hostopia Australia Web Pty Ltd",39
 "AS8048","CANTV Servicios, Venezuela",39
 "AS9198","JSC Kazakhtelecom",39
 "AS149705","PT Wijaya Trimitra Indonesia",38
