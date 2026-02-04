@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88084
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22420
-"AS398324","Censys, Inc.",16438
+"AS398324","Censys, Inc.",16440
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11099
-"AS14061","DigitalOcean, LLC",8940
+"AS14061","DigitalOcean, LLC",8941
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6194
 "AS4134","Chinanet",5284
@@ -105,7 +105,7 @@ ASN,Organization,IP_Count
 "AS50219","LNK SYSTEMS MUNTENIA SRL",204
 "AS19905","Neustar Security Services",194
 "AS34984","Superonline Iletisim Hizmetleri A.S.",190
-"AS32475","SingleHop LLC",186
+"AS32475","SingleHop LLC",187
 "AS42237","w1n ltd",182
 "AS7552","Viettel Group",182
 "AS30083","velia.net",178
@@ -1586,6 +1586,7 @@ ASN,Organization,IP_Count
 "AS9336","XYZ Telecom Pty Ltd",2
 "AS9790","Two Degrees Mobile Limited",2
 "AS9821","Advanced Science and Technology Institute",2
+"AS9889","Two Degrees Mobile Limited",2
 "AS9905","Linknet ASN",2
 "AS9908","Hong Kong Cable Television Limited",2
 "AS9924","Taiwan Fixed Network, Telco and Network Service Provider.",2
@@ -3160,5 +3161,4 @@ ASN,Organization,IP_Count
 "AS9595","NTT-ME Corporation",1
 "AS9617","JCOM Co., Ltd.",1
 "AS9644","SK Telecom",1
-"AS9889","Two Degrees Mobile Limited",1
 "AS9891","CS Loxinfo Public Company Limited",1
