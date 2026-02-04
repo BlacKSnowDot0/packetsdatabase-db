@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS4134","Chinanet",5284
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4475
-"AS45102","Alibaba (US) Technology Co., Ltd.",4404
+"AS45102","Alibaba (US) Technology Co., Ltd.",4410
 "AS16509","Amazon.com, Inc.",4385
 "AS0","",4038
 "AS396998","Path Network, Inc.",3992
@@ -53,7 +53,7 @@ ASN,Organization,IP_Count
 "AS10439","CariNet, Inc.",806
 "AS8452","TE-AS",805
 "AS211680","NSEC - Sistemas Informaticos, S.A.",781
-"AS14618","Amazon.com, Inc.",771
+"AS14618","Amazon.com, Inc.",772
 "AS12876","ONLINE S.A.S.",657
 "AS51115","HLL LLC",657
 "AS4837","CHINA UNICOM China169 Backbone",653
@@ -101,7 +101,7 @@ ASN,Organization,IP_Count
 "AS12555","Data-center IMAQLIQ Ltd.",219
 "AS14987","Rethem Hosting LLC",215
 "AS63199","CDS Global Cloud Co., Ltd",208
-"AS8560","IONOS SE",207
+"AS8560","IONOS SE",208
 "AS50219","LNK SYSTEMS MUNTENIA SRL",204
 "AS19905","Neustar Security Services",194
 "AS34984","Superonline Iletisim Hizmetleri A.S.",190
@@ -127,9 +127,9 @@ ASN,Organization,IP_Count
 "AS40021","Nubes, LLC",113
 "AS47331","TTNet A.S.",111
 "AS208287","DC Host INC",110
+"AS396356","Latitude.sh",108
 "AS199785","Cloud Hosting Solutions, Limited.",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",107
-"AS396356","Latitude.sh",107
 "AS11320","LightEdge Solutions",103
 "AS136435","ELITE COMMUNICATION",102
 "AS28209","Under Servicos de Internet Ltda",99
@@ -1026,6 +1026,7 @@ ASN,Organization,IP_Count
 "AS33070","Rackspace Hosting",3
 "AS33567","Econet Telecom Lesotho (PTY) LTD",3
 "AS33616","Co-Mo Comm Inc",3
+"AS34224","Neterra Ltd.",3
 "AS35320","Eurotranstelecom Ltd",3
 "AS36884","Wana Corporate",3
 "AS36925","MEDITELECOM",3
@@ -1408,7 +1409,6 @@ ASN,Organization,IP_Count
 "AS33765","TANZANIA TELECOMMUNICATIONS CO. LTD",2
 "AS34123","Netorn LLC",2
 "AS34168","PJSC Rostelecom",2
-"AS34224","Neterra Ltd.",2
 "AS34296","Millenicom Telekomunikasyon Hizmetleri Anonim Sirketi",2
 "AS34779","T-2, d.o.o.",2
 "AS35213","TOV ""Kompjuternie Merezhi""",2
