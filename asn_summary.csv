@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88084
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22419
-"AS398324","Censys, Inc.",16432
+"AS398324","Censys, Inc.",16433
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11099
 "AS14061","DigitalOcean, LLC",8940
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2796
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2622
-"AS202425","IP Volume inc",2160
+"AS202425","IP Volume inc",2161
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
 "AS49870","Alsycon B.V.",1632
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1054
-"AS51167","Contabo GmbH",976
+"AS51167","Contabo GmbH",977
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",882
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS10439","CariNet, Inc.",806
-"AS8452","TE-AS",805
+"AS8452","TE-AS",806
 "AS211680","NSEC - Sistemas Informaticos, S.A.",781
 "AS14618","Amazon.com, Inc.",772
 "AS12876","ONLINE S.A.S.",657
@@ -69,7 +69,7 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",482
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",440
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",441
 "AS21859","Zenlayer Inc",429
 "AS24186","RailTel Corporation of India Ltd.",409
 "AS21299","Kar-Tel LLC",406
@@ -100,8 +100,8 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS12555","Data-center IMAQLIQ Ltd.",219
 "AS14987","Rethem Hosting LLC",215
+"AS8560","IONOS SE",209
 "AS63199","CDS Global Cloud Co., Ltd",208
-"AS8560","IONOS SE",208
 "AS50219","LNK SYSTEMS MUNTENIA SRL",204
 "AS19905","Neustar Security Services",194
 "AS34984","Superonline Iletisim Hizmetleri A.S.",190
