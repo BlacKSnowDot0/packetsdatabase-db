@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88086
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22425
-"AS398324","Censys, Inc.",16492
-"AS32934","Facebook, Inc.",13537
-"AS396982","Google LLC",11105
-"AS14061","DigitalOcean, LLC",8950
+"AS398324","Censys, Inc.",16496
+"AS32934","Facebook, Inc.",13557
+"AS396982","Google LLC",11106
+"AS14061","DigitalOcean, LLC",8952
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6198
 "AS4134","Chinanet",5286
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4475
 "AS45102","Alibaba (US) Technology Co., Ltd.",4411
 "AS16509","Amazon.com, Inc.",4386
-"AS0","",4048
+"AS0","",4049
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3777
 "AS15169","Google LLC",3582
@@ -54,7 +54,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",806
 "AS211680","NSEC - Sistemas Informaticos, S.A.",782
 "AS14618","Amazon.com, Inc.",772
-"AS12876","ONLINE S.A.S.",659
+"AS12876","ONLINE S.A.S.",660
 "AS51115","HLL LLC",657
 "AS4837","CHINA UNICOM China169 Backbone",654
 "AS201814","MEVSPACE sp. z o.o.",608
@@ -103,7 +103,7 @@ ASN,Organization,IP_Count
 "AS8560","IONOS SE",209
 "AS63199","CDS Global Cloud Co., Ltd",208
 "AS50219","LNK SYSTEMS MUNTENIA SRL",205
-"AS32475","SingleHop LLC",197
+"AS32475","SingleHop LLC",198
 "AS19905","Neustar Security Services",195
 "AS34984","Superonline Iletisim Hizmetleri A.S.",190
 "AS42237","w1n ltd",182
@@ -135,16 +135,16 @@ ASN,Organization,IP_Count
 "AS28209","Under Servicos de Internet Ltda",100
 "AS23724","IDC, China Telecommunications Corporation",98
 "AS63018","Dedicated.com",97
+"AS5617","Orange Polska Spolka Akcyjna",96
 "AS16735","ALGAR TELECOM S/A",95
-"AS5617","Orange Polska Spolka Akcyjna",95
 "AS205352","KABELNET LTD",93
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS8402","PJSC ""Vimpelcom""",88
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
+"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",84
 "AS200019","ALEXHOST SRL",83
 "AS200514","KnownSRV Ltd.",83
-"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",83
 "AS22773","Cox Communications Inc.",80
 "AS56046","China Mobile Communications Corporation",80
 "AS55720","Gigabit Hosting Sdn Bhd",79
@@ -321,6 +321,7 @@ ASN,Organization,IP_Count
 "AS7029","Windstream Communications LLC",22
 "AS12479","Orange Espagne SA",21
 "AS138886","PT Data Buana Nusantara",21
+"AS16611","InfiniaHost.com",21
 "AS17638","ASN for TIANJIN Provincial Net of CT",21
 "AS214668","AxusHost B.V.",21
 "AS24151","China Internet Network Infomation Center",21
@@ -332,7 +333,6 @@ ASN,Organization,IP_Count
 "AS812","Rogers Communications Canada Inc.",21
 "AS9299","Philippine Long Distance Telephone Co.",21
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
-"AS16611","InfiniaHost.com",20
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",20
