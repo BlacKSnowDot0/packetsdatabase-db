@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1059
-"AS51167","Contabo GmbH",985
+"AS51167","Contabo GmbH",986
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",882
@@ -100,7 +100,7 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS12555","Data-center IMAQLIQ Ltd.",219
 "AS14987","Rethem Hosting LLC",215
-"AS8560","IONOS SE",212
+"AS8560","IONOS SE",213
 "AS63199","CDS Global Cloud Co., Ltd",209
 "AS50219","LNK SYSTEMS MUNTENIA SRL",205
 "AS32475","SingleHop LLC",201
@@ -669,6 +669,7 @@ ASN,Organization,IP_Count
 "AS58519","Cloud Computing Corporation",6
 "AS59441","NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)",6
 "AS60631","Pars Parva System LLC",6
+"AS7018","AT&T Services, Inc.",6
 "AS8926","Moldtelecom SA",6
 "AS9416","Hoshin Multimedia Center Inc.",6
 "AS9873","Lao Telecommunication Public Company",6
@@ -759,7 +760,6 @@ ASN,Organization,IP_Count
 "AS61135","COMNET BILGI ILETISIM TEKNOLOJILERI TICARET A.S.",5
 "AS61461","Airtek Solutions C.A.",5
 "AS63526","Systems Solutions & development Technologies Limited",5
-"AS7018","AT&T Services, Inc.",5
 "AS786","RIPE Network Coordination Centre",5
 "AS8345","JSC ""ER-Telecom Holding""",5
 "AS8359","MTS PJSC",5
