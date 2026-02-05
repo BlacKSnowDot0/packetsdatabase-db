@@ -2,17 +2,17 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88086
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22425
-"AS398324","Censys, Inc.",16496
-"AS32934","Facebook, Inc.",13557
-"AS396982","Google LLC",11106
-"AS14061","DigitalOcean, LLC",8952
+"AS398324","Censys, Inc.",16500
+"AS32934","Facebook, Inc.",13576
+"AS396982","Google LLC",11107
+"AS14061","DigitalOcean, LLC",8953
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6198
 "AS4134","Chinanet",5286
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4475
 "AS45102","Alibaba (US) Technology Co., Ltd.",4411
-"AS16509","Amazon.com, Inc.",4386
+"AS16509","Amazon.com, Inc.",4391
 "AS0","",4049
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3777
@@ -24,14 +24,14 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2819
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2622
-"AS202425","IP Volume inc",2166
+"AS202425","IP Volume inc",2168
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
 "AS49870","Alsycon B.V.",1633
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1588
 "AS36352","HostPapa",1556
-"AS13335","Cloudflare, Inc.",1485
+"AS13335","Cloudflare, Inc.",1508
 "AS398722","Censys, Inc.",1485
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1059
-"AS51167","Contabo GmbH",982
+"AS51167","Contabo GmbH",984
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",882
@@ -100,7 +100,7 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS12555","Data-center IMAQLIQ Ltd.",219
 "AS14987","Rethem Hosting LLC",215
-"AS8560","IONOS SE",209
+"AS8560","IONOS SE",210
 "AS63199","CDS Global Cloud Co., Ltd",208
 "AS50219","LNK SYSTEMS MUNTENIA SRL",205
 "AS32475","SingleHop LLC",198
@@ -192,7 +192,7 @@ ASN,Organization,IP_Count
 "AS30058","FDCservers.net",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS45753","Netsec Limited",54
-"AS28546","Servnet Mexico, S.A. de C.V.",52
+"AS28546","Servnet Mexico, S.A. de C.V.",53
 "AS210558","1337 Services GmbH",51
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",50
 "AS266181","GOLDEN LINK",48
@@ -301,12 +301,13 @@ ASN,Organization,IP_Count
 "AS17561","Larus Limited",23
 "AS17816","China Unicom IP network China169 Guangdong province",23
 "AS198037","SPACECORE SOLUTION LTD",23
+"AS209588","Flyservers S.A.",23
 "AS3257","GTT Communications Inc.",23
 "AS62240","Clouvider Limited",23
 "AS7303","Telecom Argentina S.A.",23
 "AS140061","China Telecom",22
 "AS16591","Google Fiber Inc.",22
-"AS209588","Flyservers S.A.",22
+"AS16611","InfiniaHost.com",22
 "AS213010","Gening Nikita Dmitrievich",22
 "AS24348","CERNET2 IX at Tsinghua University",22
 "AS3320","Deutsche Telekom AG",22
@@ -321,7 +322,6 @@ ASN,Organization,IP_Count
 "AS7029","Windstream Communications LLC",22
 "AS12479","Orange Espagne SA",21
 "AS138886","PT Data Buana Nusantara",21
-"AS16611","InfiniaHost.com",21
 "AS17638","ASN for TIANJIN Provincial Net of CT",21
 "AS214668","AxusHost B.V.",21
 "AS24151","China Internet Network Infomation Center",21
