@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88085
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22425
-"AS398324","Censys, Inc.",16485
-"AS32934","Facebook, Inc.",13386
+"AS398324","Censys, Inc.",16488
+"AS32934","Facebook, Inc.",13429
 "AS396982","Google LLC",11103
-"AS14061","DigitalOcean, LLC",8946
+"AS14061","DigitalOcean, LLC",8947
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6196
 "AS4134","Chinanet",5285
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4475
 "AS45102","Alibaba (US) Technology Co., Ltd.",4411
 "AS16509","Amazon.com, Inc.",4385
-"AS0","",4046
+"AS0","",4048
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3777
 "AS15169","Google LLC",3582
@@ -211,8 +211,8 @@ ASN,Organization,IP_Count
 "AS271597","NEW LINK CONNECT",44
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
+"AS55803","Hostopia Australia Web Pty Ltd",44
 "AS152194","CTG Server Limited",43
-"AS55803","Hostopia Australia Web Pty Ltd",43
 "AS1103","SURF B.V.",42
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS23969","TOT Public Company Limited",42
@@ -2820,6 +2820,7 @@ ASN,Organization,IP_Count
 "AS42489","Zemlyanoy Bogdan Olegovich",1
 "AS42504","SPD Bilopol Roman Leonidovich",1
 "AS42548","PJSC Rostelecom",1
+"AS42567","MOJOHOST B.V.",1
 "AS42574","Novaya Sibir Plus Ltd.",1
 "AS42831","UK Dedicated Servers Limited",1
 "AS42841","ANTIK Telecom s.r.o",1
