@@ -2,21 +2,21 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88088
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22425
-"AS398324","Censys, Inc.",16503
-"AS32934","Facebook, Inc.",13877
-"AS396982","Google LLC",11107
+"AS398324","Censys, Inc.",16504
+"AS32934","Facebook, Inc.",13880
+"AS396982","Google LLC",11109
 "AS14061","DigitalOcean, LLC",8954
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6199
 "AS4134","Chinanet",5287
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4475
-"AS16509","Amazon.com, Inc.",4425
-"AS45102","Alibaba (US) Technology Co., Ltd.",4412
+"AS16509","Amazon.com, Inc.",4429
+"AS45102","Alibaba (US) Technology Co., Ltd.",4415
 "AS0","",4051
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3778
-"AS15169","Google LLC",3582
+"AS15169","Google LLC",3584
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3063
@@ -30,8 +30,8 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1633
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1588
+"AS13335","Cloudflare, Inc.",1556
 "AS36352","HostPapa",1556
-"AS13335","Cloudflare, Inc.",1512
 "AS398722","Censys, Inc.",1485
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
@@ -284,6 +284,7 @@ ASN,Organization,IP_Count
 "AS53118","NETLINE TELECOM",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
 "AS9121","Turk Telekomunikasyon Anonim Sirketi",27
+"AS209588","Flyservers S.A.",26
 "AS2200","Renater",26
 "AS23693","PT. Telekomunikasi Selular",26
 "AS24560","Bharti Airtel Limited",26
@@ -291,7 +292,6 @@ ASN,Organization,IP_Count
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS18881","TELEFÔNICA BRASIL S.A",25
 "AS209","CenturyLink Communications, LLC",25
-"AS209588","Flyservers S.A.",25
 "AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",25
 "AS55836","Reliance Jio Infocomm Limited",25
 "AS58224","Iran Telecommunication Company PJS",25
