@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88085
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22423
-"AS398324","Censys, Inc.",16461
+"AS398324","Censys, Inc.",16465
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11102
 "AS14061","DigitalOcean, LLC",8946
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3062
-"AS6939","Hurricane Electric LLC",3011
+"AS6939","Hurricane Electric LLC",3012
 "AS23470","ReliableSite.Net LLC",2819
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2622
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1055
-"AS51167","Contabo GmbH",978
+"AS51167","Contabo GmbH",979
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",882
@@ -123,8 +123,8 @@ ASN,Organization,IP_Count
 "AS137409","GSL Networks Pty LTD",128
 "AS36007","Kamatera, Inc.",122
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",115
+"AS40021","Nubes, LLC",114
 "AS211298","Constantine Cybersecurity Ltd.",113
-"AS40021","Nubes, LLC",113
 "AS47331","TTNet A.S.",111
 "AS208287","DC Host INC",110
 "AS396356","Latitude.sh",110
