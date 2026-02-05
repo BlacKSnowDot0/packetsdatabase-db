@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88088
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22425
-"AS398324","Censys, Inc.",16506
+"AS211298","Driftnet Ltd",22426
+"AS398324","Censys, Inc.",16507
 "AS32934","Facebook, Inc.",13891
 "AS396982","Google LLC",11110
 "AS14061","DigitalOcean, LLC",8956
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4475
 "AS16509","Amazon.com, Inc.",4433
 "AS45102","Alibaba (US) Technology Co., Ltd.",4415
-"AS0","",4053
+"AS0","",4054
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3778
 "AS15169","Google LLC",3584
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1633
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1588
-"AS13335","Cloudflare, Inc.",1556
+"AS13335","Cloudflare, Inc.",1557
 "AS36352","HostPapa",1556
 "AS398722","Censys, Inc.",1485
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -340,6 +340,7 @@ ASN,Organization,IP_Count
 "AS24757","EthioNet",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS49531","""NetCom-R"" LLC",20
+"AS59134","PT. Datacomm Diangraha",20
 "AS6181","Cincinnati Bell Telephone Company LLC",20
 "AS11426","Charter Communications Inc",19
 "AS11878","tzulo, inc.",19
@@ -350,7 +351,6 @@ ASN,Organization,IP_Count
 "AS215540","GLOBAL CONNECTIVITY SOLUTIONS LLP",19
 "AS262287","Maxihost LTDA",19
 "AS33363","Charter Communications, Inc",19
-"AS59134","PT. Datacomm Diangraha",19
 "AS6167","Verizon Business",19
 "AS6697","Republican Unitary Telecommunication Enterprise Beltelecom",19
 "AS18049","Taiwan Infrastructure Network Technologie",18
