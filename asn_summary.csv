@@ -1,21 +1,21 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88086
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88088
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22425
-"AS398324","Censys, Inc.",16500
-"AS32934","Facebook, Inc.",13576
+"AS398324","Censys, Inc.",16503
+"AS32934","Facebook, Inc.",13877
 "AS396982","Google LLC",11107
-"AS14061","DigitalOcean, LLC",8953
+"AS14061","DigitalOcean, LLC",8954
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6198
-"AS4134","Chinanet",5286
+"AS16276","OVH SAS",6199
+"AS4134","Chinanet",5287
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4475
-"AS45102","Alibaba (US) Technology Co., Ltd.",4411
-"AS16509","Amazon.com, Inc.",4391
-"AS0","",4049
+"AS16509","Amazon.com, Inc.",4425
+"AS45102","Alibaba (US) Technology Co., Ltd.",4412
+"AS0","",4051
 "AS396998","Path Network, Inc.",3992
-"AS63949","Akamai Technologies, Inc.",3777
+"AS63949","Akamai Technologies, Inc.",3778
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1588
 "AS36352","HostPapa",1556
-"AS13335","Cloudflare, Inc.",1508
+"AS13335","Cloudflare, Inc.",1512
 "AS398722","Censys, Inc.",1485
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
@@ -52,8 +52,8 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS10439","CariNet, Inc.",807
 "AS8452","TE-AS",806
+"AS14618","Amazon.com, Inc.",783
 "AS211680","NSEC - Sistemas Informaticos, S.A.",782
-"AS14618","Amazon.com, Inc.",772
 "AS12876","ONLINE S.A.S.",660
 "AS51115","HLL LLC",657
 "AS4837","CHINA UNICOM China169 Backbone",654
@@ -86,7 +86,7 @@ ASN,Organization,IP_Count
 "AS214943","Railnet LLC",318
 "AS24863","LINKdotNET AS number",307
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",307
-"AS141718","haoxiangyun",302
+"AS141718","haoxiangyun",303
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS18403","FPT Telecom Company",274
@@ -100,10 +100,10 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS12555","Data-center IMAQLIQ Ltd.",219
 "AS14987","Rethem Hosting LLC",215
-"AS8560","IONOS SE",210
-"AS63199","CDS Global Cloud Co., Ltd",208
+"AS8560","IONOS SE",211
+"AS63199","CDS Global Cloud Co., Ltd",209
 "AS50219","LNK SYSTEMS MUNTENIA SRL",205
-"AS32475","SingleHop LLC",198
+"AS32475","SingleHop LLC",199
 "AS19905","Neustar Security Services",195
 "AS34984","Superonline Iletisim Hizmetleri A.S.",190
 "AS42237","w1n ltd",182
@@ -140,9 +140,9 @@ ASN,Organization,IP_Count
 "AS205352","KABELNET LTD",93
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS8402","PJSC ""Vimpelcom""",88
+"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",85
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
-"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",84
 "AS200019","ALEXHOST SRL",83
 "AS200514","KnownSRV Ltd.",83
 "AS22773","Cox Communications Inc.",80
@@ -291,6 +291,7 @@ ASN,Organization,IP_Count
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS18881","TELEFÔNICA BRASIL S.A",25
 "AS209","CenturyLink Communications, LLC",25
+"AS209588","Flyservers S.A.",25
 "AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",25
 "AS55836","Reliance Jio Infocomm Limited",25
 "AS58224","Iran Telecommunication Company PJS",25
@@ -301,7 +302,6 @@ ASN,Organization,IP_Count
 "AS17561","Larus Limited",23
 "AS17816","China Unicom IP network China169 Guangdong province",23
 "AS198037","SPACECORE SOLUTION LTD",23
-"AS209588","Flyservers S.A.",23
 "AS3257","GTT Communications Inc.",23
 "AS62240","Clouvider Limited",23
 "AS7303","Telecom Argentina S.A.",23
@@ -506,6 +506,7 @@ ASN,Organization,IP_Count
 "AS212504","AdKyNet SAS",9
 "AS213520","Senko Digital Ltd",9
 "AS214481","Wojciech Czapkowicz",9
+"AS22612","Namecheap, Inc.",9
 "AS24955","JSC ""Ufanet""",9
 "AS267280","YELLOW CONNECT MULTIMIDIA LTDA ME",9
 "AS30722","Vodafone Italia S.p.A.",9
@@ -536,7 +537,6 @@ ASN,Organization,IP_Count
 "AS209956","Telkoturk Iletisim Hizmetleri A.S.",8
 "AS215730","H2NEXUS LTD",8
 "AS216300","Closed Joint Stock Company ""AbkhazMedia""",8
-"AS22612","Namecheap, Inc.",8
 "AS24086","Viettel Corporation",8
 "AS262459","Osirnet Info Telecom Ltda.",8
 "AS266274","NETWEST TELECOM",8
