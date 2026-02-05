@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88085
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22425
-"AS398324","Censys, Inc.",16483
+"AS398324","Censys, Inc.",16485
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11103
 "AS14061","DigitalOcean, LLC",8946
@@ -94,7 +94,7 @@ ASN,Organization,IP_Count
 "AS29066","velia.net Internetdienste GmbH",251
 "AS60223","Netiface Limited",251
 "AS12389","PJSC Rostelecom",247
-"AS29484","Ruhr-Universitaet Bochum",242
+"AS29484","Ruhr-Universitaet Bochum",243
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
@@ -271,12 +271,12 @@ ASN,Organization,IP_Count
 "AS6134","XNNET LLC",30
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",29
 "AS2914","NTT America, Inc.",29
+"AS329490","Promethean Consulting Limited",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS141679","China Telecom",28
 "AS24940","Hetzner Online GmbH",28
 "AS30860","Virtual Systems LLC",28
-"AS329490","Promethean Consulting Limited",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS17995","PT iForte Global Internet",27
 "AS34534","FBW NETWORKS SAS",27
