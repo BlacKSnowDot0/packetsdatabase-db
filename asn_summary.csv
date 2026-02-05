@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88088
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22425
-"AS398324","Censys, Inc.",16504
+"AS398324","Censys, Inc.",16505
 "AS32934","Facebook, Inc.",13891
 "AS396982","Google LLC",11110
-"AS14061","DigitalOcean, LLC",8954
+"AS14061","DigitalOcean, LLC",8955
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6199
 "AS4134","Chinanet",5287
@@ -103,7 +103,7 @@ ASN,Organization,IP_Count
 "AS8560","IONOS SE",212
 "AS63199","CDS Global Cloud Co., Ltd",209
 "AS50219","LNK SYSTEMS MUNTENIA SRL",205
-"AS32475","SingleHop LLC",200
+"AS32475","SingleHop LLC",201
 "AS19905","Neustar Security Services",195
 "AS34984","Superonline Iletisim Hizmetleri A.S.",190
 "AS42237","w1n ltd",183
@@ -173,6 +173,7 @@ ASN,Organization,IP_Count
 "AS5650","Frontier Communications of America, Inc.",64
 "AS17378","TierPoint, LLC",63
 "AS202796","JSR IT B.V.",62
+"AS45753","Netsec Limited",62
 "AS140717","China Unicom",61
 "AS4812","China Telecom (Group)",61
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",60
@@ -191,7 +192,6 @@ ASN,Organization,IP_Count
 "AS215762","Bullet Group LTD",54
 "AS30058","FDCservers.net",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
-"AS45753","Netsec Limited",54
 "AS28546","Servnet Mexico, S.A. de C.V.",53
 "AS210558","1337 Services GmbH",51
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",50
