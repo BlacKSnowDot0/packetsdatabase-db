@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88085
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22425
-"AS398324","Censys, Inc.",16488
-"AS32934","Facebook, Inc.",13449
+"AS398324","Censys, Inc.",16490
+"AS32934","Facebook, Inc.",13537
 "AS396982","Google LLC",11104
-"AS14061","DigitalOcean, LLC",8947
+"AS14061","DigitalOcean, LLC",8948
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6196
 "AS4134","Chinanet",5286
@@ -42,8 +42,8 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
-"AS208684","BHA CONSEIL SARL",1057
-"AS51167","Contabo GmbH",980
+"AS208684","BHA CONSEIL SARL",1058
+"AS51167","Contabo GmbH",981
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",882
@@ -104,7 +104,7 @@ ASN,Organization,IP_Count
 "AS63199","CDS Global Cloud Co., Ltd",208
 "AS50219","LNK SYSTEMS MUNTENIA SRL",205
 "AS19905","Neustar Security Services",195
-"AS32475","SingleHop LLC",193
+"AS32475","SingleHop LLC",194
 "AS34984","Superonline Iletisim Hizmetleri A.S.",190
 "AS42237","w1n ltd",182
 "AS7552","Viettel Group",182
@@ -136,7 +136,7 @@ ASN,Organization,IP_Count
 "AS23724","IDC, China Telecommunications Corporation",98
 "AS63018","Dedicated.com",97
 "AS16735","ALGAR TELECOM S/A",95
-"AS5617","Orange Polska Spolka Akcyjna",94
+"AS5617","Orange Polska Spolka Akcyjna",95
 "AS205352","KABELNET LTD",93
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS8402","PJSC ""Vimpelcom""",88
@@ -213,11 +213,11 @@ ASN,Organization,IP_Count
 "AS46844","Sharktech",44
 "AS55803","Hostopia Australia Web Pty Ltd",44
 "AS152194","CTG Server Limited",43
+"AS4760","PCCW IMS Limited",43
 "AS1103","SURF B.V.",42
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS23969","TOT Public Company Limited",42
 "AS262378","Compuservice Empreendimentos Ltda",42
-"AS4760","PCCW IMS Limited",42
 "AS7738","V tal",42
 "AS204834","Shabakieh Isfahan Co PJSC",41
 "AS26599","TELEFÔNICA BRASIL S.A",41
@@ -321,6 +321,7 @@ ASN,Organization,IP_Count
 "AS12479","Orange Espagne SA",21
 "AS138886","PT Data Buana Nusantara",21
 "AS17638","ASN for TIANJIN Provincial Net of CT",21
+"AS209588","Flyservers S.A.",21
 "AS214668","AxusHost B.V.",21
 "AS24151","China Internet Network Infomation Center",21
 "AS30823","aurologic GmbH",21
@@ -334,7 +335,6 @@ ASN,Organization,IP_Count
 "AS16611","InfiniaHost.com",20
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
-"AS209588","Flyservers S.A.",20
 "AS213732","Peyman Ertebatat Pouya Company (Ltd)",20
 "AS22927","Telefonica de Argentina",20
 "AS24757","EthioNet",20
