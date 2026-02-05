@@ -2,29 +2,29 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88085
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22423
-"AS398324","Censys, Inc.",16449
+"AS398324","Censys, Inc.",16457
 "AS32934","Facebook, Inc.",13386
-"AS396982","Google LLC",11101
+"AS396982","Google LLC",11102
 "AS14061","DigitalOcean, LLC",8944
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6194
+"AS16276","OVH SAS",6195
 "AS4134","Chinanet",5284
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4475
 "AS45102","Alibaba (US) Technology Co., Ltd.",4410
 "AS16509","Amazon.com, Inc.",4385
-"AS0","",4042
+"AS0","",4044
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3777
 "AS15169","Google LLC",3582
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3062
-"AS6939","Hurricane Electric LLC",3009
+"AS6939","Hurricane Electric LLC",3010
 "AS23470","ReliableSite.Net LLC",2819
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2622
-"AS202425","IP Volume inc",2162
+"AS202425","IP Volume inc",2163
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
 "AS49870","Alsycon B.V.",1633
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1055
-"AS51167","Contabo GmbH",977
+"AS51167","Contabo GmbH",978
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",882
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS10439","CariNet, Inc.",806
 "AS8452","TE-AS",806
-"AS211680","NSEC - Sistemas Informaticos, S.A.",781
+"AS211680","NSEC - Sistemas Informaticos, S.A.",782
 "AS14618","Amazon.com, Inc.",772
 "AS12876","ONLINE S.A.S.",658
 "AS51115","HLL LLC",657
@@ -104,8 +104,8 @@ ASN,Organization,IP_Count
 "AS63199","CDS Global Cloud Co., Ltd",208
 "AS50219","LNK SYSTEMS MUNTENIA SRL",204
 "AS19905","Neustar Security Services",194
+"AS32475","SingleHop LLC",190
 "AS34984","Superonline Iletisim Hizmetleri A.S.",190
-"AS32475","SingleHop LLC",189
 "AS42237","w1n ltd",182
 "AS7552","Viettel Group",182
 "AS30083","velia.net",178
@@ -610,6 +610,7 @@ ASN,Organization,IP_Count
 "AS9981","Saero Network Service LTD",7
 "AS11562","Net Uno, C.A.",6
 "AS12975","Palestine Telecommunications Company (PALTEL)",6
+"AS131267","Star Telecom",6
 "AS132116","Ani Network Pvt Ltd",6
 "AS135523","Multinet Broadband",6
 "AS136188","NINGBO, ZHEJIANG Province, P.R.China.",6
@@ -675,7 +676,6 @@ ASN,Organization,IP_Count
 "AS11492","CABLE ONE, INC.",5
 "AS12714","PJSC MegaFon",5
 "AS131090","CAT Telecom Public Company Limited",5
-"AS131267","Star Telecom",5
 "AS13188","CONTENT DELIVERY NETWORK LTD",5
 "AS13285","TalkTalk Communications Limited",5
 "AS13489","EPM Telecomunicaciones S.A. E.S.P.",5
