@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88088
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22425
-"AS398324","Censys, Inc.",16505
+"AS398324","Censys, Inc.",16506
 "AS32934","Facebook, Inc.",13891
 "AS396982","Google LLC",11110
-"AS14061","DigitalOcean, LLC",8955
+"AS14061","DigitalOcean, LLC",8956
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6199
 "AS4134","Chinanet",5287
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4475
 "AS16509","Amazon.com, Inc.",4433
 "AS45102","Alibaba (US) Technology Co., Ltd.",4415
-"AS0","",4052
+"AS0","",4053
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3778
 "AS15169","Google LLC",3584
@@ -759,6 +759,7 @@ ASN,Organization,IP_Count
 "AS61135","COMNET BILGI ILETISIM TEKNOLOJILERI TICARET A.S.",5
 "AS61461","Airtek Solutions C.A.",5
 "AS63526","Systems Solutions & development Technologies Limited",5
+"AS7018","AT&T Services, Inc.",5
 "AS786","RIPE Network Coordination Centre",5
 "AS8345","JSC ""ER-Telecom Holding""",5
 "AS8359","MTS PJSC",5
@@ -875,7 +876,6 @@ ASN,Organization,IP_Count
 "AS59142","Pemerintah Kota Batam",4
 "AS60404","The Infrastructure Group B.V.",4
 "AS62468","VpsQuan L.L.C.",4
-"AS7018","AT&T Services, Inc.",4
 "AS7482","Asia Pacific On-line Service Inc.",4
 "AS7545","TPG Internet Pty Ltd",4
 "AS786","Jisc Services Limited",4
@@ -900,6 +900,7 @@ ASN,Organization,IP_Count
 "AS12252","America Movil Peru S.A.C.",3
 "AS12997","OJSC Kyrgyztelecom",3
 "AS131111","PT Mora Telematika Indonesia",3
+"AS131414","Long Van Soft Solution JSC",3
 "AS131602","Hsin Yeong An Cable TV Co., Ltd.",3
 "AS13194","UAB ""Bite Lietuva""",3
 "AS132637","PT BINA INFORMATIKA SOLUSI",3
@@ -1124,7 +1125,6 @@ ASN,Organization,IP_Count
 "AS12810","A1 Hrvatska d.o.o.",2
 "AS12963","""SCIENTIFIC-INDUSTRIAL FIRM ""VOLZ"" LIMITED LIABILITY COMPANY",2
 "AS13099","AzEuroTel J.V.",2
-"AS131414","Long Van Soft Solution JSC",2
 "AS131442","Digital Network Associates Pvt Ltd",2
 "AS131584","Taiwan Intelligent Fiber Optic Network Co.,Ltd.",2
 "AS131706","PT SELARAS CITRA TERABIT",2
