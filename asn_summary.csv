@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88085
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22425
-"AS398324","Censys, Inc.",16481
+"AS398324","Censys, Inc.",16483
 "AS32934","Facebook, Inc.",13386
 "AS396982","Google LLC",11103
 "AS14061","DigitalOcean, LLC",8946
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS58466","CHINANET Guangdong province network",4475
 "AS45102","Alibaba (US) Technology Co., Ltd.",4411
 "AS16509","Amazon.com, Inc.",4385
-"AS0","",4045
+"AS0","",4046
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3777
 "AS15169","Google LLC",3582
@@ -24,13 +24,13 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2819
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2622
-"AS202425","IP Volume inc",2164
+"AS202425","IP Volume inc",2166
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
 "AS49870","Alsycon B.V.",1633
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1587
-"AS36352","HostPapa",1555
+"AS36352","HostPapa",1556
 "AS398722","Censys, Inc.",1485
 "AS13335","Cloudflare, Inc.",1462
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -42,7 +42,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
-"AS208684","BHA CONSEIL SARL",1056
+"AS208684","BHA CONSEIL SARL",1057
 "AS51167","Contabo GmbH",980
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
@@ -54,7 +54,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",806
 "AS211680","NSEC - Sistemas Informaticos, S.A.",782
 "AS14618","Amazon.com, Inc.",772
-"AS12876","ONLINE S.A.S.",658
+"AS12876","ONLINE S.A.S.",659
 "AS51115","HLL LLC",657
 "AS4837","CHINA UNICOM China169 Backbone",654
 "AS201814","MEVSPACE sp. z o.o.",608
@@ -103,7 +103,7 @@ ASN,Organization,IP_Count
 "AS8560","IONOS SE",209
 "AS63199","CDS Global Cloud Co., Ltd",208
 "AS50219","LNK SYSTEMS MUNTENIA SRL",205
-"AS19905","Neustar Security Services",194
+"AS19905","Neustar Security Services",195
 "AS32475","SingleHop LLC",193
 "AS34984","Superonline Iletisim Hizmetleri A.S.",190
 "AS42237","w1n ltd",182
@@ -132,7 +132,7 @@ ASN,Organization,IP_Count
 "AS28573","Claro NXT Telecomunicacoes Ltda",107
 "AS11320","LightEdge Solutions",103
 "AS136435","ELITE COMMUNICATION",102
-"AS28209","Under Servicos de Internet Ltda",99
+"AS28209","Under Servicos de Internet Ltda",100
 "AS23724","IDC, China Telecommunications Corporation",98
 "AS63018","Dedicated.com",97
 "AS16735","ALGAR TELECOM S/A",95
@@ -698,6 +698,7 @@ ASN,Organization,IP_Count
 "AS199152","Virtual Data Center Inc",5
 "AS202468","Noyan Abr Arvan Co. ( Private Joint Stock)",5
 "AS20412","Clarity Telecom LLC",5
+"AS204861","Codisa Telco Solutions S.L.",5
 "AS207656","Epinatura LLC",5
 "AS212317","Hetzner Online GmbH",5
 "AS21246","IPKO Telecommunications LLC",5
@@ -795,7 +796,6 @@ ASN,Organization,IP_Count
 "AS200845","AVATEL TELECOM, SA",4
 "AS20150","anyNode",4
 "AS203380","DA International Group Ltd.",4
-"AS204861","Codisa Telco Solutions S.L.",4
 "AS206216","Advin Services LLC",4
 "AS207083","HostSlim B.V.",4
 "AS208040","RSS (RAPID SOFTWARE SYSTEMS) CYPRUS LTD",4
