@@ -2,15 +2,15 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88089
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22438
-"AS398324","Censys, Inc.",16536
+"AS398324","Censys, Inc.",16537
 "AS32934","Facebook, Inc.",14911
 "AS396982","Google LLC",11114
 "AS14061","DigitalOcean, LLC",8966
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6208
+"AS16276","OVH SAS",6209
 "AS4134","Chinanet",5288
 "AS6568","Entel S.A. - EntelNet",4537
-"AS16509","Amazon.com, Inc.",4495
+"AS16509","Amazon.com, Inc.",4503
 "AS58466","CHINANET Guangdong province network",4475
 "AS45102","Alibaba (US) Technology Co., Ltd.",4417
 "AS0","",4067
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1059
-"AS51167","Contabo GmbH",992
+"AS51167","Contabo GmbH",993
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",882
@@ -51,8 +51,8 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS10439","CariNet, Inc.",807
+"AS14618","Amazon.com, Inc.",807
 "AS8452","TE-AS",806
-"AS14618","Amazon.com, Inc.",797
 "AS211680","NSEC - Sistemas Informaticos, S.A.",783
 "AS12876","ONLINE S.A.S.",661
 "AS51115","HLL LLC",659
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS9009","M247 Europe SRL",596
 "AS3462","Chunghwa Telecom Co., Ltd.",589
-"AS53667","FranTech Solutions",571
+"AS53667","FranTech Solutions",572
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS50360","Tamatiya EOOD",551
@@ -86,7 +86,7 @@ ASN,Organization,IP_Count
 "AS214943","Railnet LLC",318
 "AS24863","LINKdotNET AS number",307
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",307
-"AS141718","haoxiangyun",305
+"AS141718","haoxiangyun",306
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS18403","FPT Telecom Company",276
