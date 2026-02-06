@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88088
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22426
-"AS398324","Censys, Inc.",16518
+"AS398324","Censys, Inc.",16521
 "AS32934","Facebook, Inc.",13977
 "AS396982","Google LLC",11113
 "AS14061","DigitalOcean, LLC",8961
@@ -11,7 +11,7 @@ ASN,Organization,IP_Count
 "AS4134","Chinanet",5287
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4475
-"AS16509","Amazon.com, Inc.",4438
+"AS16509","Amazon.com, Inc.",4439
 "AS45102","Alibaba (US) Technology Co., Ltd.",4416
 "AS0","",4054
 "AS396998","Path Network, Inc.",3992
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3585
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3065
+"AS8075","Microsoft Corporation",3066
 "AS6939","Hurricane Electric LLC",3017
 "AS23470","ReliableSite.Net LLC",2819
 "AS213412","ONYPHE SAS",2795
@@ -1363,6 +1363,7 @@ ASN,Organization,IP_Count
 "AS27202","City of Bardstown, Kentucky",2
 "AS272786","X99 INTERNET LTDA.",2
 "AS27323","Wowrack.com",2
+"AS273772","VNO Telecom LTDA",2
 "AS27693","NipBr - NipCable do Brasil Telecom LTDA",2
 "AS27768","CO.PA.CO.",2
 "AS27823","Dattatec.com",2
@@ -2551,7 +2552,6 @@ ASN,Organization,IP_Count
 "AS273231","SIMPLYNET SRL",1
 "AS273261","UNIVERSIDAD AUTONOMA DE SAN LUIS POTOSI",1
 "AS273470","WORK TELECOM INTERNET LTDA",1
-"AS273772","VNO Telecom LTDA",1
 "AS273811","AG LINK TELECOMUNICACOES LTDA",1
 "AS273818","BURITICUPU CONEXOES E PROVEDORES DE INTERNET LTDA",1
 "AS274072","SumaTech SRL",1
