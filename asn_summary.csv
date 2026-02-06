@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88090
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22441
-"AS398324","Censys, Inc.",16545
-"AS32934","Facebook, Inc.",14969
+"AS398324","Censys, Inc.",16548
+"AS32934","Facebook, Inc.",14980
 "AS396982","Google LLC",11116
 "AS14061","DigitalOcean, LLC",8969
 "AS26210","AXS Bolivia S. A.",7972
@@ -27,9 +27,9 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",2175
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
-"AS49870","Alsycon B.V.",1633
+"AS49870","Alsycon B.V.",1656
 "AS214295","SKYNET NETWORK LTD",1631
-"AS13335","Cloudflare, Inc.",1598
+"AS13335","Cloudflare, Inc.",1603
 "AS209605","UAB Host Baltic",1589
 "AS36352","HostPapa",1556
 "AS398722","Censys, Inc.",1485
@@ -42,8 +42,8 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
-"AS208684","BHA CONSEIL SARL",1059
-"AS51167","Contabo GmbH",993
+"AS208684","BHA CONSEIL SARL",1060
+"AS51167","Contabo GmbH",994
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",882
@@ -112,7 +112,7 @@ ASN,Organization,IP_Count
 "AS215240","Silent Connection Ltd.",175
 "AS401116","Nybula LLC",170
 "AS14956","RouterHosting LLC",162
-"AS262551","Farol Telecom",160
+"AS262551","Farol Telecom",161
 "AS206264","Amarutu Technology Ltd",153
 "AS4766","Korea Telecom",148
 "AS6739","VODAFONE ONO, S.A.",144
@@ -193,6 +193,7 @@ ASN,Organization,IP_Count
 "AS30058","FDCservers.net",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS28546","Servnet Mexico, S.A. de C.V.",53
+"AS55803","Hostopia Australia Web Pty Ltd",53
 "AS12912","T-Mobile Polska S.A.",52
 "AS210558","1337 Services GmbH",51
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",50
@@ -212,7 +213,6 @@ ASN,Organization,IP_Count
 "AS271597","NEW LINK CONNECT",44
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
-"AS55803","Hostopia Australia Web Pty Ltd",44
 "AS152194","CTG Server Limited",43
 "AS4760","PCCW IMS Limited",43
 "AS1103","SURF B.V.",42
