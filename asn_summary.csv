@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88088
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22426
-"AS398324","Censys, Inc.",16510
+"AS398324","Censys, Inc.",16512
 "AS32934","Facebook, Inc.",13967
 "AS396982","Google LLC",11110
-"AS14061","DigitalOcean, LLC",8957
+"AS14061","DigitalOcean, LLC",8958
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6200
+"AS16276","OVH SAS",6201
 "AS4134","Chinanet",5287
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4475
@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",4416
 "AS0","",4054
 "AS396998","Path Network, Inc.",3992
-"AS63949","Akamai Technologies, Inc.",3779
+"AS63949","Akamai Technologies, Inc.",3780
 "AS15169","Google LLC",3585
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2819
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2622
-"AS202425","IP Volume inc",2168
+"AS202425","IP Volume inc",2170
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
 "AS49870","Alsycon B.V.",1633
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1059
-"AS51167","Contabo GmbH",988
+"AS51167","Contabo GmbH",989
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",882
@@ -89,7 +89,7 @@ ASN,Organization,IP_Count
 "AS141718","haoxiangyun",303
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
-"AS18403","FPT Telecom Company",275
+"AS18403","FPT Telecom Company",276
 "AS48090","TECHOFF SRV LIMITED",265
 "AS29066","velia.net Internetdienste GmbH",251
 "AS60223","Netiface Limited",251
@@ -103,7 +103,7 @@ ASN,Organization,IP_Count
 "AS8560","IONOS SE",213
 "AS63199","CDS Global Cloud Co., Ltd",210
 "AS50219","LNK SYSTEMS MUNTENIA SRL",205
-"AS32475","SingleHop LLC",203
+"AS32475","SingleHop LLC",204
 "AS19905","Neustar Security Services",195
 "AS34984","Superonline Iletisim Hizmetleri A.S.",190
 "AS42237","w1n ltd",183
@@ -155,7 +155,7 @@ ASN,Organization,IP_Count
 "AS27882","Telefónica Celular de Bolivia S.A.",76
 "AS31898","Oracle Corporation",76
 "AS2856","British Telecommunications PLC",74
-"AS44477","STARK INDUSTRIES SOLUTIONS LTD",71
+"AS44477","STARK INDUSTRIES SOLUTIONS LTD",72
 "AS149746","PT Blip Integrator Provider",70
 "AS52053","REDHEBERG Association declaree",69
 "AS834","IPXO LLC",69
@@ -244,11 +244,11 @@ ASN,Organization,IP_Count
 "AS55933","Cloudie Limited",35
 "AS55990","Huawei Cloud Service data center",35
 "AS146817","Hubei Feixun Network Co., Ltd",34
+"AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",34
 "AS21127","Joint Stock Company TransTeleCom",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS4847","China Networks Inter-Exchange",34
 "AS9304","HGC Global Communications Limited",34
-"AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",33
 "AS41745","Baykov Ilya Sergeevich",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
@@ -442,6 +442,7 @@ ASN,Organization,IP_Count
 "AS200651","FlokiNET ehf",12
 "AS22612","Namecheap, Inc.",12
 "AS2637","Georgia Institute of Technology",12
+"AS269076","L DA COSTA SILVA COMUNICACOES",12
 "AS35042","Layer7 Networks GmbH",12
 "AS35297","Dataline LLC",12
 "AS36992","ETISALAT MISR",12
@@ -465,7 +466,6 @@ ASN,Organization,IP_Count
 "AS212815","Dyjix SAS",11
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
 "AS24547","China Mobile",11
-"AS269076","L DA COSTA SILVA COMUNICACOES",11
 "AS37611","Afrihost (Pty) Ltd",11
 "AS44901","Belcloud LTD",11
 "AS45820","TTSL-ISP DIVISION",11
@@ -623,6 +623,7 @@ ASN,Organization,IP_Count
 "AS198323","TOV Informatsiyni Kirovohrads'ki Systemy",6
 "AS201838","Community Fibre Limited",6
 "AS203020","HostRoyale Technologies Pvt Ltd",6
+"AS204861","Codisa Telco Solutions S.L.",6
 "AS210538","KEYUBU Internet ve Bilisim Tic. Ltd. Sti.",6
 "AS21056","Vianova S.p.A",6
 "AS212219","HOSTING DUNYAM BILISIM TEKNOLOJILERI TICARET LIMITED SIRKETI",6
@@ -699,7 +700,6 @@ ASN,Organization,IP_Count
 "AS199152","Virtual Data Center Inc",5
 "AS202468","Noyan Abr Arvan Co. ( Private Joint Stock)",5
 "AS20412","Clarity Telecom LLC",5
-"AS204861","Codisa Telco Solutions S.L.",5
 "AS207656","Epinatura LLC",5
 "AS212317","Hetzner Online GmbH",5
 "AS21246","IPKO Telecommunications LLC",5
