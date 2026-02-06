@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88088
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22426
-"AS398324","Censys, Inc.",16512
-"AS32934","Facebook, Inc.",13967
-"AS396982","Google LLC",11110
-"AS14061","DigitalOcean, LLC",8958
+"AS398324","Censys, Inc.",16515
+"AS32934","Facebook, Inc.",13977
+"AS396982","Google LLC",11113
+"AS14061","DigitalOcean, LLC",8961
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6201
+"AS16276","OVH SAS",6205
 "AS4134","Chinanet",5287
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4475
@@ -19,8 +19,8 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3585
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3063
-"AS6939","Hurricane Electric LLC",3016
+"AS8075","Microsoft Corporation",3065
+"AS6939","Hurricane Electric LLC",3017
 "AS23470","ReliableSite.Net LLC",2819
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2622
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1633
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1588
-"AS13335","Cloudflare, Inc.",1557
+"AS13335","Cloudflare, Inc.",1569
 "AS36352","HostPapa",1556
 "AS398722","Censys, Inc.",1485
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1059
-"AS51167","Contabo GmbH",989
+"AS51167","Contabo GmbH",991
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",882
@@ -55,10 +55,10 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",783
 "AS211680","NSEC - Sistemas Informaticos, S.A.",783
 "AS12876","ONLINE S.A.S.",660
-"AS51115","HLL LLC",658
+"AS51115","HLL LLC",659
 "AS4837","CHINA UNICOM China169 Backbone",654
 "AS201814","MEVSPACE sp. z o.o.",608
-"AS9829","Bharat Sanchar Nigam Ltd",605
+"AS9829","Bharat Sanchar Nigam Ltd",606
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS9009","M247 Europe SRL",596
 "AS3462","Chunghwa Telecom Co., Ltd.",589
@@ -102,8 +102,8 @@ ASN,Organization,IP_Count
 "AS14987","Rethem Hosting LLC",215
 "AS8560","IONOS SE",213
 "AS63199","CDS Global Cloud Co., Ltd",210
+"AS32475","SingleHop LLC",207
 "AS50219","LNK SYSTEMS MUNTENIA SRL",205
-"AS32475","SingleHop LLC",204
 "AS19905","Neustar Security Services",195
 "AS34984","Superonline Iletisim Hizmetleri A.S.",190
 "AS42237","w1n ltd",183
@@ -133,7 +133,7 @@ ASN,Organization,IP_Count
 "AS11320","LightEdge Solutions",103
 "AS136435","ELITE COMMUNICATION",102
 "AS28209","Under Servicos de Internet Ltda",100
-"AS23724","IDC, China Telecommunications Corporation",98
+"AS23724","IDC, China Telecommunications Corporation",99
 "AS63018","Dedicated.com",97
 "AS5617","Orange Polska Spolka Akcyjna",96
 "AS16735","ALGAR TELECOM S/A",95
@@ -166,6 +166,7 @@ ASN,Organization,IP_Count
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
 "AS6128","Cablevision Systems Corp.",66
 "AS398101","GoDaddy.com, LLC",65
+"AS45753","Netsec Limited",65
 "AS46475","Limestone Networks, Inc.",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS19318","Interserver, Inc",64
@@ -173,7 +174,6 @@ ASN,Organization,IP_Count
 "AS5650","Frontier Communications of America, Inc.",64
 "AS17378","TierPoint, LLC",63
 "AS202796","JSR IT B.V.",62
-"AS45753","Netsec Limited",62
 "AS140717","China Unicom",61
 "AS4812","China Telecom (Group)",61
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",60
@@ -219,11 +219,11 @@ ASN,Organization,IP_Count
 "AS23969","TOT Public Company Limited",42
 "AS262378","Compuservice Empreendimentos Ltda",42
 "AS7738","V tal",42
+"AS9123","TimeWeb Ltd.",42
 "AS204834","Shabakieh Isfahan Co PJSC",41
 "AS26599","TELEFÔNICA BRASIL S.A",41
 "AS4538","China Education and Research Network Center",41
 "AS5089","Virgin Media Limited",41
-"AS9123","TimeWeb Ltd.",41
 "AS27699","TELEFÔNICA BRASIL S.A",40
 "AS43641","SOLLUTIUM EU Sp z.o.o.",40
 "AS329009","Spectrum Internet Service Ltd",39
@@ -602,6 +602,7 @@ ASN,Organization,IP_Count
 "AS55699","PT. Cemerlang Multimedia",7
 "AS56971","CGI GLOBAL LIMITED",7
 "AS58821","PT Lintas Jaringan Nusantara",7
+"AS60631","Pars Parva System LLC",7
 "AS63023","GTHost",7
 "AS63838","Hengyang",7
 "AS6830","Liberty Global B.V.",7
@@ -669,7 +670,6 @@ ASN,Organization,IP_Count
 "AS58495","PT Parsaoran Global Datatrans",6
 "AS58519","Cloud Computing Corporation",6
 "AS59441","NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)",6
-"AS60631","Pars Parva System LLC",6
 "AS7018","AT&T Services, Inc.",6
 "AS8926","Moldtelecom SA",6
 "AS9416","Hoshin Multimedia Center Inc.",6
