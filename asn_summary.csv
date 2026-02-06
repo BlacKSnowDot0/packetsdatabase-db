@@ -3,9 +3,9 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22441
 "AS398324","Censys, Inc.",16550
-"AS32934","Facebook, Inc.",15086
+"AS32934","Facebook, Inc.",15107
 "AS396982","Google LLC",11117
-"AS14061","DigitalOcean, LLC",8970
+"AS14061","DigitalOcean, LLC",8972
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6211
 "AS4134","Chinanet",5288
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS13335","Cloudflare, Inc.",1607
 "AS209605","UAB Host Baltic",1589
-"AS36352","HostPapa",1556
+"AS36352","HostPapa",1557
 "AS398722","Censys, Inc.",1485
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
@@ -56,7 +56,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",783
 "AS12876","ONLINE S.A.S.",661
 "AS51115","HLL LLC",659
-"AS4837","CHINA UNICOM China169 Backbone",654
+"AS4837","CHINA UNICOM China169 Backbone",655
 "AS9829","Bharat Sanchar Nigam Ltd",611
 "AS201814","MEVSPACE sp. z o.o.",608
 "AS9009","M247 Europe SRL",597
@@ -441,6 +441,7 @@ ASN,Organization,IP_Count
 "AS150179","KAAL TECH CO., LIMITED",12
 "AS200651","FlokiNET ehf",12
 "AS22612","Namecheap, Inc.",12
+"AS24309","Atria Convergence Technologies Pvt. Ltd.,",12
 "AS2637","Georgia Institute of Technology",12
 "AS269076","L DA COSTA SILVA COMUNICACOES",12
 "AS35042","Layer7 Networks GmbH",12
@@ -465,7 +466,6 @@ ASN,Organization,IP_Count
 "AS205119","TELEKS DOOEL Skopje",11
 "AS206804","EstNOC OY",11
 "AS212815","Dyjix SAS",11
-"AS24309","Atria Convergence Technologies Pvt. Ltd.,",11
 "AS24547","China Mobile",11
 "AS37611","Afrihost (Pty) Ltd",11
 "AS44901","Belcloud LTD",11
