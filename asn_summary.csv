@@ -1,22 +1,22 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88088
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88089
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22428
-"AS398324","Censys, Inc.",16529
-"AS32934","Facebook, Inc.",14622
+"AS211298","Driftnet Ltd",22438
+"AS398324","Censys, Inc.",16536
+"AS32934","Facebook, Inc.",14884
 "AS396982","Google LLC",11114
-"AS14061","DigitalOcean, LLC",8963
+"AS14061","DigitalOcean, LLC",8964
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6207
+"AS16276","OVH SAS",6208
 "AS4134","Chinanet",5288
 "AS6568","Entel S.A. - EntelNet",4537
+"AS16509","Amazon.com, Inc.",4490
 "AS58466","CHINANET Guangdong province network",4475
-"AS16509","Amazon.com, Inc.",4463
-"AS45102","Alibaba (US) Technology Co., Ltd.",4416
+"AS45102","Alibaba (US) Technology Co., Ltd.",4417
 "AS0","",4067
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3780
-"AS15169","Google LLC",3585
+"AS15169","Google LLC",3586
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3067
@@ -29,8 +29,8 @@ ASN,Organization,IP_Count
 "AS32475","Internap Holding LLC",1787
 "AS49870","Alsycon B.V.",1633
 "AS214295","SKYNET NETWORK LTD",1631
+"AS13335","Cloudflare, Inc.",1593
 "AS209605","UAB Host Baltic",1588
-"AS13335","Cloudflare, Inc.",1579
 "AS36352","HostPapa",1556
 "AS398722","Censys, Inc.",1485
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -52,7 +52,7 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS10439","CariNet, Inc.",807
 "AS8452","TE-AS",806
-"AS14618","Amazon.com, Inc.",789
+"AS14618","Amazon.com, Inc.",797
 "AS211680","NSEC - Sistemas Informaticos, S.A.",783
 "AS12876","ONLINE S.A.S.",661
 "AS51115","HLL LLC",659
@@ -94,13 +94,13 @@ ASN,Organization,IP_Count
 "AS29066","velia.net Internetdienste GmbH",251
 "AS60223","Netiface Limited",251
 "AS12389","PJSC Rostelecom",247
-"AS29484","Ruhr-Universitaet Bochum",243
+"AS29484","Ruhr-Universitaet Bochum",244
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS12555","Data-center IMAQLIQ Ltd.",219
 "AS14987","Rethem Hosting LLC",215
-"AS8560","IONOS SE",213
+"AS8560","IONOS SE",215
 "AS63199","CDS Global Cloud Co., Ltd",210
 "AS32475","SingleHop LLC",207
 "AS50219","LNK SYSTEMS MUNTENIA SRL",205
@@ -125,15 +125,15 @@ ASN,Organization,IP_Count
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",115
 "AS40021","Nubes, LLC",114
 "AS211298","Constantine Cybersecurity Ltd.",113
+"AS396356","Latitude.sh",113
 "AS47331","TTNet A.S.",111
 "AS208287","DC Host INC",110
-"AS396356","Latitude.sh",110
 "AS199785","Cloud Hosting Solutions, Limited.",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",107
 "AS11320","LightEdge Solutions",103
 "AS136435","ELITE COMMUNICATION",102
+"AS23724","IDC, China Telecommunications Corporation",100
 "AS28209","Under Servicos de Internet Ltda",100
-"AS23724","IDC, China Telecommunications Corporation",99
 "AS5617","Orange Polska Spolka Akcyjna",97
 "AS63018","Dedicated.com",97
 "AS16735","ALGAR TELECOM S/A",95
