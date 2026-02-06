@@ -3,14 +3,14 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22438
 "AS398324","Censys, Inc.",16536
-"AS32934","Facebook, Inc.",14884
+"AS32934","Facebook, Inc.",14911
 "AS396982","Google LLC",11114
-"AS14061","DigitalOcean, LLC",8964
+"AS14061","DigitalOcean, LLC",8966
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6208
 "AS4134","Chinanet",5288
 "AS6568","Entel S.A. - EntelNet",4537
-"AS16509","Amazon.com, Inc.",4490
+"AS16509","Amazon.com, Inc.",4495
 "AS58466","CHINANET Guangdong province network",4475
 "AS45102","Alibaba (US) Technology Co., Ltd.",4417
 "AS0","",4067
@@ -104,7 +104,7 @@ ASN,Organization,IP_Count
 "AS63199","CDS Global Cloud Co., Ltd",210
 "AS32475","SingleHop LLC",207
 "AS50219","LNK SYSTEMS MUNTENIA SRL",205
-"AS19905","Neustar Security Services",195
+"AS19905","Neustar Security Services",196
 "AS34984","Superonline Iletisim Hizmetleri A.S.",190
 "AS42237","w1n ltd",183
 "AS7552","Viettel Group",182
@@ -164,9 +164,9 @@ ASN,Organization,IP_Count
 "AS40676","Psychz Networks",67
 "AS57588","Hayat for Internet & communication LLC",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
+"AS45753","Netsec Limited",66
 "AS6128","Cablevision Systems Corp.",66
 "AS398101","GoDaddy.com, LLC",65
-"AS45753","Netsec Limited",65
 "AS46475","Limestone Networks, Inc.",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS19318","Interserver, Inc",64
@@ -254,6 +254,7 @@ ASN,Organization,IP_Count
 "AS9498","Bharti Airtel Limited",33
 "AS12912","T-Mobile Polska S.A.",32
 "AS136142","Enigma Fiber Pvt Ltd",32
+"AS20853","eTOP sp. z o.o.",32
 "AS263355","GTR NET COMUNICACOES EIRELI",32
 "AS852","TELUS Communications Inc.",32
 "AS1241","RIPE Network Coordination Centre",31
@@ -263,7 +264,6 @@ ASN,Organization,IP_Count
 "AS3786","LG DACOM Corporation",31
 "AS58212","dataforest GmbH",31
 "AS200593","PROSPERO OOO",30
-"AS20853","eTOP sp. z o.o.",30
 "AS214417","Andrii Hrosh",30
 "AS3269","Telecom Italia S.p.A.",30
 "AS401152","Ace Data Centers II, L.L.C.",30
@@ -1092,6 +1092,7 @@ ASN,Organization,IP_Count
 "AS6821","Makedonski Telekom AD-Skopje",3
 "AS6848","Telenet BV",3
 "AS7122","Bell Canada",3
+"AS7488","CNServer LLC",3
 "AS7643","Vietnam Posts and Telecommunications (VNPT)",3
 "AS8220","COLT Technology Services Group Limited",3
 "AS8473","Bahnhof AB",3
@@ -1570,7 +1571,6 @@ ASN,Organization,IP_Count
 "AS719","RIPE Network Coordination Centre",2
 "AS7377","University of California, San Diego",2
 "AS7459","Grande Communications Networks, LLC",2
-"AS7488","CNServer LLC",2
 "AS8047","GENERAL COMMUNICATION, INC.",2
 "AS8053","IFX Networks Venezuela C.A.",2
 "AS8100","QuadraNet Enterprises LLC",2
