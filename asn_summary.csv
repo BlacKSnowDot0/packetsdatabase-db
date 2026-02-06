@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",16550
 "AS32934","Facebook, Inc.",15107
 "AS396982","Google LLC",11117
-"AS14061","DigitalOcean, LLC",8972
+"AS14061","DigitalOcean, LLC",8973
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6211
 "AS4134","Chinanet",5288
@@ -100,8 +100,8 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS12555","Data-center IMAQLIQ Ltd.",219
 "AS14987","Rethem Hosting LLC",215
+"AS32475","SingleHop LLC",215
 "AS8560","IONOS SE",215
-"AS32475","SingleHop LLC",213
 "AS63199","CDS Global Cloud Co., Ltd",210
 "AS50219","LNK SYSTEMS MUNTENIA SRL",205
 "AS19905","Neustar Security Services",196
