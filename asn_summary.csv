@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88090
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22440
-"AS398324","Censys, Inc.",16543
+"AS211298","Driftnet Ltd",22441
+"AS398324","Censys, Inc.",16545
 "AS32934","Facebook, Inc.",14969
-"AS396982","Google LLC",11115
-"AS14061","DigitalOcean, LLC",8967
+"AS396982","Google LLC",11116
+"AS14061","DigitalOcean, LLC",8969
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6211
 "AS4134","Chinanet",5288
@@ -15,7 +15,7 @@ ASN,Organization,IP_Count
 "AS45102","Alibaba (US) Technology Co., Ltd.",4417
 "AS0","",4067
 "AS396998","Path Network, Inc.",3992
-"AS63949","Akamai Technologies, Inc.",3780
+"AS63949","Akamai Technologies, Inc.",3781
 "AS15169","Google LLC",3589
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS9009","M247 Europe SRL",596
 "AS3462","Chunghwa Telecom Co., Ltd.",589
-"AS53667","FranTech Solutions",572
+"AS53667","FranTech Solutions",573
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS50360","Tamatiya EOOD",551
@@ -101,7 +101,7 @@ ASN,Organization,IP_Count
 "AS12555","Data-center IMAQLIQ Ltd.",219
 "AS14987","Rethem Hosting LLC",215
 "AS8560","IONOS SE",215
-"AS32475","SingleHop LLC",210
+"AS32475","SingleHop LLC",211
 "AS63199","CDS Global Cloud Co., Ltd",210
 "AS50219","LNK SYSTEMS MUNTENIA SRL",205
 "AS19905","Neustar Security Services",196
@@ -143,8 +143,8 @@ ASN,Organization,IP_Count
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",85
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
+"AS200514","KnownSRV Ltd.",84
 "AS200019","ALEXHOST SRL",83
-"AS200514","KnownSRV Ltd.",83
 "AS22773","Cox Communications Inc.",80
 "AS56046","China Mobile Communications Corporation",80
 "AS55720","Gigabit Hosting Sdn Bhd",79
