@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88091
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22441
-"AS398324","Censys, Inc.",16549
-"AS32934","Facebook, Inc.",15041
+"AS398324","Censys, Inc.",16550
+"AS32934","Facebook, Inc.",15086
 "AS396982","Google LLC",11117
 "AS14061","DigitalOcean, LLC",8970
 "AS26210","AXS Bolivia S. A.",7972
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3067
-"AS6939","Hurricane Electric LLC",3018
+"AS6939","Hurricane Electric LLC",3019
 "AS23470","ReliableSite.Net LLC",2819
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2622
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1060
-"AS51167","Contabo GmbH",996
+"AS51167","Contabo GmbH",997
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",882
@@ -101,7 +101,7 @@ ASN,Organization,IP_Count
 "AS12555","Data-center IMAQLIQ Ltd.",219
 "AS14987","Rethem Hosting LLC",215
 "AS8560","IONOS SE",215
-"AS32475","SingleHop LLC",212
+"AS32475","SingleHop LLC",213
 "AS63199","CDS Global Cloud Co., Ltd",210
 "AS50219","LNK SYSTEMS MUNTENIA SRL",205
 "AS19905","Neustar Security Services",196
@@ -206,14 +206,15 @@ ASN,Organization,IP_Count
 "AS138156","CSNE Co., Ltd.",46
 "AS141995","Contabo Asia Private Limited",46
 "AS147127","PT Tujuhlangit Lintas Nusantara",46
+"AS4788","TM TECHNOLOGY SERVICES SDN BHD",46
 "AS12322","Free SAS",45
-"AS4788","TM TECHNOLOGY SERVICES SDN BHD",45
 "AS20473","The Constant Company, LLC",44
 "AS21928","T-Mobile USA, Inc.",44
 "AS271597","NEW LINK CONNECT",44
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
 "AS152194","CTG Server Limited",43
+"AS20853","eTOP sp. z o.o.",43
 "AS4760","PCCW IMS Limited",43
 "AS1103","SURF B.V.",42
 "AS214497","Whitelabel Solutions, Ltd.",42
@@ -222,7 +223,6 @@ ASN,Organization,IP_Count
 "AS7738","V tal",42
 "AS9123","TimeWeb Ltd.",42
 "AS204834","Shabakieh Isfahan Co PJSC",41
-"AS20853","eTOP sp. z o.o.",41
 "AS26599","TELEFÔNICA BRASIL S.A",41
 "AS4538","China Education and Research Network Center",41
 "AS5089","Virgin Media Limited",41
@@ -2000,6 +2000,7 @@ ASN,Organization,IP_Count
 "AS203937","MAREK BZDZIUCH trading as CYFROTEL Sp. J.",1
 "AS203972","LLC TatAISneft",1
 "AS204457","Atlantis Telekomunikasyon Bilisim Hizmetleri San. Tic. Ltd",1
+"AS204548","Kamatera Inc",1
 "AS204584","Qnet LLC",1
 "AS204650","Toloe Rayaneh Loghman Educational and Cultural Co.",1
 "AS20477","Randolph Telephone Company",1
