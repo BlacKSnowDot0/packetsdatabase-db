@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88091
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22441
-"AS398324","Censys, Inc.",16550
-"AS32934","Facebook, Inc.",15107
+"AS398324","Censys, Inc.",16551
+"AS32934","Facebook, Inc.",15142
 "AS396982","Google LLC",11117
-"AS14061","DigitalOcean, LLC",8973
+"AS14061","DigitalOcean, LLC",8974
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6211
+"AS16276","OVH SAS",6212
 "AS4134","Chinanet",5288
 "AS6568","Entel S.A. - EntelNet",4537
 "AS16509","Amazon.com, Inc.",4515
@@ -37,7 +37,7 @@ ASN,Organization,IP_Count
 "AS48925","VibeGAMES B.V.",1426
 "AS174","Cogent Communications",1320
 "AS215269","LAZYCLOUD LTD",1312
-"AS22552","eSited Solutions",1207
+"AS22552","eSited Solutions",1208
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
@@ -130,11 +130,11 @@ ASN,Organization,IP_Count
 "AS208287","DC Host INC",110
 "AS199785","Cloud Hosting Solutions, Limited.",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",107
+"AS5617","Orange Polska Spolka Akcyjna",104
 "AS11320","LightEdge Solutions",103
 "AS136435","ELITE COMMUNICATION",102
 "AS23724","IDC, China Telecommunications Corporation",102
 "AS28209","Under Servicos de Internet Ltda",100
-"AS5617","Orange Polska Spolka Akcyjna",98
 "AS63018","Dedicated.com",97
 "AS16735","ALGAR TELECOM S/A",95
 "AS205352","KABELNET LTD",93
@@ -266,6 +266,7 @@ ASN,Organization,IP_Count
 "AS200593","PROSPERO OOO",30
 "AS214417","Andrii Hrosh",30
 "AS3269","Telecom Italia S.p.A.",30
+"AS36947","Telecom Algeria",30
 "AS401152","Ace Data Centers II, L.L.C.",30
 "AS4713","NTT Communications Corporation",30
 "AS6134","XNNET LLC",30
@@ -273,7 +274,6 @@ ASN,Organization,IP_Count
 "AS209588","Flyservers S.A.",29
 "AS2914","NTT America, Inc.",29
 "AS329490","Promethean Consulting Limited",29
-"AS36947","Telecom Algeria",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS141679","China Telecom",28
@@ -595,6 +595,7 @@ ASN,Organization,IP_Count
 "AS44486","Oliver Horscht is trading as ""SYNLINQ""",7
 "AS4771","Spark New Zealand Trading Limited",7
 "AS4811","China Telecom (Group)",7
+"AS48314","Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG",7
 "AS49505","JSC Selectel",7
 "AS50923","Metroset Ltd.",7
 "AS51604","JSC ""ER-Telecom Holding""",7
@@ -662,7 +663,6 @@ ASN,Organization,IP_Count
 "AS397270","NetInformatik Inc.",6
 "AS399765","FasNET Services LLC",6
 "AS4755","Tata Communications Limited",6
-"AS48314","Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG",6
 "AS48347","JSC Mediasoft ekspert",6
 "AS48642","Joint stock company ""For""",6
 "AS5603","Telekom Slovenije, d.d.",6
