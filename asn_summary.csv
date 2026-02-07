@@ -1,14 +1,14 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88094
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22446
-"AS398324","Censys, Inc.",16573
-"AS32934","Facebook, Inc.",15809
+"AS211298","Driftnet Ltd",22447
+"AS398324","Censys, Inc.",16574
+"AS32934","Facebook, Inc.",15871
 "AS396982","Google LLC",11121
-"AS14061","DigitalOcean, LLC",8986
+"AS14061","DigitalOcean, LLC",8987
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6221
-"AS4134","Chinanet",5288
+"AS16276","OVH SAS",6222
+"AS4134","Chinanet",5289
 "AS16509","Amazon.com, Inc.",4540
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4479
@@ -16,7 +16,7 @@ ASN,Organization,IP_Count
 "AS0","",4079
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3782
-"AS15169","Google LLC",3589
+"AS15169","Google LLC",3592
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3070
@@ -28,8 +28,8 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
 "AS49870","Alsycon B.V.",1657
+"AS13335","Cloudflare, Inc.",1642
 "AS214295","SKYNET NETWORK LTD",1631
-"AS13335","Cloudflare, Inc.",1630
 "AS209605","UAB Host Baltic",1589
 "AS36352","HostPapa",1566
 "AS398722","Censys, Inc.",1486
@@ -97,10 +97,10 @@ ASN,Organization,IP_Count
 "AS29484","Ruhr-Universitaet Bochum",245
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",230
-"AS32475","SingleHop LLC",224
+"AS32475","SingleHop LLC",226
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS12555","Data-center IMAQLIQ Ltd.",219
-"AS8560","IONOS SE",216
+"AS8560","IONOS SE",217
 "AS14987","Rethem Hosting LLC",215
 "AS50219","LNK SYSTEMS MUNTENIA SRL",210
 "AS63199","CDS Global Cloud Co., Ltd",210
