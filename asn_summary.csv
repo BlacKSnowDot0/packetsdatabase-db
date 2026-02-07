@@ -2,8 +2,8 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88093
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22445
-"AS398324","Censys, Inc.",16570
-"AS32934","Facebook, Inc.",15272
+"AS398324","Censys, Inc.",16573
+"AS32934","Facebook, Inc.",15568
 "AS396982","Google LLC",11121
 "AS14061","DigitalOcean, LLC",8982
 "AS26210","AXS Bolivia S. A.",7972
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4516
 "AS58466","CHINANET Guangdong province network",4479
 "AS45102","Alibaba (US) Technology Co., Ltd.",4418
-"AS0","",4075
+"AS0","",4076
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3782
 "AS15169","Google LLC",3589
@@ -100,11 +100,11 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS32475","SingleHop LLC",221
 "AS12555","Data-center IMAQLIQ Ltd.",219
+"AS8560","IONOS SE",216
 "AS14987","Rethem Hosting LLC",215
-"AS8560","IONOS SE",215
 "AS50219","LNK SYSTEMS MUNTENIA SRL",210
 "AS63199","CDS Global Cloud Co., Ltd",210
-"AS19905","Neustar Security Services",198
+"AS19905","Neustar Security Services",199
 "AS34984","Superonline Iletisim Hizmetleri A.S.",190
 "AS42237","w1n ltd",184
 "AS7552","Viettel Group",182
@@ -242,12 +242,12 @@ ASN,Organization,IP_Count
 "AS8167","V tal",37
 "AS8796","FD-298-8796",37
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",36
+"AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",35
 "AS213790","Limited Network LTD",35
 "AS55933","Cloudie Limited",35
 "AS55990","Huawei Cloud Service data center",35
 "AS136142","Enigma Fiber Pvt Ltd",34
 "AS146817","Hubei Feixun Network Co., Ltd",34
-"AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",34
 "AS21127","Joint Stock Company TransTeleCom",34
 "AS34665","Petersburg Internet Network ltd.",34
 "AS41745","Baykov Ilya Sergeevich",34
