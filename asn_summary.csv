@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88094
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22447
-"AS398324","Censys, Inc.",16577
-"AS32934","Facebook, Inc.",16104
-"AS396982","Google LLC",11122
+"AS398324","Censys, Inc.",16578
+"AS32934","Facebook, Inc.",16154
+"AS396982","Google LLC",11123
 "AS14061","DigitalOcean, LLC",8988
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6222
@@ -16,7 +16,7 @@ ASN,Organization,IP_Count
 "AS0","",4081
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3782
-"AS15169","Google LLC",3604
+"AS15169","Google LLC",3605
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3070
@@ -27,10 +27,10 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",2182
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
-"AS13335","Cloudflare, Inc.",1685
+"AS13335","Cloudflare, Inc.",1689
 "AS49870","Alsycon B.V.",1657
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1589
+"AS209605","UAB Host Baltic",1590
 "AS36352","HostPapa",1566
 "AS398722","Censys, Inc.",1486
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -97,7 +97,7 @@ ASN,Organization,IP_Count
 "AS29484","Ruhr-Universitaet Bochum",245
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",230
-"AS32475","SingleHop LLC",226
+"AS32475","SingleHop LLC",227
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS12555","Data-center IMAQLIQ Ltd.",219
 "AS8560","IONOS SE",217
@@ -128,9 +128,9 @@ ASN,Organization,IP_Count
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS47331","TTNet A.S.",111
 "AS208287","DC Host INC",110
+"AS5617","Orange Polska Spolka Akcyjna",108
 "AS199785","Cloud Hosting Solutions, Limited.",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",107
-"AS5617","Orange Polska Spolka Akcyjna",107
 "AS11320","LightEdge Solutions",103
 "AS136435","ELITE COMMUNICATION",102
 "AS23724","IDC, China Telecommunications Corporation",102
@@ -156,9 +156,9 @@ ASN,Organization,IP_Count
 "AS31898","Oracle Corporation",76
 "AS2856","British Telecommunications PLC",74
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",72
+"AS40676","Psychz Networks",71
 "AS45753","Netsec Limited",71
 "AS149746","PT Blip Integrator Provider",70
-"AS40676","Psychz Networks",70
 "AS52053","REDHEBERG Association declaree",69
 "AS834","IPXO LLC",69
 "AS215590","DpkgSoft International Limited",67
@@ -2873,6 +2873,7 @@ ASN,Organization,IP_Count
 "AS46238","WT Services, Inc.",1
 "AS4657","Starhub Ltd.",1
 "AS46687","BCI Mississippi Broadband,LLC",1
+"AS46783","EASY LINK LLC",1
 "AS46785","QUASAR DATA CENTER, LTD.",1
 "AS46829","Lamhosting LLC",1
 "AS46887","Crown Castle Fiber LLC",1
