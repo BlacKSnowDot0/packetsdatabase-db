@@ -2,25 +2,25 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88092
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22443
-"AS398324","Censys, Inc.",16555
+"AS398324","Censys, Inc.",16557
 "AS32934","Facebook, Inc.",15241
-"AS396982","Google LLC",11117
-"AS14061","DigitalOcean, LLC",8976
+"AS396982","Google LLC",11118
+"AS14061","DigitalOcean, LLC",8977
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6216
 "AS4134","Chinanet",5288
 "AS6568","Entel S.A. - EntelNet",4537
-"AS16509","Amazon.com, Inc.",4515
+"AS16509","Amazon.com, Inc.",4516
 "AS58466","CHINANET Guangdong province network",4479
 "AS45102","Alibaba (US) Technology Co., Ltd.",4417
-"AS0","",4070
+"AS0","",4071
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3781
 "AS15169","Google LLC",3589
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3068
-"AS6939","Hurricane Electric LLC",3021
+"AS6939","Hurricane Electric LLC",3022
 "AS23470","ReliableSite.Net LLC",2820
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2622
@@ -99,11 +99,11 @@ ASN,Organization,IP_Count
 "AS701","Verizon Business",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS12555","Data-center IMAQLIQ Ltd.",219
-"AS32475","SingleHop LLC",216
+"AS32475","SingleHop LLC",219
 "AS14987","Rethem Hosting LLC",215
 "AS8560","IONOS SE",215
 "AS63199","CDS Global Cloud Co., Ltd",210
-"AS50219","LNK SYSTEMS MUNTENIA SRL",208
+"AS50219","LNK SYSTEMS MUNTENIA SRL",209
 "AS19905","Neustar Security Services",197
 "AS34984","Superonline Iletisim Hizmetleri A.S.",190
 "AS42237","w1n ltd",183
@@ -265,6 +265,7 @@ ASN,Organization,IP_Count
 "AS58212","dataforest GmbH",31
 "AS200593","PROSPERO OOO",30
 "AS214417","Andrii Hrosh",30
+"AS2914","NTT America, Inc.",30
 "AS3269","Telecom Italia S.p.A.",30
 "AS36947","Telecom Algeria",30
 "AS401152","Ace Data Centers II, L.L.C.",30
@@ -272,7 +273,6 @@ ASN,Organization,IP_Count
 "AS6134","XNNET LLC",30
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",29
 "AS209588","Flyservers S.A.",29
-"AS2914","NTT America, Inc.",29
 "AS329490","Promethean Consulting Limited",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
