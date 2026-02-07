@@ -3,11 +3,11 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22448
 "AS398324","Censys, Inc.",16583
-"AS32934","Facebook, Inc.",16461
+"AS32934","Facebook, Inc.",16566
 "AS396982","Google LLC",11124
 "AS14061","DigitalOcean, LLC",8993
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6225
+"AS16276","OVH SAS",6226
 "AS4134","Chinanet",5290
 "AS16509","Amazon.com, Inc.",4556
 "AS6568","Entel S.A. - EntelNet",4537
@@ -99,7 +99,7 @@ ASN,Organization,IP_Count
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
-"AS12555","Data-center IMAQLIQ Ltd.",219
+"AS12555","Data-center IMAQLIQ Ltd.",221
 "AS8560","IONOS SE",217
 "AS14987","Rethem Hosting LLC",215
 "AS63199","CDS Global Cloud Co., Ltd",211
@@ -114,7 +114,7 @@ ASN,Organization,IP_Count
 "AS14956","RouterHosting LLC",165
 "AS262551","Farol Telecom",161
 "AS206264","Amarutu Technology Ltd",153
-"AS4766","Korea Telecom",152
+"AS4766","Korea Telecom",153
 "AS6739","VODAFONE ONO, S.A.",145
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",141
 "AS47105","Vault Dweller OU",141
@@ -188,16 +188,17 @@ ASN,Organization,IP_Count
 "AS18345","Servers Australia Pty. Ltd",55
 "AS200590","NLS Kazakhstan LLC",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
+"AS28546","Servnet Mexico, S.A. de C.V.",55
 "AS30058","FDCservers.net",55
 "AS213877","u1host ltd",54
 "AS215762","Bullet Group LTD",54
-"AS28546","Servnet Mexico, S.A. de C.V.",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS55803","Hostopia Australia Web Pty Ltd",53
 "AS12912","T-Mobile Polska S.A.",52
 "AS210558","1337 Services GmbH",51
 "AS56067","Metrabyte Co.,Ltd",50
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",50
+"AS20853","eTOP sp. z o.o.",49
 "AS266181","GOLDEN LINK",48
 "AS210509","Optimum Line for Internet Services Ltd.",47
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",47
@@ -210,7 +211,6 @@ ASN,Organization,IP_Count
 "AS4788","TM TECHNOLOGY SERVICES SDN BHD",46
 "AS12322","Free SAS",45
 "AS20473","The Constant Company, LLC",44
-"AS20853","eTOP sp. z o.o.",44
 "AS21928","T-Mobile USA, Inc.",44
 "AS42708","GleSYS AB",44
 "AS46844","Sharktech",44
