@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88093
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22445
-"AS398324","Censys, Inc.",16568
-"AS32934","Facebook, Inc.",15241
-"AS396982","Google LLC",11120
-"AS14061","DigitalOcean, LLC",8981
+"AS398324","Censys, Inc.",16570
+"AS32934","Facebook, Inc.",15252
+"AS396982","Google LLC",11121
+"AS14061","DigitalOcean, LLC",8982
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6218
+"AS16276","OVH SAS",6219
 "AS4134","Chinanet",5288
 "AS6568","Entel S.A. - EntelNet",4537
 "AS16509","Amazon.com, Inc.",4516
@@ -84,7 +84,7 @@ ASN,Organization,IP_Count
 "AS45899","VNPT Corp",319
 "AS213613","BOTSHIELD LTD",318
 "AS214943","Railnet LLC",318
-"AS141718","haoxiangyun",308
+"AS141718","haoxiangyun",309
 "AS24863","LINKdotNET AS number",307
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",307
 "AS9341","PT Indonesia Comnets Plus",297
@@ -188,10 +188,10 @@ ASN,Organization,IP_Count
 "AS18345","Servers Australia Pty. Ltd",55
 "AS200590","NLS Kazakhstan LLC",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
+"AS30058","FDCservers.net",55
 "AS213877","u1host ltd",54
 "AS215762","Bullet Group LTD",54
 "AS28546","Servnet Mexico, S.A. de C.V.",54
-"AS30058","FDCservers.net",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS55803","Hostopia Australia Web Pty Ltd",53
 "AS12912","T-Mobile Polska S.A.",52
@@ -412,6 +412,7 @@ ASN,Organization,IP_Count
 "AS17639","ComClark Network & Technology Corp",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS213438","ColocaTel Inc.",14
+"AS22612","Namecheap, Inc.",14
 "AS266015","JC2000 Telecomunicações Ltda",14
 "AS27947","Telconet S.A",14
 "AS3243","MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.",14
@@ -427,7 +428,6 @@ ASN,Organization,IP_Count
 "AS15895","""Kyivstar"" PJSC",13
 "AS2116","GLOBALCONNECT AS",13
 "AS213194","Nechaev Dmitry Sergeevich",13
-"AS22612","Namecheap, Inc.",13
 "AS25369","Hydra Communications Ltd",13
 "AS272928","P&C ON LINE S.R.L. (NETWAY INTERNET)",13
 "AS28840","PJSC ""TATTELECOM""",13
