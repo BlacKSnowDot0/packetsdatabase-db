@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88093
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22445
-"AS398324","Censys, Inc.",16566
+"AS398324","Censys, Inc.",16568
 "AS32934","Facebook, Inc.",15241
 "AS396982","Google LLC",11120
 "AS14061","DigitalOcean, LLC",8981
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6217
+"AS16276","OVH SAS",6218
 "AS4134","Chinanet",5288
 "AS6568","Entel S.A. - EntelNet",4537
 "AS16509","Amazon.com, Inc.",4516
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3070
-"AS6939","Hurricane Electric LLC",3023
+"AS6939","Hurricane Electric LLC",3024
 "AS23470","ReliableSite.Net LLC",2820
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2622
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1060
-"AS51167","Contabo GmbH",1004
+"AS51167","Contabo GmbH",1005
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",882
@@ -111,10 +111,10 @@ ASN,Organization,IP_Count
 "AS30083","velia.net",178
 "AS215240","Silent Connection Ltd.",175
 "AS401116","Nybula LLC",170
-"AS14956","RouterHosting LLC",162
+"AS14956","RouterHosting LLC",163
 "AS262551","Farol Telecom",161
 "AS206264","Amarutu Technology Ltd",153
-"AS4766","Korea Telecom",151
+"AS4766","Korea Telecom",152
 "AS6739","VODAFONE ONO, S.A.",145
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",141
 "AS47105","Vault Dweller OU",141
