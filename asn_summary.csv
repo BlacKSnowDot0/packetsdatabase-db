@@ -1,17 +1,17 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88092
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22441
-"AS398324","Censys, Inc.",16551
+"AS211298","Driftnet Ltd",22442
+"AS398324","Censys, Inc.",16553
 "AS32934","Facebook, Inc.",15142
 "AS396982","Google LLC",11117
-"AS14061","DigitalOcean, LLC",8974
+"AS14061","DigitalOcean, LLC",8975
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6213
+"AS16276","OVH SAS",6215
 "AS4134","Chinanet",5288
 "AS6568","Entel S.A. - EntelNet",4537
 "AS16509","Amazon.com, Inc.",4515
-"AS58466","CHINANET Guangdong province network",4477
+"AS58466","CHINANET Guangdong province network",4478
 "AS45102","Alibaba (US) Technology Co., Ltd.",4417
 "AS0","",4069
 "AS396998","Path Network, Inc.",3992
@@ -20,11 +20,11 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3068
-"AS6939","Hurricane Electric LLC",3019
+"AS6939","Hurricane Electric LLC",3020
 "AS23470","ReliableSite.Net LLC",2819
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2622
-"AS202425","IP Volume inc",2175
+"AS202425","IP Volume inc",2177
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
 "AS49870","Alsycon B.V.",1656
@@ -54,7 +54,7 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",808
 "AS8452","TE-AS",806
 "AS211680","NSEC - Sistemas Informaticos, S.A.",783
-"AS12876","ONLINE S.A.S.",662
+"AS12876","ONLINE S.A.S.",663
 "AS51115","HLL LLC",659
 "AS4837","CHINA UNICOM China169 Backbone",655
 "AS9829","Bharat Sanchar Nigam Ltd",612
@@ -99,8 +99,8 @@ ASN,Organization,IP_Count
 "AS701","Verizon Business",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS12555","Data-center IMAQLIQ Ltd.",219
+"AS32475","SingleHop LLC",216
 "AS14987","Rethem Hosting LLC",215
-"AS32475","SingleHop LLC",215
 "AS8560","IONOS SE",215
 "AS63199","CDS Global Cloud Co., Ltd",210
 "AS50219","LNK SYSTEMS MUNTENIA SRL",206
@@ -136,7 +136,7 @@ ASN,Organization,IP_Count
 "AS23724","IDC, China Telecommunications Corporation",102
 "AS28209","Under Servicos de Internet Ltda",100
 "AS63018","Dedicated.com",97
-"AS16735","ALGAR TELECOM S/A",95
+"AS16735","ALGAR TELECOM S/A",96
 "AS205352","KABELNET LTD",93
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS8402","PJSC ""Vimpelcom""",88
@@ -245,6 +245,7 @@ ASN,Organization,IP_Count
 "AS213790","Limited Network LTD",35
 "AS55933","Cloudie Limited",35
 "AS55990","Huawei Cloud Service data center",35
+"AS136142","Enigma Fiber Pvt Ltd",34
 "AS146817","Hubei Feixun Network Co., Ltd",34
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",34
 "AS21127","Joint Stock Company TransTeleCom",34
@@ -252,7 +253,6 @@ ASN,Organization,IP_Count
 "AS41745","Baykov Ilya Sergeevich",34
 "AS4847","China Networks Inter-Exchange",34
 "AS9304","HGC Global Communications Limited",34
-"AS136142","Enigma Fiber Pvt Ltd",33
 "AS45671","Servers Australia Pty. Ltd",33
 "AS9498","Bharti Airtel Limited",33
 "AS263355","GTR NET COMUNICACOES EIRELI",32
