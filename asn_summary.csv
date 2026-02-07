@@ -3,8 +3,8 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22448
 "AS398324","Censys, Inc.",16582
-"AS32934","Facebook, Inc.",16440
-"AS396982","Google LLC",11123
+"AS32934","Facebook, Inc.",16461
+"AS396982","Google LLC",11124
 "AS14061","DigitalOcean, LLC",8992
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6225
@@ -16,7 +16,7 @@ ASN,Organization,IP_Count
 "AS0","",4085
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3782
-"AS15169","Google LLC",3607
+"AS15169","Google LLC",3608
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3070
@@ -850,6 +850,7 @@ ASN,Organization,IP_Count
 "AS399296","Rackdog, LLC",4
 "AS400391","Pacific Wyyerd LLC",4
 "AS42961","Mobile Telecommunications Company",4
+"AS43350","NForce Entertainment B.V.",4
 "AS43612","Company for communications services A1 Makedonija DOOEL Skopje",4
 "AS43754","Asiatech Data Transmission company",4
 "AS44395","Ucom CJSC",4
@@ -1048,7 +1049,6 @@ ASN,Organization,IP_Count
 "AS42730","EVANZO e-commerce GmbH",3
 "AS42772","Unitary enterprise A1",3
 "AS43047","Stream-Network Ltd.",3
-"AS43350","NForce Entertainment B.V.",3
 "AS43708","DATAMAT CZ s.r.o.",3
 "AS44143","A1 Srbija d.o.o",3
 "AS44866","FOP Fedasiuk Oksana Petrivna",3
