@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88094
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22448
-"AS398324","Censys, Inc.",16581
+"AS398324","Censys, Inc.",16582
 "AS32934","Facebook, Inc.",16440
 "AS396982","Google LLC",11123
 "AS14061","DigitalOcean, LLC",8992
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6224
+"AS16276","OVH SAS",6225
 "AS4134","Chinanet",5289
 "AS16509","Amazon.com, Inc.",4556
 "AS6568","Entel S.A. - EntelNet",4537
@@ -27,11 +27,11 @@ ASN,Organization,IP_Count
 "AS202425","IP Volume inc",2182
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
-"AS13335","Cloudflare, Inc.",1706
+"AS13335","Cloudflare, Inc.",1708
 "AS49870","Alsycon B.V.",1657
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1590
-"AS36352","HostPapa",1566
+"AS36352","HostPapa",1567
 "AS398722","Censys, Inc.",1486
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1060
-"AS51167","Contabo GmbH",1008
+"AS51167","Contabo GmbH",1009
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",883
@@ -97,7 +97,7 @@ ASN,Organization,IP_Count
 "AS29484","Ruhr-Universitaet Bochum",245
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",230
-"AS32475","SingleHop LLC",228
+"AS32475","SingleHop LLC",229
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS12555","Data-center IMAQLIQ Ltd.",219
 "AS8560","IONOS SE",217
