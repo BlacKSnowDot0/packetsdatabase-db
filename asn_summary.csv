@@ -3,16 +3,16 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22446
 "AS398324","Censys, Inc.",16573
-"AS32934","Facebook, Inc.",15748
+"AS32934","Facebook, Inc.",15809
 "AS396982","Google LLC",11121
 "AS14061","DigitalOcean, LLC",8986
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6220
+"AS16276","OVH SAS",6221
 "AS4134","Chinanet",5288
+"AS16509","Amazon.com, Inc.",4540
 "AS6568","Entel S.A. - EntelNet",4537
-"AS16509","Amazon.com, Inc.",4536
 "AS58466","CHINANET Guangdong province network",4479
-"AS45102","Alibaba (US) Technology Co., Ltd.",4419
+"AS45102","Alibaba (US) Technology Co., Ltd.",4420
 "AS0","",4079
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3782
@@ -24,14 +24,14 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2820
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2622
-"AS202425","IP Volume inc",2180
+"AS202425","IP Volume inc",2182
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
-"AS49870","Alsycon B.V.",1656
+"AS49870","Alsycon B.V.",1657
 "AS214295","SKYNET NETWORK LTD",1631
-"AS13335","Cloudflare, Inc.",1629
+"AS13335","Cloudflare, Inc.",1630
 "AS209605","UAB Host Baltic",1589
-"AS36352","HostPapa",1565
+"AS36352","HostPapa",1566
 "AS398722","Censys, Inc.",1486
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
@@ -84,7 +84,7 @@ ASN,Organization,IP_Count
 "AS45899","VNPT Corp",319
 "AS213613","BOTSHIELD LTD",318
 "AS214943","Railnet LLC",318
-"AS141718","haoxiangyun",310
+"AS141718","haoxiangyun",311
 "AS24863","LINKdotNET AS number",307
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",307
 "AS9341","PT Indonesia Comnets Plus",297
@@ -134,7 +134,7 @@ ASN,Organization,IP_Count
 "AS11320","LightEdge Solutions",103
 "AS136435","ELITE COMMUNICATION",102
 "AS23724","IDC, China Telecommunications Corporation",102
-"AS28209","Under Servicos de Internet Ltda",100
+"AS28209","Under Servicos de Internet Ltda",101
 "AS63018","Dedicated.com",97
 "AS16735","ALGAR TELECOM S/A",96
 "AS205352","KABELNET LTD",93
@@ -575,8 +575,10 @@ ASN,Organization,IP_Count
 "AS203684","Imen Sanat Novin Alighapoo Private Joint Stock Company",7
 "AS204044","PACKET STAR NETWORKS LIMITED",7
 "AS204631","VIVANET GmbH",7
+"AS204861","Codisa Telco Solutions S.L.",7
 "AS207506","""NEWNET"" LLC",7
 "AS207957","SERV.HOST GROUP LTD",7
+"AS212219","HOSTING DUNYAM BILISIM TEKNOLOJILERI TICARET LIMITED SIRKETI",7
 "AS215599","Zkillu SAS",7
 "AS215672","MoeChuang Network Limited",7
 "AS24961","WIIT AG",7
@@ -625,10 +627,8 @@ ASN,Organization,IP_Count
 "AS198323","TOV Informatsiyni Kirovohrads'ki Systemy",6
 "AS201838","Community Fibre Limited",6
 "AS203020","HostRoyale Technologies Pvt Ltd",6
-"AS204861","Codisa Telco Solutions S.L.",6
 "AS210538","KEYUBU Internet ve Bilisim Tic. Ltd. Sti.",6
 "AS21056","Vianova S.p.A",6
-"AS212219","HOSTING DUNYAM BILISIM TEKNOLOJILERI TICARET LIMITED SIRKETI",6
 "AS212374","Virtuozzo International GmbH",6
 "AS212598","SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.",6
 "AS213893","IPTransit Business LTD",6
