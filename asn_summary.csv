@@ -3,9 +3,9 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22453
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16611
+"AS398324","Censys, Inc.",16612
 "AS396982","Google LLC",11131
-"AS14061","DigitalOcean, LLC",9003
+"AS14061","DigitalOcean, LLC",9004
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6230
 "AS4134","Chinanet",5290
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4479
 "AS45102","Alibaba (US) Technology Co., Ltd.",4422
-"AS0","",4092
+"AS0","",4093
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3782
 "AS15169","Google LLC",3608
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1061
-"AS51167","Contabo GmbH",1017
+"AS51167","Contabo GmbH",1018
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",883
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",598
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",590
-"AS53667","FranTech Solutions",575
+"AS53667","FranTech Solutions",577
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS50360","Tamatiya EOOD",551
@@ -95,7 +95,7 @@ ASN,Organization,IP_Count
 "AS60223","Netiface Limited",251
 "AS12389","PJSC Rostelecom",247
 "AS29484","Ruhr-Universitaet Bochum",246
-"AS32475","SingleHop LLC",238
+"AS32475","SingleHop LLC",239
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",230
 "AS12555","Data-center IMAQLIQ Ltd.",222
