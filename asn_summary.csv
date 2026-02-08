@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88096
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22451
-"AS32934","Facebook, Inc.",16605
-"AS398324","Censys, Inc.",16585
-"AS396982","Google LLC",11125
-"AS14061","DigitalOcean, LLC",8994
+"AS32934","Facebook, Inc.",16712
+"AS398324","Censys, Inc.",16593
+"AS396982","Google LLC",11127
+"AS14061","DigitalOcean, LLC",8995
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6227
 "AS4134","Chinanet",5290
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4479
 "AS45102","Alibaba (US) Technology Co., Ltd.",4421
-"AS0","",4086
+"AS0","",4087
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3782
 "AS15169","Google LLC",3608
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1060
-"AS51167","Contabo GmbH",1009
+"AS51167","Contabo GmbH",1011
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",883
@@ -84,7 +84,7 @@ ASN,Organization,IP_Count
 "AS45899","VNPT Corp",319
 "AS213613","BOTSHIELD LTD",318
 "AS214943","Railnet LLC",318
-"AS141718","haoxiangyun",311
+"AS141718","haoxiangyun",313
 "AS24863","LINKdotNET AS number",307
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",307
 "AS9341","PT Indonesia Comnets Plus",297
@@ -95,7 +95,7 @@ ASN,Organization,IP_Count
 "AS60223","Netiface Limited",251
 "AS12389","PJSC Rostelecom",247
 "AS29484","Ruhr-Universitaet Bochum",245
-"AS32475","SingleHop LLC",232
+"AS32475","SingleHop LLC",234
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",230
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
@@ -104,7 +104,7 @@ ASN,Organization,IP_Count
 "AS14987","Rethem Hosting LLC",215
 "AS63199","CDS Global Cloud Co., Ltd",212
 "AS50219","LNK SYSTEMS MUNTENIA SRL",210
-"AS19905","Neustar Security Services",199
+"AS19905","Neustar Security Services",200
 "AS34984","Superonline Iletisim Hizmetleri A.S.",190
 "AS42237","w1n ltd",184
 "AS7552","Viettel Group",182
@@ -140,7 +140,7 @@ ASN,Organization,IP_Count
 "AS205352","KABELNET LTD",93
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS8402","PJSC ""Vimpelcom""",88
-"AS200514","KnownSRV Ltd.",85
+"AS200514","KnownSRV Ltd.",86
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",85
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
@@ -190,12 +190,12 @@ ASN,Organization,IP_Count
 "AS200590","NLS Kazakhstan LLC",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
 "AS28546","Servnet Mexico, S.A. de C.V.",55
+"AS20853","eTOP sp. z o.o.",54
 "AS213877","u1host ltd",54
 "AS215762","Bullet Group LTD",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
 "AS55803","Hostopia Australia Web Pty Ltd",53
 "AS12912","T-Mobile Polska S.A.",52
-"AS20853","eTOP sp. z o.o.",52
 "AS210558","1337 Services GmbH",51
 "AS56067","Metrabyte Co.,Ltd",50
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",50
@@ -244,13 +244,13 @@ ASN,Organization,IP_Count
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",36
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",35
 "AS213790","Limited Network LTD",35
+"AS41745","Baykov Ilya Sergeevich",35
 "AS55933","Cloudie Limited",35
 "AS55990","Huawei Cloud Service data center",35
 "AS136142","Enigma Fiber Pvt Ltd",34
 "AS146817","Hubei Feixun Network Co., Ltd",34
 "AS21127","Joint Stock Company TransTeleCom",34
 "AS34665","Petersburg Internet Network ltd.",34
-"AS41745","Baykov Ilya Sergeevich",34
 "AS4847","China Networks Inter-Exchange",34
 "AS9304","HGC Global Communications Limited",34
 "AS45671","Servers Australia Pty. Ltd",33
