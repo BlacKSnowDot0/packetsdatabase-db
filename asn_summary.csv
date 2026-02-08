@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS32934","Facebook, Inc.",16787
 "AS398324","Censys, Inc.",16617
 "AS396982","Google LLC",11131
-"AS14061","DigitalOcean, LLC",9011
+"AS14061","DigitalOcean, LLC",9012
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6231
 "AS4134","Chinanet",5290
@@ -140,7 +140,7 @@ ASN,Organization,IP_Count
 "AS205352","KABELNET LTD",93
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS8402","PJSC ""Vimpelcom""",88
-"AS200514","KnownSRV Ltd.",86
+"AS200514","KnownSRV Ltd.",87
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",85
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
@@ -425,6 +425,7 @@ ASN,Organization,IP_Count
 "AS9318","SK Broadband Co Ltd",14
 "AS11351","Charter Communications Inc",13
 "AS134420","Chongqing Telecom",13
+"AS135905","VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",13
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",13
 "AS15895","""Kyivstar"" PJSC",13
 "AS205798","Ryszard Zawilski trading as ITTAM",13
@@ -442,7 +443,6 @@ ASN,Organization,IP_Count
 "AS62442","Dade Samane Fanava Company (PJS)",13
 "AS9770","LG HelloVision Corp.",13
 "AS11172","Alestra, S. de R.L. de C.V.",12
-"AS135905","VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",12
 "AS150179","KAAL TECH CO., LIMITED",12
 "AS200651","FlokiNET ehf",12
 "AS2637","Georgia Institute of Technology",12
