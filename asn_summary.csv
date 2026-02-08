@@ -3,7 +3,7 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22453
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16604
+"AS398324","Censys, Inc.",16605
 "AS396982","Google LLC",11131
 "AS14061","DigitalOcean, LLC",9001
 "AS26210","AXS Bolivia S. A.",7972
@@ -94,8 +94,8 @@ ASN,Organization,IP_Count
 "AS29066","velia.net Internetdienste GmbH",251
 "AS60223","Netiface Limited",251
 "AS12389","PJSC Rostelecom",247
-"AS29484","Ruhr-Universitaet Bochum",245
-"AS32475","SingleHop LLC",236
+"AS29484","Ruhr-Universitaet Bochum",246
+"AS32475","SingleHop LLC",237
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",230
 "AS12555","Data-center IMAQLIQ Ltd.",222
@@ -122,7 +122,7 @@ ASN,Organization,IP_Count
 "AS151185","China Telecom",132
 "AS137409","GSL Networks Pty LTD",128
 "AS36007","Kamatera, Inc.",122
-"AS396356","Latitude.sh",117
+"AS396356","Latitude.sh",118
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",116
 "AS40021","Nubes, LLC",115
 "AS211298","Constantine Cybersecurity Ltd.",113
@@ -702,6 +702,7 @@ ASN,Organization,IP_Count
 "AS202468","Noyan Abr Arvan Co. ( Private Joint Stock)",5
 "AS20412","Clarity Telecom LLC",5
 "AS207656","Epinatura LLC",5
+"AS211301","Collin Schneeweiss trading as Unesty Company",5
 "AS212317","Hetzner Online GmbH",5
 "AS21246","IPKO Telecommunications LLC",5
 "AS212552","BitCommand LLC",5
@@ -804,7 +805,6 @@ ASN,Organization,IP_Count
 "AS207083","HostSlim B.V.",4
 "AS208040","RSS (RAPID SOFTWARE SYSTEMS) CYPRUS LTD",4
 "AS208208","Marco Lingl trading as Cyberse GmbH & Co. KG",4
-"AS211301","Collin Schneeweiss trading as Unesty Company",4
 "AS212042","Istqrar for Servers Services Ltd",4
 "AS212271","Cinzia Tocci trading as C1V",4
 "AS21334","One Hungary Ltd.",4
@@ -900,6 +900,7 @@ ASN,Organization,IP_Count
 "AS11796","Airstream Communications, LLC",3
 "AS11845","Vox Telecom Ltd",3
 "AS12252","America Movil Peru S.A.C.",3
+"AS12586","GHOSTnet GmbH",3
 "AS12997","OJSC Kyrgyztelecom",3
 "AS131111","PT Mora Telematika Indonesia",3
 "AS131414","Long Van Soft Solution JSC",3
@@ -1120,7 +1121,6 @@ ASN,Organization,IP_Count
 "AS12301","Invitech ICT Services Kft.",2
 "AS12357","VODAFONE ESPANA S.A.U.",2
 "AS12488","Krystal Hosting Ltd",2
-"AS12586","GHOSTnet GmbH",2
 "AS12668","LLC ""KomTehCentr""",2
 "AS12737","KrasPromStroy, LLC",2
 "AS12739","CJSC Netline",2
