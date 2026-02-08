@@ -3,9 +3,9 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22453
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16605
+"AS398324","Censys, Inc.",16606
 "AS396982","Google LLC",11131
-"AS14061","DigitalOcean, LLC",9001
+"AS14061","DigitalOcean, LLC",9002
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6228
 "AS4134","Chinanet",5290
@@ -19,8 +19,8 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3608
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3074
-"AS6939","Hurricane Electric LLC",3030
+"AS8075","Microsoft Corporation",3075
+"AS6939","Hurricane Electric LLC",3031
 "AS23470","ReliableSite.Net LLC",2820
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
@@ -55,7 +55,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",806
 "AS211680","NSEC - Sistemas Informaticos, S.A.",798
 "AS12876","ONLINE S.A.S.",665
-"AS51115","HLL LLC",661
+"AS51115","HLL LLC",662
 "AS4837","CHINA UNICOM China169 Backbone",656
 "AS9829","Bharat Sanchar Nigam Ltd",614
 "AS201814","MEVSPACE sp. z o.o.",608
@@ -131,7 +131,7 @@ ASN,Organization,IP_Count
 "AS5617","Orange Polska Spolka Akcyjna",108
 "AS199785","Cloud Hosting Solutions, Limited.",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",107
-"AS11320","LightEdge Solutions",103
+"AS11320","LightEdge Solutions",104
 "AS23724","IDC, China Telecommunications Corporation",103
 "AS136435","ELITE COMMUNICATION",102
 "AS28209","Under Servicos de Internet Ltda",101
