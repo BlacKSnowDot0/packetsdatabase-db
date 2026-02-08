@@ -3,11 +3,11 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22452
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16595
+"AS398324","Censys, Inc.",16596
 "AS396982","Google LLC",11128
-"AS14061","DigitalOcean, LLC",8997
+"AS14061","DigitalOcean, LLC",8999
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6227
+"AS16276","OVH SAS",6228
 "AS4134","Chinanet",5290
 "AS16509","Amazon.com, Inc.",4556
 "AS6568","Entel S.A. - EntelNet",4537
@@ -116,7 +116,7 @@ ASN,Organization,IP_Count
 "AS206264","Amarutu Technology Ltd",153
 "AS4766","Korea Telecom",153
 "AS6739","VODAFONE ONO, S.A.",145
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",141
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",142
 "AS47105","Vault Dweller OU",141
 "AS13238","YANDEX LLC",137
 "AS151185","China Telecom",132
@@ -761,6 +761,7 @@ ASN,Organization,IP_Count
 "AS61135","COMNET BILGI ILETISIM TEKNOLOJILERI TICARET A.S.",5
 "AS61461","Airtek Solutions C.A.",5
 "AS63526","Systems Solutions & development Technologies Limited",5
+"AS786","Jisc Services Limited",5
 "AS786","RIPE Network Coordination Centre",5
 "AS8345","JSC ""ER-Telecom Holding""",5
 "AS8359","MTS PJSC",5
@@ -880,7 +881,6 @@ ASN,Organization,IP_Count
 "AS62468","VpsQuan L.L.C.",4
 "AS7482","Asia Pacific On-line Service Inc.",4
 "AS7545","TPG Internet Pty Ltd",4
-"AS786","Jisc Services Limited",4
 "AS8376","Jordan Data Communications Company LLC",4
 "AS8781","Ooredoo Q.S.C.",4
 "AS8866","Vivacom Bulgaria EAD",4
@@ -3089,6 +3089,7 @@ ASN,Organization,IP_Count
 "AS60849","iLevant FZE",1
 "AS61163","Global Technologies of Ukraine LLC",1
 "AS61173","Green Web Samaneh Novin PJSC",1
+"AS61414","EDGENAP LTD",1
 "AS61512","GIG@NET SOCIEDAD ANONIMA",1
 "AS61579","Pgnet Provedor",1
 "AS61583","WDS TELECOM LTDA. ME",1
