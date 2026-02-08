@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2820
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
-"AS202425","IP Volume inc",2182
+"AS202425","IP Volume inc",2183
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
 "AS13335","Cloudflare, Inc.",1754
@@ -55,7 +55,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",806
 "AS211680","NSEC - Sistemas Informaticos, S.A.",798
 "AS12876","ONLINE S.A.S.",665
-"AS51115","HLL LLC",660
+"AS51115","HLL LLC",661
 "AS4837","CHINA UNICOM China169 Backbone",656
 "AS9829","Bharat Sanchar Nigam Ltd",614
 "AS201814","MEVSPACE sp. z o.o.",608
@@ -100,7 +100,7 @@ ASN,Organization,IP_Count
 "AS701","Verizon Business",230
 "AS12555","Data-center IMAQLIQ Ltd.",222
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
-"AS8560","IONOS SE",218
+"AS8560","IONOS SE",219
 "AS14987","Rethem Hosting LLC",215
 "AS63199","CDS Global Cloud Co., Ltd",212
 "AS50219","LNK SYSTEMS MUNTENIA SRL",210
@@ -122,8 +122,8 @@ ASN,Organization,IP_Count
 "AS151185","China Telecom",132
 "AS137409","GSL Networks Pty LTD",128
 "AS36007","Kamatera, Inc.",122
+"AS396356","Latitude.sh",116
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",116
-"AS396356","Latitude.sh",115
 "AS40021","Nubes, LLC",115
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS47331","TTNet A.S.",111
