@@ -7,13 +7,13 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",11131
 "AS14061","DigitalOcean, LLC",9014
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6231
+"AS16276","OVH SAS",6233
 "AS4134","Chinanet",5290
 "AS16509","Amazon.com, Inc.",4558
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4479
-"AS45102","Alibaba (US) Technology Co., Ltd.",4423
-"AS0","",4096
+"AS45102","Alibaba (US) Technology Co., Ltd.",4424
+"AS0","",4097
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3783
 "AS15169","Google LLC",3608
@@ -95,7 +95,7 @@ ASN,Organization,IP_Count
 "AS60223","Netiface Limited",251
 "AS12389","PJSC Rostelecom",247
 "AS29484","Ruhr-Universitaet Bochum",246
-"AS32475","SingleHop LLC",244
+"AS32475","SingleHop LLC",246
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",230
 "AS12555","Data-center IMAQLIQ Ltd.",222
@@ -111,7 +111,7 @@ ASN,Organization,IP_Count
 "AS30083","velia.net",178
 "AS215240","Silent Connection Ltd.",175
 "AS401116","Nybula LLC",170
-"AS14956","RouterHosting LLC",165
+"AS14956","RouterHosting LLC",166
 "AS262551","Farol Telecom",161
 "AS206264","Amarutu Technology Ltd",153
 "AS4766","Korea Telecom",153
