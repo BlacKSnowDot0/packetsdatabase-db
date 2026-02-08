@@ -3,9 +3,9 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22453
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16615
+"AS398324","Censys, Inc.",16617
 "AS396982","Google LLC",11131
-"AS14061","DigitalOcean, LLC",9005
+"AS14061","DigitalOcean, LLC",9011
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6231
 "AS4134","Chinanet",5290
@@ -42,7 +42,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
-"AS208684","BHA CONSEIL SARL",1061
+"AS208684","BHA CONSEIL SARL",1062
 "AS51167","Contabo GmbH",1019
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
@@ -106,7 +106,7 @@ ASN,Organization,IP_Count
 "AS50219","LNK SYSTEMS MUNTENIA SRL",210
 "AS19905","Neustar Security Services",201
 "AS34984","Superonline Iletisim Hizmetleri A.S.",190
-"AS42237","w1n ltd",184
+"AS42237","w1n ltd",185
 "AS7552","Viettel Group",182
 "AS30083","velia.net",178
 "AS215240","Silent Connection Ltd.",175
@@ -154,10 +154,10 @@ ASN,Organization,IP_Count
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",76
 "AS31898","Oracle Corporation",76
+"AS45753","Netsec Limited",76
 "AS2856","British Telecommunications PLC",74
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",73
 "AS40676","Psychz Networks",72
-"AS45753","Netsec Limited",71
 "AS149746","PT Blip Integrator Provider",70
 "AS52053","REDHEBERG Association declaree",69
 "AS834","IPXO LLC",69
@@ -183,8 +183,8 @@ ASN,Organization,IP_Count
 "AS49544","i3D.net B.V",59
 "AS12816","Leibniz-Rechenzentrum",58
 "AS20278","Nexeon Technologies, Inc.",57
+"AS30058","FDCservers.net",57
 "AS30633","Leaseweb USA, Inc.",57
-"AS30058","FDCservers.net",56
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS200590","NLS Kazakhstan LLC",55
