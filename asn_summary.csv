@@ -12,7 +12,7 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4557
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4479
-"AS45102","Alibaba (US) Technology Co., Ltd.",4422
+"AS45102","Alibaba (US) Technology Co., Ltd.",4423
 "AS0","",4095
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3783
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",599
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",590
-"AS53667","FranTech Solutions",577
+"AS53667","FranTech Solutions",579
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS50360","Tamatiya EOOD",551
@@ -329,6 +329,7 @@ ASN,Organization,IP_Count
 "AS46573","LayerHost",21
 "AS4800","PT Aplikanusa Lintasarta",21
 "AS50887","DC FIBER HOME SRL",21
+"AS59134","PT. Datacomm Diangraha",21
 "AS60781","LeaseWeb Netherlands B.V.",21
 "AS812","Rogers Communications Canada Inc.",21
 "AS9299","Philippine Long Distance Telephone Co.",21
@@ -340,7 +341,6 @@ ASN,Organization,IP_Count
 "AS24757","EthioNet",20
 "AS28649","Desktop Sigmanet Comunicação Multimídia SA",20
 "AS49531","""NetCom-R"" LLC",20
-"AS59134","PT. Datacomm Diangraha",20
 "AS6181","Cincinnati Bell Telephone Company LLC",20
 "AS11426","Charter Communications Inc",19
 "AS11878","tzulo, inc.",19
