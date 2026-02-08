@@ -3,17 +3,17 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22453
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16608
+"AS398324","Censys, Inc.",16610
 "AS396982","Google LLC",11131
-"AS14061","DigitalOcean, LLC",9002
+"AS14061","DigitalOcean, LLC",9003
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6229
 "AS4134","Chinanet",5290
 "AS16509","Amazon.com, Inc.",4556
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4479
-"AS45102","Alibaba (US) Technology Co., Ltd.",4421
-"AS0","",4091
+"AS45102","Alibaba (US) Technology Co., Ltd.",4422
+"AS0","",4092
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3782
 "AS15169","Google LLC",3608
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1657
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1590
-"AS36352","HostPapa",1568
+"AS36352","HostPapa",1575
 "AS398722","Censys, Inc.",1486
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
@@ -62,14 +62,14 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",598
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",590
-"AS53667","FranTech Solutions",574
+"AS53667","FranTech Solutions",575
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS50360","Tamatiya EOOD",551
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",482
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",442
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",443
 "AS21859","Zenlayer Inc",430
 "AS24186","RailTel Corporation of India Ltd.",410
 "AS21299","Kar-Tel LLC",406
