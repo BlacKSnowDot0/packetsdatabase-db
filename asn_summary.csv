@@ -1,9 +1,9 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88098
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22453
+"AS211298","Driftnet Ltd",22454
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16627
+"AS398324","Censys, Inc.",16628
 "AS396982","Google LLC",11131
 "AS14061","DigitalOcean, LLC",9014
 "AS26210","AXS Bolivia S. A.",7972
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4479
 "AS45102","Alibaba (US) Technology Co., Ltd.",4424
-"AS0","",4097
+"AS0","",4098
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3783
 "AS15169","Google LLC",3608
@@ -55,13 +55,13 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",806
 "AS211680","NSEC - Sistemas Informaticos, S.A.",798
 "AS12876","ONLINE S.A.S.",666
-"AS51115","HLL LLC",665
+"AS51115","HLL LLC",666
 "AS4837","CHINA UNICOM China169 Backbone",656
 "AS9829","Bharat Sanchar Nigam Ltd",615
 "AS201814","MEVSPACE sp. z o.o.",608
 "AS9009","M247 Europe SRL",599
 "AS211849","Kakharov Orinbassar Maratuly",596
-"AS3462","Chunghwa Telecom Co., Ltd.",590
+"AS3462","Chunghwa Telecom Co., Ltd.",591
 "AS53667","FranTech Solutions",579
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
@@ -84,7 +84,7 @@ ASN,Organization,IP_Count
 "AS45899","VNPT Corp",319
 "AS213613","BOTSHIELD LTD",318
 "AS214943","Railnet LLC",318
-"AS141718","haoxiangyun",315
+"AS141718","haoxiangyun",316
 "AS24863","LINKdotNET AS number",307
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",307
 "AS9341","PT Indonesia Comnets Plus",297
@@ -242,12 +242,12 @@ ASN,Organization,IP_Count
 "AS8167","V tal",37
 "AS8796","FD-298-8796",37
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",36
+"AS136142","Enigma Fiber Pvt Ltd",35
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",35
 "AS213790","Limited Network LTD",35
 "AS41745","Baykov Ilya Sergeevich",35
 "AS55933","Cloudie Limited",35
 "AS55990","Huawei Cloud Service data center",35
-"AS136142","Enigma Fiber Pvt Ltd",34
 "AS146817","Hubei Feixun Network Co., Ltd",34
 "AS21127","Joint Stock Company TransTeleCom",34
 "AS34665","Petersburg Internet Network ltd.",34
