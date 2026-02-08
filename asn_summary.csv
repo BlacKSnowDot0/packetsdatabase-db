@@ -3,9 +3,9 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22452
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16596
-"AS396982","Google LLC",11130
-"AS14061","DigitalOcean, LLC",8999
+"AS398324","Censys, Inc.",16599
+"AS396982","Google LLC",11131
+"AS14061","DigitalOcean, LLC",9000
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6228
 "AS4134","Chinanet",5290
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3073
-"AS6939","Hurricane Electric LLC",3029
+"AS6939","Hurricane Electric LLC",3030
 "AS23470","ReliableSite.Net LLC",2820
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS10439","CariNet, Inc.",809
-"AS14618","Amazon.com, Inc.",808
+"AS14618","Amazon.com, Inc.",809
 "AS8452","TE-AS",806
 "AS211680","NSEC - Sistemas Informaticos, S.A.",798
 "AS12876","ONLINE S.A.S.",665
@@ -84,7 +84,7 @@ ASN,Organization,IP_Count
 "AS45899","VNPT Corp",319
 "AS213613","BOTSHIELD LTD",318
 "AS214943","Railnet LLC",318
-"AS141718","haoxiangyun",313
+"AS141718","haoxiangyun",314
 "AS24863","LINKdotNET AS number",307
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",307
 "AS9341","PT Indonesia Comnets Plus",297
@@ -124,7 +124,7 @@ ASN,Organization,IP_Count
 "AS36007","Kamatera, Inc.",122
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",116
 "AS396356","Latitude.sh",115
-"AS40021","Nubes, LLC",114
+"AS40021","Nubes, LLC",115
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS47331","TTNet A.S.",111
 "AS208287","DC Host INC",110
@@ -132,8 +132,8 @@ ASN,Organization,IP_Count
 "AS199785","Cloud Hosting Solutions, Limited.",107
 "AS28573","Claro NXT Telecomunicacoes Ltda",107
 "AS11320","LightEdge Solutions",103
+"AS23724","IDC, China Telecommunications Corporation",103
 "AS136435","ELITE COMMUNICATION",102
-"AS23724","IDC, China Telecommunications Corporation",102
 "AS28209","Under Servicos de Internet Ltda",101
 "AS63018","Dedicated.com",97
 "AS16735","ALGAR TELECOM S/A",96
