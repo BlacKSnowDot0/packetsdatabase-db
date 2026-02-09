@@ -3,13 +3,13 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22462
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16662
+"AS398324","Censys, Inc.",16664
 "AS396982","Google LLC",11138
-"AS14061","DigitalOcean, LLC",9027
+"AS14061","DigitalOcean, LLC",9028
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6240
+"AS16276","OVH SAS",6241
 "AS4134","Chinanet",5290
-"AS16509","Amazon.com, Inc.",4558
+"AS16509","Amazon.com, Inc.",4559
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4479
 "AS45102","Alibaba (US) Technology Co., Ltd.",4429
@@ -56,7 +56,7 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",800
 "AS12876","ONLINE S.A.S.",668
 "AS51115","HLL LLC",666
-"AS4837","CHINA UNICOM China169 Backbone",657
+"AS4837","CHINA UNICOM China169 Backbone",658
 "AS9829","Bharat Sanchar Nigam Ltd",616
 "AS201814","MEVSPACE sp. z o.o.",613
 "AS9009","M247 Europe SRL",599
@@ -79,8 +79,8 @@ ASN,Organization,IP_Count
 "AS7713","Telekomunikasi Indonesia (PT)",367
 "AS7922","Comcast Cable Communications, LLC",357
 "AS8151","Uninet S.A. de C.V.",341
+"AS208843","Alpha Strike Labs GmbH",337
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
-"AS208843","Alpha Strike Labs GmbH",336
 "AS45899","VNPT Corp",319
 "AS213613","BOTSHIELD LTD",318
 "AS214943","Railnet LLC",318
@@ -137,8 +137,8 @@ ASN,Organization,IP_Count
 "AS28209","Under Servicos de Internet Ltda",101
 "AS16735","ALGAR TELECOM S/A",97
 "AS63018","Dedicated.com",97
+"AS45753","Netsec Limited",94
 "AS205352","KABELNET LTD",93
-"AS45753","Netsec Limited",90
 "AS200514","KnownSRV Ltd.",89
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS8402","PJSC ""Vimpelcom""",88
@@ -281,6 +281,7 @@ ASN,Organization,IP_Count
 "AS30860","Virtual Systems LLC",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS17995","PT iForte Global Internet",27
+"AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",27
 "AS34534","FBW NETWORKS SAS",27
 "AS53118","NETLINE TELECOM",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
@@ -288,7 +289,6 @@ ASN,Organization,IP_Count
 "AS2200","Renater",26
 "AS23693","PT. Telekomunikasi Selular",26
 "AS24560","Bharti Airtel Limited",26
-"AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",26
 "AS3209","Vodafone GmbH",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
 "AS18881","TELEFÔNICA BRASIL S.A",25
