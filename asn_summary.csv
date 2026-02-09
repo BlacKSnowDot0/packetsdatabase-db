@@ -3,9 +3,9 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22462
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16660
+"AS398324","Censys, Inc.",16662
 "AS396982","Google LLC",11138
-"AS14061","DigitalOcean, LLC",9026
+"AS14061","DigitalOcean, LLC",9027
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6240
 "AS4134","Chinanet",5290
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4479
 "AS45102","Alibaba (US) Technology Co., Ltd.",4429
-"AS0","",4120
+"AS0","",4121
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3785
 "AS15169","Google LLC",3608
@@ -57,7 +57,7 @@ ASN,Organization,IP_Count
 "AS12876","ONLINE S.A.S.",668
 "AS51115","HLL LLC",666
 "AS4837","CHINA UNICOM China169 Backbone",657
-"AS9829","Bharat Sanchar Nigam Ltd",615
+"AS9829","Bharat Sanchar Nigam Ltd",616
 "AS201814","MEVSPACE sp. z o.o.",613
 "AS9009","M247 Europe SRL",599
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -91,7 +91,7 @@ ASN,Organization,IP_Count
 "AS210848","Telkom Internet LTD",296
 "AS18403","FPT Telecom Company",277
 "AS48090","TECHOFF SRV LIMITED",265
-"AS32475","SingleHop LLC",256
+"AS32475","SingleHop LLC",258
 "AS29066","velia.net Internetdienste GmbH",251
 "AS60223","Netiface Limited",251
 "AS12389","PJSC Rostelecom",249
@@ -2018,6 +2018,7 @@ ASN,Organization,IP_Count
 "AS205157","Daniel Cid",1
 "AS205463","Pembe Gul Isguzar Karagoz",1
 "AS205545","JIWA Holdings Ltd",1
+"AS205714","Telemach Hrvatska d.o.o.",1
 "AS20598","Autonomous System number for Cyber Space,",1
 "AS206026","Kar-Tel LLC",1
 "AS206077","Lecrin Television S.L.",1
