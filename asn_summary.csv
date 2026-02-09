@@ -3,11 +3,11 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22462
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16658
+"AS398324","Censys, Inc.",16659
 "AS396982","Google LLC",11138
 "AS14061","DigitalOcean, LLC",9026
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6239
+"AS16276","OVH SAS",6240
 "AS4134","Chinanet",5290
 "AS16509","Amazon.com, Inc.",4558
 "AS6568","Entel S.A. - EntelNet",4537
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1064
-"AS51167","Contabo GmbH",1026
+"AS51167","Contabo GmbH",1027
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",884
@@ -91,7 +91,7 @@ ASN,Organization,IP_Count
 "AS210848","Telkom Internet LTD",296
 "AS18403","FPT Telecom Company",277
 "AS48090","TECHOFF SRV LIMITED",265
-"AS32475","SingleHop LLC",254
+"AS32475","SingleHop LLC",256
 "AS29066","velia.net Internetdienste GmbH",251
 "AS60223","Netiface Limited",251
 "AS12389","PJSC Rostelecom",249
@@ -139,8 +139,8 @@ ASN,Organization,IP_Count
 "AS63018","Dedicated.com",97
 "AS205352","KABELNET LTD",93
 "AS45753","Netsec Limited",90
+"AS200514","KnownSRV Ltd.",89
 "AS210125","PRIAM NET Sh.p.k.",89
-"AS200514","KnownSRV Ltd.",88
 "AS8402","PJSC ""Vimpelcom""",88
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",85
 "AS271795","SERVITELCONET CIA. LTDA.",85
@@ -175,9 +175,9 @@ ASN,Organization,IP_Count
 "AS17378","TierPoint, LLC",63
 "AS202796","JSR IT B.V.",62
 "AS140717","China Unicom",61
+"AS30058","FDCservers.net",61
 "AS4812","China Telecom (Group)",61
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",60
-"AS30058","FDCservers.net",60
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS20001","Charter Communications Inc",59
 "AS20115","Charter Communications",59
@@ -538,6 +538,7 @@ ASN,Organization,IP_Count
 "AS198361","Yaglom Labs Ltd",8
 "AS202870","Dimensione S.r.l.",8
 "AS203459","AL-MARAJ AL-ALAMIYA Co",8
+"AS204861","Codisa Telco Solutions S.L.",8
 "AS209956","Telkoturk Iletisim Hizmetleri A.S.",8
 "AS215730","H2NEXUS LTD",8
 "AS216300","Closed Joint Stock Company ""AbkhazMedia""",8
@@ -578,7 +579,6 @@ ASN,Organization,IP_Count
 "AS203684","Imen Sanat Novin Alighapoo Private Joint Stock Company",7
 "AS204044","PACKET STAR NETWORKS LIMITED",7
 "AS204631","VIVANET GmbH",7
-"AS204861","Codisa Telco Solutions S.L.",7
 "AS207506","""NEWNET"" LLC",7
 "AS207957","SERV.HOST GROUP LTD",7
 "AS212219","HOSTING DUNYAM BILISIM TEKNOLOJILERI TICARET LIMITED SIRKETI",7
