@@ -3,9 +3,9 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22462
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16656
+"AS398324","Censys, Inc.",16658
 "AS396982","Google LLC",11138
-"AS14061","DigitalOcean, LLC",9025
+"AS14061","DigitalOcean, LLC",9026
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6239
 "AS4134","Chinanet",5290
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4479
 "AS45102","Alibaba (US) Technology Co., Ltd.",4429
-"AS0","",4118
+"AS0","",4120
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3785
 "AS15169","Google LLC",3608
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2821
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
-"AS202425","IP Volume inc",2194
+"AS202425","IP Volume inc",2195
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
 "AS13335","Cloudflare, Inc.",1754
@@ -91,7 +91,7 @@ ASN,Organization,IP_Count
 "AS210848","Telkom Internet LTD",296
 "AS18403","FPT Telecom Company",277
 "AS48090","TECHOFF SRV LIMITED",265
-"AS32475","SingleHop LLC",253
+"AS32475","SingleHop LLC",254
 "AS29066","velia.net Internetdienste GmbH",251
 "AS60223","Netiface Limited",251
 "AS12389","PJSC Rostelecom",249
@@ -177,10 +177,10 @@ ASN,Organization,IP_Count
 "AS140717","China Unicom",61
 "AS4812","China Telecom (Group)",61
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",60
+"AS30058","FDCservers.net",60
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS20001","Charter Communications Inc",59
 "AS20115","Charter Communications",59
-"AS30058","FDCservers.net",59
 "AS49544","i3D.net B.V",59
 "AS12816","Leibniz-Rechenzentrum",58
 "AS20278","Nexeon Technologies, Inc.",57
