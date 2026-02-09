@@ -3,7 +3,7 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22459
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16651
+"AS398324","Censys, Inc.",16652
 "AS396982","Google LLC",11137
 "AS14061","DigitalOcean, LLC",9023
 "AS26210","AXS Bolivia S. A.",7972
@@ -12,14 +12,14 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4558
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4479
-"AS45102","Alibaba (US) Technology Co., Ltd.",4425
-"AS0","",4114
+"AS45102","Alibaba (US) Technology Co., Ltd.",4427
+"AS0","",4115
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3784
 "AS15169","Google LLC",3608
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3082
+"AS8075","Microsoft Corporation",3084
 "AS6939","Hurricane Electric LLC",3036
 "AS23470","ReliableSite.Net LLC",2821
 "AS213412","ONYPHE SAS",2795
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
 "AS13335","Cloudflare, Inc.",1754
-"AS49870","Alsycon B.V.",1678
+"AS49870","Alsycon B.V.",1679
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1591
 "AS36352","HostPapa",1575
@@ -42,7 +42,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
-"AS208684","BHA CONSEIL SARL",1063
+"AS208684","BHA CONSEIL SARL",1064
 "AS51167","Contabo GmbH",1026
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
@@ -58,7 +58,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",666
 "AS4837","CHINA UNICOM China169 Backbone",657
 "AS9829","Bharat Sanchar Nigam Ltd",615
-"AS201814","MEVSPACE sp. z o.o.",611
+"AS201814","MEVSPACE sp. z o.o.",612
 "AS9009","M247 Europe SRL",599
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",591
@@ -113,7 +113,7 @@ ASN,Organization,IP_Count
 "AS401116","Nybula LLC",170
 "AS14956","RouterHosting LLC",167
 "AS262551","Farol Telecom",161
-"AS4766","Korea Telecom",154
+"AS4766","Korea Telecom",155
 "AS206264","Amarutu Technology Ltd",153
 "AS6739","VODAFONE ONO, S.A.",145
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",142
@@ -161,9 +161,9 @@ ASN,Organization,IP_Count
 "AS149746","PT Blip Integrator Provider",70
 "AS52053","REDHEBERG Association declaree",69
 "AS834","IPXO LLC",69
+"AS57588","Hayat for Internet & communication LLC",68
 "AS215590","DpkgSoft International Limited",67
 "AS328867","Corebach Backbone SARL",67
-"AS57588","Hayat for Internet & communication LLC",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
 "AS46475","Limestone Networks, Inc.",66
 "AS6128","Cablevision Systems Corp.",66
