@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88098
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22455
+"AS211298","Driftnet Ltd",22458
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16634
-"AS396982","Google LLC",11132
-"AS14061","DigitalOcean, LLC",9015
+"AS398324","Censys, Inc.",16639
+"AS396982","Google LLC",11133
+"AS14061","DigitalOcean, LLC",9017
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6234
 "AS4134","Chinanet",5290
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3078
-"AS6939","Hurricane Electric LLC",3032
+"AS6939","Hurricane Electric LLC",3033
 "AS23470","ReliableSite.Net LLC",2821
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1062
-"AS51167","Contabo GmbH",1023
+"AS51167","Contabo GmbH",1024
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",884
@@ -56,9 +56,9 @@ ASN,Organization,IP_Count
 "AS211680","NSEC - Sistemas Informaticos, S.A.",798
 "AS12876","ONLINE S.A.S.",666
 "AS51115","HLL LLC",666
-"AS4837","CHINA UNICOM China169 Backbone",656
+"AS4837","CHINA UNICOM China169 Backbone",657
 "AS9829","Bharat Sanchar Nigam Ltd",615
-"AS201814","MEVSPACE sp. z o.o.",608
+"AS201814","MEVSPACE sp. z o.o.",609
 "AS9009","M247 Europe SRL",599
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",591
@@ -68,7 +68,7 @@ ASN,Organization,IP_Count
 "AS50360","Tamatiya EOOD",551
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
-"AS212238","Datacamp Limited",482
+"AS212238","Datacamp Limited",483
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",443
 "AS21859","Zenlayer Inc",431
 "AS24186","RailTel Corporation of India Ltd.",410
@@ -80,7 +80,7 @@ ASN,Organization,IP_Count
 "AS7922","Comcast Cable Communications, LLC",357
 "AS8151","Uninet S.A. de C.V.",341
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
-"AS208843","Alpha Strike Labs GmbH",334
+"AS208843","Alpha Strike Labs GmbH",335
 "AS45899","VNPT Corp",319
 "AS213613","BOTSHIELD LTD",318
 "AS214943","Railnet LLC",318
@@ -93,7 +93,7 @@ ASN,Organization,IP_Count
 "AS48090","TECHOFF SRV LIMITED",265
 "AS29066","velia.net Internetdienste GmbH",251
 "AS60223","Netiface Limited",251
-"AS32475","SingleHop LLC",249
+"AS32475","SingleHop LLC",250
 "AS12389","PJSC Rostelecom",248
 "AS29484","Ruhr-Universitaet Bochum",246
 "AS209272","Alviva Holding Limited",230
@@ -138,15 +138,16 @@ ASN,Organization,IP_Count
 "AS16735","ALGAR TELECOM S/A",97
 "AS63018","Dedicated.com",97
 "AS205352","KABELNET LTD",93
+"AS45753","Netsec Limited",90
 "AS210125","PRIAM NET Sh.p.k.",89
+"AS200514","KnownSRV Ltd.",88
 "AS8402","PJSC ""Vimpelcom""",88
-"AS200514","KnownSRV Ltd.",87
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",85
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
 "AS200019","ALEXHOST SRL",83
+"AS55720","Gigabit Hosting Sdn Bhd",81
 "AS22773","Cox Communications Inc.",80
-"AS55720","Gigabit Hosting Sdn Bhd",80
 "AS56046","China Mobile Communications Corporation",80
 "AS3920","ESTOXY OU",78
 "AS150263","PT Alnet Telekomunikasi Indonesia",77
@@ -154,7 +155,6 @@ ASN,Organization,IP_Count
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",76
 "AS31898","Oracle Corporation",76
-"AS45753","Netsec Limited",76
 "AS2856","British Telecommunications PLC",74
 "AS40676","Psychz Networks",73
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",73
@@ -512,7 +512,9 @@ ASN,Organization,IP_Count
 "AS24955","JSC ""Ufanet""",9
 "AS267280","YELLOW CONNECT MULTIMIDIA LTDA ME",9
 "AS30722","Vodafone Italia S.p.A.",9
+"AS35916","MULTACOM CORPORATION",9
 "AS38880","Micron21 Datacentre Pty Ltd",9
+"AS395954","Leaseweb USA, Inc.",9
 "AS40244","Turnkey Internet Inc.",9
 "AS4609","Companhia de Telecomunicacoes de Macau",9
 "AS46606","Unified Layer",9
@@ -545,9 +547,7 @@ ASN,Organization,IP_Count
 "AS27967","Gobernacion de la Provincia de Buenos Aires",8
 "AS2860","NOS COMUNICACOES, S.A.",8
 "AS328723","Telasera Technologies PTY LTD",8
-"AS35916","MULTACOM CORPORATION",8
 "AS38283","CHINANET SiChuan Telecom Internet Data Center",8
-"AS395954","Leaseweb USA, Inc.",8
 "AS400529","Infraly, LLC",8
 "AS41608","NextGenWebs, S.L.",8
 "AS4761","PT. INDOSAT Tbk",8
