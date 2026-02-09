@@ -4,8 +4,8 @@ ASN,Organization,IP_Count
 "AS211298","Driftnet Ltd",22458
 "AS32934","Facebook, Inc.",16787
 "AS398324","Censys, Inc.",16639
-"AS396982","Google LLC",11133
-"AS14061","DigitalOcean, LLC",9017
+"AS396982","Google LLC",11134
+"AS14061","DigitalOcean, LLC",9018
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6234
 "AS4134","Chinanet",5290
@@ -13,13 +13,13 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4479
 "AS45102","Alibaba (US) Technology Co., Ltd.",4425
-"AS0","",4102
+"AS0","",4104
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3783
 "AS15169","Google LLC",3608
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3078
+"AS8075","Microsoft Corporation",3080
 "AS6939","Hurricane Electric LLC",3033
 "AS23470","ReliableSite.Net LLC",2821
 "AS213412","ONYPHE SAS",2795
@@ -62,7 +62,7 @@ ASN,Organization,IP_Count
 "AS9009","M247 Europe SRL",599
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",591
-"AS53667","FranTech Solutions",579
+"AS53667","FranTech Solutions",580
 "AS31148","Freenet LTD",558
 "AS401120","cheapy.host LLC",557
 "AS50360","Tamatiya EOOD",551
@@ -94,7 +94,7 @@ ASN,Organization,IP_Count
 "AS29066","velia.net Internetdienste GmbH",251
 "AS60223","Netiface Limited",251
 "AS32475","SingleHop LLC",250
-"AS12389","PJSC Rostelecom",248
+"AS12389","PJSC Rostelecom",249
 "AS29484","Ruhr-Universitaet Bochum",246
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",230
@@ -200,8 +200,8 @@ ASN,Organization,IP_Count
 "AS56067","Metrabyte Co.,Ltd",50
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",50
 "AS266181","GOLDEN LINK",48
+"AS271597","NEW LINK CONNECT",48
 "AS210509","Optimum Line for Internet Services Ltd.",47
-"AS271597","NEW LINK CONNECT",47
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",47
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",47
 "AS10796","Charter Communications Inc",46
