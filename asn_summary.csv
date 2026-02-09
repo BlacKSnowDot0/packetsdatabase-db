@@ -3,8 +3,8 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22462
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16664
-"AS396982","Google LLC",11138
+"AS398324","Censys, Inc.",16666
+"AS396982","Google LLC",11139
 "AS14061","DigitalOcean, LLC",9028
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6241
@@ -12,14 +12,14 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4559
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4479
-"AS45102","Alibaba (US) Technology Co., Ltd.",4429
+"AS45102","Alibaba (US) Technology Co., Ltd.",4431
 "AS0","",4121
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3785
 "AS15169","Google LLC",3608
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3084
+"AS8075","Microsoft Corporation",3085
 "AS6939","Hurricane Electric LLC",3036
 "AS23470","ReliableSite.Net LLC",2821
 "AS213412","ONYPHE SAS",2795
@@ -1915,6 +1915,7 @@ ASN,Organization,IP_Count
 "AS16342","Toya sp.z.o.o",1
 "AS16345","PJSC ""Vimpelcom""",1
 "AS16863","Home Telephone Company, Inc.",1
+"AS16904","Arvig Enterprises Inc.",1
 "AS17014","North Atlantic Networks, LLC",1
 "AS17035","NBCUniversal",1
 "AS17211","Grafton Technologies, Inc.",1
