@@ -5,15 +5,15 @@ ASN,Organization,IP_Count
 "AS32934","Facebook, Inc.",16787
 "AS398324","Censys, Inc.",16645
 "AS396982","Google LLC",11137
-"AS14061","DigitalOcean, LLC",9019
+"AS14061","DigitalOcean, LLC",9020
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6235
+"AS16276","OVH SAS",6236
 "AS4134","Chinanet",5290
 "AS16509","Amazon.com, Inc.",4558
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4479
 "AS45102","Alibaba (US) Technology Co., Ltd.",4425
-"AS0","",4110
+"AS0","",4111
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3783
 "AS15169","Google LLC",3608
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2821
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
-"AS202425","IP Volume inc",2191
+"AS202425","IP Volume inc",2192
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
 "AS13335","Cloudflare, Inc.",1754
@@ -50,7 +50,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",873
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
-"AS10439","CariNet, Inc.",813
+"AS10439","CariNet, Inc.",814
 "AS14618","Amazon.com, Inc.",809
 "AS8452","TE-AS",806
 "AS211680","NSEC - Sistemas Informaticos, S.A.",798
@@ -104,7 +104,7 @@ ASN,Organization,IP_Count
 "AS14987","Rethem Hosting LLC",215
 "AS50219","LNK SYSTEMS MUNTENIA SRL",213
 "AS63199","CDS Global Cloud Co., Ltd",213
-"AS19905","Neustar Security Services",201
+"AS19905","Neustar Security Services",202
 "AS34984","Superonline Iletisim Hizmetleri A.S.",190
 "AS42237","w1n ltd",185
 "AS7552","Viettel Group",182
@@ -239,10 +239,10 @@ ASN,Organization,IP_Count
 "AS197540","netcup GmbH",38
 "AS269193","Iktelecom Ltda",38
 "AS42624","Global-Data System IT Corporation",37
+"AS55933","Cloudie Limited",37
 "AS8167","V tal",37
 "AS8796","FD-298-8796",37
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",36
-"AS55933","Cloudie Limited",36
 "AS136142","Enigma Fiber Pvt Ltd",35
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",35
 "AS213790","Limited Network LTD",35
