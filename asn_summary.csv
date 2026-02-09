@@ -1,10 +1,10 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88098
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88099
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22458
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16639
-"AS396982","Google LLC",11134
+"AS398324","Censys, Inc.",16640
+"AS396982","Google LLC",11135
 "AS14061","DigitalOcean, LLC",9018
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6234
@@ -13,14 +13,14 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4479
 "AS45102","Alibaba (US) Technology Co., Ltd.",4425
-"AS0","",4104
+"AS0","",4105
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3783
 "AS15169","Google LLC",3608
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3080
-"AS6939","Hurricane Electric LLC",3033
+"AS8075","Microsoft Corporation",3081
+"AS6939","Hurricane Electric LLC",3034
 "AS23470","ReliableSite.Net LLC",2821
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
@@ -58,7 +58,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",666
 "AS4837","CHINA UNICOM China169 Backbone",657
 "AS9829","Bharat Sanchar Nigam Ltd",615
-"AS201814","MEVSPACE sp. z o.o.",609
+"AS201814","MEVSPACE sp. z o.o.",610
 "AS9009","M247 Europe SRL",599
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",591
@@ -185,6 +185,7 @@ ASN,Organization,IP_Count
 "AS30058","FDCservers.net",58
 "AS20278","Nexeon Technologies, Inc.",57
 "AS30633","Leaseweb USA, Inc.",57
+"AS55803","Hostopia Australia Web Pty Ltd",57
 "AS28546","Servnet Mexico, S.A. de C.V.",56
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
@@ -194,7 +195,6 @@ ASN,Organization,IP_Count
 "AS213877","u1host ltd",54
 "AS215762","Bullet Group LTD",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
-"AS55803","Hostopia Australia Web Pty Ltd",53
 "AS12912","T-Mobile Polska S.A.",52
 "AS210558","1337 Services GmbH",51
 "AS56067","Metrabyte Co.,Ltd",50
