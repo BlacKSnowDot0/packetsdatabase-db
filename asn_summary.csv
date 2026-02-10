@@ -1,25 +1,25 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88100
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22465
+"AS211298","Driftnet Ltd",22466
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16685
+"AS398324","Censys, Inc.",16688
 "AS396982","Google LLC",11144
-"AS14061","DigitalOcean, LLC",9034
+"AS14061","DigitalOcean, LLC",9035
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6243
 "AS4134","Chinanet",5291
 "AS16509","Amazon.com, Inc.",4560
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4479
-"AS45102","Alibaba (US) Technology Co., Ltd.",4435
+"AS45102","Alibaba (US) Technology Co., Ltd.",4440
 "AS0","",4131
 "AS396998","Path Network, Inc.",3992
-"AS63949","Akamai Technologies, Inc.",3785
+"AS63949","Akamai Technologies, Inc.",3786
 "AS15169","Google LLC",3608
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3087
+"AS8075","Microsoft Corporation",3088
 "AS6939","Hurricane Electric LLC",3045
 "AS23470","ReliableSite.Net LLC",2822
 "AS213412","ONYPHE SAS",2795
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1591
 "AS36352","HostPapa",1576
-"AS398722","Censys, Inc.",1489
+"AS398722","Censys, Inc.",1490
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
 "AS174","Cogent Communications",1321
@@ -55,7 +55,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",806
 "AS211680","NSEC - Sistemas Informaticos, S.A.",805
 "AS12876","ONLINE S.A.S.",670
-"AS51115","HLL LLC",666
+"AS51115","HLL LLC",667
 "AS4837","CHINA UNICOM China169 Backbone",659
 "AS9829","Bharat Sanchar Nigam Ltd",617
 "AS201814","MEVSPACE sp. z o.o.",613
@@ -104,8 +104,8 @@ ASN,Organization,IP_Count
 "AS14987","Rethem Hosting LLC",215
 "AS50219","LNK SYSTEMS MUNTENIA SRL",213
 "AS63199","CDS Global Cloud Co., Ltd",213
-"AS19905","Neustar Security Services",206
-"AS34984","Superonline Iletisim Hizmetleri A.S.",191
+"AS19905","Neustar Security Services",207
+"AS34984","Superonline Iletisim Hizmetleri A.S.",192
 "AS42237","w1n ltd",186
 "AS7552","Viettel Group",182
 "AS30083","velia.net",178
@@ -160,8 +160,8 @@ ASN,Organization,IP_Count
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",73
 "AS149746","PT Blip Integrator Provider",70
 "AS52053","REDHEBERG Association declaree",69
+"AS57588","Hayat for Internet & communication LLC",69
 "AS834","IPXO LLC",69
-"AS57588","Hayat for Internet & communication LLC",68
 "AS215590","DpkgSoft International Limited",67
 "AS328867","Corebach Backbone SARL",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
@@ -410,6 +410,7 @@ ASN,Organization,IP_Count
 "AS11232","Midcontinent Communications",14
 "AS1221","Telstra Limited",14
 "AS12400","Partner Communications Ltd.",14
+"AS150179","KAAL TECH CO., LIMITED",14
 "AS17639","ComClark Network & Technology Corp",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS213438","ColocaTel Inc.",14
@@ -426,7 +427,6 @@ ASN,Organization,IP_Count
 "AS11351","Charter Communications Inc",13
 "AS134420","Chongqing Telecom",13
 "AS135905","VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",13
-"AS150179","KAAL TECH CO., LIMITED",13
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",13
 "AS15895","""Kyivstar"" PJSC",13
 "AS205798","Ryszard Zawilski trading as ITTAM",13
