@@ -1,38 +1,38 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88099
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22462
+"AS211298","Driftnet Ltd",22463
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16666
-"AS396982","Google LLC",11139
-"AS14061","DigitalOcean, LLC",9028
+"AS398324","Censys, Inc.",16668
+"AS396982","Google LLC",11142
+"AS14061","DigitalOcean, LLC",9030
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6241
-"AS4134","Chinanet",5290
+"AS16276","OVH SAS",6242
+"AS4134","Chinanet",5291
 "AS16509","Amazon.com, Inc.",4559
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4479
 "AS45102","Alibaba (US) Technology Co., Ltd.",4431
-"AS0","",4121
+"AS0","",4123
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3785
 "AS15169","Google LLC",3608
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3085
-"AS6939","Hurricane Electric LLC",3036
+"AS6939","Hurricane Electric LLC",3038
 "AS23470","ReliableSite.Net LLC",2821
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
-"AS202425","IP Volume inc",2195
+"AS202425","IP Volume inc",2196
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
 "AS13335","Cloudflare, Inc.",1754
 "AS49870","Alsycon B.V.",1679
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1591
-"AS36352","HostPapa",1575
-"AS398722","Censys, Inc.",1487
+"AS36352","HostPapa",1576
+"AS398722","Censys, Inc.",1488
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
 "AS174","Cogent Communications",1320
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1064
-"AS51167","Contabo GmbH",1027
+"AS51167","Contabo GmbH",1028
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",884
@@ -91,7 +91,7 @@ ASN,Organization,IP_Count
 "AS210848","Telkom Internet LTD",296
 "AS18403","FPT Telecom Company",277
 "AS48090","TECHOFF SRV LIMITED",265
-"AS32475","SingleHop LLC",258
+"AS32475","SingleHop LLC",261
 "AS29066","velia.net Internetdienste GmbH",251
 "AS60223","Netiface Limited",251
 "AS12389","PJSC Rostelecom",249
@@ -135,14 +135,14 @@ ASN,Organization,IP_Count
 "AS23724","IDC, China Telecommunications Corporation",103
 "AS136435","ELITE COMMUNICATION",102
 "AS28209","Under Servicos de Internet Ltda",101
-"AS16735","ALGAR TELECOM S/A",97
+"AS16735","ALGAR TELECOM S/A",98
 "AS63018","Dedicated.com",97
 "AS45753","Netsec Limited",94
 "AS205352","KABELNET LTD",93
 "AS200514","KnownSRV Ltd.",89
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS8402","PJSC ""Vimpelcom""",88
-"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",86
+"AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",87
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
 "AS200019","ALEXHOST SRL",83
@@ -426,6 +426,7 @@ ASN,Organization,IP_Count
 "AS11351","Charter Communications Inc",13
 "AS134420","Chongqing Telecom",13
 "AS135905","VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",13
+"AS150179","KAAL TECH CO., LIMITED",13
 "AS150750","IN CABLE INTERNET (PRIVATE) LIMITED",13
 "AS15895","""Kyivstar"" PJSC",13
 "AS205798","Ryszard Zawilski trading as ITTAM",13
@@ -443,7 +444,6 @@ ASN,Organization,IP_Count
 "AS62442","Dade Samane Fanava Company (PJS)",13
 "AS9770","LG HelloVision Corp.",13
 "AS11172","Alestra, S. de R.L. de C.V.",12
-"AS150179","KAAL TECH CO., LIMITED",12
 "AS200651","FlokiNET ehf",12
 "AS2637","Georgia Institute of Technology",12
 "AS35042","Layer7 Networks GmbH",12
@@ -846,6 +846,7 @@ ASN,Organization,IP_Count
 "AS329263","Libyan Spider for IT LTD.",4
 "AS3301","Telia Company AB",4
 "AS3356","Level 3 Communications, Inc.",4
+"AS34224","Neterra Ltd.",4
 "AS35104","Jusan Mobile JSC",4
 "AS36994","Vodacom",4
 "AS37517","CABO VERDE TELECOM, S.A",4
@@ -1034,7 +1035,6 @@ ASN,Organization,IP_Count
 "AS33070","Rackspace Hosting",3
 "AS33567","Econet Telecom Lesotho (PTY) LTD",3
 "AS33616","Co-Mo Comm Inc",3
-"AS34224","Neterra Ltd.",3
 "AS35320","Eurotranstelecom Ltd",3
 "AS36884","Wana Corporate",3
 "AS36925","MEDITELECOM",3
@@ -2841,6 +2841,7 @@ ASN,Organization,IP_Count
 "AS43050","Ivankov Daniil Eliseevich",1
 "AS43197","Closed Joint Stock Company TT mobile",1
 "AS43201","Telematika LLC",1
+"AS43317","SIA VEESP",1
 "AS43320","Pushkar Inna Mykolaivna",1
 "AS43357","Owl Limited",1
 "AS43361","LUMINA LLC",1
