@@ -3,9 +3,9 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22463
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16672
+"AS398324","Censys, Inc.",16673
 "AS396982","Google LLC",11142
-"AS14061","DigitalOcean, LLC",9031
+"AS14061","DigitalOcean, LLC",9032
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6242
 "AS4134","Chinanet",5291
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3608
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3086
+"AS8075","Microsoft Corporation",3087
 "AS6939","Hurricane Electric LLC",3042
 "AS23470","ReliableSite.Net LLC",2822
 "AS213412","ONYPHE SAS",2795
@@ -54,9 +54,9 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",811
 "AS8452","TE-AS",806
 "AS211680","NSEC - Sistemas Informaticos, S.A.",800
-"AS12876","ONLINE S.A.S.",669
+"AS12876","ONLINE S.A.S.",670
 "AS51115","HLL LLC",666
-"AS4837","CHINA UNICOM China169 Backbone",658
+"AS4837","CHINA UNICOM China169 Backbone",659
 "AS9829","Bharat Sanchar Nigam Ltd",616
 "AS201814","MEVSPACE sp. z o.o.",613
 "AS9009","M247 Europe SRL",599
@@ -90,8 +90,8 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS18403","FPT Telecom Company",277
+"AS32475","SingleHop LLC",265
 "AS48090","TECHOFF SRV LIMITED",265
-"AS32475","SingleHop LLC",263
 "AS29066","velia.net Internetdienste GmbH",251
 "AS60223","Netiface Limited",251
 "AS12389","PJSC Rostelecom",249
@@ -104,7 +104,7 @@ ASN,Organization,IP_Count
 "AS14987","Rethem Hosting LLC",215
 "AS50219","LNK SYSTEMS MUNTENIA SRL",213
 "AS63199","CDS Global Cloud Co., Ltd",213
-"AS19905","Neustar Security Services",203
+"AS19905","Neustar Security Services",204
 "AS34984","Superonline Iletisim Hizmetleri A.S.",191
 "AS42237","w1n ltd",186
 "AS7552","Viettel Group",182
@@ -184,9 +184,9 @@ ASN,Organization,IP_Count
 "AS49544","i3D.net B.V",59
 "AS12816","Leibniz-Rechenzentrum",58
 "AS20278","Nexeon Technologies, Inc.",57
+"AS28546","Servnet Mexico, S.A. de C.V.",57
 "AS30633","Leaseweb USA, Inc.",57
 "AS55803","Hostopia Australia Web Pty Ltd",57
-"AS28546","Servnet Mexico, S.A. de C.V.",56
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
 "AS200590","NLS Kazakhstan LLC",55
