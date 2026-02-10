@@ -3,7 +3,7 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22463
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16670
+"AS398324","Censys, Inc.",16672
 "AS396982","Google LLC",11142
 "AS14061","DigitalOcean, LLC",9031
 "AS26210","AXS Bolivia S. A.",7972
@@ -13,14 +13,14 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4479
 "AS45102","Alibaba (US) Technology Co., Ltd.",4433
-"AS0","",4126
+"AS0","",4128
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3785
 "AS15169","Google LLC",3608
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3085
-"AS6939","Hurricane Electric LLC",3041
+"AS8075","Microsoft Corporation",3086
+"AS6939","Hurricane Electric LLC",3042
 "AS23470","ReliableSite.Net LLC",2822
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
 "AS13335","Cloudflare, Inc.",1754
-"AS49870","Alsycon B.V.",1679
+"AS49870","Alsycon B.V.",1680
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1591
 "AS36352","HostPapa",1576
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1064
-"AS51167","Contabo GmbH",1028
+"AS51167","Contabo GmbH",1029
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",884
@@ -54,7 +54,7 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",811
 "AS8452","TE-AS",806
 "AS211680","NSEC - Sistemas Informaticos, S.A.",800
-"AS12876","ONLINE S.A.S.",668
+"AS12876","ONLINE S.A.S.",669
 "AS51115","HLL LLC",666
 "AS4837","CHINA UNICOM China169 Backbone",658
 "AS9829","Bharat Sanchar Nigam Ltd",616
@@ -69,7 +69,7 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",483
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",445
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",446
 "AS21859","Zenlayer Inc",431
 "AS24186","RailTel Corporation of India Ltd.",410
 "AS21299","Kar-Tel LLC",406
@@ -91,7 +91,7 @@ ASN,Organization,IP_Count
 "AS210848","Telkom Internet LTD",296
 "AS18403","FPT Telecom Company",277
 "AS48090","TECHOFF SRV LIMITED",265
-"AS32475","SingleHop LLC",262
+"AS32475","SingleHop LLC",263
 "AS29066","velia.net Internetdienste GmbH",251
 "AS60223","Netiface Limited",251
 "AS12389","PJSC Rostelecom",249
