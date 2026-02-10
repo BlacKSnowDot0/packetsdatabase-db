@@ -3,8 +3,8 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22466
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16688
-"AS396982","Google LLC",11144
+"AS398324","Censys, Inc.",16689
+"AS396982","Google LLC",11145
 "AS14061","DigitalOcean, LLC",9035
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6243
@@ -12,8 +12,8 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4560
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4479
-"AS45102","Alibaba (US) Technology Co., Ltd.",4440
-"AS0","",4131
+"AS45102","Alibaba (US) Technology Co., Ltd.",4441
+"AS0","",4132
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3786
 "AS15169","Google LLC",3608
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1490
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
-"AS174","Cogent Communications",1321
+"AS174","Cogent Communications",1322
 "AS215269","LAZYCLOUD LTD",1312
 "AS22552","eSited Solutions",1209
 "AS204428","SS-Net",1182
@@ -90,7 +90,7 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS18403","FPT Telecom Company",277
-"AS32475","SingleHop LLC",265
+"AS32475","SingleHop LLC",268
 "AS48090","TECHOFF SRV LIMITED",265
 "AS29066","velia.net Internetdienste GmbH",251
 "AS60223","Netiface Limited",251
@@ -106,7 +106,7 @@ ASN,Organization,IP_Count
 "AS63199","CDS Global Cloud Co., Ltd",213
 "AS19905","Neustar Security Services",207
 "AS34984","Superonline Iletisim Hizmetleri A.S.",192
-"AS42237","w1n ltd",186
+"AS42237","w1n ltd",187
 "AS7552","Viettel Group",182
 "AS30083","velia.net",178
 "AS215240","Silent Connection Ltd.",175
@@ -116,7 +116,7 @@ ASN,Organization,IP_Count
 "AS4766","Korea Telecom",156
 "AS206264","Amarutu Technology Ltd",153
 "AS6739","VODAFONE ONO, S.A.",145
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",142
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",143
 "AS47105","Vault Dweller OU",141
 "AS13238","YANDEX LLC",138
 "AS151185","China Telecom",132
@@ -3010,6 +3010,7 @@ ASN,Organization,IP_Count
 "AS53259","Jo-Carroll Energy, Inc. (NFP)",1
 "AS53407","UTOPIA",1
 "AS53488","Optimum Online",1
+"AS54182","Axia FibreNet Ltd.",1
 "AS54225","ORANGE COUNTY FIBER LLC",1
 "AS54240","Syndeo Networks, Inc",1
 "AS54523","WSTC",1
