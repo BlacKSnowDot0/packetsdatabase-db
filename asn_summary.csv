@@ -3,7 +3,7 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22467
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16690
+"AS398324","Censys, Inc.",16691
 "AS396982","Google LLC",11146
 "AS14061","DigitalOcean, LLC",9035
 "AS26210","AXS Bolivia S. A.",7972
@@ -13,18 +13,18 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4479
 "AS45102","Alibaba (US) Technology Co., Ltd.",4441
-"AS0","",4140
+"AS0","",4141
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3786
 "AS15169","Google LLC",3608
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3088
+"AS8075","Microsoft Corporation",3089
 "AS6939","Hurricane Electric LLC",3045
 "AS23470","ReliableSite.Net LLC",2822
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
-"AS202425","IP Volume inc",2200
+"AS202425","IP Volume inc",2201
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
 "AS13335","Cloudflare, Inc.",1754
@@ -43,8 +43,8 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1066
-"AS51167","Contabo GmbH",1032
-"AS20052","Arbor Networks, Inc.",920
+"AS51167","Contabo GmbH",1033
+"AS20052","Arbor Networks, Inc.",921
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",884
 "AS215925","VPSVAULT.HOST LTD",873
@@ -90,7 +90,7 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS18403","FPT Telecom Company",279
-"AS32475","SingleHop LLC",269
+"AS32475","SingleHop LLC",270
 "AS48090","TECHOFF SRV LIMITED",265
 "AS12389","PJSC Rostelecom",256
 "AS29066","velia.net Internetdienste GmbH",251
@@ -112,11 +112,11 @@ ASN,Organization,IP_Count
 "AS215240","Silent Connection Ltd.",175
 "AS401116","Nybula LLC",170
 "AS14956","RouterHosting LLC",167
-"AS262551","Farol Telecom",162
-"AS4766","Korea Telecom",158
+"AS262551","Farol Telecom",163
+"AS4766","Korea Telecom",159
 "AS206264","Amarutu Technology Ltd",153
 "AS6739","VODAFONE ONO, S.A.",145
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",143
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",144
 "AS47105","Vault Dweller OU",141
 "AS13238","YANDEX LLC",138
 "AS151185","China Telecom",132
@@ -195,7 +195,7 @@ ASN,Organization,IP_Count
 "AS213877","u1host ltd",54
 "AS215762","Bullet Group LTD",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
-"AS56067","Metrabyte Co.,Ltd",53
+"AS56067","Metrabyte Co.,Ltd",54
 "AS12912","T-Mobile Polska S.A.",52
 "AS210558","1337 Services GmbH",51
 "AS10796","Charter Communications Inc",50
@@ -755,6 +755,7 @@ ASN,Organization,IP_Count
 "AS329244","Connect, Surf and Smile Limited",5
 "AS3326","PRIVATE JOINT STOCK COMPANY ""DATAGROUP""",5
 "AS33647","Yadkin Valley Telephone",5
+"AS34224","Neterra Ltd.",5
 "AS34343","Eweka Internet Services B.V.",5
 "AS35682","BEST INTERNET SOLUTION XK",5
 "AS36884","Wana Corporate",5
@@ -878,7 +879,6 @@ ASN,Organization,IP_Count
 "AS329263","Libyan Spider for IT LTD.",4
 "AS3301","Telia Company AB",4
 "AS3356","Level 3 Communications, Inc.",4
-"AS34224","Neterra Ltd.",4
 "AS35104","Jusan Mobile JSC",4
 "AS36994","Vodacom",4
 "AS37049","South African Digital Villages (Pty) Ltd",4
