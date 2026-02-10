@@ -3,8 +3,8 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22465
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16677
-"AS396982","Google LLC",11143
+"AS398324","Censys, Inc.",16680
+"AS396982","Google LLC",11144
 "AS14061","DigitalOcean, LLC",9032
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6242
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4479
 "AS45102","Alibaba (US) Technology Co., Ltd.",4435
-"AS0","",4129
+"AS0","",4130
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3785
 "AS15169","Google LLC",3608
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2822
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
-"AS202425","IP Volume inc",2198
+"AS202425","IP Volume inc",2200
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
 "AS13335","Cloudflare, Inc.",1754
@@ -32,10 +32,10 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1591
 "AS36352","HostPapa",1576
-"AS398722","Censys, Inc.",1488
+"AS398722","Censys, Inc.",1489
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
-"AS174","Cogent Communications",1320
+"AS174","Cogent Communications",1321
 "AS215269","LAZYCLOUD LTD",1312
 "AS22552","eSited Solutions",1209
 "AS204428","SS-Net",1182
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1066
-"AS51167","Contabo GmbH",1031
+"AS51167","Contabo GmbH",1032
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",884
@@ -95,7 +95,7 @@ ASN,Organization,IP_Count
 "AS29066","velia.net Internetdienste GmbH",251
 "AS60223","Netiface Limited",251
 "AS12389","PJSC Rostelecom",249
-"AS29484","Ruhr-Universitaet Bochum",248
+"AS29484","Ruhr-Universitaet Bochum",249
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",230
 "AS8560","IONOS SE",227
