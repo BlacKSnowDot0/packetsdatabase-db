@@ -1,10 +1,10 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88099
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22463
+"AS211298","Driftnet Ltd",22465
 "AS32934","Facebook, Inc.",16787
 "AS398324","Censys, Inc.",16673
-"AS396982","Google LLC",11142
+"AS396982","Google LLC",11143
 "AS14061","DigitalOcean, LLC",9032
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6242
@@ -13,14 +13,14 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4479
 "AS45102","Alibaba (US) Technology Co., Ltd.",4433
-"AS0","",4128
+"AS0","",4129
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3785
 "AS15169","Google LLC",3608
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3087
-"AS6939","Hurricane Electric LLC",3042
+"AS6939","Hurricane Electric LLC",3043
 "AS23470","ReliableSite.Net LLC",2822
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
@@ -43,15 +43,15 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1064
-"AS51167","Contabo GmbH",1029
+"AS51167","Contabo GmbH",1031
 "AS20052","Arbor Networks, Inc.",920
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",884
 "AS215925","VPSVAULT.HOST LTD",873
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
-"AS10439","CariNet, Inc.",815
-"AS14618","Amazon.com, Inc.",811
+"AS10439","CariNet, Inc.",816
+"AS14618","Amazon.com, Inc.",812
 "AS8452","TE-AS",806
 "AS211680","NSEC - Sistemas Informaticos, S.A.",800
 "AS12876","ONLINE S.A.S.",670
@@ -69,9 +69,9 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",483
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",446
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",447
 "AS21859","Zenlayer Inc",431
-"AS24186","RailTel Corporation of India Ltd.",410
+"AS24186","RailTel Corporation of India Ltd.",411
 "AS21299","Kar-Tel LLC",406
 "AS7018","AT&T Enterprises, LLC",406
 "AS47890","UNMANAGED LTD",399
@@ -95,7 +95,7 @@ ASN,Organization,IP_Count
 "AS29066","velia.net Internetdienste GmbH",251
 "AS60223","Netiface Limited",251
 "AS12389","PJSC Rostelecom",249
-"AS29484","Ruhr-Universitaet Bochum",247
+"AS29484","Ruhr-Universitaet Bochum",248
 "AS209272","Alviva Holding Limited",230
 "AS701","Verizon Business",230
 "AS8560","IONOS SE",226
@@ -123,7 +123,7 @@ ASN,Organization,IP_Count
 "AS137409","GSL Networks Pty LTD",128
 "AS36007","Kamatera, Inc.",122
 "AS396356","Latitude.sh",118
-"AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",116
+"AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",117
 "AS40021","Nubes, LLC",115
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS47331","TTNet A.S.",111
@@ -199,8 +199,8 @@ ASN,Organization,IP_Count
 "AS12912","T-Mobile Polska S.A.",52
 "AS210558","1337 Services GmbH",51
 "AS6799","Ote SA (Hellenic Telecommunications Organisation)",50
+"AS271597","NEW LINK CONNECT",49
 "AS266181","GOLDEN LINK",48
-"AS271597","NEW LINK CONNECT",48
 "AS210509","Optimum Line for Internet Services Ltd.",47
 "AS52937","FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",47
 "AS6810","""Bezeq""- THE ISRAEL TELECOMMUNICATION CORP. LTD.",47
