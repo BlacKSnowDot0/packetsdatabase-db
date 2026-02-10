@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88100
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22467
+"AS211298","Driftnet Ltd",22468
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16697
+"AS398324","Censys, Inc.",16699
 "AS396982","Google LLC",11147
-"AS14061","DigitalOcean, LLC",9037
+"AS14061","DigitalOcean, LLC",9038
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6244
 "AS4134","Chinanet",5291
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
 "AS13335","Cloudflare, Inc.",1754
-"AS49870","Alsycon B.V.",1681
+"AS49870","Alsycon B.V.",1683
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1591
 "AS36352","HostPapa",1576
@@ -98,8 +98,8 @@ ASN,Organization,IP_Count
 "AS29484","Ruhr-Universitaet Bochum",249
 "AS701","Verizon Business",237
 "AS209272","Alviva Holding Limited",230
-"AS8560","IONOS SE",229
-"AS12555","Data-center IMAQLIQ Ltd.",222
+"AS8560","IONOS SE",230
+"AS12555","Data-center IMAQLIQ Ltd.",223
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
 "AS50219","LNK SYSTEMS MUNTENIA SRL",213
@@ -131,7 +131,7 @@ ASN,Organization,IP_Count
 "AS208287","DC Host INC",110
 "AS5617","Orange Polska Spolka Akcyjna",109
 "AS199785","Cloud Hosting Solutions, Limited.",107
-"AS11320","LightEdge Solutions",105
+"AS11320","LightEdge Solutions",106
 "AS23724","IDC, China Telecommunications Corporation",103
 "AS136435","ELITE COMMUNICATION",102
 "AS28209","Under Servicos de Internet Ltda",101
