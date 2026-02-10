@@ -3,9 +3,9 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22465
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16682
+"AS398324","Censys, Inc.",16685
 "AS396982","Google LLC",11144
-"AS14061","DigitalOcean, LLC",9033
+"AS14061","DigitalOcean, LLC",9034
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6243
 "AS4134","Chinanet",5291
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4479
 "AS45102","Alibaba (US) Technology Co., Ltd.",4435
-"AS0","",4130
+"AS0","",4131
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3785
 "AS15169","Google LLC",3608
@@ -112,7 +112,7 @@ ASN,Organization,IP_Count
 "AS215240","Silent Connection Ltd.",175
 "AS401116","Nybula LLC",170
 "AS14956","RouterHosting LLC",167
-"AS262551","Farol Telecom",161
+"AS262551","Farol Telecom",162
 "AS4766","Korea Telecom",156
 "AS206264","Amarutu Technology Ltd",153
 "AS6739","VODAFONE ONO, S.A.",145
@@ -135,7 +135,7 @@ ASN,Organization,IP_Count
 "AS23724","IDC, China Telecommunications Corporation",103
 "AS136435","ELITE COMMUNICATION",102
 "AS28209","Under Servicos de Internet Ltda",101
-"AS16735","ALGAR TELECOM S/A",98
+"AS16735","ALGAR TELECOM S/A",99
 "AS63018","Dedicated.com",97
 "AS45753","Netsec Limited",94
 "AS205352","KABELNET LTD",93
@@ -151,11 +151,11 @@ ASN,Organization,IP_Count
 "AS56046","China Mobile Communications Corporation",80
 "AS3920","ESTOXY OU",78
 "AS150263","PT Alnet Telekomunikasi Indonesia",77
+"AS40676","Psychz Networks",77
 "AS210644","AEZA INTERNATIONAL LTD",76
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",76
 "AS31898","Oracle Corporation",76
-"AS40676","Psychz Networks",76
 "AS2856","British Telecommunications PLC",74
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",73
 "AS149746","PT Blip Integrator Provider",70
@@ -519,6 +519,7 @@ ASN,Organization,IP_Count
 "AS40244","Turnkey Internet Inc.",9
 "AS4609","Companhia de Telecomunicacoes de Macau",9
 "AS46606","Unified Layer",9
+"AS5056","Aureon Network Services",9
 "AS5410","Bouygues Telecom SA",9
 "AS5432","Proximus NV",9
 "AS56005","Zhengzhou Fastidc Technology Co.,Ltd.",9
@@ -554,7 +555,6 @@ ASN,Organization,IP_Count
 "AS41608","NextGenWebs, S.L.",8
 "AS4761","PT. INDOSAT Tbk",8
 "AS48678","PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi",8
-"AS5056","Aureon Network Services",8
 "AS5483","Magyar Telekom plc.",8
 "AS56041","China Mobile Communications Corporation",8
 "AS64289","Macarne LLC",8
