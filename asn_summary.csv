@@ -3,8 +3,8 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22472
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16712
-"AS396982","Google LLC",11152
+"AS398324","Censys, Inc.",16715
+"AS396982","Google LLC",11153
 "AS14061","DigitalOcean, LLC",9053
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6247
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4480
 "AS45102","Alibaba (US) Technology Co., Ltd.",4442
-"AS0","",4152
+"AS0","",4153
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3787
 "AS15169","Google LLC",3608
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1067
-"AS51167","Contabo GmbH",1036
+"AS51167","Contabo GmbH",1038
 "AS20052","Arbor Networks, Inc.",921
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",884
@@ -57,7 +57,7 @@ ASN,Organization,IP_Count
 "AS12876","ONLINE S.A.S.",672
 "AS51115","HLL LLC",671
 "AS4837","CHINA UNICOM China169 Backbone",659
-"AS9829","Bharat Sanchar Nigam Ltd",619
+"AS9829","Bharat Sanchar Nigam Ltd",621
 "AS201814","MEVSPACE sp. z o.o.",613
 "AS9009","M247 Europe SRL",599
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -68,7 +68,7 @@ ASN,Organization,IP_Count
 "AS50360","Tamatiya EOOD",551
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
-"AS212238","Datacamp Limited",484
+"AS212238","Datacamp Limited",485
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",447
 "AS21859","Zenlayer Inc",431
 "AS24186","RailTel Corporation of India Ltd.",414
@@ -97,8 +97,8 @@ ASN,Organization,IP_Count
 "AS60223","Netiface Limited",251
 "AS29484","Ruhr-Universitaet Bochum",249
 "AS701","Verizon Business",237
+"AS8560","IONOS SE",233
 "AS209272","Alviva Holding Limited",230
-"AS8560","IONOS SE",230
 "AS12555","Data-center IMAQLIQ Ltd.",223
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",215
@@ -123,7 +123,7 @@ ASN,Organization,IP_Count
 "AS137409","GSL Networks Pty LTD",128
 "AS28573","Claro NXT Telecomunicacoes Ltda",125
 "AS36007","Kamatera, Inc.",122
-"AS396356","Latitude.sh",120
+"AS396356","Latitude.sh",121
 "AS47331","TTNet A.S.",119
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",117
 "AS40021","Nubes, LLC",116
@@ -133,8 +133,8 @@ ASN,Organization,IP_Count
 "AS199785","Cloud Hosting Solutions, Limited.",107
 "AS11320","LightEdge Solutions",106
 "AS23724","IDC, China Telecommunications Corporation",103
+"AS28209","Under Servicos de Internet Ltda",103
 "AS136435","ELITE COMMUNICATION",102
-"AS28209","Under Servicos de Internet Ltda",102
 "AS16735","ALGAR TELECOM S/A",100
 "AS63018","Dedicated.com",97
 "AS45753","Netsec Limited",94
@@ -240,10 +240,10 @@ ASN,Organization,IP_Count
 "AS1680","Cellcom Fixed Line Communication L.P",38
 "AS197540","netcup GmbH",38
 "AS269193","Iktelecom Ltda",38
+"AS8796","FD-298-8796",38
 "AS136142","Enigma Fiber Pvt Ltd",37
 "AS42624","Global-Data System IT Corporation",37
 "AS55933","Cloudie Limited",37
-"AS8796","FD-298-8796",37
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",36
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",35
 "AS213790","Limited Network LTD",35
@@ -451,6 +451,7 @@ ASN,Organization,IP_Count
 "AS62442","Dade Samane Fanava Company (PJS)",13
 "AS9770","LG HelloVision Corp.",13
 "AS11172","Alestra, S. de R.L. de C.V.",12
+"AS12271","Charter Communications Inc",12
 "AS2637","Georgia Institute of Technology",12
 "AS35042","Layer7 Networks GmbH",12
 "AS35297","Dataline LLC",12
@@ -467,7 +468,6 @@ ASN,Organization,IP_Count
 "AS8708","RCS & RDS SA",12
 "AS9541","Cyber Internet Services (Private) Limited",12
 "AS984","OCTOPUS WEB SOLUTION INC",12
-"AS12271","Charter Communications Inc",11
 "AS13287","FALBOX S.L.",11
 "AS135059","Lao Asia Pacific Satellite Co., Ltd.",11
 "AS13999","Mega Cable, S.A. de C.V.",11
