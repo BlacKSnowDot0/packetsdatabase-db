@@ -3,11 +3,11 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22474
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16736
+"AS398324","Censys, Inc.",16738
 "AS396982","Google LLC",11153
-"AS14061","DigitalOcean, LLC",9056
+"AS14061","DigitalOcean, LLC",9057
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6249
+"AS16276","OVH SAS",6250
 "AS4134","Chinanet",5292
 "AS16509","Amazon.com, Inc.",4561
 "AS6568","Entel S.A. - EntelNet",4537
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3608
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3094
+"AS8075","Microsoft Corporation",3095
 "AS6939","Hurricane Electric LLC",3052
 "AS23470","ReliableSite.Net LLC",2824
 "AS213412","ONYPHE SAS",2795
@@ -89,7 +89,7 @@ ASN,Organization,IP_Count
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",308
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
-"AS32475","SingleHop LLC",287
+"AS32475","SingleHop LLC",288
 "AS18403","FPT Telecom Company",279
 "AS48090","TECHOFF SRV LIMITED",265
 "AS12389","PJSC Rostelecom",256
@@ -2465,6 +2465,7 @@ ASN,Organization,IP_Count
 "AS266071","R3 INTERNET",1
 "AS266095","SIM TELECOM EIRELI",1
 "AS266109","JereNET Provedor de Internet & Cons em TI LTDA ME.",1
+"AS266113","FELTEN & QUADROS TELEFONIA E INTERNET LTDA",1
 "AS266135","SPACE TELECOM LTDA",1
 "AS266140","CMC TELECOM EIRELI - ME",1
 "AS266149","BDC TELECOM",1
