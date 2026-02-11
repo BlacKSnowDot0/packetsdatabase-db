@@ -3,7 +3,7 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22472
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16715
+"AS398324","Censys, Inc.",16718
 "AS396982","Google LLC",11153
 "AS14061","DigitalOcean, LLC",9053
 "AS26210","AXS Bolivia S. A.",7972
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2823
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
-"AS202425","IP Volume inc",2203
+"AS202425","IP Volume inc",2204
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
 "AS13335","Cloudflare, Inc.",1754
@@ -59,7 +59,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",659
 "AS9829","Bharat Sanchar Nigam Ltd",621
 "AS201814","MEVSPACE sp. z o.o.",613
-"AS9009","M247 Europe SRL",599
+"AS9009","M247 Europe SRL",600
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",591
 "AS53667","FranTech Solutions",581
@@ -97,7 +97,7 @@ ASN,Organization,IP_Count
 "AS60223","Netiface Limited",251
 "AS29484","Ruhr-Universitaet Bochum",249
 "AS701","Verizon Business",237
-"AS8560","IONOS SE",233
+"AS8560","IONOS SE",234
 "AS209272","Alviva Holding Limited",230
 "AS12555","Data-center IMAQLIQ Ltd.",223
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
@@ -1752,6 +1752,7 @@ ASN,Organization,IP_Count
 "AS134601","Microlink Technology",1
 "AS134674","Tata Play Broadband Private Limited",1
 "AS134756","China Telecom",1
+"AS134760","Shijiazhuang IDC network, CHINANET Hebei province",1
 "AS134806","Sky View Online Limited",1
 "AS134877","Sri Vari Network Private Limited",1
 "AS134907","Bharat VoIP Communications Pvt Ltd",1
