@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88100
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22473
+"AS211298","Driftnet Ltd",22474
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16735
+"AS398324","Censys, Inc.",16736
 "AS396982","Google LLC",11153
-"AS14061","DigitalOcean, LLC",9055
+"AS14061","DigitalOcean, LLC",9056
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6249
 "AS4134","Chinanet",5292
@@ -81,7 +81,7 @@ ASN,Organization,IP_Count
 "AS8151","Uninet S.A. de C.V.",346
 "AS208843","Alpha Strike Labs GmbH",339
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
-"AS141718","haoxiangyun",321
+"AS141718","haoxiangyun",322
 "AS45899","VNPT Corp",321
 "AS213613","BOTSHIELD LTD",318
 "AS214943","Railnet LLC",318
@@ -122,7 +122,7 @@ ASN,Organization,IP_Count
 "AS151185","China Telecom",132
 "AS137409","GSL Networks Pty LTD",128
 "AS28573","Claro NXT Telecomunicacoes Ltda",125
-"AS396356","Latitude.sh",123
+"AS396356","Latitude.sh",124
 "AS36007","Kamatera, Inc.",122
 "AS47331","TTNet A.S.",119
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",117
@@ -130,8 +130,8 @@ ASN,Organization,IP_Count
 "AS211298","Constantine Cybersecurity Ltd.",113
 "AS208287","DC Host INC",110
 "AS5617","Orange Polska Spolka Akcyjna",109
+"AS11320","LightEdge Solutions",107
 "AS199785","Cloud Hosting Solutions, Limited.",107
-"AS11320","LightEdge Solutions",106
 "AS23724","IDC, China Telecommunications Corporation",103
 "AS28209","Under Servicos de Internet Ltda",103
 "AS136435","ELITE COMMUNICATION",102
@@ -430,6 +430,7 @@ ASN,Organization,IP_Count
 "AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",14
 "AS4808","China Unicom Beijing Province Network",14
 "AS48721","Flyservers S.A.",14
+"AS62442","Dade Samane Fanava Company (PJS)",14
 "AS9318","SK Broadband Co Ltd",14
 "AS11351","Charter Communications Inc",13
 "AS134420","Chongqing Telecom",13
@@ -448,7 +449,6 @@ ASN,Organization,IP_Count
 "AS29465","MTN NIGERIA Communication limited",13
 "AS38841","kbro CO. Ltd.",13
 "AS50304","Blix Solutions AS",13
-"AS62442","Dade Samane Fanava Company (PJS)",13
 "AS9770","LG HelloVision Corp.",13
 "AS11172","Alestra, S. de R.L. de C.V.",12
 "AS12271","Charter Communications Inc",12
@@ -1877,6 +1877,7 @@ ASN,Organization,IP_Count
 "AS140541","Optima",1
 "AS140606","Quad Technology and Infotech Limited",1
 "AS140641","YOTTA NETWORK SERVICES PRIVATE LIMITED",1
+"AS140825","Thien Quang Digital technology joint stock company",1
 "AS140849","Pan M Tech Limited",1
 "AS140906","MAYA SOFT",1
 "AS140988","SIMEC SYSTEM LTD.",1
