@@ -3,24 +3,24 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22472
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16708
+"AS398324","Censys, Inc.",16710
 "AS396982","Google LLC",11152
 "AS14061","DigitalOcean, LLC",9051
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6247
-"AS4134","Chinanet",5291
+"AS4134","Chinanet",5292
 "AS16509","Amazon.com, Inc.",4561
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4480
 "AS45102","Alibaba (US) Technology Co., Ltd.",4442
-"AS0","",4150
+"AS0","",4152
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3787
 "AS15169","Google LLC",3608
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3090
-"AS6939","Hurricane Electric LLC",3049
+"AS8075","Microsoft Corporation",3091
+"AS6939","Hurricane Electric LLC",3051
 "AS23470","ReliableSite.Net LLC",2823
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
 "AS13335","Cloudflare, Inc.",1754
-"AS49870","Alsycon B.V.",1692
+"AS49870","Alsycon B.V.",1694
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1591
 "AS36352","HostPapa",1577
@@ -90,7 +90,7 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS18403","FPT Telecom Company",279
-"AS32475","SingleHop LLC",276
+"AS32475","SingleHop LLC",278
 "AS48090","TECHOFF SRV LIMITED",265
 "AS12389","PJSC Rostelecom",256
 "AS29066","velia.net Internetdienste GmbH",251
