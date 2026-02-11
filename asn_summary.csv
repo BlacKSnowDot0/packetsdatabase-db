@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88100
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22472
+"AS211298","Driftnet Ltd",22473
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16718
+"AS398324","Censys, Inc.",16721
 "AS396982","Google LLC",11153
-"AS14061","DigitalOcean, LLC",9053
+"AS14061","DigitalOcean, LLC",9054
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6247
 "AS4134","Chinanet",5292
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4480
 "AS45102","Alibaba (US) Technology Co., Ltd.",4442
-"AS0","",4153
+"AS0","",4155
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3787
 "AS15169","Google LLC",3608
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2823
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
-"AS202425","IP Volume inc",2204
+"AS202425","IP Volume inc",2205
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
 "AS13335","Cloudflare, Inc.",1754
@@ -95,7 +95,7 @@ ASN,Organization,IP_Count
 "AS12389","PJSC Rostelecom",256
 "AS29066","velia.net Internetdienste GmbH",251
 "AS60223","Netiface Limited",251
-"AS29484","Ruhr-Universitaet Bochum",249
+"AS29484","Ruhr-Universitaet Bochum",250
 "AS701","Verizon Business",237
 "AS8560","IONOS SE",234
 "AS209272","Alviva Holding Limited",230
@@ -145,8 +145,8 @@ ASN,Organization,IP_Count
 "AS8402","PJSC ""Vimpelcom""",88
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
+"AS55720","Gigabit Hosting Sdn Bhd",84
 "AS200019","ALEXHOST SRL",83
-"AS55720","Gigabit Hosting Sdn Bhd",83
 "AS22773","Cox Communications Inc.",81
 "AS56046","China Mobile Communications Corporation",80
 "AS3920","ESTOXY OU",78
@@ -160,8 +160,8 @@ ASN,Organization,IP_Count
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",73
 "AS20001","Charter Communications Inc",71
 "AS149746","PT Blip Integrator Provider",70
+"AS57588","Hayat for Internet & communication LLC",70
 "AS52053","REDHEBERG Association declaree",69
-"AS57588","Hayat for Internet & communication LLC",69
 "AS834","IPXO LLC",69
 "AS5650","Frontier Communications of America, Inc.",68
 "AS215590","DpkgSoft International Limited",67
@@ -184,8 +184,8 @@ ASN,Organization,IP_Count
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",60
 "AS49544","i3D.net B.V",59
 "AS12816","Leibniz-Rechenzentrum",58
+"AS28546","Servnet Mexico, S.A. de C.V.",58
 "AS20278","Nexeon Technologies, Inc.",57
-"AS28546","Servnet Mexico, S.A. de C.V.",57
 "AS30633","Leaseweb USA, Inc.",57
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
