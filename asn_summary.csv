@@ -3,9 +3,9 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22472
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16710
+"AS398324","Censys, Inc.",16712
 "AS396982","Google LLC",11152
-"AS14061","DigitalOcean, LLC",9051
+"AS14061","DigitalOcean, LLC",9053
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6247
 "AS4134","Chinanet",5292
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3608
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3091
+"AS8075","Microsoft Corporation",3092
 "AS6939","Hurricane Electric LLC",3051
 "AS23470","ReliableSite.Net LLC",2823
 "AS213412","ONYPHE SAS",2795
@@ -28,10 +28,10 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
 "AS13335","Cloudflare, Inc.",1754
-"AS49870","Alsycon B.V.",1694
+"AS49870","Alsycon B.V.",1696
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1591
-"AS36352","HostPapa",1577
+"AS36352","HostPapa",1578
 "AS398722","Censys, Inc.",1490
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1067
-"AS51167","Contabo GmbH",1035
+"AS51167","Contabo GmbH",1036
 "AS20052","Arbor Networks, Inc.",921
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",884
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS10439","CariNet, Inc.",818
-"AS14618","Amazon.com, Inc.",814
+"AS14618","Amazon.com, Inc.",815
 "AS8452","TE-AS",808
 "AS211680","NSEC - Sistemas Informaticos, S.A.",805
 "AS12876","ONLINE S.A.S.",672
@@ -81,16 +81,16 @@ ASN,Organization,IP_Count
 "AS8151","Uninet S.A. de C.V.",346
 "AS208843","Alpha Strike Labs GmbH",338
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
+"AS141718","haoxiangyun",321
 "AS45899","VNPT Corp",321
-"AS141718","haoxiangyun",320
 "AS213613","BOTSHIELD LTD",318
 "AS214943","Railnet LLC",318
 "AS24863","LINKdotNET AS number",308
-"AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",307
+"AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",308
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS18403","FPT Telecom Company",279
-"AS32475","SingleHop LLC",278
+"AS32475","SingleHop LLC",279
 "AS48090","TECHOFF SRV LIMITED",265
 "AS12389","PJSC Rostelecom",256
 "AS29066","velia.net Internetdienste GmbH",251
@@ -123,8 +123,8 @@ ASN,Organization,IP_Count
 "AS137409","GSL Networks Pty LTD",128
 "AS28573","Claro NXT Telecomunicacoes Ltda",125
 "AS36007","Kamatera, Inc.",122
+"AS396356","Latitude.sh",120
 "AS47331","TTNet A.S.",119
-"AS396356","Latitude.sh",118
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",117
 "AS40021","Nubes, LLC",116
 "AS211298","Constantine Cybersecurity Ltd.",113
@@ -1535,6 +1535,7 @@ ASN,Organization,IP_Count
 "AS42723","TRK Vektor Ltd.",2
 "AS43060","IPLUS LLC",2
 "AS43278","Castles LLC",2
+"AS43317","SIA VEESP",2
 "AS43656","KP Intertelecom Ltd",2
 "AS43764","LLC ""Electron-sevlush""",2
 "AS44032","PP ""TRC""City TV center""",2
@@ -3024,7 +3025,6 @@ ASN,Organization,IP_Count
 "AS43050","Ivankov Daniil Eliseevich",1
 "AS43197","Closed Joint Stock Company TT mobile",1
 "AS43201","Telematika LLC",1
-"AS43317","SIA VEESP",1
 "AS43320","Pushkar Inna Mykolaivna",1
 "AS43357","Owl Limited",1
 "AS43361","LUMINA LLC",1
