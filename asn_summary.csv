@@ -3,9 +3,9 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22473
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16725
+"AS398324","Censys, Inc.",16726
 "AS396982","Google LLC",11153
-"AS14061","DigitalOcean, LLC",9054
+"AS14061","DigitalOcean, LLC",9055
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6248
 "AS4134","Chinanet",5292
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4480
 "AS45102","Alibaba (US) Technology Co., Ltd.",4448
-"AS0","",4158
+"AS0","",4159
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3788
 "AS15169","Google LLC",3608
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1067
-"AS51167","Contabo GmbH",1038
+"AS51167","Contabo GmbH",1039
 "AS20052","Arbor Networks, Inc.",921
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",884
@@ -89,7 +89,7 @@ ASN,Organization,IP_Count
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",308
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
-"AS32475","SingleHop LLC",281
+"AS32475","SingleHop LLC",282
 "AS18403","FPT Telecom Company",279
 "AS48090","TECHOFF SRV LIMITED",265
 "AS12389","PJSC Rostelecom",256
@@ -111,7 +111,7 @@ ASN,Organization,IP_Count
 "AS30083","velia.net",178
 "AS215240","Silent Connection Ltd.",175
 "AS401116","Nybula LLC",170
-"AS14956","RouterHosting LLC",167
+"AS14956","RouterHosting LLC",168
 "AS262551","Farol Telecom",163
 "AS4766","Korea Telecom",159
 "AS206264","Amarutu Technology Ltd",153
@@ -173,9 +173,9 @@ ASN,Organization,IP_Count
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
 "AS19318","Interserver, Inc",64
+"AS30058","FDCservers.net",64
 "AS44592","SkyLink Data Center BV",64
 "AS17378","TierPoint, LLC",63
-"AS30058","FDCservers.net",63
 "AS202796","JSR IT B.V.",62
 "AS55803","Hostopia Australia Web Pty Ltd",62
 "AS140717","China Unicom",61
@@ -398,6 +398,7 @@ ASN,Organization,IP_Count
 "AS12400","Partner Communications Ltd.",15
 "AS1267","RIPE Network Coordination Centre",15
 "AS136515","Dasca Cable Services, Inc.",15
+"AS150179","KAAL TECH CO., LIMITED",15
 "AS19871","Network Solutions, LLC",15
 "AS199414","Noah Kolossa",15
 "AS202448","MVPS LTD",15
@@ -420,7 +421,6 @@ ASN,Organization,IP_Count
 "AS6849","JSC ""Ukrtelecom""",15
 "AS8346","SONATEL-AS Autonomous System",15
 "AS1221","Telstra Limited",14
-"AS150179","KAAL TECH CO., LIMITED",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS213438","ColocaTel Inc.",14
 "AS266015","JC2000 Telecomunicações Ltda",14
