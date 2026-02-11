@@ -3,7 +3,7 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22473
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16733
+"AS398324","Censys, Inc.",16735
 "AS396982","Google LLC",11153
 "AS14061","DigitalOcean, LLC",9055
 "AS26210","AXS Bolivia S. A.",7972
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4480
 "AS45102","Alibaba (US) Technology Co., Ltd.",4448
-"AS0","",4164
+"AS0","",4166
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3790
 "AS15169","Google LLC",3608
@@ -21,10 +21,10 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3094
 "AS6939","Hurricane Electric LLC",3052
-"AS23470","ReliableSite.Net LLC",2823
+"AS23470","ReliableSite.Net LLC",2824
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
-"AS202425","IP Volume inc",2206
+"AS202425","IP Volume inc",2207
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
 "AS13335","Cloudflare, Inc.",1754
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1068
-"AS51167","Contabo GmbH",1041
+"AS51167","Contabo GmbH",1042
 "AS20052","Arbor Networks, Inc.",921
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",884
@@ -89,7 +89,7 @@ ASN,Organization,IP_Count
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",308
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
-"AS32475","SingleHop LLC",284
+"AS32475","SingleHop LLC",287
 "AS18403","FPT Telecom Company",279
 "AS48090","TECHOFF SRV LIMITED",265
 "AS12389","PJSC Rostelecom",256
@@ -97,7 +97,7 @@ ASN,Organization,IP_Count
 "AS60223","Netiface Limited",251
 "AS29484","Ruhr-Universitaet Bochum",250
 "AS701","Verizon Business",237
-"AS8560","IONOS SE",234
+"AS8560","IONOS SE",236
 "AS209272","Alviva Holding Limited",230
 "AS12555","Data-center IMAQLIQ Ltd.",223
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
@@ -122,8 +122,8 @@ ASN,Organization,IP_Count
 "AS151185","China Telecom",132
 "AS137409","GSL Networks Pty LTD",128
 "AS28573","Claro NXT Telecomunicacoes Ltda",125
+"AS396356","Latitude.sh",123
 "AS36007","Kamatera, Inc.",122
-"AS396356","Latitude.sh",121
 "AS47331","TTNet A.S.",119
 "AS680","Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",117
 "AS40021","Nubes, LLC",116
@@ -135,7 +135,7 @@ ASN,Organization,IP_Count
 "AS23724","IDC, China Telecommunications Corporation",103
 "AS28209","Under Servicos de Internet Ltda",103
 "AS136435","ELITE COMMUNICATION",102
-"AS16735","ALGAR TELECOM S/A",100
+"AS16735","ALGAR TELECOM S/A",101
 "AS63018","Dedicated.com",97
 "AS45753","Netsec Limited",94
 "AS205352","KABELNET LTD",93
