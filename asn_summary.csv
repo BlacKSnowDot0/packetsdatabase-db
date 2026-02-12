@@ -3,8 +3,8 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22475
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16757
-"AS396982","Google LLC",11158
+"AS398324","Censys, Inc.",16758
+"AS396982","Google LLC",11159
 "AS14061","DigitalOcean, LLC",9064
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6252
@@ -13,14 +13,14 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4480
 "AS45102","Alibaba (US) Technology Co., Ltd.",4448
-"AS0","",4171
+"AS0","",4174
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3790
 "AS15169","Google LLC",3608
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3095
-"AS6939","Hurricane Electric LLC",3055
+"AS6939","Hurricane Electric LLC",3056
 "AS23470","ReliableSite.Net LLC",2825
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
@@ -59,7 +59,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",659
 "AS9829","Bharat Sanchar Nigam Ltd",623
 "AS201814","MEVSPACE sp. z o.o.",613
-"AS9009","M247 Europe SRL",601
+"AS9009","M247 Europe SRL",602
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",592
 "AS53667","FranTech Solutions",581
@@ -89,10 +89,10 @@ ASN,Organization,IP_Count
 "AS24863","LINKdotNET AS number",308
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
-"AS32475","SingleHop LLC",292
+"AS32475","SingleHop LLC",295
 "AS18403","FPT Telecom Company",279
 "AS48090","TECHOFF SRV LIMITED",266
-"AS12389","PJSC Rostelecom",256
+"AS12389","PJSC Rostelecom",257
 "AS29066","velia.net Internetdienste GmbH",251
 "AS60223","Netiface Limited",251
 "AS29484","Ruhr-Universitaet Bochum",250
@@ -105,7 +105,7 @@ ASN,Organization,IP_Count
 "AS63199","CDS Global Cloud Co., Ltd",215
 "AS50219","LNK SYSTEMS MUNTENIA SRL",214
 "AS19905","Neustar Security Services",208
-"AS34984","Superonline Iletisim Hizmetleri A.S.",202
+"AS34984","Superonline Iletisim Hizmetleri A.S.",203
 "AS42237","w1n ltd",188
 "AS7552","Viettel Group",187
 "AS30083","velia.net",178
@@ -179,9 +179,9 @@ ASN,Organization,IP_Count
 "AS55803","Hostopia Australia Web Pty Ltd",63
 "AS202796","JSR IT B.V.",62
 "AS140717","China Unicom",61
+"AS263025","ISPTEC Sistemas de Comunicação Eireli",61
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",61
 "AS4812","China Telecom (Group)",61
-"AS263025","ISPTEC Sistemas de Comunicação Eireli",60
 "AS12816","Leibniz-Rechenzentrum",59
 "AS49544","i3D.net B.V",59
 "AS28546","Servnet Mexico, S.A. de C.V.",58
@@ -518,6 +518,7 @@ ASN,Organization,IP_Count
 "AS17451","BIZNET NETWORKS",9
 "AS17858","LG POWERCOMM",9
 "AS198253","Kukushkin Anatoly Valerievich",9
+"AS204861","Codisa Telco Solutions S.L.",9
 "AS211507","Julian Achter",9
 "AS2119","Telenor Norge AS",9
 "AS212504","AdKyNet SAS",9
@@ -549,7 +550,6 @@ ASN,Organization,IP_Count
 "AS198361","Yaglom Labs Ltd",8
 "AS202870","Dimensione S.r.l.",8
 "AS203459","AL-MARAJ AL-ALAMIYA Co",8
-"AS204861","Codisa Telco Solutions S.L.",8
 "AS209956","Telkoturk Iletisim Hizmetleri A.S.",8
 "AS215730","H2NEXUS LTD",8
 "AS216300","Closed Joint Stock Company ""AbkhazMedia""",8
