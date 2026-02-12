@@ -3,17 +3,17 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22475
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16758
-"AS396982","Google LLC",11159
+"AS398324","Censys, Inc.",16759
+"AS396982","Google LLC",11160
 "AS14061","DigitalOcean, LLC",9064
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6252
+"AS16276","OVH SAS",6253
 "AS4134","Chinanet",5293
 "AS16509","Amazon.com, Inc.",4562
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4480
 "AS45102","Alibaba (US) Technology Co., Ltd.",4448
-"AS0","",4174
+"AS0","",4175
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3790
 "AS15169","Google LLC",3608
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1068
-"AS51167","Contabo GmbH",1045
+"AS51167","Contabo GmbH",1047
 "AS20052","Arbor Networks, Inc.",921
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",884
@@ -87,17 +87,17 @@ ASN,Organization,IP_Count
 "AS214943","Railnet LLC",318
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",309
 "AS24863","LINKdotNET AS number",308
+"AS32475","SingleHop LLC",297
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
-"AS32475","SingleHop LLC",295
 "AS18403","FPT Telecom Company",279
 "AS48090","TECHOFF SRV LIMITED",266
 "AS12389","PJSC Rostelecom",257
 "AS29066","velia.net Internetdienste GmbH",251
 "AS60223","Netiface Limited",251
 "AS29484","Ruhr-Universitaet Bochum",250
+"AS8560","IONOS SE",238
 "AS701","Verizon Business",237
-"AS8560","IONOS SE",237
 "AS209272","Alviva Holding Limited",230
 "AS12555","Data-center IMAQLIQ Ltd.",223
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
@@ -105,7 +105,7 @@ ASN,Organization,IP_Count
 "AS63199","CDS Global Cloud Co., Ltd",215
 "AS50219","LNK SYSTEMS MUNTENIA SRL",214
 "AS19905","Neustar Security Services",208
-"AS34984","Superonline Iletisim Hizmetleri A.S.",203
+"AS34984","Superonline Iletisim Hizmetleri A.S.",204
 "AS42237","w1n ltd",188
 "AS7552","Viettel Group",187
 "AS30083","velia.net",178
@@ -159,8 +159,8 @@ ASN,Organization,IP_Count
 "AS2856","British Telecommunications PLC",75
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",73
 "AS20001","Charter Communications Inc",71
+"AS57588","Hayat for Internet & communication LLC",71
 "AS149746","PT Blip Integrator Provider",70
-"AS57588","Hayat for Internet & communication LLC",70
 "AS52053","REDHEBERG Association declaree",69
 "AS834","IPXO LLC",69
 "AS5650","Frontier Communications of America, Inc.",68
@@ -417,6 +417,7 @@ ASN,Organization,IP_Count
 "AS397283","RocketNode Inc",15
 "AS48282","Hosting technology LTD",15
 "AS53006","ALGAR TELECOM S/A",15
+"AS62442","Dade Samane Fanava Company (PJS)",15
 "AS64236","UnReal Servers, LLC",15
 "AS6849","JSC ""Ukrtelecom""",15
 "AS8346","SONATEL-AS Autonomous System",15
@@ -430,7 +431,6 @@ ASN,Organization,IP_Count
 "AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",14
 "AS4808","China Unicom Beijing Province Network",14
 "AS48721","Flyservers S.A.",14
-"AS62442","Dade Samane Fanava Company (PJS)",14
 "AS9318","SK Broadband Co Ltd",14
 "AS11351","Charter Communications Inc",13
 "AS134420","Chongqing Telecom",13
