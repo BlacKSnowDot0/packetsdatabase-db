@@ -7,7 +7,7 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",11163
 "AS14061","DigitalOcean, LLC",9070
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6256
+"AS16276","OVH SAS",6257
 "AS4134","Chinanet",5293
 "AS16509","Amazon.com, Inc.",4562
 "AS6568","Entel S.A. - EntelNet",4537
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2826
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
-"AS202425","IP Volume inc",2213
+"AS202425","IP Volume inc",2215
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
 "AS13335","Cloudflare, Inc.",1754
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1068
-"AS51167","Contabo GmbH",1048
+"AS51167","Contabo GmbH",1049
 "AS20052","Arbor Networks, Inc.",921
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",884
@@ -71,7 +71,7 @@ ASN,Organization,IP_Count
 "AS212238","Datacamp Limited",485
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",449
 "AS21859","Zenlayer Inc",431
-"AS24186","RailTel Corporation of India Ltd.",414
+"AS24186","RailTel Corporation of India Ltd.",415
 "AS47890","UNMANAGED LTD",407
 "AS21299","Kar-Tel LLC",406
 "AS7018","AT&T Enterprises, LLC",406
@@ -567,6 +567,7 @@ ASN,Organization,IP_Count
 "AS400529","Infraly, LLC",8
 "AS41608","NextGenWebs, S.L.",8
 "AS4761","PT. INDOSAT Tbk",8
+"AS48314","Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG",8
 "AS48678","PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi",8
 "AS5483","Magyar Telekom plc.",8
 "AS56041","China Mobile Communications Corporation",8
@@ -619,7 +620,6 @@ ASN,Organization,IP_Count
 "AS45609","Bharti Airtel Limited",7
 "AS4771","Spark New Zealand Trading Limited",7
 "AS4811","China Telecom (Group)",7
-"AS48314","Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG",7
 "AS49505","JSC Selectel",7
 "AS50923","Metroset Ltd.",7
 "AS51604","JSC ""ER-Telecom Holding""",7
@@ -922,6 +922,7 @@ ASN,Organization,IP_Count
 "AS8376","Jordan Data Communications Company LLC",4
 "AS8866","Vivacom Bulgaria EAD",4
 "AS9260","Multinet Broadband",4
+"AS9329","Sri Lanka Telecom Ltd",4
 "AS9335","CAT Telecom Public Company Limited",4
 "AS979","NetLab Global",4
 "AS9845","LG HelloVision Corp.",4
@@ -1143,7 +1144,6 @@ ASN,Organization,IP_Count
 "AS8612","Tiscali Italia S.P.A.",3
 "AS9146","BH Telecom d.d. Sarajevo",3
 "AS9319","HCN CHUNGBUK CABLE TV SYSTEMS",3
-"AS9329","Sri Lanka Telecom Ltd",3
 "AS9381","HKBN Enterprise Solutions HK Limited",3
 "AS9534","Maxis Broadband Sdn Bhd",3
 "AS963","N963",3
