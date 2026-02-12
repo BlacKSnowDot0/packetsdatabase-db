@@ -1,18 +1,18 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88103
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22480
+"AS211298","Driftnet Ltd",22482
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16770
+"AS398324","Censys, Inc.",16772
 "AS396982","Google LLC",11163
 "AS14061","DigitalOcean, LLC",9070
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6255
+"AS16276","OVH SAS",6256
 "AS4134","Chinanet",5293
 "AS16509","Amazon.com, Inc.",4562
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4480
-"AS45102","Alibaba (US) Technology Co., Ltd.",4449
+"AS45102","Alibaba (US) Technology Co., Ltd.",4450
 "AS0","",4194
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3792
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3099
 "AS6939","Hurricane Electric LLC",3062
-"AS23470","ReliableSite.Net LLC",2825
+"AS23470","ReliableSite.Net LLC",2826
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
 "AS202425","IP Volume inc",2213
@@ -96,7 +96,7 @@ ASN,Organization,IP_Count
 "AS29066","velia.net Internetdienste GmbH",251
 "AS60223","Netiface Limited",251
 "AS29484","Ruhr-Universitaet Bochum",250
-"AS8560","IONOS SE",240
+"AS8560","IONOS SE",241
 "AS701","Verizon Business",237
 "AS209272","Alviva Holding Limited",230
 "AS12555","Data-center IMAQLIQ Ltd.",223
@@ -158,8 +158,8 @@ ASN,Organization,IP_Count
 "AS31898","Oracle Corporation",76
 "AS2856","British Telecommunications PLC",75
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",73
+"AS57588","Hayat for Internet & communication LLC",72
 "AS20001","Charter Communications Inc",71
-"AS57588","Hayat for Internet & communication LLC",71
 "AS149746","PT Blip Integrator Provider",70
 "AS52053","REDHEBERG Association declaree",69
 "AS834","IPXO LLC",69
@@ -168,14 +168,14 @@ ASN,Organization,IP_Count
 "AS328867","Corebach Backbone SARL",67
 "AS46475","Limestone Networks, Inc.",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
+"AS30058","FDCservers.net",66
 "AS6128","Cablevision Systems Corp.",66
 "AS20115","Charter Communications",65
-"AS30058","FDCservers.net",65
 "AS398101","GoDaddy.com, LLC",65
 "AS47674","Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal ",65
+"AS55803","Hostopia Australia Web Pty Ltd",65
 "AS19318","Interserver, Inc",64
 "AS44592","SkyLink Data Center BV",64
-"AS55803","Hostopia Australia Web Pty Ltd",64
 "AS17378","TierPoint, LLC",63
 "AS202796","JSR IT B.V.",62
 "AS140717","China Unicom",61
