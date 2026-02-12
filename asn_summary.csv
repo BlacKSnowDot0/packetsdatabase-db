@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88104
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22485
+"AS398324","Censys, Inc.",16790
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16785
-"AS396982","Google LLC",11164
+"AS396982","Google LLC",11165
 "AS14061","DigitalOcean, LLC",9072
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6258
@@ -13,13 +13,13 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4481
 "AS45102","Alibaba (US) Technology Co., Ltd.",4450
-"AS0","",4199
+"AS0","",4200
 "AS396998","Path Network, Inc.",3992
-"AS63949","Akamai Technologies, Inc.",3793
+"AS63949","Akamai Technologies, Inc.",3794
 "AS15169","Google LLC",3608
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3101
+"AS8075","Microsoft Corporation",3103
 "AS6939","Hurricane Electric LLC",3062
 "AS23470","ReliableSite.Net LLC",2826
 "AS213412","ONYPHE SAS",2795
@@ -50,7 +50,7 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",873
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
-"AS10439","CariNet, Inc.",821
+"AS10439","CariNet, Inc.",822
 "AS14618","Amazon.com, Inc.",816
 "AS8452","TE-AS",808
 "AS211680","NSEC - Sistemas Informaticos, S.A.",805
@@ -81,13 +81,13 @@ ASN,Organization,IP_Count
 "AS8151","Uninet S.A. de C.V.",346
 "AS208843","Alpha Strike Labs GmbH",339
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
-"AS141718","haoxiangyun",329
+"AS141718","haoxiangyun",330
 "AS45899","VNPT Corp",321
 "AS213613","BOTSHIELD LTD",318
 "AS214943","Railnet LLC",318
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",310
 "AS24863","LINKdotNET AS number",308
-"AS32475","SingleHop LLC",304
+"AS32475","SingleHop LLC",305
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS18403","FPT Telecom Company",280
@@ -645,6 +645,7 @@ ASN,Organization,IP_Count
 "AS136359","Hansin It Services Pvt. Ltd.",6
 "AS137967","Digicon Telecommunication Ltd",6
 "AS141167","AgotoZ HK Limited",6
+"AS14315","1GSERVERS, LLC",6
 "AS149078","VPSMMO TECHNOLOGY COMPANY LIMITED",6
 "AS15081","Omni Fiber",6
 "AS15802","Emirates Integrated Telecommunications Company PJSC",6
@@ -706,7 +707,6 @@ ASN,Organization,IP_Count
 "AS138195","MOACK.Co.LTD",5
 "AS14080","Telmex Colombia S.A.",5
 "AS141140","PT Jinde Grup Indonesia",5
-"AS14315","1GSERVERS, LLC",5
 "AS14868","Ligga Telecomunicações S.A.",5
 "AS15108","Allo Communications LLC",5
 "AS151858","INTERDIGI JOINT STOCK COMPANY",5
