@@ -1,5 +1,5 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88100
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88101
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22475
 "AS32934","Facebook, Inc.",16787
@@ -12,15 +12,15 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4562
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4480
-"AS45102","Alibaba (US) Technology Co., Ltd.",4448
-"AS0","",4175
+"AS45102","Alibaba (US) Technology Co., Ltd.",4449
+"AS0","",4176
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3790
 "AS15169","Google LLC",3608
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3095
-"AS6939","Hurricane Electric LLC",3056
+"AS6939","Hurricane Electric LLC",3058
 "AS23470","ReliableSite.Net LLC",2825
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
@@ -81,7 +81,7 @@ ASN,Organization,IP_Count
 "AS8151","Uninet S.A. de C.V.",346
 "AS208843","Alpha Strike Labs GmbH",339
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
-"AS141718","haoxiangyun",326
+"AS141718","haoxiangyun",327
 "AS45899","VNPT Corp",321
 "AS213613","BOTSHIELD LTD",318
 "AS214943","Railnet LLC",318
@@ -324,6 +324,7 @@ ASN,Organization,IP_Count
 "AS4816","China Telecom (Group)",22
 "AS51430","AltusHost B.V.",22
 "AS5384","EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",22
+"AS60781","LeaseWeb Netherlands B.V.",22
 "AS62068","SpectraIP B.V.",22
 "AS63859","PT. Eka Mas Republik",22
 "AS6697","Republican Unitary Telecommunication Enterprise Beltelecom",22
@@ -340,7 +341,6 @@ ASN,Organization,IP_Count
 "AS4800","PT Aplikanusa Lintasarta",21
 "AS50887","DC FIBER HOME SRL",21
 "AS59134","PT. Datacomm Diangraha",21
-"AS60781","LeaseWeb Netherlands B.V.",21
 "AS9299","Philippine Long Distance Telephone Co.",21
 "AS151734","WEBYNE DATA CENTRE PRIVATE LIMITED",20
 "AS202306","HOSTGLOBAL.PLUS LTD",20
