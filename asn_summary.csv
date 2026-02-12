@@ -1,7 +1,7 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88101
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22475
+"AS211298","Driftnet Ltd",22478
 "AS32934","Facebook, Inc.",16787
 "AS398324","Censys, Inc.",16759
 "AS396982","Google LLC",11161
@@ -13,18 +13,18 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4480
 "AS45102","Alibaba (US) Technology Co., Ltd.",4449
-"AS0","",4177
+"AS0","",4190
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3790
 "AS15169","Google LLC",3608
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3095
-"AS6939","Hurricane Electric LLC",3059
+"AS8075","Microsoft Corporation",3096
+"AS6939","Hurricane Electric LLC",3060
 "AS23470","ReliableSite.Net LLC",2825
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
-"AS202425","IP Volume inc",2211
+"AS202425","IP Volume inc",2212
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
 "AS13335","Cloudflare, Inc.",1754
@@ -91,7 +91,7 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS18403","FPT Telecom Company",279
-"AS48090","TECHOFF SRV LIMITED",266
+"AS48090","TECHOFF SRV LIMITED",268
 "AS12389","PJSC Rostelecom",257
 "AS29066","velia.net Internetdienste GmbH",251
 "AS60223","Netiface Limited",251
@@ -104,14 +104,14 @@ ASN,Organization,IP_Count
 "AS14987","Rethem Hosting LLC",215
 "AS63199","CDS Global Cloud Co., Ltd",215
 "AS50219","LNK SYSTEMS MUNTENIA SRL",214
-"AS19905","Neustar Security Services",208
+"AS19905","Neustar Security Services",209
 "AS34984","Superonline Iletisim Hizmetleri A.S.",204
 "AS42237","w1n ltd",188
 "AS7552","Viettel Group",187
 "AS30083","velia.net",178
 "AS215240","Silent Connection Ltd.",175
 "AS401116","Nybula LLC",170
-"AS14956","RouterHosting LLC",168
+"AS14956","RouterHosting LLC",169
 "AS262551","Farol Telecom",163
 "AS4766","Korea Telecom",161
 "AS206264","Amarutu Technology Ltd",153
@@ -847,6 +847,7 @@ ASN,Organization,IP_Count
 "AS216211","CYBERVERSE LLC",4
 "AS22418","Cologuard",4
 "AS22611","InMotion Hosting, Inc.",4
+"AS23750","Gerrys Information Technology (PVT) Ltd",4
 "AS2514","NTT PC Communications, Inc.",4
 "AS2518","BIGLOBE Inc.",4
 "AS25472","Nova Telecommunications & Media Single Member S.A",4
@@ -1001,7 +1002,6 @@ ASN,Organization,IP_Count
 "AS21565","Horry Telephone Cooperative, Inc.",3
 "AS216071","SERVERS TECH FZCO",3
 "AS23650","Chinanet Jiangsu",3
-"AS23750","Gerrys Information Technology (PVT) Ltd",3
 "AS24163","UNION BROADBAND NETWORK",3
 "AS24165","UNION BROADBAND NETWORK",3
 "AS24444","China Mobile",3
