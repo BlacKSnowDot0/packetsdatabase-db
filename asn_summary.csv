@@ -1,15 +1,15 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88103
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88104
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22485
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16784
+"AS398324","Censys, Inc.",16785
 "AS396982","Google LLC",11164
 "AS14061","DigitalOcean, LLC",9072
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6258
 "AS4134","Chinanet",5293
-"AS16509","Amazon.com, Inc.",4562
+"AS16509","Amazon.com, Inc.",4563
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4481
 "AS45102","Alibaba (US) Technology Co., Ltd.",4450
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3608
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3100
+"AS8075","Microsoft Corporation",3101
 "AS6939","Hurricane Electric LLC",3062
 "AS23470","ReliableSite.Net LLC",2826
 "AS213412","ONYPHE SAS",2795
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1716
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1591
-"AS36352","HostPapa",1578
+"AS36352","HostPapa",1579
 "AS398722","Censys, Inc.",1491
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
@@ -87,7 +87,7 @@ ASN,Organization,IP_Count
 "AS214943","Railnet LLC",318
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",310
 "AS24863","LINKdotNET AS number",308
-"AS32475","SingleHop LLC",303
+"AS32475","SingleHop LLC",304
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS18403","FPT Telecom Company",280
@@ -132,12 +132,12 @@ ASN,Organization,IP_Count
 "AS5617","Orange Polska Spolka Akcyjna",109
 "AS11320","LightEdge Solutions",107
 "AS199785","Cloud Hosting Solutions, Limited.",107
-"AS23724","IDC, China Telecommunications Corporation",103
+"AS23724","IDC, China Telecommunications Corporation",104
 "AS28209","Under Servicos de Internet Ltda",103
 "AS136435","ELITE COMMUNICATION",102
 "AS16735","ALGAR TELECOM S/A",102
+"AS45753","Netsec Limited",98
 "AS63018","Dedicated.com",97
-"AS45753","Netsec Limited",94
 "AS205352","KABELNET LTD",93
 "AS200514","KnownSRV Ltd.",91
 "AS210125","PRIAM NET Sh.p.k.",89
