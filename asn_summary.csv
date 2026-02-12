@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88101
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22478
+"AS211298","Driftnet Ltd",22479
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16761
-"AS396982","Google LLC",11161
-"AS14061","DigitalOcean, LLC",9066
+"AS398324","Censys, Inc.",16763
+"AS396982","Google LLC",11162
+"AS14061","DigitalOcean, LLC",9067
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6254
 "AS4134","Chinanet",5293
@@ -19,8 +19,8 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3608
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3096
-"AS6939","Hurricane Electric LLC",3060
+"AS8075","Microsoft Corporation",3098
+"AS6939","Hurricane Electric LLC",3061
 "AS23470","ReliableSite.Net LLC",2825
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1068
-"AS51167","Contabo GmbH",1047
+"AS51167","Contabo GmbH",1048
 "AS20052","Arbor Networks, Inc.",921
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",884
@@ -69,7 +69,7 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",485
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",447
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",448
 "AS21859","Zenlayer Inc",431
 "AS24186","RailTel Corporation of India Ltd.",414
 "AS21299","Kar-Tel LLC",406
@@ -148,7 +148,7 @@ ASN,Organization,IP_Count
 "AS55720","Gigabit Hosting Sdn Bhd",84
 "AS200019","ALEXHOST SRL",83
 "AS22773","Cox Communications Inc.",81
-"AS40676","Psychz Networks",80
+"AS40676","Psychz Networks",81
 "AS56046","China Mobile Communications Corporation",80
 "AS3920","ESTOXY OU",78
 "AS150263","PT Alnet Telekomunikasi Indonesia",77
@@ -223,11 +223,11 @@ ASN,Organization,IP_Count
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS262378","Compuservice Empreendimentos Ltda",42
 "AS26599","TELEFÔNICA BRASIL S.A",42
+"AS5089","Virgin Media Limited",42
 "AS55836","Reliance Jio Infocomm Limited",42
 "AS9123","TimeWeb Ltd.",42
 "AS204834","Shabakieh Isfahan Co PJSC",41
 "AS4538","China Education and Research Network Center",41
-"AS5089","Virgin Media Limited",41
 "AS27699","TELEFÔNICA BRASIL S.A",40
 "AS43641","SOLLUTIUM EU Sp z.o.o.",40
 "AS329009","Spectrum Internet Service Ltd",39
