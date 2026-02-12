@@ -3,17 +3,17 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22478
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16759
+"AS398324","Censys, Inc.",16761
 "AS396982","Google LLC",11161
-"AS14061","DigitalOcean, LLC",9064
+"AS14061","DigitalOcean, LLC",9066
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6253
+"AS16276","OVH SAS",6254
 "AS4134","Chinanet",5293
 "AS16509","Amazon.com, Inc.",4562
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4480
 "AS45102","Alibaba (US) Technology Co., Ltd.",4449
-"AS0","",4190
+"AS0","",4191
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3790
 "AS15169","Google LLC",3608
@@ -90,8 +90,8 @@ ASN,Organization,IP_Count
 "AS32475","SingleHop LLC",297
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
-"AS18403","FPT Telecom Company",279
-"AS48090","TECHOFF SRV LIMITED",268
+"AS18403","FPT Telecom Company",280
+"AS48090","TECHOFF SRV LIMITED",269
 "AS12389","PJSC Rostelecom",257
 "AS29066","velia.net Internetdienste GmbH",251
 "AS60223","Netiface Limited",251
@@ -105,7 +105,7 @@ ASN,Organization,IP_Count
 "AS63199","CDS Global Cloud Co., Ltd",215
 "AS50219","LNK SYSTEMS MUNTENIA SRL",214
 "AS19905","Neustar Security Services",209
-"AS34984","Superonline Iletisim Hizmetleri A.S.",204
+"AS34984","Superonline Iletisim Hizmetleri A.S.",205
 "AS42237","w1n ltd",188
 "AS7552","Viettel Group",187
 "AS30083","velia.net",178
