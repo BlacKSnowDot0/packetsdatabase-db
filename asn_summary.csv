@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
-"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88101
+"AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88103
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22479
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16766
+"AS398324","Censys, Inc.",16767
 "AS396982","Google LLC",11162
-"AS14061","DigitalOcean, LLC",9068
+"AS14061","DigitalOcean, LLC",9069
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6255
 "AS4134","Chinanet",5293
@@ -13,9 +13,9 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4480
 "AS45102","Alibaba (US) Technology Co., Ltd.",4449
-"AS0","",4192
+"AS0","",4193
 "AS396998","Path Network, Inc.",3992
-"AS63949","Akamai Technologies, Inc.",3791
+"AS63949","Akamai Technologies, Inc.",3792
 "AS15169","Google LLC",3608
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
@@ -69,7 +69,7 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",485
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",448
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",449
 "AS21859","Zenlayer Inc",431
 "AS24186","RailTel Corporation of India Ltd.",414
 "AS47890","UNMANAGED LTD",407
@@ -87,7 +87,7 @@ ASN,Organization,IP_Count
 "AS214943","Railnet LLC",318
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",309
 "AS24863","LINKdotNET AS number",308
-"AS32475","SingleHop LLC",297
+"AS32475","SingleHop LLC",298
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS18403","FPT Telecom Company",280
@@ -183,8 +183,8 @@ ASN,Organization,IP_Count
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",61
 "AS4812","China Telecom (Group)",61
 "AS12816","Leibniz-Rechenzentrum",59
+"AS28546","Servnet Mexico, S.A. de C.V.",59
 "AS49544","i3D.net B.V",59
-"AS28546","Servnet Mexico, S.A. de C.V.",58
 "AS20278","Nexeon Technologies, Inc.",57
 "AS30633","Leaseweb USA, Inc.",57
 "AS48090","PPTECHNOLOGY LIMITED",56
