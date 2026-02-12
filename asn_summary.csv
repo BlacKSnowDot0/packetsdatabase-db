@@ -3,8 +3,8 @@ ASN,Organization,IP_Count
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22485
 "AS32934","Facebook, Inc.",16787
-"AS398324","Censys, Inc.",16781
-"AS396982","Google LLC",11163
+"AS398324","Censys, Inc.",16784
+"AS396982","Google LLC",11164
 "AS14061","DigitalOcean, LLC",9072
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6258
@@ -72,7 +72,7 @@ ASN,Organization,IP_Count
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",449
 "AS21859","Zenlayer Inc",431
 "AS24186","RailTel Corporation of India Ltd.",415
-"AS47890","UNMANAGED LTD",407
+"AS47890","UNMANAGED LTD",408
 "AS21299","Kar-Tel LLC",406
 "AS7018","AT&T Enterprises, LLC",406
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
@@ -96,7 +96,7 @@ ASN,Organization,IP_Count
 "AS29066","velia.net Internetdienste GmbH",251
 "AS60223","Netiface Limited",251
 "AS29484","Ruhr-Universitaet Bochum",250
-"AS8560","IONOS SE",242
+"AS8560","IONOS SE",244
 "AS701","Verizon Business",237
 "AS209272","Alviva Holding Limited",230
 "AS12555","Data-center IMAQLIQ Ltd.",223
@@ -121,7 +121,7 @@ ASN,Organization,IP_Count
 "AS13238","YANDEX LLC",138
 "AS151185","China Telecom",132
 "AS137409","GSL Networks Pty LTD",128
-"AS396356","Latitude.sh",126
+"AS396356","Latitude.sh",127
 "AS28573","Claro NXT Telecomunicacoes Ltda",125
 "AS36007","Kamatera, Inc.",122
 "AS47331","TTNet A.S.",119
@@ -191,11 +191,11 @@ ASN,Organization,IP_Count
 "AS18345","Servers Australia Pty. Ltd",55
 "AS200590","NLS Kazakhstan LLC",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
+"AS56067","Metrabyte Co.,Ltd",55
 "AS20853","eTOP sp. z o.o.",54
 "AS213877","u1host ltd",54
 "AS215762","Bullet Group LTD",54
 "AS44382","Fiba Cloud Operation Company, LLC",54
-"AS56067","Metrabyte Co.,Ltd",54
 "AS12912","T-Mobile Polska S.A.",52
 "AS271597","NEW LINK CONNECT",52
 "AS210558","1337 Services GmbH",51
