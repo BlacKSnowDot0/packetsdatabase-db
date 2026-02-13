@@ -2,24 +2,24 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88104
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22491
-"AS398324","Censys, Inc.",16819
+"AS398324","Censys, Inc.",16821
 "AS32934","Facebook, Inc.",16787
 "AS396982","Google LLC",11169
 "AS14061","DigitalOcean, LLC",9090
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6270
 "AS4134","Chinanet",5317
-"AS16509","Amazon.com, Inc.",4567
+"AS16509","Amazon.com, Inc.",4568
 "AS6568","Entel S.A. - EntelNet",4538
 "AS58466","CHINANET Guangdong province network",4482
 "AS45102","Alibaba (US) Technology Co., Ltd.",4456
-"AS0","",4228
+"AS0","",4229
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3794
 "AS15169","Google LLC",3630
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3111
+"AS8075","Microsoft Corporation",3112
 "AS6939","Hurricane Electric LLC",3065
 "AS23470","ReliableSite.Net LLC",2827
 "AS213412","ONYPHE SAS",2795
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1070
-"AS51167","Contabo GmbH",1055
+"AS51167","Contabo GmbH",1056
 "AS20052","Arbor Networks, Inc.",921
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",884
@@ -236,12 +236,12 @@ ASN,Organization,IP_Count
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS262378","Compuservice Empreendimentos Ltda",42
 "AS27699","TELEFÔNICA BRASIL S.A",42
+"AS35819","Etihad Etisalat, a joint stock company",42
 "AS9123","TimeWeb Ltd.",42
 "AS11351","Charter Communications Inc",41
 "AS16814","NSS S.A.",41
 "AS204834","Shabakieh Isfahan Co PJSC",41
 "AS33724","VOLICO",41
-"AS35819","Etihad Etisalat, a joint stock company",41
 "AS4538","China Education and Research Network Center",41
 "AS11426","Charter Communications Inc",40
 "AS43641","SOLLUTIUM EU Sp z.o.o.",40
@@ -1194,6 +1194,7 @@ ASN,Organization,IP_Count
 "AS42730","EVANZO e-commerce GmbH",3
 "AS42772","Unitary enterprise A1",3
 "AS43047","Stream-Network Ltd.",3
+"AS43317","SIA VEESP",3
 "AS43708","DATAMAT CZ s.r.o.",3
 "AS44056","Trytek LLC",3
 "AS44143","A1 Srbija d.o.o",3
@@ -1272,6 +1273,7 @@ ASN,Organization,IP_Count
 "AS12739","CJSC Netline",2
 "AS12741","Netia SA",2
 "AS12810","A1 Hrvatska d.o.o.",2
+"AS12946","R Cable y Telecable Telecomunicaciones, S.A.U.",2
 "AS12963","""SCIENTIFIC-INDUSTRIAL FIRM ""VOLZ"" LIMITED LIABILITY COMPANY",2
 "AS13099","AzEuroTel J.V.",2
 "AS131442","Digital Network Associates Pvt Ltd",2
@@ -1665,7 +1667,6 @@ ASN,Organization,IP_Count
 "AS42723","TRK Vektor Ltd.",2
 "AS43060","IPLUS LLC",2
 "AS43278","Castles LLC",2
-"AS43317","SIA VEESP",2
 "AS43633","Gigabit-Online LLC",2
 "AS43656","KP Intertelecom Ltd",2
 "AS43764","LLC ""Electron-sevlush""",2
@@ -3380,6 +3381,7 @@ ASN,Organization,IP_Count
 "AS52606","BRASILNETS COM. ATAC. DE EQ. INFORMATICA LTDA ME",1
 "AS52613","GIGA MAIS FIBRA TELECOMUNICACOES S.A. (VIP)",1
 "AS52643","N&G Tecnologia LTDA",1
+"AS52662","TELECALL TELECOMUNICACOES",1
 "AS52683","HiperNET Servico de Comunicacao LTDA ME",1
 "AS52694","NEXSUL TELECOM LTDA",1
 "AS52709","w de c canto junior",1
