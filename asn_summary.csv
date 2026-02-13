@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88104
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22489
-"AS398324","Censys, Inc.",16805
+"AS398324","Censys, Inc.",16807
 "AS32934","Facebook, Inc.",16787
 "AS396982","Google LLC",11168
-"AS14061","DigitalOcean, LLC",9081
+"AS14061","DigitalOcean, LLC",9082
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6264
+"AS16276","OVH SAS",6265
 "AS4134","Chinanet",5293
 "AS16509","Amazon.com, Inc.",4566
 "AS6568","Entel S.A. - EntelNet",4537
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1716
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1591
-"AS36352","HostPapa",1580
+"AS36352","HostPapa",1581
 "AS398722","Censys, Inc.",1492
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
@@ -54,8 +54,8 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",816
 "AS211680","NSEC - Sistemas Informaticos, S.A.",810
 "AS8452","TE-AS",808
+"AS51115","HLL LLC",676
 "AS12876","ONLINE S.A.S.",675
-"AS51115","HLL LLC",675
 "AS4837","CHINA UNICOM China169 Backbone",660
 "AS9829","Bharat Sanchar Nigam Ltd",625
 "AS201814","MEVSPACE sp. z o.o.",613
@@ -104,7 +104,7 @@ ASN,Organization,IP_Count
 "AS14987","Rethem Hosting LLC",215
 "AS50219","LNK SYSTEMS MUNTENIA SRL",215
 "AS63199","CDS Global Cloud Co., Ltd",215
-"AS19905","Neustar Security Services",211
+"AS19905","Neustar Security Services",212
 "AS34984","Superonline Iletisim Hizmetleri A.S.",205
 "AS42237","w1n ltd",189
 "AS7552","Viettel Group",187
@@ -132,9 +132,9 @@ ASN,Organization,IP_Count
 "AS5617","Orange Polska Spolka Akcyjna",109
 "AS11320","LightEdge Solutions",107
 "AS199785","Cloud Hosting Solutions, Limited.",107
+"AS16735","ALGAR TELECOM S/A",104
 "AS23724","IDC, China Telecommunications Corporation",104
-"AS16735","ALGAR TELECOM S/A",103
-"AS28209","Under Servicos de Internet Ltda",103
+"AS28209","Under Servicos de Internet Ltda",104
 "AS136435","ELITE COMMUNICATION",102
 "AS45753","Netsec Limited",98
 "AS63018","Dedicated.com",97
