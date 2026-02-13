@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88104
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22487
-"AS398324","Censys, Inc.",16800
+"AS398324","Censys, Inc.",16801
 "AS32934","Facebook, Inc.",16787
 "AS396982","Google LLC",11167
-"AS14061","DigitalOcean, LLC",9077
+"AS14061","DigitalOcean, LLC",9078
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6261
 "AS4134","Chinanet",5293
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4481
 "AS45102","Alibaba (US) Technology Co., Ltd.",4452
-"AS0","",4204
+"AS0","",4206
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3794
 "AS15169","Google LLC",3608
@@ -42,7 +42,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
-"AS208684","BHA CONSEIL SARL",1068
+"AS208684","BHA CONSEIL SARL",1069
 "AS51167","Contabo GmbH",1052
 "AS20052","Arbor Networks, Inc.",921
 "AS51852","Private Layer INC",907
@@ -54,9 +54,9 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",816
 "AS8452","TE-AS",808
 "AS211680","NSEC - Sistemas Informaticos, S.A.",805
-"AS12876","ONLINE S.A.S.",674
-"AS51115","HLL LLC",673
-"AS4837","CHINA UNICOM China169 Backbone",659
+"AS12876","ONLINE S.A.S.",675
+"AS51115","HLL LLC",674
+"AS4837","CHINA UNICOM China169 Backbone",660
 "AS9829","Bharat Sanchar Nigam Ltd",625
 "AS201814","MEVSPACE sp. z o.o.",613
 "AS9009","M247 Europe SRL",603
@@ -79,7 +79,7 @@ ASN,Organization,IP_Count
 "AS7713","Telekomunikasi Indonesia (PT)",368
 "AS7922","Comcast Cable Communications, LLC",358
 "AS8151","Uninet S.A. de C.V.",346
-"AS208843","Alpha Strike Labs GmbH",342
+"AS208843","Alpha Strike Labs GmbH",343
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS141718","haoxiangyun",330
 "AS45899","VNPT Corp",321
@@ -96,7 +96,7 @@ ASN,Organization,IP_Count
 "AS29066","velia.net Internetdienste GmbH",251
 "AS60223","Netiface Limited",251
 "AS29484","Ruhr-Universitaet Bochum",250
-"AS8560","IONOS SE",244
+"AS8560","IONOS SE",245
 "AS701","Verizon Business",237
 "AS209272","Alviva Holding Limited",230
 "AS12555","Data-center IMAQLIQ Ltd.",223
@@ -299,6 +299,7 @@ ASN,Organization,IP_Count
 "AS18881","TELEFÔNICA BRASIL S.A",25
 "AS58224","Iran Telecommunication Company PJS",25
 "AS12479","Orange Espagne SA",24
+"AS16591","Google Fiber Inc.",24
 "AS16611","InfiniaHost.com",24
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",24
 "AS197309","RS-Media LLC",24
@@ -306,7 +307,6 @@ ASN,Organization,IP_Count
 "AS577","Bell Canada",24
 "AS60068","Datacamp Limited",24
 "AS140061","China Telecom",23
-"AS16591","Google Fiber Inc.",23
 "AS17561","Larus Limited",23
 "AS17816","China Unicom IP network China169 Guangdong province",23
 "AS198037","SPACECORE SOLUTION LTD",23
