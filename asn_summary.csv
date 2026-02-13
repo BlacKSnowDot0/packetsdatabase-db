@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88104
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22492
-"AS398324","Censys, Inc.",16831
+"AS398324","Censys, Inc.",16836
 "AS32934","Facebook, Inc.",16787
 "AS396982","Google LLC",11168
-"AS14061","DigitalOcean, LLC",9091
+"AS14061","DigitalOcean, LLC",9092
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6268
 "AS4134","Chinanet",5294
@@ -19,19 +19,19 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3629
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3107
+"AS8075","Microsoft Corporation",3108
 "AS6939","Hurricane Electric LLC",3065
 "AS23470","ReliableSite.Net LLC",2827
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
-"AS202425","IP Volume inc",2222
+"AS202425","IP Volume inc",2223
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
 "AS13335","Cloudflare, Inc.",1754
-"AS49870","Alsycon B.V.",1718
+"AS49870","Alsycon B.V.",1719
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1591
-"AS36352","HostPapa",1583
+"AS36352","HostPapa",1584
 "AS398722","Censys, Inc.",1492
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
@@ -57,7 +57,7 @@ ASN,Organization,IP_Count
 "AS51115","HLL LLC",676
 "AS12876","ONLINE S.A.S.",675
 "AS4837","CHINA UNICOM China169 Backbone",660
-"AS9829","Bharat Sanchar Nigam Ltd",625
+"AS9829","Bharat Sanchar Nigam Ltd",626
 "AS201814","MEVSPACE sp. z o.o.",613
 "AS9009","M247 Europe SRL",603
 "AS211849","Kakharov Orinbassar Maratuly",596
@@ -79,13 +79,13 @@ ASN,Organization,IP_Count
 "AS7713","Telekomunikasi Indonesia (PT)",369
 "AS7922","Comcast Cable Communications, LLC",358
 "AS8151","Uninet S.A. de C.V.",346
-"AS208843","Alpha Strike Labs GmbH",343
+"AS208843","Alpha Strike Labs GmbH",344
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS141718","haoxiangyun",330
 "AS45899","VNPT Corp",321
 "AS213613","BOTSHIELD LTD",318
 "AS214943","Railnet LLC",318
-"AS32475","SingleHop LLC",317
+"AS32475","SingleHop LLC",318
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",310
 "AS24863","LINKdotNET AS number",308
 "AS9341","PT Indonesia Comnets Plus",297
@@ -160,8 +160,8 @@ ASN,Organization,IP_Count
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",73
 "AS57588","Hayat for Internet & communication LLC",73
 "AS20001","Charter Communications Inc",71
+"AS55803","Hostopia Australia Web Pty Ltd",71
 "AS149746","PT Blip Integrator Provider",70
-"AS55803","Hostopia Australia Web Pty Ltd",70
 "AS52053","REDHEBERG Association declaree",69
 "AS834","IPXO LLC",69
 "AS46475","Limestone Networks, Inc.",68
@@ -491,6 +491,7 @@ ASN,Organization,IP_Count
 "AS149359","PT Persada Data Multimedia",10
 "AS153443","VPSRE.NET LLC",10
 "AS199739","Earthlink Telecommunications Equipment Trading & Services DMCC",10
+"AS204861","Codisa Telco Solutions S.L.",10
 "AS206262","TelKos L.L.C",10
 "AS24445","China Mobile",10
 "AS24835","Vodafone Data - Egypt",10
@@ -518,7 +519,6 @@ ASN,Organization,IP_Count
 "AS17451","BIZNET NETWORKS",9
 "AS17858","LG POWERCOMM",9
 "AS198253","Kukushkin Anatoly Valerievich",9
-"AS204861","Codisa Telco Solutions S.L.",9
 "AS211507","Julian Achter",9
 "AS2119","Telenor Norge AS",9
 "AS212504","AdKyNet SAS",9
