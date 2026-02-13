@@ -7,9 +7,9 @@ ASN,Organization,IP_Count
 "AS396982","Google LLC",11168
 "AS14061","DigitalOcean, LLC",9080
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6263
+"AS16276","OVH SAS",6264
 "AS4134","Chinanet",5293
-"AS16509","Amazon.com, Inc.",4564
+"AS16509","Amazon.com, Inc.",4566
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4482
 "AS45102","Alibaba (US) Technology Co., Ltd.",4455
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1591
 "AS36352","HostPapa",1580
-"AS398722","Censys, Inc.",1491
+"AS398722","Censys, Inc.",1492
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
 "AS174","Cogent Communications",1326
@@ -52,8 +52,8 @@ ASN,Organization,IP_Count
 "AS56042","China Mobile Communications Corporation",840
 "AS10439","CariNet, Inc.",822
 "AS14618","Amazon.com, Inc.",816
+"AS211680","NSEC - Sistemas Informaticos, S.A.",810
 "AS8452","TE-AS",808
-"AS211680","NSEC - Sistemas Informaticos, S.A.",805
 "AS12876","ONLINE S.A.S.",675
 "AS51115","HLL LLC",675
 "AS4837","CHINA UNICOM China169 Backbone",660
@@ -167,9 +167,9 @@ ASN,Organization,IP_Count
 "AS215590","DpkgSoft International Limited",67
 "AS328867","Corebach Backbone SARL",67
 "AS46475","Limestone Networks, Inc.",67
+"AS55803","Hostopia Australia Web Pty Ltd",67
 "AS212249","EG Veri Merkezi Teknoloji Ltd. Sti.",66
 "AS30058","FDCservers.net",66
-"AS55803","Hostopia Australia Web Pty Ltd",66
 "AS6128","Cablevision Systems Corp.",66
 "AS20115","Charter Communications",65
 "AS398101","GoDaddy.com, LLC",65
@@ -297,10 +297,10 @@ ASN,Organization,IP_Count
 "AS2200","Renater",26
 "AS3209","Vodafone GmbH",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
+"AS16591","Google Fiber Inc.",25
 "AS18881","TELEFÔNICA BRASIL S.A",25
 "AS58224","Iran Telecommunication Company PJS",25
 "AS12479","Orange Espagne SA",24
-"AS16591","Google Fiber Inc.",24
 "AS17072","TOTAL PLAY TELECOMUNICACIONES SA DE CV",24
 "AS197309","RS-Media LLC",24
 "AS3257","GTT Communications Inc.",24
