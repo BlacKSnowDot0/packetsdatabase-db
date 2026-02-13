@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88104
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22487
-"AS398324","Censys, Inc.",16797
+"AS398324","Censys, Inc.",16800
 "AS32934","Facebook, Inc.",16787
-"AS396982","Google LLC",11166
-"AS14061","DigitalOcean, LLC",9075
+"AS396982","Google LLC",11167
+"AS14061","DigitalOcean, LLC",9077
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6261
 "AS4134","Chinanet",5293
@@ -13,14 +13,14 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4481
 "AS45102","Alibaba (US) Technology Co., Ltd.",4452
-"AS0","",4202
+"AS0","",4204
 "AS396998","Path Network, Inc.",3992
 "AS63949","Akamai Technologies, Inc.",3794
 "AS15169","Google LLC",3608
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3104
-"AS6939","Hurricane Electric LLC",3062
+"AS6939","Hurricane Electric LLC",3063
 "AS23470","ReliableSite.Net LLC",2827
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
@@ -79,13 +79,13 @@ ASN,Organization,IP_Count
 "AS7713","Telekomunikasi Indonesia (PT)",368
 "AS7922","Comcast Cable Communications, LLC",358
 "AS8151","Uninet S.A. de C.V.",346
-"AS208843","Alpha Strike Labs GmbH",341
+"AS208843","Alpha Strike Labs GmbH",342
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS141718","haoxiangyun",330
 "AS45899","VNPT Corp",321
 "AS213613","BOTSHIELD LTD",318
 "AS214943","Railnet LLC",318
-"AS32475","SingleHop LLC",311
+"AS32475","SingleHop LLC",312
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",310
 "AS24863","LINKdotNET AS number",308
 "AS9341","PT Indonesia Comnets Plus",297
@@ -234,13 +234,13 @@ ASN,Organization,IP_Count
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",39
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",39
 "AS8048","CANTV Servicios, Venezuela",39
+"AS8796","FD-298-8796",39
 "AS9198","JSC Kazakhtelecom",39
 "AS13213","UK-2 Limited",38
 "AS149705","PT Wijaya Trimitra Indonesia",38
 "AS1680","Cellcom Fixed Line Communication L.P",38
 "AS197540","netcup GmbH",38
 "AS269193","Iktelecom Ltda",38
-"AS8796","FD-298-8796",38
 "AS136142","Enigma Fiber Pvt Ltd",37
 "AS42624","Global-Data System IT Corporation",37
 "AS55933","Cloudie Limited",37
@@ -282,13 +282,13 @@ ASN,Organization,IP_Count
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS141679","China Telecom",28
+"AS17995","PT iForte Global Internet",28
 "AS23693","PT. Telekomunikasi Selular",28
 "AS24940","Hetzner Online GmbH",28
 "AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",28
 "AS30860","Virtual Systems LLC",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS7303","Telecom Argentina S.A.",28
-"AS17995","PT iForte Global Internet",27
 "AS34534","FBW NETWORKS SAS",27
 "AS53118","NETLINE TELECOM",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
@@ -543,6 +543,7 @@ ASN,Organization,IP_Count
 "AS137697","CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou , Jiangsu Province, P.",8
 "AS140869","Turing Group Limited",8
 "AS141295","Madhya Pradesh Agency For Promotion   Of Information Technology",8
+"AS15557","Societe Francaise Du Radiotelephone - SFR SA",8
 "AS17882","MCS Com Co Ltd",8
 "AS18209","Atria Convergence Technologies Pvt. Ltd.,",8
 "AS18986","Calligo (Canada) Inc.",8
@@ -585,7 +586,6 @@ ASN,Organization,IP_Count
 "AS150034","FOFO NETWORKS PVT LTD",7
 "AS152605","Z COM NETWORKS",7
 "AS153096","PT High Speed Connection Network",7
-"AS15557","Societe Francaise Du Radiotelephone - SFR SA",7
 "AS16010","Magticom Ltd.",7
 "AS17762","Tata Teleservices (Maharashtra) Ltd",7
 "AS19148","Leaseweb USA, Inc.",7
@@ -3303,6 +3303,7 @@ ASN,Organization,IP_Count
 "AS61584","GL DUARTE MULTIMIDIA LTDA ME",1
 "AS61587","C. HOKI DA COSTA E CIA LTDA - ME",1
 "AS61588","DIGITAL PROVEDOR DE ACESSO A INTERNET LTDA",1
+"AS61614","67 TELECOM",1
 "AS61615","FALE S.A.",1
 "AS61642","NEXNETT Brasil Telecom",1
 "AS61648","PLAYIP TELECOM LTDA.",1
