@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88104
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22491
-"AS398324","Censys, Inc.",16823
+"AS398324","Censys, Inc.",16826
 "AS32934","Facebook, Inc.",16787
 "AS396982","Google LLC",11168
-"AS14061","DigitalOcean, LLC",9090
+"AS14061","DigitalOcean, LLC",9091
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6268
 "AS4134","Chinanet",5294
@@ -28,7 +28,7 @@ ASN,Organization,IP_Count
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
 "AS13335","Cloudflare, Inc.",1754
-"AS49870","Alsycon B.V.",1717
+"AS49870","Alsycon B.V.",1718
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1591
 "AS36352","HostPapa",1583
@@ -69,7 +69,7 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",485
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",449
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",450
 "AS21859","Zenlayer Inc",431
 "AS24186","RailTel Corporation of India Ltd.",415
 "AS47890","UNMANAGED LTD",408
@@ -113,7 +113,7 @@ ASN,Organization,IP_Count
 "AS401116","Nybula LLC",170
 "AS14956","RouterHosting LLC",169
 "AS262551","Farol Telecom",163
-"AS4766","Korea Telecom",162
+"AS4766","Korea Telecom",163
 "AS206264","Amarutu Technology Ltd",153
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",145
 "AS6739","VODAFONE ONO, S.A.",145
@@ -161,8 +161,8 @@ ASN,Organization,IP_Count
 "AS57588","Hayat for Internet & communication LLC",73
 "AS20001","Charter Communications Inc",71
 "AS149746","PT Blip Integrator Provider",70
+"AS55803","Hostopia Australia Web Pty Ltd",70
 "AS52053","REDHEBERG Association declaree",69
-"AS55803","Hostopia Australia Web Pty Ltd",69
 "AS834","IPXO LLC",69
 "AS5650","Frontier Communications of America, Inc.",68
 "AS215590","DpkgSoft International Limited",67
