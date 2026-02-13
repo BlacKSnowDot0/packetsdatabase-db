@@ -1,13 +1,13 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88104
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22485
-"AS398324","Censys, Inc.",16793
+"AS211298","Driftnet Ltd",22487
+"AS398324","Censys, Inc.",16797
 "AS32934","Facebook, Inc.",16787
-"AS396982","Google LLC",11165
-"AS14061","DigitalOcean, LLC",9074
+"AS396982","Google LLC",11166
+"AS14061","DigitalOcean, LLC",9075
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6260
+"AS16276","OVH SAS",6261
 "AS4134","Chinanet",5293
 "AS16509","Amazon.com, Inc.",4564
 "AS6568","Entel S.A. - EntelNet",4537
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3104
 "AS6939","Hurricane Electric LLC",3062
-"AS23470","ReliableSite.Net LLC",2826
+"AS23470","ReliableSite.Net LLC",2827
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
 "AS202425","IP Volume inc",2218
@@ -31,7 +31,7 @@ ASN,Organization,IP_Count
 "AS49870","Alsycon B.V.",1716
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1591
-"AS36352","HostPapa",1579
+"AS36352","HostPapa",1580
 "AS398722","Censys, Inc.",1491
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1068
-"AS51167","Contabo GmbH",1050
+"AS51167","Contabo GmbH",1052
 "AS20052","Arbor Networks, Inc.",921
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",884
@@ -55,7 +55,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",808
 "AS211680","NSEC - Sistemas Informaticos, S.A.",805
 "AS12876","ONLINE S.A.S.",674
-"AS51115","HLL LLC",672
+"AS51115","HLL LLC",673
 "AS4837","CHINA UNICOM China169 Backbone",659
 "AS9829","Bharat Sanchar Nigam Ltd",625
 "AS201814","MEVSPACE sp. z o.o.",613
@@ -79,19 +79,19 @@ ASN,Organization,IP_Count
 "AS7713","Telekomunikasi Indonesia (PT)",368
 "AS7922","Comcast Cable Communications, LLC",358
 "AS8151","Uninet S.A. de C.V.",346
-"AS208843","Alpha Strike Labs GmbH",340
+"AS208843","Alpha Strike Labs GmbH",341
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS141718","haoxiangyun",330
 "AS45899","VNPT Corp",321
 "AS213613","BOTSHIELD LTD",318
 "AS214943","Railnet LLC",318
+"AS32475","SingleHop LLC",311
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",310
 "AS24863","LINKdotNET AS number",308
-"AS32475","SingleHop LLC",308
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS18403","FPT Telecom Company",280
-"AS48090","TECHOFF SRV LIMITED",269
+"AS48090","TECHOFF SRV LIMITED",271
 "AS12389","PJSC Rostelecom",257
 "AS29066","velia.net Internetdienste GmbH",251
 "AS60223","Netiface Limited",251
@@ -133,9 +133,9 @@ ASN,Organization,IP_Count
 "AS11320","LightEdge Solutions",107
 "AS199785","Cloud Hosting Solutions, Limited.",107
 "AS23724","IDC, China Telecommunications Corporation",104
+"AS16735","ALGAR TELECOM S/A",103
 "AS28209","Under Servicos de Internet Ltda",103
 "AS136435","ELITE COMMUNICATION",102
-"AS16735","ALGAR TELECOM S/A",102
 "AS45753","Netsec Limited",98
 "AS63018","Dedicated.com",97
 "AS205352","KABELNET LTD",93
@@ -144,8 +144,8 @@ ASN,Organization,IP_Count
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",88
 "AS8402","PJSC ""Vimpelcom""",88
 "AS271795","SERVITELCONET CIA. LTDA.",85
+"AS55720","Gigabit Hosting Sdn Bhd",85
 "AS58461","Chinanet",85
-"AS55720","Gigabit Hosting Sdn Bhd",84
 "AS200019","ALEXHOST SRL",83
 "AS40676","Psychz Networks",82
 "AS22773","Cox Communications Inc.",81
@@ -385,6 +385,7 @@ ASN,Organization,IP_Count
 "AS140726","China Unicom",16
 "AS17621","China Unicom Shanghai network",16
 "AS17639","ComClark Network & Technology Corp",16
+"AS212027","Daniel Jackson",16
 "AS214309","Aurorix Gaming Solutions Limited",16
 "AS25198","INTERKVM HOST SRL",16
 "AS328539","Giga for Telecommunication and Technology Limited",16
@@ -404,7 +405,6 @@ ASN,Organization,IP_Count
 "AS202448","MVPS LTD",15
 "AS202520","SkyPass Solutions Sp. z.o.o.",15
 "AS211619","MAXKO d.o.o.",15
-"AS212027","Daniel Jackson",15
 "AS214209","Internet Magnate (Pty) Ltd",15
 "AS263767","CORPORACIÓN GALA IT, C.A.",15
 "AS272547","Servicos de Infraestrutura e Datacenter",15
@@ -1712,6 +1712,7 @@ ASN,Organization,IP_Count
 "AS131210","2713/4 lakshmi building adipampa road v.v.mohalla",1
 "AS131398","LOTTE INNOVATE VIETNAM COMPANY LIMITED",1
 "AS131445","ADVANCED WIRELESS NETWORK COMPANY LIMITED",1
+"AS131773","PT WISUANDHA NETWORK GLOBALINDO",1
 "AS13178","LLC ""Real-net""",1
 "AS13189","Liden Data Internetwork AB",1
 "AS132115","INDINET SERVICE PRIVATE LIMITED",1
