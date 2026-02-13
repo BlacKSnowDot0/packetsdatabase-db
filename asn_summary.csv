@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88104
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22491
-"AS398324","Censys, Inc.",16826
+"AS211298","Driftnet Ltd",22492
+"AS398324","Censys, Inc.",16828
 "AS32934","Facebook, Inc.",16787
 "AS396982","Google LLC",11168
 "AS14061","DigitalOcean, LLC",9091
@@ -42,7 +42,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
-"AS208684","BHA CONSEIL SARL",1070
+"AS208684","BHA CONSEIL SARL",1071
 "AS51167","Contabo GmbH",1055
 "AS20052","Arbor Networks, Inc.",921
 "AS51852","Private Layer INC",907
@@ -85,7 +85,7 @@ ASN,Organization,IP_Count
 "AS45899","VNPT Corp",321
 "AS213613","BOTSHIELD LTD",318
 "AS214943","Railnet LLC",318
-"AS32475","SingleHop LLC",316
+"AS32475","SingleHop LLC",317
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",310
 "AS24863","LINKdotNET AS number",308
 "AS9341","PT Indonesia Comnets Plus",297
@@ -96,7 +96,7 @@ ASN,Organization,IP_Count
 "AS29066","velia.net Internetdienste GmbH",251
 "AS60223","Netiface Limited",251
 "AS29484","Ruhr-Universitaet Bochum",250
-"AS8560","IONOS SE",246
+"AS8560","IONOS SE",247
 "AS701","Verizon Business",237
 "AS209272","Alviva Holding Limited",230
 "AS12555","Data-center IMAQLIQ Ltd.",223
@@ -290,10 +290,10 @@ ASN,Organization,IP_Count
 "AS30860","Virtual Systems LLC",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS7303","Telecom Argentina S.A.",28
+"AS16611","InfiniaHost.com",27
 "AS34534","FBW NETWORKS SAS",27
 "AS53118","NETLINE TELECOM",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
-"AS16611","InfiniaHost.com",26
 "AS209","CenturyLink Communications, LLC",26
 "AS2200","Renater",26
 "AS3209","Vodafone GmbH",26
