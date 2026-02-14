@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88104
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22492
-"AS398324","Censys, Inc.",16836
+"AS398324","Censys, Inc.",16838
 "AS32934","Facebook, Inc.",16787
-"AS396982","Google LLC",11168
+"AS396982","Google LLC",11169
 "AS14061","DigitalOcean, LLC",9093
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6268
@@ -13,18 +13,18 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4482
 "AS45102","Alibaba (US) Technology Co., Ltd.",4457
-"AS0","",4223
+"AS0","",4225
 "AS396998","Path Network, Inc.",3991
 "AS63949","Akamai Technologies, Inc.",3794
 "AS15169","Google LLC",3629
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3108
-"AS6939","Hurricane Electric LLC",3065
+"AS6939","Hurricane Electric LLC",3066
 "AS23470","ReliableSite.Net LLC",2827
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
-"AS202425","IP Volume inc",2223
+"AS202425","IP Volume inc",2224
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
 "AS13335","Cloudflare, Inc.",1754
@@ -35,14 +35,14 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1492
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
-"AS174","Cogent Communications",1326
+"AS174","Cogent Communications",1327
 "AS215269","LAZYCLOUD LTD",1312
-"AS22552","eSited Solutions",1209
+"AS22552","eSited Solutions",1210
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
-"AS208684","BHA CONSEIL SARL",1071
+"AS208684","BHA CONSEIL SARL",1072
 "AS51167","Contabo GmbH",1055
 "AS20052","Arbor Networks, Inc.",921
 "AS51852","Private Layer INC",907
@@ -83,9 +83,9 @@ ASN,Organization,IP_Count
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS141718","haoxiangyun",330
 "AS45899","VNPT Corp",321
+"AS32475","SingleHop LLC",319
 "AS213613","BOTSHIELD LTD",318
 "AS214943","Railnet LLC",318
-"AS32475","SingleHop LLC",318
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",310
 "AS24863","LINKdotNET AS number",308
 "AS9341","PT Indonesia Comnets Plus",297
@@ -697,6 +697,7 @@ ASN,Organization,IP_Count
 "AS11492","CABLE ONE, INC.",5
 "AS12714","PJSC MegaFon",5
 "AS131090","CAT Telecom Public Company Limited",5
+"AS131414","Long Van Soft Solution JSC",5
 "AS13188","CONTENT DELIVERY NETWORK LTD",5
 "AS13285","TalkTalk Communications Limited",5
 "AS13489","EPM Telecomunicaciones S.A. E.S.P.",5
@@ -809,11 +810,11 @@ ASN,Organization,IP_Count
 "AS12586","GHOSTnet GmbH",4
 "AS12735","TurkNet Iletisim Hizmetleri A.S.",4
 "AS13110","INEA sp. z o.o.",4
-"AS131414","Long Van Soft Solution JSC",4
 "AS131429","MOBIFONE Corporation",4
 "AS131607","Digidom CableTV Co., LTD.",4
 "AS132199","Globe Telecom Inc.",4
 "AS136009","SpeedNet",4
+"AS136052","PT Cloud Hosting Indonesia",4
 "AS136121","PT Digital Media Telematika",4
 "AS136280","Costel Networks P Ltd",4
 "AS137453","Orange Communication",4
@@ -948,7 +949,6 @@ ASN,Organization,IP_Count
 "AS13576","SOUTH DAKOTA NETWORK",3
 "AS135882","Spark Online",3
 "AS135967","Bach Kim Network solutions Join stock company",3
-"AS136052","PT Cloud Hosting Indonesia",3
 "AS13720","Daybreak Game Company LLC",3
 "AS137236","TURBOTECH CO., LTD.",3
 "AS137449","SKYNET CHOWMUHANI",3
