@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4482
 "AS45102","Alibaba (US) Technology Co., Ltd.",4462
-"AS0","",4247
+"AS0","",4248
 "AS396998","Path Network, Inc.",3991
 "AS63949","Akamai Technologies, Inc.",3794
 "AS15169","Google LLC",3629
@@ -42,8 +42,8 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
-"AS208684","BHA CONSEIL SARL",1075
-"AS51167","Contabo GmbH",1065
+"AS208684","BHA CONSEIL SARL",1076
+"AS51167","Contabo GmbH",1066
 "AS20052","Arbor Networks, Inc.",921
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",884
@@ -82,7 +82,7 @@ ASN,Organization,IP_Count
 "AS208843","Alpha Strike Labs GmbH",345
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS141718","haoxiangyun",332
-"AS32475","SingleHop LLC",324
+"AS32475","SingleHop LLC",325
 "AS45899","VNPT Corp",321
 "AS213613","BOTSHIELD LTD",318
 "AS214943","Railnet LLC",318
@@ -182,9 +182,9 @@ ASN,Organization,IP_Count
 "AS202796","JSR IT B.V.",62
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",62
 "AS140717","China Unicom",61
+"AS28546","Servnet Mexico, S.A. de C.V.",61
 "AS4812","China Telecom (Group)",61
 "AS137172","ALL CONNECT NETWORK SERVICES PRIVATE LIMITED",60
-"AS28546","Servnet Mexico, S.A. de C.V.",60
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS12816","Leibniz-Rechenzentrum",59
 "AS49544","i3D.net B.V",59
