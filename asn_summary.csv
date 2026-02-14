@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88104
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22496
-"AS398324","Censys, Inc.",16861
+"AS398324","Censys, Inc.",16862
 "AS32934","Facebook, Inc.",16787
 "AS396982","Google LLC",11175
-"AS14061","DigitalOcean, LLC",9101
+"AS14061","DigitalOcean, LLC",9102
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6275
 "AS4134","Chinanet",5294
@@ -13,18 +13,18 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4482
 "AS45102","Alibaba (US) Technology Co., Ltd.",4462
-"AS0","",4242
+"AS0","",4244
 "AS396998","Path Network, Inc.",3991
 "AS63949","Akamai Technologies, Inc.",3794
 "AS15169","Google LLC",3629
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3110
+"AS8075","Microsoft Corporation",3111
 "AS6939","Hurricane Electric LLC",3070
 "AS23470","ReliableSite.Net LLC",2827
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
-"AS202425","IP Volume inc",2227
+"AS202425","IP Volume inc",2228
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
 "AS13335","Cloudflare, Inc.",1754
@@ -516,6 +516,7 @@ ASN,Organization,IP_Count
 "AS138089","PT.Global Media Data Prima",9
 "AS138754","Kerala Vision Broad Band Private Limited",9
 "AS139994","PT XL Axiata Tbk",9
+"AS15557","Societe Francaise Du Radiotelephone - SFR SA",9
 "AS17451","BIZNET NETWORKS",9
 "AS17858","LG POWERCOMM",9
 "AS198253","Kukushkin Anatoly Valerievich",9
@@ -543,7 +544,6 @@ ASN,Organization,IP_Count
 "AS137697","CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou , Jiangsu Province, P.",8
 "AS140869","Turing Group Limited",8
 "AS141295","Madhya Pradesh Agency For Promotion   Of Information Technology",8
-"AS15557","Societe Francaise Du Radiotelephone - SFR SA",8
 "AS17882","MCS Com Co Ltd",8
 "AS18209","Atria Convergence Technologies Pvt. Ltd.,",8
 "AS18986","Calligo (Canada) Inc.",8
