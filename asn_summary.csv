@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88104
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22495
-"AS398324","Censys, Inc.",16839
+"AS398324","Censys, Inc.",16844
 "AS32934","Facebook, Inc.",16787
-"AS396982","Google LLC",11170
+"AS396982","Google LLC",11172
 "AS14061","DigitalOcean, LLC",9095
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6270
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4482
 "AS45102","Alibaba (US) Technology Co., Ltd.",4457
-"AS0","",4225
+"AS0","",4226
 "AS396998","Path Network, Inc.",3991
 "AS63949","Akamai Technologies, Inc.",3794
 "AS15169","Google LLC",3629
@@ -42,8 +42,8 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
-"AS208684","BHA CONSEIL SARL",1072
-"AS51167","Contabo GmbH",1056
+"AS208684","BHA CONSEIL SARL",1073
+"AS51167","Contabo GmbH",1057
 "AS20052","Arbor Networks, Inc.",921
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",884
@@ -91,7 +91,7 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS18403","FPT Telecom Company",281
-"AS48090","TECHOFF SRV LIMITED",272
+"AS48090","TECHOFF SRV LIMITED",273
 "AS12389","PJSC Rostelecom",257
 "AS29066","velia.net Internetdienste GmbH",251
 "AS60223","Netiface Limited",251
@@ -105,7 +105,7 @@ ASN,Organization,IP_Count
 "AS50219","LNK SYSTEMS MUNTENIA SRL",215
 "AS63199","CDS Global Cloud Co., Ltd",215
 "AS19905","Neustar Security Services",212
-"AS34984","Superonline Iletisim Hizmetleri A.S.",205
+"AS34984","Superonline Iletisim Hizmetleri A.S.",206
 "AS42237","w1n ltd",189
 "AS7552","Viettel Group",187
 "AS30083","velia.net",178
@@ -145,8 +145,8 @@ ASN,Organization,IP_Count
 "AS8402","PJSC ""Vimpelcom""",88
 "AS55720","Gigabit Hosting Sdn Bhd",86
 "AS271795","SERVITELCONET CIA. LTDA.",85
+"AS40676","Psychz Networks",85
 "AS58461","Chinanet",85
-"AS40676","Psychz Networks",84
 "AS200019","ALEXHOST SRL",83
 "AS22773","Cox Communications Inc.",81
 "AS56046","China Mobile Communications Corporation",80
@@ -284,13 +284,13 @@ ASN,Organization,IP_Count
 "AS8881","1&1 Versatel Deutschland GmbH",29
 "AS9931","CAT Telecom Public Company Limited",29
 "AS141679","China Telecom",28
+"AS16611","InfiniaHost.com",28
 "AS17995","PT iForte Global Internet",28
 "AS23693","PT. Telekomunikasi Selular",28
 "AS24940","Hetzner Online GmbH",28
 "AS30860","Virtual Systems LLC",28
 "AS55577","Atria Convergence Technologies Pvt. Ltd.,",28
 "AS7303","Telecom Argentina S.A.",28
-"AS16611","InfiniaHost.com",27
 "AS34534","FBW NETWORKS SAS",27
 "AS53118","NETLINE TELECOM",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
@@ -429,6 +429,7 @@ ASN,Organization,IP_Count
 "AS37105","RAIN GROUP HOLDINGS (PTY) LTD",14
 "AS37611","Afrihost (Pty) Ltd",14
 "AS38527","JAWA POS NATIONAL NETWORK MEDIALINK, PT",14
+"AS38841","kbro CO. Ltd.",14
 "AS4808","China Unicom Beijing Province Network",14
 "AS48721","Flyservers S.A.",14
 "AS9318","SK Broadband Co Ltd",14
@@ -448,7 +449,6 @@ ASN,Organization,IP_Count
 "AS27747","Telecentro S.A.",13
 "AS28840","PJSC ""TATTELECOM""",13
 "AS29465","MTN NIGERIA Communication limited",13
-"AS38841","kbro CO. Ltd.",13
 "AS50304","Blix Solutions AS",13
 "AS9770","LG HelloVision Corp.",13
 "AS11172","Alestra, S. de R.L. de C.V.",12
@@ -794,6 +794,7 @@ ASN,Organization,IP_Count
 "AS59504","LLC Vpsville",5
 "AS60064","HOSTPALACE DATACENTERS LTD",5
 "AS61135","COMNET BILGI ILETISIM TEKNOLOJILERI TICARET A.S.",5
+"AS61414","EDGENAP LTD",5
 "AS62468","VpsQuan L.L.C.",5
 "AS63526","Systems Solutions & development Technologies Limited",5
 "AS786","Jisc Services Limited",5
@@ -918,7 +919,6 @@ ASN,Organization,IP_Count
 "AS58369","PT. Fiber Networks Indonesia",4
 "AS59142","Pemerintah Kota Batam",4
 "AS60404","The Infrastructure Group B.V.",4
-"AS61414","EDGENAP LTD",4
 "AS7482","Asia Pacific On-line Service Inc.",4
 "AS7545","TPG Internet Pty Ltd",4
 "AS8376","Jordan Data Communications Company LLC",4
