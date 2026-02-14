@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88104
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22496
-"AS398324","Censys, Inc.",16860
+"AS398324","Censys, Inc.",16861
 "AS32934","Facebook, Inc.",16787
 "AS396982","Google LLC",11175
 "AS14061","DigitalOcean, LLC",9101
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4482
 "AS45102","Alibaba (US) Technology Co., Ltd.",4462
-"AS0","",4240
+"AS0","",4242
 "AS396998","Path Network, Inc.",3991
 "AS63949","Akamai Technologies, Inc.",3794
 "AS15169","Google LLC",3629
@@ -42,7 +42,7 @@ ASN,Organization,IP_Count
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
-"AS208684","BHA CONSEIL SARL",1074
+"AS208684","BHA CONSEIL SARL",1075
 "AS51167","Contabo GmbH",1062
 "AS20052","Arbor Networks, Inc.",921
 "AS51852","Private Layer INC",907
@@ -91,7 +91,7 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS18403","FPT Telecom Company",281
-"AS48090","TECHOFF SRV LIMITED",273
+"AS48090","TECHOFF SRV LIMITED",275
 "AS12389","PJSC Rostelecom",257
 "AS29066","velia.net Internetdienste GmbH",251
 "AS60223","Netiface Limited",251
