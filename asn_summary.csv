@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2827
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
-"AS202425","IP Volume inc",2230
+"AS202425","IP Volume inc",2231
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
 "AS13335","Cloudflare, Inc.",1754
@@ -93,9 +93,9 @@ ASN,Organization,IP_Count
 "AS18403","FPT Telecom Company",281
 "AS48090","TECHOFF SRV LIMITED",275
 "AS12389","PJSC Rostelecom",257
+"AS8560","IONOS SE",252
 "AS29066","velia.net Internetdienste GmbH",251
 "AS60223","Netiface Limited",251
-"AS8560","IONOS SE",251
 "AS29484","Ruhr-Universitaet Bochum",250
 "AS701","Verizon Business",237
 "AS209272","Alviva Holding Limited",230
@@ -106,7 +106,7 @@ ASN,Organization,IP_Count
 "AS63199","CDS Global Cloud Co., Ltd",215
 "AS19905","Neustar Security Services",214
 "AS34984","Superonline Iletisim Hizmetleri A.S.",206
-"AS42237","w1n ltd",189
+"AS42237","w1n ltd",190
 "AS7552","Viettel Group",187
 "AS30083","velia.net",178
 "AS215240","Silent Connection Ltd.",175
@@ -237,6 +237,7 @@ ASN,Organization,IP_Count
 "AS329009","Spectrum Internet Service Ltd",39
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",39
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",39
+"AS55933","Cloudie Limited",39
 "AS8048","CANTV Servicios, Venezuela",39
 "AS8796","FD-298-8796",39
 "AS9198","JSC Kazakhtelecom",39
@@ -246,7 +247,6 @@ ASN,Organization,IP_Count
 "AS269193","Iktelecom Ltda",38
 "AS136142","Enigma Fiber Pvt Ltd",37
 "AS42624","Global-Data System IT Corporation",37
-"AS55933","Cloudie Limited",37
 "AS215703","ALEXANDRU VLAD trading as FREAKHOSTING",36
 "AS15964","CAMEROON TELECOMMUNICATIONS NETWORK",35
 "AS213790","Limited Network LTD",35
