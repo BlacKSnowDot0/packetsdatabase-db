@@ -2,13 +2,13 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88107
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22496
-"AS398324","Censys, Inc.",16866
+"AS398324","Censys, Inc.",16867
 "AS32934","Facebook, Inc.",16787
 "AS396982","Google LLC",11175
 "AS14061","DigitalOcean, LLC",9104
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6277
-"AS4134","Chinanet",5294
+"AS4134","Chinanet",5295
 "AS16509","Amazon.com, Inc.",4568
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4482
@@ -82,7 +82,7 @@ ASN,Organization,IP_Count
 "AS208843","Alpha Strike Labs GmbH",345
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS141718","haoxiangyun",332
-"AS32475","SingleHop LLC",322
+"AS32475","SingleHop LLC",323
 "AS45899","VNPT Corp",321
 "AS213613","BOTSHIELD LTD",318
 "AS214943","Railnet LLC",318
@@ -160,6 +160,7 @@ ASN,Organization,IP_Count
 "AS2856","British Telecommunications PLC",75
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",74
 "AS57588","Hayat for Internet & communication LLC",73
+"AS134041","Ncore Creative Technologies Pvt.Ltd.",71
 "AS20001","Charter Communications Inc",71
 "AS149746","PT Blip Integrator Provider",70
 "AS52053","REDHEBERG Association declaree",69
