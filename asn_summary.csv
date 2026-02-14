@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88104
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22495
-"AS398324","Censys, Inc.",16844
+"AS398324","Censys, Inc.",16845
 "AS32934","Facebook, Inc.",16787
-"AS396982","Google LLC",11172
+"AS396982","Google LLC",11173
 "AS14061","DigitalOcean, LLC",9095
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6270
+"AS16276","OVH SAS",6271
 "AS4134","Chinanet",5294
 "AS16509","Amazon.com, Inc.",4568
 "AS6568","Entel S.A. - EntelNet",4537
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3109
-"AS6939","Hurricane Electric LLC",3066
+"AS6939","Hurricane Electric LLC",3068
 "AS23470","ReliableSite.Net LLC",2827
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
@@ -32,7 +32,7 @@ ASN,Organization,IP_Count
 "AS214295","SKYNET NETWORK LTD",1631
 "AS209605","UAB Host Baltic",1591
 "AS36352","HostPapa",1584
-"AS398722","Censys, Inc.",1492
+"AS398722","Censys, Inc.",1493
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
 "AS174","Cogent Communications",1327
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS10439","CariNet, Inc.",824
-"AS14618","Amazon.com, Inc.",816
+"AS14618","Amazon.com, Inc.",817
 "AS211680","NSEC - Sistemas Informaticos, S.A.",810
 "AS8452","TE-AS",808
 "AS51115","HLL LLC",676
@@ -82,8 +82,8 @@ ASN,Organization,IP_Count
 "AS208843","Alpha Strike Labs GmbH",344
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS141718","haoxiangyun",330
+"AS32475","SingleHop LLC",321
 "AS45899","VNPT Corp",321
-"AS32475","SingleHop LLC",320
 "AS213613","BOTSHIELD LTD",318
 "AS214943","Railnet LLC",318
 "AS37963","Hangzhou Alibaba Advertising Co.,Ltd.",310
