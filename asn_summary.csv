@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88109
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22496
-"AS398324","Censys, Inc.",16868
+"AS398324","Censys, Inc.",16871
 "AS32934","Facebook, Inc.",16787
 "AS396982","Google LLC",11175
-"AS14061","DigitalOcean, LLC",9104
+"AS14061","DigitalOcean, LLC",9106
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6277
 "AS4134","Chinanet",5295
@@ -35,7 +35,7 @@ ASN,Organization,IP_Count
 "AS398722","Censys, Inc.",1493
 "AS43260","DGN TEKNOLOJI A.S.",1447
 "AS48925","VibeGAMES B.V.",1426
-"AS174","Cogent Communications",1328
+"AS174","Cogent Communications",1329
 "AS215269","LAZYCLOUD LTD",1312
 "AS22552","eSited Solutions",1211
 "AS204428","SS-Net",1182
@@ -70,7 +70,7 @@ ASN,Organization,IP_Count
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",485
 "AS136180","Beijing Tiantexin Tech. Co., Ltd.",450
-"AS21859","Zenlayer Inc",431
+"AS21859","Zenlayer Inc",432
 "AS24186","RailTel Corporation of India Ltd.",415
 "AS47890","UNMANAGED LTD",408
 "AS21299","Kar-Tel LLC",406
@@ -82,7 +82,7 @@ ASN,Organization,IP_Count
 "AS208843","Alpha Strike Labs GmbH",345
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS141718","haoxiangyun",332
-"AS32475","SingleHop LLC",323
+"AS32475","SingleHop LLC",324
 "AS45899","VNPT Corp",321
 "AS213613","BOTSHIELD LTD",318
 "AS214943","Railnet LLC",318
@@ -143,7 +143,7 @@ ASN,Organization,IP_Count
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",89
 "AS8402","PJSC ""Vimpelcom""",88
-"AS40676","Psychz Networks",86
+"AS40676","Psychz Networks",87
 "AS55720","Gigabit Hosting Sdn Bhd",86
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
@@ -183,6 +183,7 @@ ASN,Organization,IP_Count
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",62
 "AS140717","China Unicom",61
 "AS4812","China Telecom (Group)",61
+"AS137172","ALL CONNECT NETWORK SERVICES PRIVATE LIMITED",60
 "AS28546","Servnet Mexico, S.A. de C.V.",60
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS12816","Leibniz-Rechenzentrum",59
