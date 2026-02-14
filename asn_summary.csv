@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",16871
 "AS32934","Facebook, Inc.",16787
 "AS396982","Google LLC",11175
-"AS14061","DigitalOcean, LLC",9107
+"AS14061","DigitalOcean, LLC",9108
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6277
 "AS4134","Chinanet",5295
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4482
 "AS45102","Alibaba (US) Technology Co., Ltd.",4462
-"AS0","",4248
+"AS0","",4260
 "AS396998","Path Network, Inc.",3991
 "AS63949","Akamai Technologies, Inc.",3794
 "AS15169","Google LLC",3629
@@ -101,7 +101,7 @@ ASN,Organization,IP_Count
 "AS209272","Alviva Holding Limited",230
 "AS12555","Data-center IMAQLIQ Ltd.",224
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
-"AS14987","Rethem Hosting LLC",215
+"AS14987","Rethem Hosting LLC",220
 "AS50219","LNK SYSTEMS MUNTENIA SRL",215
 "AS63199","CDS Global Cloud Co., Ltd",215
 "AS19905","Neustar Security Services",214
@@ -112,7 +112,7 @@ ASN,Organization,IP_Count
 "AS215240","Silent Connection Ltd.",175
 "AS401116","Nybula LLC",170
 "AS14956","RouterHosting LLC",169
-"AS4766","Korea Telecom",164
+"AS4766","Korea Telecom",165
 "AS262551","Farol Telecom",163
 "AS206264","Amarutu Technology Ltd",153
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",147
