@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4482
 "AS45102","Alibaba (US) Technology Co., Ltd.",4464
-"AS0","",4273
+"AS0","",4274
 "AS396998","Path Network, Inc.",3991
 "AS63949","Akamai Technologies, Inc.",3794
 "AS15169","Google LLC",3629
@@ -41,7 +41,7 @@ ASN,Organization,IP_Count
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
-"AS51167","Contabo GmbH",1082
+"AS51167","Contabo GmbH",1083
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1076
 "AS20052","Arbor Networks, Inc.",921
@@ -297,11 +297,11 @@ ASN,Organization,IP_Count
 "AS34534","FBW NETWORKS SAS",27
 "AS53118","NETLINE TELECOM",27
 "AS6400","Compañía Dominicana de Teléfonos S. A.",27
+"AS16591","Google Fiber Inc.",26
 "AS209","CenturyLink Communications, LLC",26
 "AS2200","Renater",26
 "AS3209","Vodafone GmbH",26
 "AS61272","Informacines sistemos ir technologijos, UAB",26
-"AS16591","Google Fiber Inc.",25
 "AS18881","TELEFÔNICA BRASIL S.A",25
 "AS58224","Iran Telecommunication Company PJS",25
 "AS12479","Orange Espagne SA",24
@@ -392,6 +392,7 @@ ASN,Organization,IP_Count
 "AS17639","ComClark Network & Technology Corp",16
 "AS212027","Daniel Jackson",16
 "AS214309","Aurorix Gaming Solutions Limited",16
+"AS24445","China Mobile",16
 "AS25198","INTERKVM HOST SRL",16
 "AS328539","Giga for Telecommunication and Technology Limited",16
 "AS3352","TELEFONICA DE ESPANA S.A.U.",16
@@ -409,7 +410,6 @@ ASN,Organization,IP_Count
 "AS202520","SkyPass Solutions Sp. z.o.o.",15
 "AS211619","MAXKO d.o.o.",15
 "AS214209","Internet Magnate (Pty) Ltd",15
-"AS24445","China Mobile",15
 "AS263767","CORPORACIÓN GALA IT, C.A.",15
 "AS269076","L DA COSTA SILVA COMUNICACOES",15
 "AS272547","Servicos de Infraestrutura e Datacenter",15
