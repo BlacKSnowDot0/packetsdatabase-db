@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",16913
 "AS32934","Facebook, Inc.",16787
 "AS396982","Google LLC",11181
-"AS14061","DigitalOcean, LLC",9118
+"AS14061","DigitalOcean, LLC",9119
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6288
 "AS4134","Chinanet",5295
@@ -259,6 +259,7 @@ ASN,Organization,IP_Count
 "AS4847","China Networks Inter-Exchange",34
 "AS9304","HGC Global Communications Limited",34
 "AS45671","Servers Australia Pty. Ltd",33
+"AS7018","AT&T Services, Inc.",33
 "AS9498","Bharti Airtel Limited",33
 "AS263355","GTR NET COMUNICACOES EIRELI",32
 "AS36947","Telecom Algeria",32
@@ -271,7 +272,6 @@ ASN,Organization,IP_Count
 "AS2914","NTT America, Inc.",31
 "AS3786","LG DACOM Corporation",31
 "AS58212","dataforest GmbH",31
-"AS7018","AT&T Services, Inc.",31
 "AS132203","Shenzhen Tencent Computer Systems Company Limited",30
 "AS200593","PROSPERO OOO",30
 "AS214417","Andrii Hrosh",30
@@ -384,6 +384,7 @@ ASN,Organization,IP_Count
 "AS50340","JSC Selectel",17
 "AS56630","Melbikomas UAB",17
 "AS9269","Hong Kong Broadband Network Ltd",17
+"AS12400","Partner Communications Ltd.",16
 "AS138915","Kaopu Cloud HK Limited",16
 "AS140726","China Unicom",16
 "AS150179","KAAL TECH CO., LIMITED",16
@@ -400,7 +401,6 @@ ASN,Organization,IP_Count
 "AS6597","Coloblox Data Centers Inc",16
 "AS8400","TELEKOM SRBIJA a.d.",16
 "AS11232","Midcontinent Communications",15
-"AS12400","Partner Communications Ltd.",15
 "AS1267","RIPE Network Coordination Centre",15
 "AS136515","Dasca Cable Services, Inc.",15
 "AS19871","Network Solutions, LLC",15
