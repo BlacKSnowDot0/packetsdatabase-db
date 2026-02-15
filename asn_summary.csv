@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88109
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22502
-"AS398324","Censys, Inc.",16899
+"AS398324","Censys, Inc.",16900
 "AS32934","Facebook, Inc.",16787
 "AS396982","Google LLC",11178
-"AS14061","DigitalOcean, LLC",9114
+"AS14061","DigitalOcean, LLC",9115
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6285
 "AS4134","Chinanet",5295
@@ -54,7 +54,7 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",820
 "AS211680","NSEC - Sistemas Informaticos, S.A.",810
 "AS8452","TE-AS",808
-"AS51115","HLL LLC",679
+"AS51115","HLL LLC",680
 "AS12876","ONLINE S.A.S.",676
 "AS4837","CHINA UNICOM China169 Backbone",662
 "AS9829","Bharat Sanchar Nigam Ltd",627
@@ -69,7 +69,7 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",485
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",453
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",454
 "AS21859","Zenlayer Inc",432
 "AS24186","RailTel Corporation of India Ltd.",415
 "AS47890","UNMANAGED LTD",408
@@ -82,7 +82,7 @@ ASN,Organization,IP_Count
 "AS8151","Uninet S.A. de C.V.",346
 "AS141718","haoxiangyun",337
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
-"AS32475","SingleHop LLC",335
+"AS32475","SingleHop LLC",336
 "AS45899","VNPT Corp",321
 "AS213613","BOTSHIELD LTD",318
 "AS214943","Railnet LLC",318
@@ -189,8 +189,8 @@ ASN,Organization,IP_Count
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS12816","Leibniz-Rechenzentrum",59
 "AS49544","i3D.net B.V",59
+"AS271597","NEW LINK CONNECT",58
 "AS20278","Nexeon Technologies, Inc.",57
-"AS271597","NEW LINK CONNECT",57
 "AS30633","Leaseweb USA, Inc.",57
 "AS48090","PPTECHNOLOGY LIMITED",56
 "AS18345","Servers Australia Pty. Ltd",55
@@ -386,6 +386,7 @@ ASN,Organization,IP_Count
 "AS9269","Hong Kong Broadband Network Ltd",17
 "AS138915","Kaopu Cloud HK Limited",16
 "AS140726","China Unicom",16
+"AS150179","KAAL TECH CO., LIMITED",16
 "AS17621","China Unicom Shanghai network",16
 "AS17639","ComClark Network & Technology Corp",16
 "AS212027","Daniel Jackson",16
@@ -402,7 +403,6 @@ ASN,Organization,IP_Count
 "AS12400","Partner Communications Ltd.",15
 "AS1267","RIPE Network Coordination Centre",15
 "AS136515","Dasca Cable Services, Inc.",15
-"AS150179","KAAL TECH CO., LIMITED",15
 "AS19871","Network Solutions, LLC",15
 "AS199414","Noah Kolossa",15
 "AS202448","MVPS LTD",15
