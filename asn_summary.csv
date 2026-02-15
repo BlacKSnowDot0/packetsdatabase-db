@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88109
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22502
-"AS398324","Censys, Inc.",16908
+"AS211298","Driftnet Ltd",22504
+"AS398324","Censys, Inc.",16910
 "AS32934","Facebook, Inc.",16787
 "AS396982","Google LLC",11180
 "AS14061","DigitalOcean, LLC",9118
@@ -30,7 +30,7 @@ ASN,Organization,IP_Count
 "AS13335","Cloudflare, Inc.",1754
 "AS49870","Alsycon B.V.",1741
 "AS214295","SKYNET NETWORK LTD",1631
-"AS209605","UAB Host Baltic",1592
+"AS209605","UAB Host Baltic",1593
 "AS36352","HostPapa",1584
 "AS398722","Censys, Inc.",1493
 "AS43260","DGN TEKNOLOJI A.S.",1447
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1076
-"AS51167","Contabo GmbH",1075
+"AS51167","Contabo GmbH",1076
 "AS20052","Arbor Networks, Inc.",921
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",884
@@ -92,7 +92,7 @@ ASN,Organization,IP_Count
 "AS210848","Telkom Internet LTD",296
 "AS18403","FPT Telecom Company",281
 "AS48090","TECHOFF SRV LIMITED",277
-"AS8560","IONOS SE",260
+"AS8560","IONOS SE",261
 "AS12389","PJSC Rostelecom",257
 "AS29066","velia.net Internetdienste GmbH",251
 "AS29484","Ruhr-Universitaet Bochum",251
@@ -189,6 +189,7 @@ ASN,Organization,IP_Count
 "AS3255","State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic an",60
 "AS12816","Leibniz-Rechenzentrum",59
 "AS49544","i3D.net B.V",59
+"AS20853","eTOP sp. z o.o.",58
 "AS271597","NEW LINK CONNECT",58
 "AS20278","Nexeon Technologies, Inc.",57
 "AS30633","Leaseweb USA, Inc.",57
@@ -196,7 +197,6 @@ ASN,Organization,IP_Count
 "AS18345","Servers Australia Pty. Ltd",55
 "AS200590","NLS Kazakhstan LLC",55
 "AS206092","Internet Utilities Europe and Asia Limited",55
-"AS20853","eTOP sp. z o.o.",55
 "AS56067","Metrabyte Co.,Ltd",55
 "AS213877","u1host ltd",54
 "AS215762","Bullet Group LTD",54
@@ -1871,6 +1871,7 @@ ASN,Organization,IP_Count
 "AS140227","Hong Kong Communications International Co., Limited",1
 "AS140384","PT BITNIAGA CIPTA GEMILANG",1
 "AS140401","PT Proxi Jaringan Nusantara",1
+"AS140402","PT. ALGA JAYA SOLUSI",1
 "AS140443","PT Herza Digital Indonesia",1
 "AS140448","PT Acces Prima Nusantara",1
 "AS140469","PT Wahyu Adidaya Network",1
