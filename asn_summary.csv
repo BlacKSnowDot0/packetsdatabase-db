@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4482
 "AS45102","Alibaba (US) Technology Co., Ltd.",4464
-"AS0","",4267
+"AS0","",4269
 "AS396998","Path Network, Inc.",3991
 "AS63949","Akamai Technologies, Inc.",3794
 "AS15169","Google LLC",3629
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1076
-"AS51167","Contabo GmbH",1073
+"AS51167","Contabo GmbH",1074
 "AS20052","Arbor Networks, Inc.",921
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",884
@@ -54,7 +54,7 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",820
 "AS211680","NSEC - Sistemas Informaticos, S.A.",810
 "AS8452","TE-AS",808
-"AS51115","HLL LLC",680
+"AS51115","HLL LLC",681
 "AS12876","ONLINE S.A.S.",676
 "AS4837","CHINA UNICOM China169 Backbone",662
 "AS9829","Bharat Sanchar Nigam Ltd",627
@@ -142,8 +142,8 @@ ASN,Organization,IP_Count
 "AS205352","KABELNET LTD",93
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",89
+"AS40676","Psychz Networks",88
 "AS8402","PJSC ""Vimpelcom""",88
-"AS40676","Psychz Networks",87
 "AS55720","Gigabit Hosting Sdn Bhd",86
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
@@ -697,6 +697,7 @@ ASN,Organization,IP_Count
 "AS56047","China Mobile Communications Corporation",6
 "AS58495","PT Parsaoran Global Datatrans",6
 "AS58519","Cloud Computing Corporation",6
+"AS61414","EDGENAP LTD",6
 "AS61461","Airtek Solutions C.A.",6
 "AS9416","Hoshin Multimedia Center Inc.",6
 "AS9873","Lao Telecommunication Public Company",6
@@ -798,7 +799,6 @@ ASN,Organization,IP_Count
 "AS59504","LLC Vpsville",5
 "AS60064","HOSTPALACE DATACENTERS LTD",5
 "AS61135","COMNET BILGI ILETISIM TEKNOLOJILERI TICARET A.S.",5
-"AS61414","EDGENAP LTD",5
 "AS62468","VpsQuan L.L.C.",5
 "AS63526","Systems Solutions & development Technologies Limited",5
 "AS786","Jisc Services Limited",5
