@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88109
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22502
-"AS398324","Censys, Inc.",16898
+"AS398324","Censys, Inc.",16899
 "AS32934","Facebook, Inc.",16787
 "AS396982","Google LLC",11178
-"AS14061","DigitalOcean, LLC",9113
+"AS14061","DigitalOcean, LLC",9114
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6285
 "AS4134","Chinanet",5295
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2828
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
-"AS202425","IP Volume inc",2234
+"AS202425","IP Volume inc",2235
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
 "AS13335","Cloudflare, Inc.",1754
@@ -78,11 +78,11 @@ ASN,Organization,IP_Count
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS7713","Telekomunikasi Indonesia (PT)",369
 "AS7922","Comcast Cable Communications, LLC",358
-"AS208843","Alpha Strike Labs GmbH",347
+"AS208843","Alpha Strike Labs GmbH",348
 "AS8151","Uninet S.A. de C.V.",346
 "AS141718","haoxiangyun",337
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
-"AS32475","SingleHop LLC",333
+"AS32475","SingleHop LLC",335
 "AS45899","VNPT Corp",321
 "AS213613","BOTSHIELD LTD",318
 "AS214943","Railnet LLC",318
@@ -92,8 +92,8 @@ ASN,Organization,IP_Count
 "AS210848","Telkom Internet LTD",296
 "AS18403","FPT Telecom Company",281
 "AS48090","TECHOFF SRV LIMITED",277
+"AS8560","IONOS SE",258
 "AS12389","PJSC Rostelecom",257
-"AS8560","IONOS SE",257
 "AS29066","velia.net Internetdienste GmbH",251
 "AS29484","Ruhr-Universitaet Bochum",251
 "AS60223","Netiface Limited",251
@@ -115,7 +115,7 @@ ASN,Organization,IP_Count
 "AS4766","Korea Telecom",166
 "AS262551","Farol Telecom",165
 "AS206264","Amarutu Technology Ltd",153
-"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",148
+"AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",149
 "AS6739","VODAFONE ONO, S.A.",145
 "AS47105","Vault Dweller OU",141
 "AS13238","YANDEX LLC",138
