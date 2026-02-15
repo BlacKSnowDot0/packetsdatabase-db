@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88109
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22505
-"AS398324","Censys, Inc.",16911
+"AS398324","Censys, Inc.",16912
 "AS32934","Facebook, Inc.",16787
 "AS396982","Google LLC",11180
 "AS14061","DigitalOcean, LLC",9118
@@ -19,7 +19,7 @@ ASN,Organization,IP_Count
 "AS15169","Google LLC",3629
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3115
+"AS8075","Microsoft Corporation",3116
 "AS6939","Hurricane Electric LLC",3075
 "AS23470","ReliableSite.Net LLC",2828
 "AS213412","ONYPHE SAS",2795
@@ -41,8 +41,8 @@ ASN,Organization,IP_Count
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
+"AS51167","Contabo GmbH",1080
 "AS201401","NewVM B.V.",1077
-"AS51167","Contabo GmbH",1077
 "AS208684","BHA CONSEIL SARL",1076
 "AS20052","Arbor Networks, Inc.",921
 "AS51852","Private Layer INC",907
@@ -59,7 +59,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",662
 "AS9829","Bharat Sanchar Nigam Ltd",627
 "AS201814","MEVSPACE sp. z o.o.",613
-"AS9009","M247 Europe SRL",604
+"AS9009","M247 Europe SRL",605
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",592
 "AS53667","FranTech Solutions",582
