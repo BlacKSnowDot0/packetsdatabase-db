@@ -56,7 +56,7 @@ ASN,Organization,IP_Count
 "AS8452","TE-AS",808
 "AS51115","HLL LLC",678
 "AS12876","ONLINE S.A.S.",676
-"AS4837","CHINA UNICOM China169 Backbone",661
+"AS4837","CHINA UNICOM China169 Backbone",662
 "AS9829","Bharat Sanchar Nigam Ltd",627
 "AS201814","MEVSPACE sp. z o.o.",613
 "AS9009","M247 Europe SRL",604
@@ -806,6 +806,7 @@ ASN,Organization,IP_Count
 "AS8345","JSC ""ER-Telecom Holding""",5
 "AS8359","MTS PJSC",5
 "AS8648","dogado GmbH",5
+"AS9329","Sri Lanka Telecom Ltd",5
 "AS9506","Singapore Telecommunications Ltd, Magix Services",5
 "AS9674","Far EastTone Telecommunication Co., Ltd.",5
 "AS10620","Telmex Colombia S.A.",4
@@ -926,7 +927,6 @@ ASN,Organization,IP_Count
 "AS8376","Jordan Data Communications Company LLC",4
 "AS8866","Vivacom Bulgaria EAD",4
 "AS9260","Multinet Broadband",4
-"AS9329","Sri Lanka Telecom Ltd",4
 "AS9335","CAT Telecom Public Company Limited",4
 "AS979","NetLab Global",4
 "AS9845","LG HelloVision Corp.",4
