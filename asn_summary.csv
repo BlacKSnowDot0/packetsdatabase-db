@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88109
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22500
+"AS211298","Driftnet Ltd",22501
 "AS398324","Censys, Inc.",16888
 "AS32934","Facebook, Inc.",16787
 "AS396982","Google LLC",11177
-"AS14061","DigitalOcean, LLC",9109
+"AS14061","DigitalOcean, LLC",9110
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6282
 "AS4134","Chinanet",5295
@@ -82,7 +82,7 @@ ASN,Organization,IP_Count
 "AS8151","Uninet S.A. de C.V.",346
 "AS141718","haoxiangyun",337
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
-"AS32475","SingleHop LLC",330
+"AS32475","SingleHop LLC",332
 "AS45899","VNPT Corp",321
 "AS213613","BOTSHIELD LTD",318
 "AS214943","Railnet LLC",318
@@ -427,6 +427,7 @@ ASN,Organization,IP_Count
 "AS1221","Telstra Limited",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS213438","ColocaTel Inc.",14
+"AS24445","China Mobile",14
 "AS266015","JC2000 Telecomunicações Ltda",14
 "AS37105","RAIN GROUP HOLDINGS (PTY) LTD",14
 "AS37611","Afrihost (Pty) Ltd",14
@@ -446,7 +447,6 @@ ASN,Organization,IP_Count
 "AS2116","GLOBALCONNECT AS",13
 "AS213194","Nechaev Dmitry Sergeevich",13
 "AS24309","Atria Convergence Technologies Pvt. Ltd.,",13
-"AS24445","China Mobile",13
 "AS25369","Hydra Communications Ltd",13
 "AS272928","P&C ON LINE S.R.L. (NETWAY INTERNET)",13
 "AS27747","Telecentro S.A.",13
@@ -478,6 +478,7 @@ ASN,Organization,IP_Count
 "AS142032","High Family Technology Co., Limited",11
 "AS17552","TRUE INTERNET CORPORATION CO. LTD.",11
 "AS17676","SoftBank Corp.",11
+"AS204861","Codisa Telco Solutions S.L.",11
 "AS205119","TELEKS DOOEL Skopje",11
 "AS206804","EstNOC OY",11
 "AS212815","Dyjix SAS",11
@@ -494,7 +495,6 @@ ASN,Organization,IP_Count
 "AS149359","PT Persada Data Multimedia",10
 "AS153443","VPSRE.NET LLC",10
 "AS199739","Earthlink Telecommunications Equipment Trading & Services DMCC",10
-"AS204861","Codisa Telco Solutions S.L.",10
 "AS206262","TelKos L.L.C",10
 "AS24835","Vodafone Data - Egypt",10
 "AS2516","KDDI CORPORATION",10
