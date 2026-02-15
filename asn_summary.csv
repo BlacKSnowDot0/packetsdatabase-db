@@ -5,7 +5,7 @@ ASN,Organization,IP_Count
 "AS398324","Censys, Inc.",16888
 "AS32934","Facebook, Inc.",16787
 "AS396982","Google LLC",11177
-"AS14061","DigitalOcean, LLC",9110
+"AS14061","DigitalOcean, LLC",9111
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6282
 "AS4134","Chinanet",5295
@@ -20,7 +20,7 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3114
-"AS6939","Hurricane Electric LLC",3074
+"AS6939","Hurricane Electric LLC",3075
 "AS23470","ReliableSite.Net LLC",2827
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
@@ -223,10 +223,10 @@ ASN,Organization,IP_Count
 "AS46844","Sharktech",44
 "AS4760","PCCW IMS Limited",44
 "AS152194","CTG Server Limited",43
+"AS5089","Virgin Media Limited",43
 "AS214497","Whitelabel Solutions, Ltd.",42
 "AS262378","Compuservice Empreendimentos Ltda",42
 "AS26599","TELEFÔNICA BRASIL S.A",42
-"AS5089","Virgin Media Limited",42
 "AS55836","Reliance Jio Infocomm Limited",42
 "AS9123","TimeWeb Ltd.",42
 "AS204834","Shabakieh Isfahan Co PJSC",41
@@ -678,6 +678,7 @@ ASN,Organization,IP_Count
 "AS27983","Red Intercable Digital S.A.",6
 "AS30753","FHU ""COMPOWER"" Dariusz Krocz",6
 "AS33588","Charter Communications",6
+"AS34224","Neterra Ltd.",6
 "AS34700","MAXNET TELECOM, LTD",6
 "AS36884","Wana Corporate",6
 "AS36905","Creolink Communications",6
@@ -762,7 +763,6 @@ ASN,Organization,IP_Count
 "AS329244","Connect, Surf and Smile Limited",5
 "AS3326","PRIVATE JOINT STOCK COMPANY ""DATAGROUP""",5
 "AS33647","Yadkin Valley Telephone",5
-"AS34224","Neterra Ltd.",5
 "AS34343","Eweka Internet Services B.V.",5
 "AS35682","BEST INTERNET SOLUTION XK",5
 "AS36914","Kenya Education Network",5
