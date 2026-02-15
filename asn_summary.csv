@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4482
 "AS45102","Alibaba (US) Technology Co., Ltd.",4464
-"AS0","",4264
+"AS0","",4265
 "AS396998","Path Network, Inc.",3991
 "AS63949","Akamai Technologies, Inc.",3794
 "AS15169","Google LLC",3629
@@ -59,7 +59,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",661
 "AS9829","Bharat Sanchar Nigam Ltd",627
 "AS201814","MEVSPACE sp. z o.o.",613
-"AS9009","M247 Europe SRL",603
+"AS9009","M247 Europe SRL",604
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",592
 "AS53667","FranTech Solutions",582
@@ -91,7 +91,7 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS18403","FPT Telecom Company",281
-"AS48090","TECHOFF SRV LIMITED",276
+"AS48090","TECHOFF SRV LIMITED",277
 "AS12389","PJSC Rostelecom",257
 "AS8560","IONOS SE",255
 "AS29066","velia.net Internetdienste GmbH",251
@@ -152,13 +152,14 @@ ASN,Organization,IP_Count
 "AS56046","China Mobile Communications Corporation",80
 "AS3920","ESTOXY OU",78
 "AS150263","PT Alnet Telekomunikasi Indonesia",77
+"AS55803","Hostopia Australia Web Pty Ltd",77
 "AS210644","AEZA INTERNATIONAL LTD",76
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",76
 "AS31898","Oracle Corporation",76
-"AS55803","Hostopia Australia Web Pty Ltd",76
 "AS2856","British Telecommunications PLC",75
 "AS44477","STARK INDUSTRIES SOLUTIONS LTD",75
+"AS150008","Pioneer Elabs Ltd.",73
 "AS57588","Hayat for Internet & communication LLC",73
 "AS134041","Ncore Creative Technologies Pvt.Ltd.",71
 "AS20001","Charter Communications Inc",71
@@ -830,7 +831,6 @@ ASN,Organization,IP_Count
 "AS142036","Hosteons Pte. Ltd.",4
 "AS147293","NEAROUTE LIMITED",4
 "AS14754","Telgua",4
-"AS150008","Pioneer Elabs Ltd.",4
 "AS151576","PT Mahawira Nusantara Grup",4
 "AS15735","GO p.l.c.",4
 "AS15774","Limited Liability Company ""TTK-Svyaz""",4
