@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88109
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22505
-"AS398324","Censys, Inc.",16914
+"AS398324","Censys, Inc.",16915
 "AS32934","Facebook, Inc.",16787
 "AS396982","Google LLC",11181
-"AS14061","DigitalOcean, LLC",9119
+"AS14061","DigitalOcean, LLC",9120
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6289
 "AS4134","Chinanet",5295
@@ -13,7 +13,7 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4482
 "AS45102","Alibaba (US) Technology Co., Ltd.",4464
-"AS0","",4274
+"AS0","",4275
 "AS396998","Path Network, Inc.",3991
 "AS63949","Akamai Technologies, Inc.",3794
 "AS15169","Google LLC",3629
@@ -80,8 +80,8 @@ ASN,Organization,IP_Count
 "AS7922","Comcast Cable Communications, LLC",358
 "AS208843","Alpha Strike Labs GmbH",348
 "AS8151","Uninet S.A. de C.V.",346
-"AS32475","SingleHop LLC",341
-"AS141718","haoxiangyun",337
+"AS32475","SingleHop LLC",342
+"AS141718","haoxiangyun",338
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
 "AS45899","VNPT Corp",321
 "AS213613","BOTSHIELD LTD",318
@@ -503,6 +503,7 @@ ASN,Organization,IP_Count
 "AS262459","Osirnet Info Telecom Ltda.",10
 "AS266702","MEGALINK S.R.L.",10
 "AS328471","HERO TELECOMS (PTY) LTD",10
+"AS35916","MULTACOM CORPORATION",10
 "AS37705","TOPNET",10
 "AS39891","Saudi Telecom Company JSC",10
 "AS41420","Xentech B.V.",10
@@ -531,7 +532,6 @@ ASN,Organization,IP_Count
 "AS24955","JSC ""Ufanet""",9
 "AS267280","YELLOW CONNECT MULTIMIDIA LTDA ME",9
 "AS30722","Vodafone Italia S.p.A.",9
-"AS35916","MULTACOM CORPORATION",9
 "AS36924","GVA Cote d'Ivoire SAS",9
 "AS38880","Micron21 Datacentre Pty Ltd",9
 "AS395954","Leaseweb USA, Inc.",9
