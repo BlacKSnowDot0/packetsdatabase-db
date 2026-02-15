@@ -2,10 +2,10 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88109
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22502
-"AS398324","Censys, Inc.",16904
+"AS398324","Censys, Inc.",16906
 "AS32934","Facebook, Inc.",16787
 "AS396982","Google LLC",11179
-"AS14061","DigitalOcean, LLC",9115
+"AS14061","DigitalOcean, LLC",9116
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6285
 "AS4134","Chinanet",5295
@@ -92,7 +92,7 @@ ASN,Organization,IP_Count
 "AS210848","Telkom Internet LTD",296
 "AS18403","FPT Telecom Company",281
 "AS48090","TECHOFF SRV LIMITED",277
-"AS8560","IONOS SE",258
+"AS8560","IONOS SE",260
 "AS12389","PJSC Rostelecom",257
 "AS29066","velia.net Internetdienste GmbH",251
 "AS29484","Ruhr-Universitaet Bochum",251
@@ -409,6 +409,7 @@ ASN,Organization,IP_Count
 "AS202520","SkyPass Solutions Sp. z.o.o.",15
 "AS211619","MAXKO d.o.o.",15
 "AS214209","Internet Magnate (Pty) Ltd",15
+"AS24445","China Mobile",15
 "AS263767","CORPORACIÓN GALA IT, C.A.",15
 "AS269076","L DA COSTA SILVA COMUNICACOES",15
 "AS272547","Servicos de Infraestrutura e Datacenter",15
@@ -428,7 +429,6 @@ ASN,Organization,IP_Count
 "AS1221","Telstra Limited",14
 "AS204104","Giti Secure Cloud LLC",14
 "AS213438","ColocaTel Inc.",14
-"AS24445","China Mobile",14
 "AS266015","JC2000 Telecomunicações Ltda",14
 "AS37105","RAIN GROUP HOLDINGS (PTY) LTD",14
 "AS37611","Afrihost (Pty) Ltd",14
