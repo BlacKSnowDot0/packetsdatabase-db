@@ -1,13 +1,13 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88109
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22496
-"AS398324","Censys, Inc.",16871
+"AS211298","Driftnet Ltd",22499
+"AS398324","Censys, Inc.",16872
 "AS32934","Facebook, Inc.",16787
 "AS396982","Google LLC",11175
 "AS14061","DigitalOcean, LLC",9108
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6278
+"AS16276","OVH SAS",6279
 "AS4134","Chinanet",5295
 "AS16509","Amazon.com, Inc.",4568
 "AS6568","Entel S.A. - EntelNet",4537
@@ -20,11 +20,11 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3112
-"AS6939","Hurricane Electric LLC",3070
+"AS6939","Hurricane Electric LLC",3071
 "AS23470","ReliableSite.Net LLC",2827
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
-"AS202425","IP Volume inc",2231
+"AS202425","IP Volume inc",2232
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
 "AS13335","Cloudflare, Inc.",1754
@@ -43,7 +43,7 @@ ASN,Organization,IP_Count
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS201401","NewVM B.V.",1077
 "AS208684","BHA CONSEIL SARL",1076
-"AS51167","Contabo GmbH",1066
+"AS51167","Contabo GmbH",1068
 "AS20052","Arbor Networks, Inc.",921
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",884
@@ -51,7 +51,7 @@ ASN,Organization,IP_Count
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
 "AS10439","CariNet, Inc.",824
-"AS14618","Amazon.com, Inc.",818
+"AS14618","Amazon.com, Inc.",820
 "AS211680","NSEC - Sistemas Informaticos, S.A.",810
 "AS8452","TE-AS",808
 "AS12876","ONLINE S.A.S.",676
@@ -81,8 +81,8 @@ ASN,Organization,IP_Count
 "AS8151","Uninet S.A. de C.V.",346
 "AS208843","Alpha Strike Labs GmbH",345
 "AS134771","WENZHOU, ZHEJIANG Province, P.R.China.",336
-"AS141718","haoxiangyun",333
-"AS32475","SingleHop LLC",325
+"AS141718","haoxiangyun",334
+"AS32475","SingleHop LLC",326
 "AS45899","VNPT Corp",321
 "AS213613","BOTSHIELD LTD",318
 "AS214943","Railnet LLC",318
@@ -113,7 +113,7 @@ ASN,Organization,IP_Count
 "AS401116","Nybula LLC",170
 "AS14956","RouterHosting LLC",169
 "AS4766","Korea Telecom",165
-"AS262551","Farol Telecom",163
+"AS262551","Farol Telecom",164
 "AS206264","Amarutu Technology Ltd",153
 "AS142019","GZ REMITTANCE (CHINA) INDUSTRY LIMITED",147
 "AS6739","VODAFONE ONO, S.A.",145
@@ -138,8 +138,8 @@ ASN,Organization,IP_Count
 "AS136435","ELITE COMMUNICATION",102
 "AS45753","Netsec Limited",98
 "AS63018","Dedicated.com",97
+"AS200514","KnownSRV Ltd.",93
 "AS205352","KABELNET LTD",93
-"AS200514","KnownSRV Ltd.",92
 "AS210125","PRIAM NET Sh.p.k.",89
 "AS22884","TOTAL PLAY TELECOMUNICACIONES SA DE CV",89
 "AS8402","PJSC ""Vimpelcom""",88
