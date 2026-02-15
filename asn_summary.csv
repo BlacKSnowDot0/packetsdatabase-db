@@ -2,9 +2,9 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88109
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22500
-"AS398324","Censys, Inc.",16879
+"AS398324","Censys, Inc.",16881
 "AS32934","Facebook, Inc.",16787
-"AS396982","Google LLC",11176
+"AS396982","Google LLC",11177
 "AS14061","DigitalOcean, LLC",9109
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6282
@@ -24,7 +24,7 @@ ASN,Organization,IP_Count
 "AS23470","ReliableSite.Net LLC",2827
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
-"AS202425","IP Volume inc",2232
+"AS202425","IP Volume inc",2233
 "AS9808","China Mobile",2091
 "AS32475","Internap Holding LLC",1787
 "AS13335","Cloudflare, Inc.",1754
@@ -231,9 +231,9 @@ ASN,Organization,IP_Count
 "AS9123","TimeWeb Ltd.",42
 "AS204834","Shabakieh Isfahan Co PJSC",41
 "AS4538","China Education and Research Network Center",41
+"AS197540","netcup GmbH",40
 "AS27699","TELEFÔNICA BRASIL S.A",40
 "AS43641","SOLLUTIUM EU Sp z.o.o.",40
-"AS197540","netcup GmbH",39
 "AS329009","Spectrum Internet Service Ltd",39
 "AS38623","VIETTEL (CAMBODIA) PTE., LTD",39
 "AS45090","Shenzhen Tencent Computer Systems Company Limited",39
@@ -643,7 +643,9 @@ ASN,Organization,IP_Count
 "AS9658","Eastern Telecommunications Philippines, Inc.",7
 "AS9981","Saero Network Service LTD",7
 "AS11562","Net Uno, C.A.",6
+"AS131090","CAT Telecom Public Company Limited",6
 "AS131267","Star Telecom",6
+"AS131414","Long Van Soft Solution JSC",6
 "AS132116","Ani Network Pvt Ltd",6
 "AS135523","Multinet Broadband",6
 "AS136188","NINGBO, ZHEJIANG Province, P.R.China.",6
@@ -699,8 +701,6 @@ ASN,Organization,IP_Count
 "AS10429","TELEFÔNICA BRASIL S.A",5
 "AS11492","CABLE ONE, INC.",5
 "AS12714","PJSC MegaFon",5
-"AS131090","CAT Telecom Public Company Limited",5
-"AS131414","Long Van Soft Solution JSC",5
 "AS13188","CONTENT DELIVERY NETWORK LTD",5
 "AS13285","TalkTalk Communications Limited",5
 "AS13489","EPM Telecomunicaciones S.A. E.S.P.",5
