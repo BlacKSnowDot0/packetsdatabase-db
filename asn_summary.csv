@@ -2,12 +2,12 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88109
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22502
-"AS398324","Censys, Inc.",16893
+"AS398324","Censys, Inc.",16898
 "AS32934","Facebook, Inc.",16787
 "AS396982","Google LLC",11178
-"AS14061","DigitalOcean, LLC",9112
+"AS14061","DigitalOcean, LLC",9113
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6284
+"AS16276","OVH SAS",6285
 "AS4134","Chinanet",5295
 "AS16509","Amazon.com, Inc.",4568
 "AS6568","Entel S.A. - EntelNet",4537
@@ -21,7 +21,7 @@ ASN,Organization,IP_Count
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3114
 "AS6939","Hurricane Electric LLC",3075
-"AS23470","ReliableSite.Net LLC",2827
+"AS23470","ReliableSite.Net LLC",2828
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
 "AS202425","IP Volume inc",2234
@@ -54,7 +54,7 @@ ASN,Organization,IP_Count
 "AS14618","Amazon.com, Inc.",820
 "AS211680","NSEC - Sistemas Informaticos, S.A.",810
 "AS8452","TE-AS",808
-"AS51115","HLL LLC",678
+"AS51115","HLL LLC",679
 "AS12876","ONLINE S.A.S.",676
 "AS4837","CHINA UNICOM China169 Backbone",662
 "AS9829","Bharat Sanchar Nigam Ltd",627
@@ -69,7 +69,7 @@ ASN,Organization,IP_Count
 "AS198953","Proton66 OOO",527
 "AS140292","China Telecom",509
 "AS212238","Datacamp Limited",485
-"AS136180","Beijing Tiantexin Tech. Co., Ltd.",452
+"AS136180","Beijing Tiantexin Tech. Co., Ltd.",453
 "AS21859","Zenlayer Inc",432
 "AS24186","RailTel Corporation of India Ltd.",415
 "AS47890","UNMANAGED LTD",408
@@ -276,13 +276,13 @@ ASN,Organization,IP_Count
 "AS200593","PROSPERO OOO",30
 "AS214417","Andrii Hrosh",30
 "AS24560","Bharti Airtel Limited",30
+"AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",30
 "AS3269","Telecom Italia S.p.A.",30
 "AS401152","Ace Data Centers II, L.L.C.",30
 "AS4713","NTT Communications Corporation",30
 "AS6134","XNNET LLC",30
 "AS16611","InfiniaHost.com",29
 "AS209588","Flyservers S.A.",29
-"AS28267","LANTEC COMUNICACAO MULTIMIDIA LTDA",29
 "AS329490","Promethean Consulting Limited",29
 "AS8193","""Uzbektelekom"" Joint Stock Company",29
 "AS8881","1&1 Versatel Deutschland GmbH",29
