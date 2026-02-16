@@ -1,11 +1,11 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88109
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22510
-"AS398324","Censys, Inc.",16934
+"AS211298","Driftnet Ltd",22512
+"AS398324","Censys, Inc.",16939
 "AS32934","Facebook, Inc.",16787
 "AS396982","Google LLC",11183
-"AS14061","DigitalOcean, LLC",9131
+"AS14061","DigitalOcean, LLC",9132
 "AS26210","AXS Bolivia S. A.",7972
 "AS16276","OVH SAS",6295
 "AS4134","Chinanet",5296
@@ -13,14 +13,14 @@ ASN,Organization,IP_Count
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4482
 "AS45102","Alibaba (US) Technology Co., Ltd.",4466
-"AS0","",4282
+"AS0","",4285
 "AS396998","Path Network, Inc.",3991
 "AS63949","Akamai Technologies, Inc.",3794
 "AS15169","Google LLC",3629
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3120
-"AS6939","Hurricane Electric LLC",3083
+"AS8075","Microsoft Corporation",3122
+"AS6939","Hurricane Electric LLC",3085
 "AS23470","ReliableSite.Net LLC",2829
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
@@ -37,13 +37,13 @@ ASN,Organization,IP_Count
 "AS48925","VibeGAMES B.V.",1426
 "AS174","Cogent Communications",1331
 "AS215269","LAZYCLOUD LTD",1312
-"AS22552","eSited Solutions",1211
+"AS22552","eSited Solutions",1212
 "AS204428","SS-Net",1182
 "AS399045","DediOutlet, LLC",1142
 "AS212512","Detai Prosperous Technologies Limited",1138
 "AS51167","Contabo GmbH",1086
 "AS201401","NewVM B.V.",1077
-"AS208684","BHA CONSEIL SARL",1076
+"AS208684","BHA CONSEIL SARL",1077
 "AS20052","Arbor Networks, Inc.",921
 "AS51852","Private Layer INC",907
 "AS208046","ColocationX Ltd.",886
@@ -91,7 +91,7 @@ ASN,Organization,IP_Count
 "AS9341","PT Indonesia Comnets Plus",297
 "AS210848","Telkom Internet LTD",296
 "AS18403","FPT Telecom Company",281
-"AS48090","TECHOFF SRV LIMITED",277
+"AS48090","TECHOFF SRV LIMITED",278
 "AS8560","IONOS SE",264
 "AS12389","PJSC Rostelecom",258
 "AS29066","velia.net Internetdienste GmbH",251
@@ -106,7 +106,7 @@ ASN,Organization,IP_Count
 "AS19905","Neustar Security Services",216
 "AS63199","CDS Global Cloud Co., Ltd",215
 "AS34984","Superonline Iletisim Hizmetleri A.S.",207
-"AS42237","w1n ltd",190
+"AS42237","w1n ltd",191
 "AS7552","Viettel Group",187
 "AS30083","velia.net",178
 "AS215240","Silent Connection Ltd.",175
@@ -120,7 +120,7 @@ ASN,Organization,IP_Count
 "AS47105","Vault Dweller OU",141
 "AS13238","YANDEX LLC",139
 "AS151185","China Telecom",132
-"AS396356","Latitude.sh",131
+"AS396356","Latitude.sh",132
 "AS137409","GSL Networks Pty LTD",129
 "AS28573","Claro NXT Telecomunicacoes Ltda",125
 "AS36007","Kamatera, Inc.",122
@@ -148,7 +148,7 @@ ASN,Organization,IP_Count
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
 "AS200019","ALEXHOST SRL",83
-"AS55803","Hostopia Australia Web Pty Ltd",82
+"AS55803","Hostopia Australia Web Pty Ltd",83
 "AS22773","Cox Communications Inc.",81
 "AS56046","China Mobile Communications Corporation",80
 "AS3920","ESTOXY OU",78
@@ -376,6 +376,7 @@ ASN,Organization,IP_Count
 "AS19901","Brightspeed",17
 "AS20011","Dimension Data",17
 "AS22612","Namecheap, Inc.",17
+"AS24445","China Mobile",17
 "AS24812","NPK Home-Net Ltd.",17
 "AS25019","Saudi Telecom Company JSC",17
 "AS3215","Orange S.A.",17
@@ -392,7 +393,6 @@ ASN,Organization,IP_Count
 "AS17639","ComClark Network & Technology Corp",16
 "AS212027","Daniel Jackson",16
 "AS214309","Aurorix Gaming Solutions Limited",16
-"AS24445","China Mobile",16
 "AS25198","INTERKVM HOST SRL",16
 "AS328539","Giga for Telecommunication and Technology Limited",16
 "AS3352","TELEFONICA DE ESPANA S.A.U.",16
@@ -458,6 +458,7 @@ ASN,Organization,IP_Count
 "AS9770","LG HelloVision Corp.",13
 "AS11172","Alestra, S. de R.L. de C.V.",12
 "AS12271","Charter Communications Inc",12
+"AS204861","Codisa Telco Solutions S.L.",12
 "AS2637","Georgia Institute of Technology",12
 "AS35042","Layer7 Networks GmbH",12
 "AS35297","Dataline LLC",12
@@ -479,7 +480,6 @@ ASN,Organization,IP_Count
 "AS142032","High Family Technology Co., Limited",11
 "AS17552","TRUE INTERNET CORPORATION CO. LTD.",11
 "AS17676","SoftBank Corp.",11
-"AS204861","Codisa Telco Solutions S.L.",11
 "AS205119","TELEKS DOOEL Skopje",11
 "AS206804","EstNOC OY",11
 "AS212815","Dyjix SAS",11
