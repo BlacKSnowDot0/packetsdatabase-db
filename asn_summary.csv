@@ -2,24 +2,24 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88109
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22512
-"AS398324","Censys, Inc.",16939
+"AS398324","Censys, Inc.",16943
 "AS32934","Facebook, Inc.",16787
 "AS396982","Google LLC",11183
 "AS14061","DigitalOcean, LLC",9132
 "AS26210","AXS Bolivia S. A.",7972
-"AS16276","OVH SAS",6295
+"AS16276","OVH SAS",6296
 "AS4134","Chinanet",5296
 "AS16509","Amazon.com, Inc.",4568
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4482
-"AS45102","Alibaba (US) Technology Co., Ltd.",4466
-"AS0","",4285
+"AS45102","Alibaba (US) Technology Co., Ltd.",4467
+"AS0","",4286
 "AS396998","Path Network, Inc.",3991
 "AS63949","Akamai Technologies, Inc.",3794
 "AS15169","Google LLC",3629
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
-"AS8075","Microsoft Corporation",3122
+"AS8075","Microsoft Corporation",3124
 "AS6939","Hurricane Electric LLC",3085
 "AS23470","ReliableSite.Net LLC",2829
 "AS213412","ONYPHE SAS",2795
@@ -50,8 +50,8 @@ ASN,Organization,IP_Count
 "AS215925","VPSVAULT.HOST LTD",873
 "AS9465","AGOTOZ PTE. LTD.",845
 "AS56042","China Mobile Communications Corporation",840
-"AS10439","CariNet, Inc.",825
-"AS14618","Amazon.com, Inc.",820
+"AS10439","CariNet, Inc.",826
+"AS14618","Amazon.com, Inc.",821
 "AS211680","NSEC - Sistemas Informaticos, S.A.",810
 "AS8452","TE-AS",808
 "AS51115","HLL LLC",683
@@ -59,7 +59,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",662
 "AS9829","Bharat Sanchar Nigam Ltd",628
 "AS201814","MEVSPACE sp. z o.o.",613
-"AS9009","M247 Europe SRL",606
+"AS9009","M247 Europe SRL",607
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",593
 "AS53667","FranTech Solutions",582
@@ -102,8 +102,8 @@ ASN,Organization,IP_Count
 "AS12555","Data-center IMAQLIQ Ltd.",224
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",220
+"AS19905","Neustar Security Services",217
 "AS50219","LNK SYSTEMS MUNTENIA SRL",217
-"AS19905","Neustar Security Services",216
 "AS63199","CDS Global Cloud Co., Ltd",215
 "AS34984","Superonline Iletisim Hizmetleri A.S.",207
 "AS42237","w1n ltd",191
@@ -119,8 +119,8 @@ ASN,Organization,IP_Count
 "AS6739","VODAFONE ONO, S.A.",145
 "AS47105","Vault Dweller OU",141
 "AS13238","YANDEX LLC",139
+"AS396356","Latitude.sh",134
 "AS151185","China Telecom",132
-"AS396356","Latitude.sh",132
 "AS137409","GSL Networks Pty LTD",129
 "AS28573","Claro NXT Telecomunicacoes Ltda",125
 "AS36007","Kamatera, Inc.",122
@@ -183,6 +183,7 @@ ASN,Organization,IP_Count
 "AS202796","JSR IT B.V.",62
 "AS263025","ISPTEC Sistemas de Comunicação Eireli",62
 "AS28546","Servnet Mexico, S.A. de C.V.",62
+"AS135345","NewMountainView Satellite Corporation",61
 "AS140717","China Unicom",61
 "AS4812","China Telecom (Group)",61
 "AS137172","ALL CONNECT NETWORK SERVICES PRIVATE LIMITED",60
