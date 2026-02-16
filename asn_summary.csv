@@ -1,8 +1,8 @@
 ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88109
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
-"AS211298","Driftnet Ltd",22509
-"AS398324","Censys, Inc.",16928
+"AS211298","Driftnet Ltd",22510
+"AS398324","Censys, Inc.",16934
 "AS32934","Facebook, Inc.",16787
 "AS396982","Google LLC",11183
 "AS14061","DigitalOcean, LLC",9131
@@ -12,8 +12,8 @@ ASN,Organization,IP_Count
 "AS16509","Amazon.com, Inc.",4568
 "AS6568","Entel S.A. - EntelNet",4537
 "AS58466","CHINANET Guangdong province network",4482
-"AS45102","Alibaba (US) Technology Co., Ltd.",4465
-"AS0","",4281
+"AS45102","Alibaba (US) Technology Co., Ltd.",4466
+"AS0","",4282
 "AS396998","Path Network, Inc.",3991
 "AS63949","Akamai Technologies, Inc.",3794
 "AS15169","Google LLC",3629
@@ -59,7 +59,7 @@ ASN,Organization,IP_Count
 "AS4837","CHINA UNICOM China169 Backbone",662
 "AS9829","Bharat Sanchar Nigam Ltd",628
 "AS201814","MEVSPACE sp. z o.o.",613
-"AS9009","M247 Europe SRL",605
+"AS9009","M247 Europe SRL",606
 "AS211849","Kakharov Orinbassar Maratuly",596
 "AS3462","Chunghwa Telecom Co., Ltd.",593
 "AS53667","FranTech Solutions",582
@@ -78,7 +78,7 @@ ASN,Organization,IP_Count
 "AS197414","XHOST INTERNET SOLUTIONS LP",389
 "AS7713","Telekomunikasi Indonesia (PT)",369
 "AS7922","Comcast Cable Communications, LLC",358
-"AS208843","Alpha Strike Labs GmbH",349
+"AS208843","Alpha Strike Labs GmbH",350
 "AS32475","SingleHop LLC",346
 "AS8151","Uninet S.A. de C.V.",346
 "AS141718","haoxiangyun",339
