@@ -2,7 +2,7 @@ ASN,Organization,IP_Count
 "AS135377","UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",88109
 "AS49581","Ferdinand Zink trading as Tube-Hosting",70585
 "AS211298","Driftnet Ltd",22509
-"AS398324","Censys, Inc.",16925
+"AS398324","Censys, Inc.",16928
 "AS32934","Facebook, Inc.",16787
 "AS396982","Google LLC",11183
 "AS14061","DigitalOcean, LLC",9131
@@ -20,11 +20,11 @@ ASN,Organization,IP_Count
 "AS51396","Pfcloud UG",3268
 "AS398705","Censys, Inc.",3238
 "AS8075","Microsoft Corporation",3120
-"AS6939","Hurricane Electric LLC",3082
+"AS6939","Hurricane Electric LLC",3083
 "AS23470","ReliableSite.Net LLC",2829
 "AS213412","ONYPHE SAS",2795
 "AS142002","Scloud Pte Ltd",2623
-"AS202425","IP Volume inc",2242
+"AS202425","IP Volume inc",2243
 "AS9808","China Mobile",2092
 "AS32475","Internap Holding LLC",1787
 "AS13335","Cloudflare, Inc.",1754
@@ -103,7 +103,7 @@ ASN,Organization,IP_Count
 "AS212889","Al wafai International For Communication and Information Technology LLC",222
 "AS14987","Rethem Hosting LLC",220
 "AS50219","LNK SYSTEMS MUNTENIA SRL",217
-"AS19905","Neustar Security Services",215
+"AS19905","Neustar Security Services",216
 "AS63199","CDS Global Cloud Co., Ltd",215
 "AS34984","Superonline Iletisim Hizmetleri A.S.",207
 "AS42237","w1n ltd",190
@@ -135,7 +135,7 @@ ASN,Organization,IP_Count
 "AS23724","IDC, China Telecommunications Corporation",105
 "AS28209","Under Servicos de Internet Ltda",105
 "AS16735","ALGAR TELECOM S/A",104
-"AS136435","ELITE COMMUNICATION",102
+"AS136435","ELITE COMMUNICATION",103
 "AS45753","Netsec Limited",98
 "AS63018","Dedicated.com",97
 "AS200514","KnownSRV Ltd.",93
@@ -148,8 +148,8 @@ ASN,Organization,IP_Count
 "AS271795","SERVITELCONET CIA. LTDA.",85
 "AS58461","Chinanet",85
 "AS200019","ALEXHOST SRL",83
+"AS55803","Hostopia Australia Web Pty Ltd",82
 "AS22773","Cox Communications Inc.",81
-"AS55803","Hostopia Australia Web Pty Ltd",81
 "AS56046","China Mobile Communications Corporation",80
 "AS3920","ESTOXY OU",78
 "AS150263","PT Alnet Telekomunikasi Indonesia",77
@@ -157,8 +157,8 @@ ASN,Organization,IP_Count
 "AS211736","FOP Dmytro Nedilskyi",76
 "AS27882","Telefónica Celular de Bolivia S.A.",76
 "AS31898","Oracle Corporation",76
+"AS44477","STARK INDUSTRIES SOLUTIONS LTD",76
 "AS2856","British Telecommunications PLC",75
-"AS44477","STARK INDUSTRIES SOLUTIONS LTD",75
 "AS150008","Pioneer Elabs Ltd.",73
 "AS57588","Hayat for Internet & communication LLC",73
 "AS134041","Ncore Creative Technologies Pvt.Ltd.",71
